@@ -1,6 +1,6 @@
 # Census-MCP-Server
 
-> **Disclaimer: This is an independent project and is not officially affiliated with or endorsed by the U.S. Census Bureau. All data is sourced from publicly available Census Bureau APIs. No Census seals, logos, or branding are used. Any opinions or other statements expressed are the authors own and do not necessarily reflect his employer's**
+> **Disclaimer: This is an independent project and is not officially affiliated with or endorsed by the U.S. Census Bureau. All data is sourced from publicly available Census Bureau APIs with endpoint versions pinned to current releases. No Census seals, logos, or branding are used in compliance with Title 13 restrictions. Any views expressed are those of the authors and not those of the U.S. Census Bureau.**
 
 ## Census in Your Pocket 📱
 
@@ -27,16 +27,25 @@ U.S. Census data is incredibly valuable but has a steep learning curve for non-s
 
 ```mermaid
 graph LR
-    A["User Question: Poverty rate in rural counties?"] --> B["AI Assistant (Claude, etc.)"]
+    A["User Question: Poverty rate in rural counties?"] --> B["AI Assistant (ChatGPT, Claude, Gemini, etc.)"]
     B --> C["Census MCP Server (Domain Expertise Layer)"]
     C --> D["Python Census Package (censusdata, etc.)"]
+    C --> H["Metadata Endpoints (/variables.json)"]
     D --> E["Census Bureau API (Official Data Source)"]
+    H --> E
     E --> D
+    E --> H
     D --> C
+    H --> C
     C --> F["Interpreted Results + Context + Caveats"]
     F --> B
     B --> G["User gets accurate answer with proper interpretation"]
+    
+    style C fill:#e1f5fe
+    style F fill:#f3e5f5
 ```
+
+*Note: Complex queries may require multiple API calls and batch orchestration*
 
 ## Analogies: What This Is Like
 
@@ -49,26 +58,27 @@ graph LR
 ## Current Scope: Starting with ACS
 
 **Phase 1 Focus:** American Community Survey (ACS) 5-year estimates
-- Most commonly used Census dataset
+- Most flexible annual demographic dataset
 - Well-supported by existing Python packages
 - Covers demographics, economics, housing, social characteristics
+- *Note: 5-year estimates include every census tract and county; 1-year estimates do not*
 
 **Future Expansion:** Additional surveys (SIPP, Economic Census), geographic visualizations, multi-agency integration
 
 ## What We're Building
 
-**Smart Query Translation:** Convert natural language questions into proper Census API calls, handling geography codes, variable selection, and valid combinations.
+**Smart Query Translation:** Convert natural language questions into proper Census API calls, handling geography codes (including ambiguous place name resolution like "Springfield, IL" vs FIPS codes), variable selection (mapping B19013_001E → "Median household income"), and valid combinations.
 
 **Domain Knowledge Integration:** Encode expertise about which data sources are appropriate for different questions, when estimates are reliable, and how to interpret results correctly.
 
-**Statistical Context:** Automatically include margins of error, suppression flags for unreliable estimates, and methodology notes where relevant.
+**Statistical Context:** Automatically include margins of error with proper propagation for both ratios and sums, suppression flags for unreliable estimates (CV ≥ 15% or estimate ≤ 50), and methodology notes where relevant.
 
 **Error Prevention:** Guide users away from common mistakes like inappropriate geographic comparisons or mismatched time periods.
 
 ## Example Use Cases
 
 - **Basic Demographics:** "Population of Miami-Dade County"
-- **Comparative Analysis:** "Compare unemployment rates between Detroit and Pittsburgh"
+- **Comparative Analysis:** "Compare unemployment rates between Detroit and Pittsburgh" *(derived from B23025 variables)*
 - **Geographic Patterns:** "Rural poverty rates across the Southeast"
 - **Time Series:** "How has median income changed in Austin since 2015?"
 
@@ -76,12 +86,13 @@ graph LR
 
 ## Architecture
 
-The system consists of four main layers:
+The system consists of five main layers:
 
 1. **AI Client Layer:** MCP-compatible assistants
 2. **MCP Server (This Project):** Domain expertise, query translation, result interpretation
-3. **Census Package Layer:** Python libraries like `censusdata` that handle API communication  
-4. **Data Source Layer:** Official U.S. Census Bureau APIs
+3. **Cache/Store Layer:** SQLite/DuckDB for repeated query optimization
+4. **Census Package Layer:** Python libraries like `censusdata` that handle API communication  
+5. **Data Source Layer:** Official U.S. Census Bureau APIs
 
 Each layer handles its specialized function, creating a maintainable system that can evolve as both AI tools and Census data infrastructure change.
 
@@ -91,17 +102,19 @@ Each layer handles its specialized function, creating a maintainable system that
 
 **Dependencies:** Python census packages (`censusdata` for ACS/decennial data, custom implementations for other surveys as needed)
 
-**Rate Limiting:** Implements caching and throttling strategies to respect Census API limits
+**Python Version:** 3.9-3.12 (tested range)
 
-**Data Integrity:** Returns only published aggregates, never record-level data
+**Rate Limiting:** Implements caching and throttling strategies to respect Census API limits (500 req/min global, 100K/day per user)
+
+**Data Integrity:** Returns only published aggregates with proper threshold flags (DP_NOTES) for unreliable tabulated data, never record-level data
 
 ## Quick Start
 
 *🚧 Implementation in Progress*
 
 ### Prerequisites
-- MCP-compatible AI client (implementation specifics TBD as MCP ecosystem evolves)
-- Python 3.9+
+- MCP-compatible AI client (reference implementations: lm-studio, ollama)
+- Python 3.9-3.12
 
 ### Future Installation
 ```bash
@@ -124,10 +137,10 @@ This project aims to democratize access to public data. We welcome contributions
 ## Roadmap
 
 - [ ] **Phase 1:** ACS 5-year estimates with basic query translation
-- [ ] **Phase 2:** Statistical rigor (MOE propagation, suppression rules)
+- [ ] **Phase 2:** Statistical rigor (MOE propagation, apply ACS CV ≥ 15% or estimate ≤ 50 as unreliable by default)
 - [ ] **Phase 3:** Additional Census surveys (SIPP, Economic Census, PEP)
 - [ ] **Phase 4:** Geographic visualization capabilities
-- [ ] **Phase 5:** Multi-agency data integration (BLS, BEA with proper crosswalks)
+- [ ] **Phase 5:** Multi-agency data integration (BLS uses CBSA codes, BEA uses BEA regions - non-trivial crosswalks required)
 
 ## Acknowledgments
 
