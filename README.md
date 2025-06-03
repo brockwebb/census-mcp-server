@@ -161,15 +161,18 @@ Built on the excellent work of:
 ---
 
 ```
-CORBA ORB                    RDF
-    ↓                         ↓
-  SOAP                      OWL
-    ↓                         ↓
-  REST                    SPARQL
-    ↓                         ↓
-GraphQL               Knowledge Graphs
-    ↓                         ↓
-   MCP ←——————————————————→ LLMs
+     RPC        DCE           RDF
+      ↓          ↓             ↓ 
+   CORBA       DCOM           OWL
+      ↓          ↓             ↓
+      └─→ SOAP ←─┘           SPARQL
+           ↓                   ↓
+         REST           Knowledge Graphs
+           ↓                   ↓
+        GraphQL                ↓
+           ↓                   ↓
+          MCP ←─────────────→ LLMs
+
 ```
 
 *"The patterns never really die, they just get better UX"*
