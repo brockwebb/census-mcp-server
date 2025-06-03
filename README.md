@@ -31,15 +31,15 @@ Census-MCP-Server creates an expert knowledge layer between AI assistants and Ce
 
 ```mermaid
 graph LR
-    A[User Question:<br/>"Poverty rate in rural counties?"] --> B[AI Assistant<br/>Claude, etc.]
-    B --> C[Census MCP Server<br/>Domain Expertise Layer]
-    C --> D[Python Census Package<br/>censusdata, etc.]
-    D --> E[Census Bureau API<br/>Official Data Source]
+    A["User Question: Poverty rate in rural counties?"] --> B["AI Assistant (Claude, etc.)"]
+    B --> C["Census MCP Server (Domain Expertise Layer)"]
+    C --> D["Python Census Package (censusdata, etc.)"]
+    D --> E["Census Bureau API (Official Data Source)"]
     E --> D
     D --> C
-    C --> F[Interpreted Results<br/>+ Context + Caveats]
+    C --> F["Interpreted Results + Context + Caveats"]
     F --> B
-    B --> G[User gets accurate answer<br/>with proper interpretation]
+    B --> G["User gets accurate answer with proper interpretation"]
 ```
 
 ## Analogies: What This Is Like
