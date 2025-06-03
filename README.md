@@ -1,6 +1,6 @@
 # Census-MCP-Server
 
-> **Disclaimer: This is an independent project and is not officially affiliated with or endorsed by the U.S. Census Bureau. All data is sourced from publicly available Census Bureau APIs with endpoint versions pinned to current releases. No Census seals, logos, or branding are used in compliance with Title 13 restrictions. Any views expressed are those of the authors and not those of the U.S. Census Bureau.**
+> **Disclaimer: This is an independent project and is not officially affiliated with or endorsed by the U.S. Census Bureau. All data is sourced from publicly available Census Bureau APIs with endpoint versions pinned to current releases. No Census seals, logos, or branding are used in compliance with Census graphic standards. Any views expressed are those of the authors and not those of the U.S. Census Bureau.**
 
 ## Census in Your Pocket 📱
 
@@ -30,7 +30,7 @@ graph LR
     A["User Question: Poverty rate in rural counties?"] --> B["AI Assistant (ChatGPT, Claude, Gemini, etc.)"]
     B --> C["Census MCP Server (Domain Expertise Layer)"]
     C --> D["Python Census Package (censusdata, etc.)"]
-    C --> H["Metadata Endpoints (/variables.json)"]
+    C --> H["Metadata Endpoints (follows collection path, e.g., /data/{year}/acs/acs5/{collection}/variables.json where {collection} = profile, detailedprofile, comparisonprofile, or subject)"]
     D --> E["Census Bureau API (Official Data Source)"]
     H --> E
     E --> D
@@ -67,11 +67,11 @@ graph LR
 
 ## What We're Building
 
-**Smart Query Translation:** Convert natural language questions into proper Census API calls, handling geography codes (including ambiguous place name resolution like "Springfield, IL" vs FIPS codes), variable selection (mapping B19013_001E → "Median household income"), and valid combinations.
+**Smart Query Translation:** Convert natural language questions into proper Census API calls, handling geography codes (including disambiguation of ambiguous place names like "Springfield, IL" vs FIPS codes - disambiguation based on GNIS + TIGER place class with user prompting when duplicates exist, surfacing state FIPS like "Kansas City, MO `29-38000` or Kansas City, KS `20-36000`?"), variable selection (mapping B19013_001E → "Median household income"), and valid combinations.
 
 **Domain Knowledge Integration:** Encode expertise about which data sources are appropriate for different questions, when estimates are reliable, and how to interpret results correctly.
 
-**Statistical Context:** Automatically include margins of error with proper propagation for both ratios and sums, suppression flags for unreliable estimates (CV ≥ 15% or estimate ≤ 50), and methodology notes where relevant.
+**Statistical Context:** Automatically include margins of error with proper propagation hierarchy (ACS Generalized Variance Function for supported tables → replicate weights if available via local summary file download → conservative quadratic formula for API-only derived statistics), suppression handling (if estimate in {`(X)`, `-666666666`, `-333333333`, `*`} → treat as suppressed), and CV calculations with numeric guardrails and vintage lag considerations (CV computation uses latest published GVF - CVs for current vintage lag by ~1 year).
 
 **Error Prevention:** Guide users away from common mistakes like inappropriate geographic comparisons or mismatched time periods.
 
@@ -79,6 +79,7 @@ graph LR
 
 - **Basic Demographics:** "Population of Miami-Dade County"
 - **Comparative Analysis:** "Compare unemployment rates between Detroit and Pittsburgh" *(derived from B23025 variables)*
+- **Housing Statistics:** "How many renter-occupied units in Phoenix?"
 - **Geographic Patterns:** "Rural poverty rates across the Southeast"
 - **Time Series:** "How has median income changed in Austin since 2015?"
 
@@ -104,9 +105,9 @@ Each layer handles its specialized function, creating a maintainable system that
 
 **Python Version:** 3.9-3.12 (tested range)
 
-**Rate Limiting:** Implements caching and throttling strategies to respect Census API limits (500 req/min global, 100K/day per user)
+**Rate Limiting:** Implements caching and throttling strategies with exponential back-off; limits concurrent connections (≤10) and stays under ~10 req/sec (empirically ≈500/day for unauthenticated calls) with back-off on any 429/500
 
-**Data Integrity:** Returns only published aggregates with proper threshold flags (DP_NOTES) for unreliable tabulated data, never record-level data
+**Data Integrity:** Returns only published aggregates with proper suppression checking (if estimate in {`(X)`, `-666666666`, `-333333333`, `*`} → suppressed), never record-level data
 
 ## Quick Start
 
@@ -137,8 +138,8 @@ This project aims to democratize access to public data. We welcome contributions
 ## Roadmap
 
 - [ ] **Phase 1:** ACS 5-year estimates with basic query translation
-- [ ] **Phase 2:** Statistical rigor (MOE propagation, apply ACS CV ≥ 15% or estimate ≤ 50 as unreliable by default)
-- [ ] **Phase 3:** Additional Census surveys (SIPP, Economic Census, PEP)
+- [ ] **Phase 2:** Statistical rigor (MOE propagation using ACS Generalized Variance Function for ratios, CV ≥ 15% flagged as unreliable, CV ≥ 30% suppressed for small-denominator rates - GVF lag means CVs for current year appear the following spring)
+- [ ] **Phase 3:** Additional Census surveys (SIPP, Economic Census with per-sector logic and version pinning - 2017 vs 2022 vs upcoming ECB schemas, PEP - Population Estimates Program)
 - [ ] **Phase 4:** Geographic visualization capabilities
 - [ ] **Phase 5:** Multi-agency data integration (BLS uses CBSA codes, BEA uses BEA regions - non-trivial crosswalks required)
 
@@ -151,7 +152,7 @@ Built on the excellent work of:
 
 ---
 
-```
+<pre>
      RPC        DCE            RDF
       ↓          ↓              ↓ 
    CORBA       DCOM           OWL
@@ -163,6 +164,6 @@ Built on the excellent work of:
         GraphQL                ↓
            ↓                   ↓
           MCP ←─────────────→ LLMs
-```
+</pre>
 
 *"The patterns never really die, they just get better UX"*
