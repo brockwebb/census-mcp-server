@@ -1,0 +1,18 @@
+name: census-mcp
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - r-base
+  - r-tidycensus
+  - r-dplyr
+  - r-jsonlite
+  - pip
+  - pip:
+    - mcp>=1.0.0
+    - chromadb
+    - sentence-transformers
+    - numpy
+variables:
+  R_EXECUTABLE: /opt/anaconda3/envs/census-mcp/bin/Rscript
