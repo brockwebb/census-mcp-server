@@ -1,0 +1,18 @@
+{
+  "build_info": {
+    "version": "1.0",
+    "build_date": "2025-06-21T06:17:32.274952",
+    "builder": "Census MCP Semantic Index Builder",
+    "strategy": "Pareto principle optimization (4% handles 64% of queries)"
+  },
+  "performance_targets": {
+    "static_lookup_time": "<50ms",
+    "coverage_goal": "80% of common queries",
+    "fallback": "Dynamic tidycensus search for edge cases"
+  },
+  "maintenance": {
+    "refresh_schedule": "Annual (when new ACS data released)",
+    "update_command": "python scripts/build_semantic_index.py",
+    "container_rebuild": "Required after index updates"
+  }
+}

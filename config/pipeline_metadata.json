@@ -1,0 +1,62 @@
+{
+  "build_info": {
+    "version": "2.0",
+    "build_date": "2025-06-21T06:28:00.006341",
+    "builder": "AI-Optimized Census Semantic Pipeline",
+    "test_mode": false,
+    "census_year": 2022
+  },
+  "statistics": {
+    "total_census_variables": 21122,
+    "filtered_useful_variables": 10446,
+    "final_enriched_variables": 10446,
+    "filter_ratio": "49.5%",
+    "top_concepts": [
+      {
+        "concept": "Detailed Occupation by Median Earnings in the Past 12 Months (in 2022 Inflation-Adjusted Dollars) for the Full-Time, Year-Round Civilian Employed Population 16 Years and Over",
+        "variable_count": 565
+      },
+      {
+        "concept": "Detailed Occupation for the Civilian Employed Female Population 16 Years and Over",
+        "variable_count": 565
+      },
+      {
+        "concept": "Detailed Occupation for the Full-Time, Year-Round Civilian Employed Female Population 16 Years and Over",
+        "variable_count": 565
+      },
+      {
+        "concept": "Detailed Occupation for the Full-Time, Year-Round Civilian Employed Male Population 16 Years and Over",
+        "variable_count": 565
+      },
+      {
+        "concept": "Detailed Occupation for the Full-Time, Year-Round Civilian Employed Population 16 Years and Over",
+        "variable_count": 565
+      },
+      {
+        "concept": "Detailed Occupation by Median Earnings in the Past 12 Months (in 2022 Inflation-Adjusted Dollars) for the Full-Time, Year-Round Civilian Employed Female Population 16 Years and Over",
+        "variable_count": 565
+      },
+      {
+        "concept": "Detailed Occupation for the Civilian Employed Population 16 Years and Over",
+        "variable_count": 565
+      },
+      {
+        "concept": "Detailed Occupation for the Civilian Employed Male Population 16 Years and Over",
+        "variable_count": 565
+      },
+      {
+        "concept": "Detailed Occupation by Median Earnings in the Past 12 Months (in 2022 Inflation-Adjusted Dollars) for the Full-Time, Year-Round Civilian Employed Male Population 16 Years and Over",
+        "variable_count": 565
+      },
+      {
+        "concept": "Detailed Industry for the Civilian Employed Female Population 16 Years and Over",
+        "variable_count": 263
+      }
+    ]
+  },
+  "performance_targets": {
+    "lookup_time": "<50ms (local JSON/SQLite)",
+    "coverage_estimate": "10446 variables covering most AI queries",
+    "fallback": "Dynamic tidycensus search for edge cases"
+  }
+}

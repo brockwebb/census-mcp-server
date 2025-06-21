@@ -62,9 +62,9 @@ class Config:
         # Census API Configuration
         self.census_api_key = os.getenv('CENSUS_API_KEY')  # Optional but recommended
         
-        # Embedding Configuration
-        self.embedding_model = os.getenv('EMBEDDING_MODEL', 'sentence-transformers/all-MiniLM-L6-v2')
-        self.embedding_dimension = int(os.getenv('EMBEDDING_DIMENSION', '384'))
+        # Embedding Configuration - Match knowledge base build settings
+        self.embedding_model = os.getenv('EMBEDDING_MODEL', 'text-embedding-3-large')
+        self.embedding_dimension = int(os.getenv('EMBEDDING_DIMENSION', '3072'))  # text-embedding-3-large dimensions
         
         # Server Configuration
         self.log_level = os.getenv('LOG_LEVEL', 'INFO')
@@ -73,7 +73,7 @@ class Config:
         
         # Vector Search Configuration
         self.vector_search_top_k = int(os.getenv('VECTOR_SEARCH_TOP_K', '5'))
-        self.vector_search_threshold = float(os.getenv('VECTOR_SEARCH_THRESHOLD', '0.7'))
+        self.vector_search_threshold = float(os.getenv('VECTOR_SEARCH_THRESHOLD', '0.0'))  # Lowered for OpenAI embeddings
         
         # R Subprocess Configuration
         self.r_timeout = int(os.getenv('R_TIMEOUT', '120'))  # 2 minutes

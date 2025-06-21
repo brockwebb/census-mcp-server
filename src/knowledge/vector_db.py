@@ -2,7 +2,7 @@
 Vector Database and Knowledge Base for Census MCP Server
 
 Handles RAG (Retrieval-Augmented Generation) functionality using:
-- Sentence transformers for local embeddings (no API costs)
+- OpenAI embeddings for high-quality semantic search (matches knowledge base build)
 - ChromaDB for vector storage and similarity search
 - R documentation corpus processing and indexing
 - Context enrichment for Census queries
@@ -27,11 +27,11 @@ except ImportError:
     logging.warning("ChromaDB not available. Install with: pip install chromadb")
 
 try:
-    from sentence_transformers import SentenceTransformer
-    SENTENCE_TRANSFORMERS_AVAILABLE = True
+    import openai
+    OPENAI_AVAILABLE = True
 except ImportError:
-    SENTENCE_TRANSFORMERS_AVAILABLE = False
-    logging.warning("SentenceTransformers not available. Install with: pip install sentence-transformers")
+    OPENAI_AVAILABLE = False
+    logging.warning("OpenAI not available. Install with: pip install openai")
 
 from utils.config import get_config
 
@@ -42,7 +42,7 @@ class KnowledgeBase:
     Vector database and knowledge management for Census expertise.
     
     Provides:
-    - Document indexing and similarity search
+    - Document indexing and similarity search using OpenAI embeddings
     - Variable context lookup and enrichment
     - Location parsing and geographic knowledge
     - R documentation corpus integration
@@ -72,25 +72,28 @@ class KnowledgeBase:
         logger.info("Knowledge Base initialized successfully")
     
     def _init_embedding_model(self):
-        """Initialize sentence transformer for local embeddings."""
-        if not SENTENCE_TRANSFORMERS_AVAILABLE:
-            logger.error("SentenceTransformers not available. RAG functionality disabled.")
+        """Initialize OpenAI embeddings client."""
+        if not OPENAI_AVAILABLE:
+            logger.error("OpenAI not available. RAG functionality disabled.")
             self.embedding_model = None
+            self.openai_client = None
             return
         
         try:
             model_name = self.config.embedding_model
             logger.info(f"Loading embedding model: {model_name}")
             
-            # Load model (downloads on first use)
-            self.embedding_model = SentenceTransformer(model_name)
-            self.embedding_dimension = self.embedding_model.get_sentence_embedding_dimension()
+            # Initialize OpenAI client
+            self.openai_client = openai.OpenAI()
+            self.embedding_model = model_name
+            self.embedding_dimension = self.config.embedding_dimension
             
             logger.info(f"Embedding model loaded: {self.embedding_dimension}D vectors")
             
         except Exception as e:
-            logger.error(f"Failed to load embedding model: {str(e)}")
+            logger.error(f"Failed to initialize OpenAI embeddings: {str(e)}")
             self.embedding_model = None
+            self.openai_client = None
     
     def _init_vector_db(self):
         """Initialize ChromaDB for vector storage."""
@@ -201,9 +204,9 @@ class KnowledgeBase:
         }
     
     def _ensure_corpus_indexed(self):
-        """Ensure R documentation corpus is indexed in vector DB."""
-        if not self.embedding_model or not self.collection:
-            logger.warning("Cannot index corpus: embedding model or vector DB not available")
+        """Check if corpus is already indexed in vector DB."""
+        if not self.openai_client or not self.collection:
+            logger.warning("Cannot check corpus: OpenAI client or vector DB not available")
             return
         
         try:
@@ -212,217 +215,11 @@ class KnowledgeBase:
             if count > 0:
                 logger.info(f"Corpus already indexed: {count} documents")
                 return
-            
-            # Index the corpus
-            self._index_corpus()
-            
-        except Exception as e:
-            logger.error(f"Error ensuring corpus is indexed: {str(e)}")
-    
-    def _index_corpus(self):
-        """Index R documentation corpus into vector database."""
-        logger.info("Indexing R documentation corpus...")
-        
-        # Create sample documents if corpus directory is empty
-        self._create_sample_corpus()
-        
-        documents = []
-        metadatas = []
-        ids = []
-        
-        # Process corpus files
-        for file_path in self.corpus_path.glob("**/*.md"):
-            try:
-                with open(file_path, 'r', encoding='utf-8') as f:
-                    content = f.read()
-                
-                # Split into chunks for better retrieval
-                chunks = self._split_document(content, file_path.name)
-                
-                for i, chunk in enumerate(chunks):
-                    doc_id = f"{file_path.stem}_{i}"
-                    documents.append(chunk['text'])
-                    metadatas.append({
-                        'source': str(file_path),
-                        'title': chunk['title'],
-                        'section': chunk.get('section', ''),
-                        'chunk_id': i
-                    })
-                    ids.append(doc_id)
-            
-            except Exception as e:
-                logger.warning(f"Error processing {file_path}: {str(e)}")
-        
-        # Add to vector database
-        if documents:
-            try:
-                # Generate embeddings
-                embeddings = self.embedding_model.encode(documents).tolist()
-                
-                # Add to collection
-                self.collection.add(
-                    documents=documents,
-                    metadatas=metadatas,
-                    embeddings=embeddings,
-                    ids=ids
-                )
-                
-                logger.info(f"Indexed {len(documents)} document chunks")
-                
-            except Exception as e:
-                logger.error(f"Error adding documents to vector DB: {str(e)}")
-    
-    def _create_sample_corpus(self):
-        """Create sample R documentation if corpus is empty."""
-        if not self.corpus_path.exists():
-            self.corpus_path.mkdir(parents=True, exist_ok=True)
-        
-        # Check if corpus has content
-        if list(self.corpus_path.glob("*.md")):
-            return  # Corpus already has content
-        
-        # Create sample documentation
-        sample_docs = {
-            'tidycensus_basics.md': '''# tidycensus Package Basics
-
-## Overview
-The tidycensus package provides an interface to US Census Bureau APIs, allowing users to download Census and ACS data directly into R.
-
-## Key Functions
-
-### get_acs()
-Retrieves American Community Survey data for specified geographies and variables.
-
-Parameters:
-- geography: Geographic level (state, county, place, tract, etc.)
-- variables: Census variable codes or table names
-- year: ACS year (most recent: 2023)
-- survey: "acs1" (1-year) or "acs5" (5-year estimates)
-- state: State for sub-state geographies
-- county: County for sub-county geographies
-
-### Variable Codes
-- B01003_001: Total population
-- B19013_001: Median household income
-- B25077_001: Median home value
-- B17001_002: Population below poverty level
-
-## Best Practices
-- Use ACS 5-year estimates for small areas (more reliable)
-- Always check margins of error for statistical significance
-- Cache API key using census_api_key() function
-''',
-            'acs_methodology.md': '''# American Community Survey Methodology
-
-## Survey Types
-
-### ACS 5-Year Estimates
-- Based on 5 years of collected data
-- More reliable for small areas
-- Available for all geographic levels
-- Updated annually
-
-### ACS 1-Year Estimates  
-- Based on 1 year of collected data
-- More current but less reliable
-- Only available for areas with 65,000+ population
-- Higher margins of error
-
-## Statistical Reliability
-- Margins of Error (MOE) indicate estimate reliability
-- Coefficient of Variation (CV) = (MOE/1.645)/Estimate
-- CV < 15%: Reliable
-- CV 15-30%: Use with caution  
-- CV > 30%: Unreliable
-
-## Geographic Hierarchies
-- Nation > Region > Division > State > County > Place/Tract > Block Group
-- Different variables available at different levels
-- Smaller areas have larger margins of error
-''',
-            'census_variables.md': '''# Census Variable Reference
-
-## Population Variables
-- B01003_001: Total population
-- B01001_001: Total population by sex and age
-- B01002_001: Median age
-
-## Income Variables  
-- B19013_001: Median household income
-- B19301_001: Per capita income
-- B25119_001: Median household income for housing units
-
-## Housing Variables
-- B25001_001: Total housing units
-- B25003_002: Owner-occupied housing units
-- B25003_003: Renter-occupied housing units
-- B25077_001: Median home value
-
-## Employment Variables
-- B23025_002: Labor force
-- B23025_005: Unemployed population
-- B08303_001: Commuting time
-
-## Poverty Variables
-- B17001_002: Population below poverty level
-- B17001_001: Population for whom poverty status determined
-'''
-        }
-        
-        for filename, content in sample_docs.items():
-            file_path = self.corpus_path / filename
-            with open(file_path, 'w', encoding='utf-8') as f:
-                f.write(content)
-        
-        logger.info(f"Created sample corpus with {len(sample_docs)} documents")
-    
-    def _split_document(self, content: str, filename: str) -> List[Dict[str, str]]:
-        """Split document into chunks for better retrieval."""
-        chunks = []
-        
-        # Split by headers
-        sections = re.split(r'^#+ ', content, flags=re.MULTILINE)
-        
-        for i, section in enumerate(sections):
-            if not section.strip():
-                continue
-            
-            # Extract title
-            lines = section.strip().split('\n')
-            title = lines[0] if lines else f"{filename}_chunk_{i}"
-            text = '\n'.join(lines[1:]) if len(lines) > 1 else section
-            
-            # Further split long sections
-            if len(text) > 1000:
-                # Split by paragraphs
-                paragraphs = text.split('\n\n')
-                current_chunk = ""
-                
-                for para in paragraphs:
-                    if len(current_chunk + para) > 1000 and current_chunk:
-                        chunks.append({
-                            'title': title,
-                            'text': current_chunk.strip(),
-                            'section': title
-                        })
-                        current_chunk = para
-                    else:
-                        current_chunk += "\n\n" + para if current_chunk else para
-                
-                if current_chunk:
-                    chunks.append({
-                        'title': title,
-                        'text': current_chunk.strip(),
-                        'section': title
-                    })
             else:
-                chunks.append({
-                    'title': title,
-                    'text': text.strip(),
-                    'section': title
-                })
-        
-        return chunks if chunks else [{'title': filename, 'text': content, 'section': ''}]
+                logger.warning("No documents found in knowledge base. This should contain 36K+ documents from build process.")
+                
+        except Exception as e:
+            logger.error(f"Error checking corpus index: {str(e)}")
     
     async def get_variable_context(self, variables: List[str]) -> Dict[str, Dict[str, Any]]:
         """
@@ -447,7 +244,7 @@ Parameters:
             })
             
             # Enhance with RAG if available
-            if self.embedding_model and self.collection:
+            if self.openai_client and self.collection:
                 try:
                     rag_context = await self._search_variable_documentation(var)
                     if rag_context:
@@ -519,10 +316,10 @@ Parameters:
             'confidence': 'medium'
         }
     
-    async def search_documentation(self, query: str, context: str = "", 
+    async def search_documentation(self, query: str, context: str = "",
                                  top_k: Optional[int] = None) -> List[Dict[str, Any]]:
         """
-        Search documentation using vector similarity.
+        Search documentation using vector similarity with OpenAI embeddings.
         
         Args:
             query: Search query
@@ -532,8 +329,8 @@ Parameters:
         Returns:
             List of relevant documents with metadata
         """
-        if not self.embedding_model or not self.collection:
-            logger.warning("Cannot search: embedding model or vector DB not available")
+        if not self.openai_client or not self.collection:
+            logger.warning("Cannot search: OpenAI client or vector DB not available")
             return []
         
         try:
@@ -541,12 +338,16 @@ Parameters:
             search_text = f"{query} {context}".strip()
             top_k = top_k or self.config.vector_search_top_k
             
-            # Generate query embedding
-            query_embedding = self.embedding_model.encode([search_text])
+            # Generate query embedding using OpenAI
+            response = self.openai_client.embeddings.create(
+                input=[search_text],
+                model=self.embedding_model
+            )
+            query_embedding = response.data[0].embedding
             
             # Search vector database
             results = self.collection.query(
-                query_embeddings=query_embedding.tolist(),
+                query_embeddings=[query_embedding],
                 n_results=top_k
             )
             
@@ -565,25 +366,29 @@ Parameters:
             threshold = self.config.vector_search_threshold
             filtered_results = [r for r in formatted_results if r['score'] >= threshold]
             
-            logger.info(f"Documentation search: {len(filtered_results)} relevant results")
+            logger.info(f"Documentation search: {len(filtered_results)} relevant results from {len(results['documents'][0])} total")
             return filtered_results
             
         except Exception as e:
             logger.error(f"Documentation search failed: {str(e)}")
             return []
     
-    def add_document(self, title: str, content: str, metadata: Optional[Dict] = None):
-        """Add a document to the knowledge base."""
-        if not self.embedding_model or not self.collection:
-            logger.warning("Cannot add document: embedding model or vector DB not available")
+    async def add_document(self, title: str, content: str, metadata: Optional[Dict] = None):
+        """Add a document to the knowledge base using OpenAI embeddings."""
+        if not self.openai_client or not self.collection:
+            logger.warning("Cannot add document: OpenAI client or vector DB not available")
             return
         
         try:
             # Generate unique ID
             doc_id = hashlib.md5(f"{title}_{content[:100]}".encode()).hexdigest()
             
-            # Generate embedding
-            embedding = self.embedding_model.encode([content])
+            # Generate embedding using OpenAI
+            response = self.openai_client.embeddings.create(
+                input=[content],
+                model=self.embedding_model
+            )
+            embedding = response.data[0].embedding
             
             # Prepare metadata
             doc_metadata = metadata or {}
@@ -597,7 +402,7 @@ Parameters:
             self.collection.add(
                 documents=[content],
                 metadatas=[doc_metadata],
-                embeddings=embedding.tolist(),
+                embeddings=[embedding],
                 ids=[doc_id]
             )
             
@@ -609,7 +414,7 @@ Parameters:
     def get_stats(self) -> Dict[str, Any]:
         """Get knowledge base statistics."""
         stats = {
-            'embedding_model': self.config.embedding_model if self.embedding_model else 'Not available',
+            'embedding_model': self.embedding_model or 'Not available',
             'vector_db_available': self.collection is not None,
             'corpus_path': str(self.corpus_path),
             'variable_contexts': len(self.variable_contexts),
