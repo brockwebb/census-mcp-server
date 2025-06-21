@@ -1,1 +1,4 @@
 data/vector_db/** filter=lfs diff=lfs merge=lfs -text
+knowledge-base/vector-db/** filter=lfs diff=lfs merge=lfs -text
+*.db filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
