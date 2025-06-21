@@ -3,6 +3,7 @@ Configuration management for Census MCP Server
 
 Handles paths, environment variables, and settings for containerized deployment.
 Supports both local development and Docker container environments.
+UPDATED: Uses sentence transformers by default (no API key required)
 """
 
 import os
@@ -19,6 +20,7 @@ class Config:
     
     Loads settings from environment variables, config files, and defaults.
     Container-aware for seamless Docker deployment.
+    Now uses sentence transformers by default for self-contained deployment.
     """
     
     def __init__(self, config_file: Optional[str] = None):
@@ -57,14 +59,14 @@ class Config:
         # LLM Configuration (for future multi-LLM support)
         self.default_llm = os.getenv('DEFAULT_LLM', 'claude')
         self.claude_api_key = os.getenv('ANTHROPIC_API_KEY')
-        self.openai_api_key = os.getenv('OPENAI_API_KEY')
+        self.openai_api_key = os.getenv('OPENAI_API_KEY')  # Optional now
         
         # Census API Configuration
         self.census_api_key = os.getenv('CENSUS_API_KEY')  # Optional but recommended
         
-        # Embedding Configuration - Match knowledge base build settings
-        self.embedding_model = os.getenv('EMBEDDING_MODEL', 'text-embedding-3-large')
-        self.embedding_dimension = int(os.getenv('EMBEDDING_DIMENSION', '3072'))  # text-embedding-3-large dimensions
+        # Embedding Configuration - UPDATED to use sentence transformers by default
+        self.embedding_model = os.getenv('EMBEDDING_MODEL', 'all-mpnet-base-v2')  # Local model, no API key
+        self.embedding_dimension = self._get_embedding_dimension()
         
         # Server Configuration
         self.log_level = os.getenv('LOG_LEVEL', 'INFO')
@@ -73,7 +75,7 @@ class Config:
         
         # Vector Search Configuration
         self.vector_search_top_k = int(os.getenv('VECTOR_SEARCH_TOP_K', '5'))
-        self.vector_search_threshold = float(os.getenv('VECTOR_SEARCH_THRESHOLD', '0.0'))  # Lowered for OpenAI embeddings
+        self.vector_search_threshold = float(os.getenv('VECTOR_SEARCH_THRESHOLD', '0.3'))  # Adjusted for sentence transformers
         
         # R Subprocess Configuration
         self.r_timeout = int(os.getenv('R_TIMEOUT', '120'))  # 2 minutes
@@ -91,6 +93,29 @@ class Config:
         default_config = self.config_dir / "mcp_config.json"
         if default_config.exists():
             self._load_config_file(str(default_config))
+    
+    def _get_embedding_dimension(self) -> int:
+        """Get embedding dimension based on model."""
+        # Map common sentence transformer models to their dimensions
+        model_dimensions = {
+            'all-mpnet-base-v2': 768,
+            'all-MiniLM-L6-v2': 384,
+            'all-MiniLM-L12-v2': 384,
+            'all-distilroberta-v1': 768,
+            'paraphrase-mpnet-base-v2': 768,
+            'sentence-t5-base': 768,
+            'sentence-t5-large': 768,
+        }
+        
+        # Check if it's an OpenAI model (legacy)
+        if 'text-embedding' in self.embedding_model:
+            logger.warning(f"OpenAI model '{self.embedding_model}' detected, switching to sentence transformers")
+            self.embedding_model = 'all-mpnet-base-v2'
+            return 768
+        
+        # Get dimension or default
+        return int(os.getenv('EMBEDDING_DIMENSION',
+                           model_dimensions.get(self.embedding_model, 768)))
     
     def _load_config_file(self, config_path: Optional[str] = None):
         """Load configuration from JSON file."""
@@ -171,12 +196,19 @@ class Config:
     def _validate_embedding_model(self) -> bool:
         """Validate that the embedding model is available."""
         try:
-            # Try to import sentence_transformers if using that model type
-            if "sentence-transformers" in self.embedding_model:
-                import sentence_transformers
-                return True
-            return True  # For other model types, assume valid
-        except ImportError:
+            # For sentence transformers models
+            if self.embedding_model in ['all-mpnet-base-v2', 'all-MiniLM-L6-v2', 'all-MiniLM-L12-v2']:
+                try:
+                    import sentence_transformers
+                    return True
+                except ImportError:
+                    logger.warning("sentence-transformers not installed. Install with: pip install sentence-transformers")
+                    return False
+            
+            # For other models, assume valid
+            return True
+            
+        except Exception:
             return False
     
     def _log_config_status(self):
@@ -188,14 +220,15 @@ class Config:
         logger.info(f"  Container mode: {self.is_container}")
         logger.info(f"  R executable: {self.r_executable}")
         logger.info(f"  Vector DB type: {self.vector_db_type}")
-        logger.info(f"  Embedding model: {self.embedding_model}")
+        logger.info(f"  Embedding model: {self.embedding_model} (local, no API key)")
+        logger.info(f"  Embedding dimensions: {self.embedding_dimension}")
         logger.info(f"  Log level: {self.log_level}")
         
         # Check for API keys (without logging them)
         api_keys_status = {
             "Census API": "✓" if self.census_api_key else "⚠ (optional)",
             "Claude API": "✓" if self.claude_api_key else "✗",
-            "OpenAI API": "✓" if self.openai_api_key else "✗"
+            "OpenAI API": "✓" if self.openai_api_key else "⚠ (not needed for sentence transformers)"
         }
         
         for api, status in api_keys_status.items():
@@ -366,12 +399,14 @@ CENSUS_API_KEY=
 # Required: Choose your LLM provider and add API key
 DEFAULT_LLM=claude
 ANTHROPIC_API_KEY=
-OPENAI_API_KEY=
+
+# OPTIONAL: OpenAI API Key (not needed with sentence transformers)
+# OPENAI_API_KEY=
 
 # Optional: Advanced Configuration
 LOG_LEVEL=INFO
 VECTOR_DB_TYPE=chromadb
-EMBEDDING_MODEL=sentence-transformers/all-MiniLM-L6-v2
+EMBEDDING_MODEL=all-mpnet-base-v2
 R_EXECUTABLE=Rscript
 R_TIMEOUT=120
 MAX_CONCURRENT_REQUESTS=10

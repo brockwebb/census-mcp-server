@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
 """
-Knowledge Base Vectorization Script - Sentence Transformers Version
-Processes source documents into ChromaDB vector database using sentence transformers
+Knowledge Base Vectorization Script
+Processes source documents into ChromaDB vector database using OpenAI embeddings
 
 DEPENDENCIES:
-    pip install PyPDF2 beautifulsoup4 markdown chromadb sentence-transformers
+    pip install PyPDF2 beautifulsoup4 markdown chromadb openai tenacity
 
-NO API KEYS REQUIRED - fully self-contained!
+SETUP:
+    export OPENAI_API_KEY="your_openai_api_key_here"
 
 Usage:
     cd knowledge-base/
@@ -17,7 +18,6 @@ Arguments:
     --test-mode: Process only a subset of documents for testing
     --source-dir: Source documents directory (default: source-docs)
     --output-dir: Output vector database directory (default: vector-db)
-    --model: Sentence transformer model (default: all-mpnet-base-v2)
 
 Examples:
     # Test with subset of documents
@@ -30,10 +30,8 @@ Examples:
     # Force complete rebuild
     python build-kb.py --rebuild
     
-    # Use different model
-    python build-kb.py --model all-MiniLM-L6-v2
-    
-Cost: FREE! No API calls, fully offline after initial model download.
+Cost Estimate:
+    Expected cost: $13-20 for ~900MB corpus using text-embedding-3-large
 """
 
 import os
@@ -57,9 +55,7 @@ import re
 # Vector DB and embeddings
 import chromadb
 from chromadb.config import Settings
-
-# Sentence transformers for local embeddings
-from sentence_transformers import SentenceTransformer
+import openai
 
 # Set up logging
 logging.basicConfig(
@@ -72,28 +68,27 @@ class KnowledgeBaseBuilder:
     """
     Builds Census expertise knowledge base from source documents.
     
-    Uses sentence transformers for high-quality local embeddings with NO external API dependencies.
-    Processes PDFs, HTML, markdown, and text files into a ChromaDB vector database.
+    Processes PDFs, HTML, markdown, and text files into a ChromaDB vector database
+    using OpenAI embeddings for high-quality semantic search.
     """
     
-    def __init__(self, source_dir: Path, output_dir: Path, test_mode: bool = False, model_name: str = "all-mpnet-base-v2"):
+    def __init__(self, source_dir: Path, output_dir: Path, test_mode: bool = False):
         """Initialize the knowledge base builder."""
         self.source_dir = Path(source_dir)
         self.output_dir = Path(output_dir)
         self.test_mode = test_mode
-        self.model_name = model_name
+        
+        # OpenAI client
+        self.openai_client = openai.OpenAI()
         
         # Document processing stats
         self.stats = {
             'files_processed': 0,
             'chunks_created': 0,
-            'embedding_batches': 0,
-            'total_embeddings': 0,
+            'embedding_calls': 0,
+            'total_tokens': 0,
             'errors': 0
         }
-        
-        # Initialize sentence transformer model
-        self._init_embedding_model()
         
         # Initialize ChromaDB
         self._init_vector_db()
@@ -101,27 +96,7 @@ class KnowledgeBaseBuilder:
         logger.info(f"Knowledge base builder initialized")
         logger.info(f"Source directory: {self.source_dir}")
         logger.info(f"Output directory: {self.output_dir}")
-        logger.info(f"Embedding model: {self.model_name}")
         logger.info(f"Test mode: {self.test_mode}")
-    
-    def _init_embedding_model(self):
-        """Initialize sentence transformer model for local embeddings."""
-        try:
-            logger.info(f"Loading sentence transformer model: {self.model_name}")
-            logger.info("Note: First run will download model (~90-420MB depending on model)")
-            
-            # Load sentence transformer model (downloads on first use)
-            self.embedding_model = SentenceTransformer(self.model_name)
-            self.embedding_dimension = self.embedding_model.get_sentence_embedding_dimension()
-            
-            logger.info(f"✅ Embedding model loaded successfully")
-            logger.info(f"   Model: {self.model_name}")
-            logger.info(f"   Dimensions: {self.embedding_dimension}")
-            logger.info(f"   Max sequence length: {self.embedding_model.max_seq_length}")
-            
-        except Exception as e:
-            logger.error(f"❌ Failed to load sentence transformer model: {str(e)}")
-            raise
     
     def _init_vector_db(self):
         """Initialize ChromaDB client and collection."""
@@ -146,11 +121,7 @@ class KnowledgeBaseBuilder:
             except Exception:  # ChromaDB raises various exceptions for missing collections
                 self.collection = self.chroma_client.create_collection(
                     name=collection_name,
-                    metadata={
-                        "description": "Census expertise knowledge base",
-                        "embedding_model": self.model_name,
-                        "embedding_dimension": self.embedding_dimension
-                    }
+                    metadata={"description": "Census expertise knowledge base"}
                 )
                 logger.info(f"Created new collection: {collection_name}")
             
@@ -162,7 +133,7 @@ class KnowledgeBaseBuilder:
         """Main entry point to build the knowledge base."""
         
         logger.info("=" * 60)
-        logger.info("BUILDING CENSUS KNOWLEDGE BASE (SENTENCE TRANSFORMERS)")
+        logger.info("BUILDING CENSUS KNOWLEDGE BASE")
         logger.info("=" * 60)
         
         start_time = time.time()
@@ -184,11 +155,7 @@ class KnowledgeBaseBuilder:
                 # Recreate the collection
                 self.collection = self.chroma_client.create_collection(
                     name="census_knowledge",
-                    metadata={
-                        "description": "Census expertise knowledge base",
-                        "embedding_model": self.model_name,
-                        "embedding_dimension": self.embedding_dimension
-                    }
+                    metadata={"description": "Census expertise knowledge base"}
                 )
                 logger.info("Created fresh collection for rebuild")
             
@@ -277,7 +244,7 @@ class KnowledgeBaseBuilder:
                 self._process_document(file_path, category_name)
                 files_processed += 1
                 
-                # Small delay to prevent overheating
+                # Rate limiting for OpenAI API
                 time.sleep(0.1)
                 
             except Exception as e:
@@ -379,33 +346,24 @@ class KnowledgeBaseBuilder:
             return ""
     
     def _create_chunks(self, text: str, file_path: Path, category: str) -> List[Dict[str, Any]]:
-        """Split document into chunks with aggressive token-aware sizing to preserve all content."""
+        """Split document into chunks for embedding with robust size handling."""
         
         chunks = []
+        
+        # Clean text
         text = re.sub(r'\s+', ' ', text).strip()
         
         if len(text) < 100:
             return chunks
         
-        # Get actual model limits
-        max_tokens = getattr(self.embedding_model, 'max_seq_length', 512)
+        # Optimized chunking strategy for technical documents
+        chunk_size = 800      # Target size
+        max_chunk_size = 1200 # Hard limit to stay under token limits  
+        overlap = 200         # 25% overlap for context preservation
         
-        # Very conservative token estimation: 3 chars per token with 30% buffer
-        max_chars = int(max_tokens * 3 * 0.7)
-        chunk_size = min(200, max_chars // 3)  # Much smaller target chunks
-        overlap = min(30, chunk_size // 10)
-        
-        logger.debug(f"Chunking {file_path.name}: max_tokens={max_tokens}, max_chars={max_chars}, chunk_size={chunk_size}")
-        
-        # For structured data files (like Census variables), use line-based chunking
-        is_structured = any(indicator in file_path.name.lower()
-                           for indicator in ['variables', 'api', 'definitions', 'zcta', 'rel'])
-        
-        if is_structured and len(text) > max_chars * 2:
-            return self._chunk_structured_document(text, file_path, category, max_chars)
-        
-        # Standard paragraph-based chunking for regular documents
+        # Multi-level splitting: paragraphs → sentences → words
         paragraphs = text.split('\n\n')
+        
         current_chunk = ""
         chunk_num = 0
         
@@ -414,173 +372,122 @@ class KnowledgeBaseBuilder:
             if not paragraph:
                 continue
             
-            # Check if adding paragraph exceeds limits
-            test_chunk = current_chunk + " " + paragraph if current_chunk else paragraph
-            
-            if len(test_chunk) > chunk_size and current_chunk:
-                # Always save current chunk, force-splitting if needed
-                if len(current_chunk) <= max_chars:
-                    chunks.append(self._create_chunk_metadata(
-                        current_chunk.strip(), file_path, category, chunk_num
-                    ))
-                    chunk_num += 1
-                else:
-                    # Force split oversized chunk
-                    split_chunks = self._force_split_chunk(current_chunk, max_chars)
-                    for split_chunk in split_chunks:
-                        chunks.append(self._create_chunk_metadata(
-                            split_chunk, file_path, category, chunk_num
-                        ))
-                        chunk_num += 1
-                
-                # Start new chunk with overlap
-                overlap_text = current_chunk[-overlap:] if len(current_chunk) > overlap else ""
-                current_chunk = overlap_text + " " + paragraph if overlap_text else paragraph
-            else:
-                current_chunk = test_chunk
-            
-            # Proactive split if chunk approaches limit
-            if len(current_chunk) > max_chars * 0.9:  # Split at 90% of limit
-                split_chunks = self._force_split_chunk(current_chunk, max_chars)
-                for split_chunk in split_chunks:
-                    chunks.append(self._create_chunk_metadata(
-                        split_chunk, file_path, category, chunk_num
-                    ))
-                    chunk_num += 1
-                current_chunk = ""
-        
-        # Add final chunk - always split if too large
-        if current_chunk and len(current_chunk.strip()) > 100:
-            if len(current_chunk) <= max_chars:
-                chunks.append(self._create_chunk_metadata(
-                    current_chunk.strip(), file_path, category, chunk_num
-                ))
-            else:
-                # Force split final chunk
-                split_chunks = self._force_split_chunk(current_chunk, max_chars)
-                for split_chunk in split_chunks:
-                    chunks.append(self._create_chunk_metadata(
-                        split_chunk, file_path, category, chunk_num
-                    ))
-                    chunk_num += 1
-        
-        return chunks
-    
-    def _chunk_structured_document(self, text: str, file_path: Path, category: str, max_chars: int) -> List[Dict[str, Any]]:
-        """Handle large structured documents by splitting on natural boundaries."""
-        
-        chunks = []
-        chunk_num = 0
-        
-        # Try splitting on common structured boundaries
-        split_patterns = [
-            r'\n(?=[A-Z]\d{5}_\d{3})',  # Census variable codes
-            r'\n(?=Table [A-Z]\d+)',    # Table definitions
-            r'\n(?=\w+:)',              # Key-value pairs
-            r'\n\n',                    # Paragraph breaks
-            r'\n'                       # Line breaks (last resort)
-        ]
-        
-        sections = [text]  # Start with full text
-        
-        # Try each split pattern until chunks are small enough
-        for pattern in split_patterns:
-            new_sections = []
-            for section in sections:
-                if len(section) <= max_chars:
-                    new_sections.append(section)
-                else:
-                    # Split this section
-                    parts = re.split(pattern, section)
-                    new_sections.extend(parts)
-            sections = new_sections
-            
-            # Check if we're small enough now
-            if all(len(s) <= max_chars for s in sections):
-                break
-        
-        # Create chunks from sections
-        for section in sections:
-            section = section.strip()
-            if len(section) >= 100:  # Minimum chunk size
-                if len(section) <= max_chars:
-                    chunks.append(self._create_chunk_metadata(
-                        section, file_path, category, chunk_num
-                    ))
-                    chunk_num += 1
-                else:
-                    # Force split oversized sections
-                    split_chunks = self._force_split_chunk(section, max_chars)
-                    for split_chunk in split_chunks:
-                        chunks.append(self._create_chunk_metadata(
-                            split_chunk, file_path, category, chunk_num
-                        ))
-                        chunk_num += 1
-        
-        return chunks
-    
-    def _force_split_chunk(self, text: str, max_chars: int) -> List[str]:
-        """Aggressively split oversized chunks to preserve all content."""
-        
-        chunks = []
-        
-        # If text is still way too large, split by sentences first
-        if len(text) > max_chars * 3:
-            sentences = re.split(r'[.!?]+\s+', text)
-            text_parts = []
-            current_part = ""
-            
-            for sentence in sentences:
-                test_part = current_part + " " + sentence if current_part else sentence
-                if len(test_part) > max_chars * 2 and current_part:
-                    text_parts.append(current_part.strip())
-                    current_part = sentence
-                else:
-                    current_part = test_part
-            
-            if current_part:
-                text_parts.append(current_part.strip())
-        else:
-            text_parts = [text]
-        
-        # Now split each part by words
-        for part in text_parts:
-            words = part.split()
-            current_chunk = ""
-            
-            for word in words:
-                test_chunk = current_chunk + " " + word if current_chunk else word
-                
-                if len(test_chunk) > max_chars and current_chunk:
-                    if len(current_chunk.strip()) >= 50:  # Lower minimum for aggressive splitting
-                        chunks.append(current_chunk.strip())
-                    current_chunk = word
-                else:
-                    current_chunk = test_chunk
-            
-            if current_chunk and len(current_chunk.strip()) >= 50:
-                chunks.append(current_chunk.strip())
-        
-        # Final safety - if any chunk is still too large, character-split it
-        final_chunks = []
-        for chunk in chunks:
-            if len(chunk) <= max_chars:
-                final_chunks.append(chunk)
-            else:
-                # Last resort: character splitting with word boundaries
-                while len(chunk) > max_chars:
-                    # Find last space before limit
-                    split_point = chunk.rfind(' ', 0, max_chars)
-                    if split_point == -1:  # No space found, force split
-                        split_point = max_chars
+            # If paragraph itself is too large, split by sentences
+            if len(paragraph) > max_chunk_size:
+                sentences = re.split(r'[.!?]+', paragraph)
+                for sentence in sentences:
+                    sentence = sentence.strip()
+                    if not sentence:
+                        continue
                     
-                    final_chunks.append(chunk[:split_point].strip())
-                    chunk = chunk[split_point:].strip()
-                
-                if chunk and len(chunk) >= 50:
-                    final_chunks.append(chunk)
+                    # If sentence is still too large, split by words (last resort)
+                    if len(sentence) > max_chunk_size:
+                        words = sentence.split()
+                        current_sentence = ""
+                        
+                        for word in words:
+                            if len(current_sentence + " " + word) > max_chunk_size and current_sentence:
+                                # Store the current sentence chunk
+                                if len(current_sentence.strip()) > 100:
+                                    chunks.append(self._create_chunk_metadata(
+                                        current_sentence.strip(), 
+                                        file_path, 
+                                        category, 
+                                        chunk_num
+                                    ))
+                                    chunk_num += 1
+                                
+                                # Start new chunk with overlap
+                                overlap_words = current_sentence.split()[-20:]  # Last 20 words
+                                current_sentence = " ".join(overlap_words) + " " + word
+                            else:
+                                current_sentence += " " + word if current_sentence else word
+                        
+                        # Add final sentence chunk
+                        if len(current_sentence.strip()) > 100:
+                            if len(current_chunk + " " + current_sentence) <= max_chunk_size:
+                                current_chunk += " " + current_sentence if current_chunk else current_sentence
+                            else:
+                                # Store current chunk first
+                                if len(current_chunk.strip()) > 100:
+                                    chunks.append(self._create_chunk_metadata(
+                                        current_chunk.strip(), 
+                                        file_path, 
+                                        category, 
+                                        chunk_num
+                                    ))
+                                    chunk_num += 1
+                                current_chunk = current_sentence
+                    else:
+                        # Normal sentence, try to add to current chunk
+                        if len(current_chunk + " " + sentence) > chunk_size and current_chunk:
+                            # Store current chunk
+                            if len(current_chunk.strip()) > 100:
+                                chunks.append(self._create_chunk_metadata(
+                                    current_chunk.strip(), 
+                                    file_path, 
+                                    category, 
+                                    chunk_num
+                                ))
+                                chunk_num += 1
+                            
+                            # Start new chunk with overlap
+                            overlap_text = current_chunk[-overlap:] if len(current_chunk) > overlap else current_chunk
+                            current_chunk = overlap_text + " " + sentence
+                        else:
+                            current_chunk += " " + sentence if current_chunk else sentence
+            else:
+                # Normal paragraph processing
+                if len(current_chunk + " " + paragraph) > chunk_size and current_chunk:
+                    # Store current chunk
+                    if len(current_chunk.strip()) > 100:
+                        chunks.append(self._create_chunk_metadata(
+                            current_chunk.strip(), 
+                            file_path, 
+                            category, 
+                            chunk_num
+                        ))
+                        chunk_num += 1
+                    
+                    # Start new chunk with overlap
+                    overlap_text = current_chunk[-overlap:] if len(current_chunk) > overlap else current_chunk
+                    current_chunk = overlap_text + " " + paragraph
+                else:
+                    current_chunk += " " + paragraph if current_chunk else paragraph
         
-        return [chunk for chunk in final_chunks if len(chunk) >= 50]
+        # Add final chunk
+        if len(current_chunk.strip()) > 100:
+            # Ensure final chunk isn't too large
+            if len(current_chunk) > max_chunk_size:
+                # Split final chunk if needed
+                words = current_chunk.split()
+                while len(" ".join(words)) > max_chunk_size and len(words) > 10:
+                    chunk_words = words[:len(words)//2]
+                    chunks.append(self._create_chunk_metadata(
+                        " ".join(chunk_words), 
+                        file_path, 
+                        category, 
+                        chunk_num
+                    ))
+                    chunk_num += 1
+                    words = words[len(words)//2:]
+                
+                if words:
+                    chunks.append(self._create_chunk_metadata(
+                        " ".join(words), 
+                        file_path, 
+                        category, 
+                        chunk_num
+                    ))
+            else:
+                chunks.append(self._create_chunk_metadata(
+                    current_chunk.strip(), 
+                    file_path, 
+                    category, 
+                    chunk_num
+                ))
+        
+        return chunks
     
     def _create_chunk_metadata(self, text: str, file_path: Path, category: str, chunk_num: int) -> Dict[str, Any]:
         """Create metadata for a text chunk."""
@@ -602,8 +509,28 @@ class KnowledgeBaseBuilder:
             }
         }
     
+    @retry(
+        stop=stop_after_attempt(3),
+        wait=wait_exponential(multiplier=1, min=4, max=10),
+        retry=retry_if_exception_type((openai.RateLimitError, openai.APIError))
+    )
+    def _generate_embeddings_with_retry(self, texts: List[str]) -> List[List[float]]:
+        """Generate embeddings with retry logic and rate limiting."""
+        try:
+            response = self.openai_client.embeddings.create(
+                input=texts,
+                model="text-embedding-3-large"
+            )
+            return [item.embedding for item in response.data]
+        except openai.RateLimitError as e:
+            logger.warning(f"Rate limit hit, backing off: {e}")
+            raise
+        except openai.APIError as e:
+            logger.warning(f"API error, retrying: {e}")
+            raise
+    
     def _store_chunks(self, chunks: List[Dict[str, Any]]):
-        """Generate embeddings and store chunks in ChromaDB using sentence transformers."""
+        """Generate embeddings and store chunks in ChromaDB."""
         
         if not chunks:
             return
@@ -614,45 +541,55 @@ class KnowledgeBaseBuilder:
             chunk_ids = [chunk['id'] for chunk in chunks]
             metadatas = [chunk['metadata'] for chunk in chunks]
             
-            logger.info(f"Generating embeddings for {len(texts)} chunks using {self.model_name}...")
+            # Generate embeddings using OpenAI
+            logger.info(f"Generating embeddings for {len(texts)} chunks...")
             
-            # All chunks should be properly sized now, but add minimal safety check
-            max_tokens = getattr(self.embedding_model, 'max_seq_length', 512)
-            oversized_count = 0
+            embeddings = []
+            batch_size = 100  # OpenAI batch limit
             
-            for text in texts:
-                estimated_tokens = len(text) // 3  # Same conservative estimation
-                if estimated_tokens > max_tokens:
-                    oversized_count += 1
+            for i in range(0, len(texts), batch_size):
+                batch_texts = texts[i:i + batch_size]
+                
+                # Skip any texts that are too long (fallback protection)
+                safe_texts = []
+                safe_ids = []
+                safe_metadatas = []
+                
+                for j, text in enumerate(batch_texts):
+                    if len(text) > 6000:  # Conservative token limit
+                        logger.warning(f"Skipping oversized chunk: {len(text)} characters")
+                        continue
+                    safe_texts.append(text)
+                    safe_ids.append(chunk_ids[i + j])
+                    safe_metadatas.append(metadatas[i + j])
+                
+                if not safe_texts:
+                    logger.warning(f"No valid chunks in batch {i//batch_size + 1}, skipping")
+                    continue
+                
+                # Use retry mechanism for embeddings
+                batch_embeddings = self._generate_embeddings_with_retry(safe_texts)
+                embeddings.extend(batch_embeddings)
+                
+                # Store the safe chunks with matching IDs and metadata
+                if batch_embeddings:
+                    self.collection.add(
+                        documents=safe_texts,
+                        embeddings=batch_embeddings,
+                        metadatas=safe_metadatas,
+                        ids=safe_ids
+                    )
+                
+                # Track usage (approximate since we're using retry)
+                self.stats['embedding_calls'] += 1
+                self.stats['total_tokens'] += len(' '.join(safe_texts).split())  # Rough estimate
+                
+                # Rate limiting
+                time.sleep(0.5 + random.uniform(0, 0.5))  # Add jitter to avoid thundering herd
             
-            if oversized_count > 0:
-                logger.warning(f"Found {oversized_count} potentially oversized chunks - chunking logic needs adjustment")
-            
-            # Generate embeddings using sentence transformers (batch processing)
-            embeddings = self.embedding_model.encode(
-                texts,
-                batch_size=32,  # Process in batches for memory efficiency
-                show_progress_bar=False,  # We have our own logging
-                convert_to_numpy=True
-            )
-            
-            # Convert to list format for ChromaDB
-            embeddings_list = embeddings.tolist()
-            
-            # Store in ChromaDB
-            self.collection.add(
-                documents=texts,
-                embeddings=embeddings_list,
-                metadatas=metadatas,
-                ids=chunk_ids
-            )
-            
-            # Track usage
-            self.stats['embedding_batches'] += 1
-            self.stats['total_embeddings'] += len(texts)
-            self.stats['chunks_created'] += len(texts)
-            
-            logger.info(f"✅ Stored {len(texts)} chunks in vector database")
+            # Count successful embeddings
+            self.stats['chunks_created'] += len([e for e in embeddings if e])
+            logger.info(f"Stored {len([e for e in embeddings if e])} valid chunks in vector database")
             
         except Exception as e:
             logger.error(f"Error storing chunks: {str(e)}")
@@ -670,11 +607,9 @@ class KnowledgeBaseBuilder:
                 'name': self.collection.name,
                 'document_count': self.collection.count(),
             },
-            'embedding_model': self.model_name,
-            'embedding_dimension': self.embedding_dimension,
+            'openai_model': 'text-embedding-3-large',
             'source_directory': str(self.source_dir),
-            'output_directory': str(self.output_dir),
-            'dependencies': 'sentence-transformers (local, no API key required)'
+            'output_directory': str(self.output_dir)
         }
         
         # Save manifest
@@ -687,16 +622,16 @@ class KnowledgeBaseBuilder:
     def _display_final_stats(self, build_time: float):
         """Display final build statistics."""
         
+        total_cost = (self.stats['total_tokens'] / 1000000) * 0.13  # $0.13 per 1M tokens
+        
         logger.info("BUILD STATISTICS:")
         logger.info(f"  Files processed: {self.stats['files_processed']}")
         logger.info(f"  Chunks created: {self.stats['chunks_created']}")
-        logger.info(f"  Embedding batches: {self.stats['embedding_batches']}")
-        logger.info(f"  Total embeddings: {self.stats['total_embeddings']:,}")
-        logger.info(f"  Model used: {self.model_name}")
-        logger.info(f"  Embedding dimension: {self.embedding_dimension}")
+        logger.info(f"  Embedding API calls: {self.stats['embedding_calls']}")
+        logger.info(f"  Total tokens: {self.stats['total_tokens']:,}")
+        logger.info(f"  Estimated cost: ${total_cost:.4f}")
         logger.info(f"  Build time: {build_time:.2f} seconds")
         logger.info(f"  Errors: {self.stats['errors']}")
-        logger.info(f"  💰 Cost: FREE (no API calls)")
         
         final_count = self.collection.count()
         logger.info(f"  Final collection size: {final_count} documents")
@@ -704,19 +639,22 @@ class KnowledgeBaseBuilder:
 def main():
     """Main entry point."""
     
-    parser = argparse.ArgumentParser(description='Build Census Knowledge Base with Sentence Transformers')
-    parser.add_argument('--rebuild', action='store_true',
+    parser = argparse.ArgumentParser(description='Build Census Knowledge Base')
+    parser.add_argument('--rebuild', action='store_true', 
                        help='Force rebuild of existing vector DB')
     parser.add_argument('--test-mode', action='store_true',
                        help='Process only a subset of documents for testing')
     parser.add_argument('--source-dir', type=str, default='source-docs',
                        help='Source documents directory')
-    parser.add_argument('--output-dir', type=str, default='vector-db',
-                       help='Output vector database directory')
-    parser.add_argument('--model', type=str, default='all-mpnet-base-v2',
-                       help='Sentence transformer model (all-mpnet-base-v2, all-MiniLM-L6-v2, etc.)')
+    parser.add_argument('--output-dir', type=str, default='../data/vector_db',
+                       help='Output vector database directory (default: ../data/vector_db)')
     
     args = parser.parse_args()
+    
+    # Check for OpenAI API key
+    if not os.getenv('OPENAI_API_KEY'):
+        logger.error("OPENAI_API_KEY environment variable not set")
+        sys.exit(1)
     
     # Validate source directory
     source_dir = Path(args.source_dir)
@@ -729,14 +667,12 @@ def main():
         builder = KnowledgeBaseBuilder(
             source_dir=source_dir,
             output_dir=Path(args.output_dir),
-            test_mode=args.test_mode,
-            model_name=args.model
+            test_mode=args.test_mode
         )
         
         builder.build_knowledge_base(rebuild=args.rebuild)
         
-        logger.info("✅ Knowledge base build completed successfully!")
-        logger.info("💰 No API costs - fully self-contained!")
+        logger.info("Knowledge base build completed successfully!")
         
     except KeyboardInterrupt:
         logger.info("Build interrupted by user")
@@ -747,3 +683,75 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+def test_smoke_build_pipeline():
+    """
+    Smoke test: verify document processing and chunking without OpenAI calls.
+    Run with: python -c "from build_kb import test_smoke_build_pipeline; test_smoke_build_pipeline()"
+    """
+    import tempfile
+    
+    # Create temporary directories
+    with tempfile.TemporaryDirectory() as temp_dir:
+        temp_path = Path(temp_dir)
+        source_dir = temp_path / "test_source"
+        output_dir = temp_path / "test_output"
+        
+        # Create test category and document
+        test_category = source_dir / "test_category"
+        test_category.mkdir(parents=True)
+        
+        test_file = test_category / "test_doc.md"
+        test_content = """# Test Document
+        
+This is a test document for the knowledge base builder.
+It contains multiple paragraphs to test chunking and text extraction.
+
+## Section 1
+This section has some content about testing the document processing pipeline.
+The chunking algorithm should split this appropriately into manageable pieces.
+
+## Section 2  
+This is another section with different content for testing purposes.
+It should create separate chunks for better retrieval and processing.
+
+## Section 3
+Additional content to ensure we have enough text for multiple chunks.
+This helps verify that the chunking logic is working correctly.
+"""
+        test_file.write_text(test_content)
+        
+        try:
+            # Test just the processing pipeline without embeddings
+            builder = KnowledgeBaseBuilder(
+                source_dir=source_dir,
+                output_dir=output_dir, 
+                test_mode=True
+            )
+            
+            # Test text extraction
+            extracted_text = builder._extract_markdown_text(test_file)
+            assert len(extracted_text) > 100, f"Insufficient text extracted: {len(extracted_text)} chars"
+            
+            # Test chunking
+            chunks = builder._create_chunks(extracted_text, test_file, "test_category")
+            assert len(chunks) > 0, f"No chunks created from {len(extracted_text)} chars of text"
+            assert all(len(chunk['text']) >= 100 for chunk in chunks), "Some chunks are too small"
+            
+            # Test metadata creation
+            for i, chunk in enumerate(chunks):
+                assert 'id' in chunk, f"Chunk {i} missing ID"
+                assert 'text' in chunk, f"Chunk {i} missing text"
+                assert 'metadata' in chunk, f"Chunk {i} missing metadata"
+                assert chunk['metadata']['category'] == 'test_category', f"Wrong category in chunk {i}"
+            
+            print("✅ Smoke test passed!")
+            print(f"   Text extracted: {len(extracted_text)} characters")
+            print(f"   Chunks created: {len(chunks)}")
+            print(f"   Average chunk size: {sum(len(c['text']) for c in chunks) // len(chunks)} chars")
+            print(f"   Sample chunk ID: {chunks[0]['id'][:50]}...")
+            
+        except Exception as e:
+            print(f"❌ Smoke test failed: {e}")
+            raise

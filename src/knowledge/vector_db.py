@@ -2,7 +2,7 @@
 Vector Database and Knowledge Base for Census MCP Server
 
 Handles RAG (Retrieval-Augmented Generation) functionality using:
-- OpenAI embeddings for high-quality semantic search (matches knowledge base build)
+- Sentence transformers for high-quality local embeddings (NO API key required)
 - ChromaDB for vector storage and similarity search
 - R documentation corpus processing and indexing
 - Context enrichment for Census queries
@@ -27,11 +27,11 @@ except ImportError:
     logging.warning("ChromaDB not available. Install with: pip install chromadb")
 
 try:
-    import openai
-    OPENAI_AVAILABLE = True
+    from sentence_transformers import SentenceTransformer
+    SENTENCE_TRANSFORMERS_AVAILABLE = True
 except ImportError:
-    OPENAI_AVAILABLE = False
-    logging.warning("OpenAI not available. Install with: pip install openai")
+    SENTENCE_TRANSFORMERS_AVAILABLE = False
+    logging.warning("SentenceTransformers not available. Install with: pip install sentence-transformers")
 
 from utils.config import get_config
 
@@ -42,7 +42,7 @@ class KnowledgeBase:
     Vector database and knowledge management for Census expertise.
     
     Provides:
-    - Document indexing and similarity search using OpenAI embeddings
+    - Document indexing and similarity search using sentence transformers (local, no API key)
     - Variable context lookup and enrichment
     - Location parsing and geographic knowledge
     - R documentation corpus integration
@@ -72,28 +72,38 @@ class KnowledgeBase:
         logger.info("Knowledge Base initialized successfully")
     
     def _init_embedding_model(self):
-        """Initialize OpenAI embeddings client."""
-        if not OPENAI_AVAILABLE:
-            logger.error("OpenAI not available. RAG functionality disabled.")
+        """Initialize sentence transformer for local embeddings."""
+        if not SENTENCE_TRANSFORMERS_AVAILABLE:
+            logger.error("SentenceTransformers not available. RAG functionality disabled.")
             self.embedding_model = None
-            self.openai_client = None
+            self.model_name = None
             return
         
         try:
-            model_name = self.config.embedding_model
-            logger.info(f"Loading embedding model: {model_name}")
+            # Use the model specified in config, with fallback
+            model_name = getattr(self.config, 'embedding_model', 'all-mpnet-base-v2')
             
-            # Initialize OpenAI client
-            self.openai_client = openai.OpenAI()
-            self.embedding_model = model_name
-            self.embedding_dimension = self.config.embedding_dimension
+            # Handle old OpenAI model names in config
+            if 'text-embedding' in model_name:
+                logger.warning(f"OpenAI model '{model_name}' detected in config, switching to sentence transformers")
+                model_name = 'all-mpnet-base-v2'
             
-            logger.info(f"Embedding model loaded: {self.embedding_dimension}D vectors")
+            logger.info(f"Loading sentence transformer model: {model_name}")
+            
+            # Load sentence transformer model (downloads on first use)
+            self.embedding_model = SentenceTransformer(model_name)
+            self.model_name = model_name
+            self.embedding_dimension = self.embedding_model.get_sentence_embedding_dimension()
+            
+            logger.info(f"✅ Sentence transformer model loaded successfully")
+            logger.info(f"   Model: {model_name}")
+            logger.info(f"   Dimensions: {self.embedding_dimension}")
+            logger.info(f"   Max sequence length: {self.embedding_model.max_seq_length}")
             
         except Exception as e:
-            logger.error(f"Failed to initialize OpenAI embeddings: {str(e)}")
+            logger.error(f"Failed to load sentence transformer model: {str(e)}")
             self.embedding_model = None
-            self.openai_client = None
+            self.model_name = None
     
     def _init_vector_db(self):
         """Initialize ChromaDB for vector storage."""
@@ -121,10 +131,22 @@ class KnowledgeBase:
             try:
                 self.collection = self.vector_db.get_collection(collection_name)
                 logger.info(f"Loaded existing collection: {collection_name}")
+                
+                # Check if collection metadata matches current model
+                metadata = self.collection.metadata or {}
+                stored_model = metadata.get('embedding_model', 'unknown')
+                if self.model_name and stored_model != self.model_name:
+                    logger.warning(f"Vector DB was built with '{stored_model}', current model is '{self.model_name}'")
+                    logger.warning("Consider rebuilding vector DB for optimal performance")
+                
             except:
                 self.collection = self.vector_db.create_collection(
                     name=collection_name,
-                    metadata={"description": "Census R documentation and knowledge corpus"}
+                    metadata={
+                        "description": "Census R documentation and knowledge corpus",
+                        "embedding_model": self.model_name or "unknown",
+                        "embedding_dimension": getattr(self, 'embedding_dimension', 0)
+                    }
                 )
                 logger.info(f"Created new collection: {collection_name}")
             
@@ -205,8 +227,8 @@ class KnowledgeBase:
     
     def _ensure_corpus_indexed(self):
         """Check if corpus is already indexed in vector DB."""
-        if not self.openai_client or not self.collection:
-            logger.warning("Cannot check corpus: OpenAI client or vector DB not available")
+        if not self.embedding_model or not self.collection:
+            logger.warning("Cannot check corpus: sentence transformer or vector DB not available")
             return
         
         try:
@@ -216,7 +238,7 @@ class KnowledgeBase:
                 logger.info(f"Corpus already indexed: {count} documents")
                 return
             else:
-                logger.warning("No documents found in knowledge base. This should contain 36K+ documents from build process.")
+                logger.warning("No documents found in knowledge base. Run build-kb.py to create vector database.")
                 
         except Exception as e:
             logger.error(f"Error checking corpus index: {str(e)}")
@@ -244,7 +266,7 @@ class KnowledgeBase:
             })
             
             # Enhance with RAG if available
-            if self.openai_client and self.collection:
+            if self.embedding_model and self.collection:
                 try:
                     rag_context = await self._search_variable_documentation(var)
                     if rag_context:
@@ -319,7 +341,7 @@ class KnowledgeBase:
     async def search_documentation(self, query: str, context: str = "",
                                  top_k: Optional[int] = None) -> List[Dict[str, Any]]:
         """
-        Search documentation using vector similarity with OpenAI embeddings.
+        Search documentation using vector similarity with sentence transformers.
         
         Args:
             query: Search query
@@ -329,8 +351,8 @@ class KnowledgeBase:
         Returns:
             List of relevant documents with metadata
         """
-        if not self.openai_client or not self.collection:
-            logger.warning("Cannot search: OpenAI client or vector DB not available")
+        if not self.embedding_model or not self.collection:
+            logger.warning("Cannot search: sentence transformer or vector DB not available")
             return []
         
         try:
@@ -338,16 +360,12 @@ class KnowledgeBase:
             search_text = f"{query} {context}".strip()
             top_k = top_k or self.config.vector_search_top_k
             
-            # Generate query embedding using OpenAI
-            response = self.openai_client.embeddings.create(
-                input=[search_text],
-                model=self.embedding_model
-            )
-            query_embedding = response.data[0].embedding
+            # Generate query embedding using sentence transformers
+            query_embedding = self.embedding_model.encode([search_text])
             
             # Search vector database
             results = self.collection.query(
-                query_embeddings=[query_embedding],
+                query_embeddings=query_embedding.tolist(),
                 n_results=top_k
             )
             
@@ -374,21 +392,17 @@ class KnowledgeBase:
             return []
     
     async def add_document(self, title: str, content: str, metadata: Optional[Dict] = None):
-        """Add a document to the knowledge base using OpenAI embeddings."""
-        if not self.openai_client or not self.collection:
-            logger.warning("Cannot add document: OpenAI client or vector DB not available")
+        """Add a document to the knowledge base using sentence transformers."""
+        if not self.embedding_model or not self.collection:
+            logger.warning("Cannot add document: sentence transformer or vector DB not available")
             return
         
         try:
             # Generate unique ID
             doc_id = hashlib.md5(f"{title}_{content[:100]}".encode()).hexdigest()
             
-            # Generate embedding using OpenAI
-            response = self.openai_client.embeddings.create(
-                input=[content],
-                model=self.embedding_model
-            )
-            embedding = response.data[0].embedding
+            # Generate embedding using sentence transformers
+            embedding = self.embedding_model.encode([content])
             
             # Prepare metadata
             doc_metadata = metadata or {}
@@ -402,7 +416,7 @@ class KnowledgeBase:
             self.collection.add(
                 documents=[content],
                 metadatas=[doc_metadata],
-                embeddings=[embedding],
+                embeddings=embedding.tolist(),
                 ids=[doc_id]
             )
             
@@ -414,16 +428,20 @@ class KnowledgeBase:
     def get_stats(self) -> Dict[str, Any]:
         """Get knowledge base statistics."""
         stats = {
-            'embedding_model': self.embedding_model or 'Not available',
+            'embedding_model': self.model_name or 'Not available',
+            'embedding_dimension': getattr(self, 'embedding_dimension', 0),
             'vector_db_available': self.collection is not None,
             'corpus_path': str(self.corpus_path),
             'variable_contexts': len(self.variable_contexts),
-            'location_patterns': len(self.location_patterns['major_cities'])
+            'location_patterns': len(self.location_patterns['major_cities']),
+            'dependencies': 'sentence-transformers (local, no API key required)'
         }
         
         if self.collection:
             try:
                 stats['document_count'] = self.collection.count()
+                metadata = self.collection.metadata or {}
+                stats['collection_metadata'] = metadata
             except:
                 stats['document_count'] = 'Unknown'
         
