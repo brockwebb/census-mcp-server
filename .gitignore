@@ -1,6 +1,21 @@
 #FS
 **/.DS_Store
 
+# Exclude knowledge base source documents but keep the directory structure
+knowledge-base/source-docs/*
+!knowledge-base/source-docs/.gitkeep
+
+# Exclude built vector databases (too large for git)
+knowledge-base/vector-db/*
+!knowledge-base/vector-db/.gitkeep
+data/vector_db/*
+!data/vector_db/.gitkeep
+
+# Keep build artifacts out
+knowledge-base/*.log
+knowledge-base/build_manifest.json
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
