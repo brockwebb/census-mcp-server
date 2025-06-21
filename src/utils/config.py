@@ -36,7 +36,8 @@ class Config:
         """Load configuration from environment, files, and defaults."""
         
         # Base paths - container-aware
-        self.base_dir = Path(os.getenv('CENSUS_MCP_BASE', Path(__file__).parent.parent))
+        # Fix: Go up to project root (census-mcp-server/) from utils/config.py
+        self.base_dir = Path(os.getenv('CENSUS_MCP_BASE', Path(__file__).parent.parent.parent))
         self.data_dir = self.base_dir / "data"
         self.config_dir = self.base_dir / "config"
         self.scripts_dir = self.base_dir / "scripts"
@@ -182,6 +183,8 @@ class Config:
         """Log current configuration status."""
         logger.info("Census MCP Server Configuration:")
         logger.info(f"  Base directory: {self.base_dir}")
+        logger.info(f"  Data directory: {self.data_dir}")
+        logger.info(f"  Vector DB path: {self.vector_db_path}")
         logger.info(f"  Container mode: {self.is_container}")
         logger.info(f"  R executable: {self.r_executable}")
         logger.info(f"  Vector DB type: {self.vector_db_type}")
@@ -403,4 +406,3 @@ def reload_config(config_file: Optional[str] = None) -> Config:
     global _config_instance
     _config_instance = Config(config_file)
     return _config_instance
-

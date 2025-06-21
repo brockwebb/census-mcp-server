@@ -646,8 +646,8 @@ def main():
                        help='Process only a subset of documents for testing')
     parser.add_argument('--source-dir', type=str, default='source-docs',
                        help='Source documents directory')
-    parser.add_argument('--output-dir', type=str, default='vector-db',
-                       help='Output vector database directory')
+    parser.add_argument('--output-dir', type=str, default='../data/vector_db',
+                       help='Output vector database directory (default: ../data/vector_db)')
     
     args = parser.parse_args()
     
