@@ -1,5 +1,15 @@
+# MCP Server dependencies
 mcp>=1.0.0
-chromadb
-sentence-transformers
-numpy
-pathlib2
+
+# Vector database and embeddings
+chromadb>=0.4.0
+sentence-transformers>=2.2.0
+
+# Document processing
+PyPDF2>=3.0.0
+beautifulsoup4>=4.11.0
+markdown>=3.4.0
+
+# Utilities
+tenacity>=8.0.0
+asyncio-mqtt>=0.11.0

@@ -1,0 +1,31 @@
+version: '3.8'
+
+services:
+  census-mcp:
+    build: .
+    container_name: census-mcp-server
+    environment:
+      - CENSUS_API_KEY=${CENSUS_API_KEY:-}
+      - LOG_LEVEL=${LOG_LEVEL:-INFO}
+      - EMBEDDING_MODEL=${EMBEDDING_MODEL:-all-mpnet-base-v2}
+      - CENSUS_MCP_CONTAINER=true
+      - PYTHONPATH=/app/src
+      - R_EXECUTABLE=/usr/bin/Rscript
+    volumes:
+      # Mount your pre-built vector DB
+      - ./data:/app/data
+      # Cache sentence transformer models
+      - census_models:/home/census/.cache/huggingface
+    stdin_open: true
+    tty: true
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "python", "-c", "import sys; sys.path.insert(0, '/app/src'); from utils.config import get_config; c = get_config(); print('OK')"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+volumes:
+  census_models:
+    driver: local

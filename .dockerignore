@@ -1,0 +1,19 @@
+# Ignore the massive knowledge base source docs (900MB)
+knowledge-base/source-docs/
+knowledge-base/downloads/
+
+# Keep the build scripts but ignore temp files
+knowledge-base/*.log
+knowledge-base/temp/
+
+# Ignore other large dev files
+.git/
+*.pyc
+__pycache__/
+.pytest_cache/
+.coverage
+.env
+.venv/
+
+# Keep the built vector DB - we want this in the container
+# data/vector_db/  <- DON'T ignore this

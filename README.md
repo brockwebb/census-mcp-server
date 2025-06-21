@@ -4,12 +4,52 @@
 
 ## Census in Your Pocket 📱
 
-*Work in Progress - Building an AI interface for Census data*
-
 Turn any AI assistant into your personal Census data expert. Ask questions in plain English, get accurate demographic data with proper interpretation and context.
 
 **Before:** "I need ACS Table B19013 for FIPS code 24510 with margin of error calculations..."  
 **After:** "What's the median income in Baltimore compared to Maryland?"
+
+## 🚀 Quick Start - Ready to Use!
+
+### Option 1: Pre-built Container (Recommended)
+```bash
+# Run the Census MCP server (one command - everything included!)
+docker run -e CENSUS_API_KEY=your_key ghcr.io/brockwebb/census-mcp-server:latest
+
+# Or without API key (still works, just slower rate limits)
+docker run ghcr.io/brockwebb/census-mcp-server:latest
+```
+
+### Claude Desktop Configuration
+Add to your `claude_desktop_config.json`:
+
+**macOS:** `~/Library/Application Support/Claude/claude_desktop_config.json`  
+**Windows:** `%APPDATA%\Claude\claude_desktop_config.json`
+
+```json
+{
+  "mcpServers": {
+    "census-mcp": {
+      "command": "docker",
+      "args": ["run", "--rm", "-i", "-e", "CENSUS_API_KEY=your_census_key", "ghcr.io/brockwebb/census-mcp-server:latest"]
+    }
+  }
+}
+```
+
+**That's it!** Restart Claude Desktop and you'll see a 🔨 hammer icon indicating the Census tools are available.
+
+### Get a Census API Key (Optional but Recommended)
+1. Visit: https://api.census.gov/data/key_signup.html
+2. Register for a free API key (improves rate limits)
+3. Add to your Docker command or Claude Desktop config
+
+### Try It Out
+Ask Claude questions like:
+- "What's the population of Austin, Texas?"
+- "Compare median income between California and Texas"  
+- "What's the poverty rate in rural counties?"
+- "How do teacher salaries vary by state?" (it will correctly guide you to BLS data!)
 
 ## The Problem
 
@@ -27,16 +67,14 @@ U.S. Census data is incredibly valuable but has a steep learning curve for non-s
 
 ```mermaid
 graph LR
-    A["User Question: Poverty rate in rural counties?"] --> B["AI Assistant (ChatGPT, Claude, Gemini, etc.)"]
+    A["User Question: Poverty rate in rural counties?"] --> B["AI Assistant (Claude, ChatGPT, etc.)"]
     B --> C["Census MCP Server (Domain Expertise Layer)"]
-    C --> D["Python Census Package (censusdata, etc.)"]
-    C --> H["Metadata Endpoints (follows collection path, e.g., /data/{year}/acs/acs5/{collection}/variables.json where {collection} = profile, detailedprofile, comparisonprofile, or subject)"]
+    C --> D["tidycensus R Package (Geography & Variable Resolution)"]
+    C --> H["Knowledge Base (R Documentation + Census Methodology)"]
     D --> E["Census Bureau API (Official Data Source)"]
-    H --> E
-    E --> D
-    E --> H
-    D --> C
     H --> C
+    E --> D
+    D --> C
     C --> F["Interpreted Results + Context + Caveats"]
     F --> B
     B --> G["User gets accurate answer with proper interpretation"]
@@ -45,110 +83,111 @@ graph LR
     style F fill:#f3e5f5
 ```
 
-*Note: Complex queries may require multiple API calls and batch orchestration*
+## What's Included in the Container
 
-## Analogies: What This Is Like
+**🏗️ Complete Self-Contained System:**
+- R environment with tidycensus, dplyr, and geospatial libraries
+- Python environment with MCP server and vector database  
+- Pre-built knowledge base (85MB) with Census methodology and R documentation
+- All dependencies and configurations ready to go
 
-**GPS for Data Navigation:** Instead of needing to read maps and calculate routes manually, you just say where you want to go and the system handles the navigation.
+**📚 Built-in Intelligence:**
+- **Semantic Query Layer:** Natural language → statistical concepts ("teacher salaries" → BLS guidance, "poverty" → proper Census variables)
+- **145+ pre-mapped demographic variables** with fuzzy matching and concept expansion
+- **Vector database with expert knowledge** from Census methodology, R documentation, and statistical best practices
+- **Smart geography parsing** (handles "Austin, TX" → proper geographic codes, major city disambiguation)
+- **Statistical guidance** (when to use medians vs means, margin of error interpretation, survey limitations)
+- **Power Law optimization:** Core variables (<100ms) + comprehensive tidycensus fallback
 
-**Having a Census Expert in Your Pocket:** Like having a demographer sitting next to you who instantly knows which data to pull, how to interpret it properly, and what caveats to mention.
-
-**What Stripe Did for Payments:** Stripe made online payments simple by hiding complexity behind a clean interface. We aim to make Census data simple by hiding complexity behind natural language.
-
-## Current Scope: Starting with ACS
-
-**Phase 1 Focus:** American Community Survey (ACS) 5-year estimates
-- Most flexible annual demographic dataset
-- Well-supported by existing Python packages
-- Covers demographics, economics, housing, social characteristics
-- *Note: 5-year estimates include every census tract and county; 1-year estimates do not*
-
-**Future Expansion:** Additional surveys (SIPP, Economic Census), geographic visualizations, multi-agency integration
-
-## What We're Building
-
-**Smart Query Translation:** Convert natural language questions into proper Census API calls, handling geography codes (including disambiguation of ambiguous place names like "Springfield, IL" vs FIPS codes - disambiguation based on GNIS + TIGER place class with user prompting when duplicates exist, surfacing state FIPS like "Kansas City, MO `29-38000` or Kansas City, KS `20-36000`?"), variable selection (mapping B19013_001E → "Median household income"), and valid combinations.
-
-**Domain Knowledge Integration:** Encode expertise about which data sources are appropriate for different questions, when estimates are reliable, and how to interpret results correctly.
-
-**Statistical Context:** Automatically include margins of error with proper propagation hierarchy (ACS Generalized Variance Function for supported tables → replicate weights if available via local summary file download → conservative quadratic formula for API-only derived statistics), suppression handling (if estimate in {`(X)`, `-666666666`, `-333333333`, `*`} → treat as suppressed), and CV calculations with numeric guardrails and vintage lag considerations (CV computation uses latest published GVF - CVs for current vintage lag by ~1 year).
-
-**Error Prevention:** Guide users away from common mistakes like inappropriate geographic comparisons or mismatched time periods.
+**🔄 No Setup Required:**
+- No R installation needed
+- No Python environment configuration  
+- No knowledge base building
+- No API wrestling
 
 ## Example Use Cases
 
 - **Basic Demographics:** "Population of Miami-Dade County"
-- **Comparative Analysis:** "Compare unemployment rates between Detroit and Pittsburgh" *(derived from B23025 variables)*
+- **Comparative Analysis:** "Compare unemployment rates between Detroit and Pittsburgh"
 - **Housing Statistics:** "How many renter-occupied units in Phoenix?"
 - **Geographic Patterns:** "Rural poverty rates across the Southeast"
-- **Time Series:** "How has median income changed in Austin since 2015?"
-
-*Note: Complex definitions like "vulnerable populations" will be clearly specified using established indices (e.g., CDC Social Vulnerability Index).*
+- **Smart Routing:** Ask about teacher salaries → guides you to BLS data instead of conflated Census categories
 
 ## Architecture
 
 The system consists of five main layers:
 
-1. **AI Client Layer:** MCP-compatible assistants
+1. **AI Client Layer:** Claude Desktop, Cursor, or other MCP-compatible assistants
 2. **MCP Server (This Project):** Domain expertise, query translation, result interpretation
-3. **Cache/Store Layer:** SQLite/DuckDB for repeated query optimization
-4. **Census Package Layer:** Python libraries like `censusdata` that handle API communication  
+3. **Knowledge Base:** Vector database with R documentation and Census methodology  
+4. **Data Retrieval:** tidycensus R package handling API communication and geography resolution
 5. **Data Source Layer:** Official U.S. Census Bureau APIs
 
 Each layer handles its specialized function, creating a maintainable system that can evolve as both AI tools and Census data infrastructure change.
 
-## Technical Approach
+## Current Scope: American Community Survey Focus
 
-**Built on:** Model Context Protocol (MCP) - *Note: MCP is experimental and subject to breaking changes*
+**What Works Now:**
+- American Community Survey (ACS) 5-year estimates
+- Demographics, economics, housing, social characteristics
+- Geographic resolution from national to place level
+- Proper statistical interpretation with margins of error
 
-**Dependencies:** Python census packages (`censusdata` for ACS/decennial data, custom implementations for other surveys as needed)
+**Future Expansion:** Additional surveys, geographic visualizations, multi-agency integration
 
-**Python Version:** 3.9-3.12 (tested range)
+## Technical Details
 
-**Rate Limiting:** Implements caching and throttling strategies with exponential back-off; limits concurrent connections (≤10) and stays under ~10 req/sec (empirically ≈500/day for unauthenticated calls) with back-off on any 429/500
+**Built on:** Model Context Protocol (MCP) for AI tool integration  
+**Core Engine:** tidycensus R package by Kyle Walker  
+**Knowledge Base:** ChromaDB vector database with sentence transformers  
+**Container:** ~4GB Docker image with all dependencies  
+**Rate Limiting:** Built-in throttling and caching strategies  
 
-**Data Integrity:** Returns only published aggregates with proper suppression checking (if estimate in {`(X)`, `-666666666`, `-333333333`, `*`} → suppressed), never record-level data
+## Development Setup (Advanced Users)
 
-## Quick Start
+If you want to modify or extend the system:
 
-*🚧 Implementation in Progress*
-
-### Prerequisites
-- MCP-compatible AI client (reference implementations: lm-studio, ollama)
-- Python 3.9-3.12
-
-### Future Installation
 ```bash
-git clone https://github.com/yourusername/Census-MCP-Server.git
-cd Census-MCP-Server
-pip install -r requirements.txt
-python mcp_server.py
+git clone https://github.com/brockwebb/census-mcp-server.git
+cd census-mcp-server
+
+# Build from source (requires R, Python, and substantial setup)
+./build.sh
+
+# Or use the pre-built container and modify as needed
+docker run -v $(pwd):/workspace ghcr.io/brockwebb/census-mcp-server:latest
 ```
+
+## Acknowledgments
+
+This project builds on exceptional work by:
+
+- **[Kyle Walker](https://github.com/walkerke)** and the [tidycensus](https://walker-data.com/tidycensus/) R package - the gold standard for Census data access that handles the complex geography and API intricacies we rely on
+- **[Anthropic](https://www.anthropic.com/)** for the Model Context Protocol enabling seamless AI tool integration
+- **The dedicated teams at the U.S. Census Bureau** who collect and maintain this vital public data
+- **The MCP community** for building the ecosystem that makes this integration possible
+
+Special thanks to Kyle Walker whose tidycensus documentation and methodology formed the foundation of our knowledge base. This project essentially wraps tidycensus with natural language intelligence - all the hard statistical and geographic work was solved by the tidycensus team.
 
 ## Contributing
 
 This project aims to democratize access to public data. We welcome contributions in:
 
 - Domain expertise improvements (especially from Census data veterans)
-- Statistical methodology implementation
+- Additional geographic resolution and disambiguation
+- Statistical methodology implementation  
 - Additional data source integration
 - Documentation and examples
 - Testing with real-world use cases
 
 ## Roadmap
 
-- [ ] **Phase 1:** ACS 5-year estimates with basic query translation
-- [ ] **Phase 2:** Statistical rigor (MOE propagation using ACS Generalized Variance Function for ratios, CV ≥ 15% flagged as unreliable, CV ≥ 30% suppressed for small-denominator rates - GVF lag means CVs for current year appear the following spring)
-- [ ] **Phase 3:** Additional Census surveys (SIPP, Economic Census with per-sector logic and version pinning - 2017 vs 2022 vs upcoming ECB schemas, PEP - Population Estimates Program)
-- [ ] **Phase 4:** Geographic visualization capabilities
-- [ ] **Phase 5:** Multi-agency data integration (BLS uses CBSA codes, BEA uses BEA regions - non-trivial crosswalks required)
-
-## Acknowledgments
-
-Built on the excellent work of:
-- [censusdata](https://pypi.org/project/censusdata/) Python package
-- [tidycensus](https://walker-data.com/tidycensus/) R package (inspiration)
-- The dedicated teams at the U.S. Census Bureau who collect and maintain this vital public data
+- [x] **Phase 1:** ACS 5-year estimates with natural language query translation
+- [x] **Phase 2:** Containerized deployment with pre-built knowledge base  
+- [x] **Phase 2.5:** Semantic intelligence layer - variable concept mapping, statistical routing, RAG-enhanced responses
+- [ ] **Phase 3:** Performance optimization - semantic index for <100ms common queries, enhanced geographic disambiguation
+- [ ] **Phase 4:** Additional Census surveys (Economic Census, SIPP, PEP)
+- [ ] **Phase 5:** Multi-agency data integration (BLS employment, BEA economic data)
 
 ---
 
