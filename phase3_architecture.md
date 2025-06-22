@@ -79,174 +79,216 @@ graph TB
     style RE fill:#e8f5e8,stroke:#1b5e20,stroke-width:2px
 ```
 
-## Semantic Index Architecture (Phase 3 Core Innovation)
+## Geographic Intelligence Translation Architecture
 
 ```mermaid
 graph LR
-    subgraph "Query Processing Pipeline"
-        Q[User Query] --> NLP[NLP Preprocessing<br/>Tokenization + Cleaning]
-        NLP --> CR[Concept Recognition<br/>Statistical Concepts]
-        CR --> AM[Alias Matching<br/>Fuzzy String Matching]
+    subgraph "Human Geographic Concepts"
+        HG1["the northeast"]
+        HG2["rural counties"] 
+        HG3["Harris County"]
+        HG4["major cities"]
+        HG5["which state has highest..."]
     end
     
-    subgraph "Semantic Index Store"
-        AM --> LU[Lookup Engine]
-        LU --> SM[Static Mappings<br/>JSON/SQLite FTS]
-        LU --> CM[Concept Map<br/>Hierarchical Variables]
-        LU --> GM[Geography Map<br/>Place Name → FIPS]
+    subgraph "Geography Translator Engine"
+        HG1 --> GT1[Regional Mapper<br/>Northeast → CT,ME,MA,NH,RI,VT]
+        HG2 --> GT2[Classification Mapper<br/>Rural → NCHS urban-rural codes]
+        HG3 --> GT3[Disambiguation Engine<br/>Harris County → Harris County, Texas]
+        HG4 --> GT4[Hierarchy Selector<br/>Major cities → population threshold + geography level]
+        HG5 --> GT5[Comparison Router<br/>National comparison → all states analysis]
     end
     
-    subgraph "Power Law Optimization"
-        SM --> CORE[Core Variables<br/>~20 Golden Variables<br/>Handle 64% of Queries]
-        SM --> EXT[Extended Variables<br/>~145 Total Mappings<br/>Handle 80% of Queries]
-        SM --> FALL[Dynamic Fallback<br/>tidycensus Variable Search<br/>Handle 100% of Queries]
+    subgraph "tidycensus-Compatible Output"
+        GT1 --> TC1[geography='state'<br/>state=c('CT','ME','MA','NH','RI','VT')]
+        GT2 --> TC2[geography='county'<br/>+ rural filter logic]
+        GT3 --> TC3[geography='county'<br/>state='TX', county='Harris']
+        GT4 --> TC4[geography='place'<br/>+ population threshold filter]
+        GT5 --> TC5[geography='state'<br/>state=NULL (all states)]
     end
     
-    subgraph "Performance Tiers"
-        CORE --> T1[Tier 1: <50ms<br/>Direct JSON Lookup]
-        EXT --> T2[Tier 2: <100ms<br/>SQLite FTS + Fuzzy Match]
-        FALL --> T3[Tier 3: <3s<br/>Full tidycensus Search]
-    end
-    
-    style CORE fill:#c8e6c9,stroke:#2e7d32,stroke-width:3px
-    style EXT fill:#fff9c4,stroke:#f57f17,stroke-width:2px
-    style FALL fill:#ffcdd2,stroke:#c62828,stroke-width:2px
+    style GT1 fill:#e1f5fe,stroke:#01579b,stroke-width:2px
+    style GT2 fill:#f3e5f5,stroke:#4a148c,stroke-width:2px
+    style GT3 fill:#fff3e0,stroke:#e65100,stroke-width:2px
+    style GT4 fill:#e8f5e8,stroke:#1b5e20,stroke-width:2px
+    style GT5 fill:#fce4ec,stroke:#880e4f,stroke-width:2px
 ```
 
-## Knowledge Base & RAG Architecture
+## The 4 Essential Capabilities (Not Individual Tools)
+
+### 1. Demography - Variable Intelligence Translation
+```mermaid
+graph LR
+    D1["teacher salary"] --> DT1[Domain Router<br/>→ BLS not Census]
+    D2["median income"] --> DT2[Variable Mapper<br/>→ B19013_001 + why median]
+    D3["poverty rate"] --> DT3[Concept Definer<br/>→ B17001_002 + universe]
+    D4["average income"] --> DT4[Statistical Advisor<br/>→ Use median for income]
+    
+    style DT1 fill:#e1f5fe
+    style DT2 fill:#f3e5f5  
+    style DT3 fill:#fff3e0
+    style DT4 fill:#e8f5e8
+```
+
+### 2. Geography - Spatial Intelligence Translation
+```mermaid
+graph LR
+    G1["the northeast"] --> GT1[Regional Resolver<br/>→ Multi-state analysis]
+    G2["rural counties"] --> GT2[Classification Filter<br/>→ Geographic filtering]
+    G3["Harris County"] --> GT3[Disambiguator<br/>→ Harris County, Texas]
+    G4["which state highest"] --> GT4[Comparison Router<br/>→ National analysis]
+    
+    style GT1 fill:#e1f5fe
+    style GT2 fill:#f3e5f5
+    style GT3 fill:#fff3e0
+    style GT4 fill:#e8f5e8
+```
+
+### 3. Statistics - Methodological Intelligence
+```mermaid
+graph LR
+    S1[Margin of Error] --> ST1[Interpretation Engine<br/>Confidence intervals]
+    S2[Sample Size] --> ST2[Reliability Checker<br/>Adequate/inadequate]
+    S3[Median vs Mean] --> ST3[Measure Selector<br/>Appropriate statistic]
+    S4[Statistical Validity] --> ST4[Quality Controller<br/>Suppression rules]
+    
+    style ST1 fill:#e1f5fe
+    style ST2 fill:#f3e5f5
+    style ST3 fill:#fff3e0
+    style ST4 fill:#e8f5e8
+```
+
+### 4. Statistical Reasoning - Domain Intelligence
+```mermaid
+graph LR
+    R1["What is average teacher salary?"] --> RT1[Context Provider<br/>US average + BLS guidance +<br/>suggest location specificity]
+    R2[Data Source Routing] --> RT2[Agency Router<br/>Census vs BLS vs Other]
+    R3[Limitation Explanation] --> RT3[Scope Clarifier<br/>What we can/cannot answer]
+    R4[Question Improvement] --> RT4[Query Enhancer<br/>Guide to better questions]
+    
+    style RT1 fill:#e1f5fe
+    style RT2 fill:#f3e5f5
+    style RT3 fill:#fff3e0
+    style RT4 fill:#e8f5e8
+```
+
+## Data Platform Architecture - Knowledge Base & Ontology Integration
 
 ```mermaid
 graph TB
-    subgraph "Document Corpus"
-        RD[R Documentation<br/>tidycensus + tigris]
-        CM[Census Methodology<br/>ACS Design & Procedures]
-        VD[Variable Definitions<br/>Subject Definitions PDF]
-        GP[Geography Concepts<br/>TIGER Documentation]
-        ST[Statistical Guidance<br/>MOE + CV Best Practices]
-    end
-    
-    subgraph "Vector Database Pipeline"
-        RD --> CHUNK[Document Chunking<br/>Smart Structured Splitting]
-        CM --> CHUNK
-        VD --> CHUNK
-        GP --> CHUNK
-        ST --> CHUNK
+    subgraph "Build Time - Knowledge Base Platform"
+        CONFIG[config.yaml<br/>Surveys, Years, Agencies]
+        CONFIG --> PULL[pull-ontology-sources.py<br/>Automated Data Pulls]
         
-        CHUNK --> EMB[Embedding Generation<br/>Sentence Transformers<br/>all-mpnet-base-v2]
-        EMB --> STORE[ChromaDB Storage<br/>85MB Vector Index]
+        PULL --> RAW[ontology/<br/>Raw Authoritative Data]
+        PULL --> DOCS[source-docs/<br/>RAG Documentation]
+        
+        RAW --> PROCESS[build-ontology.py<br/>Knowledge Graph Builder]
+        DOCS --> BUILD[build-vector-db.py<br/>RAG Vector Database]
+        
+        PROCESS --> KG[knowledge-graph/<br/>Processed Relationships]
+        BUILD --> VDB[Vector Database<br/>85MB ChromaDB]
     end
     
-    subgraph "Query Enhancement"
-        UQ[User Query] --> QE[Query Expansion<br/>Add Statistical Context]
-        QE --> VS[Vector Search<br/>Semantic Similarity]
-        VS --> STORE
-        STORE --> CTX[Context Retrieval<br/>Top-K Relevant Docs]
-        CTX --> AUG[Response Augmentation<br/>Methodology + Caveats]
+    subgraph "Runtime - Fast Lookup Layer"
+        KG --> SQLITE[data/ontology/<br/>SQLite Complex Queries]
+        KG --> JSON[data/ontology/<br/>JSON Hash Tables]
+        VDB --> VECTOR[data/vector_db/<br/>RAG Search]
+        
+        SQLITE --> LOOKUP[Ontology Lookup Engine<br/><1ms Variable Resolution]
+        JSON --> LOOKUP
+        VECTOR --> RAG[RAG Context Engine<br/>Methodology & Documentation]
     end
     
-    style CHUNK fill:#e1f5fe
-    style EMB fill:#f3e5f5
-    style VS fill:#fff3e0
+    subgraph "Human Language Translation"
+        HLT[Human Language Translator] --> LOOKUP
+        HLT --> RAG
+        LOOKUP --> ROUTE[Routing Decision<br/>Census vs BLS vs Other]
+        RAG --> CONTEXT[Statistical Context<br/>Methodology & Caveats]
+    end
+    
+    style CONFIG fill:#e1f5fe,stroke:#01579b,stroke-width:2px
+    style LOOKUP fill:#c8e6c9,stroke:#2e7d32,stroke-width:3px
+    style RAG fill:#f3e5f5,stroke:#4a148c,stroke-width:2px
+    style ROUTE fill:#fff3e0,stroke:#e65100,stroke-width:2px
 ```
 
-## Phase 3 Performance Architecture
+## Configuration-Driven Data Platform
 
+### Knowledge Base Configuration Structure
+```yaml
+# knowledge-base/scripts/config.yaml
+surveys:
+  census:
+    - name: "acs5"
+      years: [2018, 2019, 2020, 2021, 2022]
+      description: "5-year American Community Survey"
+      variables_endpoint: "{year}/acs/acs5/variables.json"
+    - name: "acs1" 
+      years: [2019, 2021, 2022]
+      description: "1-year American Community Survey"
+      variables_endpoint: "{year}/acs/acs1/variables.json"
+    - name: "dec"
+      years: [2020]
+      description: "Decennial Census"
+      variables_endpoint: "{year}/dec/variables.json"
+  
+  future_expansion:
+    - name: "sipp"
+      source: "census"
+      description: "Survey of Income and Program Participation"
+    - name: "cps" 
+      source: "bls"
+      description: "Current Population Survey"
+
+agencies:
+  census:
+    base_url: "https://api.census.gov/data"
+    ontology_priority: "primary"
+  bls:
+    soc_codes_url: "https://www.bls.gov/soc/"
+    ontology_priority: "occupation_routing"
+
+geographic_levels:
+  - "us"
+  - "state"
+  - "county" 
+  - "place"
+  - "tract"
+  - "block_group"
+```
+
+### Build Pipeline Architecture
 ```mermaid
 graph LR
-    subgraph "Request Flow"
-        REQ[Incoming Query] --> CACHE[Cache Check<br/>Redis/SQLite]
-        CACHE --> HIT{Cache Hit?}
-        HIT -->|Yes| FAST[Return Cached<br/><10ms]
-        HIT -->|No| ROUTE[Query Router]
+    subgraph "Automated Data Collection"
+        C[config.yaml] --> P1[pull-ontology-sources.py]
+        P1 --> API1[Census Variables API<br/>28K+ variables × 5 years]
+        P1 --> API2[BLS SOC Classifications<br/>Occupation taxonomies]
+        P1 --> API3[Geographic Hierarchies<br/>TIGER relationships]
     end
     
-    subgraph "Routing Logic"
-        ROUTE --> STAT{Static Mappable?}
-        STAT -->|Yes| STATIC[Static Lookup<br/><50ms]
-        STAT -->|No| FUZZY{Fuzzy Matchable?}
-        FUZZY -->|Yes| EXTEND[Extended Search<br/><100ms]
-        FUZZY -->|No| DYNAMIC[Dynamic tidycensus<br/><3s]
+    subgraph "Data Processing Pipeline"
+        API1 --> O1[ontology/census-variables-*.csv]
+        API2 --> O2[ontology/bls-soc-codes.json]
+        API3 --> O3[ontology/geographic-hierarchy.json]
+        
+        O1 --> B[build-ontology.py]
+        O2 --> B
+        O3 --> B
+        
+        B --> KG1[knowledge-graph/variable-concepts.json]
+        B --> KG2[knowledge-graph/agency-routing.json]
+        B --> KG3[knowledge-graph/geographic-relationships.json]
     end
     
-    subgraph "Caching Strategy"
-        STATIC --> CACHE_LONG[Cache 24h<br/>Static Data]
-        EXTEND --> CACHE_MED[Cache 4h<br/>Extended Lookups]
-        DYNAMIC --> CACHE_SHORT[Cache 1h<br/>Dynamic Results]
+    subgraph "Runtime Optimization"
+        KG1 --> R1[data/ontology/census_variables.db<br/>SQLite for complex queries]
+        KG2 --> R2[data/ontology/concept_mapping.json<br/>Hash tables for speed]
+        KG3 --> R3[data/ontology/geographic_hierarchy.json<br/>Nested relationships]
     end
     
-    subgraph "Performance Monitoring"
-        FAST --> METRICS[Response Time Metrics]
-        STATIC --> METRICS
-        EXTEND --> METRICS
-        DYNAMIC --> METRICS
-        METRICS --> ALERT[Performance Alerts<br/>SLA Monitoring]
-    end
-    
-    style STATIC fill:#c8e6c9,stroke:#2e7d32
-    style EXTEND fill:#fff9c4,stroke:#f57f17
-    style DYNAMIC fill:#ffcdd2,stroke:#c62828
+    style C fill:#e1f5fe,stroke:#01579b,stroke-width:2px
+    style B fill:#f3e5f5,stroke:#4a148c,stroke-width:2px
+    style R1 fill:#c8e6c9,stroke:#2e7d32,stroke-width:2px
 ```
-
-## Phase 3 Design Specifications
-
-### Semantic Index Structure
-```json
-{
-  "core_variables": {
-    "population": {
-      "variable": "B01003_001",
-      "aliases": ["pop", "people", "residents", "total_population"],
-      "statistical_note": "Universe: Total population",
-      "response_time_target": "30ms"
-    },
-    "median_income": {
-      "variable": "B19013_001", 
-      "aliases": ["income", "household_income", "earnings", "salary"],
-      "statistical_note": "Inflation-adjusted, excludes group quarters",
-      "response_time_target": "30ms"
-    }
-  },
-  "extended_variables": { /* 125 additional mappings */ },
-  "concept_hierarchies": {
-    "income": ["median_income", "per_capita_income", "family_income"],
-    "employment": ["unemployment_rate", "labor_force", "employment_ratio"]
-  }
-}
-```
-
-### Performance Targets
-- **Tier 1 (Core):** <50ms for 20 golden variables (64% of queries)
-- **Tier 2 (Extended):** <100ms for 145 total variables (80% of queries)  
-- **Tier 3 (Dynamic):** <3s for comprehensive tidycensus search (100% coverage)
-- **Cache Hit Rate:** >70% for repeated location/variable combinations
-- **Uptime SLA:** 99.5% availability
-
-### Geographic Disambiguation Enhancement
-```mermaid
-graph TD
-    LOC[Location Input: "Springfield"] --> AMB{Ambiguous?}
-    AMB -->|Yes| DIS[Disambiguation Logic]
-    AMB -->|No| DIRECT[Direct FIPS Lookup]
-    
-    DIS --> MAJOR[Check Major Cities<br/>Population Ranking]
-    DIS --> STATE[State Context Clues<br/>"Springfield, IL"]
-    DIS --> USER[User Clarification<br/>Present Options]
-    
-    MAJOR --> RANK[Population-Weighted<br/>Preference]
-    STATE --> FIPS[FIPS Code Resolution]
-    USER --> SELECT[User Selection]
-    
-    RANK --> FIPS
-    SELECT --> FIPS
-    DIRECT --> FIPS
-    FIPS --> VALID[Validate Geographic<br/>Hierarchy]
-```
-
-### Implementation Priority
-1. **Core Variable Static Index** (Week 1)
-2. **Fuzzy Matching Engine** (Week 2)  
-3. **Caching Layer** (Week 3)
-4. **Performance Monitoring** (Week 4)
-5. **Geographic Disambiguation** (Week 5-6)
-
-This architecture maintains the current functionality while adding the performance optimizations needed for production-scale deployment.
