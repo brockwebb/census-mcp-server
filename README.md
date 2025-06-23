@@ -1,6 +1,14 @@
-# Census-MCP-Server
+# Open Census MCP Server
+[![Unofficial Project](https://img.shields.io/badge/Census-Unofficial-blue)](#disclaimer)
 
-> **Disclaimer: This is an independent project and is not officially affiliated with or endorsed by the U.S. Census Bureau. All data is sourced from publicly available Census Bureau APIs with endpoint versions pinned to current releases. No Census seals, logos, or branding are used in compliance with Census graphic standards. Any views expressed are those of the authors and not those of the U.S. Census Bureau.**
+## Disclaimer <a name="disclaimer"></a>
+This is an **independent, open-source experiment**.  
+It is **not** affiliated with, endorsed by, or sponsored by the U.S. Census Bureau or the Department of Commerce.
+
+Data retrieved through this project remains subject to the terms of the original data providers (e.g., Census API Terms of Service).
+
+## Stability
+Pre-1.0 API – breaking changes may occur. Pin a commit or Docker tag for production use.
 
 ## Census in Your Pocket 📱
 
