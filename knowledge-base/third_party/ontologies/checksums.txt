@@ -1,0 +1,1 @@
+0bdd3c53fea47dc5891788a9b7edbe5fdaed88d0873dda79005e74040e252ace  knowledge-base/third_party/ontologies/coos.ttl

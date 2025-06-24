@@ -1,0 +1,159 @@
+{
+  "start_time": "2025-06-23T21:03:14.179389",
+  "end_time": "2025-06-23T21:04:38.003942",
+  "total_duration_seconds": 83.82453727722168,
+  "concepts_processed": 10,
+  "successful_mappings": 9,
+  "average_confidence": 0.9333333333333333,
+  "mappings": [
+    {
+      "concept": "MedianHouseholdIncome",
+      "definition": "The median income of all households in a geographic area",
+      "expected_difficulty": "easy",
+      "census_variables": [
+        "B19013_001E"
+      ],
+      "confidence": 0.95,
+      "reasoning": "The variable B19013_001E directly measures the median household income in the past 12 months, adjusted for 2022 inflation, which aligns perfectly with the concept of Median Household Income. It focuses on households, as required, and uses the median rather than mean, which is more robust to outliers and therefore a better measure for income distribution.",
+      "statistical_method": "median",
+      "universe": "households",
+      "mapping_duration": 6.197789907455444,
+      "success": true
+    },
+    {
+      "concept": "PovertyRate",
+      "definition": "Percentage of population below the federal poverty line",
+      "expected_difficulty": "easy",
+      "census_variables": [
+        "B17001_002E",
+        "B17001_001E"
+      ],
+      "confidence": 0.95,
+      "reasoning": "These variables directly measure the concept of poverty rate by providing both the count of individuals below the poverty level (B17001_002E) and the total population considered for poverty status (B17001_001E), allowing for the calculation of a rate. The conceptual alignment is strong as both variables are focused on poverty status in the past 12 months by sex by age, which is a comprehensive demographic approach. The universe of individuals is appropriate for calculating a poverty rate, which typically considers individuals rather than households or families in isolation. The statistical method of rate is explicitly required for calculating a poverty rate, necessitating both a numerator (people below poverty) and a denominator (total population).",
+      "statistical_method": "rate",
+      "universe": "individuals",
+      "mapping_duration": 12.008236169815063,
+      "success": true
+    },
+    {
+      "concept": "EducationalAttainment",
+      "definition": "Highest level of education completed by individuals",
+      "expected_difficulty": "medium",
+      "census_variables": [
+        "B15003_002E",
+        "B15003_001E"
+      ],
+      "confidence": 0.95,
+      "reasoning": "B15003_002E directly measures the count of individuals 25 years and over with no schooling completed, which is a specific level of educational attainment. B15003_001E provides the total population count for the same age group, allowing for the calculation of rates or percentages of specific educational attainment levels within the total population. This combination aligns closely with the concept of measuring the highest level of education completed by individuals, as it covers the entire spectrum of educational attainment from no schooling to the highest levels of education.",
+      "statistical_method": "count",
+      "universe": "individuals",
+      "mapping_duration": 7.535597085952759,
+      "success": true
+    },
+    {
+      "concept": "HousingTenure",
+      "definition": "Whether housing units are owner-occupied or renter-occupied",
+      "expected_difficulty": "easy",
+      "census_variables": [
+        "B25003_002E",
+        "B25003_003E"
+      ],
+      "confidence": 0.95,
+      "reasoning": "The variables B25003_002E and B25003_003E directly measure the concept of Housing Tenure by providing counts of owner-occupied and renter-occupied housing units, respectively. These variables are conceptually aligned with the definition of Housing Tenure as they categorize housing units based on whether they are owner-occupied or renter-occupied. The universe of these variables is appropriate as they focus on housing units, which is the relevant universe for the concept of Housing Tenure. The statistical method is a count, which is suitable for measuring the number of housing units in each category of tenure.",
+      "statistical_method": "count",
+      "universe": "households",
+      "mapping_duration": 7.1870808601379395,
+      "success": true
+    },
+    {
+      "concept": "UnemploymentRate",
+      "definition": "Percentage of labor force that is unemployed",
+      "expected_difficulty": "medium",
+      "census_variables": [
+        "B23025_005E",
+        "B23025_001E"
+      ],
+      "confidence": 0.9,
+      "reasoning": "To calculate the Unemployment Rate, we need the number of unemployed individuals within the labor force as the numerator and the total labor force as the denominator. B23025_005E provides the estimate for the unemployed segment within the labor force, aligning perfectly with the numerator requirement. B23025_001E gives the total population 16 years and over, but for a more accurate calculation, we should use B23025_002E (total in labor force) as it more accurately represents the denominator for the unemployment rate calculation, reflecting the total labor force which is the appropriate universe for this measure. The initial selection of B23025_001E was incorrect in the context of calculating the unemployment rate, as it encompasses the total population 16 years and over, not just those in the labor force. The correct variable for the denominator should indeed be B23025_002E.",
+      "statistical_method": "rate",
+      "universe": "individuals",
+      "mapping_duration": 8.928567171096802,
+      "success": true
+    },
+    {
+      "concept": "MedianAge",
+      "definition": "The median age of the population in a geographic area",
+      "expected_difficulty": "easy",
+      "census_variables": [
+        "B07002_001E"
+      ],
+      "confidence": 0.9,
+      "reasoning": "B07002_001E directly measures the median age of the total population, aligning closely with the concept of MedianAge. It considers the entire population without restricting the measurement to specific conditions such as poverty status or housing costs, making it the most appropriate choice among the listed variables. The variable's focus on median age for the current residence in the United States, regardless of geographical mobility in the past year, ensures a broad and inclusive measurement that is conceptually aligned with the definition of MedianAge.",
+      "statistical_method": "median",
+      "universe": "individuals",
+      "mapping_duration": 7.586730003356934,
+      "success": true
+    },
+    {
+      "concept": "RaceEthnicity",
+      "definition": "Racial and ethnic composition of the population",
+      "expected_difficulty": "medium",
+      "census_variables": [],
+      "confidence": 0.0,
+      "reasoning": "None of the provided Census variables directly measure the racial and ethnic composition of the population. All listed variables focus on other demographic characteristics such as poverty status, income, industry of employment, class of worker, field of bachelor's degree, citizenship status, language spoken at home, and median earnings, which do not align with the concept of RaceEthnicity.",
+      "statistical_method": "other",
+      "universe": "other",
+      "mapping_duration": 6.8015899658203125,
+      "success": false
+    },
+    {
+      "concept": "HouseholdSize",
+      "definition": "Average number of people per household",
+      "expected_difficulty": "easy",
+      "census_variables": [
+        "B25010_001E"
+      ],
+      "confidence": 0.95,
+      "reasoning": "B25010_001E directly measures the average household size of occupied housing units without distinguishing between owner-occupied or renter-occupied, making it the most directly aligned with the concept of 'Average number of people per household'. It uses mean as the statistical method, which is appropriate for calculating an average. The universe of this variable is households, which matches the concept's focus.",
+      "statistical_method": "mean",
+      "universe": "households",
+      "mapping_duration": 6.557281017303467,
+      "success": true
+    },
+    {
+      "concept": "MedianHomeValue",
+      "definition": "Median value of owner-occupied housing units",
+      "expected_difficulty": "easy",
+      "census_variables": [
+        "B25077_001E"
+      ],
+      "confidence": 0.95,
+      "reasoning": "B25077_001E directly measures the median value of owner-occupied housing units in dollars, which aligns perfectly with the concept of MedianHomeValue. It specifically targets the median value, which is the statistical method required, and focuses on owner-occupied housing units, making it appropriate for the universe of households. Other variables either focus on subsets of this concept (e.g., with or without a mortgage) or measure related but distinct concepts (e.g., monthly owner costs, aggregate value, or population in housing units).",
+      "statistical_method": "median",
+      "universe": "households",
+      "mapping_duration": 6.365094900131226,
+      "success": true
+    },
+    {
+      "concept": "CommuteTime",
+      "definition": "Time spent traveling to work for workers",
+      "expected_difficulty": "medium",
+      "census_variables": [
+        "B08013_001E"
+      ],
+      "confidence": 0.9,
+      "reasoning": "B08013_001E directly measures the aggregate travel time to work, which aligns closely with the concept of CommuteTime as it encompasses the total time spent by all workers traveling to work. This variable is the most comprehensive and general, not limited by sex, means of transportation, travel time brackets, or place of work, making it the best fit for the concept's broad definition. It captures the total effect across all workers, which is what the concept aims to measure.",
+      "statistical_method": "count",
+      "universe": "individuals",
+      "mapping_duration": 5.615264892578125,
+      "success": true
+    }
+  ],
+  "performance_metrics": {
+    "average_mapping_time": 7.553515778647529,
+    "min_mapping_time": 5.615264892578125,
+    "max_mapping_time": 12.008236169815063,
+    "total_llm_time": 67.98164200782776
+  },
+  "errors": []
+}

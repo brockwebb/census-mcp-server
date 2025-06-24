@@ -13,3 +13,15 @@ markdown>=3.4.0
 # Utilities
 tenacity>=8.0.0
 asyncio-mqtt>=0.11.0
+
+# LLM API client
+openai>=1.0.0
+
+# RDF/Ontology processing
+rdflib>=7.0.0
+
+# HTTP requests for Census API
+requests>=2.28.0
+
+# Data handling
+dataclasses  # Built-in for Python 3.7+

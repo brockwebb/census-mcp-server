@@ -1,0 +1,5 @@
+@prefix cendata: <https://raw.githubusercontent.com/brockwebb/census-mcp-server/main/ontology#>
+@prefix coos: <https://linked-statistics.github.io/COOS/coos.html#>
+
+# cendata: namespace for our custom Census concept extensions
+# We'll add specific concepts as we discover gaps in COOS coverage

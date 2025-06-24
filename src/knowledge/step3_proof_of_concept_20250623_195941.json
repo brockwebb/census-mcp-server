@@ -1,0 +1,155 @@
+{
+  "start_time": "2025-06-23T19:58:37.566146",
+  "end_time": "2025-06-23T19:59:41.728034",
+  "total_duration_seconds": 64.16186809539795,
+  "concepts_processed": 10,
+  "successful_mappings": 6,
+  "average_confidence": 0.7250000000000001,
+  "mappings": [
+    {
+      "concept": "MedianHouseholdIncome",
+      "definition": "The median income of all households in a geographic area",
+      "expected_difficulty": "easy",
+      "census_variables": [],
+      "confidence": 0.0,
+      "reasoning": "None of the provided Census variables directly measure the Median Household Income for all households in a geographic area without the condition of geographical mobility in the past year. All variables are specific to subsets of the population based on their mobility status, either within the same area, to a different county, state, or from Puerto Rico to the United States, and do not encompass the total household population in a geographic area.",
+      "statistical_method": "median",
+      "universe": "households",
+      "mapping_duration": 4.6187968254089355,
+      "success": false
+    },
+    {
+      "concept": "PovertyRate",
+      "definition": "Percentage of population below the federal poverty line",
+      "expected_difficulty": "easy",
+      "census_variables": [],
+      "confidence": 0.0,
+      "reasoning": "None of the provided Census variables directly measure the overall percentage of the population below the federal poverty line without specific reference to language spoken at home. All variables are segmented by language spoken, which does not align well with the general concept of poverty rate across the entire population regardless of language.",
+      "statistical_method": "rate",
+      "universe": "individuals",
+      "mapping_duration": 4.574282884597778,
+      "success": false
+    },
+    {
+      "concept": "EducationalAttainment",
+      "definition": "Highest level of education completed by individuals",
+      "expected_difficulty": "medium",
+      "census_variables": [],
+      "confidence": 0.0,
+      "reasoning": "None of the provided Census variables directly measure the highest level of education completed by individuals. All variables listed are related to the allocation of poverty status and income levels, which do not align conceptually with educational attainment.",
+      "statistical_method": "other",
+      "universe": "individuals",
+      "mapping_duration": 3.3950870037078857,
+      "success": false
+    },
+    {
+      "concept": "HousingTenure",
+      "definition": "Whether housing units are owner-occupied or renter-occupied",
+      "expected_difficulty": "easy",
+      "census_variables": [],
+      "confidence": 0.95,
+      "reasoning": "None of the provided variables directly measure the concept of HousingTenure as defined by whether housing units are owner-occupied or renter-occupied without additional context regarding housing costs as a percentage of household income. All variables are specifically related to the cost burden or income levels associated with either owner-occupied or renter-occupied units, rather than the simple categorization of units as either owner-occupied or renter-occupied.",
+      "statistical_method": "count",
+      "universe": "households",
+      "mapping_duration": 7.092951059341431,
+      "success": true
+    },
+    {
+      "concept": "UnemploymentRate",
+      "definition": "Percentage of labor force that is unemployed",
+      "expected_difficulty": "medium",
+      "census_variables": [
+        "B12006_006E",
+        "B12006_011E",
+        "B12006_017E",
+        "B12006_022E",
+        "B12006_028E",
+        "B12006_033E",
+        "B12006_039E",
+        "B12006_044E",
+        "B12006_050E",
+        "B12006_055E"
+      ],
+      "confidence": 0.75,
+      "reasoning": "These variables collectively cover the unemployed population within the labor force, segmented by marital status and sex. While no single variable captures the entire unemployed labor force, combining these variables can approximate the total unemployed population across different marital statuses. This approach aligns conceptually with measuring the unemployment rate, though it requires aggregation and additional calculation to derive the overall rate.",
+      "statistical_method": "count",
+      "universe": "individuals",
+      "mapping_duration": 7.733273029327393,
+      "success": true
+    },
+    {
+      "concept": "MedianAge",
+      "definition": "The median age of the population in a geographic area",
+      "expected_difficulty": "easy",
+      "census_variables": [
+        "B07402PR_001E"
+      ],
+      "confidence": 0.75,
+      "reasoning": "This variable directly measures the median age, aligning closely with the concept of MedianAge. It is specific to Puerto Rico and considers geographical mobility in the past year, which, while adding a layer of specificity, still fundamentally captures median age. The other variables either focus on income or are too specific in their demographic (e.g., moved within the same municipio, to a different municipio, or to the United States), which might not fully represent the general median age of the entire geographic area's population.",
+      "statistical_method": "median",
+      "universe": "individuals",
+      "mapping_duration": 8.416905879974365,
+      "success": true
+    },
+    {
+      "concept": "RaceEthnicity",
+      "definition": "Racial and ethnic composition of the population",
+      "expected_difficulty": "medium",
+      "census_variables": [],
+      "confidence": 0.1,
+      "reasoning": "None of the provided variables directly measure the racial and ethnic composition of the population. All variables are focused on the foreign-born population's language skills and citizenship status, not their race or ethnicity.",
+      "statistical_method": "count",
+      "universe": "individuals",
+      "mapping_duration": 4.019124984741211,
+      "success": true
+    },
+    {
+      "concept": "HouseholdSize",
+      "definition": "Average number of people per household",
+      "expected_difficulty": "easy",
+      "census_variables": [],
+      "confidence": 0.0,
+      "reasoning": "None of the provided Census variables directly measure the average number of people per household. All variables are focused on the presence of people 60 years and over in various household compositions, which does not align with the concept of measuring household size.",
+      "statistical_method": "mean",
+      "universe": "households",
+      "mapping_duration": 3.4206130504608154,
+      "success": false
+    },
+    {
+      "concept": "MedianHomeValue",
+      "definition": "Median value of owner-occupied housing units",
+      "expected_difficulty": "easy",
+      "census_variables": [
+        "B25097_002E",
+        "B25097_003E"
+      ],
+      "confidence": 0.9,
+      "reasoning": "These variables directly measure the median value of owner-occupied housing units, differentiated by whether they have a mortgage or not. This closely aligns with the concept of Median Home Value as it specifically targets owner-occupied units and provides a median value, which is the statistical method required. The division between units with and without a mortgage allows for a comprehensive understanding of the median home value across different types of ownership statuses. Other variables focus on housing costs as a percentage of household income or specific income brackets, which do not directly measure home value.",
+      "statistical_method": "median",
+      "universe": "households",
+      "mapping_duration": 6.1977620124816895,
+      "success": true
+    },
+    {
+      "concept": "CommuteTime",
+      "definition": "Time spent traveling to work for workers",
+      "expected_difficulty": "medium",
+      "census_variables": [
+        "B08013_001E"
+      ],
+      "confidence": 0.9,
+      "reasoning": "B08013_001E directly measures the aggregate travel time to work in minutes for all workers, aligning closely with the concept of CommuteTime as it encompasses the total time spent by all workers traveling to work without discriminating by sex, travel time brackets, or other factors. This variable is the most comprehensive and directly aligned with the concept definition. The other variables segment the data by sex or specific time brackets, which, while useful for more detailed analysis, do not as directly match the concept of total commute time for all workers.",
+      "statistical_method": "count",
+      "universe": "individuals",
+      "mapping_duration": 5.651776075363159,
+      "success": true
+    }
+  ],
+  "performance_metrics": {
+    "average_mapping_time": 6.518632173538208,
+    "min_mapping_time": 4.019124984741211,
+    "max_mapping_time": 8.416905879974365,
+    "total_llm_time": 39.11179304122925
+  },
+  "errors": []
+}
