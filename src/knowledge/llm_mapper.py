@@ -171,6 +171,10 @@ class LLMConceptMapper:
                         score += 2
                     if keyword.lower() in var_id.lower():
                         score += 4  # Highest weight for variable ID matches
+                    
+                    # SPECIAL: Exact table ID matches get huge boost
+                    if keyword.upper() in var_id and len(keyword) >= 5:  # B02001, B03002
+                        score += 25  # Massive boost for exact table matches
             
             # PRIORITY BOOST for base tables (no race/ethnicity suffix)
             # Base tables like B17001_001E are more general than B17001A_001E (race-specific)

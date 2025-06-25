@@ -1,0 +1,59 @@
+{
+  "demographic": [
+    "Age; Sex",
+    "Group Quarters Population",
+    "Hispanic or Latino Origin",
+    "Race",
+    "Relationship to Householder",
+    "Total Population"
+  ],
+  "social": [
+    "Ancestry",
+    "Citizen Voting-Age Population",
+    "Citizenship Status",
+    "Disability Status",
+    "Educational Attainment",
+    "Fertility",
+    "Grandparents as Caregivers",
+    "Language Spoken at Home",
+    "Marital History",
+    "Marital Status",
+    "Migration/Residence 1 Year Ago",
+    "Place of Birth",
+    "School Enrollment",
+    "Undergraduate Field of Degree",
+    "Veteran Status; Period of Military Service",
+    "Year of Entry"
+  ],
+  "economic": [
+    "Class of Worker",
+    "Commuting (Journey to Work) and Place of Work",
+    "Employment Status",
+    "Food Stamps/Supplemental Nutrition Assistance Program (SNAP)",
+    "Health Insurance Coverage",
+    "Income and Earnings",
+    "Industry",
+    "Occupation",
+    "Poverty Status",
+    "Work Status Last Year"
+  ],
+  "housing": [
+    "Bedrooms",
+    "Computer and Internet Use",
+    "House Heating Fuel",
+    "Kitchen Facilities",
+    "Occupancy/Vacancy Status",
+    "Occupants per Room",
+    "Plumbing Facilities",
+    "Rent",
+    "Rooms",
+    "Selected Monthly Owner Costs",
+    "Telephone Service Available",
+    "Tenure (Owner/Renter)",
+    "Units in Structure",
+    "Value of Home",
+    "Vehicles Available",
+    "Year Householder Moved Into Unit",
+    "Year Structure Built"
+  ]
+}

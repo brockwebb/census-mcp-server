@@ -1,0 +1,1165 @@
+{
+  "start_time": "2025-06-23T21:55:58.726298",
+  "end_time": "2025-06-23T22:05:04.983174",
+  "total_duration_seconds": 546.2568581104279,
+  "concepts_processed": 75,
+  "successful_mappings": 65,
+  "average_confidence": 0.8907692307692311,
+  "mappings": [
+    {
+      "concept": "MedianHouseholdIncome",
+      "definition": "The median income of all households",
+      "category": "economics",
+      "difficulty": "easy",
+      "census_variables": [
+        "B19013_001E"
+      ],
+      "confidence": 0.95,
+      "reasoning": "The variable B19013_001E directly measures the Median Household Income in the past 12 months (in 2022 inflation-adjusted dollars), which aligns perfectly with the concept definition of Median Household Income. It captures the median income of all households, which is the exact conceptual alignment needed. Other variables either focus on specific subsets of the population (e.g., those receiving SNAP, by age of householder, by tenure) or measure different concepts (e.g., poverty status).",
+      "statistical_method": "median",
+      "universe": "households",
+      "mapping_duration": 7.08075475692749,
+      "success": true
+    },
+    {
+      "concept": "PovertyRate",
+      "definition": "Percentage of population below the federal poverty line",
+      "category": "economics",
+      "difficulty": "easy",
+      "census_variables": [
+        "B17001_002E",
+        "B17001_001E"
+      ],
+      "confidence": 0.95,
+      "reasoning": "The selected variables directly align with the concept of calculating the poverty rate. B17001_002E provides the count of individuals below the poverty level, serving as the numerator, while B17001_001E gives the total population considered for poverty status, serving as the denominator. This pairing is essential for calculating a rate, as it allows for the division of the population below the poverty level by the total population assessed for poverty, yielding the percentage of the population below the federal poverty line.",
+      "statistical_method": "rate",
+      "universe": "individuals",
+      "mapping_duration": 7.28125524520874,
+      "success": true
+    },
+    {
+      "concept": "EducationalAttainment",
+      "definition": "Highest level of education completed by individuals",
+      "category": "demographics",
+      "difficulty": "medium",
+      "census_variables": [
+        "B15003_001E",
+        "B15003_002E"
+      ],
+      "confidence": 0.9,
+      "reasoning": "B15003_001E provides the total count of the population 25 years and over, which is the universe appropriate for measuring educational attainment. B15003_002E specifically measures the count of individuals 25 years and over with no schooling completed, offering a detailed insight into the lowest level of educational attainment. Together, these variables cover the spectrum of educational attainment levels, from no schooling to the highest level completed, aligning well with the concept of 'Educational Attainment'.",
+      "statistical_method": "count",
+      "universe": "individuals",
+      "mapping_duration": 5.436892032623291,
+      "success": true
+    },
+    {
+      "concept": "HousingTenure",
+      "definition": "Whether housing units are owner-occupied or renter-occupied",
+      "category": "housing",
+      "difficulty": "easy",
+      "census_variables": [
+        "B25003_002E",
+        "B25003_003E"
+      ],
+      "confidence": 0.95,
+      "reasoning": "These variables directly measure the concept of HousingTenure by providing counts of owner-occupied and renter-occupied housing units, respectively. They align closely with the definition of HousingTenure, which is concerned with whether housing units are owned or rented. The universe of these variables is appropriate as they focus on housing units, which is the relevant entity for the concept of tenure. The statistical method is a count, which is suitable for measuring the number of units in each tenure category.",
+      "statistical_method": "count",
+      "universe": "households",
+      "mapping_duration": 5.648921251296997,
+      "success": true
+    },
+    {
+      "concept": "UnemploymentRate",
+      "definition": "Percentage of labor force that is unemployed",
+      "category": "economics",
+      "difficulty": "medium",
+      "census_variables": [
+        "B23025_005E",
+        "B23025_003E"
+      ],
+      "confidence": 0.9,
+      "reasoning": "The variable B23025_005E represents the number of unemployed individuals within the civilian labor force, which directly aligns with the numerator needed for calculating the unemployment rate. The variable B23025_003E represents the total civilian labor force, serving as the appropriate denominator for calculating the unemployment rate. These variables are conceptually aligned with the definition of the unemployment rate as they measure the percentage of the labor force that is unemployed. The universe of 'individuals' is appropriate as unemployment is an individual condition, not a household or family status. The statistical method of 'rate' is used here, as the unemployment rate is a proportion (numerator/denominator).",
+      "statistical_method": "rate",
+      "universe": "individuals",
+      "mapping_duration": 13.636649131774902,
+      "success": true
+    },
+    {
+      "concept": "MedianAge",
+      "definition": "The median age of the population",
+      "category": "demographics",
+      "difficulty": "easy",
+      "census_variables": [
+        "B01002_001E"
+      ],
+      "confidence": 0.95,
+      "reasoning": "The variable B01002_001E directly measures the median age of the total population, aligning closely with the concept of Median Age. It uses the median statistical method, which is appropriate for the concept described. The universe of this variable is individuals, which is suitable for measuring demographic characteristics such as age.",
+      "statistical_method": "median",
+      "universe": "individuals",
+      "mapping_duration": 4.942385911941528,
+      "success": true
+    },
+    {
+      "concept": "RaceEthnicity",
+      "definition": "Racial and ethnic composition of the population",
+      "category": "demographics",
+      "difficulty": "medium",
+      "census_variables": [
+        "B03002_001E",
+        "B02001_001E"
+      ],
+      "confidence": 0.9,
+      "reasoning": "The variables B03002_001E and B02001_001E together provide a comprehensive overview of the racial and ethnic composition of the population. B03002_001E covers the total population with a breakdown of Hispanic or Latino Origin by Race, which is crucial for understanding the ethnic composition. B02001_001E provides the total population count by race, including those who identify with a single race, which is essential for understanding the racial composition. These variables align well with the concept of RaceEthnicity as they measure both racial and ethnic identities, which are key components of the concept's definition. The universe of these variables is 'individuals', which is appropriate for the concept aiming to describe the composition of the population. The statistical method is 'count' as these variables provide counts of individuals within racial and ethnic categories.",
+      "statistical_method": "count",
+      "universe": "individuals",
+      "mapping_duration": 12.701862096786499,
+      "success": true
+    },
+    {
+      "concept": "HouseholdSize",
+      "definition": "Average number of people per household",
+      "category": "demographics",
+      "difficulty": "easy",
+      "census_variables": [
+        "B25010_001E"
+      ],
+      "confidence": 0.95,
+      "reasoning": "B25010_001E directly measures the average household size across all occupied housing units without distinguishing between owner-occupied and renter-occupied units, making it the most comprehensive and directly aligned variable with the concept of 'Average number of people per household'. It captures the total average rather than segmenting by ownership status or ethnicity, providing a broad measure that aligns well with the general concept of household size.",
+      "statistical_method": "mean",
+      "universe": "households",
+      "mapping_duration": 5.85251784324646,
+      "success": true
+    },
+    {
+      "concept": "MedianHomeValue",
+      "definition": "Median value of owner-occupied housing units",
+      "category": "housing",
+      "difficulty": "easy",
+      "census_variables": [
+        "B25077_001E"
+      ],
+      "confidence": 0.95,
+      "reasoning": "B25077_001E directly measures the median value of owner-occupied housing units in dollars, which aligns perfectly with the concept of MedianHomeValue. It focuses on the median rather than mean, matching the statistical method required for the concept. The universe of this variable is owner-occupied housing units, which is appropriate for the concept's focus on housing rather than individuals, households, or families.",
+      "statistical_method": "median",
+      "universe": "other",
+      "mapping_duration": 6.774786710739136,
+      "success": true
+    },
+    {
+      "concept": "CommuteTime",
+      "definition": "Time spent traveling to work for workers",
+      "category": "transportation",
+      "difficulty": "medium",
+      "census_variables": [
+        "B08013_001E"
+      ],
+      "confidence": 0.9,
+      "reasoning": "B08013_001E directly measures the aggregate travel time to work for all workers, aligning closely with the concept of CommuteTime as it encompasses the total time spent by all workers traveling to work without specifying the mode of transportation or demographic characteristics. This variable is the most comprehensive and directly aligned with the concept definition. Other variables either segment by sex, mode of transportation, or specific time intervals, which could introduce bias or limit the scope in relation to the defined concept.",
+      "statistical_method": "count",
+      "universe": "individuals",
+      "mapping_duration": 5.747787952423096,
+      "success": true
+    },
+    {
+      "concept": "RentBurden",
+      "definition": "Percentage of income spent on rent for renter households",
+      "category": "housing",
+      "difficulty": "medium",
+      "census_variables": [
+        "B25071_001E"
+      ],
+      "confidence": 0.95,
+      "reasoning": "The variable B25071_001E directly measures 'Median gross rent as a percentage of household income,' which aligns closely with the concept of RentBurden, defined as the percentage of income spent on rent for renter households. This variable is appropriate because it specifically targets renter households, aligns with the concept of measuring a rate (percentage), and uses the median, which is less sensitive to extreme values than the mean, providing a more typical value of rent burden across households.",
+      "statistical_method": "median",
+      "universe": "households",
+      "mapping_duration": 6.594128131866455,
+      "success": true
+    },
+    {
+      "concept": "HousingCostBurden",
+      "definition": "Percentage of income spent on housing costs",
+      "category": "housing",
+      "difficulty": "medium",
+      "census_variables": [
+        "B25092_001E",
+        "B25105_001E"
+      ],
+      "confidence": 0.8,
+      "reasoning": "B25092_001E provides the median selected monthly owner costs as a percentage of household income, which directly aligns with the concept of housing cost burden for homeowners. B25105_001E gives the median monthly housing costs, which can apply to both owners and renters, offering a broader perspective on housing costs. Both variables focus on housing costs relative to income, aligning well with the concept. However, there's no single variable that captures this percentage for all housing units (owner-occupied and rented) directly, hence the selection of two variables to cover the concept as comprehensively as possible.",
+      "statistical_method": "median",
+      "universe": "households",
+      "mapping_duration": 8.391767024993896,
+      "success": true
+    },
+    {
+      "concept": "VacancyRate",
+      "definition": "Percentage of housing units that are vacant",
+      "category": "housing",
+      "difficulty": "easy",
+      "census_variables": [],
+      "confidence": 0.0,
+      "reasoning": "None of the provided Census variables directly measure the percentage of housing units that are vacant, which is essential for calculating the Vacancy Rate. The variables listed primarily focus on occupied housing units, owner costs, mortgage status, and population in occupied housing units, rather than providing a count of vacant versus total housing units necessary for calculating a vacancy rate.",
+      "statistical_method": "rate",
+      "universe": "households",
+      "mapping_duration": 6.2602269649505615,
+      "success": false
+    },
+    {
+      "concept": "HomeownershipRate",
+      "definition": "Percentage of housing units that are owner-occupied",
+      "category": "housing",
+      "difficulty": "easy",
+      "census_variables": [
+        "B25032_002E",
+        "B25002_001E"
+      ],
+      "confidence": 0.9,
+      "reasoning": "B25032_002E directly measures the number of owner-occupied housing units, aligning closely with the concept of homeownership rate. B25002_001E provides the total number of housing units, serving as the denominator for calculating the rate. This combination allows for the calculation of the percentage of housing units that are owner-occupied, matching the concept's definition.",
+      "statistical_method": "rate",
+      "universe": "households",
+      "mapping_duration": 5.951038837432861,
+      "success": true
+    },
+    {
+      "concept": "MedianRent",
+      "definition": "Median gross rent for renter-occupied housing units",
+      "category": "housing",
+      "difficulty": "easy",
+      "census_variables": [
+        "B25064_001E"
+      ],
+      "confidence": 0.95,
+      "reasoning": "The variable B25064_001E directly measures the Median Gross Rent, aligning perfectly with the concept of MedianRent, which is defined as the median gross rent for renter-occupied housing units. This variable does not filter by year moved in, year structure built, or by the number of bedrooms, making it the most comprehensive and direct measure of the concept among the options. It specifically targets the median value, aligning with the statistical method requirement, and is focused on renter-occupied housing units, matching the universe appropriateness.",
+      "statistical_method": "median",
+      "universe": "households",
+      "mapping_duration": 7.696975231170654,
+      "success": true
+    },
+    {
+      "concept": "HousingUnits",
+      "definition": "Total number of housing units in an area",
+      "category": "housing",
+      "difficulty": "easy",
+      "census_variables": [
+        "B25001_001E"
+      ],
+      "confidence": 0.95,
+      "reasoning": "B25001_001E directly measures the total number of housing units, which aligns perfectly with the concept of 'HousingUnits' as it seeks to quantify the total housing units in an area without distinguishing between occupied or unoccupied, owner-occupied or renter-occupied, making it the most appropriate and direct match among the listed variables.",
+      "statistical_method": "count",
+      "universe": "households",
+      "mapping_duration": 6.265666723251343,
+      "success": true
+    },
+    {
+      "concept": "HouseholdCrowding",
+      "definition": "Housing units with more than one person per room",
+      "category": "housing",
+      "difficulty": "medium",
+      "census_variables": [],
+      "confidence": 0.0,
+      "reasoning": "None of the provided Census variables directly measure or provide data on the number of persons per room in housing units, which is necessary to calculate the concept of HouseholdCrowding as defined. The variables listed primarily focus on household types, family composition, and financial aspects related to housing costs, rather than physical housing unit density or crowding.",
+      "statistical_method": "other",
+      "universe": "households",
+      "mapping_duration": 4.803683042526245,
+      "success": false
+    },
+    {
+      "concept": "HousingAge",
+      "definition": "Year housing units were built",
+      "category": "housing",
+      "difficulty": "medium",
+      "census_variables": [],
+      "confidence": 0.0,
+      "reasoning": "None of the provided Census variables directly measure the year housing units were built, which is essential for mapping the HousingAge concept. The variables listed are related to housing units, tenure, poverty status, and costs associated with housing, but none provide information on the construction date or age of housing units.",
+      "statistical_method": "other",
+      "universe": "other",
+      "mapping_duration": 5.990706920623779,
+      "success": false
+    },
+    {
+      "concept": "HousingBedrooms",
+      "definition": "Number of bedrooms in housing units",
+      "category": "housing",
+      "difficulty": "easy",
+      "census_variables": [],
+      "confidence": 0.0,
+      "reasoning": "None of the provided Census variables directly measure the number of bedrooms in housing units. All listed variables relate to other aspects of housing such as tenure, costs, and population in housing units, but do not specify the number of bedrooms.",
+      "statistical_method": "count",
+      "universe": "households",
+      "mapping_duration": 4.003905773162842,
+      "success": false
+    },
+    {
+      "concept": "MobileHomes",
+      "definition": "Housing units that are mobile homes or trailers",
+      "category": "housing",
+      "difficulty": "easy",
+      "census_variables": [],
+      "confidence": 0.95,
+      "reasoning": "None of the provided Census variables directly measure the concept of 'Housing units that are mobile homes or trailers'. The variables listed are related to tenure, housing costs, mortgage status, and occupancy status, but none specifically address the structure type, particularly mobile homes or trailers.",
+      "statistical_method": "other",
+      "universe": "other",
+      "mapping_duration": 4.629448175430298,
+      "success": true
+    },
+    {
+      "concept": "MultifamilyHousing",
+      "definition": "Housing units in buildings with multiple units",
+      "category": "housing",
+      "difficulty": "medium",
+      "census_variables": [
+        "B25032_002E"
+      ],
+      "confidence": 0.75,
+      "reasoning": "The variable B25032_002E directly measures the concept of 'MultifamilyHousing' by providing data on owner-occupied housing units, which is a subset of housing units in buildings with multiple units. Although it specifically focuses on owner-occupied units and does not encompass all multifamily housing units (e.g., those that are rented), it is the closest match among the provided options in terms of conceptual alignment and universe appropriateness. The other variables focus on aspects such as total housing units, tenure, costs, and population in housing units, which do not directly measure the concept of housing units in buildings with multiple units.",
+      "statistical_method": "count",
+      "universe": "households",
+      "mapping_duration": 11.80752182006836,
+      "success": true
+    },
+    {
+      "concept": "SubsidizedHousing",
+      "definition": "Housing units receiving government assistance",
+      "category": "housing",
+      "difficulty": "hard",
+      "census_variables": [],
+      "confidence": 0.95,
+      "reasoning": "None of the provided variables directly measure or indicate housing units receiving government assistance, which is the core of the SubsidizedHousing concept. All listed variables focus on aspects such as tenure, costs, and population in housing units, without any specific reference to government assistance or subsidies.",
+      "statistical_method": "other",
+      "universe": "other",
+      "mapping_duration": 4.010051012039185,
+      "success": true
+    },
+    {
+      "concept": "HousingCondition",
+      "definition": "Physical condition and amenities of housing units",
+      "category": "housing",
+      "difficulty": "medium",
+      "census_variables": [],
+      "confidence": 0.5,
+      "reasoning": "None of the provided Census variables directly measure the physical condition and amenities of housing units, which is the core of the HousingCondition concept. The variables listed primarily focus on tenure, occupancy, costs, and demographic characteristics of the occupants rather than the physical state or amenities of the housing units themselves.",
+      "statistical_method": "other",
+      "universe": "other",
+      "mapping_duration": 5.743458032608032,
+      "success": true
+    },
+    {
+      "concept": "HousingCosts",
+      "definition": "Monthly housing costs for homeowners and renters",
+      "category": "housing",
+      "difficulty": "easy",
+      "census_variables": [
+        "B25105_001E"
+      ],
+      "confidence": 0.95,
+      "reasoning": "The variable B25105_001E directly measures 'Median monthly housing costs', which aligns closely with the concept of 'Monthly housing costs for homeowners and renters'. It captures the median value, which is appropriate for summarizing central tendency without being skewed by extreme values. This variable encompasses both homeowners and renters, making it universally appropriate for the concept.",
+      "statistical_method": "median",
+      "universe": "households",
+      "mapping_duration": 9.645311832427979,
+      "success": true
+    },
+    {
+      "concept": "HouseholdMortgage",
+      "definition": "Monthly mortgage payments and mortgage status",
+      "category": "housing",
+      "difficulty": "medium",
+      "census_variables": [
+        "B25089_002E",
+        "B25088_002E",
+        "B25092_002E"
+      ],
+      "confidence": 0.95,
+      "reasoning": "These variables directly measure aspects of monthly mortgage payments and mortgage status for households with a mortgage. B25089_002E provides aggregate selected monthly owner costs for housing units with a mortgage, which aligns with the concept of measuring monthly mortgage payments in aggregate form. B25088_002E gives the median selected monthly owner costs for housing units with a mortgage, directly addressing the concept's interest in median monthly mortgage payments. B25092_002E offers insight into how these costs relate to household income, which is relevant for understanding mortgage affordability and status. These variables are specifically focused on households with a mortgage, making them conceptually aligned and appropriate for the universe of interest.",
+      "statistical_method": "median",
+      "universe": "households",
+      "mapping_duration": 13.945662021636963,
+      "success": true
+    },
+    {
+      "concept": "MedianFamilyIncome",
+      "definition": "Median income of family households",
+      "category": "economics",
+      "difficulty": "easy",
+      "census_variables": [
+        "B19113_001E"
+      ],
+      "confidence": 0.95,
+      "reasoning": "The variable B19113_001E directly measures the concept of interest, which is the median family income in the past 12 months, adjusted for 2022 inflation. This variable is specifically focused on family incomes, aligning perfectly with the concept's definition of median income of family households. Other variables either measure household income in general, nonfamily household income, or are too specific in their focus on subpopulations of families, such as those with grandparent householders.",
+      "statistical_method": "median",
+      "universe": "families",
+      "mapping_duration": 4.719923973083496,
+      "success": true
+    },
+    {
+      "concept": "PerCapitaIncome",
+      "definition": "Average income per person in the population",
+      "category": "economics",
+      "difficulty": "easy",
+      "census_variables": [
+        "B19301_001E"
+      ],
+      "confidence": 0.95,
+      "reasoning": "The variable B19301_001E directly measures 'Per capita income in the past 12 months (in 2022 inflation-adjusted dollars)', which aligns perfectly with the concept of average income per person in the population. It is calculated on an individual basis rather than households or families, making it the most appropriate choice for mapping the concept of PerCapitaIncome.",
+      "statistical_method": "mean",
+      "universe": "individuals",
+      "mapping_duration": 5.262505054473877,
+      "success": true
+    },
+    {
+      "concept": "LaborForceParticipation",
+      "definition": "Percentage of population in the labor force",
+      "category": "economics",
+      "difficulty": "medium",
+      "census_variables": [
+        "B23025_002E",
+        "B23025_001E"
+      ],
+      "confidence": 0.9,
+      "reasoning": "The variable B23025_002E directly measures the number of individuals in the labor force, which aligns closely with the concept of labor force participation. B23025_001E provides the total population 16 years and over, serving as the denominator for calculating the percentage of the population in the labor force. This pair of variables allows for the calculation of a rate, matching the concept's requirement for expressing labor force participation as a percentage.",
+      "statistical_method": "rate",
+      "universe": "individuals",
+      "mapping_duration": 6.234324932098389,
+      "success": true
+    },
+    {
+      "concept": "EmploymentByIndustry",
+      "definition": "Distribution of employment across industry sectors",
+      "category": "economics",
+      "difficulty": "medium",
+      "census_variables": [
+        "B24042_002E",
+        "B24042_001E"
+      ],
+      "confidence": 0.75,
+      "reasoning": "These variables directly measure employment by industry for a specific demographic (male), providing a breakdown that aligns closely with the concept of 'Distribution of employment across industry sectors'. They cover the civilian employed population 16 years and over, which is appropriate for employment statistics. Other variables focus on self-employment income, age of children in relation to employment status, or employment status of grandparents, which do not directly measure employment by industry sector.",
+      "statistical_method": "count",
+      "universe": "individuals",
+      "mapping_duration": 5.959476947784424,
+      "success": true
+    },
+    {
+      "concept": "EmploymentByOccupation",
+      "definition": "Distribution of employment across occupation categories",
+      "category": "economics",
+      "difficulty": "medium",
+      "census_variables": [
+        "C24060_002E"
+      ],
+      "confidence": 0.9,
+      "reasoning": "C24060_002E directly measures the distribution of employment across specific occupation categories (Management, business, science, and arts occupations) for the civilian employed population aged 16 years and over, which aligns closely with the concept of EmploymentByOccupation. It captures individuals rather than households or families, which is appropriate for employment data. This variable is a count of people employed in these categories, making it a direct measure of employment distribution by occupation.",
+      "statistical_method": "count",
+      "universe": "individuals",
+      "mapping_duration": 5.53705906867981,
+      "success": true
+    },
+    {
+      "concept": "SelfEmployment",
+      "definition": "Workers who are self-employed",
+      "category": "economics",
+      "difficulty": "medium",
+      "census_variables": [],
+      "confidence": 0.95,
+      "reasoning": "None of the provided Census variables directly measure or pertain to self-employment status of workers. The variables listed focus on other demographic and economic characteristics such as place of work, family income, and women who had a birth in the past 12 months, none of which align with the concept of self-employment.",
+      "statistical_method": "other",
+      "universe": "other",
+      "mapping_duration": 4.7343528270721436,
+      "success": true
+    },
+    {
+      "concept": "GovernmentWorkers",
+      "definition": "Workers employed by government agencies",
+      "category": "economics",
+      "difficulty": "easy",
+      "census_variables": [],
+      "confidence": 0.95,
+      "reasoning": "None of the provided Census variables directly measure the concept of 'Government Workers' as they all relate to private for-profit wage and salary workers, aggregate family income without specifying employment sector, household size by number of workers without detailing the employment sector, means of transportation to work by class of worker without specifying if the workers are in the government sector, or workers' earnings without specifying the sector of employment. Therefore, none of these variables conceptually align with the definition of workers employed by government agencies.",
+      "statistical_method": "other",
+      "universe": "individuals",
+      "mapping_duration": 5.441646099090576,
+      "success": true
+    },
+    {
+      "concept": "MeanEarnings",
+      "definition": "Average earnings by demographic characteristics",
+      "category": "economics",
+      "difficulty": "easy",
+      "census_variables": [
+        "B19061_001E"
+      ],
+      "confidence": 0.75,
+      "reasoning": "While none of the provided variables directly measure 'Mean Earnings by Demographic Characteristics,' B19061_001E, which estimates aggregate earnings in the past 12 months (in 2022 inflation-adjusted dollars) for households, comes closest to providing a foundation for calculating mean earnings. To derive mean earnings, one would need to divide this aggregate by the total number of earners or households, depending on the specific demographic characteristic being analyzed. However, this variable focuses on households rather than individuals, which may not perfectly align with the concept's emphasis on demographic characteristics of earners.",
+      "statistical_method": "mean",
+      "universe": "households",
+      "mapping_duration": 7.526202917098999,
+      "success": true
+    },
+    {
+      "concept": "WageAndSalaryIncome",
+      "definition": "Income from wages and salaries",
+      "category": "economics",
+      "difficulty": "easy",
+      "census_variables": [],
+      "confidence": 0.0,
+      "reasoning": "None of the provided Census variables directly measure income from wages and salaries. All variables listed are related to household income, poverty status, median age, housing costs, or family income in specific circumstances, but none specifically isolate wage and salary income.",
+      "statistical_method": "other",
+      "universe": "other",
+      "mapping_duration": 3.86932110786438,
+      "success": false
+    },
+    {
+      "concept": "BusinessIncome",
+      "definition": "Income from business and self-employment",
+      "category": "economics",
+      "difficulty": "medium",
+      "census_variables": [
+        "B19053_002E",
+        "B19063_001E"
+      ],
+      "confidence": 0.9,
+      "reasoning": "Both variables directly address the concept of income from business and self-employment. B19053_002E captures households with self-employment income, aligning closely with the concept of business income on a household level. B19063_001E provides the aggregate self-employment income, offering a broader quantitative measure of this income type across households. Together, they offer a comprehensive view of business income from self-employment, covering both the presence and the aggregate amount of such income.",
+      "statistical_method": "count|other",
+      "universe": "households",
+      "mapping_duration": 12.710655927658081,
+      "success": true
+    },
+    {
+      "concept": "RetirementIncome",
+      "definition": "Income from pensions and retirement accounts",
+      "category": "economics",
+      "difficulty": "medium",
+      "census_variables": [
+        "B19059_002E",
+        "B19069_001E"
+      ],
+      "confidence": 0.95,
+      "reasoning": "Both variables directly measure aspects of retirement income, which aligns closely with the concept definition. B19059_002E provides a count of households with retirement income, which is useful for understanding the prevalence of retirement income among households. B19069_001E offers the aggregate retirement income, which can be used to assess the total amount of retirement income within the population. Together, these variables cover both the incidence and the volume of retirement income, making them the best fit for the concept of Retirement Income.",
+      "statistical_method": "count|mean",
+      "universe": "households",
+      "mapping_duration": 11.56488299369812,
+      "success": true
+    },
+    {
+      "concept": "SocialSecurityIncome",
+      "definition": "Income from Social Security benefits",
+      "category": "economics",
+      "difficulty": "easy",
+      "census_variables": [
+        "B19065_001E",
+        "B19055_002E"
+      ],
+      "confidence": 0.95,
+      "reasoning": "B19065_001E directly measures the aggregate Social Security income, aligning closely with the concept of income from Social Security benefits. B19055_002E counts households with Social Security income, providing a direct measure of the prevalence of Social Security income among households. Both variables are specific to Social Security income, making them the best fit for the concept described. They cover the universe of households, which is appropriate for income measures. B19065_001E uses an aggregate measure, suitable for understanding the total amount of Social Security income, while B19055_002E provides a count of households receiving such income, both of which are relevant for the concept.",
+      "statistical_method": "count",
+      "universe": "households",
+      "mapping_duration": 10.917127847671509,
+      "success": true
+    },
+    {
+      "concept": "PublicAssistanceIncome",
+      "definition": "Income from government assistance programs",
+      "category": "economics",
+      "difficulty": "medium",
+      "census_variables": [
+        "B19057_002E",
+        "B19067_001E"
+      ],
+      "confidence": 0.9,
+      "reasoning": "These variables directly measure aspects of public assistance income, which is the focus of the concept. B19057_002E counts households with public assistance income, aligning closely with the concept's focus on income from government assistance programs. B19067_001E provides the aggregate public assistance income, offering a broader view of the total amount of assistance income received by households. Both variables are specific to households, matching the universe of interest, and they directly address the concept without requiring additional calculations.",
+      "statistical_method": "count",
+      "universe": "households",
+      "mapping_duration": 5.727621078491211,
+      "success": true
+    },
+    {
+      "concept": "WorkersPerHousehold",
+      "definition": "Number of workers per household",
+      "category": "economics",
+      "difficulty": "easy",
+      "census_variables": [],
+      "confidence": 0.0,
+      "reasoning": "None of the provided Census variables directly measure the number of workers per household. All listed variables relate to household types, family composition, or housing costs, without specific reference to employment or the number of workers within those households.",
+      "statistical_method": "count",
+      "universe": "households",
+      "mapping_duration": 4.675522089004517,
+      "success": false
+    },
+    {
+      "concept": "IncomeInequality",
+      "definition": "Distribution of income across income brackets",
+      "category": "economics",
+      "difficulty": "hard",
+      "census_variables": [
+        "B19001_001E",
+        "B19001_002E"
+      ],
+      "confidence": 0.75,
+      "reasoning": "These variables directly address the distribution of household income across different income brackets, which is essential for assessing income inequality. B19001_001E provides the total number of households, which can serve as a denominator for calculating proportions of households within each income bracket. B19001_002E and subsequent variables in the B19001 series (not all listed here) detail the count of households within specific income ranges, allowing for the analysis of income distribution across these brackets. This selection aligns well with the concept of income inequality, which requires understanding how income is spread across different levels of earners. However, the confidence is not higher due to the absence of specific variables for all income brackets in the provided list, which are necessary for a comprehensive analysis of income inequality.",
+      "statistical_method": "count",
+      "universe": "households",
+      "mapping_duration": 9.942063808441162,
+      "success": true
+    },
+    {
+      "concept": "PopulationDensity",
+      "definition": "Number of people per square mile",
+      "category": "demographics",
+      "difficulty": "easy",
+      "census_variables": [],
+      "confidence": 0.0,
+      "reasoning": "None of the provided Census variables directly measure or can be used to calculate Population Density, which is defined as the number of people per square mile. The variables listed are related to household composition, income quintiles, housing costs, income allocation, and aggregate numbers of rooms and vehicles, none of which can be used to directly calculate or approximate population density.",
+      "statistical_method": "other",
+      "universe": "other",
+      "mapping_duration": 5.894822835922241,
+      "success": false
+    },
+    {
+      "concept": "AgeDistribution",
+      "definition": "Distribution of population across age groups",
+      "category": "demographics",
+      "difficulty": "easy",
+      "census_variables": [],
+      "confidence": 0.95,
+      "reasoning": "None of the provided variables directly measure the distribution of population across age groups. All listed variables focus on median ages, poverty status, housing, and costs, which do not directly map to the concept of age distribution. Age distribution typically requires data on the count of individuals within specific age ranges, rather than median age or economic conditions.",
+      "statistical_method": "count",
+      "universe": "individuals",
+      "mapping_duration": 4.534158945083618,
+      "success": true
+    },
+    {
+      "concept": "GenderComposition",
+      "definition": "Distribution of population by sex",
+      "category": "demographics",
+      "difficulty": "easy",
+      "census_variables": [
+        "B20005_002E",
+        "B20005_001E"
+      ],
+      "confidence": 0.9,
+      "reasoning": "The variables B20005_002E and B20005_001E directly measure the distribution of the population by sex, with B20005_002E focusing on males and B20005_001E representing the total population. This aligns closely with the concept of GenderComposition, which is the distribution of population by sex. These variables are appropriate as they cover the individual level, which is suitable for measuring gender composition. The statistical method is count, as these variables provide counts of individuals.",
+      "statistical_method": "count",
+      "universe": "individuals",
+      "mapping_duration": 10.152363061904907,
+      "success": true
+    },
+    {
+      "concept": "MaritalStatus",
+      "definition": "Distribution of population by marital status",
+      "category": "demographics",
+      "difficulty": "easy",
+      "census_variables": [
+        "B12001_001E",
+        "B12001_002E"
+      ],
+      "confidence": 0.9,
+      "reasoning": "These variables directly measure the concept of Marital Status for the population 15 years and over, with B12001_001E providing the total population in this category and B12001_002E providing data specifically for males, which can be used to infer the distribution of marital status across genders. These variables are conceptually aligned with the definition of MaritalStatus, target the appropriate universe of individuals, and use count as the statistical method.",
+      "statistical_method": "count",
+      "universe": "individuals",
+      "mapping_duration": 9.635030031204224,
+      "success": true
+    },
+    {
+      "concept": "HouseholdType",
+      "definition": "Types of households (family, non-family, etc.)",
+      "category": "demographics",
+      "difficulty": "easy",
+      "census_variables": [
+        "B11001_002E",
+        "B11001_009E"
+      ],
+      "confidence": 0.9,
+      "reasoning": "These variables directly measure the concept of Household Type by distinguishing between family households (B11001_002E) and nonfamily households (B11001_009E), covering the full spectrum of household types as defined in the concept. They are appropriate for the universe of households, and they use count as the statistical method, which is suitable for measuring the number of households of each type.",
+      "statistical_method": "count",
+      "universe": "households",
+      "mapping_duration": 5.0149312019348145,
+      "success": true
+    },
+    {
+      "concept": "FamilyStructure",
+      "definition": "Composition of family households",
+      "category": "demographics",
+      "difficulty": "medium",
+      "census_variables": [
+        "B11001_002E",
+        "B11016_002E",
+        "B11011_002E"
+      ],
+      "confidence": 0.9,
+      "reasoning": "These variables directly measure aspects of family households, which aligns closely with the concept of FamilyStructure. B11001_002E provides a count of family households, directly addressing the composition aspect. B11016_002E offers insight into household size, which is a critical component of understanding family structure. B11011_002E, while more focused on the physical structure of the household, still contributes to understanding the environment in which family households exist. These variables collectively offer a comprehensive view of family households' composition, size, and living arrangements.",
+      "statistical_method": "count",
+      "universe": "households",
+      "mapping_duration": 6.225496053695679,
+      "success": true
+    },
+    {
+      "concept": "ChildrenInHouseholds",
+      "definition": "Presence and number of children in households",
+      "category": "demographics",
+      "difficulty": "easy",
+      "census_variables": [],
+      "confidence": 0.0,
+      "reasoning": "None of the provided Census variables directly measure the presence and number of children in households. The variables listed primarily categorize households by type (e.g., family households, nonfamily households, households with a female or male householder with no spouse present) and do not provide specific information on the presence or number of children.",
+      "statistical_method": "count",
+      "universe": "households",
+      "mapping_duration": 5.594624996185303,
+      "success": false
+    },
+    {
+      "concept": "SeniorPopulation",
+      "definition": "Population aged 65 and older",
+      "category": "demographics",
+      "difficulty": "easy",
+      "census_variables": [],
+      "confidence": 0.0,
+      "reasoning": "None of the provided Census variables directly measure or provide data specifically on the population aged 65 and older. All listed variables focus on different demographic characteristics or economic indicators that do not align with the concept of SeniorPopulation.",
+      "statistical_method": "count",
+      "universe": "individuals",
+      "mapping_duration": 4.008277893066406,
+      "success": false
+    },
+    {
+      "concept": "VeteranStatus",
+      "definition": "Population with military veteran status",
+      "category": "demographics",
+      "difficulty": "easy",
+      "census_variables": [
+        "B21001_002E",
+        "B21003_002E",
+        "B21004_002E",
+        "B26107_002E"
+      ],
+      "confidence": 0.95,
+      "reasoning": "These variables directly measure aspects of the veteran population, including their age and sex (B21001_002E), educational attainment (B21003_002E), median income (B21004_002E), and living situations in group quarters (B26107_002E). They align closely with the concept of 'Population with military veteran status' by providing detailed demographic, socioeconomic, and living condition data specifically for veterans.",
+      "statistical_method": "count|median",
+      "universe": "individuals",
+      "mapping_duration": 7.293047666549683,
+      "success": true
+    },
+    {
+      "concept": "DisabilityStatus",
+      "definition": "Population with disabilities",
+      "category": "demographics",
+      "difficulty": "medium",
+      "census_variables": [
+        "B18140_002E",
+        "B10052_002E"
+      ],
+      "confidence": 0.9,
+      "reasoning": "Both variables directly measure aspects of disability status within distinct populations, ensuring conceptual alignment. B18140_002E focuses on the civilian noninstitutionalized population 16 years and over with earnings, providing insight into the economic aspect of living with a disability. B10052_002E specifically addresses the disability status of grandparents living with their own grandchildren under 18 years, offering a demographic perspective on family structures affected by disabilities. These selections cover both individual and family/household perspectives, aligning with the universe appropriateness criterion. The statistical method for both is count, which is suitable for measuring the population with disabilities.",
+      "statistical_method": "count",
+      "universe": "individuals|families",
+      "mapping_duration": 5.749224901199341,
+      "success": true
+    },
+    {
+      "concept": "LanguageSpoken",
+      "definition": "Languages spoken at home",
+      "category": "demographics",
+      "difficulty": "medium",
+      "census_variables": [
+        "B16003_001E",
+        "B26113_001E"
+      ],
+      "confidence": 0.75,
+      "reasoning": "Both B16003_001E and B26113_001E directly address aspects of language spoken at home, with B16003_001E focusing on age by language spoken at home in limited English speaking households, and B26113_001E focusing on group quarters type by language spoken at home. These variables are the closest match to the concept of languages spoken at home, considering the universe of individuals (B16003_001E) and potentially group quarters (B26113_001E). However, the confidence is not higher due to the specific focus on limited English speaking households and group quarters, which may not fully encompass all scenarios of language spoken at home across the entire population.",
+      "statistical_method": "count",
+      "universe": "individuals|other",
+      "mapping_duration": 7.080655813217163,
+      "success": true
+    },
+    {
+      "concept": "EnglishProficiency",
+      "definition": "Ability to speak English",
+      "category": "demographics",
+      "difficulty": "medium",
+      "census_variables": [
+        "B16001_002E"
+      ],
+      "confidence": 0.9,
+      "reasoning": "B16001_002E directly measures the concept of English proficiency by counting individuals aged 5 years and over who speak only English at home, which aligns closely with the concept's definition of ability to speak English. It covers a broad population (individuals 5 years and over), making it appropriate for assessing English proficiency across a wide demographic. This variable is preferred over others that are more specific to certain populations (e.g., grandparents, Hispanic or Latino) or contexts (e.g., transportation to work, group quarters), as it provides a more general measure of English proficiency.",
+      "statistical_method": "count",
+      "universe": "individuals",
+      "mapping_duration": 8.02790093421936,
+      "success": true
+    },
+    {
+      "concept": "ForeignBorn",
+      "definition": "Population born outside the United States",
+      "category": "demographics",
+      "difficulty": "easy",
+      "census_variables": [
+        "B05006_001E"
+      ],
+      "confidence": 0.95,
+      "reasoning": "B05006_001E directly measures the total foreign-born population in the United States, which aligns perfectly with the concept of 'Population born outside the United States'. It is the most straightforward and relevant variable for mapping the given concept, focusing on the entire foreign-born population without subdividing by origin, which makes it the best choice for a general measure of the foreign-born population.",
+      "statistical_method": "count",
+      "universe": "individuals",
+      "mapping_duration": 4.690880060195923,
+      "success": true
+    },
+    {
+      "concept": "CitizenshipStatus",
+      "definition": "Citizenship and naturalization status",
+      "category": "demographics",
+      "difficulty": "medium",
+      "census_variables": [
+        "B05001_002E",
+        "B05001_001E"
+      ],
+      "confidence": 0.95,
+      "reasoning": "The variables B05001_002E and B05001_001E directly measure the concept of Citizenship and Naturalization Status in the United States, with B05001_002E focusing on U.S. citizens born in the United States and B05001_001E representing the total population, which is necessary for understanding the proportion of the population that is a U.S. citizen born in the country. These variables are conceptually aligned with the definition of CitizenshipStatus and are appropriate for the universe of individuals, which is the relevant population for citizenship status.",
+      "statistical_method": "count",
+      "universe": "individuals",
+      "mapping_duration": 6.261704921722412,
+      "success": true
+    },
+    {
+      "concept": "YearOfEntry",
+      "definition": "Year foreign-born population entered the US",
+      "category": "demographics",
+      "difficulty": "medium",
+      "census_variables": [
+        "B05007_002E"
+      ],
+      "confidence": 0.95,
+      "reasoning": "The variable B05007_002E directly measures the concept of interest, which is the year of entry for the foreign-born population, specifically those who entered 2010 or later. This variable is the closest match to the concept 'YearOfEntry' as it directly addresses the entry year of the foreign-born population into the US, aligning well with the concept's definition. Other variables listed are related to income, poverty status, geographical mobility, and veteran status, which do not directly measure the year of entry for the foreign-born population.",
+      "statistical_method": "count",
+      "universe": "individuals",
+      "mapping_duration": 10.889993906021118,
+      "success": true
+    },
+    {
+      "concept": "HealthInsurance",
+      "definition": "Health insurance coverage status",
+      "category": "health",
+      "difficulty": "medium",
+      "census_variables": [
+        "B27001_001E"
+      ],
+      "confidence": 0.9,
+      "reasoning": "B27001_001E directly measures the total number of individuals with respect to their health insurance coverage status, which aligns closely with the concept of Health Insurance coverage status. It encompasses the entire population, making it appropriate for assessing the health insurance status across different demographics (sex by age).",
+      "statistical_method": "count",
+      "universe": "individuals",
+      "mapping_duration": 3.782275915145874,
+      "success": true
+    },
+    {
+      "concept": "MedicareEnrollment",
+      "definition": "Population enrolled in Medicare",
+      "category": "health",
+      "difficulty": "easy",
+      "census_variables": [],
+      "confidence": 0.95,
+      "reasoning": "None of the provided Census variables directly measure the population enrolled in Medicare. The variables listed are related to citizenship status, housing tenure, school enrollment, allocation of grade enrolled, group quarters population, and receipt of food stamps/SNAP, none of which directly pertain to Medicare enrollment.",
+      "statistical_method": "other",
+      "universe": "other",
+      "mapping_duration": 3.2901151180267334,
+      "success": true
+    },
+    {
+      "concept": "MedicaidEnrollment",
+      "definition": "Population enrolled in Medicaid",
+      "category": "health",
+      "difficulty": "easy",
+      "census_variables": [],
+      "confidence": 0.95,
+      "reasoning": "None of the provided Census variables directly measure Medicaid enrollment or are related to health insurance coverage. The variables listed are related to citizenship status, housing tenure, school enrollment, allocation of grade enrolled, group quarters population, and receipt of Food Stamps/SNAP, which do not align conceptually with the Medicaid enrollment concept.",
+      "statistical_method": "other",
+      "universe": "other",
+      "mapping_duration": 4.215530872344971,
+      "success": true
+    },
+    {
+      "concept": "UninsuredRate",
+      "definition": "Percentage of population without health insurance",
+      "category": "health",
+      "difficulty": "medium",
+      "census_variables": [],
+      "confidence": 0.1,
+      "reasoning": "None of the provided Census variables directly measure the percentage of the population without health insurance, which is the core of the UninsuredRate concept. Variables provided focus on aspects such as health insurance allocation, housing costs, citizenship status, and direct-purchase health insurance, but do not offer a clear numerator and denominator to calculate the uninsured rate.",
+      "statistical_method": "rate",
+      "universe": "individuals",
+      "mapping_duration": 6.980520963668823,
+      "success": true
+    },
+    {
+      "concept": "ChildcareCosts",
+      "definition": "Expenses for childcare services",
+      "category": "social",
+      "difficulty": "hard",
+      "census_variables": [],
+      "confidence": 0.95,
+      "reasoning": "None of the provided Census variables directly measure expenses for childcare services. All listed variables focus on employment, income, poverty status, or industry specifics, which do not align conceptually with childcare costs. Therefore, no suitable match exists within the given options.",
+      "statistical_method": "other",
+      "universe": "other",
+      "mapping_duration": 4.132056713104248,
+      "success": true
+    },
+    {
+      "concept": "SocialSecurityBenefits",
+      "definition": "Recipients of Social Security benefits",
+      "category": "social",
+      "difficulty": "easy",
+      "census_variables": [
+        "B19055_002E",
+        "B19055_001E"
+      ],
+      "confidence": 0.9,
+      "reasoning": "The variables B19055_002E and B19055_001E directly address the concept of Social Security benefits, with B19055_002E providing a count of households with Social Security income and B19055_001E offering the total number of households for context. This pairing allows for the calculation of the proportion of households receiving Social Security benefits, closely aligning with the concept's focus on recipients of Social Security benefits. The universe of 'households' is appropriate for the concept, and the method involves a count and potential rate calculation.",
+      "statistical_method": "count",
+      "universe": "households",
+      "mapping_duration": 9.215101957321167,
+      "success": true
+    },
+    {
+      "concept": "SNAPParticipation",
+      "definition": "Participation in food assistance programs",
+      "category": "social",
+      "difficulty": "medium",
+      "census_variables": [
+        "B22001_002E",
+        "B22002_002E"
+      ],
+      "confidence": 0.9,
+      "reasoning": "These variables directly measure the receipt of Food Stamps/SNAP in the past 12 months for households, which aligns closely with the concept of SNAPParticipation. B22001_002E focuses on households with people 60 years and over, and B22002_002E focuses on households with children under 18 years, covering a broad spectrum of the household types most likely to participate in SNAP. This selection provides a comprehensive view of SNAP participation across different household compositions.",
+      "statistical_method": "count",
+      "universe": "households",
+      "mapping_duration": 5.411748170852661,
+      "success": true
+    },
+    {
+      "concept": "WICParticipation",
+      "definition": "Participation in WIC nutrition program",
+      "category": "social",
+      "difficulty": "medium",
+      "census_variables": [],
+      "confidence": 0.95,
+      "reasoning": "None of the provided Census variables directly measure participation in the WIC nutrition program. The variables listed are related to marital status, employment in specific industries or occupations, and do not provide information on WIC participation or eligibility.",
+      "statistical_method": "other",
+      "universe": "other",
+      "mapping_duration": 3.3663930892944336,
+      "success": true
+    },
+    {
+      "concept": "HeadStartEnrollment",
+      "definition": "Children enrolled in Head Start programs",
+      "category": "social",
+      "difficulty": "hard",
+      "census_variables": [],
+      "confidence": 0.95,
+      "reasoning": "None of the provided Census variables directly measure or provide information specifically about children enrolled in Head Start programs. All the variables are related to family or grandparent householders' characteristics, income levels, and employment status, but none directly address enrollment in educational or early childhood programs like Head Start.",
+      "statistical_method": "other",
+      "universe": "other",
+      "mapping_duration": 3.9540457725524902,
+      "success": true
+    },
+    {
+      "concept": "SeniorServices",
+      "definition": "Services and support for elderly population",
+      "category": "social",
+      "difficulty": "hard",
+      "census_variables": [],
+      "confidence": 0.95,
+      "reasoning": "None of the provided census variables directly measure services and support for the elderly population. All listed variables are related to employment sectors, class of worker, and median earnings, which do not align conceptually with senior services.",
+      "statistical_method": "other",
+      "universe": "individuals",
+      "mapping_duration": 4.261006116867065,
+      "success": true
+    },
+    {
+      "concept": "VehicleAvailability",
+      "definition": "Number of vehicles available to households",
+      "category": "transportation",
+      "difficulty": "easy",
+      "census_variables": [
+        "B25046_001E"
+      ],
+      "confidence": 0.85,
+      "reasoning": "B25046_001E directly measures the aggregate number of vehicles available, aligning closely with the concept of vehicle availability to households. It encompasses all households rather than focusing on a specific subset (e.g., owner-occupied, workers by sex, or commuting means), making it the most comprehensive and directly aligned variable. Other variables either focus on specific demographics, commuting patterns, or lack the aggregate total perspective needed to fully represent the concept.",
+      "statistical_method": "count",
+      "universe": "households",
+      "mapping_duration": 5.606287240982056,
+      "success": true
+    },
+    {
+      "concept": "PublicTransitUse",
+      "definition": "Use of public transportation for commuting",
+      "category": "transportation",
+      "difficulty": "medium",
+      "census_variables": [],
+      "confidence": 0.95,
+      "reasoning": "None of the provided Census variables directly measure the use of public transportation for commuting. All listed variables focus on different aspects such as income, household composition, vehicle use for commuting, and public assistance, which do not align with the concept of public transit use.",
+      "statistical_method": "other",
+      "universe": "other",
+      "mapping_duration": 3.723245859146118,
+      "success": true
+    },
+    {
+      "concept": "WalkingToWork",
+      "definition": "Workers who walk to work",
+      "category": "transportation",
+      "difficulty": "easy",
+      "census_variables": [],
+      "confidence": 0.95,
+      "reasoning": "None of the provided Census variables directly measure the concept of 'Workers who walk to work'. The concept requires data specifically on the mode of transportation to work, focusing on walking. The closest variables provided relate to means of transportation to work by class of worker, but none specify walking as the mode of transportation.",
+      "statistical_method": "count",
+      "universe": "individuals",
+      "mapping_duration": 4.796852350234985,
+      "success": true
+    },
+    {
+      "concept": "WorkFromHome",
+      "definition": "Workers who work from home",
+      "category": "transportation",
+      "difficulty": "easy",
+      "census_variables": [],
+      "confidence": 0.95,
+      "reasoning": "None of the provided Census variables directly measure the concept of 'Workers who work from home'. All the candidate variables either measure aspects of working from home in terms of not working from home, travel time, or are related to income, class of worker, or means of transportation for those not working from home. Therefore, none of these variables conceptually align with the definition of workers who work from home.",
+      "statistical_method": "other",
+      "universe": "other",
+      "mapping_duration": 4.229728937149048,
+      "success": true
+    },
+    {
+      "concept": "LongCommute",
+      "definition": "Workers with commutes over 60 minutes",
+      "category": "transportation",
+      "difficulty": "medium",
+      "census_variables": [],
+      "confidence": 0.95,
+      "reasoning": "None of the provided Census variables directly measure the concept of 'LongCommute' as defined by workers with commutes over 60 minutes. The variables listed either aggregate travel time without specifying the duration of individual commutes, focus on poverty status, or describe means of transportation without detailing commute length. A direct measurement of 'LongCommute' would require data on the number of workers with commute times exceeding 60 minutes, which is not explicitly provided in the candidate variables.",
+      "statistical_method": "other",
+      "universe": "individuals",
+      "mapping_duration": 6.664566993713379,
+      "success": true
+    },
+    {
+      "concept": "UrbanRuralClassification",
+      "definition": "Classification of areas as urban or rural",
+      "category": "geography",
+      "difficulty": "medium",
+      "census_variables": [],
+      "confidence": 0.95,
+      "reasoning": "None of the provided variables directly measure the urban or rural classification of areas. All listed variables are related to nativity, citizenship status, or occupation (specifically urban and regional planners), which do not align with the urban or rural classification concept. The concept of UrbanRuralClassification pertains to geographical areas, not individual characteristics or occupations.",
+      "statistical_method": "other",
+      "universe": "other",
+      "mapping_duration": 3.155545949935913,
+      "success": true
+    },
+    {
+      "concept": "PopulationGrowth",
+      "definition": "Change in population over time",
+      "category": "geography",
+      "difficulty": "hard",
+      "census_variables": [],
+      "confidence": 0.0,
+      "reasoning": "None of the provided Census variables directly measure the concept of Population Growth, which is defined as the change in population over time. All listed variables focus on specific demographic characteristics such as poverty status, employment status, language spoken at home, and industry of employment, rather than measuring population change over time.",
+      "statistical_method": "other",
+      "universe": "other",
+      "mapping_duration": 4.052192687988281,
+      "success": false
+    },
+    {
+      "concept": "MigrationPatterns",
+      "definition": "Population movement between areas",
+      "category": "geography",
+      "difficulty": "hard",
+      "census_variables": [
+        "B25026_001E",
+        "B25026_002E"
+      ],
+      "confidence": 0.75,
+      "reasoning": "Variables B25026_001E and B25026_002E directly relate to the concept of Migration Patterns by capturing the total population in occupied housing units and distinguishing between owner-occupied units, which can indicate movement and settling patterns. These variables are aligned with the concept of population movement between areas as they provide insight into where people are living and potentially their movement patterns based on housing tenure and the year the householder moved into the unit. However, they do not capture all aspects of migration, such as the reasons for moving or distances moved.",
+      "statistical_method": "count",
+      "universe": "households",
+      "mapping_duration": 4.798436880111694,
+      "success": true
+    },
+    {
+      "concept": "SchoolEnrollment",
+      "definition": "Enrollment in educational institutions",
+      "category": "education",
+      "difficulty": "medium",
+      "census_variables": [
+        "B14005_001E",
+        "B14004_001E"
+      ],
+      "confidence": 0.8,
+      "reasoning": "Both B14005_001E and B14004_001E directly measure enrollment in educational institutions, but for different age groups and educational levels, providing a comprehensive view of school enrollment. B14005_001E focuses on the population aged 16 to 19, capturing high school and early college enrollment, including educational attainment and employment status, which is closely aligned with the concept of school enrollment. B14004_001E expands this to include college or graduate school enrollment for those 15 years and over, covering a broader spectrum of educational institutions. Other variables either focus on conditions not directly related to enrollment (like poverty or mobility) or specific subsets not fully encompassing the concept (like internet access or gender-specific data).",
+      "statistical_method": "count",
+      "universe": "individuals",
+      "mapping_duration": 8.74616289138794,
+      "success": true
+    },
+    {
+      "concept": "InternetAccess",
+      "definition": "Household access to internet services",
+      "category": "technology",
+      "difficulty": "medium",
+      "census_variables": [
+        "B28002_002E",
+        "B28011_002E"
+      ],
+      "confidence": 0.9,
+      "reasoning": "Both B28002_002E and B28011_002E directly measure the presence of an internet subscription in households, which aligns closely with the concept of 'Household access to internet services'. The conceptual alignment is strong as both variables specifically address internet subscriptions within households. The universe of both variables is 'households', which is appropriate for the concept of InternetAccess. The statistical method is a count of households with an internet subscription, which is suitable for measuring the presence or absence of internet access in households.",
+      "statistical_method": "count",
+      "universe": "households",
+      "mapping_duration": 5.650269031524658,
+      "success": true
+    }
+  ],
+  "performance_metrics": {
+    "average_mapping_time": 6.732276362639207,
+    "min_mapping_time": 3.155545949935913,
+    "max_mapping_time": 13.945662021636963,
+    "total_llm_time": 437.59796357154846
+  },
+  "errors": [],
+  "category_results": {
+    "economics": {
+      "total": 18,
+      "successful": 16,
+      "failed": 2
+    },
+    "demographics": {
+      "total": 19,
+      "successful": 16,
+      "failed": 3
+    },
+    "housing": {
+      "total": 17,
+      "successful": 13,
+      "failed": 4
+    },
+    "transportation": {
+      "total": 6,
+      "successful": 6,
+      "failed": 0
+    },
+    "health": {
+      "total": 4,
+      "successful": 4,
+      "failed": 0
+    },
+    "social": {
+      "total": 6,
+      "successful": 6,
+      "failed": 0
+    },
+    "geography": {
+      "total": 3,
+      "successful": 2,
+      "failed": 1
+    },
+    "education": {
+      "total": 1,
+      "successful": 1,
+      "failed": 0
+    },
+    "technology": {
+      "total": 1,
+      "successful": 1,
+      "failed": 0
+    }
+  }
+}

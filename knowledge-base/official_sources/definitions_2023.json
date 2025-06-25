@@ -1,0 +1,737 @@
+{
+  "General Information": {
+    "definition": "Contact List: To obtain additional information on these and other American Community Survey (ACS) subjects, see the list of Census Contacts on the Internet at http://www.census.gov/about/contact-us.html.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 6
+  },
+  "Living Quarters": {
+    "definition": "Living quarters are classified as either housing units or group quarters. Living quarters are usually found in structures intended for residential use, but also may be found in structures intended for nonresidential use as well as in places such as tents, vans, and emergency and transitional shelters.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 7
+  },
+  "Housing Unit": {
+    "definition": "A housing unit may be a house, an apartment, a mobile home, a group of rooms or a single room that is occupied (or, if vacant, intended for occupancy) as separate living quarters. Separate living quarters are those in which the occupants live separately from any other individuals in the building and which have direct access from outside the building or through a common hall. For vacant units, the criteria of separateness and direct access are applied to the intended occupants whenever possible. If that information cannot be obtained, the criteria are applied to the previous occupants.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 7
+  },
+  "Group Quarters": {
+    "definition": "A Group Quarters (GQ) is a place where people live or stay in a group living arrangement that is owned or managed by an entity or organization providing housing and/or services for the residents. These services may include custodial or medical care, as well as other types of assistance, and residency is commonly restricted to those receiving these services. This is not a typical household-type living arrangement. People living in GQs usually are not related to each other. GQs include such places as college residence halls, residential treatment centers, skilled nursing facilities, group homes, military barracks, correctional facilities, workers\u2019 dormitories, and facilities for people experiencing homelessness. GQs are defined according to the housing and/or services provided to residents and are identified by Census GQ type codes.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 8
+  },
+  "Agricultural Sales": {
+    "definition": "Data on the sales of agricultural crops were obtained from Housing Question 5 in the 2023 American Community Survey (ACS). The question was asked at occupied one-family houses and mobile homes located on lots of 1 or more acres (cuerdas). Data for this question exclude units on lots of less than 1 acre (cuerda), units located in structures containing two or more units, and all vacant units. This question refers to the total amount (before taxes and expenses) received in the 12 months prior to the interview from the sale of crops, vegetables, fruits, nuts, livestock and livestock products, and nursery and forest products produced on \u201cthis property.\u201d Respondents new to a unit were to estimate total agricultural sales from the 12 months prior to the interview, even if some portion of the sales had been made by previous occupants of the unit.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 11
+  },
+  "Bedrooms": {
+    "definition": "The data on bedrooms were obtained from Housing Question 6b in the 2023 American Community Survey (ACS). The question was asked at both occupied and vacant housing units. The number of bedrooms is the count of rooms designed to be used as bedrooms, that is, the number of rooms that would be listed as bedrooms if the house, apartment, or mobile home were on the market for sale or for rent. Included are all rooms intended to be used as bedrooms even if they currently are being used for some other purpose. A housing unit consisting of only one room is classified, by definition, as having no bedroom.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 12
+  },
+  "Computer and Internet Use": {
+    "definition": "The 2008 Broadband Improvement Act mandated the collection of data about computer and internet use. As a result, three questions were added to the 2013 American Community Survey (ACS) to measure these topics. Data about computer and internet use were derived from answers to Question 9, Question 10 and Question 11 on the 2023 ACS, and are asked of all occupied housing units.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 13
+  },
+  "Condominium Status and Fee": {
+    "definition": "The data on condominium housing units were obtained from Housing Question 16 in the 2023 American Community Survey (ACS). The question was asked at occupied housing units.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 15
+  },
+  "Contract Rent": {
+    "definition": "The data on contract rent (also referred to as \u201crent asked\u201d for vacant units) were obtained from Housing Question 18a in the 2023 American Community Survey (ACS). The question was asked at renter-occupied housing units, and vacant housing units that were for rent, and vacant units rented but not occupied at the time of interview.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 16
+  },
+  "Gross Rent": {
+    "definition": "The data on gross rent were obtained from answers to Housing Questions 14a-d and 18a in the 2023 American Community Survey (ACS). Gross rent is the contract rent plus the estimated average monthly cost of utilities (electricity, gas, and water and sewer) and fuels (oil, coal, kerosene, wood, etc.) if these are paid by the renter (or paid for the renter by someone else). Gross rent is intended to eliminate differentials that result from varying practices with respect to the inclusion of utilities and fuels as part of the rental payment. The estimated costs of water and sewer, and fuels are reported on a 12-month basis but are converted to monthly figures for the tabulations. Renter units occupied without payment of rent are shown separately as \u201cNo rent paid\u201d in the tabulations.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 19
+  },
+  "Gross Rent as a Percentage of Household Income": {
+    "definition": "Gross rent as a percentage of household income is a computed ratio of monthly gross rent to monthly household income (total household income divided by 12). The ratio is computed separately for each unit and is rounded to the nearest tenth. Units for which no rent is paid and units occupied by households that reported no income or a net loss comprise the category \u201cNot computed.\u201d",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 21
+  },
+  "House Heating Fuel": {
+    "definition": "The data on house heating fuel were obtained from Housing Question 13 in the 2023 American Community Survey (ACS). The question was asked at occupied housing units. The data show the type of fuel used most to heat the house, apartment, or mobile home.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 22
+  },
+  "Household Size": {
+    "definition": "See Household Type and Relationship.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 90
+  },
+  "Insurance for Fire, Hazard, and Flood": {
+    "definition": "The data on fire, hazard, and flood insurance were obtained from Housing Question 21 in the 2023 American Community Survey (ACS). The question was asked of owner-occupied units. The statistics for this question refer to the annual premium for fire, hazard, and flood insurance on the property (land and buildings), that is, policies that protect the property and its contents against loss due to damage by fire, lightning, winds, hail, flood, explosion, and so on.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 23
+  },
+  "Internet Use": {
+    "definition": "See Computer and Internet Use.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 24
+  },
+  "Kitchen Facilities": {
+    "definition": "Data on kitchen facilities were obtained from Housing Question 7c-e in the 2023 American Community Survey (ACS). The question was asked at both occupied and vacant housing units. A unit has complete kitchen facilities when it has all three of the following facilities: (c) a sink with a faucet, (d) a stove or range, and (e) a refrigerator. All kitchen facilities must be located in the house, apartment, or mobile home, but they need not be in the same room. A housing unit having only a microwave or portable heating equipment such as a hot plate or camping stove should not be considered as having complete kitchen facilities. An icebox is not considered to be a refrigerator.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 24
+  },
+  "Meals Included in Rent": {
+    "definition": "The data on meals included in the rent were obtained from Housing Question 18b in the 2023 American Community Survey (ACS). The question was asked of occupied housing units that were rented and vacant housing units that were for rent or rented but not yet occupied at the time of enumeration. These data only include rental units, which meals are included in the rent, or if occupants contract for either their meals or a meal plan in order to live in the unit. Renters in continuing care or life facilities are included in this category if their contracts cover meal services.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 25
+  },
+  "Mobile Home Costs": {
+    "definition": "The data on mobile home costs were obtained from Housing Question 24 in the 2023 American Community Survey (ACS). The question was asked at owner-occupied mobile homes.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 26
+  },
+  "Monthly Housing Costs": {
+    "definition": "The data for monthly housing costs are developed from a distribution of \u201cSelected Monthly Owner Costs\u201d for owner-occupied units and \u201cGross Rent\u201d for renter-occupied units. The owner-occupied categories are further separated into those with a mortgage and those without a mortgage. See the sections on \u201cSelected Monthly Owner Costs\u201d and \u201cGross Rent\u201d for more details on what characteristics are included in each measure and how these data are comparable to previous ACS and Census 2000 data.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 27
+  },
+  "Monthly Housing Costs as a Percentage of Household Income": {
+    "definition": "The data for monthly housing costs as a percentage of household income are developed from a distribution of \u201cSelected Monthly Owner Costs as a Percentage of Household Income\u201d for owner-occupied and \u201cGross Rent as a Percentage of Household Income\u201d for renter-occupied units. The owner-occupied categories are further separated into those with a mortgage and those without a mortgage. See sections on \u201cSelected Monthly Owner Costs as a Percentage of Household Income\u201d and \u201cGross Rent as a Percentage of Household Income\u201d for more details on what characteristics are included in each measure and how these data are comparable to previous ACS and Census 2000 data.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 27
+  },
+  "Mortgage Payment": {
+    "definition": "The data on mortgage payment were obtained from Housing Question 22b in the 2023 American Community Survey (ACS). The question was asked at owner-occupied units that have a mortgage, deed of trust, or similar debt; or contract to purchase. The question",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 27
+  },
+  "Mortgage Status": {
+    "definition": "The data on mortgage status were obtained from Housing Questions 22a and 23a in the 2023 American Community Survey (ACS). The questions were asked at owner-occupied units. \u201cMortgage\u201d refers to all forms of debt where the property is pledged as security for repayment of the debt, including deeds of trust; trust deeds; contracts to purchase; land contracts; junior mortgages; and home equity loans.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 28
+  },
+  "Occupants Per Room": {
+    "definition": "Occupants per room is obtained by dividing the reported number of current residents in each occupied housing unit by the number of rooms in the unit. The figures show the number of occupied units having the specified ratio of current residents per room. Occupants per room is rounded to the nearest hundredth.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 29
+  },
+  "Other Vacancy Status": {
+    "definition": "During the collection of vacancy status for housing units that are vacant (see the section on Vacancy Status), the data on other vacancy status were obtained only for those vacant units that are classified in the \u201cOther vacant\u201d category.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 30
+  },
+  "Plumbing Facilities": {
+    "definition": "The data on plumbing facilities were obtained from Housing Question 7a and b in the 2023 American Community Survey (ACS). The question was asked at both occupied and vacant",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 31
+  },
+  "Population in Occupied Housing Units": {
+    "definition": "The data shown for population in occupied units is the total population minus any people living in group quarters. All people occupying the housing unit are counted, including the householder, occupants related to the householder, and roommates, housemates, and so forth.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 33
+  },
+  "Poverty Status of Households": {
+    "definition": "The data on poverty status of households were derived from answers to the income questions. Since poverty is defined at the family level and not the household level, the poverty status of the household is determined by the poverty status of the householder. Households are classified as poor when the total income of the householder\u2019s family is below the appropriate poverty threshold (For nonfamily householders, their own income is compared with the appropriate threshold.). The income of people living in the household who are unrelated to the householder is not considered when determining the poverty status of a household, nor does their presence affect the family size in determining the appropriate threshold. The poverty thresholds vary depending on three criteria: size of family, number of related children, and, for 1-and 2-person families, age of householder. See the table \u201cThe 2022 Poverty Factors\u201d in Appendix A. (For more information, see \u201cPoverty Status in the Past 12 Months\u201d and \u201cIncome in the Past 12 Months\u201d under \u201cPopulation Variables.\u201d)",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 33
+  },
+  "Real Estate Taxes": {
+    "definition": "The data on real estate taxes were obtained from Housing Question 20 in the 2023 American Community Survey (ACS). The question was asked at owner-occupied units. The statistics from this question refer to the total amount of all real estate taxes on the entire property (land and buildings) payable to all taxing jurisdictions, including special assessments, school taxes, county taxes, and so forth.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 34
+  },
+  "Rooms": {
+    "definition": "The data on rooms were obtained from Housing Question 6a in the 2023 American Community Survey (ACS). The question was asked at both occupied and vacant housing units. The statistics on rooms are in terms of the number of housing units with a specified number of rooms. The intent of this question is to count the number of whole rooms used for living purposes.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 35
+  },
+  "Second or Junior Mortgage Payments or Home Equity Loan": {
+    "definition": "The data on second mortgages or home equity loan payments were obtained from Housing Questions 23a and 23b in the 2023 American Community Survey (ACS). The questions were asked at owner-occupied units. Question 23a asks whether a second mortgage or a home equity loan exists on the property. Question 23b provides the regular monthly amount required to be paid to the lender on all second and junior mortgages and home equity loans. Amounts are included even if the payments are delinquent or paid by someone else. The amounts reported are included in the computation of \u201cSelected Monthly Owner Costs\u201d and \u201cSelected Monthly Owner Costs as a Percentage of Household Income\u201d for units with a mortgage.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 36
+  },
+  "Selected Conditions": {
+    "definition": "The variable \u201cSelected Conditions\u201d is defined for owner- and renter-occupied housing units as having at least one of the following conditions: 1) lacking complete plumbing facilities, 2) lacking complete kitchen facilities, 3) with 1.01 or more occupants per room, 4) selected monthly owner costs as a percentage of household income greater than 30 percent, and 5) gross rent as a percentage of household income greater than 30 percent.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 37
+  },
+  "Selected Monthly Owner Costs": {
+    "definition": "The data on selected monthly owner costs were obtained from Housing Questions 14, 16, and Questions 20 through 24 in the 2023 American Community Survey (ACS). The data were obtained for owner-occupied units. Selected monthly owner costs are the sum of payments for mortgages, deeds of trust, contracts to purchase, or similar debts on the property (including payments for the first mortgage, second mortgages, home equity loans, and other junior mortgages); real estate taxes; fire, hazard, and flood insurance on the property; utilities",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 37
+  },
+  "Specified Owner-Occupied and Vacant-for-Sale Units": {
+    "definition": "Specified owner-occupied and vacant-for-sale units include only 1-family houses on less than 10 acres (cuerdas). The data for \u201cspecified units\u201d exclude mobile homes, houses on 10 or more acres (cuerdas), and housing units in multiunit buildings. (Specified is rarely used any longer, although specified units can be determined using pre-2016 ACS data for cautious comparisons to Census 2000 and earlier decennial data.)",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 39
+  },
+  "Specified Renter-Occupied and Vacant-for-Rent Units": {
+    "definition": "Specified renter-occupied and vacant-for-rent housing units are renter-occupied units and vacant-for-rent units that exclude 1-family houses on 10 or more acres (cuerdas). (Specified is rarely used any longer, although specified units can be determined for cautious comparisons to earlier decennial census data.) Before 2004, specified renter-occupied and vacant-for-rent housing unit information is used to maintain a comparable universe between the American Community Survey (ACS) and earlier decennial census data. Contract rent, gross rent, and gross rent as a percentage of income in earlier census data (2000 and prior) were based on specified renter-occupied and vacant-for-rent units; however, beginning in 2004, the ACS no longer published information solely for this universe. Rather, the ACS began publishing information for all renter-occupied and vacant-for-rent and rented, not occupied housing units. The characteristics for a specified rental unit (acreage and building type) as well as a single variable SRNT that combines all the characteristics for specified into one variable are maintained within the PUMS file ensuring that comparisons between the two data sets can be made.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 41
+  },
+  "Telephone Service Available": {
+    "definition": "The data on telephone service availability were obtained from Housing Question 8 in the 2023 American Community Survey (ACS). The question was asked at occupied housing units.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 42
+  },
+  "Tenure": {
+    "definition": "The data for tenure were obtained from Housing Question 17 in the 2023 American Community Survey (ACS). The question was asked at occupied housing units. Occupied housing units are classified as either owner-occupied or renter-occupied.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 43
+  },
+  "Units in Structure": {
+    "definition": "The data on units in structure (also referred to as \u201ctype of structure\u201d) were obtained from Housing Question 1 in the 2023 American Community Survey (ACS). The question was asked at occupied and vacant housing units. A structure is a separate building that either has open spaces on all sides or is separated from other structures by dividing walls that extend from ground to roof. In determining the number of units in a structure, all housing units, both occupied and vacant, are counted. Stores and office space are excluded. The data are presented for the number of housing units in structures of specified type and size, not for the number of residential buildings.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 44
+  },
+  "Utility Costs": {
+    "definition": "The data on utility costs were obtained from Housing Questions 14a through 14d in the 2023 American Community Survey (ACS). The questions were asked of occupied housing units. The questions about electricity and gas asked for the monthly costs, and the questions about water/sewer and other fuels (oil, coal, wood, kerosene, etc.) asked for the yearly costs.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 45
+  },
+  "Value": {
+    "definition": "The data on value (also referred to as \u201cprice asked\u201d for vacant units) were obtained from Housing Question 19 in the 2023 American Community Survey (ACS). The question was asked at housing units that were owned, being bought, vacant for sale, or sold but not occupied at the time of the survey. Value is the respondent's estimate of how much the property (house and lot, mobile home and lot (if lot owned), or condominium unit) would sell for if it were for sale. If the house was owned or being bought, but the land on which it sits was not, the respondent was asked to estimate the combined value of the house and the land. Owners of noncondominium multi-unit buildings who live in one of the building\u2019s units, like duplexes and small apartment buildings, should report the value of the building, the land, and any additional buildings on the same plot of land. For vacant units, value was the price asked for the property. Value was tabulated separately for all owner-occupied and vacant-for-sale and sold, not occupied housing units, as well as owner-occupied mobile homes.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 49
+  },
+  "Vehicles Available": {
+    "definition": "The data on vehicles available were obtained from Housing Question 12 in the 2023 American Community Survey (ACS). The question was asked at occupied housing units. These data show the number of passenger cars, vans, and pickup or panel trucks of one-ton (2,000 pounds) capacity or less kept at home and available for the use of household members. Vehicles rented or leased for one month or more, company vehicles, and police and government vehicles are included if kept at home and used for non-business purposes. Motorcycles or other recreational vehicles are excluded. Dismantled or immobile vehicles are excluded. Vehicles kept at home but used only for business purposes also are excluded.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 51
+  },
+  "Year Householder Moved into Unit": {
+    "definition": "The data on year householder moved into unit were obtained from answers to Housing Question 3 in the 2023 American Community Survey (ACS), which was asked at occupied housing units. These data refer to the year of the latest move by the householder. If the householder moved back into a housing unit he or she previously occupied, the year of the latest move was reported. If the householder moved from one apartment to another within the same building, the year the householder moved into the present apartment was reported. The intent is to establish the year the present occupancy by the householder began. The year that the householder moved in is not necessarily the same year other members of the household moved in, although in the great majority of cases an entire household moves at the same time.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 51
+  },
+  "Year Structure Built": {
+    "definition": "The data on year structure built were obtained from Housing Question 2 in the 2023 American Community Survey (ACS). The question was asked at both occupied and vacant housing units. Year structure built refers to when the building was first constructed, not when it was remodeled, added to, or converted. Housing units under construction are included as vacant housing if they meet the housing unit definition, that is, all exterior windows, doors, and final usable floors are in place. For mobile homes, houseboats, RVs, etc., the manufacturer's model year was assumed to be the year built. The data relate to the number of units built during the specified periods that were still in existence at the time of interview.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 52
+  },
+  "Population Variables": {
+    "definition": "Ability to Speak English",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 54
+  },
+  "Age": {
+    "definition": "The data on age were derived from answers to Question 4 in the 2023 American Community Survey (ACS). The age classification is based on the age of the person in complete years at the time of interview. Both age and date of birth are used in combination to calculate the most accurate age at the time of the interview. Respondents are asked to give an age in whole, completed years as of interview date as well as the month, day and year of birth. People are not to round an age up if the person is close to having a birthday. They can estimate an age if the exact age is not known. For babies less than 1 year old, respondents are asked not to write the age in months, but to write 0 as the age. Inconsistently reported and missing values are assigned or imputed based on the values of other variables for that person, from other people in the household, or from people in other households (\u201chot deck\u201d imputation).",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 55
+  },
+  "Ancestry": {
+    "definition": "Ancestry refers to a person\u2019s ethnic origin, heritage, descent, or \u201croots,\u201d which may reflect their place of birth or that of previous generations of their family. Some ethnic identities, such as \u201cEgyptian\u201d or \u201cPolish\u201d can be traced to geographic areas outside the United States, while other ethnicities such as \u201cPennsylvania German\u201d or \u201cCajun\u201d evolved in the United States.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 58
+  },
+  "Children Ever Born": {
+    "definition": "For the 1996-1998 American Community Survey (ACS), the data on fertility (also referred to as \u201cchildren ever born\u201d) was asked of all women 15 years old and over regardless of marital status. Stillbirths, stepchildren, and adopted children were excluded from the number of children ever born. Ever-married women were instructed to include all children born to them before and during their most recent marriage, children no longer living, and children living away from home, as well as children who were still living in the home. Never-married women were instructed to include all children born to them. The question on children ever born was asked to measure lifetime fertility experience of women up to the survey date.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 60
+  },
+  "Citizen Voting-Age Population": {
+    "definition": "The citizen voting-age population includes all United States citizen 18 years of age or older at the time of the interview. Data on the citizen voting-age population is derived using the data on age and citizenship status. See Age and Citizenship Status for information on these topics.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 61
+  },
+  "Class of Worker": {
+    "definition": "Class of worker categorizes workers according to the type of ownership of the employing organization. This variable identifies whether the respondent is self-employed, works in the private sector, or in government. The class of worker category is, in most cases, independent of industry and occupation.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 63
+  },
+  "PRIVATE SECTOR EMPLOYEE": {
+    "definition": "\uf0a7 For-profit company or organization \uf0a7 Non-profit organization (including tax-exempt and charitable organizations)",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 63
+  },
+  "GOVERNMENT EMPLOYEE": {
+    "definition": "\uf0a7 Local government (for example: city or county school district) \uf0a7 State government (including state colleges/universities) \uf0a7 Active duty U.S. Armed Forces or Commissioned Corps \uf0a7 Federal government civilian employee",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 63
+  },
+  "SELF-EMPLOYED OR OTHER": {
+    "definition": "\uf0a7 Owner of non-incorporated business, professional practice, or farm \uf0a7 Owner of incorporated business, professional practice, or farm \uf0a7 Worked without pay in a for-profit family business or farm for 15 hours or more per",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 63
+  },
+  "Alphabetical Index of Industries and Occupations": {
+    "definition": "(https://www.census.gov/topics/employment/industry-occupation/guidance/indexes.html). If one or more of the three codes (occupation, industry, or class of worker) is blank after the edit, a code is assigned from a donor respondent who is a \u201csimilar\u201d person based on questions such as age, sex, educational attainment, income, employment status, and weeks worked. If",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 64
+  },
+  "Disability Status": {
+    "definition": "Under the conceptual framework of disability described by the Institute of Medicine (IOM) and the International Classification of Functioning, Disability, and Health (ICF), disability is defined as the product of interactions among individuals\u2019 bodies; their physical, emotional, and mental health; and the physical and social environment in which they live, work, or play. Disability exists where this interaction results in limitations of activities and restrictions to full participation at school, at work, at home, or in the community. For example, disability may exist where a child has difficulty learning because the school cannot accommodate the child\u2019s deafness.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 66
+  },
+  "Educational Attainment": {
+    "definition": "Educational attainment data are needed for use in assessing the socioeconomic condition of the U.S. population. Government agencies also require these data for funding allocations and program planning and implementation. These data are needed to determine the extent of illiteracy rates of citizens in language minorities in order to meet statutory requirements under the Voting Rights Act. Based on data about educational attainment, school districts are allocated funds to provide classes in basic skills to adults who have not completed high school.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 69
+  },
+  "Employment Status": {
+    "definition": "The data on employment status were derived from Questions 30 and 36 to 38 in the 2023 American Community Survey (ACS). (In the 1999-2002 ACS, data were derived from Questions 22 and 28 to 30; in the 1996-1998 ACS, data were derived from Questions 21 and 28 to 30.) The questions were asked of all people 15 years old and over. The series of questions on employment status was designed to identify, in this sequence: (1) people who worked at any time during the reference week; (2) people on temporary layoff who were available for work; (3) people who did not work during the reference week but who had jobs or businesses from which they were temporarily absent (excluding layoff); (4) people who did not work during the reference week, but who were looking for work during the last four weeks and were available for work during the reference week; and (5) people not in the labor force. (For more information, see the discussion under \u201cReference Week.\u201d)",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 72
+  },
+  "Investigating possibilities for starting a professional": {
+    "definition": "practice or opening a business",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 73
+  },
+  "Families": {
+    "definition": "See Household Type and Relationship.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 76
+  },
+  "Fertility": {
+    "definition": "The data on fertility were derived from Question 17 in 1999-2002, Question 18 in 2003-2007, question 23 in 2008, Question 24 in 2009-2018, and Question 25 since 2019 in the American Community Survey (ACS). The question asked if the person had given birth in the past 12 months, and was asked of all women 15 to 50 years old regardless of marital status. From this question, we are able to determine geographies with high numbers of women with births and the characteristics of these women, such as age and marital status. When fertility was not reported, it was imputed according to the woman\u2019s age and marital status and the possibility there was an infant in the household.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 76
+  },
+  "Field of Degree": {
+    "definition": "Field of degree data are used by the National Science Foundation (NSF) to study the characteristics of the population with science and engineering degrees and occupations.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 77
+  },
+  "Foreign-Born Population": {
+    "definition": "The foreign-born population includes anyone who was not a U.S. citizen at birth. This includes respondents who indicated they were a U.S. citizen by naturalization or not a U.S. citizen. See Citizenship Status.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 78
+  },
+  "Foster Children": {
+    "definition": "See Household Type and Relationship.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 78
+  },
+  "Grade in Which Enrolled": {
+    "definition": "See School Enrollment and Type of School.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 78
+  },
+  "Grandparents as Caregivers": {
+    "definition": "Data on grandparents as caregivers were derived from Questions 26a through 26c in the 2023 American Community Survey (ACS). Data are collected on whether a grandchild lives with a grandparent in the household, whether the grandparent has responsibility for the basic needs of the grandchild, and the duration of that responsibility.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 78
+  },
+  "Group Quarters (GQ)": {
+    "definition": "See \u201cGroup Quarters\u201d in the Living Quarters section.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 79
+  },
+  "Health Insurance Coverage": {
+    "definition": "Data on health insurance coverage were derived from answers to Question 16 in the American Community Survey (ACS), which was asked of all respondents. Respondents were instructed to report their current coverage and to mark \u201cyes\u201d or \u201cno\u201d for each of the eight types listed (labeled as parts 16(a) to 16(h)).",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 79
+  },
+  "Hispanic or Latino Origin": {
+    "definition": "The data on the Hispanic or Latino population were derived from answers to a question that was asked of all people (Question 5 in the 2023 American Community Survey (ACS)). The ethnicity classifications used by the U.S. Census Bureau adhere to the October 30, 1997, Federal Register notice entitled, \u201cRevisions to the Standards for the Classification of Federal Data on Race and Ethnicity\u201d issued by the Office of Management and Budget (OMB). These OMB standards govern the definitions and categories used to collect and present federal data on ethnicity and race. OMB requires two minimum categories on ethnicity (Hispanic or Latino and Not Hispanic or Latino).",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 82
+  },
+  "Household": {
+    "definition": "See Household Type and Relationship.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 85
+  },
+  "Household Type and Relationship": {
+    "definition": "The data on relationship to householder were derived from answers to Question 2 in the 2023 American Community Survey (ACS), which was asked of all people in housing units. The question on relationship is essential for classifying the population information on families and other groups. Information about changes in the composition of the American family, from the number of people living alone to the number of children living with only one parent, is essential for planning and carrying out a number of federal programs.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 85
+  },
+  "Relationship to Householder": {
+    "definition": "Householder \u2013 One person in each household is designated as the householder. In most cases, this is the person or one of the people in whose name the home is owned, being bought, or rented and who is listed on line one of the survey questionnaire. If there is no such person in the household, any adult household member 15 years old and over could be designated as the householder.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 86
+  },
+  "Householder": {
+    "definition": "See Household Type and Relationship.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 90
+  },
+  "Immigrants": {
+    "definition": "According to the Department of Homeland Security (DHS), immigrants are foreign-born persons who obtain legal permanent residence in the United States. DHS is responsible for publishing immigration statistics based on administrative data, such as the number of persons obtaining legal permanent resident status, refugees and asylees, naturalizations, nonimmigrant admissions, and enforcement actions.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 91
+  },
+  "Industry": {
+    "definition": "Industry data describe the kind of business conducted by a person's employing organization. These data are derived from a combination of write-in and check box questions, which are autocoded and clerically coded by Census Bureau staff, using the Census Industry Code List developed for Census Bureau household surveys.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 99
+  },
+  "Journey to Work": {
+    "definition": "Place of Work \u2013 The data on place of work were derived from answers to Question 31 in 2023 American Community Survey (ACS), which was asked of people who indicated in 2023 ACS Question 30a that they worked at some time during the reference week. (See \u201cReference Week.\u201d)",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 102
+  },
+  "Labor Force Status": {
+    "definition": "See Employment Status.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 108
+  },
+  "Language Spoken at Home": {
+    "definition": "Language Spoken at Home by the Respondent \u2013 Data on language spoken at home were derived from answers to questions 14a and 14b in the 2023 American Community Survey (ACS). These questions were asked only of persons 5 years of age and older. Instructions mailed with the ACS questionnaire instructed respondents to mark \u201cYes\u201d on Question 14a if they sometimes or always spoke a language other than English at home, and \u201cNo\u201d if the person speaks only English, or if a non-English language is spoken only at school, or is limited to a few expressions or slang. For Question 14b, respondents printed the name of the non-English language they spoke at home. If the person spoke more than one non-English language, accompanying instructions instructed them to report the language spoken most often. If the language spoken most frequently could not be determined, the respondent was instructed to report the language learned first.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 108
+  },
+  "Marital Status/Marital History": {
+    "definition": "The data on marital status and marital history were derived from answers to Questions 21 through 24 in the 2023 ACS. The marital status question is asked to determine the status of the person at the time of interview. Many government programs need accurate information on marital status, such as the number of married women in the labor force, elderly widowed individuals, or young single people who may establish homes of their own. The marital history data enables multiple agencies to more accurately measure the effects of federal and state policies and programs that focus on the well-being of families. Marital history data can provide estimates of marriage and divorce rates and duration, as well as flows into and out of marriage. This information is critical for more refined analyses of eligibility for program services and benefits, and of changes resulting from federal policies and programs.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 110
+  },
+  "Migration": {
+    "definition": "See Residence 1 Year Ago.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 113
+  },
+  "Native Population": {
+    "definition": "The native population includes anyone who was a U.S. citizen at birth. This includes respondents who indicated they were born in the United States, Puerto Rico, Guam, the Northern Marianas, or the U.S. Virgin Islands, as well as those born abroad of at least one U.S. citizen parent. See Citizenship Status.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 113
+  },
+  "Nativity": {
+    "definition": "Nativity status refers to whether a person is native or foreign-born.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 113
+  },
+  "Nativity of Parent": {
+    "definition": "Nativity of parent indicates the nativity (native or foreign-born) of the parent(s) of children living in a family or subfamily with one or more parents present in the household. It applies to \u201cown children,\u201d that is, never married children under 18 years of age living with one or more of their parents. (See also \u201cHousehold Type and Relationship.\u201d) The nativity of the child\u2019s parent(s) is determined by the citizenship status of the parent(s). A person is considered native if he/she is a United States citizen at birth and foreign-born if he/she is not a United States citizen at birth. (See also \u201cPlace of Birth.\u201d)",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 113
+  },
+  "Occupation": {
+    "definition": "Occupation data describe the kind of work the person does on the job. These data are derived from responses to write-in questions that are autocoded and clerically coded by Census Bureau staff, using the Census Occupation Code List developed for Census Bureau household surveys.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 114
+  },
+  "Own Children": {
+    "definition": "See Household Type and Relationship.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 117
+  },
+  "Persons in Family": {
+    "definition": "See Household Type and Relationship.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 117
+  },
+  "Persons in Household": {
+    "definition": "See Household Type and Relationship.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 117
+  },
+  "Place of Birth": {
+    "definition": "The data on place of birth were derived from answers to Question 7 in the 2023 American Community Survey (ACS). Respondents were asked to select one of two categories: (1) in the United States, or (2) outside the United States. In the ACS, respondents selecting category (1) were then asked to report the name of the state while respondents selecting category (2) were then asked to report the name of the foreign country, or Puerto Rico, Guam, etc. In the Puerto Rico Community Survey (PRCS), respondents selecting category (1) were also asked to report the name of the state, while respondents selecting category (2) were then asked to print Puerto Rico or the name of the foreign country, or U.S. Virgin Islands, Guam, etc. People not reporting a place of birth were assigned the state or country of birth of another family member, or were allocated the response of another individual with similar characteristics. People born outside the United States were asked to report their place of birth according to current international boundaries. Since numerous changes in boundaries of foreign countries have occurred in the last century, some people may have reported their place of birth in terms of boundaries that existed at the time of their birth or emigration, or in accordance with their own national preference.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 117
+  },
+  "How the Census Bureau Determines Poverty Status": {
+    "definition": "In determining the poverty status of families and unrelated individuals, the Census Bureau uses thresholds (income cutoffs) arranged in a two-dimensional matrix. The matrix consists of family size (from one person to nine or more people) cross-classified by presence and number of family members under 18 years old (from no children present to eight or more children present). Unrelated individuals and two-person families are further differentiated by age of reference person (householder) (under 65 years old and 65 years old and over).",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 119
+  },
+  "Race": {
+    "definition": "The data on race were derived from answers to the question on race that was asked of all people (Question 6 in the 2023 American Community Survey (ACS)). The U.S. Census Bureau collects race data in accordance with guidelines provided by the U.S. Office of Management and Budget (OMB), and these data are based on self-identification. The racial categories included in the census questionnaire generally reflect a social definition of race recognized in this country and not an attempt to define race biologically, anthropologically, or genetically. In addition, it is recognized that the categories of the race item include racial and national origin or sociocultural groups. People may choose to report more than one race to indicate their racial mixture, such as \u201cAmerican Indian\u201d and \u201cWhite.\u201d People who identify their origin as Hispanic, Latino, or Spanish may be of any race.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 122
+  },
+  "The category also": {
+    "definition": "includes groups such as Ghanaian, South African, Barbadian, Kenyan, Liberian, Bahamian, etc.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 123
+  },
+  "Tribe, Mayan,": {
+    "definition": "Aztec, Native Village of Barrow Inupiat Traditional Government, or Nome Eskimo Community.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 123
+  },
+  "Race Concepts": {
+    "definition": "Given the many possible ways of displaying data on race, data products will provide varying levels of detail. There are several concepts used to display and tabulate race information for the six major race categories (White; Black or African American; American Indian or Alaska Native; Asian; Native Hawaiian or Other Pacific Islander; and Some Other Race) and the various details within these groups.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 125
+  },
+  "Question/Concept History": {
+    "definition": "1996-1998 American Community Survey",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 126
+  },
+  "Relatives and Nonrelatives": {
+    "definition": "See Household Type and Relationship.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 129
+  },
+  "School Enrollment and Type of School": {
+    "definition": "School enrollment data are used to assess the socioeconomic condition of school-age children. Government agencies also require these data for funding allocations and program planning and implementation.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 132
+  },
+  "Sex": {
+    "definition": "The data on sex were derived from answers to Question 3 in the 2023 American Community Survey (ACS). Individuals were asked to mark either \u201cmale\u201d or \u201cfemale\u201d to indicate their biological sex. For most cases in which sex was invalid, the appropriate entry was determined from other information provided for that person, such as the person\u2019s given (i.e., first) name and household relationship. Otherwise, sex was allocated from a hot deck.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 134
+  },
+  "Social Security Income": {
+    "definition": "See Income in the Past 12 Months.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 135
+  },
+  "Subfamily": {
+    "definition": "See Household Type and Relationship.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 136
+  },
+  "Type of School": {
+    "definition": "See School Enrollment.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 136
+  },
+  "Veteran Status": {
+    "definition": "Data on veteran status and period of military service were derived from answers to Questions 27 and 28 on the American Community Survey (ACS).",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 136
+  },
+  "Work Experience": {
+    "definition": "The data on work experience were derived from answers to Questions 39, 40, and 41 in the 2023 American Community Survey (ACS). This term relates to work status in the past 12 months, weeks worked in the past 12 months, and usual hours worked per week worked in the past 12 months.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 141
+  },
+  "Year of Entry": {
+    "definition": "The data on year of entry were derived from answers to Question 9 in the 2023 American Community Survey (ACS). This question was asked about Persons 1 through 5 in the ACS and was restricted to those persons who on Question 8 answered that they were in citizenship categories (2) born in Puerto Rico, Guam, the U.S. Virgin Islands, or Northern Marianas; (3)",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 143
+  },
+  "Derived Measures": {
+    "definition": "Census data products include various derived measures, such as medians, means, and percentages, as well as certain rates and ratios. Most derived measures that round to less than 0.1 are shown as zero.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 145
+  },
+  "Gini Index": {
+    "definition": "The Gini is a measure of how much a distribution varies from a proportionate distribution. A purely proportionate distribution would have every value in the distribution being equal (that is 20% of the values would equal 20% of the aggregate total of all the values). This also is known as \u201cperfect equality\u201d \u2013 all households have an equal share of income. An example of a distribution that deviates the most from perfect equality would have every value except one equal to zero, and one value that would be equal to the nonzero aggregate total for all the values. This also is known as \u201cperfect inequality\u201d \u2013 one household has all income.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 145
+  },
+  "Interpolation": {
+    "definition": "Interpolation is frequently used to calculate medians, quartiles, or quintiles and to approximate standard errors from tables based on interval data. Different kinds of interpolation may be used to estimate the value of a function between two known values, depending on the form of the distribution. The most common distributional assumption is that the data are linear, resulting in linear interpolation.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 145
+  },
+  "Mean": {
+    "definition": "This measure represents an arithmetic average of a set of values. It is derived by dividing the sum (or aggregate) of a group of numerical questions by the total number of questions in that group. For example, mean household earnings is obtained by dividing the aggregate of all",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 145
+  },
+  "Contract Rent, Rent Asked": {
+    "definition": "Earnings in the Past 12 Months (Households) Earnings in the Past 12 Months (Individuals) Gross Rent* Income Deficit in the Past 12 Months (Families) Income Deficit in the Past 12 Months Per Family Member Income Deficit in the Past 12 Months Per Unrelated Individual Income in the Past 12 Months (Household/Family/Nonfamily Household) Income in the Past 12 Months (Individuals) Mobile Home Costs Real Estate Taxes (Per $1,000 Value) Rent Asked Selected Monthly Owner Costs* by Mortgage Status Total Mortgage Payment",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 146
+  },
+  "Value, Price Asked": {
+    "definition": "[*Note: Gross Rent and Selected Monthly Owner Costs include other aggregates that also are subject to rounding. For example, Gross Rent includes aggregates of payments for \u201ccontract rent\u201d and the \u201ccosts of utilities and fuels.\u201d Selected Monthly Owner Costs includes aggregates of payments for \u201cmortgages, deeds of trust, contracts to purchase, or similar debts on the property (including payments for the first mortgage, second mortgage, home equity loans, and other junior mortgages); real estate taxes; fire, hazard, and flood insurance on the property, and the costs of utilities and fuels.\u201d] [**Note: Aggregate Travel Time to Work is zero if the aggregate is zero, is rounded to 4 minutes if the aggregate is 1 to 7 minutes, and is rounded to the nearest multiple of 5 minutes for all other values (if the aggregate is not already evenly divisible by 5).]",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 147
+  },
+  "Median": {
+    "definition": "This measure represents the middle value (if n is odd) or the average of the two middle values (if n is even) in an ordered list of n data values. The median divides the total frequency distribution into two equal parts: one-half of the cases falling below the median and one-half above the median. Each median is calculated using a standard distribution (see below). (For more information, see \u201cInterpolation.\u201d)",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 147
+  },
+  "Percentage": {
+    "definition": "This measure is calculated by taking the number of questions in a group possessing a characteristic of interest and dividing by the total number of questions in that group, and then multiplying by 100.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 147
+  },
+  "Quartile": {
+    "definition": "This measure divides a distribution into four equal parts. The first quartile (or lower quartile) is the value that defines the upper limit of the lowest one-quarter of the cases. The second quartile is the median. The third quartile (or upper quartile) is defined as the upper limit of the lowest three quarters of cases in the distribution. Quartiles are presented for certain financial characteristics such as housing value and contract rent. The distribution used to compute quartiles is the same as that used to compute medians for that variable.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 148
+  },
+  "Quintile": {
+    "definition": "This measure divides a distribution into five equal parts. The first quintile (or lowest quintile) is the value that defines the upper limit of the lowest one-fifth of the cases. The second quintile is the 40th percentile. The third quintile is the 60th percentile. The fourth quintile is defined as the upper limit of the lowest four fifths of cases in the distribution, or the 80th percentile. Quintiles are presented for household incomes.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 148
+  },
+  "Rate": {
+    "definition": "This is a measure of occurrences in a given period of time divided by the possible number of occurrences during that period. For example, the homeowner vacancy rate is calculated by dividing the number of vacant units \u201cfor sale only\u201d by the sum of owner-occupied units and vacant units that are \u201cfor sale only,\u201d and then multiplying by 100. Rates are sometimes presented as percentages.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 148
+  },
+  "Ratio": {
+    "definition": "This is a measure of the relative size of one number to a second number expressed as the quotient of the first number divided by the second. For example, the sex ratio is calculated by dividing the total number of males by the total number of females, and then multiplying by 100.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 148
+  },
+  "Sample Size": {
+    "definition": "Initially Selected Housing Unit Addresses \u2013 The number of addresses in each state and for the nation that were selected for the ACS sample for a particular year. Each year's sample is systematically divided into 12 monthly samples for ACS interviewing. This initial number includes addresses later determined to be commercial or nonexistent, as well as housing units that are not interviewed due to subsampling for personal visit follow-up, refusals, or other reasons.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 149
+  },
+  "Coverage Rates": {
+    "definition": "There are two kinds of coverage error: under-coverage and over-coverage. Under-coverage exists when housing units or people do not have a chance of being selected in the sample. Over-coverage exists when housing units or people have more than one chance of selection in the sample, or are included in the sample when they should not have been. If the characteristics of under-covered or over-covered housing units or individuals differ from those that are selected, the ACS may not provide an accurate picture of the population.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 150
+  },
+  "Response Rates": {
+    "definition": "The survey response rate is the ratio of the estimate of units interviewed after data collection is complete to the estimate of all units that should have been interviewed. Separate rates are calculated for housing unit response and GQ person response. For housing units, this means all interviews after mail, Internet, telephone and personal visit follow-up. For GQ persons, this means all interviews after the personal visit. Interviews include complete and partial interviews with enough information to be processed.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 150
+  },
+  "Allocation Rates": {
+    "definition": "Missing data for a particular question or item is called item nonresponse. It occurs when a respondent fails to provide an answer to a required item. The ACS also considers invalid answers as item nonresponse. The Census Bureau uses imputation methods that either use rules to determine acceptable answers or use answers from similar housing units or people who provided the item information. One type of imputation, allocation, involves using",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 151
+  },
+  "Appendix A": {
+    "definition": "Field of Degree Classification",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 153
+  },
+  "Science and Engineering": {
+    "definition": "Fifteen-Group Classification Computers, Mathematics and Statistics",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 153
+  },
+  "Examples": {
+    "definition": "Computer Science, Mathematics, General Statistics",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 153
+  },
+  "Biological, Agricultural, and": {
+    "definition": "Environmental Sciences",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 153
+  },
+  "Cellular and Molecular Biology, Soil": {
+    "definition": "Sciences, Natural Resource Management",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 153
+  },
+  "Engineering": {
+    "definition": "Multidisciplinary Studies",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 153
+  },
+  "Psychology, Counseling, Child Psychology": {
+    "definition": "Criminology, Sociology, Political Science Chemical Engineering, Thermal Engineering, Electrical Engineering",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 153
+  },
+  "Pre-Med, Physical Therapy,  Mechanical": {
+    "definition": "Engineering Technology",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 153
+  },
+  "Literature and Languages": {
+    "definition": "Liberal Arts and History Visual and Performing Arts",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 153
+  },
+  "Business Administration, Accounting,": {
+    "definition": "Human Resources Development Early Childhood Education, Higher Education Administration, Special Education English, Foreign Language and Literature, Spanish Philosophy, Theology, American History Interior Design, Dance, Voice Mass Communications, Journalism, Public Relations Public Administration, Pre-law, Kinesiology",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 153
+  },
+  "Home with Examples": {
+    "definition": "Four Group Classification",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 154
+  },
+  "Spanish": {
+    "definition": "Other Indo-European languages",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 154
+  },
+  "Greek": {
+    "definition": "Russian Polish Serbo-Croatian, Croatian, Serbian",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 154
+  },
+  "Haitian": {
+    "definition": "Italian Portuguese German Yiddish, Pennsylvania Dutch or other West Germanic languages Greek Russian Polish Serbo-Croatian Ukrainian or other Slavic languages Czech, Slovak, Ukrainian Armenian Persian (incl. Farsi, Dari) Gujarati Hindi Urdu Punjabi Bengali Nepali, Marathi, or other Indic languages",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 154
+  },
+  "Armenian": {
+    "definition": "Iranian Persian (Farsi), Dari Gujarati Hindi Urdu Punjabi Bengali",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 154
+  },
+  "Nepali, Marathi, Konkani": {
+    "definition": "Other Indo-European languages",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 154
+  },
+  "Telugu": {
+    "definition": "Tamil Malayalam, Kannada, or other Dravidian languages",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 154
+  },
+  "Malayalam, Kannada": {
+    "definition": "Asian and Pacific Island languages",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 154
+  },
+  "All other languages": {
+    "definition": "Japanese Korean Hmong Vietnamese Khmer Thai, Lao, or other Tai-Kadai languages Other languages of Asia Tagalog (incl. Filipino) Ilocano, Samoan, Hawaiian, or other Austronesian languages Navajo Other Native languages of North America Arabic Hebrew Amharic, Somali, or other Afro- Asiatic languages Yoruba, Twi, Igbo, or other languages of Western Africa Swahili or other languages of Central, Eastern, and Southern Africa",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 155
+  },
+  "Other and unspecified languages": {
+    "definition": "Japanese Korean Hmong Vietnamese Central Khmer (Cambodian)",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 155
+  },
+  "Burmese, Tibetan, Turkish": {
+    "definition": "Tagalog, Filipino Hawaiian, Cebuano (Bisayan), Iloko (Ilocano), Samoan, Indonesian Navajo Apache languages, Cherokee, Dakota languages, Tohono O'odham Arabic Hebrew Amharic, Chaldean Neo-Aramaic, Somali, Tigrinya Akan (incl. Fanti, Twi), Igbo (Ibo), Wolof, Yoruba",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 155
+  },
+  "Bantu languages, Lingala, Swahili": {
+    "definition": "Hungarian, Jamaican Creole English, Unspecified",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 155
+  },
+  "Poverty Factors": {
+    "definition": "The 2023 Poverty Factors:",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 156
+  },
+  "Poverty Thresholds": {
+    "definition": "Poverty Thresholds in 1982, by Size of Family and Number of Related Children Under 18 Years Old (Dollars)",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 157
+  },
+  "Size of family unit": {
+    "definition": "None One Two Three Four Five",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 157
+  },
+  "N/A": {
+    "definition": "Nine persons or more Source: U.S. Census Bureau",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 157
+  },
+  "Seven persons": {
+    "definition": "Eight persons or more",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 157
+  },
+  "Race Combinations": {
+    "definition": "Two or More Races (57 Possible Specified Combinations)",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 158
+  },
+  "Other Pacific Islander": {
+    "definition": "28. Black or African American; American Indian and Alaska Native; Some Other Race 29. Black or African American; Asian; Native Hawaiian and Other Pacific Islander 30. Black or African American; Asian; Some Other Race 31. Black or African American; Native Hawaiian and Other Pacific Islander; Some Other Race 32. American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander 33. American Indian and Alaska Native; Asian; Some Other Race 34. American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race 35. Asian; Native Hawaiian and Other Pacific Islander; Some Other Race 36. White; Black or African American; American Indian and Alaska Native; Asian",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 158
+  },
+  "Hawaiian and Other Pacific Islander": {
+    "definition": "38. White; Black or African American; American Indian and Alaska Native; Some Other Race 39. White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander 40. White; Black or African American; Asian; Some Other Race 41. White; Black or African American; Native Hawaiian and Other Pacific Islander; Some Other Race 42. White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander 43. White; American Indian and Alaska Native; Asian; Some Other Race 44. White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some other race 45. White; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race 46. Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander 47. Black or African American; American Indian and Alaska Native; Asian; Some Other Race 48. Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race 49. Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race 50. American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race 51. White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander 52. White; Black or African American; American Indian and Alaska Native; Asian; Some Other Race 53. White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race 54. White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race 55. White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race 56. Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race 57. White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 159
+  },
+  "Median Standard Distributions": {
+    "definition": "In order to provide consistency in the values within and among data products, standard distributions from which medians and quartiles are calculated are used for the American Community Survey.",
+    "source_pdf": "2023_ACSSubjectDefinitions.pdf",
+    "page": 160
+  }
+}
