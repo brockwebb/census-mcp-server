@@ -1,0 +1,902 @@
+{
+  "B19325_057E": {
+    "label": "Estimate!!Total:!!Female:!!Worked full-time, year-round in the past 12 months:!!With income:!!$10,000 to $12,499",
+    "concept": "Sex by Work Experience in the Past 12 Months by Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) for the Population 15 Years and Over",
+    "predicateType": "int",
+    "group": "B19325",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B19"
+  },
+  "B19037A_022E": {
+    "label": "Estimate!!Total:!!Householder 25 to 44 years:!!$15,000 to $19,999",
+    "concept": "Age of Householder by Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (White Alone Householder)",
+    "predicateType": "int",
+    "group": "B19037A",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B19"
+  },
+  "B19037E_054E": {
+    "label": "Estimate!!Total:!!Householder 65 years and over:!!Less than $10,000",
+    "concept": "Age of Householder by Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (Native Hawaiian and Other Pacific Islander Alone Householder)",
+    "predicateType": "int",
+    "group": "B19037E",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B19"
+  },
+  "B19037G_032E": {
+    "label": "Estimate!!Total:!!Householder 25 to 44 years:!!$100,000 to $124,999",
+    "concept": "Age of Householder by Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (Two or More Races Householder)",
+    "predicateType": "int",
+    "group": "B19037G",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B19"
+  },
+  "B19037B_010E": {
+    "label": "Estimate!!Total:!!Householder under 25 years:!!$40,000 to $44,999",
+    "concept": "Age of Householder by Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (Black or African American Alone Householder)",
+    "predicateType": "int",
+    "group": "B19037B",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B19"
+  },
+  "B19101B_016E": {
+    "label": "Estimate!!Total:!!$150,000 to $199,999",
+    "concept": "Family Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (Black or African American Alone Householder)",
+    "predicateType": "int",
+    "group": "B19101B",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B19"
+  },
+  "B19037A_008E": {
+    "label": "Estimate!!Total:!!Householder under 25 years:!!$30,000 to $34,999",
+    "concept": "Age of Householder by Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (White Alone Householder)",
+    "predicateType": "int",
+    "group": "B19037A",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B19"
+  },
+  "B19001F_006E": {
+    "label": "Estimate!!Total:!!$25,000 to $29,999",
+    "concept": "Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (Some Other Race Alone Householder)",
+    "predicateType": "int",
+    "group": "B19001F",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B19"
+  },
+  "B19123_018E": {
+    "label": "Estimate!!Total:!!6-person families:!!No cash public assistance income or household Food Stamps/SNAP benefits in the past 12 months",
+    "concept": "Family Size by Cash Public Assistance Income or Households Receiving Food Stamps/SNAP Benefits in the Past 12 Months",
+    "predicateType": "int",
+    "group": "B19123",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B19"
+  },
+  "B19001A_017E": {
+    "label": "Estimate!!Total:!!$200,000 or more",
+    "concept": "Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (White Alone Householder)",
+    "predicateType": "int",
+    "group": "B19001A",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B19"
+  },
+  "B19313C_001E": {
+    "label": "Estimate!!Aggregate income in the past 12 months (in 2023 inflation-adjusted dollars)",
+    "concept": "Aggregate Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) for the Population 15 Years and Over (American Indian and Alaska Native Alone)",
+    "predicateType": "int",
+    "group": "B19313C",
+    "survey": "acs1",
+    "complexity": "unknown",
+    "table_family": "B19"
+  },
+  "B19128_004E": {
+    "label": "Estimate!!Aggregate family income in the past 12 months (in 2023 inflation-adjusted dollars):!!Married-couple family:!!No own children of the householder under 18 years",
+    "concept": "Aggregate Family Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) by Family Type by Presence of Own Children Under 18 Years",
+    "predicateType": "int",
+    "group": "B19128",
+    "survey": "acs1",
+    "complexity": "unknown",
+    "table_family": "B19"
+  },
+  "B19037H_063E": {
+    "label": "Estimate!!Total:!!Householder 65 years and over:!!$50,000 to $59,999",
+    "concept": "Age of Householder by Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (White Alone, Not Hispanic or Latino Householder)",
+    "predicateType": "int",
+    "group": "B19037H",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B19"
+  },
+  "B19037E_034E": {
+    "label": "Estimate!!Total:!!Householder 25 to 44 years:!!$150,000 to $199,999",
+    "concept": "Age of Householder by Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (Native Hawaiian and Other Pacific Islander Alone Householder)",
+    "predicateType": "int",
+    "group": "B19037E",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B19"
+  },
+  "B19037E_041E": {
+    "label": "Estimate!!Total:!!Householder 45 to 64 years:!!$25,000 to $29,999",
+    "concept": "Age of Householder by Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (Native Hawaiian and Other Pacific Islander Alone Householder)",
+    "predicateType": "int",
+    "group": "B19037E",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B19"
+  },
+  "B25026_012E": {
+    "label": "Estimate!!Total population in occupied housing units:!!Renter occupied:!!Moved in 2010 to 2017",
+    "concept": "Total Population in Occupied Housing Units by Tenure by Year Householder Moved Into Unit",
+    "predicateType": "int",
+    "group": "B25026",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B25"
+  },
+  "B25121_062E": {
+    "label": "Estimate!!Total:!!Household income the past 12 months (in 2023 inflation-adjusted dollars) --!!$50,000 to $74,999:",
+    "concept": "Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) by Value",
+    "predicateType": "int",
+    "group": "B25121",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B25"
+  },
+  "B25140E_012E": {
+    "label": "Estimate!!Total:!!Rented!!Over 50 Percent",
+    "concept": "Housing Costs as a Percentage of Household Income in the Past 12 Months (Native Hawaiian and Other Pacific Islander Alone Householder)",
+    "predicateType": "int",
+    "group": "B25140E",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B25"
+  },
+  "B25129_051E": {
+    "label": "Estimate!!Total:!!Renter occupied:!!Moved in 2010 to 2017:!!50 or more",
+    "concept": "Tenure by Year Householder Moved Into Unit by Units in Structure",
+    "predicateType": "int",
+    "group": "B25129",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B25"
+  },
+  "B25106_043E": {
+    "label": "Estimate!!Total:!!Renter-occupied housing units:!!$75,000 or more:!!20 to 29 percent",
+    "concept": "Tenure by Housing Costs as a Percentage of Household Income in the Past 12 Months",
+    "predicateType": "int",
+    "group": "B25106",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B25"
+  },
+  "B25033_003E": {
+    "label": "Estimate!!Total:!!Owner occupied:!!1, detached or attached",
+    "concept": "Total Population in Occupied Housing Units by Tenure by Units in Structure",
+    "predicateType": "int",
+    "group": "B25033",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B25"
+  },
+  "B25042_005E": {
+    "label": "Estimate!!Total:!!Owner occupied:!!2 bedrooms",
+    "concept": "Tenure by Bedrooms",
+    "predicateType": "int",
+    "group": "B25042",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B25"
+  },
+  "B25117_004E": {
+    "label": "Estimate!!Total:!!Owner occupied:!!Bottled, tank, or LP gas",
+    "concept": "Tenure by House Heating Fuel",
+    "predicateType": "int",
+    "group": "B25117",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B25"
+  },
+  "B25123_010E": {
+    "label": "Estimate!!Total:!!Renter occupied:!!With two selected conditions",
+    "concept": "Tenure by Selected Physical and Financial Conditions",
+    "predicateType": "int",
+    "group": "B25123",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B25"
+  },
+  "B25102_003E": {
+    "label": "Estimate!!Total:!!With a mortgage:!!Less than $800",
+    "concept": "Mortgage Status by Real Estate Taxes Paid",
+    "predicateType": "int",
+    "group": "B25102",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B25"
+  },
+  "B25140B_003E": {
+    "label": "Estimate!!Total:!!Owned Units with a Mortgage!!Over 30 Percent",
+    "concept": "Housing Costs as a Percentage of Household Income in the Past 12 Months (Black Alone Householder)",
+    "predicateType": "int",
+    "group": "B25140B",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B25"
+  },
+  "B25015_024E": {
+    "label": "Estimate!!Total:!!Renter occupied:!!Householder 65 years and over:",
+    "concept": "Tenure by Age of Householder by Occupants per Room",
+    "predicateType": "int",
+    "group": "B25015",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B25"
+  },
+  "B25027_002E": {
+    "label": "Estimate!!Total:!!Housing units with a mortgage:",
+    "concept": "Mortgage Status by Age of Householder",
+    "predicateType": "int",
+    "group": "B25027",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B25"
+  },
+  "B25010F_001E": {
+    "label": "Estimate!!Average household size --!!Total:",
+    "concept": "Average Household Size of Occupied Housing Units by Tenure (Some Other Race Alone Householder)",
+    "predicateType": "float",
+    "group": "B25010F",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B25"
+  },
+  "B25128_007E": {
+    "label": "Estimate!!Total:!!Owner occupied:!!Householder 15 to 34 years:!!Moved in 2000 to 2009",
+    "concept": "Tenure by Age of Householder by Year Householder Moved Into Unit",
+    "predicateType": "int",
+    "group": "B25128",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B25"
+  },
+  "B08006_024E": {
+    "label": "Estimate!!Total:!!Male:!!Car, truck, or van:!!Carpooled:!!In 4-or-more-person carpool",
+    "concept": "Sex of Workers by Means of Transportation to Work",
+    "predicateType": "int",
+    "group": "B08006",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B08"
+  },
+  "B08522_020E": {
+    "label": "Estimate!!Total:!!Walked:!!At or above 150 percent of the poverty level",
+    "concept": "Means of Transportation to Work by Poverty Status in the Past 12 Months for Workplace Geography",
+    "predicateType": "int",
+    "group": "B08522",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B08"
+  },
+  "B08534_028E": {
+    "label": "Estimate!!Total:!!Car, truck, or van:!!Drove alone:!!35 to 44 minutes",
+    "concept": "Means of Transportation to Work by Travel Time to Work for Workplace Geography",
+    "predicateType": "int",
+    "group": "B08534",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B08"
+  },
+  "B08511_027E": {
+    "label": "Estimate!!Total:!!Taxicab, motorcycle, bicycle, or other means:!!Native",
+    "concept": "Means of Transportation to Work by Citizenship Status for Workplace Geography",
+    "predicateType": "int",
+    "group": "B08511",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B08"
+  },
+  "B08006_039E": {
+    "label": "Estimate!!Total:!!Female:!!Car, truck, or van:!!Carpooled:!!In 2-person carpool",
+    "concept": "Sex of Workers by Means of Transportation to Work",
+    "predicateType": "int",
+    "group": "B08006",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B08"
+  },
+  "B08011_015E": {
+    "label": "Estimate!!Total:!!4:00 p.m. to 11:59 p.m.",
+    "concept": "Sex of Workers by Time of Departure to Go to Work",
+    "predicateType": "int",
+    "group": "B08011",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B08"
+  },
+  "B08012_012E": {
+    "label": "Estimate!!Total:!!60 to 89 minutes",
+    "concept": "Sex of Workers by Travel Time to Work",
+    "predicateType": "int",
+    "group": "B08012",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B08"
+  },
+  "B08406_039E": {
+    "label": "Estimate!!Total:!!Female:!!Car, truck, or van:!!Carpooled:!!In 2-person carpool",
+    "concept": "Sex of Workers by Means of Transportation to Work for Workplace Geography",
+    "predicateType": "int",
+    "group": "B08406",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B08"
+  },
+  "B08130_022E": {
+    "label": "Estimate!!Total:!!Walked:!!Worked in state of residence:",
+    "concept": "Means of Transportation to Work by Place of Work--State and County Level",
+    "predicateType": "int",
+    "group": "B08130",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B08"
+  },
+  "B08406_003E": {
+    "label": "Estimate!!Total:!!Car, truck, or van:!!Drove alone",
+    "concept": "Sex of Workers by Means of Transportation to Work for Workplace Geography",
+    "predicateType": "int",
+    "group": "B08406",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B08"
+  },
+  "B17021_012E": {
+    "label": "Estimate!!Total:!!Income in the past 12 months below poverty level:!!In family households:!!In other families:!!Female householder, no spouse present:!!All relatives",
+    "concept": "Poverty Status of Individuals in the Past 12 Months by Living Arrangement",
+    "predicateType": "int",
+    "group": "B17021",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B17"
+  },
+  "B17016_011E": {
+    "label": "Estimate!!Total:!!Income in the past 12 months below poverty level:!!Married-couple family:!!Householder worked part-time or part-year in the past 12 months:!!Spouse did not work in the past 12 months",
+    "concept": "Poverty Status in the Past 12 Months of Families by Family Type by Work Experience of Householder and Spouse",
+    "predicateType": "int",
+    "group": "B17016",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B17"
+  },
+  "B17024_123E": {
+    "label": "Estimate!!Total:!!75 years and over:!!1.00 to 1.24",
+    "concept": "Age by Ratio of Income to Poverty Level in the Past 12 Months",
+    "predicateType": "int",
+    "group": "B17024",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B17"
+  },
+  "B17009_008E": {
+    "label": "Estimate!!Total:!!Income in the past 12 months below the poverty level:!!Worked less than full-time, year-round:!!Other",
+    "concept": "Poverty Status by Work Experience of Unrelated Individuals by Householder Status",
+    "predicateType": "int",
+    "group": "B17009",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B17"
+  },
+  "B17001D_015E": {
+    "label": "Estimate!!Total:!!Income in the past 12 months below poverty level:!!Male:!!65 to 74 years",
+    "concept": "Poverty Status in the Past 12 Months by Sex by Age (Asian Alone)",
+    "predicateType": "int",
+    "group": "B17001D",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B17"
+  },
+  "B17101_001E": {
+    "label": "Estimate!!Total:",
+    "concept": "Poverty Status in the Past 12 Months of People in Housing Units",
+    "predicateType": "int",
+    "group": "B17101",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B17"
+  },
+  "B17001I_014E": {
+    "label": "Estimate!!Total:!!Income in the past 12 months below poverty level:!!Male:!!55 to 64 years",
+    "concept": "Poverty Status in the Past 12 Months by Sex by Age (Hispanic or Latino)",
+    "predicateType": "int",
+    "group": "B17001I",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B17"
+  },
+  "B17018_009E": {
+    "label": "Estimate!!Total:!!Income in the past 12 months below poverty level:!!Other families:!!Male householder, no spouse present:",
+    "concept": "Poverty Status in the Past 12 Months of Families by Household Type by Educational Attainment of Householder",
+    "predicateType": "int",
+    "group": "B17018",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B17"
+  },
+  "B17001_031E": {
+    "label": "Estimate!!Total:!!Income in the past 12 months at or above poverty level:",
+    "concept": "Poverty Status in the Past 12 Months by Sex by Age",
+    "predicateType": "int",
+    "group": "B17001",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B17"
+  },
+  "B17001E_042E": {
+    "label": "Estimate!!Total:!!Income in the past 12 months at or above poverty level:!!Male:!!45 to 54 years",
+    "concept": "Poverty Status in the Past 12 Months by Sex by Age (Native Hawaiian and Other Pacific Islander Alone)",
+    "predicateType": "int",
+    "group": "B17001E",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B17"
+  },
+  "B01001D_012E": {
+    "label": "Estimate!!Total:!!Male:!!45 to 54 years",
+    "concept": "Sex by Age (Asian Alone)",
+    "predicateType": "int",
+    "group": "B01001D",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B01"
+  },
+  "B01001G_007E": {
+    "label": "Estimate!!Total:!!Male:!!18 and 19 years",
+    "concept": "Sex by Age (Two or More Races)",
+    "predicateType": "int",
+    "group": "B01001G",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B01"
+  },
+  "B01001F_029E": {
+    "label": "Estimate!!Total:!!Female:!!65 to 74 years",
+    "concept": "Sex by Age (Some Other Race Alone)",
+    "predicateType": "int",
+    "group": "B01001F",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B01"
+  },
+  "B01001_027E": {
+    "label": "Estimate!!Total:!!Female:!!Under 5 years",
+    "concept": "Sex by Age",
+    "predicateType": "int",
+    "group": "B01001",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B01"
+  },
+  "B01001E_022E": {
+    "label": "Estimate!!Total:!!Female:!!18 and 19 years",
+    "concept": "Sex by Age (Native Hawaiian and Other Pacific Islander Alone)",
+    "predicateType": "int",
+    "group": "B01001E",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B01"
+  },
+  "B01001E_015E": {
+    "label": "Estimate!!Total:!!Male:!!75 to 84 years",
+    "concept": "Sex by Age (Native Hawaiian and Other Pacific Islander Alone)",
+    "predicateType": "int",
+    "group": "B01001E",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B01"
+  },
+  "B01001D_004E": {
+    "label": "Estimate!!Total:!!Male:!!5 to 9 years",
+    "concept": "Sex by Age (Asian Alone)",
+    "predicateType": "int",
+    "group": "B01001D",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B01"
+  },
+  "B01001F_024E": {
+    "label": "Estimate!!Total:!!Female:!!25 to 29 years",
+    "concept": "Sex by Age (Some Other Race Alone)",
+    "predicateType": "int",
+    "group": "B01001F",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B01"
+  },
+  "B15001_005E": {
+    "label": "Estimate!!Total:!!Male:!!18 to 24 years:!!9th to 12th grade, no diploma",
+    "concept": "Sex by Age by Educational Attainment for the Population 18 Years and Over",
+    "predicateType": "int",
+    "group": "B15001",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B15"
+  },
+  "B15002C_014E": {
+    "label": "Estimate!!Total:!!Female:!!Regular high school diploma",
+    "concept": "Sex by Educational Attainment for the Population 25 Years and Over (American Indian and Alaska Native Alone)",
+    "predicateType": "int",
+    "group": "B15002C",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B15"
+  },
+  "B15011_005E": {
+    "label": "Estimate!!Total:!!Male:!!25 to 39 years:!!Science and Engineering Related Fields",
+    "concept": "Sex by Age by Field of Bachelor's Degree for First Major for the Population 25 Years and Over",
+    "predicateType": "int",
+    "group": "B15011",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B15"
+  },
+  "B15011_020E": {
+    "label": "Estimate!!Total:!!Male:!!65 years and over:!!Arts, Humanities, and Other",
+    "concept": "Sex by Age by Field of Bachelor's Degree for First Major for the Population 25 Years and Over",
+    "predicateType": "int",
+    "group": "B15011",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B15"
+  },
+  "B15002G_018E": {
+    "label": "Estimate!!Total:!!Female:!!Bachelor's degree",
+    "concept": "Sex by Educational Attainment for the Population 25 Years and Over (Two or More Races)",
+    "predicateType": "int",
+    "group": "B15002G",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B15"
+  },
+  "B15012_013E": {
+    "label": "Estimate!!Total:!!Arts, Humanities, and Other!!Liberal Arts and History",
+    "concept": "Total Fields of Bachelor's Degrees Reported",
+    "predicateType": "int",
+    "group": "B15012",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B15"
+  },
+  "B15002D_019E": {
+    "label": "Estimate!!Total:!!Female:!!Graduate or professional degree",
+    "concept": "Sex by Educational Attainment for the Population 25 Years and Over (Asian Alone)",
+    "predicateType": "int",
+    "group": "B15002D",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B15"
+  },
+  "B15002_018E": {
+    "label": "Estimate!!Total:!!Male:!!Doctorate degree",
+    "concept": "Sex by Educational Attainment for the Population 25 Years and Over",
+    "predicateType": "int",
+    "group": "B15002",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B15"
+  },
+  "B23024_007E": {
+    "label": "Estimate!!Total:!!Income in the past 12 months below poverty level:!!With a disability:!!In labor force:!!Civilian:!!Employed",
+    "concept": "Poverty Status in the Past 12 Months by Disability Status by Employment Status for the Population 20 to 64 Years",
+    "predicateType": "int",
+    "group": "B23024",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B23"
+  },
+  "B23026_038E": {
+    "label": "Estimate!!Total:!!Female:!!Worked in the past 12 months:!!Usually worked 15 to 34 hours per week:!!40 to 47 weeks",
+    "concept": "Sex by Work Status in the Past 12 Months by Usual Hours Worked per Week in the Past 12 Months by Weeks Worked in the Past 12 Months for the Population 65 Years and Over",
+    "predicateType": "int",
+    "group": "B23026",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B23"
+  },
+  "B23001_058E": {
+    "label": "Estimate!!Total:!!Male:!!55 to 59 years:!!Not in labor force",
+    "concept": "Sex by Age by Employment Status for the Population 16 Years and Over",
+    "predicateType": "int",
+    "group": "B23001",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B23"
+  },
+  "B23002E_021E": {
+    "label": "Estimate!!Total:!!Male:!!25 to 54 years:!!In labor force:!!Civilian:!!Employed",
+    "concept": "Sex by Age by Employment Status for the Population 16 Years and Over (Native Hawaiian and Other Pacific Islander Alone)",
+    "predicateType": "int",
+    "group": "B23002E",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B23"
+  },
+  "B23002D_047E": {
+    "label": "Estimate!!Total:!!Female:!!16 to 19 years:!!In labor force:!!Civilian:!!Unemployed",
+    "concept": "Sex by Age by Employment Status for the Population 16 Years and Over (Asian Alone)",
+    "predicateType": "int",
+    "group": "B23002D",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B23"
+  },
+  "B23002F_019E": {
+    "label": "Estimate!!Total:!!Male:!!25 to 54 years:!!In labor force:!!In Armed Forces",
+    "concept": "Sex by Age by Employment Status for the Population 16 Years and Over (Some Other Race Alone)",
+    "predicateType": "int",
+    "group": "B23002F",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B23"
+  },
+  "B23002H_047E": {
+    "label": "Estimate!!Total:!!Female:!!16 to 19 years:!!In labor force:!!Civilian:!!Unemployed",
+    "concept": "Sex by Age by Employment Status for the Population 16 Years and Over (White Alone, Not Hispanic or Latino)",
+    "predicateType": "int",
+    "group": "B23002H",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B23"
+  },
+  "B23022_045E": {
+    "label": "Estimate!!Total:!!Female:!!Worked in the past 12 months:!!Usually worked 1 to 14 hours per week:!!40 to 47 weeks",
+    "concept": "Sex by Work Status in the Past 12 Months by Usual Hours Worked per Week in the Past 12 Months by Weeks Worked in the Past 12 Months for the Population 16 to 64 Years",
+    "predicateType": "int",
+    "group": "B23022",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B23"
+  },
+  "B09019_017E": {
+    "label": "Estimate!!Total:!!In households:!!Child:!!Stepchild",
+    "concept": "Household Type (Including Living Alone) by Relationship",
+    "predicateType": "int",
+    "group": "B09019",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B09"
+  },
+  "B09019_014E": {
+    "label": "Estimate!!Total:!!In households:!!Child:",
+    "concept": "Household Type (Including Living Alone) by Relationship",
+    "predicateType": "int",
+    "group": "B09019",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B09"
+  },
+  "B09021_010E": {
+    "label": "Estimate!!Total:!!18 to 34 years:!!Householder living with spouse or spouse of householder",
+    "concept": "Living Arrangements of Adults 18 Years and Over by Age",
+    "predicateType": "int",
+    "group": "B09021",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B09"
+  },
+  "B09021_006E": {
+    "label": "Estimate!!Total:!!Other relatives",
+    "concept": "Living Arrangements of Adults 18 Years and Over by Age",
+    "predicateType": "int",
+    "group": "B09021",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B09"
+  },
+  "B09020_013E": {
+    "label": "Estimate!!Total:!!In households:!!In nonfamily households:!!Householder:",
+    "concept": "Relationship by Household Type (Including Living Alone) for the Population 65 Years and Over",
+    "predicateType": "int",
+    "group": "B09020",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B09"
+  },
+  "B09001_010E": {
+    "label": "Estimate!!Total:!!In group quarters",
+    "concept": "Population Under 18 Years by Age",
+    "predicateType": "int",
+    "group": "B09001",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B09"
+  },
+  "B11004_007E": {
+    "label": "Estimate!!Total:!!Married-couple family:!!No related children of the householder under 18 years",
+    "concept": "Family Type by Presence and Age of Related Children Under 18 Years",
+    "predicateType": "int",
+    "group": "B11004",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B11"
+  },
+  "B11005_010E": {
+    "label": "Estimate!!Total:!!Households with one or more people under 18 years:!!Nonfamily households:!!Female householder",
+    "concept": "Households by Presence of People Under 18 Years by Household Type",
+    "predicateType": "int",
+    "group": "B11005",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B11"
+  },
+  "B11002_009E": {
+    "label": "Estimate!!Total:!!In family households:!!In female householder, no spouse present, family:",
+    "concept": "Household Type by Relatives and Nonrelatives for Population in Households",
+    "predicateType": "int",
+    "group": "B11002",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B11"
+  },
+  "B11007_009E": {
+    "label": "Estimate!!Total:!!Households with no people 65 years and over:!!2-or-more-person household:",
+    "concept": "Households by Presence of People 65 Years and Over, Household Size and Household Type",
+    "predicateType": "int",
+    "group": "B11007",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B11"
+  },
+  "B11016_016E": {
+    "label": "Estimate!!Total:!!Nonfamily households:!!7-or-more person household",
+    "concept": "Household Type by Household Size",
+    "predicateType": "int",
+    "group": "B11016",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B11"
+  },
+  "B11011_006E": {
+    "label": "Estimate!!Total:!!Family households:!!Married-couple family:!!Mobile homes and all other types of units",
+    "concept": "Household Type by Units in Structure",
+    "predicateType": "int",
+    "group": "B11011",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B11"
+  },
+  "B02018_022E": {
+    "label": "Estimate!!Total Groups Tallied:!!South Asian:!!Bangladeshi",
+    "concept": "Asian Alone or in Any Combination by Selected Groups",
+    "predicateType": "int",
+    "group": "B02018",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B02"
+  },
+  "B02018_019E": {
+    "label": "Estimate!!Total Groups Tallied:!!Southeast Asian:!!Vietnamese",
+    "concept": "Asian Alone or in Any Combination by Selected Groups",
+    "predicateType": "int",
+    "group": "B02018",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B02"
+  },
+  "B02021_022E": {
+    "label": "Estimate!!Total Groups Tallied:!!American Indian, not specified",
+    "concept": "American Indian and Alaska Native Alone or in Any Combination by Selected Tribes and Villages",
+    "predicateType": "int",
+    "group": "B02021",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B02"
+  },
+  "B02015_033E": {
+    "label": "Estimate!!Total:!!Other Asian, not specified",
+    "concept": "Asian Alone by Selected Groups",
+    "predicateType": "int",
+    "group": "B02015",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B02"
+  },
+  "B02018_011E": {
+    "label": "Estimate!!Total Groups Tallied:!!Southeast Asian:!!Cambodian",
+    "concept": "Asian Alone or in Any Combination by Selected Groups",
+    "predicateType": "int",
+    "group": "B02018",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B02"
+  },
+  "B02015_021E": {
+    "label": "Estimate!!Total:!!South Asian:!!Asian Indian",
+    "concept": "Asian Alone by Selected Groups",
+    "predicateType": "int",
+    "group": "B02015",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B02"
+  },
+  "B03001_011E": {
+    "label": "Estimate!!Total:!!Hispanic or Latino:!!Central American:!!Honduran",
+    "concept": "Hispanic or Latino Origin by Specific Origin",
+    "predicateType": "int",
+    "group": "B03001",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B03"
+  },
+  "B03002_019E": {
+    "label": "Estimate!!Total:!!Hispanic or Latino:!!Two or more races:",
+    "concept": "Hispanic or Latino Origin by Race",
+    "predicateType": "int",
+    "group": "B03002",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B03"
+  },
+  "B03001_022E": {
+    "label": "Estimate!!Total:!!Hispanic or Latino:!!South American:!!Paraguayan",
+    "concept": "Hispanic or Latino Origin by Specific Origin",
+    "predicateType": "int",
+    "group": "B03001",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B03"
+  },
+  "B03002_015E": {
+    "label": "Estimate!!Total:!!Hispanic or Latino:!!American Indian and Alaska Native alone",
+    "concept": "Hispanic or Latino Origin by Race",
+    "predicateType": "int",
+    "group": "B03002",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B03"
+  },
+  "B03002_004E": {
+    "label": "Estimate!!Total:!!Not Hispanic or Latino:!!Black or African American alone",
+    "concept": "Hispanic or Latino Origin by Race",
+    "predicateType": "int",
+    "group": "B03002",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B03"
+  },
+  "B03002_011E": {
+    "label": "Estimate!!Total:!!Not Hispanic or Latino:!!Two or more races:!!Two races excluding Some other race, and three or more races",
+    "concept": "Hispanic or Latino Origin by Race",
+    "predicateType": "int",
+    "group": "B03002",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B03"
+  },
+  "B26201_244E": {
+    "label": "Estimate!!Total:!!Group quarters population:!!Noninstitutionalized group quarters population:!!Military quarters/military ships:!!Male:!!65 to 74 years",
+    "concept": "Group Quarters Type (5 Types) by Sex by Age",
+    "predicateType": "int",
+    "group": "B26201",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B26"
+  },
+  "B26201_211E": {
+    "label": "Estimate!!Total:!!Group quarters population:!!Noninstitutionalized group quarters population:!!College/university student housing:!!55 to 64 years",
+    "concept": "Group Quarters Type (5 Types) by Sex by Age",
+    "predicateType": "int",
+    "group": "B26201",
+    "survey": "acs1",
+    "complexity": "simple_count",
+    "table_family": "B26"
+  }
+}

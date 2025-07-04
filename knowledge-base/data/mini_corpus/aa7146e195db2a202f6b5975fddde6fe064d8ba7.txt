@@ -1,0 +1,77 @@
+United States Census Bureau | An official website of the United States Government
+
+Changes to the Means of
+Transportation Question
+
+September 2020
+
+Beginning in 2019, the Census Bureau implemented changes to selected means of transportation
+
+categories based on the results of the 2016 American Community Survey (ACS) Content Test
+[/library/working-papers/2017/acs/2017_McKenzie_01.html] .  While the category labels have changed,
+
+the categories are considered comparable.  View the table below for the crosswalk.
+
+2019 and after
+
+Car/truck/van
+
+Bus
+
+2018 and prior
+
+Car/truck/van
+
+Bus or trolley bus
+
+Subway or elevated rail
+
+Subway or elevated
+
+Long-distance train or commuter rail
+
+Railroad
+
+Light rail, streetcar, or trolley (carro publico in Puerto Rico)
+
+Streetcar or trolley car (carro publico in Puerto Rico)
+
+Ferry boat
+
+Taxicab
+
+Motorcycle
+
+Bicycle
+
+Walked
+
+Worked from home
+
+Other
+
+Related Information
+
+Ferry boat
+
+Taxicab
+
+Motorcycle
+
+Bicycle
+
+Walked
+
+Worked at home
+
+Other
+
+Subjects Included in the Survey [/programs-surveys/acs/guidance/subjects.html]
+
+Share Your ACS Data Story [/programs-surveys/acs/share-your-acs-data-story.html]
+
+Contact Us [/programs-surveys/acs/contact.html]
+
+Page Last Revised - December 20, 2021
+
+

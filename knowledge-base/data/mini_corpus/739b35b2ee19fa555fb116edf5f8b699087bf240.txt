@@ -1,0 +1,1746 @@
+September 2008 
+American Community Survey Office 
+
+Questions and Answers About Sources of Poverty Data 
+
+1. What data sources do you recommend being used at a state and county level for 
+measuring poverty over time - specifically from 2000 forward? Why would you want to use 
+C2SS over the Census 2000?  Would the CPS be appropriate? 
+
+Following the Office of Management and Budget’s Statistical Policy Directive 14, the Census 
+Bureau calculates official poverty estimates for the nation from the CPS.  Because of the 
+advantages of the ACS with regard to sample size and design, the Census Bureau recommends 
+using the ACS poverty estimates for states and counties.  
+
+State Level 
+If you are interested in comparing current STATE estimates of poverty with poverty estimates 
+for 2000, the Census Bureau recommends using the Census 2000 Supplementary Survey (C2SS) 
+estimates and the most recent ACS estimates.  For additional comparisons of poverty over time 
+at the state level you should use the ACS series of estimates, including both the 2000-2004 
+supplementary surveys and the 2005-2007 full implementation surveys. Because they are the 
+same survey, factors that may affect comparisons of estimates are minimized.  Therefore, it’s 
+preferable to use C2SS estimates over Census 2000 estimates for states.   
+
+It should be noted that in 2006 the ACS sample was expanded to include the group quarters (GQ) 
+population and poverty rates increased as a result.  The effect of this universe change varied by 
+state, depending on the composition of the population.  For a preliminary assessment of the 
+effect, the Census Bureau compared state poverty rates for the 2006 ACS with and without the 
+GQ population.  Adjustment factors were calculated by taking the percentage point difference 
+between the 2006 poverty rate for the total population and the 2006 poverty rate for the 
+household only population.  Subtracting the adjustment factors from the ACS estimates for years 
+2006 and beyond adjusts these estimates to eliminate the GQ population.  These factors can be 
+found in the attachment. 
+
+To assess the degree to which these differences would have affected state-level poverty 
+comparisons between 2000 and 2007, the Census Bureau adjusted the C2SS poverty estimates to 
+account for the missing GQ population. Comparisons were made of these adjusted estimates with 
+the 2007 ACS estimates.  Based on this assessment, five states that had shown statistically higher 
+poverty in 2007 (total population universe) compared with 2000 (household only population 
+universe) were no longer significantly different when adjustment factors were applied.  
+
+For years prior to 2000, the CPS would be the only option and for state-level comparisons we 
+recommend using multiyear averages. 
+
+Questions and Answers About Sources of Poverty Data 
+
+Page 1 of 10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+September 2008 
+American Community Survey Office 
+
+County Level      
+
+If you are interested in comparing current COUNTY-LEVEL estimates of poverty with poverty 
+estimates for 2000, the Census Bureau recommends using Census 2000 and the most recent 
+ACS.  County-level estimates for 2001 – 2004 are not available for comparisons with current 
+ACS estimates.  Beginning with the 2005 ACS, county-level comparisons are possible for 
+measuring poverty over time.  
+
+While we generally do not recommend making comparisons across surveys when possible, in 
+this case the lower variance of the Census 2000 estimates represent a clear advantage over the 
+C2SS. A 2004 C2SS/Census 2000 evaluation study (see 
+http://www.census.gov/acs/www/Downloads/Report05.pdf ) found that, while Census 2000 and 
+C2SS had many methodological and operational differences, a comparison of poverty estimates 
+found that  "...data users would likely come to similar conclusions and therefore would be likely 
+to implement support programs and allocate funds in a similar fashion, regardless of whether 
+they used the Census 2000 Sample or the C2SS data." Obviously, any comparison across surveys 
+should only be undertaken after taking the time to understand the differences between these 
+surveys and their potential impact on the data.  
+
+For more guidance, please refer to: http://www.census.gov/acs/www/UseData/compACS.htm 
+
+2.  Can you give an example of how to compare that data.  For example would you use the 
+absolute terms or would you use the percentages? 
+
+The Census Bureau recommends the use of percents when making comparisons because the ACS 
+is designed to produce estimates of distributions or "percent" estimates.  Estimates of counts, for 
+example the total number of people in poverty, may also be used.  However, the Population 
+Estimates Program produces and disseminates the official estimates of the population for the 
+nation, states, counties, cities, and towns and estimates of housing units for states and counties.  
+Users should be careful with the interpretation of percent change as these reflect the growth or 
+decline in estimates of counts.  Comparisons of ACS estimates are based on statistical tests of 
+significance.  For an example, see response to question #4. 
+
+Questions and Answers About Sources of Poverty Data 
+
+Page 2 of 10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+September 2008 
+American Community Survey Office 
+
+3.  If you are standing by the use of the C2SS in comparisons of children in poverty from 
+
+2000 - 2006, how do I explain to policy makers that a survey from 6 counties is 
+comparable to a survey from the entire state in 2006 - which includes more areas that 
+are in poverty. 
+
+The C2SS county sample (see technical note below) was a probability sample and as such was a 
+representative sample for Colorado.  That is, the C2SS was designed to produce national and 
+state level estimates.  However, estimates from the C2SS sample are subject to larger margins of 
+error than estimates from the current ACS sample. To compare C2SS estimates to estimates from 
+the 2005 ACS and beyond users need to consider the margins of error. 
+
+C2SS Sample Design Technical Note - As part of the C2SS sample selection system some 
+counties were selected in sample with certainty.  These were primarily large counties such as Los 
+Angeles, San Francisco, and Cooke County.  Direct estimation was possible for these counties. 
+Other smaller counties were grouped in sets of 2 or 3 (technically known as PSU's - primary 
+sampling units) prior to sample selection and a probability sample of these areas (or PSU's) was 
+selected.  As a result, county level estimates were available for a small subset of counties only. 
+This kind of design supports estimation for states and the nation.  Direct estimates for large 
+counties selected in sample with certainty were also possible.  A major drawback of the C2SS 
+sample selection system was that the survey estimates were subject to larger variances.  This is 
+an important consideration that users need to take into account as explained before. 
+
+4.  How do you best compare estimates with margins of error over time.  An example 
+
+would be great. 
+
+Comparison of estimates should be based on a statistical test of significance.  This approach will 
+allow users to assess whether the observed difference is likely due to chance (and thus is not 
+statistically significant) or if it represents a true difference (and thus is statistically significant). 
+
+Algebraically, the significance test can be expressed as follows: 
+
+ˆ
+X
+
+1
+
+−
+
+ˆ
+X
+
+2
+
+2
+SE
+1
+
++
+
+SE
+
+2
+2
+
+>
+
+CLZ
+
+If 
+
+, then the difference between estimates 
+
+ˆX
+
+1
+
+ and 
+
+ˆX
+
+2
+
+ is statistically 
+
+significant at the specified confidence level, CL 
+
+iXˆ
+
+where 
+
+ is an annual estimate.  
+
+iSE  is the corresponding standard error (SE) for the estimate. 
+CLZ  is the critical value for the desired confidence level (1.645 for 90 percent, 1.960 for 95 
+
+percent, and 2.576 for 99 percent). 
+
+Most ACS data products show the estimates and their associated margins of error (MOE).  So 
+when using ACS data, the SE is calculated by taking the positive value of the MOE and dividing 
+by 1.645 (for years prior to 2006, use 1.65). 
+
+Questions and Answers About Sources of Poverty Data 
+
+Page 3 of 10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+September 2008 
+American Community Survey Office 
+
+Example: 
+
+A data user wants to determine if the difference in the observed estimated percent of children 
+under 18 years living in poverty in 2006 (22.0 percent, MOE=+/-0.20) and in 2007 (21.5 percent, 
+MOE=+/-0.20) is statistically different at the 99 percent confidence level. 
+
+First, determine the SE for each estimate: 
+
+SE1= 0.20   =0.12 
+1.645 
+
+and   SE2= 0.20   =0.12 
+
+1.645 
+
+Then, calculate the test value using the formula above: 
+
+ˆ
+X
+
+1
+
+−
+
+ˆ
+X
+
+2
+
+2
+SE
+1
+
++
+
+SE
+
+2
+2
+
+=
+
+0.22
+)
+
+(
+12.0
+
+2
+
+−
+
+5.21
+(
+12.0
+
+=
+
+2
+
+)
+
+5.0
+
+.0
+
+015
+
++
+
+.0
+
+015
+
+=
+
+5.0
+
+03.0
+
+=
+
+5.0
+173
+.0
+
+=
+
+90.2
+
++
+
+Since the test value (2.90) is greater than the critical value for a confidence level of 99 percent 
+(2.576), the difference in the percentages is statistically significant at a 99-percent confidence 
+level. A rough interpretation of the result is the user can be 99 percent certain that a change in the 
+percent of children under 18 years living in poverty took place in 2007.  
+
+By contrast, if the corresponding estimates for 2006 and 2007 were 22.1 and 22.5, respectively, 
+with margins of error of +/-0.33 (SE=0.20) and +/-0.41(SE=0.25), respectively, the formula 
+would yield 
+
+ˆ
+X
+
+1
+
+−
+
+ˆ
+X
+
+2
+
+2
+SE
+1
+
++
+
+SE
+
+2
+2
+
+=
+
+5.22
+)
+
+(
+20.0
+
+2
+
+−
+
+1.22
+(
+25.0
+
+=
+
+2
+
+)
+
+4.0
+
+04.0
+
++
+
+.0
+
+0625
+
+=
+
+4.0
+
+.0
+
+1025
+
+=
+
+4.0
+320
+.0
+
+=
+
+25.1
+
++
+
+Since the test value (1.25) is less than the critical value for a confidence level of 99 percent 
+(2.576), we can't conclude there was a change. 
+
+Questions and Answers About Sources of Poverty Data 
+
+Page 4 of 10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+September 2008 
+American Community Survey Office 
+
+5. The margins of error are quite large when using the C2SS data to compare to the ACS 
+2006 at a state level.  At what point do you say that the margin of error is too large and it is 
+therefore better to use the Census 2000?  How do you balance margin of error with 
+potential survey difference error?  If you recommend using the Census 2000 for county 
+data comparisons to the ACS 2006 why wouldn't the survey difference error be even 
+smaller at a state level with a large sample? 
+
+Recommendations are based on judgment. There’s no magic number. The two main factors that 
+go into a recommendation on what survey to use to look at a time series are consistency in the 
+methods used to produce the estimates and sampling error. To isolate real change (versus a 
+change in measurement) it is always wise to compare estimates based on consistent methods.  
+The CPS methods have been very consistent over time, but standard errors are large. C2SS/ACS 
+comparisons are generally consistent and we think the standard errors, at the state level, are 
+acceptable even in smaller states. Census 2000/ACS comparisons have, as you point out, lower 
+levels of sampling error, but any cross-survey comparison brings risk with it, and at the state 
+level, our judgment was that the cross-survey risk outweighed the benefits of lower standard 
+errors. 
+
+That is not to say that other analysts could examine the same numbers we have examined and 
+come up with a different recommendation, or that it is wrong for a user to use CPS or Census 
+2000/ACS data to examine state trends. We are merely saying that if a reporter calls the Census 
+Bureau and asks whether poverty has changed in Colorado since 2000, our first response will be 
+to use the C2SS and ACS data to answer that basic question.  
+
+6. Do you recommend using the C2SS data for race/ethnicity poverty comparisons at the 
+state level? 
+
+We haven’t done much analysis of this, but in the absence of a detailed analysis, we’d 
+recommend using Census 2000/ACS to look at state poverty trends by race/ethnicity.  This 
+would be largely driven by reliability concerns.  This is particularly the case for the smaller race 
+groups, such as Native Hawaiians and American Indians and Alaskan Natives.     
+
+7. Will you be recommending that users use the C2SS to compare to the ACS through 
+2010? 
+
+Yes, unless further research points to systematic problems associated with C2SS/ACS poverty 
+comparisons that would lead us to change our recommendation.  
+
+Questions and Answers About Sources of Poverty Data 
+
+Page 5 of 10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+September 2008 
+American Community Survey Office 
+
+8. Why hasn't Census produced information on the website that discusses how to compare 
+ACS over time to the C2SS?  The majority of your information discusses how to compare 
+2007 to 2006 to 2005 to Census 2000. 
+
+There are many conceptual issues associated with making Census 2000/ACS comparisons. 
+Knowing that users are going to make comparisons between Census 2000 and the ACS, the 
+Census Bureau was obligated to provide users with as much detailed assistance as we could in 
+order to help users interpret trends.  
+
+There are fewer conceptual issues to worry about when making C2SS/ACS comparisons, though 
+we have noted that, in the case of poverty, the inclusion of group quarters in the ACS universe 
+makes comparisons more complicated. There is a working paper that will soon be posted on the 
+Census Bureau website that will provide more information to users on the impact of the inclusion 
+of group quarters into the poverty estimates.  
+
+9. How important is it to use the margins of error when comparing estimates?   
+
+Very important, which is why the Census Bureau always publishes margins of error when 
+disseminating ACS tables, and every statement in a Census Bureau report, press release, or 
+research paper is tested for statistical significance. However, other factors come into play as 
+well, and survey consistency is one of those issues. 
+
+10. Do you recommend using SAIPE data for county comparisons overtime - taking into 
+account the break in the time series?  In Colorado most of the counties are not part of the 
+annual ACS data.  A few more will be part of the three-year average.  Do you think SAIPE 
+will be better or worse than a three-year or 5-year moving average? 
+
+As you probably know, SAIPE data are the only source of county poverty data for every county 
+in the U.S. that are more up-to-date than Census 2000 data. So for a user who requires up-to-date 
+data for every county, regardless of population size, SAIPE data are a valuable source of 
+information. The data can be used to look at trends, though, as you point out, there is a break in 
+the time series.  
+
+At this point we really don’t have a basis to compare SAIPE estimates to 3-year or 5-year 
+moving averages, though as you know the 3-year ACS estimates will be released this December. 
+We realize that this will be an important user issue down the road, and the Census Bureau will 
+spend considerable resources researching this issue in order to provide guidance to users. 
+
+Questions and Answers About Sources of Poverty Data 
+
+Page 6 of 10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+September 2008 
+American Community Survey Office 
+
+Attachment 
+
+Percentage of People in Poverty in the Past 12 Months by State: 2000 and 2007 
+
+State 
+
+2000 ACS 
+
+2007 ACS 
+
+Change in percentage points 
+(2007 ACS less 2000) 
+
+90-percent
+confidence
+
+90-percent
+confidence
+
+Percentage 
+
+interval/1 (+/-) Percentage
+
+interval/1 (+/-) Percentage 
+
+90-percent
+confidence
+interval/1 (+/-)
+
+     United States…… 
+
+           12.2                     0.2              13.0 
+
+                  0.1  
+
+Alabama.............. 
+
+           15.6                     1.0              16.9 
+
+                  0.5  
+
+Alaska............... 
+
+             9.1                     0.8                8.9 
+
+                  0.8  
+
+Arizona.............. 
+
+           15.6                     1.0              14.2 
+
+                  0.5  
+
+Arkansas............. 
+
+           17.0                     1.2              17.9 
+
+                  0.6  
+
+California........... 
+
+           13.7                     0.5              12.4 
+
+                  0.2  
+
+Colorado............. 
+
+             8.7                     0.8              12.0 
+
+                  0.4  
+
+Connecticut.......... 
+
+             7.7                     0.8                7.9 
+
+                  0.4  
+
+Delaware............. 
+
+             9.3                     1.0              10.5 
+
+                  0.9  
+
+District of Columbia. 
+
+           17.5                     1.5              16.4 
+
+                  1.4  
+
+Florida.............. 
+
+           12.8                     0.5              12.1 
+
+                  0.2  
+
+Georgia.............. 
+
+           12.6                     0.8              14.3 
+
+                  0.3  
+
+Hawaii............... 
+
+             8.8                     0.8                8.0 
+
+                  0.5  
+
+Idaho................ 
+
+           11.4                     1.3              12.1 
+
+                  0.6  
+
+Illinois............. 
+
+           11.1                     0.7              11.9 
+
+                  0.3  
+
+Indiana.............. 
+
+           10.1                     1.0              12.3 
+
+                  0.3  
+
+Iowa................. 
+
+           10.0                     0.7              11.0 
+
+                  0.5  
+
+Kansas............... 
+
+             9.5                     0.8              11.2 
+
+                  0.5  
+
+Kentucky............. 
+
+           16.4                     1.2              17.3 
+
+                  0.5  
+
+Louisiana............ 
+
+           20.0                     1.0              18.6 
+
+                  0.5  
+
+Maine................ 
+
+           10.1                     1.2              12.0 
+
+                  0.6  
+
+Maryland............. 
+
+             9.3                     0.8                8.3 
+
+                  0.4  
+
+Massachusetts........ 
+
+             9.6                     0.7                9.9 
+
+                  0.3  
+
+Michigan............. 
+
+           10.1                     0.5              14.0 
+
+                  0.3  
+
+Minnesota............ 
+
+             6.9                     0.7                9.5 
+
+                  0.3  
+
+Mississippi.......... 
+
+           18.2                     1.0              20.6 
+
+                  0.7  
+
+Missouri............. 
+
+           11.2                     0.7              13.0 
+
+                  0.4  
+
+Montana.............. 
+
+           13.4                     1.3              14.1 
+
+                  0.8  
+
+Nebraska............. 
+
+             9.6                     0.7              11.2 
+
+                  0.5  
+
+Nevada............... 
+
+             9.9                     1.2              10.7 
+
+                  0.7  
+
+New Hampshire........ 
+
+             5.3                     0.8                7.1 
+
+                  0.6  
+
+New Jersey........... 
+
+             7.9                     0.5                8.6 
+
+                  0.3  
+
+New Mexico........... 
+
+           18.0                     1.7              18.1 
+
+                  0.8  
+
+New York............. 
+Questions and Answers About Sources of Poverty Data 
+
+           13.1                     0.5              13.7 
+
+                  0.2  
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+0.8 
+
+1.3 
+
+-0.2 
+
+-1.4 
+
+0.9 
+
+-1.3 
+
+3.3 
+
+0.2 
+
+1.2 
+
+-1.1 
+
+-0.7 
+
+1.7 
+
+-0.8 
+
+0.7 
+
+0.8 
+
+2.2 
+
+1.0 
+
+1.7 
+
+0.9 
+
+-1.4 
+
+1.9 
+
+-1.0 
+
+0.3 
+
+3.9 
+
+2.6 
+
+2.4 
+
+1.8 
+
+0.7 
+
+1.6 
+
+0.8 
+
+1.8 
+
+0.7 
+
+0.1 
+
+0.6 
+
+0.2
+
+1.1
+
+1.1
+
+1.1
+
+1.3
+
+0.5
+
+0.9
+
+0.9
+
+1.3
+
+2.1
+
+0.5
+
+0.9
+
+0.9
+
+1.4
+
+0.8
+
+1.0
+
+0.9
+
+0.9
+
+1.3
+
+1.1
+
+1.3
+
+0.9
+
+0.8
+
+0.6
+
+0.8
+
+1.2
+
+0.8
+
+1.5
+
+0.9
+
+1.4
+
+1.0
+
+0.6
+
+1.9
+
+0.5
+
+Page 7 of 10 
+
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  
+ 
+    
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+ 
+    
+ 
+ 
+ 
+  
+  
+  
+  
+  
+ 
+    
+ 
+ 
+ 
+  
+  
+  
+  
+  
+ 
+    
+ 
+State 
+
+2000 ACS 
+
+2007 ACS 
+
+September 2008 
+American Community Survey Office 
+
+Change in percentage points 
+(2007 ACS less 2000) 
+
+90-percent
+confidence
+
+90-percent
+confidence
+
+Percentage 
+
+interval/1 (+/-) Percentage
+
+interval/1 (+/-) Percentage 
+
+90-percent
+confidence
+interval/1 (+/-)
+
+North Carolina....... 
+
+           13.1                     0.7              14.3 
+
+                  0.3  
+
+North Dakota......... 
+
+           11.6                     1.7              12.1 
+
+                  0.9  
+
+Ohio................. 
+
+           11.1                     0.8              13.1 
+
+                  0.3  
+
+Oklahoma............. 
+
+           13.8                     0.8              15.9 
+
+                  0.5  
+
+Oregon............... 
+
+           13.2                     1.5              12.9 
+
+                  0.5  
+
+Pennsylvania......... 
+
+           10.5                     0.7              11.6 
+
+                  0.3  
+
+Rhode Island......... 
+
+           10.7                     1.2              12.0 
+
+                  0.9  
+
+South Carolina....... 
+
+           14.4                     0.8              15.0 
+
+                  0.5  
+
+South Dakota......... 
+
+           11.5                     0.8              13.1 
+
+                  0.8  
+
+Tennessee............ 
+
+           13.5                     0.8              15.9 
+
+                  0.5  
+
+Texas................ 
+
+           15.1                     0.5              16.3 
+
+                  0.2  
+
+Utah................. 
+
+             8.8                     1.2                9.7 
+
+                  0.5  
+
+Vermont.............. 
+
+           10.7                     1.2              10.1 
+
+                  0.9  
+
+Virginia............. 
+
+             9.2                     0.8                9.9 
+
+                  0.3  
+
+Washington........... 
+
+           11.6                     1.2              11.4 
+
+                  0.3  
+
+West Virginia........ 
+
+           18.6                     1.3              16.9 
+
+                  0.6  
+
+Wisconsin............ 
+
+             8.9                     1.2              10.8 
+
+                  0.3  
+
+Wyoming.............. 
+
+           11.4                     1.7                8.7 
+
+                  1.2  
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+1.2 
+
+0.5 
+
+2.0 
+
+2.1 
+
+-0.3 
+
+1.1 
+
+1.3 
+
+0.6 
+
+1.6 
+
+2.4 
+
+1.2 
+
+0.9 
+
+-0.6 
+
+0.7 
+
+-0.2 
+
+-1.7 
+
+1.9 
+
+-2.7 
+
+*Significantly different from zero at the 90-percent confidence level. 
+
+0.8
+
+1.9
+
+0.9
+
+0.9
+
+1.6
+
+0.8
+
+1.5
+
+0.9
+
+1.1
+
+0.9
+
+0.5
+
+1.3
+
+1.5
+
+0.9
+
+1.2
+
+1.4
+
+1.2
+
+2.1
+
+1/A 90-percent confidence interval is a measure of an estimate's variability.  The larger the confidence interval in 
+relation to the size of the estimate, the less reliable the estimate.  Fore more information see "Standard errors and their 
+use" at http://www.census.gov/hhes/www/p60_235sa.pdf. 
+
+Source: U.S. Census Bureau, 2000 and 2007 American Community Surveys 
+
+Questions and Answers About Sources of Poverty Data 
+
+Page 8 of 10 
+
+ 
+ 
+  
+ 
+ 
+ 
+  
+  
+  
+  
+  
+ 
+    
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Poverty Rates by State and Universe: 2006 
+
+September 2008 
+American Community Survey Office 
+
+Total Population 
+Poverty Universe 
+
+Household Population 
+Poverty Universe 
+
+Difference (Poverty 
+rate for TP minus 
+HU) 
+
+States 
+
+United States 
+
+Alabama 
+
+Alaska 
+
+Arizona 
+
+Arkansas 
+
+California 
+
+Colorado 
+
+Connecticut 
+
+Delaware 
+
+District of Columbia 
+
+Florida 
+
+Georgia 
+
+Hawaii 
+
+Idaho 
+
+Illinois 
+
+Indiana 
+
+Iowa 
+
+Kansas 
+
+Kentucky 
+
+Louisiana 
+
+Maine 
+
+Maryland 
+
+Massachusetts 
+
+Michigan 
+
+Minnesota 
+
+Mississippi 
+
+Missouri 
+
+Montana 
+
+Nebraska 
+
+Nevada 
+
+New Hampshire 
+
+New Jersey 
+
+New Mexico 
+
+New York 
+
+North Carolina 
+
+North Dakota 
+
+Ohio 
+
+Oklahoma 
+
+Oregon 
+
+Pennsylvania 
+
+Rhode Island 
+
+South Carolina 
+
+South Dakota 
+
+Tennessee 
+Questions and Answers About Sources of Poverty Data 
+
+16.2
+
+13.3
+
+16.6
+
+10.9
+
+14.2
+
+17.3
+
+13.1
+
+12.0
+
+8.3
+
+11.1
+
+19.6
+
+12.6
+
+14.7
+
+9.3
+
+12.6
+
+12.3
+
+12.7
+
+11.0
+
+12.4
+
+17.0
+
+19.0
+
+12.9
+
+7.8
+
+9.9
+
+13.5
+
+9.8
+
+21.1
+
+13.6
+
+13.6
+
+11.5
+
+10.3
+
+8.0
+
+8.7
+
+18.5
+
+14.2
+
+14.7
+
+11.4
+
+13.3
+
+17.0
+
+13.3
+
+12.1
+
+11.1
+
+15.7
+
+13.6
+
+13.1
+
+16.4
+
+10.8
+
+13.9
+
+17.1
+
+12.9
+
+11.7
+
+8.1
+
+10.9
+
+19.0
+
+12.4
+
+14.5
+
+9.1
+
+12.3
+
+12.1
+
+12.5
+
+10.7
+
+12.2
+
+16.8
+
+18.9
+
+12.6
+
+7.6
+
+9.7
+
+13.2
+
+9.5
+
+20.9
+
+13.4
+
+13.3
+
+11.3
+
+10.2
+
+7.9
+
+8.4
+
+18.3
+
+13.8
+
+14.4
+
+11.4
+
+13.2
+
+16.8
+
+13.0
+
+11.8
+
+10.9
+
+15.5
+
+13.3
+
+16.0
+
+0.2 
+
+0.2 
+
+0.1 
+
+0.2 
+
+0.2 
+
+0.2 
+
+0.2 
+
+0.2 
+
+0.2 
+
+0.6 
+
+0.2 
+
+0.2 
+
+0.2 
+
+0.2 
+
+0.2 
+
+0.2 
+
+0.2 
+
+0.2 
+
+0.2 
+
+0.2 
+
+0.3 
+
+0.2 
+
+0.3 
+
+0.3 
+
+0.3 
+
+0.2 
+
+0.2 
+
+0.3 
+
+0.2 
+
+0.1 
+
+0.2 
+
+0.3 
+
+0.2 
+
+0.4 
+
+0.2 
+
+0.1 
+
+0.2 
+
+0.2 
+
+0.3 
+
+0.3 
+
+0.2 
+
+0.2 
+
+0.3 
+
+0.2 
+
+Page 9 of 10 
+
+ 
+ 
+September 2008 
+American Community Survey Office 
+
+States 
+
+Total Population 
+Poverty Universe 
+
+Household Population 
+Poverty Universe 
+
+Difference (Poverty 
+rate for TP minus 
+HU) 
+
+Texas 
+
+Utah 
+
+Vermont 
+
+Virginia 
+
+Washington 
+
+West Virginia 
+
+Wisconsin 
+
+Wyoming 
+
+16.9
+
+10.6
+
+10.3
+
+9.6
+
+11.8
+
+17.3
+
+11.0
+
+9.4
+
+16.8
+
+10.4
+
+10.1
+
+9.4
+
+11.5
+
+17.2
+
+10.7
+
+9.2
+
+0.1 
+
+0.2 
+
+0.2 
+
+0.1 
+
+0.3 
+
+0.1 
+
+0.3 
+
+0.1 
+
+Source: U.S. Census Bureau, 2006 American Community Survey 
+
+Questions and Answers About Sources of Poverty Data 
+
+Page 10 of 10 
+
+ 
+ 
+  
+ 
+ 
+ 
+

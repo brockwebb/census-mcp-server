@@ -1,0 +1,5372 @@
+Parental Leave and Employment Patterns for 
+First-Time Parents in the United States: 2022
+
+Current Population Reports
+
+By Nestor I. Hernandez
+
+P70-204
+
+April 2025
+
+INTRODUCTION1
+
+Parental leave in the United States is shaped by a 
+combination of federal protections like the unpaid 
+leave provided by the Family and Medical Leave 
+Act (FMLA) and employer-specific policies that 
+may offer paid or unpaid parental leave benefits.2 
+Previous research has documented disparities in 
+access to paid and unpaid parental leave across 
+different occupations, racial and ethnic groups, and 
+educational levels, suggesting that leave access 
+may be limited across several demographic groups.3, 
+4 Despite these trends, few studies have examined 
+parental leave on a national scale, particularly 
+in relation to the types of leave taken and work 
+behaviors of parents surrounding their first-born 
+child.
+
+This report examines various parental leave and 
+employment patterns for the nation using the  
+U.S. Census Bureau’s 2022 Survey of Income and 
+
+1 The U.S. Census Bureau has reviewed this data product to 
+
+ensure appropriate access, use, and disclosure avoidance protection 
+of the confidential source data used to produce this product (Data 
+Management System [DMS] number: P-7533841 and Disclosure Review 
+Board [DRB] approval number: CBDRB-FY23-0205). All comparative 
+statements have undergone statistical testing, and are statistically 
+significant at the 90 percent significance level, unless otherwise noted.
+2 R. J. Petts, C. Knoester, and Q. Li, “Paid Paternity Leave-Taking 
+
+in the United States,” Community, Work & Family, 23(2), pp. 162–183, 
+2020, <https://doi.org/10.1080/13668803.2018.1471589>.
+
+3 D. Hawkins, “Disparities in the Usage of Maternity Leave 
+
+According to Occupation, Race/Ethnicity, and Education,” American 
+Journal of Industrial Medicine, 63(12), pp. 1134–1144, 2020, <https://
+pubmed.ncbi.nlm.nih.gov/33020984/>.
+
+4 A. P. Bartel, S. Kim, J. Nam, M. Rossin-Slater, C. J. Ruhm, and  
+J. Waldfogel, “Racial and Ethnic Disparities in Access to and Use 
+of Paid Family and Medical Leave: Evidence From Four Nationally-
+Representative Datasets,” Monthly Labor Review, U.S. Bureau of Labor 
+Statistics, January 2019, <https://doi.org/10.21916/mlr.2019.2>.
+
+ABOUT THE SIPP
+
+The Survey of Income and Program Participation 
+(SIPP) is a nationally representative, longitudinal 
+survey administered by the U.S. Census Bureau 
+that provides comprehensive information on the 
+dynamics of income, employment, household 
+composition, and government program partici-
+pation. The SIPP is also a leading source of data 
+on economic well-being, family dynamics, edu-
+cation, wealth, health insurance, child care, and 
+food security. The SIPP interviews individuals for 
+several years and provides monthly data about 
+changes in household and family composition 
+and economic circumstances over time. Visit the 
+SIPP website at <www.census.gov/sipp> for more 
+information.
+
+Program Participation (SIPP).5 A 2011 report examining 
+parental leave measures using SIPP data highlighted 
+employment patterns and leave usage among first-
+time mothers.6 Compared to the 2011 report, which 
+focused solely on first-time mothers, this report 
+provides insights on how work behaviors and leave 
+arrangements differ by sex, with estimates for both 
+first-time mothers and first-time fathers. 
+
+5 The estimates in this report are weighted and come from the 
+2022 SIPP public-use file available at <www.census.gov/programs-
+surveys/sipp/data/datasets/2022-data/2022.html>. For technical 
+documentation and more information about SIPP data quality, visit the 
+SIPP website’s Technical Documentation page at <www.census.gov/
+programs-surveys/sipp/tech-documentation.html>.
+
+6 L. Laughlin, “Maternity Leave and Employment Patterns: 
+2006 to 2008,” Current Population Reports, P70-128, U.S. Census 
+Bureau, Washington, DC, 2011, <https://www2.census.gov/library/
+publications/2011/demo/p70-128.pdf>.
+
+Figure 1.
+Percentage of Parents Who Worked During the Pregnancy Preceding Their First Birth 
+by Year of Child's Birth: 2022
+(Parents under the age of 65 in 2022 with at least one biological child)
+
+Fathers
+
+77
+
+76
+
+78
+
+77
+
+76
+
+76
+
+76
+
+61
+
+60
+
+59
+
+61
+
+60
+
+53
+
+38
+
+81
+
+62
+
+80
+
+69
+
+90
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+Mothers
+
+81
+
+78
+
+Prior to
+1981
+
+1981–
+1985
+
+1986–
+1990
+
+1991–
+1995
+
+1996–
+2000
+
+2001–
+2005
+
+2006–
+2010
+
+2011–
+2015
+
+2016–
+2020
+
+2021–
+2022
+
+Source: U.S. Census Bureau, 2022 Survey of Income and Program Participation, public-use ﬁle.
+
+This report provides an overview 
+of parental leave and employment 
+in the United States for parents 
+who worked before and after 
+the birth of their first biological 
+child, by several demographic 
+characteristics.
+
+CHARACTERISTICS OF 
+PARENTS WHO WORKED 
+BEFORE THE BIRTH OF THEIR 
+FIRST CHILD 
+
+Figure 1 details the percentage 
+of parents who worked before 
+the birth of their first child by the 
+year their first child was born. 
+Prior to 1981, about 38 percent of 
+mothers and roughly 77 percent 
+of fathers worked before the birth 
+of their first child. From 1986 to 
+1990, 61.1 percent of mothers and 
+77.7 percent of fathers worked 
+during the pregnancy before 
+their first birth. The percentage of 
+mothers and fathers who worked 
+before their first child was born 
+remained relatively stable between 
+1991 and 2010. The percentage of 
+mothers who worked during the 
+pregnancy of their first child was 
+60.3 percent from 1991 to 1995, 
+
+2 
+
+59.3 percent from 1996 to 2000, 
+61.4 percent from 2001 to 2005, 
+and 59.7 percent from 2006 to 
+2010.7 Similarly, the percentage 
+of first-time fathers who worked 
+prior to the birth of their first child 
+was roughly 76 percent from 1991 
+to 1995, 1996 to 2000, 2001 to 
+2005, and 2006 to 2010.8 About 
+62 percent of first-time mothers 
+and roughly 81 percent of first-
+time fathers worked leading up to 
+their first birth from 2011 to 2015, 
+which increased for fathers from 
+the previous birth cohort (2006 
+to 2010).9 From 2016 to 2020, 
+about 69 percent of mothers and 
+roughly 80 percent of fathers 
+worked before their first child was 
+
+7 The estimates of first-time mothers who 
+
+worked during the pregnancy of their first 
+child from 1991 to 1995 (60.3 percent), 1996 
+to 2000 (59.3 percent), 2001 to 2005 (61.4 
+percent), and 2006 to 2010 (59.7 percent) 
+did not significantly differ.
+
+8 The estimates of first-time fathers who 
+
+worked during the pregnancy of their first 
+child from 1991 to 1995 (76.6 percent), 1996 
+to 2000 (75.8 percent), 2001 to 2005 (76.3 
+percent), and 2006 to 2010 (75.9 percent) 
+did not significantly differ.
+
+born. By 2021 to 2022, roughly 78 
+percent of mothers and about 81 
+percent of fathers worked during 
+the pregnancy leading to the birth 
+of their first child.10 The percentage 
+of mothers who worked when 
+pregnant with their first child has 
+increased in recent years, with a 
+period of stability between 1986 to 
+2015, reflecting the overall rise in 
+women’s labor force participation.11
+
+Figure 1 highlights the work 
+behaviors of parents by birth 
+cohort, while Table 1 examines 
+work behaviors of parents across 
+all years. Table 1 reports the 
+percentages of parents who 
+worked during the pregnancy 
+or after the birth of their first 
+child, categorized by various 
+demographic characteristics. 
+
+10 The estimates of mothers (77.6 percent) 
+
+and fathers (81.2 percent) who worked 
+during the pregnancy leading up to the birth 
+of the first child in 2021 to 2022 did not 
+significantly differ.
+
+9 The estimates of mothers who worked 
+
+11 Bureau of Labor Statistics, “Labor 
+
+prior to their first birth from 2006 to 2010 
+(59.7 percent) and 2011 to 2015 (62.4 
+percent) did not significantly differ.
+
+Force Statistics From the Current Population 
+Survey,” U.S. Department of Labor, 2024, 
+<www.bls.gov/cps/demographics/women-
+labor-force.htm>.
+
+U.S. Census Bureau
+
+0
+.
+7
+9
+
+4
+.
+3
+9
+
+9
+.
+7
+9
+
+1
+.
+6
+9
+
+4
+.
+7
+9
+
+7
+.
+6
+9
+
+4
+.
+7
+9
+
+1
+.
+7
+9
+
+4
+.
+7
+9
+
+1
+.
+8
+9
+
+4
+.
+5
+9
+
+8
+.
+5
+9
+
+0
+.
+6
+9
+
+3
+.
+7
+9
+
+5
+.
+7
+9
+
+5
+.
+5
+9
+
+6
+.
+6
+9
+
+4
+.
+7
+9
+
+1
+.
+5
+9
+
+5
+.
+5
+9
+
+1
+.
+6
+9
+
+5
+.
+7
+9
+
+9
+.
+7
+9
+
+d
+e
+k
+r
+o
+w
+
+h
+t
+r
+i
+b
+r
+e
+t
+f
+a
+
+1
+
+)
+t
+n
+e
+c
+r
+e
+p
+(
+
+o
+h
+w
+s
+r
+e
+h
+t
+a
+F
+
+o
+h
+w
+s
+r
+e
+h
+t
+a
+F
+
+d
+e
+k
+r
+o
+w
+o
+h
+w
+
+y
+c
+n
+a
+n
+g
+e
+r
+p
+
+o
+h
+w
+s
+r
+e
+h
+t
+o
+M
+
+o
+h
+w
+s
+r
+e
+h
+t
+o
+M
+
+d
+e
+k
+r
+o
+w
+o
+h
+w
+
+y
+c
+n
+a
+n
+g
+e
+r
+p
+
+s
+r
+e
+h
+t
+a
+F
+
+s
+r
+e
+h
+t
+a
+F
+
+g
+n
+i
+r
+u
+d
+
+s
+r
+e
+h
+t
+a
+F
+
+d
+e
+k
+r
+o
+w
+o
+h
+w
+
+s
+r
+e
+h
+t
+o
+M
+
+s
+r
+e
+h
+t
+o
+M
+
+g
+n
+i
+r
+u
+d
+
+s
+r
+e
+h
+t
+o
+M
+
+d
+e
+k
+r
+o
+w
+o
+h
+w
+
+h
+t
+r
+i
+b
+r
+e
+t
+f
+a
+
+1
+
+)
+t
+n
+e
+c
+r
+e
+p
+(
+
+r
+e
+t
+f
+a
+d
+e
+k
+r
+o
+w
+
+g
+n
+i
+r
+u
+d
+
+h
+t
+r
+i
+b
+t
+s
+r
+i
+f
+
+y
+c
+n
+a
+n
+g
+e
+r
+p
+
+h
+t
+r
+i
+b
+t
+s
+r
+i
+f
+
+i
+
+g
+n
+d
+e
+c
+e
+r
+p
+
+h
+t
+i
+
+w
+s
+r
+e
+h
+t
+a
+F
+
+d
+e
+k
+r
+o
+w
+
+r
+e
+t
+f
+a
+d
+e
+k
+r
+o
+w
+
+g
+n
+i
+r
+u
+d
+
+h
+t
+r
+i
+b
+t
+s
+r
+i
+f
+
+a
+
+h
+t
+r
+i
+b
+t
+s
+r
+i
+f
+
+y
+c
+n
+a
+n
+g
+e
+r
+p
+
+h
+t
+r
+i
+b
+t
+s
+r
+i
+f
+
+i
+
+g
+n
+d
+e
+c
+e
+r
+p
+
+1
+
+)
+s
+d
+n
+a
+s
+u
+o
+h
+t
+(
+
+)
+t
+n
+e
+c
+r
+e
+p
+(
+
+)
+s
+d
+n
+a
+s
+u
+o
+h
+t
+(
+
+)
+s
+d
+n
+a
+s
+u
+o
+h
+t
+(
+
+1
+
+)
+s
+d
+n
+a
+s
+u
+o
+h
+t
+(
+
+)
+t
+n
+e
+c
+r
+e
+p
+(
+
+)
+s
+d
+n
+a
+s
+u
+o
+h
+t
+(
+
+)
+s
+d
+n
+a
+s
+u
+o
+h
+t
+(
+
+a
+h
+t
+i
+
+w
+
+s
+r
+e
+h
+t
+o
+M
+
+h
+t
+r
+i
+b
+t
+s
+r
+i
+f
+
+c
+i
+t
+s
+i
+r
+e
+t
+c
+a
+r
+a
+h
+C
+
+2
+2
+0
+2
+
+:
+
+h
+t
+r
+i
+B
+t
+s
+r
+i
+F
+e
+h
+t
+
+r
+e
+t
+f
+A
+r
+o
+y
+c
+n
+a
+n
+g
+e
+r
+P
+g
+n
+i
+r
+u
+D
+d
+e
+k
+r
+o
+W
+o
+h
+W
+
+s
+t
+n
+e
+r
+a
+P
+f
+o
+e
+g
+a
+t
+n
+e
+c
+r
+e
+P
+
+.
+1
+
+l
+
+e
+b
+a
+T
+
+)
+d
+
+l
+i
+
+h
+c
+
+l
+
+i
+
+l
+
+i
+
+a
+c
+g
+o
+o
+b
+e
+n
+o
+t
+s
+a
+e
+
+l
+
+t
+a
+h
+t
+i
+
+w
+2
+2
+0
+2
+n
+
+i
+
+5
+6
+f
+o
+e
+g
+a
+
+e
+h
+t
+
+r
+e
+d
+n
+u
+s
+t
+n
+e
+r
+a
+P
+(
+
+0
+0
+2
+,
+8
+3
+
+7
+.
+7
+7
+
+0
+7
+3
+,
+9
+3
+
+0
+8
+6
+0
+5
+
+,
+
+0
+
+.
+
+5
+8
+
+0
+1
+4
+
+,
+
+1
+3
+
+.
+
+3
+0
+6
+
+0
+5
+9
+
+,
+
+6
+3
+
+0
+0
+3
+,
+1
+6
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+  .
+l
+a
+t
+o
+T
+
+h
+t
+r
+i
+B
+t
+s
+r
+i
+F
+t
+a
+e
+g
+A
+
+6
+9
+4
+
+2
+2
+7
+,
+1
+
+0
+5
+2
+,
+3
+
+1
+5
+2
+,
+6
+
+0
+0
+4
+,
+1
+1
+
+0
+8
+0
+,
+5
+1
+
+0
+5
+3
+,
+0
+3
+
+7
+8
+2
+,
+4
+
+8
+4
+2
+,
+2
+
+0
+3
+2
+,
+4
+2
+
+2
+2
+3
+,
+1
+
+5
+9
+0
+,
+7
+
+0
+1
+1
+,
+1
+3
+
+4
+5
+3
+,
+8
+
+0
+5
+8
+,
+9
+2
+
+0
+0
+5
+,
+1
+1
+
+0
+8
+4
+,
+4
+2
+
+4
+2
+2
+,
+2
+
+3
+6
+8
+,
+3
+
+0
+9
+5
+,
+0
+1
+
+5
+2
+1
+,
+9
+
+0
+3
+6
+,
+4
+1
+
+0
+.
+0
+6
+
+2
+.
+0
+7
+
+7
+.
+3
+7
+
+8
+.
+5
+7
+
+1
+.
+9
+7
+
+1
+.
+0
+8
+
+4
+.
+9
+7
+
+6
+.
+2
+8
+
+3
+.
+9
+6
+
+6
+.
+2
+7
+
+2
+.
+8
+7
+
+8
+.
+9
+6
+
+7
+.
+9
+7
+
+9
+.
+9
+7
+
+7
+.
+0
+7
+
+5
+.
+1
+7
+
+9
+.
+0
+8
+
+1
+.
+9
+7
+
+2
+.
+0
+7
+
+5
+.
+4
+7
+
+1
+.
+7
+7
+
+0
+.
+3
+8
+
+0
+3
+5
+
+0
+6
+7
+,
+1
+
+2
+8
+3
+,
+3
+
+5
+1
+4
+,
+6
+
+0
+8
+7
+,
+1
+1
+
+0
+9
+4
+,
+5
+1
+
+4
+8
+8
+
+8
+0
+5
+
+,
+
+2
+
+9
+8
+5
+
+,
+
+4
+
+9
+6
+4
+
+,
+
+8
+
+0
+9
+8
+4
+1
+
+,
+
+0
+4
+3
+9
+1
+
+,
+
+0
+6
+2
+,
+1
+3
+
+0
+6
+3
+9
+3
+
+,
+
+1
+7
+3
+,
+4
+
+5
+5
+3
+,
+2
+
+0
+9
+8
+,
+4
+2
+
+0
+1
+3
+
+,
+
+6
+
+2
+4
+2
+
+,
+
+3
+
+0
+2
+1
+0
+3
+
+,
+
+0
+8
+3
+,
+1
+
+6
+6
+7
+
+,
+
+1
+
+8
+8
+3
+,
+7
+
+0
+8
+9
+,
+1
+3
+
+4
+4
+7
+,
+8
+
+0
+2
+6
+,
+0
+3
+
+0
+0
+9
+,
+1
+1
+
+0
+3
+1
+,
+5
+2
+
+8
+3
+3
+,
+2
+
+3
+4
+0
+,
+4
+
+0
+2
+0
+,
+1
+1
+
+8
+5
+3
+,
+9
+
+0
+8
+5
+0
+1
+
+,
+
+0
+0
+1
+0
+4
+
+,
+
+0
+2
+3
+8
+3
+
+,
+
+0
+6
+3
+2
+1
+
+,
+
+0
+5
+6
+6
+1
+
+,
+
+0
+7
+0
+1
+3
+
+,
+
+4
+5
+9
+
+,
+
+2
+
+8
+5
+7
+
+,
+
+5
+
+0
+9
+7
+4
+1
+
+,
+
+0
+3
+1
+2
+1
+
+,
+
+0
+4
+9
+,
+4
+1
+
+0
+0
+0
+8
+1
+
+,
+
+2
+
+.
+
+4
+8
+
+1
+
+.
+
+6
+8
+
+4
+
+.
+
+5
+8
+
+2
+
+.
+
+4
+8
+
+4
+
+.
+
+3
+8
+
+8
+
+.
+
+6
+8
+
+3
+
+.
+
+4
+8
+
+0
+
+.
+
+5
+8
+
+5
+
+.
+
+8
+8
+
+6
+
+.
+
+7
+8
+
+7
+
+.
+
+4
+8
+
+9
+
+.
+
+0
+8
+
+7
+
+.
+
+5
+8
+
+0
+
+.
+
+6
+8
+
+2
+
+.
+
+0
+8
+
+7
+
+.
+
+5
+8
+
+8
+
+.
+
+4
+8
+
+0
+
+.
+
+4
+8
+
+4
+
+.
+
+3
+8
+
+3
+
+.
+
+2
+8
+
+5
+
+.
+
+4
+8
+
+9
+
+.
+
+6
+8
+
+.
+
+d
+
+l
+i
+
+h
+c
+
+l
+
+9
+9
+9
+
+5
+0
+3
+2
+
+,
+
+2
+4
+5
+3
+
+,
+
+7
+4
+4
+5
+
+,
+
+2
+1
+4
+9
+
+,
+
+7
+0
+7
+9
+
+,
+
+0
+8
+9
+
+,
+
+4
+2
+
+1
+1
+9
+3
+
+,
+
+9
+7
+5
+1
+
+,
+
+0
+8
+0
+
+,
+
+1
+2
+
+3
+4
+9
+
+9
+9
+4
+4
+
+,
+
+0
+1
+9
+
+,
+
+6
+2
+
+8
+0
+0
+5
+
+,
+
+0
+0
+4
+
+,
+
+6
+2
+
+0
+6
+2
+
+,
+
+0
+1
+
+0
+1
+2
+
+,
+
+9
+1
+
+1
+4
+9
+1
+
+,
+
+7
+3
+6
+1
+
+,
+
+1
+0
+6
+6
+
+,
+
+6
+3
+2
+9
+
+,
+
+0
+4
+9
+
+,
+
+3
+1
+
+.
+
+7
+7
+2
+
+.
+
+7
+8
+3
+
+.
+
+0
+9
+4
+
+.
+
+9
+1
+6
+
+.
+
+3
+0
+7
+
+.
+
+9
+3
+7
+
+.
+
+3
+4
+6
+
+.
+
+5
+0
+7
+
+.
+
+5
+9
+4
+
+.
+
+3
+3
+4
+
+.
+
+5
+2
+5
+
+.
+
+9
+4
+4
+
+.
+
+2
+4
+6
+
+.
+
+8
+5
+6
+
+.
+
+7
+2
+4
+
+.
+
+9
+0
+5
+
+.
+
+7
+5
+6
+
+.
+
+3
+1
+7
+
+.
+
+0
+2
+3
+
+.
+
+3
+1
+5
+
+.
+
+3
+3
+6
+
+.
+
+0
+2
+7
+
+6
+8
+1
+1
+
+,
+
+7
+7
+6
+2
+
+,
+
+7
+4
+1
+4
+
+,
+
+9
+6
+4
+6
+
+,
+
+0
+9
+2
+
+,
+
+1
+1
+
+0
+8
+1
+
+,
+
+1
+1
+
+1
+9
+2
+,
+4
+
+2
+1
+9
+,
+6
+
+3
+6
+4
+,
+8
+
+0
+5
+4
+,
+0
+1
+
+0
+6
+0
+,
+6
+1
+
+0
+3
+1
+,
+5
+1
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ .
+9
+1
+d
+n
+a
+
+ .
+1
+2
+d
+n
+a
+
+.
+
+.
+
+.
+
+.
+
+4
+2
+o
+t
+
+9
+2
+o
+t
+
+r
+e
+v
+o
+d
+n
+a
+
+.
+
+8
+1
+
+r
+e
+d
+n
+U
+
+8
+1
+
+0
+2
+
+2
+2
+
+5
+2
+
+0
+3
+
+e
+c
+a
+R
+
+0
+2
+6
+
+,
+
+9
+2
+
+0
+8
+0
+,
+6
+4
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ .
+e
+n
+o
+a
+
+l
+
+e
+t
+i
+h
+W
+
+-
+n
+o
+n
+
+,
+
+e
+n
+o
+a
+
+l
+
+e
+t
+i
+h
+W
+
+1
+2
+4
+4
+
+,
+
+2
+0
+8
+1
+
+,
+
+0
+0
+8
+
+,
+
+4
+2
+
+5
+3
+9
+,
+8
+
+5
+6
+1
+,
+4
+
+0
+9
+1
+,
+5
+3
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+i
+
+c
+n
+a
+p
+s
+i
+H
+
+e
+n
+o
+a
+
+l
+
+k
+c
+a
+B
+
+l
+
+l
+
+e
+n
+o
+a
+n
+a
+i
+s
+A
+
+e
+c
+a
+r
+
+,
+
+s
+e
+c
+a
+r
+
+r
+e
+h
+t
+o
+
+l
+l
+
+A
+
+3
+1
+1
+1
+
+,
+
+0
+2
+1
+,
+2
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+s
+n
+o
+i
+t
+a
+n
+b
+m
+o
+c
+
+i
+
+4
+6
+5
+5
+
+,
+
+0
+9
+3
+
+,
+
+1
+3
+
+4
+4
+2
+6
+
+,
+
+0
+1
+7
+
+,
+
+0
+3
+
+0
+8
+9
+
+,
+
+1
+1
+
+0
+6
+6
+
+,
+
+2
+2
+
+0
+1
+3
+2
+
+,
+
+3
+6
+9
+1
+
+,
+
+2
+2
+0
+8
+
+,
+
+0
+3
+9
+
+,
+
+0
+1
+
+0
+0
+4
+,
+2
+1
+
+0
+0
+9
+,
+8
+4
+
+0
+9
+6
+,
+6
+4
+
+0
+1
+6
+,
+4
+1
+
+0
+5
+5
+,
+3
+2
+
+0
+2
+5
+,
+4
+3
+
+9
+3
+2
+,
+3
+
+9
+2
+1
+,
+6
+
+0
+2
+6
+,
+5
+1
+
+0
+7
+2
+,
+7
+1
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ .
+)
+e
+c
+a
+r
+
+y
+n
+a
+
+f
+o
+(
+
+i
+
+c
+n
+a
+p
+s
+i
+H
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+i
+
+c
+n
+a
+p
+s
+i
+H
+-
+n
+o
+N
+
+i
+
+n
+g
+i
+r
+
+O
+c
+i
+n
+a
+p
+s
+i
+H
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ .
+n
+r
+o
+b
+-
+e
+v
+i
+t
+a
+N
+
+ .
+n
+r
+o
+b
+-
+n
+g
+e
+r
+o
+F
+
+i
+
+s
+u
+t
+a
+t
+S
+y
+t
+i
+v
+i
+t
+a
+N
+
+ .
+e
+g
+a
+i
+r
+r
+a
+m
+
+t
+s
+r
+i
+f
+
+e
+r
+o
+f
+e
+B
+
+2
+e
+g
+a
+i
+r
+r
+a
+m
+
+t
+s
+r
+i
+f
+g
+n
+i
+r
+u
+D
+
+.
+
+.
+
+e
+g
+a
+i
+r
+r
+a
+m
+
+t
+s
+r
+i
+f
+
+r
+e
+t
+f
+A
+
+h
+t
+r
+i
+B
+t
+s
+r
+i
+F
+f
+o
+g
+n
+m
+T
+
+i
+
+i
+
+t
+n
+e
+m
+n
+i
+a
+t
+t
+A
+
+l
+a
+n
+o
+i
+t
+a
+c
+u
+d
+E
+
+.
+
+.
+
+.
+
+l
+
+o
+o
+h
+c
+s
+h
+g
+h
+n
+a
+h
+t
+
+i
+
+s
+s
+e
+L
+
+e
+t
+a
+u
+d
+a
+r
+g
+
+l
+
+o
+o
+h
+c
+s
+h
+g
+H
+
+i
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+e
+g
+e
+
+l
+l
+
+o
+c
+
+e
+m
+o
+S
+
+0
+3
+0
+
+,
+
+6
+1
+
+0
+8
+2
+,
+2
+2
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ .
+r
+e
+h
+g
+h
+r
+o
+
+i
+
+e
+e
+r
+g
+e
+d
+s
+
+l
+
+’
+r
+o
+e
+h
+c
+a
+B
+
+.
+
+e
+g
+a
+i
+r
+r
+a
+m
+
+t
+s
+r
+i
+f
+
+e
+h
+t
+g
+n
+i
+r
+u
+d
+d
+e
+d
+u
+c
+n
+
+l
+
+i
+
+s
+i
+
+t
+i
+
+,
+
+d
+e
+d
+n
+e
+
+r
+o
+d
+e
+t
+r
+a
+t
+s
+
+e
+g
+a
+i
+r
+r
+a
+m
+e
+h
+t
+
+r
+a
+e
+y
+
+e
+h
+t
+
+r
+e
+h
+t
+i
+e
+
+s
+a
+
+e
+m
+a
+s
+
+e
+h
+t
+
+s
+i
+
+h
+t
+r
+i
+b
+t
+s
+r
+i
+f
+
+f
+o
+r
+a
+e
+y
+
+f
+I
+
+.
+
+h
+t
+r
+i
+b
+t
+s
+r
+i
+f
+
+f
+o
+e
+m
+
+i
+t
+
+t
+a
+
+s
+u
+t
+a
+t
+s
+
+l
+
+a
+t
+i
+r
+a
+m
+o
+t
+
+s
+r
+e
+f
+e
+R
+
+i
+
+l
+
+a
+c
+g
+o
+o
+b
+t
+s
+r
+i
+f
+
+i
+
+r
+i
+e
+h
+t
+
+f
+o
+h
+t
+r
+i
+b
+e
+h
+t
+o
+t
+p
+u
+g
+n
+d
+a
+e
+
+i
+
+l
+
+y
+c
+n
+a
+n
+g
+e
+r
+p
+e
+h
+t
+g
+n
+i
+r
+u
+d
+d
+e
+k
+r
+o
+w
+o
+h
+w
+s
+t
+n
+e
+r
+a
+P
+
+1
+
+2
+
+.
+
+e
+
+l
+i
+f
+
+e
+s
+u
+-
+c
+
+i
+l
+
+b
+u
+p
+
+,
+
+i
+
+n
+o
+i
+t
+a
+p
+c
+i
+t
+r
+a
+P
+m
+a
+r
+g
+o
+r
+P
+d
+n
+a
+
+e
+m
+o
+c
+n
+
+I
+
+f
+o
+y
+e
+v
+r
+u
+S
+2
+2
+0
+2
+
+,
+
+u
+a
+e
+r
+u
+B
+s
+u
+s
+n
+e
+C
+
+.
+
+.
+
+S
+U
+
+:
+
+e
+c
+r
+u
+o
+S
+
+U.S. Census Bureau 
+
+3
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Estimates provided are for first-
+time parents who worked before 
+their first child was born and 
+who were under the age of 65 in 
+2022. All estimates for working 
+after the birth of the first child 
+are conditional on parents who 
+worked before the birth of the first 
+biological child. About 60 percent 
+of mothers and roughly 78 percent 
+of fathers reported working during 
+the pregnancy leading to the birth 
+of their first biological child.
+
+A higher percentage of parents 
+who were older at their first birth 
+were employed before having 
+their first child. Estimates for first-
+time parents who were employed 
+before their first child was born 
+are grouped by the age at which 
+their first birth occurred. The 
+groups under the age of 18 and 
+age 30 and over are highlighted 
+due to significant differences in 
+employment before first-time 
+parenthood, while the middle 
+age ranges, those aged 18 to 29, 
+showed a consistent upward trend. 
+About 3 in 4 mothers aged 30 and 
+over at the time of first birth (73.9 
+percent) worked leading up to the 
+birth of the first child, compared 
+to only 1 out of 4 mothers under 
+the age of 18 (28 percent). About 
+39 percent of first-time mothers 
+aged 18 to 19 were employed 
+before their first child was born, 
+compared to 70.3 percent of first-
+time mothers aged 25 to 29. The 
+gap was smaller among fathers, as 
+about 80 percent of fathers aged 
+30 or over worked leading up the 
+birth of their first child, compared 
+to 60 percent of fathers who were 
+under the age of 18. About 70 
+percent of first-time fathers aged 
+18 to 19 worked before their first 
+child was born compared to 79.1 
+percent of those aged 25 to 29. 
+Overall, older parents were more 
+
+RECENT CHANGES TO PARENTAL LEAVE DATA 
+COLLECTION
+
+Prior to 2014, the Survey of Income and Program Participation 
+(SIPP) included a maternal leave section within the fertility module. 
+This section included information on women’s employment history, 
+work history, and maternity leave arrangements. Parental leave 
+information was not collected from 2014 to 2018. In 2019, the 
+parental leave questions were reintroduced to the SIPP, and were 
+asked of both men and women for the first time. The question 
+sequence for the 2022 SIPP was updated to collect information on 
+parental leave more efficiently and accurately. Detailed information 
+on the improvement of the parental leave question sequence is 
+provided in the SIPP 2022 Data Users’ Guide at <www2.census.gov/
+programs-surveys/sipp/tech-documentation/methodology/2022_
+SIPP_Users_Guide_SEP23.pdf>. 
+
+likely to work preceding the birth 
+of the first child than younger 
+parents.
+
+Among the racial groups 
+presented, about 64 percent of 
+White mothers worked leading 
+up to the birth of their first child, 
+compared to 49.5 percent of Black 
+alone mothers and 43.3 percent 
+of Asian alone mothers.12 White 
+alone fathers had a higher rate of 
+working leading up to the birth 
+of their first child (79.4 percent) 
+compared to Black fathers (69.3 
+percent) and Asian fathers (72.6 
+percent).13 Examining differences in 
+work behaviors by Hispanic origin, 
+44.9 percent of Hispanic mothers 
+worked during the pregnancy of 
+their first child, compared to 64.2 
+percent of non-Hispanic mothers.
+
+Differences in work behaviors 
+before the birth of a first child 
+across racial and ethnic groups 
+may be influenced by differences 
+
+12 The estimates of Black alone mothers 
+
+(49.5 percent) and Asian alone mothers 
+(43.3 percent) who worked during the 
+pregnancy were significantly different from 
+each other.
+
+13 The estimates of Black fathers (69.3 
+percent) and Asian fathers (72.6 percent) 
+who worked during the pregnancy did not 
+significantly differ. 
+
+in occupation and societal 
+expectations. Some racial and 
+ethnic groups are more likely to 
+work in lower-wage occupations, 
+limiting their access to benefits 
+like paid parental leave and 
+flexible work arrangements, which 
+influences their work behaviors 
+before the birth of a first child, 
+while others in higher-paying 
+jobs can maintain employment 
+due to greater job flexibility 
+or more comprehensive leave 
+options surrounding childbirth.14, 
+15, 16 Additionally, societal norms 
+regarding roles and family 
+responsibilities can influence these 
+differences between mothers and 
+fathers, with some groups placing 
+
+14 D. Hawkins, “Disparities in the Usage of 
+
+Maternity Leave According to Occupation, 
+Race/Ethnicity, and Education,” American 
+Journal of Industrial Medicine, 63(12), pp. 
+1134–1144, 2020, <https://pubmed.ncbi.nlm.
+nih.gov/33020984/>.
+
+15 J. M. Goodman and D. Schneider, 
+“Racial/Ethnic and Gender Inequities In the 
+Sufficiency of Paid Leave During the COVID-
+19 Pandemic: Evidence From the Service 
+Sector,” American Journal of Industrial 
+Medicine, 2023, 66(11), pp. 928–937.
+
+16 A. Earle, P. Joshi, K. Geronimo, and 
+D. Acevedo-Garcia, “Job Characteristics 
+Among Working Parents: Differences by 
+Race, Ethnicity, And Nativity,” Monthly Labor 
+Review, U.S. Bureau of Labor Statistics, 2014.
+
+4 
+
+U.S. Census Bureau
+
+a higher emphasis on women’s 
+roles as caregivers.17, 18
+
+The following estimates examine 
+work behaviors in relation to 
+the timing of the first birth, 
+considering whether parents 
+worked before their first child 
+was born, and whether the first 
+birth occurred before, during, or 
+after the parents’ first marriage. A 
+lower percentage of never-married 
+mothers were employed during the 
+pregnancy before their first birth, 
+compared to mothers who had a 
+first birth within their first marriage 
+or after their first marriage ended 
+(50.9 percent, 65.7 percent, and 
+71.3 percent, respectively).19, 20 
+Men who fathered their first child 
+before marrying were less likely 
+to be working before the birth, 
+compared to men whose first 
+child was born during or after 
+their first marriage (71.5 percent, 
+80.9 percent, and 79.1 percent, 
+respectively).21
+
+CHARACTERISTICS OF 
+PARENTS WHO WORKED 
+AFTER THE BIRTH OF THEIR 
+FIRST CHILD 
+
+While there were notable 
+differences in work patterns 
+among demographic groups prior 
+to the birth of their first child, 
+
+17 I. Browne and J. Misra, “The Intersection 
+
+of Gender and Race in the Labor 
+Market,” Annual Review of Sociology, 29(1), 
+pp. 487–513, 2003.
+
+18 B. Mintz and D. H. Krymkowski, 
+“The Intersection of Race/Ethnicity and 
+Gender in Occupational Segregation: 
+Changes Over Time in the Contemporary 
+United States,” International Journal of 
+Sociology 40(4), pp. 31–58, 2010.
+
+19 The estimates of mothers who were 
+
+employed during their first marriage (65.7 
+percent) and mothers who were employed 
+after their first marriage (71.3 percent) were 
+significantly different from each other.
+
+20 Never-married parents are included 
+with those whose first birth was before their 
+first marriage.
+
+21 The estimates of fathers who were 
+employed during their first marriage (80.9 
+percent) and fathers who were employed 
+after their first marriage (79.1 percent) were 
+not significantly different from each other.
+
+there were fewer variations in work 
+behaviors among these groups 
+after the child’s birth. Estimates 
+for those who worked after their 
+child’s birth are shown for parents 
+who worked during the pregnancy 
+of their first child. For example, the 
+percentage of mothers under the 
+age of 18 at the time of first birth 
+who worked after the birth of their 
+first child (84.2 percent) did not 
+significantly differ from mothers 
+aged 30 or over (86.8 percent). 
+Likewise, there was no significant 
+difference between fathers under 
+the age of 18 at the time of first 
+birth working after the birth of 
+their first child (93.4 percent) 
+compared to fathers aged 30 and 
+over (97.4 percent).
+
+The racial and ethnic differences 
+observed in parents who worked 
+before the birth of their first child 
+shifted when examining those 
+who worked after the birth. For all 
+racial and ethnic groups (roughly 
+between 81 and 89 percent), 
+mothers employed during the 
+pregnancy returned to the labor 
+force after giving birth. Black 
+alone mothers (88.5 percent) 
+were more likely to return to 
+work after the birth of their first 
+child than White mothers (84.3 
+percent). After the birth of their 
+first child, non-Hispanic mothers 
+(85.7 percent) were more likely to 
+work than Hispanic mothers (80.9 
+percent). Nearly all Black alone, 
+White alone, and Hispanic fathers 
+worked after the birth of their first 
+child (98.1 percent, 97.1 percent, 
+and 96.0 percent, respectively).22 
+Statistically, non-Hispanic fathers 
+(97.3 percent) had a higher rate of 
+working after the birth of their first 
+child than Hispanic fathers (about 
+
+96 percent). Rates of working after 
+birth were more than 95 percent 
+among first-time fathers across 
+racial and ethnic groups.
+
+There were few differences in work 
+participation by education level 
+among parents after the birth of 
+their first child. Roughly 83 percent 
+of mothers with less than a high 
+school education and 86.9 percent 
+of mothers with a bachelor’s 
+degree or higher reported working 
+after the first birth, although these 
+estimates did not significantly 
+differ. However, among fathers, 
+the corresponding percentage 
+that worked after the birth of 
+their first child did significantly 
+differ between fathers with less 
+than a high school education 
+(95.5 percent) and fathers with a 
+bachelor’s degree or higher (97.9 
+percent).
+
+LEAVE ARRANGEMENTS USED 
+BY PARENTS BEFORE AND 
+AFTER THE BIRTH OF THEIR 
+FIRST CHILD
+
+Figure 2 presents the percentage 
+of parents using selected leave 
+arrangements after their first birth, 
+categorized by cohorts of the first 
+child’s birth year. Examining leave 
+types taken by parents by birth 
+cohort is particularly important 
+due to the changing nature 
+of policies surrounding leave. 
+For example, the FMLA, which 
+provides up to 12 weeks of unpaid 
+leave to eligible workers, was 
+signed into law in 1993.23
+
+For first-time mothers, paid leave 
+usage has increased for first 
+children born after 2004, with a 
+period of stability for those born 
+prior 1994 and between 1994 
+
+22 The estimates of Black alone (98.1 
+percent) and Hispanic alone (96 percent) 
+fathers were not significantly different 
+from White alone fathers (97.1 percent), but 
+Black alone and Hispanic alone fathers did 
+significantly differ.
+
+23 The Family and Medical Leave Act 
+of 1993 was signed into law on February 
+5, 1993, and came into effect on August 5, 
+1993. The years of first birth cohorts were 
+established to investigate any association 
+between unpaid leave usage after the law 
+was enacted.
+
+U.S. Census Bureau 
+
+5
+
+Figure 2.
+Percentage of Parents Using Selected Leave Arrangements After Their First Birth 
+by Year of Child's Birth: 2022 
+(Parents who worked before the birth of their 
+ﬁrst biological child)
+
+Paid leave1
+Unpaid leave2
+Quit/let go
+Other leave type3
+Did not take leave
+
+Fathers
+
+Mothers
+
+90
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+Prior to 1994
+
+1994–2003
+
+2004–2013
+
+2014–2022
+
+90
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+Prior to 1994
+
+1994–2003
+
+2004–2013
+
+2014–2022
+
+1 Paid leave includes paid maternity/paternity leave, paid sick leave, and paid vacation leave. 
+2 Unpaid leave includes unpaid maternity or paternity leave and unpaid sick leave. 
+3 Other leave type includes disability leave or some other kind of leave.
+Source: U.S. Census Bureau, 2022 Survey of Income and Program Participation, public-use ﬁle.
+
+and 2003, while an increasing 
+percentage of first-time fathers 
+reported taking a form of paid 
+leave. Among mothers who gave 
+birth for the first time before 1994, 
+39.9 percent used a form of paid 
+leave, whereas 42.8 percent of 
+mothers with a first child born 
+between 1994 to 2003, and 43.8 
+percent of mothers who had a first 
+birth between 2004 to 2013, used 
+a form of paid leave after their 
+child was born.24 During the 2014 
+to 2022 birth cohort, about 49 
+percent of first-time mothers used 
+a form of paid leave.
+
+First-time fathers experienced 
+increases in the use of paid leave 
+across birth cohorts. Prior to 1994, 
+about 18 percent of fathers used a 
+form of paid leave, which increased 
+to 27.1 percent among fathers who 
+had a first-born child between 
+1994 to 2003. First-time fathers 
+
+24 The estimates of mothers who took 
+paid leave with a first-born child prior to 
+1994 (39.9 percent) and 1994 to 2003 (42.8 
+percent) and between 1994 to 2003 (42.8 
+percent) and 2004 to 2013 (43.8 percent) 
+did not significantly differ.
+
+6 
+
+from 2004 to 2013 had a 35.1 
+percent paid leave rate after their 
+first child was born, compared to 
+50.1 percent of fathers who had a 
+first-born child between 2014 and 
+2022. Among parents who had a 
+first-born child between 2014 to 
+2022, there were no differences in 
+the usage of paid leave between 
+mothers (49.1 percent) and fathers 
+(50.1 percent).
+
+The trends in paid leave rates 
+among parents suggest an 
+association between occupational 
+disparities, changing parental 
+roles, and workplace policies. 
+Mothers’ paid leave rates after the 
+birth of their first child may be 
+possibly due to their prevalence 
+in lower-wage jobs with fewer 
+benefits.25, 26 In contrast, the 
+
+25 M. Shepherd-Banigan and J. F. Bell, 
+
+“Paid Leave Benefits Among a National 
+Sample of Working Mothers with Infants in 
+the United States,” Maternal and Child Health 
+Journal, 18(1), pp. 286–295, 2014.
+
+26 J. Tucker and K. Patrick, “Low 
+Wage Jobs are Women’s Jobs: The 
+Overrepresentation of Women in Low Wage 
+Work,” National Women’s Law Center, 2017.
+
+increase in paid leave rates among 
+fathers could be associated with 
+more generous benefits in higher-
+paying positions and evolving 
+social norms that promote greater 
+paternal involvement.27, 28
+
+Prior to 1994, 25.4 percent of 
+mothers took a form of unpaid 
+leave. Mothers with a first birth 
+from 1994 to 2003 had a similar 
+likelihood of taking a form of 
+unpaid leave (23.8 percent) 
+compared to mothers with a first 
+child born between 2004 to 2013 
+(24.3 percent).29 About 6 percent 
+of fathers with a first-born child 
+between 1994 to 2003 took a form 
+of unpaid leave, compared to 3.3 
+percent of fathers with a first-born 
+
+27 R. J. Petts, C. Knoester, and Q. Li, “Paid
+Paternity Leave-Taking in the United 
+States,” Community, Work & Family, 23(2), 
+pp. 162–183, 2020, <https://doi.org/10.1080/1
+3668803.2018.1471589>.
+
+28 R. J. Petts and C. Knoester, “Paternity 
+
+Leave-Taking and Father Engagement,” 
+Journal of Marriage and the Family, 80(5), 
+pp. 1144–1162, 2018.
+
+29 The estimates of mothers who took a 
+
+form of unpaid leave did not significantly 
+differ across birth cohorts.
+
+U.S. Census Bureau
+
+child prior to 1994. The rates of 
+unpaid leave taken after the birth 
+of a first child were 7.0 percent 
+between 2004 to 2014 and 12.6 
+percent between 2014 to 2022 
+among first-time fathers. In the 
+most recent birth cohort (2014 to 
+2022), a higher percentage of first-
+time mothers (27.3 percent) than 
+first-time fathers (12.6 percent) 
+took a form of unpaid leave after 
+their child was born.
+
+The stability in unpaid leave rates 
+for mothers, alongside a slight 
+increase for fathers, may also be 
+attributed to the fact that the 
+FMLA only mandates unpaid 
+leave, which limits its effect on 
+overall leave-taking. Previous 
+research found that while recent 
+FMLA legislation increased the 
+availability of leave, the lack of pay 
+associated with FMLA provisions 
+constrains its usage.30 Similarly, 
+the financial burden of unpaid 
+leave may prevent changes in 
+leave patterns for parents.31, 32 
+Consequently, despite the legal 
+framework supporting leave, the 
+rate of unpaid leave has not seen 
+substantial increases.
+
+Circumstances leading to time 
+away from work, such as quitting 
+or being let go, are considered 
+leave arrangements in this report. 
+Some parents use only one type 
+of leave arrangement, while others 
+may combine multiple types. A 
+considerable portion of mothers 
+
+30 W. J. Han and J. Waldfogel, “Parental 
+Leave: The Impact of Recent Legislation on 
+Parents’ Leave-Taking,” Demography, 40(1), 
+pp. 191–200, February 2003.
+
+31 J. Waldfogel, “The Impact of the Family 
+
+and Medical Leave Act,” Journal of Policy 
+Analysis and Management, 1999b, 18(2),  
+pp. 281–302.
+
+32 W. J. Han, C. Ruhn, and J. Waldfogel, 
+
+“Parental Leave Policies and Parents’ 
+Employment and Leave-Taking,” Journal 
+of Policy Analysis and Management, 28(1), 
+pp. 29–54, 2009, <https://doi.org/10.1002/
+pam.20398>.
+
+quit or were let go from their job 
+after their child was born. Prior 
+to 1994, 15.5 percent of mothers 
+reported quitting their job or being 
+let go after their first child was 
+born. About 14 percent of mothers 
+between 1994 to 2003 and 2004 
+to 2013 reported leaving their job 
+or being let go after the birth of 
+their first child. About 12 percent of 
+mothers whose first child was born 
+between 2014 to 2022 reported 
+being let go or quitting their job 
+after their child was born.33 
+
+Rates for quitting or being let 
+go from a job for fathers were 
+relatively low across all birth 
+cohorts.
+
+The moderate portion of mothers 
+who quit their job or were let go 
+from their jobs around the time 
+of their first child’s birth may 
+be due to insufficient parental 
+leave policies, lack of workplace 
+flexibility, and the financial 
+burden of child care.34 Insufficient 
+maternity leave provisions and the 
+absence of job protection may 
+increase the likelihood of mothers 
+exiting the workforce, which forces 
+many mothers to choose between 
+returning to work prematurely or 
+quitting altogether.35 High child 
+care costs also contribute to this 
+issue, as the expense of child care 
+often exceeds potential earnings, 
+making it more practical for many 
+mothers to leave the workforce.36
+
+33 The estimates for mothers who quit or 
+were let go did not significantly differ across 
+birth cohorts. 
+
+34 A. J. C. Torres, L. Barbosa-Silva,  
+
+L. C. Oliveira-Silva, O. P. P. Miziara,  
+U. C. R. Guahy, A. N. Fisher, and M. K. Ryan, 
+“The Impact of Motherhood on Women’s 
+Career Progression: A Scoping Review of 
+Evidence-Based Interventions,” Behavioral 
+Sciences, 14(4), p. 275, 2024.
+
+35 W. J. Han, C. Ruhn, and J. Waldfogel, 
+
+“Parental Leave Policies and Parents’ 
+Employment and Leave-Taking,” Journal 
+of Policy Analysis and Management, 28(1), 
+pp. 29–54, 2009, <https://doi.org/10.1002/
+pam.20398>.
+
+36 L. Schochet, “The Child Care Crisis 
+Is Keeping Women Out of the Workforce,” 
+Center for American Progress, 2019.
+
+The patterns of leave-taking vary 
+between mothers and fathers 
+who do not take leave. About 16 
+percent of mothers who had a first 
+birth prior to 1994 and from 1994 
+to 2003 did not take any leave 
+after their child was born.37 For 
+mothers with a first birth between 
+2004 and 2013, 14.7 percent did 
+not take leave. For the 2014 to 
+2022 birth cohort, 11.3 percent of 
+mothers did not take any type 
+of leave after their first child was 
+born.38 
+
+The percentage of fathers who do 
+not take leave has been decreasing 
+over time, with 77.0 percent of 
+fathers reporting not taking leave 
+prior to 1994, compared to 65.1 
+percent with a first birth between 
+1994 to 2003. In the 2004 to 2013 
+cohort, more than half of fathers 
+did not take any leave after their 
+first child was born (54.2 percent). 
+More recently, about 35 percent of 
+the fathers with a first child born 
+between 2014 to 2022 did not take 
+any leave.
+
+A large share of fathers did not 
+take any leave, which may be due 
+in part to the lack of workplace 
+flexibility, lack of a universal paid 
+parental leave policy, or traditional 
+social norms. Studies indicate that 
+some fathers may face stigma 
+or negative career repercussions 
+if they take extended leave, 
+resulting in low usage of paternity 
+leave.39, 40 In addition, the lack 
+of a universal paid leave policy 
+
+37 The estimates of mothers who did 
+not take leave prior to 1994 (16.4 percent) 
+and 1994 to 2003 (15.9 percent) did not 
+significantly differ.
+
+38 The percentage of mothers who did 
+
+not take leave was significantly different 
+from 2004 to 2013 (14.7 percent) to 2014 to 
+2022 (11.3 percent).
+
+39 S. Bornstein, “The Legal and Policy 
+
+Implications of the ‘Flexibility Stigma,’” 
+Journal of Social Issues, Vol. 69, Issue 2, 2013, 
+pp. 389–405.
+
+40 S. Coltrane, E. C. Miller, T. DeHaan, 
+and L. Stewart, “Fathers and the Flexibility 
+Stigma,” Journal of Social Issues, Vol. 69, 
+Issue 2, 2013, pp. 279–302.
+
+U.S. Census Bureau 
+
+7
+
+Table 2.
+Detailed Leave Arrangements Used by Parents Working Before or After the First Birth: 2022
+(Parents under the age of 65 in 2022 with at least one biological child)
+
+Characteristic
+
+Before or 
+after birth
+
+Before 
+birth1
+
+After 
+birth2
+
+Margin of 
+error3(±)
+
+Before or 
+after birth
+
+Before 
+birth1
+
+After 
+birth2
+
+Margin of 
+error3 (±)
+
+Mothers
+
+Fathers
+
+TOTAL NUMBER OF PARENTS WHO 
+
+WORKED  
+
+(in thousands)  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . .
+
+36,950 36,950 31,410
+
+745
+
+39,370 39,370 38,200
+
+748
+
+Percentage using leave arrangement4
+Paid leave  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ Paid maternity or paternity leave . . . . . . . . . . .
+ Sick leave . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ Vacation leave  . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Unpaid leave . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ Unpaid maternity or paternity leave  . . . . . . . .
+ Sick leave . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Other leave 
+ Quit job  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ Disability leave . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ Other leave type  . . . . . . . . . . . . . . . . . . . . . . . . .
+ Let go from job  . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Did not take leave . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+48.0
+38.9
+8.2
+6.4
+
+28.7
+24.7
+4.9
+
+16.7
+6.5
+4.2
+2.1
+
+16.2
+
+23.6
+18.3
+3.9
+2.6
+
+14.5
+12.2
+2.3
+
+12.4
+2.8
+1.8
+1.5
+
+4.6
+
+46.8
+38.1
+6.7
+5.5
+
+27.1
+22.8
+4.4
+
+8.5
+5.9
+3.4
+1.0
+
+13.7
+
+1.4
+1.4
+0.7
+0.7
+
+1.3
+1.2
+0.6
+
+0.9
+0.7
+0.5
+0.3
+
+1.0
+
+33.1
+14.2
+4.8
+15.4
+
+7.5
+5.8
+1.9
+
+0.5
+0.1
+2.8
+0.4
+
+58.6
+
+4.3
+2.4
+0.6
+1.3
+
+1.7
+1.3
+.3
+
+0.2
+Z
+0.4
+0.2
+
+2.0
+
+32.3
+13.5
+4.5
+15.3
+
+7.1
+5.4
+1.7
+
+0.3
+Z
+2.6
+0.3
+
+58.1
+
+1.3
+0.9
+0.6
+1.0
+
+0.6
+0.6
+0.3
+
+0.1
+Z
+0.5
+0.1
+
+1.3
+
+Z Represents or rounds to zero.
+1 Parents who worked during the pregnancy leading up to the birth of their first biological child.
+2 Parents who worked during the pregnancy leading up to the birth and after the birth of the first biological child.
+3 This number, when added to or subtracted from the “after birth” estimate, represents the 90 percent confidence interval around the 
+
+estimate.
+
+4 Total in individual leave arrangements may exceed 100 percent due to multiple types of leave taken.
+Source: U.S. Census Bureau, 2022 Survey of Income and Program Participation, public-use file.
+
+may cause financial concern, as 
+fathers may be the primary income 
+earner within households.41, 42 The 
+increasing trend of paid leave for 
+fathers across birth cohorts and 
+the decreasing trend of fathers not 
+taking any leave suggest that the 
+workplace policies and parental 
+leave policies may be more 
+generous, and social norms that 
+promote paternal involvement may 
+be increasing for fathers.
+
+Table 2 presents detailed leave 
+arrangements used by parents 
+before and after the first birth. 
+While Figure 2 illustrates leave 
+arrangements by birth cohort, 
+
+41 B. Pragg and C. Knoester, “Parental 
+
+Leave Use Among Disadvantaged 
+Fathers,” Journal of Family Issues, 
+38(8), pp. 1157–1185, 2017, <https://doi.
+org/10.1177/0192513X15623585>.
+
+42 E. Gheyoh Ndzi and A. Holmes, 
+
+“Paternal Leave Entitlement and Workplace 
+Culture: A Key Challenge to Paternal 
+Mental Health,” International Journal of 
+Environmental Research and Public Health, 
+20(8), 5454, 2023, <https://doi.org/10.3390/
+ijerph20085454>.
+
+8 
+
+Table 2 offers a detailed view 
+of leave arrangements taken 
+throughout all years when first-
+time parents had a child. It is 
+important to note that leave types 
+are not mutually exclusive, since 
+parents may use multiple leave 
+arrangements. Estimates for leave 
+arrangements taken before the 
+first birth are shown for parents 
+who worked leading up to the 
+birth of the first child. Detailed 
+leave arrangements taken after the 
+first birth are shown for parents 
+who worked during the pregnancy 
+and after the birth of the first 
+child.
+
+The following section describes 
+the types of leave taken by parents 
+before and after their first child 
+was born. The types of paid leave 
+discussed include paid maternity 
+or paternity leave, sick leave, and 
+vacation leave. Unpaid types of 
+leave taken by parents include 
+unpaid maternity, unpaid paternity, 
+
+and unpaid sick leave. Some 
+parents might use other types of 
+leave, such as disability leave, or 
+they might decide to resign, face 
+termination, or forgo taking leave 
+altogether. These alternatives are 
+also included in the discussion of 
+leave options.
+
+Both first-time mothers and first-
+time fathers were more likely to 
+utilize a form of leave after their 
+child’s birth than before their 
+child’s birth. About 47 percent 
+of mothers took a form of paid 
+leave (e.g., paid maternity leave, 
+paid sick leave, or paid vacation 
+leave) after the birth of their first 
+child, compared to only 23.6 
+percent before their first child was 
+born. Within the detailed leave 
+categories, 38.1 percent of mothers 
+used paid maternity leave after 
+their child was born, compared to 
+18.3 percent who used the leave 
+type before their first child was 
+born. Similarly, 22.8 percent of 
+
+U.S. Census Bureau
+
+Figure 3.
+Types of Leave Used by Parents in the 12 Weeks After the Birth of Their First Child 
+by Sex of Parent: 2022 
+(In percent. Parents who worked before the birth of their ﬁrst biological child)
+
+Fathers
+
+Mothers
+
+50
+
+33
+
+30
+
+37
+
+13
+
+11
+
+8
+
+4
+
+5
+
+0
+
+7
+
+7
+
+6
+
+5
+
+Paid
+maternity 
+or
+paternity
+leave
+
+Unpaid
+maternity
+or
+paternity
+leave
+
+Paid sick
+leave
+
+Unpaid sick
+leave
+
+Disability
+leave
+
+Vacation
+leave
+
+Other
+leave type
+
+Note: Percentages add to greater than 100 because respondents could select more than one type of leave. Excludes those who 
+reported quitting, being let go from their job, or did not take leave in the 12 weeks following their child's ﬁrst birth. 
+Source: U.S. Census Bureau, 2022 Survey of Income and Program Participation, public-use ﬁle.
+
+mothers took unpaid maternity 
+leave after their child was born, 
+compared to 12.2 percent who 
+took the leave type before their 
+child was born. Among first-time 
+fathers, a higher percentage took 
+a form of paid leave (32.3 percent 
+and 4.3 percent, respectively) and 
+unpaid leave (7.1 percent and 1.7 
+percent, respectively) after the 
+birth compared to before the birth 
+of their first child. The percentage 
+of fathers who took paid vacation 
+leave was higher after their first 
+child was born (15.3 percent) 
+compared to before (1.3 percent).
+
+Mothers and fathers varied in the 
+types of leave taken surrounding 
+their first birth. After the birth of 
+their first child, fathers were more 
+likely to take vacation leave (15.3 
+percent) compared to paternity 
+leave (13.5 percent) and sick leave 
+(4.5 percent).43 Mothers were more 
+likely to take unpaid maternity 
+
+43 The estimates of fathers who took 
+who took paternity leave (13.5 percent) and 
+fathers who took sick leave (4.5 percent) 
+were significantly different from each other.
+
+U.S. Census Bureau 
+
+leave (22.8 percent) compared to 
+unpaid sick leave (4.4 percent) 
+after their first birth. About 5 
+percent of fathers took unpaid 
+paternity leave, and 1.7 percent 
+of fathers reported taking unpaid 
+sick leave either before or after 
+their first child’s birth. A higher 
+percentage of mothers (28.7 
+percent) compared to fathers (7.5 
+percent) took any type of unpaid 
+leave before or after the birth of 
+their first child.
+
+First-time mothers were more 
+likely to quit or be let go from their 
+jobs before than after the birth. 
+Mothers were more likely to quit 
+their job before their first child 
+was born (12.4 percent) compared 
+to after their first child was born 
+(8.5 percent). Similarly, mothers 
+were more likely to be let go 
+before their first child was born 
+(1.5 percent) than after their first 
+child was born (roughly 1 percent). 
+About 17 percent of mothers quit 
+their job either before or after the 
+birth of their first child.
+
+Regarding the absence of leave-
+taking, a substantial portion of 
+first-time fathers and a moderate 
+share of mothers did not take 
+leave before or after the birth of 
+their first child. Over half of fathers 
+(58.6 percent) did not take any 
+leave before or after the birth of 
+their first child. About 16 percent 
+of mothers did not take leave at 
+any point before or after their first 
+birth. Mothers were more likely 
+to report not taking leave after 
+the first birth (13.7 percent) than 
+before the first birth (4.6 percent).
+
+Figure 3 presents the types of 
+leave used in the 12 weeks after 
+the birth of a first child, by the sex 
+of the parent. Figure 3 excludes 
+parents who quit, were let go from 
+their job, or did not take leave in 
+the 12 weeks following their child’s 
+first birth.
+
+Fathers and mothers differed on 
+the types of leave taken within 
+the 12 weeks after the birth of 
+their first child. For example, 49.8 
+percent of mothers took paid 
+
+9
+
+parental leave in the 12 weeks after 
+birth compared to 33.1 percent of 
+fathers. First-time fathers were 
+more likely to take vacation leave 
+(36.6 percent) than mothers (6.8 
+percent). Within 12 weeks after 
+the birth of their first child, 29.7 
+percent of mothers took unpaid 
+parental leave, compared to about 
+13 percent of fathers. Compared 
+to mothers (8.3 percent), a higher 
+percentage of fathers used paid 
+sick leave (11.2 percent) after the 
+birth of their first child.
+
+SUMMARY
+
+This report presents recent 
+estimates on various parental 
+leave measures, highlighting work 
+behaviors and detailed leave 
+arrangements used by working 
+parents surrounding the birth of 
+their first child. The gap between 
+fathers and mothers who work 
+before the birth of their first 
+child is getting smaller, and an 
+increasing percentage of mothers 
+participate in the labor force prior 
+to giving birth (Figure 1). After the 
+birth of a first child, both fathers 
+and mothers had high rates of 
+returning to work, ranging from 
+80 to 98 percent depending 
+on various demographic 
+characteristics (Table 1). Figure 2 
+details an increase in paid leave 
+rates for fathers and mothers 
+across birth cohorts over time. 
+Additionally, the estimates indicate 
+
+a declining trend in the percentage 
+of fathers not taking leave. These 
+findings suggest variations in 
+parental leave benefits among 
+working parents with a recent 
+(2014 to 2022) first-born child.  
+The report explains that mothers 
+rely on both paid and unpaid forms 
+of leave, whether before or after 
+the birth of their first child (Table 
+2). Overall, the findings suggest 
+that while a portion of working 
+parents takes a form of paid leave 
+before or after the birth of their 
+first child, a considerable number 
+of working parents rely on unpaid 
+or alternative leave arrangements 
+or do not take leave at all.
+
+SOURCE AND ACCURACY
+
+Statistics from surveys are subject 
+to sampling and nonsampling 
+error. All comparisons presented 
+in this report have taken 
+sampling error into account 
+and are significant at the 90 
+percent confidence level, unless 
+otherwise noted. This means the 
+90 percent confidence interval 
+for the difference between the 
+estimates being compared does 
+not include zero. Nonsampling 
+error in surveys may be attributed 
+to a variety of sources, such as 
+how the survey was designed, how 
+respondents interpret questions, 
+how able and willing respondents 
+are to provide correct answers, 
+and how accurately the answers 
+
+are coded and classified. To 
+minimize these errors, the Census 
+Bureau employs quality control 
+procedures throughout the 
+production process, including the 
+overall design of surveys, wording 
+of questions, review of the work 
+of interviewers and coders, and 
+the statistical review of reports. 
+Additional information on the SIPP 
+can be found at <www.census.gov/
+sipp/> (main SIPP website), <www.
+census.gov/programs-surveys/
+sipp/guidance/users-guide.html> 
+(SIPP Users’ Guides), and <www.
+census.gov/programs-surveys/
+sipp/tech-documentation/source-
+accuracy-statements.html> (SIPP 
+Source and Accuracy Statements).
+
+CONTACTS
+
+Additional information on 
+family statistics can be found by 
+contacting the SIPP Coordination 
+and Outreach Staff <census.sipp@
+census.gov> at or 1-888-245-3076. 
+For further information on the 
+content of this report, contact:
+
+Nestor I. Hernandez
+
+<nestor.i.hernandez@census.gov>
+
+Fertility and Family Statistics 
+Branch, 301-763-2416
+
+SUGGESTED CITATION
+
+Hernandez, Nestor I., “Parental 
+Leave and Employment Patterns 
+for First-Time Parents in the United 
+States: 2022,” Current Population 
+Reports, P70-204, U.S. Census 
+Bureau, Washington, DC, 2025.
+
+10 
+
+U.S. Census Bureau
+
+

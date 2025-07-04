@@ -1,0 +1,376 @@
+United States Census Bureau | An official website of the United States Government
+
+Health Insurance Coverage
+in the United States: 2023
+
+September 10, 2024
+Written by: Katherine Keisler-Starkey and Lisa N. Bunch
+Report Number: P60-284
+
+Introduction
+
+This report presents statistics on health insurance coverage in the United States based on information collected in the
+
+Current Population Survey Annual Social and Economic Supplement (CPS ASEC).
+
+Health Insurance Coverage in the United States: 2023 [< 1.0 MB][//www2.census.gov/library/publications/2024/demo/p60-284.pdf]
+
+Highlights
+
+In 2023, most people, 92.0 percent or 305.2 million, had health insurance, either for some or all of the year.
+
+In 2023, private health insurance coverage continued to be more prevalent than public coverage, at 65.4 percent and 36.3
+percent, respectively.
+
+Of the subtypes of health insurance coverage, employment-based insurance was the most common, covering 53.7 percent of
+the population for some or all of the calendar year, followed by Medicaid (18.9 percent), Medicare (18.9 percent), direct-
+purchase coverage (10.2 percent), TRICARE (2.6 percent), and VA and CHAMPVA coverage (1.0 percent).
+
+While the private coverage rate was statistically unchanged between 2022 and 2023, the employment-based coverage rate
+declined by 0.7 percentage points to 53.7 percent in 2023. At the same time, the rate of direct-purchase coverage increased by
+0.3 percentage points to 10.2 percent in 2023.
+
+The 2023 public coverage rate was not statistically different from the rate in 2022. Whereas, Medicare coverage increased by
+0.2 percentage points to cover 18.9 percent of people.
+
+The uninsured rate for children under the age of 19 increased by 0.5 percentage points to 5.8 percent between 2022 and 2023.
+
+America Counts Stories
+
+America Counts Story
+
+America Counts Story
+
+How Age and Poverty Level
+Impact Health Insurance
+Coverage
+
+Health Coverage for Working-
+Age Adults Rose in Every State
+Since 2013
+
+The percentage of people without health insurance
+remained around 8% in 2023 but rates varied by age and
+poverty level, according to data released today.
+
+A brief, infographic and working paper from the American
+Community Survey estimates out today show changes in
+health coverage rates by age and state 2013-2023.
+
+[/library/stories/2024/09/health-insurance-coverage.html]
+
+[/library/stories/2024/09/acs-health-insurance.html]
+
+Visualizations
+
+Figure 1. Percentage of People by Type of Health Insurance Coverage and Change
+From 2022 to 2023 [<1.0 MB]
+
+[/content/dam/Census/library/visualizations/2024/demo/
+p60-284/figure1.pdf]
+
+Figure 2. Percentage of People Uninsured by Age Group: 2022 and 2023
+[<1.0 MB]
+
+[/content/dam/Census/library/visualizations/2024/demo/p60-
+284/figure2.pdf]
+
+Figure 3. Percentage of People With Selected Coverage Types and Uninsured by Age
+Group: 2022 and 2023 [<1.0 MB]
+
+[/content/dam/Census/library/visualizations/2024/dem
+o/p60-284/figure3.pdf]
+
+Figure 4. Percentage of Children Under the Age of 19 Without Health Insurance Coverage
+by Selected Characteristics: 2022 and 2023 [<1.0 MB]
+
+[/content/dam/Census/library/visualizations/202
+4/demo/p60-284/figure4.pdf]
+
+Figure 5. Percentage of Working-Age Adults Without Health Insurance Coverage by
+Selected Characteristics: 2022 and 2023 [<1.0 MB]
+
+[/content/dam/Census/library/visualizations/2024/
+demo/p60-284/figure5.pdf]
+
+Figure 6. Uninsured Rate by Income-to-Poverty Ratio and Medicaid Expansion Status of
+State for Adults Aged 19 to 64: 2022 and 2023 [<1.0 MB]
+
+[/content/dam/Census/library/visualizations/202
+4/demo/p60-284/figure6.pdf]
+
+Figure 7. Health Insurance by Type and Household Income Quintile for Children Under the
+Age of 19 and Adults Aged 19 to 64: 2023 [<1.0 MB]
+
+[/content/dam/Census/library/visualizations/202
+4/demo/p60-284/figure7.pdf]
+
+Figure 8. Health Insurance Coverage Type by Selected Characteristics: 2022
+and 2023 [<1.0 MB]
+
+[/content/dam/Census/library/visualizations/2024/demo/p60-
+284/figure8.pdf]
+
+Figure 9. Percentage of People Without Health Insurance Coverage: 2013 to
+2023 [<1.0 MB]
+
+[/content/dam/Census/library/visualizations/2024/demo/p60-
+284/figure9.pdf]
+
+Visualization
+
+Health Insurance Coverage and
+Type by State
+
+This visualization uses 2019, 2022 and 2023 American
+Community Survey 1-year estimates to examine state
+differences in health insurance coverage by age.
+
+[/library/visualizations/interactive/health-insurance-coverage-and-type-
+by-state.html]
+
+Tables
+
+Table 1. Number of People by Health Insurance Coverage Status and Type: 2022
+to 2023 [< 1.0 MB]
+
+[//www2.census.gov/programs-
+surveys/demo/tables/p60/284/table1.xls]
+
+Table 1. Number of People by Health Insurance Coverage Status and Type: 2022
+to 2023 [< 1.0 MB]
+
+[//www2.census.gov/programs-
+surveys/demo/tables/p60/284/table1.pdf]
+
+Appendix A Table 1. Percentage of People by Health Insurance Coverage Status and Type by
+Selected Characteristics: 2022 and 2023 [< 1.0 MB]
+
+[//www2.census.gov/programs-
+surveys/demo/tables/p60/284/tableA1.xls]
+
+Appendix A Table 1. Percentage of People by Health Insurance Coverage Status and Type by
+Selected Characteristics: 2022 and 2023 [< 1.0 MB]
+
+[//www2.census.gov/programs-
+surveys/demo/tables/p60/284/tableA1.pdf]
+
+Appendix A Table 2. Health Insurance Coverage Status and Type by Age and Selected
+Characteristics: 2022 and 2023 [< 1.0 MB]
+
+[//www2.census.gov/programs-
+surveys/demo/tables/p60/284/tableA2.xls]
+
+Appendix A Table 2. Health Insurance Coverage Status and Type by Age and Selected
+Characteristics: 2022 and 2023 [< 1.0 MB]
+
+[//www2.census.gov/programs-
+surveys/demo/tables/p60/284/tableA2.pdf]
+
+Uninsured Rate: 2013-2023 [< 1.0 MB][//www2.census.gov/programs-surveys/demo/tables/p60/284/uninsured-rate.xlsx]
+
+Health Insurance Historical Tables - HHI CPS (2017-2023)
+[//www2.census.gov/programs-
+surveys/demo/tables/health-insurance/time-
+series/hic/hhi01.xlsx]
+
+HHI-01. Health Insurance Coverage Status and Type of Coverage--All Persons by
+Sex, Race and Hispanic Origin: 2017 to 2023 [<1.0 MB]
+
+HHI-02. Health Insurance Coverage Status and Type of Coverage--All
+Persons by Age and Sex: 2017 to 2023 [<1.0 MB]
+
+[//www2.census.gov/programs-surveys/demo/tables/health-
+insurance/time-series/hic/hhi02.xlsx]
+
+HHI-03. Health Insurance Coverage Status and Type of Coverage--Children
+Under 19 by Age: 2017 to 2023 [<1.0 MB]
+
+[//www2.census.gov/programs-surveys/demo/tables/health-
+insurance/time-series/hic/hhi03.xlsx]
+
+HHI-04. Health Insurance Coverage Status and Type of Coverage by
+Nativity: 2017 to 2023 [<1.0 MB]
+
+[//www2.census.gov/programs-surveys/demo/tables/health-
+insurance/time-series/hic/hhi04.xlsx]
+
+HHI-05. Health Insurance Coverage Status for Children Under 19 in
+Poverty: 2017 to 2023 [<1.0 MB]
+
+[//www2.census.gov/programs-surveys/demo/tables/health-
+insurance/time-series/hic/hhi05.xlsx]
+
+Health Insurance Historical Tables - HIC ACS (2008-2023)
+
+HIC-4_ACS. Health Insurance Coverage Status and Type of Coverage by
+State--All Persons: 2008 to 2023 [<1.0 MB]
+
+[//www2.census.gov/programs-surveys/demo/tables/health-
+insurance/time-series/acs/hic04_acs.xlsx]
+
+HIC-5_ACS. Health Insurance Coverage Status and Type of Coverage by
+State--Children Under 19: 2008 to 2023 [<1.0 MB]
+
+[//www2.census.gov/programs-surveys/demo/tables/health-
+insurance/time-series/acs/hic05_acs.xlsx]
+
+HIC-6_ACS. Health Insurance Coverage Status and Type of Coverage by
+State--Persons Under 65: 2008 to 2023 [<1.0 MB]
+
+[//www2.census.gov/programs-surveys/demo/tables/health-
+insurance/time-series/acs/hic06_acs.xlsx]
+
+HIC-9_ACS. Population Without Health Insurance Coverage by Race and
+Hispanic Origin: 2008 to 2023 [<1.0 MB]
+
+[//www2.census.gov/programs-surveys/demo/tables/health-
+insurance/time-series/acs/hic09_acs.xlsx]
+
+Health Insurance Detailed Tables
+
+Table
+
+Health Insurance: Tables 2018-
+forward
+
+Health Insurance Coverage, Current Coverage, and
+Subannual Coverage by Selected Characteristics
+
+[/data/tables/time-series/demo/income-poverty/cps-hi/hi.html]
+
+Table
+
+American Community Survey
+Tables for Health Insurance
+Coverage
+
+Additional health insurance tables using the American
+Community Survey (ACS).
+
+[/data/tables/time-series/demo/health-insurance/acs-hi.html]
+
+Information on confidentiality protection, sampling error, nonsampling error, and definitions is available at
+
+https://www2.census.gov/programs-surveys/cps/techdocs/cpsmar24.pdf [https://www2.census.gov/programs-
+surveys/cps/techdocs/cpsmar24.pdf] .
+
+The U.S. Census Bureau reviewed these data and associated products for unauthorized disclosure of confidential
+information and approved the disclosure avoidance practices applied to this release: Data Management System
+
+(DMS) number: P-7534374, Disclosure Review Board (DRB) approval number: CBDRB-FY24-0436.
+
+Press Release
+
+Press Release
+
+Income, Poverty and Health
+Insurance Coverage in the U.S.:
+2023
+
+September 10, 2024
+
+The U.S. Census Bureau today announced that real median
+household income increased by 4.0% between 2022 and
+2023.
+
+[/newsroom/press-releases/2024/income-poverty-health-insurance-
+coverage.html]
+
+Related Brief
+
+Publication
+
+State Health Insurance
+Coverage: 2013, 2019, and 2023
+
+This brief uses the 2013, 2019 and 2023 American
+Community Survey (ACS) 1-year estimates to examine
+state differences in health insurance coverage by age.
+
+[/library/publications/2024/acs/acsbr-021.html]
+
+Related Info
+
+Working Paper
+
+State Health Insurance Coverage
+of Adults 19 to 64: 2013, 2019,
+2023
+
+This paper uses 2013, 2019 and 2023 American
+Community Survey 1-year estimates to examine state
+differences in health insurance coverage for working-age
+adults.
+
+[/library/working-papers/2024/demo/sehsd-wp2024-25.html]
+
+Blog
+
+Health Insurance Coverage
+Measurement in Two Major
+Surveys
+
+September 04, 2024
+
+This blog provides an overview of key similarities and
+differences between CPS ASEC and ACS health insurance
+coverage measures.
+
+[/newsroom/blogs/random-samplings/2024/09/health-insurance-
+coverage-measurement.html]
+
+Others in Series
+
+Using Administrative Data to
+Evaluate Nonresponse Bias
+
+September 10, 2024
+
+In the latest annual income report, the Census Bureau
+tabulates the national income distribution using survey
+responses collected as part of the 2024 CPS ASEC.
+
+[/newsroom/blogs/research-matters/2024/09/administrative-data-
+nonresponse-bias-cps-asec.html]
+
+Income in the United States:
+2023
+
+Poverty in the United States:
+2023
+
+September 10, 2024
+
+September 10, 2024
+
+This report presents data on income, earnings, & income
+inequality in the United States based on information
+collected in the 2024 and earlier CPS ASEC.
+
+This report presents data on poverty in the United States
+based on information collected in the 2024 and earlier CPS
+ASEC.
+
+[/library/publications/2024/demo/p60-282.html]
+
+[/library/publications/2024/demo/p60-283.html]
+
+Health Insurance Coverage in the
+United States: 2023
+
+September 10, 2024
+
+This report presents data on health insurance coverage in
+the United States in 2023 based on information collected
+in the 2024 CPS ASEC.
+
+[/library/publications/2024/demo/p60-284.html]
+
+Related Information
+
+Health Insurance Publications [/topics/health/health-insurance/library/publications.html]
+
+Page Last Revised - September 11, 2024
+
+

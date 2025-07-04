@@ -1,0 +1,310 @@
+United States Census Bureau | An official website of the United States Government
+
+2023
+
+Code Lists
+
+Detailed codes for
+
+variables that contain a
+large number of coded
+
+responses, such as
+
+ancestry and occupation.
+
+[https://www2.census.
+gov/programs-
+surveys/acs/tech_doc
+s/code_lists/2023_AC
+S_Code_Lists.xlsx]
+
+2023
+Code
+List
+[1.0
+MB]
+
+Instructions for
+Applying
+Statistical
+Testing
+
+Basic instructions for
+
+obtaining the ACS
+
+standard errors needed to
+
+do manual statistical
+testing.
+
+[https://www2.ce
+nsus.gov/progra
+ms-
+surveys/acs/tech
+_docs/statistical
+_testing/2023_In
+structions_for_St
+at_Testing_ACS.p
+df]
+
+2023
+Instruction
+s for
+Applying
+Statistical
+Testing to
+ACS 1-
+year and
+5-year
+Data
+
+Subject
+Definitions
+
+Definitions of population
+
+and housing variables to
+help you understand the
+results of the American
+Community Survey
+
+[https://www2.census
+.gov/programs-
+surveys/acs/tech_doc
+s/subject_definitions/
+2023_ACSSubjectDefi
+nitions.pdf]
+
+2023
+Subje
+ct
+Defini
+tions
+[1.4
+MB]
+
+Worked
+Examples for
+Approximating
+Margins of Error
+
+Worked Examples on
+approximating standard
+errors for various types of
+
+ACS estimates.
+
+[https://www2.cen
+sus.gov/programs-
+surveys/acs/tech_
+docs/accuracy/202
+3_ACS_Accuracy_D
+ocument_Worked_
+Examples.pdf]
+
+2023
+Worked
+Example
+s for
+Approxi
+mating
+Margins
+of Error
+
+Group Quarters
+Definitions
+
+Statistical
+Testing Tool
+
+Definitions for classifying
+group living situations
+according to the type of
+housing and/or services
+provided
+
+[https://www2.cens
+us.gov/programs-
+surveys/acs/tech_d
+ocs/group_definitio
+ns/2023GQ_Definiti
+ons.pdf]
+
+2023
+Group
+Quarter
+s
+Definiti
+ons
+
+Spreadsheet to quickly test
+whether ACS estimates
+are statistically different
+from one another.
+
+[https://www.census.g
+ov/programs-
+surveys/acs/guidance
+/statistical-testing-
+tool.html]
+
+Statis
+tical
+Testi
+ng
+Tool
+
+[<1.0
+MB]
+
+Accuracy of the
+Data
+
+Comparison
+Guidance
+
+A basic explanation of the
+
+Learn more about
+
+sample design, estimation
+
+comparing the 2023 ACS
+
+methodology, and
+
+with 2020 Census, 2010
+
+accuracy of the data.
+
+Census, and 5-year to 5-
+
+[https://www2.cen
+sus.gov/programs-
+surveys/acs/tech_
+docs/accuracy/AC
+S_Accuracy_of_Da
+ta_2023.pdf]
+
+year estimates.
+
+[https://www.census.
+gov/programs-
+surveys/acs/guidanc
+e/comparing-acs-
+data/2023.html]
+
+2023
+Comp
+arison
+Guida
+nce
+
+[https://www2.ce
+nsus.gov/progra
+ms-
+surveys/acs/tech
+_docs/accuracy/
+PRCS_Accuracy_
+of_Data_2023.pdf
+]
+
+Jam Values
+
+Character or numeric
+values used to explain the
+
+absence of data.
+
+2023
+ACS 1-
+year
+Accuracy
+of the
+Data (US)
+[<1.0 MB]
+
+2023
+PRCS 1-
+year
+Accuracy
+of the
+Data
+(Puerto
+Rico)
+[<1.0 MB]
+
+[https://www2.census.
+gov/programs-
+surveys/acs/tech_docs
+/jam_values/2023_Jam
+_Values.xlsx]
+
+Jam
+Valu
+es
+[1.0
+MB]
+
+[https://www2.cen
+sus.gov/programs
+-
+surveys/acs/tech_
+docs/accuracy/M
+ultiyearACSAccura
+cyofData2023.pdf]
+
+2019-
+2023 ACS
+5-year
+Accuracy
+of the
+Data (US)
+[<1.0 MB]
+
+[https://www2.ce
+nsus.gov/progra
+ms-
+surveys/acs/tech
+_docs/accuracy/
+MultiyearPRCSAc
+curacyofData202
+3.pdf]
+
+2019-
+2023
+PRCS 5-
+year
+Accuracy
+of the Data
+(Puerto
+Rico) [<1.0
+MB]
+
+Table Shells and
+Table List
+
+Learn more about the
+
+layout of the tables and
+
+information about tables.
+
+Table
+Shells
+and
+Table
+List
+
+[https://www.census.
+gov/programs-
+surveys/acs/technical
+-
+documentation/table-
+shells.html]
+
+Page Last Revised - April 29, 2025
+
+

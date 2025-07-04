@@ -1,0 +1,3792 @@
+The Emergency and Transitional Shelter 
+Population: 2020
+2020 Census Special Reports
+
+By William Koerber, Erik Schmidt, and Steven Wilson
+
+October 2024
+
+C2020SR-01
+
+Acknowledgments
+
+This report was prepared by William Koerber, Erik Schmidt, and  
+Steven Wilson of the U.S. Census Bureau.
+
+General direction was provided by Jason Devine, assistant division chief 
+for Census Programs, with additional direction provided by Karen Battle, 
+chief of the Population Division, and Victoria Velkoff, associate director for 
+Demographic Programs.
+
+The authors thank Lindsay Spell and Linda Orsini for assistance with the 
+county population map.
+
+We appreciate the thorough review by Marc J. Perry from the Population 
+Division. Additional editorial and review assistance were provided by  
+Amy Symens Smith, Tiangeng Lu, Brynn Epstein, and Theodore Charm.
+
+Christine E. Geter, Andrew Quach, and Stacey Barber provided publication 
+management, graphic design and composition, editorial review, and 
+508 compliancy for print and electronic media under the direction of 
+Corey Beasley, chief of the Graphic and Editorial Services Branch, Public 
+Information Office.
+
+The Emergency and Transitional 
+
+Shelter Population: 2020 Issued October 2024
+
+C2020SR-01
+
+U.S. Census Bureau 
+Robert L. Santos,  
+Director
+
+Suggested Citation
+
+William Koerber, Erik Schmidt, and 
+Steven Wilson, 
+U.S. Census Bureau,
+
+2020 Census Special Reports, 
+
+C2020SR-01, 
+
+The Emergency and Transitional 
+Shelter Population: 2020,
+
+U.S. Government Publishing Office,
+
+Washington, DC,
+
+October 2024.
+
+U.S. CENSUS BUREAU 
+Robert L. Santos, 
+Director 
+
+Ron S. Jarmin, 
+Deputy Director and Chief Operating Officer
+
+Victoria A. Velkoff, 
+Associate Director for Demographic Programs
+
+Karen Battle, 
+Chief, Population Division
+
+Contents
+
+Text
+
+Introduction  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   1
+
+Age and Sex Composition . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   2
+
+Age and Sex Structure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   3
+
+Race and Hispanic Origin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   5
+
+The Emergency and Transitional Shelter Population by Geography  . . .   6
+
+Methodology and Source of Data  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   15
+
+About the 2020 Census . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   15
+
+For More Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   16
+
+Tables
+
+Table 1. Total, Group Quarters, and Emergency and Transitional  
+
+Shelter Populations by Sex and Selected Age Groups: 2020  . . . . . . .   3
+
+Table 2. Total, Group Quarters, and Emergency and Transitional Shelter 
+
+Populations by Hispanic or Latino Origin and by Race: 2020 . . . . . . .   5
+
+Table 3. Age and Sex Distribution of the Emergency and Transitional 
+Shelter Population for the United States, Regions, States, and  
+Puerto Rico: 2020 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   7
+
+Table 4. The Emergency and Transitional Shelter Population by Sex  
+and Selected Age Groups for the United States, Regions, States,  
+and Puerto Rico: 2020 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   8
+
+Table 5. Ten Counties With the Largest Population in Emergency  
+
+and Transitional Shelters: 2020  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   14
+
+Table 6. Ten Places With the Largest Population in Emergency  
+
+and Transitional Shelters: 2020  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   14
+
+Table 7. Ten Places With the Largest Percentage of the Group Quarters 
+
+Population in Emergency and Transitional Shelters: 2020 . . . . . . . . . .   15
+
+Figures
+
+Figure 1. The Emergency and Transitional Shelter and Total  
+
+U.S. Populations by Sex and Age: 2020 . . . . . . . . . . . . . . . . . . . . . . . . . .   4
+
+Figure 2. Percentage Distribution of the Emergency and Transitional 
+
+Shelter Population by State: 2020 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   9
+
+Figure 3. The Emergency and Transitional Shelter Population by Sex  
+
+for States: 2020 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   10
+
+Figure 4. The Emergency and Transitional Shelter Population by  
+
+Selected Age Groups for States: 2020 . . . . . . . . . . . . . . . . . . . . . . . . . . .   12
+
+Figure 5. The Emergency and Transitional Shelter Population: 2020 . . .   13
+
+U.S. Census Bureau 
+
+The Emergency and Transitional Shelter Population: 2020  iii 
+
+The Emergency and Transitional Shelter 
+Population: 2020
+
+INTRODUCTION
+
+This report is the third by the 
+U.S. Census Bureau focusing on 
+the population in emergency and 
+transitional shelters and their 
+demographic characteristics.1 
+Special reports were written after 
+the 2000 and 2010 Censuses were 
+conducted.2 The 2020 report is 
+formatted similarly to the 2010 
+report for easier comparison. 
+According to the 2020 Census, 
+there were 188,889 people in 
+emergency and transitional 
+shelters in the United States. This 
+amounted to 2.3 percent of the 8.2 
+million people counted in group 
+quarters (GQs) in the 2020 Census.
+
+Emergency and transitional shelter 
+data were collected as part of 
+service-based enumeration (SBE) 
+during the 2020 Census Group 
+Quarters operations. The 2020 
+SBE provided an opportunity 
+for people without conventional 
+housing or people experiencing 
+homelessness to be included in 
+the census by enumerating them 
+at places where they received 
+services or at preidentified outdoor 
+locations. In addition to emergency 
+and transitional shelters, people 
+were enumerated at soup kitchens, 
+regularly scheduled food vans, and 
+targeted nonsheltered outdoor 
+locations (e.g., people staying 
+
+1 In this report, “emergency and 
+
+transitional shelters” refers to emergency and 
+transitional shelters (with sleeping facilities) 
+for people experiencing homelessness.
+
+2 “The Emergency and Transitional Shelter 
+
+Population: 2010” is available at <www.
+census.gov/library/publications/2012/dec/
+c2010sr-02.html> and “The Emergency 
+and Transitional Shelter Population: 2000” 
+is available at <https://www2.census.gov/
+prod2/2001pubs/censr01-2.pdf>.
+
+2020 DEFINITIONS
+
+Group Quarters
+
+A group quarters is a place where people live or stay, in a group 
+living arrangement that is owned or managed by an entity or 
+organization providing housing and/or services for the residents. 
+These services may include custodial or medical care as well as 
+other types of assistance, and residency is commonly restricted to 
+those receiving these services. This is not a typical household-type 
+living arrangement. People living in group quarters are usually not 
+related to each other.
+
+Group quarters include such places as college residence halls, 
+residential treatment centers, skilled-nursing facilities, group homes, 
+military barracks, correctional facilities, and workers’ dormitories.*
+
+Emergency and Transitional Shelters (With Sleeping Facilities) for 
+People Experiencing Homelessness
+
+Facilities where people experiencing homelessness stay overnight. 
+These include:
+
+•  Shelters that operate on a first-come, first-served basis where 
+
+people must leave in the morning and have no guaranteed bed 
+for the next night.
+
+•  Shelters where people know that they have a bed for a specified 
+
+period of time (even if they leave the building every day). 
+
+•  Shelters that provide temporary shelter during extremely cold 
+weather (such as churches). This category does not include 
+shelters that operate only in the event of a natural disaster.
+
+Examples are emergency and transitional shelters; missions; hotels 
+and motels used to shelter people experiencing homelessness; 
+shelters for children who are runaways, neglected, or experiencing 
+homelessness; and similar places known to have people experienc-
+ing homelessness.
+
+* Documentation at <https://www2.census.gov/programs-surveys/decennial/2020/
+
+technical-documentation/complete-tech-docs/demographic-and-housing-
+characteristics-file-and-demographic-profile/2020census-demographic-and-housing-
+characteristics-file-and-demographic-profile-techdoc.pdf>.
+
+U.S. Census Bureau 
+
+The Emergency and Transitional Shelter Population: 2020  1 
+
+outside in certain preidentified 
+places like encampments under 
+bridges or in parking lots).3
+
+The 2020 SBE was scheduled 
+for March 30–April 1, 2020, but 
+because of the onset of the 
+COVID-19 pandemic in the United 
+States, SBE was rescheduled to 
+September 22–24, 2020.4 In cases 
+where a person enumerated at 
+a shelter was also enumerated 
+elsewhere, or indicated another 
+location where they sometimes live 
+or stay, the person was counted at 
+the shelter.5
+
+The Census Bureau cautions data 
+users that any attempt to use the 
+results from SBE as a measure 
+of the overall number of people 
+experiencing homelessness would 
+be inaccurate. The population 
+at emergency and transitional 
+shelters and other service-
+based GQs represents only part 
+of the population experiencing 
+homelessness. The Census Bureau 
+does not produce or publish data 
+specifically on the population 
+experiencing homelessness, but 
+during the decennial census, we 
+do enumerate people at certain 
+types of facilities that serve the 
+population. People experiencing 
+
+3 Details about the 2020 Census 
+Group Quarters operations including 
+the service-based enumeration can be 
+found in the “Group Quarters Operation 
+Detailed Operational Plan v2.0” at <https://
+www2.census.gov/programs-surveys/
+decennial/2020/program-management/
+planning-docs/GQ_detailed_operational_
+plan-v2.pdf>.
+
+4 The effects of COVID-19 on the 2020 
+Census can be found in the “2020 Census 
+Topic Report: Potential Quality Impact 
+of the COVID-19 Pandemic” at <https://
+www2.census.gov/programs-surveys/
+decennial/2020/program-management/
+evaluate-docs/EAE-2020-quality-impact-
+covid19.pdf>.
+
+5 Where people are counted was 
+determined by the official residence 
+criteria and residence situations for the 
+2020 Census. More information is available 
+at <www.census.gov/programs-surveys/
+decennial-census/decade/2020/about/
+residence-rule.html>.
+
+homelessness may also be 
+enumerated in other decennial 
+census operations. For instance, 
+people in shelters that operate 
+only in an event of a natural 
+disaster are counted apart from 
+the SBE operations but included 
+in the noninstitutionalized GQ 
+population. People who were 
+experiencing homelessness and 
+were temporarily staying with 
+friends were counted as part of 
+other operations, using housing 
+unit enumeration procedures. In 
+addition, the internet self-response 
+option (introduced in the 2020 
+Census) allowed people to respond 
+with a location description for 
+their residence in lieu of a specific 
+address. None of these operations 
+separately identified people 
+experiencing homelessness. While 
+the Census Bureau mounted 
+extensive operations to obtain 
+a comprehensive enumeration, 
+we will not produce a separate 
+tabulation of the number of people 
+experiencing homelessness.
+
+AGE AND SEX COMPOSITION
+
+There were more males than 
+females in emergency and 
+transitional shelters.
+
+Males accounted for 112,267, or 
+59.4 percent, of the 188,889 people 
+in emergency and transitional 
+shelters (Table 1). Compared with 
+the female population of 76,622, 
+this equated to 147 males for every 
+100 females in shelters, which was 
+comparable to the 140 males for 
+every 100 females in the overall GQ 
+population but much larger than 
+the 96 males for every 100 females 
+in the total U.S. population.
+
+Males in emergency and 
+transitional shelters represented 
+2.3 percent of the male GQ 
+population, compared with females 
+in emergency and transitional 
+
+shelters, who represented 
+2.2 percent of the female GQ 
+population. 
+
+The majority of the population 
+in emergency and transitional 
+shelters were 18 to 64 years old.
+
+There were 143,587 people 
+aged 18 to 64 in emergency 
+and transitional shelters. This 
+accounted for 76.0 percent of 
+the shelter population, which 
+was slightly higher than the 75.9 
+percent of the GQ population aged 
+18 to 64 but much greater than the 
+61.1 percent of the total population 
+aged 18 to 64.
+
+Almost one-sixth of the GQ 
+population under the age of 
+18 were in emergency and 
+transitional shelters.
+
+The age group distributions 
+differed between the emergency 
+and transitional shelter population 
+and the GQ population at younger 
+and older ages. Those under the 
+age of 18 were 17.5 percent of 
+the emergency and transitional 
+shelter population, compared with 
+2.5 percent of the GQ population 
+and 22.1 percent of the total 
+population. Accordingly, of people 
+younger than the age of 18 who 
+lived in GQs, almost one-sixth, 16.4 
+percent, were in emergency and 
+transitional shelters.
+
+There were more males aged 
+65 and over in emergency and 
+transitional shelters than females.
+
+For the total U.S. population, 
+there were 25.0 million males 
+aged 65 and over compared 
+with 30.8 million females, or 
+81 males to every 100 females. 
+The ratio was more skewed for 
+the GQ population aged 65 and 
+over, where there were 58 males 
+to every 100 females. However, 
+
+2 The Emergency and Transitional Shelter Population: 2020 
+
+U.S. Census Bureau 
+
+Table 1.
+Total, Group Quarters, and Emergency and Transitional Shelter Populations by Sex and Selected 
+Age Groups: 2020
+
+Total  
+population
+
+Group quarters  
+population
+
+Emergency and transitional shelter  
+population
+
+Sex and selected  
+age group
+
+Number
+
+Percent
+
+Number
+
+Percent
+
+Number
+
+Percent
+
+Both sexes, all ages . . . . . . . 331,449,281
+Under 18 years . . . . . . . . . . . .
+73,106,000
+18 to 64 years . . . . . . . . . . . . . 202,550,780
+65 years and over  . . . . . . . . .
+55,792,501
+
+Median age . . . . . . . . . . . . . . .
+
+38.8
+
+Male, all ages . . . . . . . . . . . . 162,685,811
+Under 18 years . . . . . . . . . . . .
+37,380,346
+18 to 64 years . . . . . . . . . . . . . 100,306,345
+65 years and over  . . . . . . . . .
+24,999,120
+
+Median age . . . . . . . . . . . . . . .
+
+37.5
+
+Female, all ages . . . . . . . . . . 168,763,470
+Under 18 years . . . . . . . . . . . .
+35,725,654
+18 to 64 years . . . . . . . . . . . . . 102,244,435
+65 years and over  . . . . . . . . .
+30,793,381
+
+Median age . . . . . . . . . . . . . . .
+
+39.9
+
+100.0
+22.1
+61.1
+16.8
+
+X
+
+100.0
+23.0
+61.7
+15.4
+
+X
+
+100.0
+21.2
+60.6
+18.2
+
+X
+
+8,239,016
+202,378
+6,252,313
+1,784,325
+
+31.5
+
+4,812,083
+117,757
+4,038,904
+655,422
+
+32.4
+
+3,426,933
+84,621
+2,213,409
+1,128,903
+
+28.1
+
+100.0
+2.5
+75.9
+21.7
+
+X
+
+100.0
+2.4
+83.9
+13.6
+
+X
+
+100.0
+2.5
+64.6
+32.9
+
+X
+
+188,889
+33,116
+143,587
+12,186
+
+39.8
+
+112,267
+17,016
+87,281
+7,970
+
+43.6
+
+76,622
+16,100
+56,306
+4,216
+
+34.7
+
+100.0
+17.5
+76.0
+6.5
+
+X
+
+100.0
+15.2
+77.7
+7.1
+
+X
+
+100.0
+21.0
+73.5
+5.5
+
+X
+
+Percent 
+of group 
+quarters 
+population
+
+2.3
+16.4
+2.3
+0.7
+
+X
+
+2.3
+14.5
+2.2
+1.2
+
+X
+
+2.2
+19.0
+2.5
+0.4
+
+X
+
+X Not applicable.
+Note: Percentages may not sum up to 100.0 due to rounding. For information on data collection, confidentiality protection, nonsampling 
+error, and definitions, refer to <https://www2.census.gov/programs-surveys/decennial/2020/technical-documentation/complete-tech-docs/
+demographic-and-housing-characteristics-file-and-demographic-profile/2020census-demographic-and-housing-characteristics-file-and-
+demographic-profile-techdoc.pdf>. 
+
+Source: U.S. Census Bureau, 2020 Census Demographic and Housing Characteristics File (DHC) and 2020 Census Microdata Detail File (MDF). 
+The U.S. Census Bureau reviewed this data product for unauthorized disclosure of confidential information and approved the disclosure avoidance 
+practices applied to this release: CBDRB-FY22-DSEP-004.
+
+for emergency and transitional 
+shelters, there were 189 males to 
+every 100 females that were aged 
+65 and over. For those under the 
+age of 18, there were 106 males 
+to 100 females in emergency and 
+transitional shelters, 139 males to 
+100 females in all GQs, and 105 
+males to 100 females in the total 
+population. 
+
+Despite a smaller proportion 
+of people aged 65 and over, 
+the emergency and transitional 
+shelters population had a higher 
+median age than the total or GQ 
+population.
+
+In 2020, 12,186 people, or 6.5 
+percent of the emergency and 
+transitional shelter population, was 
+aged 65 and over. This was smaller 
+than the 21.7 percent of the GQ 
+
+population and 16.8 percent of the 
+total population that was aged 65 
+and over. Despite this, the median 
+age of people in shelters was over 
+8 years older than people in GQs 
+(39.8 years versus 31.5 years) and 
+1 year older than people in the 
+total population (38.8 years). The 
+median age for males in shelters 
+(43.6 years) was greater than 
+males in the total population 
+(37.5 years), despite males aged 
+65 and over being 15.4 percent 
+of the total male population and 
+only 7.1 percent of the males in 
+the emergency and transitional 
+shelter population. In comparison, 
+the percentage of females aged 65 
+and over (18.2 percent) in the total 
+female population was larger than 
+in the emergency and transitional 
+shelter female population (5.5 
+
+percent), and the median age for 
+females in the total population 
+(39.9 years) was greater than 
+females in the emergency and 
+transitional shelter population 
+(34.7 years). 
+
+AGE AND SEX STRUCTURE
+
+Population pyramids further 
+illustrate the variation in age and 
+sex distributions between the 
+emergency and transitional  
+shelter population and the total  
+U.S. population. The percentages 
+of the populations that were male 
+or female are shown by single  
+year of age (Figure 1). The age  
+and sex pyramid for the total  
+U.S. population is superimposed 
+on the emergency and transitional 
+shelter population to present the 
+differences between the two.
+
+U.S. Census Bureau 
+
+The Emergency and Transitional Shelter Population: 2020  3 
+
+Figure 1.
+The Emergency and Transitional Shelter and Total U.S. Populations by Sex and Age: 2020
+
+Age
+
+100+
+
+95
+
+90
+
+85
+
+80
+
+75
+
+70
+
+65
+
+60
+
+55
+
+50
+
+45
+
+40
+
+35
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+2.0
+
+Male
+
+Female
+
+Emergency and transitional 
+shelter population
+U.S. population
+
+1.5
+
+1.0
+
+0.5
+
+0.0
+
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+Percent
+
+Note: For information on data collection, conﬁdentiality protection, nonsampling error, and deﬁnitions, refer to 
+<https://www2.census.gov/programs-surveys/decennial/2020/technical-documentation/complete-tech-docs/demographic-and-
+housing-characteristics-ﬁle-and-demographic-proﬁle/2020census-demographic-and-housing-characteristics-ﬁle-and-demographic-proﬁle-
+techdoc.pdf>.
+Source: U.S. Census Bureau, 2020 Census Microdata Detail File (MDF). The U.S. Census Bureau reviewed this data product for 
+unauthorized disclosure of conﬁdential information and approved the disclosure avoidance practices applied to this release: 
+CBDRB-FY22-DSEP-004.
+
+4 The Emergency and Transitional Shelter Population: 2020 
+
+U.S. Census Bureau 
+
+The youngest ages represented 
+larger proportions of the popula-
+tion in emergency and transitional 
+shelters than in the total popu-
+lation but, starting at age 4 for 
+females and age 5 for males, the 
+proportions in the total population 
+were larger. This pattern contin-
+ued for both sexes through their 
+early 20s until the proportions of 
+males in shelters were much larger 
+than those in the total population, 
+peaking at 57. Most ages beyond 
+65 had larger proportions for both 
+sexes in the total population than 
+in the emergency and transitional 
+shelter population.
+
+Females in the total U.S. popula-
+tion and in the emergency and 
+transitional shelter population had 
+similar percentages from their mid-
+30s to their mid-50s. Females of 
+most ages from their mid-50s and 
+older represented larger propor-
+tions of the total population than 
+
+the emergency and transitional 
+shelter population. 
+
+RACE AND HISPANIC ORIGIN
+
+Most of the emergency and 
+transitional shelter population 
+reported one race, either Black or 
+White.
+
+In 2020, 97.2 percent, or 183,506, 
+of the emergency and transitional 
+shelter population reported 
+one race (Table 2). This was a 
+larger percentage than in the GQ 
+population (96.4 percent) or the 
+total population (89.8 percent). 
+
+A plurality, 46.4 percent of people, 
+in emergency and transitional 
+shelters were Black or African 
+American alone (87,587 people), 
+followed by White alone (73,804 
+people or 39.1 percent). While 
+White alone and Black alone 
+populations were roughly equal 
+proportions of the shelter 
+
+population, the GQ population and 
+the total population were primarily 
+White alone (62.0 percent and 61.6 
+percent, respectively).
+
+The American Indian and Alaska 
+Native alone group accounted 
+for 1.9 percent (3,506 people) of 
+the emergency and transitional 
+shelter population, while the 
+Native Hawaiian and Other Pacific 
+Islander alone group accounted for 
+0.7 percent (1,257 people). Both 
+race groups accounted for larger 
+proportions of the emergency and 
+transitional shelter population than 
+of the GQ or total populations. The 
+American Indian and Alaska Native 
+alone and the Native Hawaiian and 
+Other Pacific Islander populations 
+accounted for 1.1 percent and 0.3 
+percent, respectively, of the GQ 
+population, and 1.1 percent and 0.2 
+percent, respectively, of the total 
+population.
+
+Table 2.
+Total, Group Quarters, and Emergency and Transitional Shelter Populations by Hispanic or Latino 
+Origin and by Race: 2020
+
+Hispanic or Latino origin and race
+
+Total  
+population
+
+Group quarters 
+population
+
+Emergency and 
+transitional shelter 
+population
+
+Number
+
+Percent
+
+Number
+
+Percent
+
+Number
+
+Percent
+
+Hispanic or Latino Origin and Race
+   Total . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Hispanic or Latino . . . . . . . . . . . . . . . . . . . . . . . . . .
+Not Hispanic or Latino . . . . . . . . . . . . . . . . . . . . . .
+ White alone . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Race
+   Total . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+One race  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ White . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ Black or African American . . . . . . . . . . . . . . . . .
+ American Indian and Alaska Native . . . . . . . . .
+ Asian . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ Native Hawaiian and Other Pacific Islander . .
+ Some Other Race . . . . . . . . . . . . . . . . . . . . . . . . .
+Two or More Races . . . . . . . . . . . . . . . . . . . . . . . . .
+
+331,449,281
+62,080,044
+269,369,237
+191,697,647
+
+331,449,281
+297,600,338
+204,277,273
+41,104,200
+3,727,135
+19,886,049
+689,966
+27,915,715
+33,848,943
+
+100.0
+18.7
+81.3
+57.8
+
+100.0
+89.8
+61.6
+12.4
+1.1
+6.0
+0.2
+8.4
+10.2
+
+8,239,016
+1,179,750
+7,059,266
+4,722,186
+
+8,239,016
+7,939,744
+5,104,338
+1,708,602
+92,497
+372,234
+22,294
+639,779
+299,272
+
+100.0
+14.3
+85.7
+57.3
+
+100.0
+96.4
+62.0
+20.7
+1.1
+4.5
+0.3
+7.8
+3.6
+
+188,889
+38,950
+149,939
+60,591
+
+188,889
+183,506
+73,804
+87,587
+3,506
+2,262
+1,257
+15,090
+5,383
+
+100.0
+20.6
+79.4
+32.1
+
+100.0
+97.2
+39.1
+46.4
+1.9
+1.2
+0.7
+8.0
+2.8
+
+Note: Percentages may not sum up to 100.0 due to rounding. For information on data collection, confidentiality protection, nonsampling 
+error, and definitions, refer to <https://www2.census.gov/programs-surveys/decennial/2020/technical-documentation/complete-tech-docs/
+demographic-and-housing-characteristics-file-and-demographic-profile/2020census-demographic-and-housing-characteristics-file-and-
+demographic-profile-techdoc.pdf>.
+
+Source: U.S. Census Bureau, 2020 Census Demographic and Housing Characteristics File (DHC) and 2020 Census Microdata Detail File 
+(MDF). The U.S. Census Bureau reviewed this data product for unauthorized disclosure of confidential information and approved the disclosure 
+avoidance practices applied to this release: CBDRB-FY22-DSEP-004.
+
+U.S. Census Bureau 
+
+The Emergency and Transitional Shelter Population: 2020  5 
+
+The Asian alone population 
+had a smaller proportion in the 
+emergency and transitional shelter 
+population (1.2 percent) compared 
+with the GQ population (4.5 
+percent) or the total population 
+(6.0 percent). 
+
+In addition, people of Hispanic or 
+Latino origin (who may be any 
+race) represented 20.6 percent, or 
+38,950 people, of the emergency 
+and transitional shelter population. 
+Both the GQ population and 
+the total population had lower 
+concentrations of Hispanics 
+(14.3 percent and 18.7 percent, 
+respectively). Of people in the 
+emergency and transitional shelter 
+population, 32.1 percent (60,591 
+people) reported they were non-
+Hispanic White alone. This was 
+much lower than the proportion 
+of non-Hispanic White alone 
+population in the GQ population 
+(57.3 percent) and the total 
+population (57.8 percent). 
+
+THE EMERGENCY AND 
+TRANSITIONAL SHELTER 
+POPULATION BY GEOGRAPHY
+
+United States
+
+Nationally, just over half of the 
+population in emergency and 
+transitional shelters were adult 
+males.
+
+At the national level, males and 
+females under the age of 18 had 
+nearly equal proportions of the 
+total emergency and transitional 
+shelter population at 9.0 and 8.5 
+percent, respectively (Table 3). 
+Males aged 18 and over were 50.4 
+percent of the national shelter 
+population, while females aged 18 
+and over were 32.0 percent of the 
+population.
+
+Region
+
+The Northeast accounted for the 
+largest proportion of the nation’s 
+emergency and transitional shelter 
+population.
+
+Among the four census regions, 
+the largest emergency and 
+transitional shelter population 
+was in the Northeast (82,757 
+or 43.8 percent of the national 
+emergency and transitional shelter 
+population), followed by the West 
+(49,805 or 26.4 percent), the 
+South (35,614 or 18.9 percent), 
+and the Midwest (20,713 or 11.0 
+percent) (Table 4).6
+
+The Northeast had the smallest 
+ratio of males to females in 
+emergency and transitional 
+shelters.
+
+Every region had more males 
+than females in emergency 
+and transitional shelters, but 
+the sex ratios of males to 100 
+females varied. In emergency 
+and transitional shelters in the 
+Northeast, there were 126 males 
+for every 100 females. The number 
+of males was higher in the other 
+regions, with the West having 156 
+males, the South 167 males, and 
+the Midwest 187 males.
+
+6 The Northeast region includes 
+Connecticut, Maine, Massachusetts, 
+New Hampshire, New Jersey, New York, 
+Pennsylvania, Rhode Island, and Vermont. 
+The Midwest includes Illinois, Indiana, Iowa, 
+Kansas, Michigan, Minnesota, Missouri, 
+Nebraska, North Dakota, Ohio, South Dakota, 
+and Wisconsin. The South includes Alabama, 
+Arkansas, Delaware, the District of Columbia, 
+Florida, Georgia, Kentucky, Louisiana, 
+Maryland, Mississippi, North Carolina, 
+Oklahoma, South Carolina, Tennessee, 
+Texas, Virginia, and West Virginia. The 
+West includes Alaska, Arizona, California, 
+Colorado, Hawaii, Idaho, Montana, Nevada, 
+New Mexico, Oregon, Utah, Washington, and 
+Wyoming.
+
+The Northeast had almost 
+two-thirds of the juveniles in 
+emergency and transitional 
+shelters.
+
+The Northeast had the largest 
+emergency and transitional shelter 
+population in total and by age 
+groups under 18 (21,077 or 63.6 
+percent of the under-18-years 
+shelter population) and 18 and 
+over (61,680 or 39.6 percent of the 
+18-and-over shelter population). 
+The Midwest had the smallest 
+emergency and transitional shelter 
+population in total and for both 
+age groups with 7.9 percent 
+(2,603) of those under the age of 
+18 and 11.6 percent (18,110) of those 
+aged 18 and over.
+
+States
+
+Most people in emergency and 
+transitional shelters lived in New 
+York and California.
+
+New York had both the largest 
+emergency and transitional shelter 
+population with 67,739 (35.9 
+percent) (Table 4 and Figure 2). 
+California was next with 30,245 
+(16.0 percent), followed by Texas 
+(6,074 or 3.2 percent), Florida 
+(5,614 or 3.0 percent), and 
+Washington (5,439 or 2.9 percent). 
+The District of Columbia and 28 
+other states had emergency and 
+transitional shelter populations 
+between 1,000 and 5,000. 
+Seventeen states and Puerto Rico 
+had shelter populations of less 
+than 1,000.
+
+6 The Emergency and Transitional Shelter Population: 2020 
+
+U.S. Census Bureau 
+
+Table 3.
+Age and Sex Distribution of the Emergency and Transitional Shelter Population for the United 
+States, Regions, States, and Puerto Rico: 2020
+
+Area
+
+   United States . . . .
+Region
+Northeast  . . . . . . . . . . . . .
+Midwest . . . . . . . . . . . . . . .
+South . . . . . . . . . . . . . . . . .
+West . . . . . . . . . . . . . . . . . .
+
+State
+Alabama  . . . . . . . . . . . . . .
+Alaska. . . . . . . . . . . . . . . . .
+Arizona  . . . . . . . . . . . . . . .
+Arkansas . . . . . . . . . . . . . .
+California . . . . . . . . . . . . . .
+Colorado . . . . . . . . . . . . . .
+Connecticut  . . . . . . . . . . .
+Delaware . . . . . . . . . . . . . .
+District of Columbia  . . . .
+Florida . . . . . . . . . . . . . . . .
+Georgia  . . . . . . . . . . . . . . .
+Hawaii. . . . . . . . . . . . . . . . .
+Idaho  . . . . . . . . . . . . . . . . .
+Illinois . . . . . . . . . . . . . . . . .
+Indiana . . . . . . . . . . . . . . . .
+Iowa . . . . . . . . . . . . . . . . . .
+Kansas . . . . . . . . . . . . . . . .
+Kentucky . . . . . . . . . . . . . .
+Louisiana . . . . . . . . . . . . . .
+Maine . . . . . . . . . . . . . . . . .
+Maryland . . . . . . . . . . . . . .
+Massachusetts  . . . . . . . . .
+Michigan  . . . . . . . . . . . . . .
+Minnesota . . . . . . . . . . . . .
+Mississippi . . . . . . . . . . . . .
+Missouri . . . . . . . . . . . . . . .
+Montana . . . . . . . . . . . . . . .
+Nebraska . . . . . . . . . . . . . .
+Nevada . . . . . . . . . . . . . . . .
+New Hampshire . . . . . . . .
+New Jersey . . . . . . . . . . . .
+New Mexico. . . . . . . . . . . .
+New York . . . . . . . . . . . . . .
+North Carolina . . . . . . . . .
+North Dakota . . . . . . . . . .
+Ohio . . . . . . . . . . . . . . . . . .
+Oklahoma . . . . . . . . . . . . .
+Oregon . . . . . . . . . . . . . . . .
+Pennsylvania . . . . . . . . . . .
+Rhode Island . . . . . . . . . . .
+South Carolina . . . . . . . . .
+South Dakota . . . . . . . . . .
+Tennessee . . . . . . . . . . . . .
+Texas . . . . . . . . . . . . . . . . . .
+Utah . . . . . . . . . . . . . . . . . .
+Vermont . . . . . . . . . . . . . . .
+Virginia . . . . . . . . . . . . . . . .
+Washington . . . . . . . . . . . .
+West Virginia  . . . . . . . . . .
+Wisconsin . . . . . . . . . . . . .
+Wyoming . . . . . . . . . . . . . .
+
+Puerto Rico . . . . . . . . . . . .
+
+Male
+
+Female
+
+Under 18 years
+
+18 years and over
+
+Under 18 years
+
+18 years and over
+
+9.0
+
+12.9
+6.5
+6.9
+5.1
+
+6.5
+1.1
+10.2
+3.6
+5.1
+5.3
+4.8
+6.1
+13.1
+6.5
+6.5
+5.5
+6.2
+5.0
+5.8
+7.1
+6.8
+3.0
+1.9
+8.4
+6.7
+5.7
+5.6
+9.6
+1.6
+3.9
+5.7
+5.3
+0.7
+7.6
+5.7
+3.1
+14.3
+12.6
+5.7
+7.1
+3.7
+3.4
+8.4
+3.9
+2.1
+8.1
+1.2
+5.7
+11.1
+7.9
+5.4
+3.8
+3.0
+6.7
+14.8
+
+1.0
+
+50.4
+
+42.8
+58.7
+55.7
+55.9
+
+49.8
+75.2
+51.9
+60.4
+53.8
+55.7
+59.0
+50.9
+41.3
+50.8
+61.6
+47.4
+57.8
+57.9
+62.9
+58.3
+60.2
+64.2
+63.0
+44.6
+52.5
+51.5
+58.4
+54.2
+59.0
+62.2
+61.9
+65.3
+90.2
+54.1
+57.0
+64.9
+40.2
+47.2
+70.9
+58.5
+69.4
+57.1
+55.7
+58.9
+73.4
+42.5
+66.1
+61.3
+39.0
+52.1
+54.9
+61.8
+53.5
+56.3
+39.3
+
+79.6
+
+8.5
+
+12.5
+6.0
+6.0
+4.7
+
+5.9
+0.9
+8.0
+2.5
+4.8
+6.6
+5.3
+8.6
+12.8
+6.8
+4.2
+6.8
+4.0
+5.6
+5.6
+5.8
+5.3
+3.9
+2.6
+4.0
+5.0
+4.6
+5.4
+9.4
+3.3
+3.3
+4.5
+2.5
+0.1
+6.5
+6.0
+2.3
+14.0
+7.6
+5.0
+6.9
+2.9
+3.5
+7.5
+5.7
+3.1
+3.8
+1.3
+4.7
+8.7
+6.1
+5.5
+3.3
+1.8
+5.6
+12.6
+
+0.7
+
+32.0
+
+31.7
+28.8
+31.5
+34.3
+
+37.7
+22.8
+30.0
+33.6
+36.4
+32.4
+30.9
+34.4
+32.7
+35.9
+27.7
+40.3
+32.0
+31.5
+25.6
+28.8
+27.6
+28.9
+32.6
+43.1
+35.8
+38.2
+30.5
+26.8
+36.1
+30.6
+27.8
+26.9
+8.9
+31.8
+31.2
+29.7
+31.5
+32.6
+18.4
+27.4
+24.0
+36.1
+28.4
+31.5
+21.4
+45.6
+31.3
+28.3
+41.2
+33.9
+34.2
+31.2
+41.8
+31.4
+33.3
+
+18.7
+
+Note: Percentages may not sum up to 100.0 due to rounding. For information on data collection, confidentiality protection, nonsampling error, and definitions, refer 
+
+to <https://www2.census.gov/programs-surveys/decennial/2020/technical-documentation/complete-tech-docs/demographic-and-housing-characteristics-file-and-
+demographic-profile/2020census-demographic-and-housing-characteristics-file-and-demographic-profile-techdoc.pdf>.
+
+Source: U.S. Census Bureau, 2020 Census Demographic and Housing Characteristics File (DHC). The U.S. Census Bureau reviewed this data product for unauthorized 
+
+disclosure of confidential information and approved the disclosure avoidance practices applied to this release: CBDRB-FY22-DSEP-004.
+
+U.S. Census Bureau 
+
+The Emergency and Transitional Shelter Population: 2020  7 
+
+Table 4.
+The Emergency and Transitional Shelter Population by Sex and Selected Age Groups for the  
+United States, Regions, States, and Puerto Rico: 2020
+
+Area
+
+Both sexes
+
+Male
+
+Female
+
+Under 18 years
+
+18 years and over
+
+Number Percent Number Percent Number Percent Number Percent Number Percent
+
+82,757
+20,713
+35,614
+49,805
+
+   United States . . . . 188,889
+Region
+Northeast  . . . . . . . . . . . . .
+Midwest . . . . . . . . . . . . . . .
+South . . . . . . . . . . . . . . . . .
+West . . . . . . . . . . . . . . . . . .
+State
+Alabama  . . . . . . . . . . . . . .
+Alaska. . . . . . . . . . . . . . . . .
+Arizona  . . . . . . . . . . . . . . .
+Arkansas . . . . . . . . . . . . . .
+California . . . . . . . . . . . . . .
+Colorado . . . . . . . . . . . . . .
+Connecticut  . . . . . . . . . . .
+Delaware . . . . . . . . . . . . . .
+District of Columbia  . . . .
+Florida . . . . . . . . . . . . . . . .
+Georgia  . . . . . . . . . . . . . . .
+Hawaii. . . . . . . . . . . . . . . . .
+Idaho  . . . . . . . . . . . . . . . . .
+Illinois . . . . . . . . . . . . . . . . .
+Indiana . . . . . . . . . . . . . . . .
+Iowa . . . . . . . . . . . . . . . . . .
+Kansas . . . . . . . . . . . . . . . .
+Kentucky . . . . . . . . . . . . . .
+Louisiana . . . . . . . . . . . . . .
+Maine . . . . . . . . . . . . . . . . .
+Maryland . . . . . . . . . . . . . .
+Massachusetts  . . . . . . . . .
+Michigan  . . . . . . . . . . . . . .
+Minnesota . . . . . . . . . . . . .
+Mississippi . . . . . . . . . . . . .
+Missouri . . . . . . . . . . . . . . .
+Montana . . . . . . . . . . . . . . .
+Nebraska . . . . . . . . . . . . . .
+Nevada . . . . . . . . . . . . . . . .
+New Hampshire . . . . . . . .
+New Jersey . . . . . . . . . . . .
+New Mexico. . . . . . . . . . . .
+New York . . . . . . . . . . . . . .
+North Carolina . . . . . . . . .
+North Dakota . . . . . . . . . .
+Ohio . . . . . . . . . . . . . . . . . .
+Oklahoma . . . . . . . . . . . . .
+Oregon . . . . . . . . . . . . . . . .
+Pennsylvania . . . . . . . . . . .
+Rhode Island . . . . . . . . . . .
+South Carolina . . . . . . . . .
+South Dakota . . . . . . . . . .
+Tennessee . . . . . . . . . . . . .
+Texas . . . . . . . . . . . . . . . . . .
+Utah . . . . . . . . . . . . . . . . . .
+Vermont . . . . . . . . . . . . . . .
+Virginia . . . . . . . . . . . . . . . .
+Washington . . . . . . . . . . . .
+West Virginia  . . . . . . . . . .
+Wisconsin . . . . . . . . . . . . .
+Wyoming . . . . . . . . . . . . . .
+Puerto Rico . . . . . . . . . . . .
+
+673
+1,323
+2,176
+444
+30,245
+3,187
+1,006
+163
+4,718
+5,614
+3,709
+1,155
+694
+2,892
+1,754
+1,022
+732
+1,682
+961
+478
+1,945
+3,349
+2,856
+2,930
+427
+1,175
+352
+1,297
+838
+825
+3,559
+1,020
+67,739
+2,987
+141
+4,220
+1,610
+2,266
+3,705
+406
+1,078
+160
+1,134
+6,074
+975
+1,690
+1,995
+5,439
+400
+1,534
+135
+299
+
+100.0
+
+112,267
+
+100.0
+
+76,622
+
+100.0
+
+33,116
+
+100.0
+
+155,773
+
+100.0
+
+43.8
+11.0
+18.9
+26.4
+
+0.4
+0.7
+1.2
+0.2
+16.0
+1.7
+0.5
+0.1
+2.5
+3.0
+2.0
+0.6
+0.4
+1.5
+0.9
+0.5
+0.4
+0.9
+0.5
+0.3
+1.0
+1.8
+1.5
+1.6
+0.2
+0.6
+0.2
+0.7
+0.4
+0.4
+1.9
+0.5
+35.9
+1.6
+0.1
+2.2
+0.9
+1.2
+2.0
+0.2
+0.6
+0.1
+0.6
+3.2
+0.5
+0.9
+1.1
+2.9
+0.2
+0.8
+0.1
+X
+
+46,134
+13,506
+22,273
+30,354
+
+379
+1,010
+1,351
+284
+17,803
+1,944
+642
+93
+2,570
+3,217
+2,525
+611
+444
+1,820
+1,206
+669
+491
+1,130
+623
+253
+1,152
+1,916
+1,830
+1,870
+259
+777
+238
+916
+762
+509
+2,234
+694
+36,935
+1,788
+108
+2,771
+1,177
+1,369
+2,376
+255
+814
+81
+764
+4,068
+488
+1,014
+1,204
+3,567
+226
+967
+73
+241
+
+41.1
+12.0
+19.8
+27.0
+
+0.3
+0.9
+1.2
+0.3
+15.9
+1.7
+0.6
+0.1
+2.3
+2.9
+2.2
+0.5
+0.4
+1.6
+1.1
+0.6
+0.4
+1.0
+0.6
+0.2
+1.0
+1.7
+1.6
+1.7
+0.2
+0.7
+0.2
+0.8
+0.7
+0.5
+2.0
+0.6
+32.9
+1.6
+0.1
+2.5
+1.0
+1.2
+2.1
+0.2
+0.7
+0.1
+0.7
+3.6
+0.4
+0.9
+1.1
+3.2
+0.2
+0.9
+0.1
+X
+
+36,623
+7,207
+13,341
+19,451
+
+294
+313
+825
+160
+12,442
+1,243
+364
+70
+2,148
+2,397
+1,184
+544
+250
+1,072
+548
+353
+241
+552
+338
+225
+793
+1,433
+1,026
+1,060
+168
+398
+114
+381
+76
+316
+1,325
+326
+30,804
+1,199
+33
+1,449
+433
+897
+1,329
+151
+264
+79
+370
+2,006
+487
+676
+791
+1,872
+174
+567
+62
+58
+
+47.8
+9.4
+17.4
+25.4
+
+0.4
+0.4
+1.1
+0.2
+16.2
+1.6
+0.5
+0.1
+2.8
+3.1
+1.5
+0.7
+0.3
+1.4
+0.7
+0.5
+0.3
+0.7
+0.4
+0.3
+1.0
+1.9
+1.3
+1.4
+0.2
+0.5
+0.1
+0.5
+0.1
+0.4
+1.7
+0.4
+40.2
+1.6
+0.0
+1.9
+0.6
+1.2
+1.7
+0.2
+0.3
+0.1
+0.5
+2.6
+0.6
+0.9
+1.0
+2.4
+0.2
+0.7
+0.1
+X
+
+21,077
+2,603
+4,571
+4,865
+
+84
+27
+395
+27
+2,983
+377
+101
+24
+1,223
+743
+396
+143
+71
+306
+201
+132
+89
+116
+43
+59
+228
+343
+316
+556
+21
+85
+36
+101
+7
+117
+418
+55
+19,173
+603
+15
+594
+107
+156
+591
+39
+56
+19
+29
+635
+193
+236
+217
+385
+19
+189
+37
+5
+
+63.6
+7.9
+13.8
+14.7
+
+0.3
+0.1
+1.2
+0.1
+9.0
+1.1
+0.3
+0.1
+3.7
+2.2
+1.2
+0.4
+0.2
+0.9
+0.6
+0.4
+0.3
+0.4
+0.1
+0.2
+0.7
+1.0
+1.0
+1.7
+0.1
+0.3
+0.1
+0.3
+0.0
+0.4
+1.3
+0.2
+57.9
+1.8
+0.0
+1.8
+0.3
+0.5
+1.8
+0.1
+0.2
+0.1
+0.1
+1.9
+0.6
+0.7
+0.7
+1.2
+0.1
+0.6
+0.1
+X
+
+61,680
+18,110
+31,043
+44,940
+
+589
+1,296
+1,781
+417
+27,262
+2,810
+905
+139
+3,495
+4,871
+3,313
+1,012
+623
+2,586
+1,553
+890
+643
+1,566
+918
+419
+1,717
+3,006
+2,540
+2,374
+406
+1,090
+316
+1,196
+831
+708
+3,141
+965
+48,566
+2,384
+126
+3,626
+1,503
+2,110
+3,114
+367
+1,022
+141
+1,105
+5,439
+782
+1,454
+1,778
+5,054
+381
+1,345
+98
+294
+
+39.6
+11.6
+19.9
+28.8
+
+0.4
+0.8
+1.1
+0.3
+17.5
+1.8
+0.6
+0.1
+2.2
+3.1
+2.1
+0.6
+0.4
+1.7
+1.0
+0.6
+0.4
+1.0
+0.6
+0.3
+1.1
+1.9
+1.6
+1.5
+0.3
+0.7
+0.2
+0.8
+0.5
+0.5
+2.0
+0.6
+31.2
+1.5
+0.1
+2.3
+1.0
+1.4
+2.0
+0.2
+0.7
+0.1
+0.7
+3.5
+0.5
+0.9
+1.1
+3.2
+0.2
+0.9
+0.1
+X
+
+X Not applicable.
+Note: Percentages may not sum up to 100.0 due to rounding. For information on data collection, confidentiality protection, nonsampling error, and definitions, refer 
+
+to <https://www2.census.gov/programs-surveys/decennial/2020/technical-documentation/complete-tech-docs/demographic-and-housing-characteristics-file-and-
+demographic-profile/2020census-demographic-and-housing-characteristics-file-and-demographic-profile-techdoc.pdf>.
+
+Source: U.S. Census Bureau, 2020 Census Demographic and Housing Characteristics File (DHC). The U.S. Census Bureau reviewed this data product for unauthorized 
+
+disclosure of confidential information and approved the disclosure avoidance practices applied to this release: CBDRB-FY22-DSEP-004.
+
+8 The Emergency and Transitional Shelter Population: 2020 
+
+U.S. Census Bureau 
+
+New York had the largest 
+number of males and females 
+in emergency and transitional 
+shelters.
+
+New York had the largest male 
+population (36,935) and female 
+population (30,804) in emergency 
+and transitional shelters, which 
+accounted for 32.9 percent of the 
+total male and 40.2 percent of 
+the total female emergency and 
+transitional shelter population. 
+In contrast, Wyoming had the 
+smallest male population in 
+emergency and transitional 
+shelters (73) and North Dakota 
+had the smallest female shelter 
+population (33). 
+
+New York had a majority of the 
+juvenile population in emergency 
+and transitional shelters.
+
+For broad age groups, New York 
+had the largest emergency and 
+transitional shelter population 
+under 18 years old (19,173), 
+representing 57.9 percent of the 
+nation’s juvenile emergency and 
+transitional shelter population. In 
+addition, New York had the largest 
+number of people aged 18 and 
+over (48,566) in those shelters, 
+accounting for 31.2 percent of 
+the nation’s adult emergency and 
+transitional shelter population.
+
+Across states, the proportions of 
+males and females in emergency 
+and transitional shelters varied 
+(Figure 3). The state with the 
+most uneven distribution was 
+Nevada, where 90.9 percent of 
+the emergency and transitional 
+shelter population was male, which 
+
+Figure 2.
+Percentage Distribution of the Emergency and Transitional 
+Shelter Population by State: 2020
+
+Remaining states
+30.4
+
+New York
+35.9
+
+California
+16.0
+
+Pennsylvania
+2.0
+
+Georgia
+2.0
+
+Ohio
+2.2
+
+District of
+Columbia
+2.5
+
+Washington
+2.9
+
+Texas
+3.2
+
+Florida
+3.0
+
+Note: For information on data collection, conﬁdentiality protection, 
+nonsampling error, and deﬁnitions, refer to 
+<https://www2.census.gov/programs-surveys/decennial/2020/technical-documentation/complete-
+tech-docs/demographic-and-housing-characteristics-ﬁle-and-demographic-proﬁle/2020census-
+demographic-and-housing-characteristics-ﬁle-and-demographic-proﬁle-techdoc.pdf>.
+Source: U.S. Census Bureau, 2020 Census Microdata Detail File (MDF). The U.S. Census Bureau 
+reviewed this data product for unauthorized disclosure of conﬁdential information and approved 
+the disclosure avoidance practices applied to this release: CBDRB-FY22-DSEP-004.
+
+equates to an average of 1,003 
+males for every 100 females. In 
+contrast, Utah had an almost equal 
+number of males and females 
+in shelters, with 50.1 percent 
+males. New York, with the largest 
+emergency and transitional shelter 
+
+population, had 54.5 percent male 
+or 120 males for every 100 females. 
+For 13 states and the District of 
+Columbia, the proportion of males 
+in emergency and transitional 
+shelters was smaller than the 
+national level (59.4 percent).
+
+U.S. Census Bureau 
+
+The Emergency and Transitional Shelter Population: 2020  9 
+
+Figure 3.
+The Emergency and Transitional Shelter Population by Sex for States: 2020
+
+Nevada
+North Dakota
+Alaska
+South Carolina
+Oklahoma
+Nebraska
+Indiana
+Georgia
+New Mexico
+Montana
+Tennessee
+Kentucky
+Kansas
+Texas
+Missouri
+Ohio
+Washington
+Iowa
+Louisiana
+Pennsylvania
+Michigan
+Idaho
+Arkansas
+Minnesota
+Connecticut
+Wisconsin
+Illinois
+Rhode Island
+New Jersey
+Arizona
+New Hampshire
+Colorado
+Mississippi
+Oregon
+Virginia
+Vermont
+North Carolina
+United States
+Maryland
+California
+Florida
+Massachusetts
+Delaware
+West Virginia
+Alabama
+New York
+District of Columbia
+Wyoming
+Maine
+Hawaii
+South Dakota
+Utah
+
+90.9
+
+76.6
+76.3
+75.5
+
+73.1
+70.6
+68.8
+68.1
+68.0
+67.6
+67.4
+67.2
+67.1
+67.0
+66.1
+65.7
+65.6
+65.5
+64.8
+64.1
+64.1
+64.0
+64.0
+63.8
+63.8
+63.0
+62.9
+62.8
+62.8
+62.1
+61.7
+61.0
+60.7
+60.4
+60.4
+60.0
+59.9
+59.4
+59.2
+58.9
+57.3
+57.2
+57.1
+56.5
+56.3
+54.5
+54.5
+54.1
+52.9
+52.9
+50.6
+50.1
+
+Male
+
+Female
+
+9.1
+
+23.4
+23.7
+24.5
+
+26.9
+
+29.4
+31.2
+31.9
+32.0
+32.4
+32.6
+32.8
+32.9
+33.0
+33.9
+34.3
+34.4
+34.5
+35.2
+35.9
+35.9
+36.0
+36.0
+36.2
+36.2
+37.0
+37.1
+37.2
+37.2
+37.9
+38.3
+39.0
+39.3
+39.6
+39.6
+40.0
+40.1
+40.6
+40.8
+41.1
+42.7
+42.8
+42.9
+43.5
+43.7
+45.5
+45.5
+45.9
+47.1
+47.1
+
+49.4
+49.9
+
+Note: For information on data collection, conﬁdentiality protection, nonsampling error, and deﬁnitions, refer to 
+<https://www2.census.gov/programs-surveys/decennial/2020/technical-documentation/complete-tech-docs/demographic-and-housing-
+characteristics-ﬁle-and-demographic-proﬁle/2020census-demographic-and-housing-characteristics-ﬁle-and-demographic-proﬁle-techdoc.pdf>.
+Source: U.S. Census Bureau, 2020 Census Microdata Detail File (MDF). The U.S. Census Bureau reviewed this data product for 
+unauthorized disclosure of conﬁdential information and approved the disclosure avoidance practices applied to this release: 
+CBDRB-FY22-DSEP-004.
+
+10 The Emergency and Transitional Shelter Population: 2020 
+
+U.S. Census Bureau 
+
+New York had the largest 
+percentage of juveniles in 
+emergency and transitional 
+shelters, while Nevada had the 
+largest percentage of adults 
+in emergency and transitional 
+shelters.
+
+New York had the highest 
+percentage (28.3 percent) under 
+18 years old in emergency and 
+transitional shelters, followed 
+by Wyoming (27.4 percent) 
+(Figure 4). Only six states and 
+the District of Columbia had 
+higher proportions of juveniles in 
+the emergency and transitional 
+shelters than the national level 
+(17.5 percent). Nevada and Alaska 
+had the highest percentages in 
+the 18 years old and over age 
+group with 99.2 percent and 98.0 
+percent, respectively. 
+
+Most states had larger male 
+juvenile and male adult 
+populations in emergency and 
+transitional shelters.
+
+The distribution of age and sex 
+varies by state (Table 3). There 
+were higher proportions of male 
+than female juveniles in 35 states, 
+the District of Columbia, and 
+Puerto Rico. North Carolina had 
+a higher proportion of males 
+under 18 years old (12.6 percent) 
+than females (7.6 percent), while 
+Delaware had the opposite pattern 
+(6.1 percent male, 8.6 percent 
+female). For the 18 years old and 
+over age group, Nevada had the 
+highest disproportionate share of 
+males, with over ten times as many 
+
+males as females. Only two states 
+had emergency and transitional 
+shelter populations with more 
+females than males aged 18 and 
+over: Utah (39.0 percent male, 41.2 
+percent female) and South Dakota 
+(42.5 percent male, 45.6 percent 
+female). These disproportionate 
+age and sex relationships 
+across states are noteworthy 
+because they highlight important 
+demographic contrasts; however, 
+these patterns are apparent in 
+states where the total emergency 
+and transitional shelter populations 
+were already small, therefore, the 
+data should be used with caution.
+
+Counties
+
+Viewing the emergency and 
+transitional shelter population from 
+a spatial perspective, a county-
+level map provides more detail 
+about their patterns in the United 
+States and Puerto Rico (Figure 
+5).7 Clusters of counties with the 
+
+7 The primary legal divisions of most 
+states are termed “counties.” In Louisiana, 
+these divisions are known as parishes. 
+In Alaska, which has no counties, the 
+statistically equivalent entities are census 
+areas, cities, and boroughs (as in Juneau City 
+and Borough, a municipality [Anchorage], 
+and organized boroughs). Census areas 
+are delineated cooperatively for data 
+presentation purposes by the state of 
+Alaska and the Census Bureau. In four 
+states (Maryland, Missouri, Nevada, and 
+Virginia), there are one or more incorporated 
+places that are independent of any county 
+organization and, thus, constitute primary 
+divisions of their states. These incorporated 
+places are known as “independent cities” 
+and are treated as equivalent to counties 
+for data presentation purposes. The District 
+of Columbia has no primary divisions, and 
+the entire area is considered equivalent to 
+a county and a state for data presentation 
+purposes.
+
+largest populations in emergency 
+and transitional shelters were 
+along the nation’s Atlantic and 
+Pacific coasts. Specifically, large 
+populations were found in a swath 
+along the Atlantic coast from 
+New England to the Mid-Atlantic 
+Corridor and in Florida. In the 
+West, bands of coastal counties 
+from the Pacific Northwest to 
+the Desert Southwest had large 
+populations, along with some 
+counties in Hawaii. 
+
+Throughout the interior of the 
+United States, counties with large 
+emergency and transitional shelter 
+populations were generally located 
+in and around metropolitan 
+areas. Moderate and small-sized 
+populations were concentrated 
+in the interior of New England 
+and continued into the Ohio River 
+Valley and parts of the upper 
+Midwest, along with concentrations 
+in North Carolina, South Carolina, 
+and Georgia. Aside from many of 
+the Great Plains states, pockets of 
+counties with moderate and small-
+sized emergency and transitional 
+shelter populations existed in 
+states representing the Heartland, 
+the Appalachian Mountains, 
+the Mississippi Delta, Texas and 
+Oklahoma, and the Intermountain 
+West.
+
+U.S. Census Bureau 
+
+The Emergency and Transitional Shelter Population: 2020  11 
+
+Figure 4.
+The Emergency and Transitional Shelter Population by Selected Age Groups for States: 2020
+
+New York
+Wyoming
+District of Columbia
+North Carolina
+Utah
+Minnesota
+Arizona
+United States
+Pennsylvania
+Delaware
+New Hampshire
+Ohio
+Vermont
+Florida
+Iowa
+Alabama
+Hawaii
+Maine
+Wisconsin
+Kansas
+South Dakota
+Colorado
+New Jersey
+Maryland
+Indiana
+Michigan
+Virginia
+Georgia
+North Dakota
+Illinois
+Texas
+Massachusetts
+Idaho
+Montana
+Connecticut
+California
+Rhode Island
+Nebraska
+Missouri
+Washington
+Kentucky
+Oregon
+Oklahoma
+Arkansas
+New Mexico
+South Carolina
+Mississippi
+West Virginia
+Louisiana
+Tennessee
+Alaska
+Nevada
+
+28.3
+27.4
+25.9
+
+20.2
+19.8
+19.0
+18.2
+17.5
+16.0
+
+14.7
+14.2
+14.1
+14.0
+13.2
+12.9
+12.5
+12.4
+12.3
+12.3
+12.2
+11.9
+11.8
+11.7
+11.7
+11.5
+11.1
+10.9
+10.7
+10.6
+10.6
+10.5
+10.2
+10.2
+10.2
+10.0
+9.9
+9.6
+
+7.8
+7.2
+7.1
+6.9
+6.9
+6.6
+6.1
+5.4
+5.2
+4.9
+4.8
+4.5
+
+2.6
+2.0
+
+0.8
+
+Under 18 years
+
+18 years and over
+
+71.7
+72.6
+74.1
+
+79.8
+80.2
+81.0
+81.8
+82.5
+84.0
+85.3
+85.8
+85.9
+86.0
+86.8
+87.1
+87.5
+87.6
+87.7
+87.7
+87.8
+88.1
+88.2
+88.3
+88.3
+88.5
+88.9
+89.1
+89.3
+89.4
+89.4
+89.5
+89.8
+89.8
+89.8
+90.0
+90.1
+90.4
+92.2
+92.8
+92.9
+93.1
+93.1
+93.4
+93.9
+94.6
+94.8
+95.1
+95.3
+95.5
+97.4
+98.0
+99.2
+
+Note: For information on data collection, conﬁdentiality protection, nonsampling error, and deﬁnitions, refer to 
+<https://www2.census.gov/programs-surveys/decennial/2020/technical-documentation/complete-tech-docs/demographic-and-housing-
+characteristics-ﬁle-and-demographic-proﬁle/2020census-demographic-and-housing-characteristics-ﬁle-and-demographic-proﬁle-
+techdoc.pdf>.
+Source: U.S. Census Bureau, 2020 Census Microdata Detail File (MDF). The U.S. Census Bureau reviewed this data product for unauthorized 
+disclosure of conﬁdential information and approved the disclosure avoidance practices applied to this release: CBDRB-FY22-DSEP-004.
+
+12 The Emergency and Transitional Shelter Population: 2020 
+
+U.S. Census Bureau 
+
+y
+t
+n
+u
+o
+c
+
+y
+b
+n
+o
+i
+t
+a
+l
+u
+p
+o
+P
+
+e
+r
+o
+m
+
+r
+o
+0
+0
+0
+,
+1
+
+9
+9
+9
+o
+t
+0
+0
+5
+
+9
+9
+4
+o
+t
+0
+0
+1
+
+9
+9
+o
+t
+
+1
+
+s
+e
+
+l
+i
+
+M
+0
+5
+
+0
+
+s
+e
+
+l
+i
+
+M
+0
+0
+1
+
+0
+
+s
+e
+
+l
+i
+
+M
+0
+0
+1
+
+0
+
+0
+2
+0
+2
+
+:
+
+n
+o
+i
+t
+a
+l
+u
+p
+o
+P
+r
+e
+t
+l
+e
+h
+S
+
+l
+a
+n
+o
+i
+t
+i
+s
+n
+a
+r
+T
+d
+n
+a
+
+y
+c
+n
+e
+g
+r
+e
+m
+E
+e
+h
+T
+
+.
+
+5
+e
+r
+u
+g
+F
+
+i
+
+s
+e
+
+l
+i
+
+M
+0
+0
+2
+
+0
+
+l
+
+f
+o
+e
+r
+u
+s
+o
+c
+s
+i
+d
+d
+e
+z
+i
+r
+o
+h
+t
+u
+a
+n
+u
+r
+o
+f
+
+t
+c
+u
+d
+o
+r
+p
+a
+t
+a
+d
+s
+i
+h
+t
+d
+e
+w
+e
+v
+e
+r
+u
+a
+e
+r
+u
+B
+s
+u
+s
+n
+e
+C
+
+i
+
+.
+
+.
+
+S
+U
+e
+h
+T
+
+.
+)
+C
+H
+D
+(
+
+e
+
+l
+i
+
+F
+s
+c
+i
+t
+s
+i
+r
+e
+t
+c
+a
+r
+a
+h
+C
+g
+n
+i
+s
+u
+o
+H
+d
+n
+a
+
+i
+
+c
+h
+p
+a
+r
+g
+o
+m
+e
+D
+s
+u
+s
+n
+e
+C
+0
+2
+0
+2
+
+,
+
+u
+a
+e
+r
+u
+B
+s
+u
+s
+n
+e
+C
+
+.
+
+.
+
+S
+U
+
+:
+
+e
+c
+r
+u
+o
+S
+
+.
+
+4
+0
+0
+-
+P
+E
+S
+D
+-
+2
+2
+Y
+F
+-
+B
+R
+D
+B
+C
+
+:
+
+e
+s
+a
+e
+e
+r
+
+l
+
+s
+i
+h
+t
+o
+t
+d
+e
+
+i
+l
+
+p
+p
+a
+
+s
+e
+c
+i
+t
+c
+a
+r
+p
+e
+c
+n
+a
+d
+o
+v
+a
+
+i
+
+l
+
+e
+r
+u
+s
+o
+c
+s
+i
+d
+e
+h
+t
+d
+e
+v
+o
+r
+p
+p
+a
+d
+n
+a
+n
+o
+i
+t
+a
+m
+r
+o
+f
+n
+
+i
+
+l
+
+a
+i
+t
+n
+e
+d
+ﬁ
+n
+o
+c
+
+U.S. Census Bureau 
+
+The Emergency and Transitional Shelter Population: 2020  13 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Five counties had emergency and 
+transitional shelter populations 
+above 8,000.
+
+Table 5.
+Ten Counties With the Largest Population in Emergency and 
+Transitional Shelters: 2020
+
+County
+
+   United States . . . . . . . . . . . .
+
+Bronx County, NY  . . . . . . . . . . . . . .
+New York County, NY . . . . . . . . . . .
+Kings County, NY . . . . . . . . . . . . . . .
+Queens County, NY . . . . . . . . . . . . .
+Los Angeles County, CA . . . . . . . . .
+District of Columbia, DC. . . . . . . . .
+San Diego County, CA  . . . . . . . . . .
+San Francisco County, CA . . . . . . .
+Sacramento County, CA . . . . . . . . .
+King County, WA . . . . . . . . . . . . . . .
+
+Percent of  
+U.S. emergency 
+and transitional 
+shelter population
+
+100.0
+
+10.6
+8.7
+8.2
+6.0
+4.7
+2.5
+1.8
+1.4
+1.3
+1.3
+
+Number
+
+188,889
+
+19,992
+16,502
+15,487
+11,244
+8,817
+4,718
+3,398
+2,570
+2,446
+2,441
+
+Note: Percentages may not sum up to 100.0 due to rounding. For information on data 
+collection, confidentiality protection, nonsampling error, and definitions, refer to <https://
+www2.census.gov/programs-surveys/decennial/2020/technical-documentation/complete-tech-
+docs/demographic-and-housing-characteristics-file-and-demographic-profile/2020census-
+demographic-and-housing-characteristics-file-and-demographic-profile-techdoc.pdf>.
+
+Source: U.S. Census Bureau, 2020 Census Demographic and Housing Characteristics File 
+
+(DHC). The U.S. Census Bureau reviewed this data product for unauthorized disclosure of 
+confidential information and approved the disclosure avoidance practices applied to this 
+release: CBDRB-FY22-DSEP-004.
+
+Table 6.
+Ten Places With the Largest Population in Emergency and 
+Transitional Shelters: 2020
+
+Place
+
+   United States . . . . . . . . .
+New York city, NY  . . . . . . . . . . . . . . .
+Los Angeles city, CA . . . . . . . . . . . . .
+Washington city, DC . . . . . . . . . . . . .
+San Diego city, CA . . . . . . . . . . . . . . .
+San Francisco city, CA  . . . . . . . . . . .
+Seattle city, WA . . . . . . . . . . . . . . . . .
+Sacramento city, CA . . . . . . . . . . . . .
+Denver city, CO  . . . . . . . . . . . . . . . . .
+Minneapolis city, MN . . . . . . . . . . . . .
+Chicago city, IL . . . . . . . . . . . . . . . . . .
+
+Percent of  
+U.S. emergency 
+and transitional 
+shelter population
+100.0
+33.6
+3.0
+2.5
+1.6
+1.4
+1.1
+1.0
+1.0
+0.9
+0.8
+
+Number
+188,889
+63,526
+5,751
+4,718
+2,987
+2,570
+2,119
+1,872
+1,808
+1,785
+1,603
+
+Note: Percentages may not sum up to 100.0 due to rounding. For information on data 
+collection, confidentiality protection, nonsampling error, and definitions, refer to <https://
+www2.census.gov/programs-surveys/decennial/2020/technical-documentation/complete-tech-
+docs/demographic-and-housing-characteristics-file-and-demographic-profile/2020census-
+demographic-and-housing-characteristics-file-and-demographic-profile-techdoc.pdf>.
+
+Source: U.S. Census Bureau, 2020 Census Demographic and Housing Characteristics File 
+
+(DHC). The U.S. Census Bureau reviewed this data product for unauthorized disclosure of 
+confidential information and approved the disclosure avoidance practices applied to this 
+release: CBDRB-FY22-DSEP-004.
+
+Four of the five counties with 
+the largest emergency and 
+transitional shelter populations 
+were in New York: Bronx County 
+with 19,992, New York County 
+with 16,502, Kings County with 
+15,487, and Queens County with 
+11,244 (Table 5). The fifth largest 
+was Los Angeles County, CA, 
+with a population of 8,817. From 
+there, the numbers drop below 
+5,000 people, with the District 
+of Columbia at 4,718; San Diego 
+County, CA, with 3,398; San 
+Francisco County, CA, at 2,570; 
+Sacramento County, CA, with 
+2,446; and King County, WA, with 
+2,441.
+
+Overall, there were 29 county 
+or county equivalents with 
+emergency and transitional shelter 
+populations of 1,000 or more, 24 
+with populations of 500 to 999, 
+187 with populations of 100 to 499, 
+and 736 with populations of 1 to 
+99. Of the 3,221 county or county 
+equivalents in the United States 
+and Puerto Rico, 2,245 or 69.7 
+percent had no shelter population 
+in 2020.
+
+Places
+
+One-third of the emergency and 
+transitional shelter population was 
+in New York city in 2020.
+
+There were 63,526 people in 
+shelters in New York city, far more 
+than any other city (Table 6). Three 
+of the five cities with the largest 
+populations were in California: 
+Los Angeles (5,751), San Diego 
+(2,987), and San Francisco (2,570). 
+Washington, DC, was the city with 
+the third-largest shelter population 
+with 4,718 people.
+
+14 The Emergency and Transitional Shelter Population: 2020 
+
+U.S. Census Bureau 
+
+New York city also had the largest 
+percentage of the GQ population 
+in emergency and transitional 
+shelters.
+
+In New York city, 29.0 percent 
+of its GQ population was in 
+emergency and transitional 
+shelters, the largest of any place 
+with a total population of 100,000 
+or more (Table 7).8 In both San 
+Mateo, CA, and Lansing, MI, 
+more than one-fifth of their GQ 
+populations were in emergency 
+and transition shelters, with their 
+percentages being 20.9 and 20.6, 
+respectively. In addition, the 
+California cities of Fremont (18.9 
+percent), Norwalk (15.2 percent), 
+and Sunnyvale (14.7 percent) were 
+in the top ten.
+
+METHODOLOGY AND 
+SOURCES OF DATA
+
+This report uses 2020 decennial 
+census data. For readability, 
+large whole numbers in the text 
+are expressed in millions. Whole 
+numbers in tables and under 1 
+million in the text are unrounded. 
+All derived values are computed 
+using unrounded data and then 
+rounded to tenths, except sex 
+ratios, which are rounded to whole 
+numbers. In the map, data are 
+categorized based on unrounded 
+data.
+
+ABOUT THE 2020 CENSUS
+
+Why was the 2020 Census 
+conducted?
+
+The U.S. Constitution mandates 
+that a census be taken in the 
+United States every 10 years. 
+This is required to determine 
+the number of seats each state 
+receives in the U.S. House 
+of Representatives. The GQ 
+
+8 There were 340 places in the 2020 
+Census with a population of 100,000 or 
+more. They included 322 incorporated places 
+(including five city/county consolidations) 
+and 18 Census Bureau designated places that 
+were not legally incorporated.
+
+Table 7.
+Ten Places With the Largest Percentage of the Group Quarters 
+Population in Emergency and Transitional Shelters: 2020
+
+Place1
+
+New York city, NY  . . . . . . . . . . . . .
+San Mateo city, CA  . . . . . . . . . . . .
+Lansing city, MI . . . . . . . . . . . . . . . .
+Fremont city, CA . . . . . . . . . . . . . .
+Lynn city, MA  . . . . . . . . . . . . . . . . .
+Columbus city, GA . . . . . . . . . . . . .
+Las Vegas city, NV . . . . . . . . . . . . .
+Westminster city, CO  . . . . . . . . . .
+Norwalk city, CA  . . . . . . . . . . . . . .
+Sunnyvale city, CA . . . . . . . . . . . . .
+
+Group quarters 
+population
+
+218,728
+1,221
+671
+2,736
+1,036
+6,281
+4,605
+710
+1,205
+1,294
+
+Emergency and transitional 
+shelter population
+
+Percent of 
+group 
+quarters 
+population
+
+29.0
+20.9
+20.6
+18.9
+18.5
+17.4
+16.4
+15.4
+15.2
+14.7
+
+Number
+
+63,526
+255
+138
+518
+192
+1,090
+755
+109
+183
+190
+
+1 Places of 100,000 or more.
+Note: Percentages may not sum up to 100.0 due to rounding. For information on data 
+collection, confidentiality protection, nonsampling error, and definitions, refer to <https://
+www2.census.gov/programs-surveys/decennial/2020/technical-documentation/complete-tech-
+docs/demographic-and-housing-characteristics-file-and-demographic-profile/2020census-
+demographic-and-housing-characteristics-file-and-demographic-profile-techdoc.pdf>.
+
+Source: U.S. Census Bureau, 2020 Census Demographic and Housing Characteristics File 
+
+(DHC). The U.S. Census Bureau reviewed this data product for unauthorized disclosure of 
+confidential information and approved the disclosure avoidance practices applied to this 
+release: CBDRB-FY22-DSEP-004.
+
+population, and specifically 
+the population in emergency 
+and transitional shelters, is an 
+important element of the  
+U.S. population.
+
+How are these data beneficial?
+
+The purpose of the census is to 
+produce an accurate and complete 
+count of the population of the 
+United States. These data provide 
+information on the population 
+in emergency and transitional 
+shelters for people experiencing 
+homelessness, and give us 
+valuable insights into the size 
+and demographic characteristics 
+of this population, as well as 
+its geographic distribution. It 
+is important to note, however, 
+that for a variety of reasons, the 
+population discussed here should 
+not be interpreted as representing 
+the entire population experiencing 
+homelessness. The purpose of 
+this special report is to provide 
+a snapshot of the population 
+enumerated in emergency and 
+
+transitional shelters at the time of 
+the 2020 Census.
+
+How are data collected in the 
+2020 Census protected from 
+disclosure? 
+
+To protect respondent 
+confidentiality, data have 
+undergone disclosure avoidance 
+methods that add “statistical 
+noise”—small random additions 
+or subtractions—to the data 
+so that no one can reliably link 
+the published data to a specific 
+person or household. The Census 
+Bureau encourages data users to 
+aggregate small populations and 
+geographies to improve accuracy 
+and diminish implausible results. 
+While statistical noise is used 
+to protect data from disclosure 
+while preserving valid statistical 
+outcomes, there are three data 
+points where statistical noise is 
+not applied in order to preserve 
+these “as reported” counts. These 
+data points are referred to as 
+“invariants,” and one such invariant 
+
+U.S. Census Bureau 
+
+The Emergency and Transitional Shelter Population: 2020  15 
+
+the content of this report and the 
+accompanying tables and figures, 
+contact the authors at:
+
+William Koerber
+
+<william.k.koerber@census.gov>,
+
+Erik Schmidt
+
+<erik.schmidt@census.gov>, and
+
+Steven Wilson
+
+<steven.g.wilson@census.gov>.
+
+is the total number of GQ units 
+by GQ type at the block level. For 
+more information on this and the 
+statistical methods used to protect 
+confidentiality, refer to <www.
+census.gov/programs-surveys/
+decennial-census/decade/2020/
+planning-management/process/
+disclosure-avoidance.html>.
+
+FOR MORE INFORMATION
+
+For more information on the GQ 
+population in the United States, 
+including 2020 Census data 
+products, visit the Census Bureau’s 
+website at <www.census.gov> or 
+call the Customer Services Center 
+at 1-800-923-8282. Also, visit the 
+Census Bureau’s Question and 
+Answer Center at <ask.census.
+gov> to submit your questions 
+online.
+
+Data on the GQ population from 
+the 2020 Census Demographic 
+and Housing Characteristics File 
+(DHC), which provides information 
+at the nation and state level and 
+below, are available at <https://
+data.census.gov>.
+
+For information on data 
+collection, confidentiality 
+protection, nonsampling error, 
+and definitions, refer to <https://
+www2.census.gov/programs-
+surveys/decennial/2020/
+technical-documentation/
+complete-tech-docs/demographic-
+and-housing-characteristics-
+file-and-demographic-
+profile/2020census-demographic-
+and-housing-characteristics-file-
+and-demographic-profile-techdoc.
+pdf>. For questions related to 
+
+16 The Emergency and Transitional Shelter Population: 2020 
+
+U.S. Census Bureau 
+
+

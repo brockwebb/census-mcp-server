@@ -1,0 +1,3207 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix cendata: <https://example.org/cendata/> .
+@prefix coos: <https://example.org/coos/> .
+
+# Census Data Extension Ontology - Complete Version
+# Auto-generated from LLM review process
+
+
+# CoreDemographics Category (48 concepts)
+cendata:CoreDemographics a skos:Concept ;
+    skos:prefLabel "CoreDemographics" ;
+    skos:definition "Census concepts related to core_demographics" .
+
+cendata:TotalPopulation a skos:Concept ;
+    skos:prefLabel "Total Population" ;
+    skos:definition "Total count of people residing in the area" ;
+    cendata:universe "Total population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B01003" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:MedianAge a skos:Concept ;
+    skos:prefLabel "Median Age" ;
+    skos:definition "The median age of the total population" ;
+    cendata:universe "Total population" ;
+    cendata:statisticalMethod cendata:MedianMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B01002" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:PopulationDensity a skos:Concept ;
+    skos:prefLabel "Population Density" ;
+    skos:definition "Number of people per square mile" ;
+    cendata:universe "Total population" ;
+    cendata:statisticalMethod cendata:RatioMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B01003" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:GenderComposition a skos:Concept ;
+    skos:prefLabel "Gender Composition" ;
+    skos:definition "Distribution of population by sex/gender" ;
+    cendata:universe "Total population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B01001" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:AgeDistribution a skos:Concept ;
+    skos:prefLabel "Age Distribution" ;
+    skos:definition "Distribution of population across age groups" ;
+    cendata:universe "Total population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B01001" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:WhiteAlone a skos:Concept ;
+    skos:prefLabel "White Alone Population" ;
+    skos:definition "Population reporting race as White alone" ;
+    cendata:universe "Total population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B02001" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:BlackAlone a skos:Concept ;
+    skos:prefLabel "Black or African American Alone Population" ;
+    skos:definition "Population reporting race as Black or African American alone" ;
+    cendata:universe "Total population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B02001" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:AsianAlone a skos:Concept ;
+    skos:prefLabel "Asian Alone Population" ;
+    skos:definition "Population reporting race as Asian alone" ;
+    cendata:universe "Total population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B02001" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:HispanicLatino a skos:Concept ;
+    skos:prefLabel "Hispanic or Latino Population" ;
+    skos:definition "Population of Hispanic or Latino origin (of any race)" ;
+    cendata:universe "Total population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B03002" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:ChildPopulation a skos:Concept ;
+    skos:prefLabel "Child Population" ;
+    skos:definition "Population under 18 years of age" ;
+    cendata:universe "Total population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B01001" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:WorkingAgePopulation a skos:Concept ;
+    skos:prefLabel "Working Age Population" ;
+    skos:definition "Population aged 18-64 years" ;
+    cendata:universe "Total population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B01001" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:SeniorPopulation a skos:Concept ;
+    skos:prefLabel "Senior Population" ;
+    skos:definition "Population aged 65 and older" ;
+    cendata:universe "Total population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B01001" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:TotalHouseholds a skos:Concept ;
+    skos:prefLabel "Total Households" ;
+    skos:definition "Total number of households" ;
+    cendata:universe "Households" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B25001" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:HouseholdSize a skos:Concept ;
+    skos:prefLabel "Average Household Size" ;
+    skos:definition "Average number of people per household" ;
+    cendata:universe "Households" ;
+    cendata:statisticalMethod cendata:MeanMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B25010" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:ForeignBorn a skos:Concept ;
+    skos:prefLabel "Foreign-Born Population" ;
+    skos:definition "Population born outside the United States" ;
+    cendata:universe "Total population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B05002" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:NativeBorn a skos:Concept ;
+    skos:prefLabel "Native-Born Population" ;
+    skos:definition "Population born in the United States" ;
+    cendata:universe "Total population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B05002" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:RaceEthnicity a skos:Concept ;
+    skos:prefLabel "Race and Ethnicity" ;
+    skos:definition "Racial and ethnic composition of the population" ;
+    cendata:universe "Total population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B02001, B03002" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:FamilyHouseholds a skos:Concept ;
+    skos:prefLabel "Family Households" ;
+    skos:definition "Households with related individuals" ;
+    cendata:universe "Households" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B11001" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:MarriedCoupleHouseholds a skos:Concept ;
+    skos:prefLabel "Married Couple Households" ;
+    skos:definition "Households with married couples" ;
+    cendata:universe "Households" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B11001" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:MaritalStatus a skos:Concept ;
+    skos:prefLabel "Marital Status Distribution" ;
+    skos:definition "Distribution of population by marital status" ;
+    cendata:universe "Population 15 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B12001" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:CitizenshipStatus a skos:Concept ;
+    skos:prefLabel "Citizenship Status" ;
+    skos:definition "Citizenship and naturalization status distribution" ;
+    cendata:universe "Total population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B05001" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:VeteranStatus a skos:Concept ;
+    skos:prefLabel "Veteran Status" ;
+    skos:definition "Military veteran status of civilian population" ;
+    cendata:universe "Civilian population 18 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B21001" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:LanguageSpokenAtHome a skos:Concept ;
+    skos:prefLabel "Language Spoken at Home" ;
+    skos:definition "Languages spoken at home distribution" ;
+    cendata:universe "Population 5 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B16001" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:EnglishProficiency a skos:Concept ;
+    skos:prefLabel "English Language Proficiency" ;
+    skos:definition "Ability to speak English proficiency levels" ;
+    cendata:universe "Population 5 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B16004" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:YoungAdults a skos:Concept ;
+    skos:prefLabel "Young Adults (25-34)" ;
+    skos:definition "Population aged 25-34 years" ;
+    cendata:universe "Total population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B01001" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:MiddleAged a skos:Concept ;
+    skos:prefLabel "Middle Aged (45-54)" ;
+    skos:definition "Population aged 45-54 years" ;
+    cendata:universe "Total population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B01001" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:ChildrenInHouseholds a skos:Concept ;
+    skos:prefLabel "Children in Households" ;
+    skos:definition "Presence and number of children in households" ;
+    cendata:universe "Households" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B11005" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:MultigenerationalHouseholds a skos:Concept ;
+    skos:prefLabel "Multigenerational Households" ;
+    skos:definition "Households with three or more generations" ;
+    cendata:universe "Households" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B11017" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:GrandparentsAsCaregiver a skos:Concept ;
+    skos:prefLabel "Grandparents as Caregivers" ;
+    skos:definition "Grandparents responsible for grandchildren" ;
+    cendata:universe "Population 30 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B10051" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:UnmarriedPartners a skos:Concept ;
+    skos:prefLabel "Unmarried Partner Households" ;
+    skos:definition "Households with unmarried partners" ;
+    cendata:universe "Households" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B11009" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:GroupQuartersPopulation a skos:Concept ;
+    skos:prefLabel "Group Quarters Population" ;
+    skos:definition "Population living in group quarters" ;
+    cendata:universe "Total population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B26001" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:InstitutionalizedPopulation a skos:Concept ;
+    skos:prefLabel "Institutionalized Population" ;
+    skos:definition "Population in institutional group quarters" ;
+    cendata:universe "Total population in group quarters" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B26001" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:YearOfEntry a skos:Concept ;
+    skos:prefLabel "Year of Entry for Foreign-Born" ;
+    skos:definition "Year foreign-born population entered the US" ;
+    cendata:universe "Foreign-born population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B05005" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:SexRatio a skos:Concept ;
+    skos:prefLabel "Sex Ratio" ;
+    skos:definition "Ratio of males to females in population" ;
+    cendata:universe "Total population" ;
+    cendata:statisticalMethod cendata:RatioMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B01001" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:MedianAgeByGender a skos:Concept ;
+    skos:prefLabel "Median Age by Gender" ;
+    skos:definition "Median age separately for males and females" ;
+    cendata:universe "Total population" ;
+    cendata:statisticalMethod cendata:MedianMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B01002" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:HouseholdsByType a skos:Concept ;
+    skos:prefLabel "Households by Type and Size" ;
+    skos:definition "Detailed breakdown of household types and sizes" ;
+    cendata:universe "Households" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B11016" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:NonFamilyHouseholds a skos:Concept ;
+    skos:prefLabel "Non-Family Households" ;
+    skos:definition "Households without related individuals" ;
+    cendata:universe "Households" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B11001" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:SingleParentHouseholds a skos:Concept ;
+    skos:prefLabel "Single Parent Households" ;
+    skos:definition "Households with single parents and children" ;
+    cendata:universe "Households" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B11003" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:LivingAlone a skos:Concept ;
+    skos:prefLabel "People Living Alone" ;
+    skos:definition "Individuals living in single-person households" ;
+    cendata:universe "Households" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B11001" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:DisabilityStatus a skos:Concept ;
+    skos:prefLabel "Disability Status" ;
+    skos:definition "Population with disabilities by type" ;
+    cendata:universe "Civilian noninstitutionalized population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B18101, B18102, B18103, B18104, B18105, B18106, B18107, B18108, B18120, B18130, B18131, B18135, B18140" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:MobilityStatus a skos:Concept ;
+    skos:prefLabel "Geographic Mobility" ;
+    skos:definition "Population mobility and migration patterns" ;
+    cendata:universe "Population 1 year and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B07003" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:ResidenceOneYearAgo a skos:Concept ;
+    skos:prefLabel "Residence One Year Ago" ;
+    skos:definition "Geographic location of residence one year ago" ;
+    cendata:universe "Population 1 year and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B07001, B07003" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:UrbanRuralClassification a skos:Concept ;
+    skos:prefLabel "Urban/Rural Classification" ;
+    skos:definition "Population distribution by urban and rural areas" ;
+    cendata:universe "Total population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B01001, B25001" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:AncestryComposition a skos:Concept ;
+    skos:prefLabel "Ancestry Composition" ;
+    skos:definition "Population by ancestry or ethnic origin..." ;
+    cendata:universe "Total population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B04006" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:PopulationGrowthRate a skos:Concept ;
+    skos:prefLabel "Population Growth Rate" ;
+    skos:definition "Annual population change rate..." ;
+    cendata:universe "Total population" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ComplexImplementation ;
+    cendata:censusTables "" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:AgeDependencyRatio a skos:Concept ;
+    skos:prefLabel "Age Dependency Ratio" ;
+    skos:definition "Ratio of dependent population to working-age population..." ;
+    cendata:universe "Total population" ;
+    cendata:statisticalMethod cendata:RatioMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B01001" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:RacialDiversityIndex a skos:Concept ;
+    skos:prefLabel "Racial Diversity Index" ;
+    skos:definition "Measure of racial and ethnic diversity..." ;
+    cendata:universe "Total population" ;
+    cendata:statisticalMethod cendata:RatioMethod ;
+    cendata:complexityLevel cendata:ComplexImplementation ;
+    cendata:censusTables "B03002" ;
+    skos:broader cendata:CoreDemographics .
+
+cendata:FertilityRate a skos:Concept ;
+    skos:prefLabel "Fertility Rate" ;
+    skos:definition "Women who had a birth in the past 12 months..." ;
+    cendata:universe "Women 15 to 50 years" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B13002, B13016" ;
+    skos:broader cendata:CoreDemographics .
+
+
+# Economics Category (61 concepts)
+cendata:Economics a skos:Concept ;
+    skos:prefLabel "Economics" ;
+    skos:definition "Census concepts related to economics" .
+
+cendata:MedianHouseholdIncome a skos:Concept ;
+    skos:prefLabel "Median Household Income" ;
+    skos:definition "The median income of households in the past 12 months (in inflation-adjusted dollars)" ;
+    cendata:universe "Households" ;
+    cendata:statisticalMethod cendata:MedianMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B19013" ;
+    skos:broader cendata:Economics .
+
+cendata:MeanHouseholdIncome a skos:Concept ;
+    skos:prefLabel "Mean Household Income" ;
+    skos:definition "The average (arithmetic mean) income of households in the past 12 months" ;
+    cendata:universe "Households" ;
+    cendata:statisticalMethod cendata:MeanMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B19025" ;
+    skos:broader cendata:Economics .
+
+cendata:PovertyRate a skos:Concept ;
+    skos:prefLabel "Poverty Rate" ;
+    skos:definition "Percentage of people whose income in the past 12 months was below the poverty threshold" ;
+    cendata:universe "Population for whom poverty status is determined" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B17001" ;
+    skos:broader cendata:Economics .
+
+cendata:UnemploymentRate a skos:Concept ;
+    skos:prefLabel "Unemployment Rate" ;
+    skos:definition "Percentage of the civilian labor force that is unemployed" ;
+    cendata:universe "Civilian labor force 16 years and over" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B23025" ;
+    skos:broader cendata:Economics .
+
+cendata:MedianFamilyIncome a skos:Concept ;
+    skos:prefLabel "Median Family Income" ;
+    skos:definition "The median income of families in the past 12 months (in inflation-adjusted dollars)" ;
+    cendata:universe "Families" ;
+    cendata:statisticalMethod cendata:MedianMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B19113" ;
+    skos:broader cendata:Economics .
+
+cendata:PerCapitaIncome a skos:Concept ;
+    skos:prefLabel "Per Capita Income" ;
+    skos:definition "Mean income computed for every man, woman, and child in a particular group" ;
+    cendata:universe "Total population" ;
+    cendata:statisticalMethod cendata:MeanMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B19301" ;
+    skos:broader cendata:Economics .
+
+cendata:ChildPoverty a skos:Concept ;
+    skos:prefLabel "Child Poverty Rate" ;
+    skos:definition "Percentage of children under 18 years with income below poverty level" ;
+    cendata:universe "Population under 18 years for whom poverty status is determined" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B17001" ;
+    skos:broader cendata:Economics .
+
+cendata:CommuteTime a skos:Concept ;
+    skos:prefLabel "Mean Commute Time" ;
+    skos:definition "Mean travel time to work for workers" ;
+    cendata:universe "Workers 16 years and over who did not work at home" ;
+    cendata:statisticalMethod cendata:MeanMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B08013" ;
+    skos:broader cendata:Economics .
+
+cendata:EmploymentPopulationRatio a skos:Concept ;
+    skos:prefLabel "Employment Population Ratio" ;
+    skos:definition "Percentage of the population 16 years and over that is employed" ;
+    cendata:universe "Population 16 years and over" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B23025" ;
+    skos:broader cendata:Economics .
+
+cendata:MedianEarnings a skos:Concept ;
+    skos:prefLabel "Median Earnings" ;
+    skos:definition "The median earnings in the past 12 months for workers" ;
+    cendata:universe "Population 16 years and over with earnings" ;
+    cendata:statisticalMethod cendata:MedianMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B20002" ;
+    skos:broader cendata:Economics .
+
+cendata:MedianEarningsMale a skos:Concept ;
+    skos:prefLabel "Median Earnings for Males" ;
+    skos:definition "The median earnings in the past 12 months for male workers" ;
+    cendata:universe "Male population 16 years and over with earnings" ;
+    cendata:statisticalMethod cendata:MedianMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B20002" ;
+    skos:broader cendata:Economics .
+
+cendata:MedianEarningsFemale a skos:Concept ;
+    skos:prefLabel "Median Earnings for Females" ;
+    skos:definition "The median earnings in the past 12 months for female workers" ;
+    cendata:universe "Female population 16 years and over with earnings" ;
+    cendata:statisticalMethod cendata:MedianMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B20002" ;
+    skos:broader cendata:Economics .
+
+cendata:EmploymentByIndustry a skos:Concept ;
+    skos:prefLabel "Employment by Industry" ;
+    skos:definition "Distribution of employed workers across industry categories" ;
+    cendata:universe "Civilian employed population 16 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "C24050" ;
+    skos:broader cendata:Economics .
+
+cendata:EmploymentByOccupation a skos:Concept ;
+    skos:prefLabel "Employment by Occupation" ;
+    skos:definition "Distribution of employed workers across occupation categories" ;
+    cendata:universe "Civilian employed population 16 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "C24010, B24010" ;
+    skos:broader cendata:Economics .
+
+cendata:WorkersByClass a skos:Concept ;
+    skos:prefLabel "Workers by Class of Worker" ;
+    skos:definition "Distribution of workers by class of worker (private, government, self-employed)" ;
+    cendata:universe "Civilian employed population 16 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "C24060" ;
+    skos:broader cendata:Economics .
+
+cendata:FullTimeWorkers a skos:Concept ;
+    skos:prefLabel "Full-Time Workers" ;
+    skos:definition "Workers usually working 35 or more hours per week" ;
+    cendata:universe "Civilian employed population 16 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B23001" ;
+    skos:broader cendata:Economics .
+
+cendata:PovertyByAge a skos:Concept ;
+    skos:prefLabel "Poverty by Age Group" ;
+    skos:definition "Poverty rates by age groups" ;
+    cendata:universe "Population for whom poverty status is determined" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B17001" ;
+    skos:broader cendata:Economics .
+
+cendata:SeniorPoverty a skos:Concept ;
+    skos:prefLabel "Senior Poverty Rate" ;
+    skos:definition "Percentage of people 65 years and over with income below poverty level" ;
+    cendata:universe "Population 65 years and over for whom poverty status is determined" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B17001" ;
+    skos:broader cendata:Economics .
+
+cendata:PovertyByFamily a skos:Concept ;
+    skos:prefLabel "Family Poverty Rate" ;
+    skos:definition "Percentage of families with income below poverty level" ;
+    cendata:universe "Families for whom poverty status is determined" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B17010" ;
+    skos:broader cendata:Economics .
+
+cendata:WagesAndSalaries a skos:Concept ;
+    skos:prefLabel "Wages and Salaries" ;
+    skos:definition "Wage and salary income from employment" ;
+    cendata:universe "Households with wage and salary income" ;
+    cendata:statisticalMethod cendata:MedianMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B19051" ;
+    skos:broader cendata:Economics .
+
+cendata:MedianHouseholdIncomeInflationAdjusted a skos:Concept ;
+    skos:prefLabel "Real Median Household Income" ;
+    skos:definition "Median household income adjusted for inflation to constant dollars" ;
+    cendata:universe "Households" ;
+    cendata:statisticalMethod cendata:MedianMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B19013" ;
+    skos:broader cendata:Economics .
+
+cendata:ServiceOccupations a skos:Concept ;
+    skos:prefLabel "Service Occupations" ;
+    skos:definition "Workers employed in service occupations" ;
+    cendata:universe "Civilian employed population 16 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "C24010" ;
+    skos:broader cendata:Economics .
+
+cendata:SalesOfficeOccupations a skos:Concept ;
+    skos:prefLabel "Sales and Office Occupations" ;
+    skos:definition "Workers employed in sales and office occupations" ;
+    cendata:universe "Civilian employed population 16 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "C24010, B24010" ;
+    skos:broader cendata:Economics .
+
+cendata:ProductionOccupations a skos:Concept ;
+    skos:prefLabel "Production, Transportation, and Material Moving Occupations" ;
+    skos:definition "Workers employed in production, transportation, and material moving occupations" ;
+    cendata:universe "Civilian employed population 16 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "C24010" ;
+    skos:broader cendata:Economics .
+
+cendata:IncomeByHouseholdSize a skos:Concept ;
+    skos:prefLabel "Income by Household Size" ;
+    skos:definition "Median household income by number of persons in household" ;
+    cendata:universe "Households" ;
+    cendata:statisticalMethod cendata:MedianMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B19019" ;
+    skos:broader cendata:Economics .
+
+cendata:IncomeByAge a skos:Concept ;
+    skos:prefLabel "Income by Age of Householder" ;
+    skos:definition "Median household income by age of householder" ;
+    cendata:universe "Households" ;
+    cendata:statisticalMethod cendata:MedianMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B19049" ;
+    skos:broader cendata:Economics .
+
+cendata:DeepPoverty a skos:Concept ;
+    skos:prefLabel "Deep Poverty Rate" ;
+    skos:definition "Percentage of people with income below 50% of poverty threshold" ;
+    cendata:universe "Population for whom poverty status is determined" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B17002" ;
+    skos:broader cendata:Economics .
+
+cendata:NearPoverty a skos:Concept ;
+    skos:prefLabel "Near Poverty Rate (150% of poverty)" ;
+    skos:definition "Percentage of people with income below 150% of poverty threshold" ;
+    cendata:universe "Population for whom poverty status is determined" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "C17002" ;
+    skos:broader cendata:Economics .
+
+cendata:LowIncomeRate a skos:Concept ;
+    skos:prefLabel "Low Income Rate (200% of poverty)" ;
+    skos:definition "Percentage of people with income below 200% of poverty threshold" ;
+    cendata:universe "Population for whom poverty status is determined" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "C17002, B17002" ;
+    skos:broader cendata:Economics .
+
+cendata:SocialSecurityIncome a skos:Concept ;
+    skos:prefLabel "Social Security Income" ;
+    skos:definition "Social Security income from retirement, survivors, and disability benefits" ;
+    cendata:universe "Households with Social Security income" ;
+    cendata:statisticalMethod cendata:MedianMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B19055" ;
+    skos:broader cendata:Economics .
+
+cendata:SNAPBenefits a skos:Concept ;
+    skos:prefLabel "SNAP/Food Stamp Benefits" ;
+    skos:definition "Households receiving Supplemental Nutrition Assistance Program benefits" ;
+    cendata:universe "Households receiving SNAP benefits" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B22003" ;
+    skos:broader cendata:Economics .
+
+cendata:SelfEmploymentIncome a skos:Concept ;
+    skos:prefLabel "Self-Employment Income" ;
+    skos:definition "Net income from self-employment including business and farm income" ;
+    cendata:universe "Households with self-employment income" ;
+    cendata:statisticalMethod cendata:MedianMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B19052" ;
+    skos:broader cendata:Economics .
+
+cendata:IndustryAgriculture a skos:Concept ;
+    skos:prefLabel "Agriculture, Forestry, Fishing and Hunting" ;
+    skos:definition "Workers employed in agriculture, forestry, fishing and hunting industry" ;
+    cendata:universe "Civilian employed population 16 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "C24050, B24050" ;
+    skos:broader cendata:Economics .
+
+cendata:IndustryManufacturing a skos:Concept ;
+    skos:prefLabel "Manufacturing Industry" ;
+    skos:definition "Workers employed in manufacturing industry" ;
+    cendata:universe "Civilian employed population 16 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "C24050, B24050" ;
+    skos:broader cendata:Economics .
+
+cendata:IndustryHealthcare a skos:Concept ;
+    skos:prefLabel "Healthcare and Social Assistance Industry" ;
+    skos:definition "Workers employed in healthcare and social assistance industry" ;
+    cendata:universe "Civilian employed population 16 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "C24050, B24050" ;
+    skos:broader cendata:Economics .
+
+cendata:IndustryAccommodationFood a skos:Concept ;
+    skos:prefLabel "Accommodation and Food Services Industry" ;
+    skos:definition "Workers employed in accommodation and food services industry" ;
+    cendata:universe "Civilian employed population 16 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "C24050, B24050" ;
+    skos:broader cendata:Economics .
+
+cendata:EarningsByEducationLevel a skos:Concept ;
+    skos:prefLabel "Earnings by Education Level" ;
+    skos:definition "Median earnings by detailed educational attainment levels" ;
+    cendata:universe "Population 25 years and over with earnings" ;
+    cendata:statisticalMethod cendata:MedianMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B20004" ;
+    skos:broader cendata:Economics .
+
+cendata:WorkFromHome a skos:Concept ;
+    skos:prefLabel "Work From Home" ;
+    skos:definition "Workers who primarily work from home" ;
+    cendata:universe "Workers 16 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B08301" ;
+    skos:broader cendata:Economics .
+
+cendata:WeeksWorkedPerYear a skos:Concept ;
+    skos:prefLabel "Weeks Worked Per Year" ;
+    skos:definition "Distribution of workers by number of weeks worked in the past 12 months" ;
+    cendata:universe "Population 16 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B23022" ;
+    skos:broader cendata:Economics .
+
+cendata:IncomeByRace a skos:Concept ;
+    skos:prefLabel "Income by Race and Ethnicity" ;
+    skos:definition "Median household income by race and Hispanic or Latino origin" ;
+    cendata:universe "Households" ;
+    cendata:statisticalMethod cendata:MedianMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B19013A, B19013B, B19013C, B19013D, B19013E, B19013F, B19013G, B19013H, B19013I" ;
+    skos:broader cendata:Economics .
+
+cendata:PovertyByRace a skos:Concept ;
+    skos:prefLabel "Poverty by Race and Ethnicity" ;
+    skos:definition "Poverty rates by race and Hispanic or Latino origin" ;
+    cendata:universe "Population for whom poverty status is determined" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B17001A, B17001B, B17001C, B17001D, B17001E, B17001F, B17001G, B17001H, B17001I" ;
+    skos:broader cendata:Economics .
+
+cendata:LaborForceParticipationRate a skos:Concept ;
+    skos:prefLabel "Labor Force Participation Rate" ;
+    skos:definition "Percentage of the population 16 years and over that is in the civilian labor force" ;
+    cendata:universe "Population 16 years and over" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B23025" ;
+    skos:broader cendata:Economics .
+
+cendata:PartTimeWorkers a skos:Concept ;
+    skos:prefLabel "Part-Time Workers" ;
+    skos:definition "Workers usually working less than 35 hours per week" ;
+    cendata:universe "Civilian employed population 16 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B23001" ;
+    skos:broader cendata:Economics .
+
+cendata:GenderPayGap a skos:Concept ;
+    skos:prefLabel "Gender Pay Gap" ;
+    skos:definition "Ratio of female to male median earnings" ;
+    cendata:universe "Population 16 years and over with earnings" ;
+    cendata:statisticalMethod cendata:RatioMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B20002" ;
+    skos:broader cendata:Economics .
+
+cendata:ManagementOccupations a skos:Concept ;
+    skos:prefLabel "Management Occupations" ;
+    skos:definition "Workers employed in management, business, science, and arts occupations" ;
+    cendata:universe "Civilian employed population 16 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "C24010, B24010" ;
+    skos:broader cendata:Economics .
+
+cendata:SelfEmployed a skos:Concept ;
+    skos:prefLabel "Self-Employed Workers" ;
+    skos:definition "Workers who are self-employed in own not incorporated business" ;
+    cendata:universe "Civilian employed population 16 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "C24070, B24070" ;
+    skos:broader cendata:Economics .
+
+cendata:GovernmentWorkers a skos:Concept ;
+    skos:prefLabel "Government Workers" ;
+    skos:definition "Workers employed by federal, state, or local government" ;
+    cendata:universe "Civilian employed population 16 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "C24050" ;
+    skos:broader cendata:Economics .
+
+cendata:PrivateSectorWorkers a skos:Concept ;
+    skos:prefLabel "Private Sector Workers" ;
+    skos:definition "Workers employed by private for-profit companies" ;
+    cendata:universe "Civilian employed population 16 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "C24060, B24060" ;
+    skos:broader cendata:Economics .
+
+cendata:IncomeByEducation a skos:Concept ;
+    skos:prefLabel "Income by Educational Attainment" ;
+    skos:definition "Median earnings by educational attainment" ;
+    cendata:universe "Population 25 years and over with income" ;
+    cendata:statisticalMethod cendata:MedianMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B20004" ;
+    skos:broader cendata:Economics .
+
+cendata:IndustryConstruction a skos:Concept ;
+    skos:prefLabel "Construction Industry" ;
+    skos:definition "Workers employed in construction industry" ;
+    cendata:universe "Civilian employed population 16 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "C24030" ;
+    skos:broader cendata:Economics .
+
+cendata:IndustryRetailTrade a skos:Concept ;
+    skos:prefLabel "Retail Trade Industry" ;
+    skos:definition "Workers employed in retail trade industry" ;
+    cendata:universe "Civilian employed population 16 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "C24030" ;
+    skos:broader cendata:Economics .
+
+cendata:IndustryEducation a skos:Concept ;
+    skos:prefLabel "Educational Services Industry" ;
+    skos:definition "Workers employed in educational services industry" ;
+    cendata:universe "Civilian employed population 16 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "C24030" ;
+    skos:broader cendata:Economics .
+
+cendata:IndustryFinance a skos:Concept ;
+    skos:prefLabel "Finance and Insurance Industry" ;
+    skos:definition "Workers employed in finance and insurance industry" ;
+    cendata:universe "Civilian employed population 16 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "C24050, B24050" ;
+    skos:broader cendata:Economics .
+
+cendata:IndustryGovernment a skos:Concept ;
+    skos:prefLabel "Public Administration Industry" ;
+    skos:definition "Workers employed in public administration industry" ;
+    cendata:universe "Civilian employed population 16 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "C24050, C24010" ;
+    skos:broader cendata:Economics .
+
+cendata:TeacherSalary a skos:Concept ;
+    skos:prefLabel "Teacher Median Earnings" ;
+    skos:definition "Median earnings for workers in educational instruction and library occupations" ;
+    cendata:universe "Educational instruction workers with earnings" ;
+    cendata:statisticalMethod cendata:MedianMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B24122" ;
+    skos:broader cendata:Economics .
+
+cendata:NurseSalary a skos:Concept ;
+    skos:prefLabel "Nurse Median Earnings" ;
+    skos:definition "Median earnings for workers in healthcare practitioner occupations" ;
+    cendata:universe "Healthcare practitioners with earnings" ;
+    cendata:statisticalMethod cendata:MedianMethod ;
+    cendata:complexityLevel cendata:ComplexImplementation ;
+    cendata:censusTables "B24122" ;
+    skos:broader cendata:Economics .
+
+cendata:EngineerSalary a skos:Concept ;
+    skos:prefLabel "Engineer Median Earnings" ;
+    skos:definition "Median earnings for workers in architecture and engineering occupations" ;
+    cendata:universe "Architecture and engineering workers with earnings" ;
+    cendata:statisticalMethod cendata:MedianMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B24122" ;
+    skos:broader cendata:Economics .
+
+cendata:IncomeInequalityGiniIndex a skos:Concept ;
+    skos:prefLabel "Income Inequality (Gini Index)" ;
+    skos:definition "Gini coefficient measuring income inequality..." ;
+    cendata:universe "Households" ;
+    cendata:statisticalMethod cendata:RatioMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B19083" ;
+    skos:broader cendata:Economics .
+
+cendata:Long-TermUnemployment a skos:Concept ;
+    skos:prefLabel "Long-Term Unemployment" ;
+    skos:definition "Workers unemployed for 27 weeks or longer..." ;
+    cendata:universe "Civilian labor force 16 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:RoutingImplementation ;
+    cendata:censusTables "" ;
+    skos:broader cendata:Economics .
+
+cendata:UnderemploymentRate a skos:Concept ;
+    skos:prefLabel "Underemployment Rate" ;
+    skos:definition "Workers employed part-time for economic reasons plus unemployed..." ;
+    cendata:universe "Civilian labor force 16 years and over" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:RoutingImplementation ;
+    cendata:censusTables "B23025" ;
+    skos:broader cendata:Economics .
+
+cendata:MinimumWageWorkers a skos:Concept ;
+    skos:prefLabel "Minimum Wage Workers" ;
+    skos:definition "Workers earning at or below federal minimum wage..." ;
+    cendata:universe "Population 16 years and over with earnings" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:RoutingImplementation ;
+    cendata:censusTables "" ;
+    skos:broader cendata:Economics .
+
+
+# Education Category (37 concepts)
+cendata:Education a skos:Concept ;
+    skos:prefLabel "Education" ;
+    skos:definition "Census concepts related to education" .
+
+cendata:EducationalAttainment a skos:Concept ;
+    skos:prefLabel "Educational Attainment" ;
+    skos:definition "Highest level of education completed by individuals" ;
+    cendata:universe "Population 25 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B15003" ;
+    skos:broader cendata:Education .
+
+cendata:HighSchoolGraduationRate a skos:Concept ;
+    skos:prefLabel "High School Graduation Rate" ;
+    skos:definition "Percentage of population with high school diploma or equivalent" ;
+    cendata:universe "Population 25 years and over" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B15003" ;
+    skos:broader cendata:Education .
+
+cendata:BachelorsDegreeRate a skos:Concept ;
+    skos:prefLabel "Bachelor's Degree Attainment Rate" ;
+    skos:definition "Percentage of population with bachelor's degree or higher" ;
+    cendata:universe "Population 25 years and over" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B15003" ;
+    skos:broader cendata:Education .
+
+cendata:CollegeEnrollment a skos:Concept ;
+    skos:prefLabel "College Enrollment" ;
+    skos:definition "Students enrolled in college or graduate school" ;
+    cendata:universe "Population 18 to 24 years" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B14004" ;
+    skos:broader cendata:Education .
+
+cendata:LessThanHighSchool a skos:Concept ;
+    skos:prefLabel "Less Than High School Education" ;
+    skos:definition "Population without high school diploma or equivalent" ;
+    cendata:universe "Population 25 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B15003" ;
+    skos:broader cendata:Education .
+
+cendata:AssociateDegree a skos:Concept ;
+    skos:prefLabel "Associate Degree Attainment" ;
+    skos:definition "Population with associate degree" ;
+    cendata:universe "Population 25 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B15003" ;
+    skos:broader cendata:Education .
+
+cendata:MastersDegree a skos:Concept ;
+    skos:prefLabel "Master's Degree Attainment" ;
+    skos:definition "Population with master's degree" ;
+    cendata:universe "Population 25 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B15003" ;
+    skos:broader cendata:Education .
+
+cendata:EducationIncome a skos:Concept ;
+    skos:prefLabel "Income by Educational Attainment" ;
+    skos:definition "Median earnings by educational attainment level" ;
+    cendata:universe "Population 25 years and over with earnings" ;
+    cendata:statisticalMethod cendata:MedianMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B20004" ;
+    skos:broader cendata:Education .
+
+cendata:SchoolEnrollment a skos:Concept ;
+    skos:prefLabel "School Enrollment" ;
+    skos:definition "Number of people enrolled in educational institutions" ;
+    cendata:universe "Population 3 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B14001" ;
+    skos:broader cendata:Education .
+
+cendata:PreschoolEnrollment a skos:Concept ;
+    skos:prefLabel "Preschool Enrollment" ;
+    skos:definition "Children ages 3-4 enrolled in preschool programs" ;
+    cendata:universe "Population 3 and 4 years" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B14003" ;
+    skos:broader cendata:Education .
+
+cendata:PublicSchoolEnrollment a skos:Concept ;
+    skos:prefLabel "Public School Enrollment" ;
+    skos:definition "Students enrolled in public educational institutions" ;
+    cendata:universe "Enrolled population 3 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B14002" ;
+    skos:broader cendata:Education .
+
+cendata:PrivateSchoolEnrollment a skos:Concept ;
+    skos:prefLabel "Private School Enrollment" ;
+    skos:definition "Students enrolled in private educational institutions" ;
+    cendata:universe "Enrolled population 3 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B14002" ;
+    skos:broader cendata:Education .
+
+cendata:ProfessionalDegree a skos:Concept ;
+    skos:prefLabel "Professional Degree Attainment" ;
+    skos:definition "Population with professional degree (JD, MD, etc.)" ;
+    cendata:universe "Population 25 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B15003" ;
+    skos:broader cendata:Education .
+
+cendata:DoctorateDegree a skos:Concept ;
+    skos:prefLabel "Doctorate Degree Attainment" ;
+    skos:definition "Population with doctorate degree" ;
+    cendata:universe "Population 25 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B15003" ;
+    skos:broader cendata:Education .
+
+cendata:FieldOfBachelorsDegree a skos:Concept ;
+    skos:prefLabel "Field of Bachelor's Degree" ;
+    skos:definition "Distribution of bachelor's degrees by field of study" ;
+    cendata:universe "Population 25 years and over with bachelor's degree" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B15012" ;
+    skos:broader cendata:Education .
+
+cendata:EducationByAge a skos:Concept ;
+    skos:prefLabel "Educational Attainment by Age" ;
+    skos:definition "Educational attainment cross-tabulated by age groups" ;
+    cendata:universe "Population 25 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B15001" ;
+    skos:broader cendata:Education .
+
+cendata:EducationByGender a skos:Concept ;
+    skos:prefLabel "Educational Attainment by Gender" ;
+    skos:definition "Educational attainment cross-tabulated by sex" ;
+    cendata:universe "Population 25 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B15002" ;
+    skos:broader cendata:Education .
+
+cendata:EducationPoverty a skos:Concept ;
+    skos:prefLabel "Poverty by Educational Attainment" ;
+    skos:definition "Poverty rate by educational attainment level" ;
+    cendata:universe "Population 25 years and over for whom poverty status determined" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B17003" ;
+    skos:broader cendata:Education .
+
+cendata:EducationEmployment a skos:Concept ;
+    skos:prefLabel "Employment by Educational Attainment" ;
+    skos:definition "Employment rate by educational attainment level" ;
+    cendata:universe "Civilian labor force 25 years and over" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B23006" ;
+    skos:broader cendata:Education .
+
+cendata:VeteranEducationalAttainment a skos:Concept ;
+    skos:prefLabel "Veteran Educational Attainment" ;
+    skos:definition "Educational attainment among veterans..." ;
+    cendata:universe "Veteran population 25 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B21003" ;
+    skos:broader cendata:Education .
+
+cendata:EducationalAttainmentwithDisability a skos:Concept ;
+    skos:prefLabel "Educational Attainment with Disability" ;
+    skos:definition "Educational attainment among population with disabilities..." ;
+    cendata:universe "Population 25 years and over with disability" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B18120" ;
+    skos:broader cendata:Education .
+
+cendata:CommutingbyEducationalAttainment a skos:Concept ;
+    skos:prefLabel "Commuting by Educational Attainment" ;
+    skos:definition "Mean travel time to work by educational attainment..." ;
+    cendata:universe "Workers 16 years and over" ;
+    cendata:statisticalMethod cendata:MeanMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B08303, B08301" ;
+    skos:broader cendata:Education .
+
+cendata:ElementaryEnrollment a skos:Concept ;
+    skos:prefLabel "Elementary School Enrollment" ;
+    skos:definition "Children enrolled in elementary school (grades K-5)" ;
+    cendata:universe "Population 5 to 9 years" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B14001" ;
+    skos:broader cendata:Education .
+
+cendata:HighSchoolEnrollment a skos:Concept ;
+    skos:prefLabel "High School Enrollment" ;
+    skos:definition "Students enrolled in high school (grades 9-12)" ;
+    cendata:universe "Population 15 to 17 years" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B14001" ;
+    skos:broader cendata:Education .
+
+cendata:GraduateSchoolEnrollment a skos:Concept ;
+    skos:prefLabel "Graduate School Enrollment" ;
+    skos:definition "Students enrolled in graduate or professional school" ;
+    cendata:universe "Population 25 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B14004" ;
+    skos:broader cendata:Education .
+
+cendata:SomeCollege a skos:Concept ;
+    skos:prefLabel "Some College Education" ;
+    skos:definition "Population with some college but no degree" ;
+    cendata:universe "Population 25 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B15003" ;
+    skos:broader cendata:Education .
+
+cendata:STEMDegrees a skos:Concept ;
+    skos:prefLabel "STEM Degree Attainment" ;
+    skos:definition "Population with degrees in Science, Technology, Engineering, Mathematics" ;
+    cendata:universe "Population 25 years and over with bachelor's degree" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B15012" ;
+    skos:broader cendata:Education .
+
+cendata:EducationByRace a skos:Concept ;
+    skos:prefLabel "Educational Attainment by Race" ;
+    skos:definition "Educational attainment by race and Hispanic origin" ;
+    cendata:universe "Population 25 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B15002A, B15002B, B15002C, B15002D, B15002E, B15002F, B15002G, B15002H, B15002I" ;
+    skos:broader cendata:Education .
+
+cendata:TeacherPopulation a skos:Concept ;
+    skos:prefLabel "Teacher Population" ;
+    skos:definition "Number of people employed as teachers" ;
+    cendata:universe "Civilian employed population 16 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "C24010, B24010" ;
+    skos:broader cendata:Education .
+
+cendata:EducationAdministrators a skos:Concept ;
+    skos:prefLabel "Education Administrators" ;
+    skos:definition "Number of people employed in education administration" ;
+    cendata:universe "Civilian employed population 16 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "C24010" ;
+    skos:broader cendata:Education .
+
+cendata:ChildcareWorkers a skos:Concept ;
+    skos:prefLabel "Childcare Workers" ;
+    skos:definition "Number of people employed in childcare services" ;
+    cendata:universe "Civilian employed population 16 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "C24010, B24010" ;
+    skos:broader cendata:Education .
+
+cendata:LibraryWorkers a skos:Concept ;
+    skos:prefLabel "Library Workers" ;
+    skos:definition "Number of people employed in library services" ;
+    cendata:universe "Civilian employed population 16 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "C24010" ;
+    skos:broader cendata:Education .
+
+cendata:GraduationRate a skos:Concept ;
+    skos:prefLabel "School Graduation Rate" ;
+    skos:definition "Percentage completing high school or equivalent" ;
+    cendata:universe "Population 18 to 24 years" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B15003" ;
+    skos:broader cendata:Education .
+
+cendata:EducationSupportStaff a skos:Concept ;
+    skos:prefLabel "Education Support Staff" ;
+    skos:definition "Number of people employed in education support roles..." ;
+    cendata:universe "Civilian employed population 16 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "C24010, C24020, B24080" ;
+    skos:broader cendata:Education .
+
+cendata:VocationalTrainingParticipation a skos:Concept ;
+    skos:prefLabel "Vocational Training Participation" ;
+    skos:definition "Participation in vocational or technical training programs..." ;
+    cendata:universe "Population 18 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:RoutingImplementation ;
+    cendata:censusTables "" ;
+    skos:broader cendata:Education .
+
+cendata:EducationalMobility a skos:Concept ;
+    skos:prefLabel "Educational Mobility" ;
+    skos:definition "Geographic mobility by educational attainment..." ;
+    cendata:universe "Population 25 years and over" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ComplexImplementation ;
+    cendata:censusTables "B07009, B07010" ;
+    skos:broader cendata:Education .
+
+cendata:SchoolDropoutRate a skos:Concept ;
+    skos:prefLabel "School Dropout Rate" ;
+    skos:definition "Percentage of students who dropped out of school..." ;
+    cendata:universe "Population 16 to 19 years" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B14005" ;
+    skos:broader cendata:Education .
+
+
+# Geography Category (23 concepts)
+cendata:Geography a skos:Concept ;
+    skos:prefLabel "Geography" ;
+    skos:definition "Census concepts related to geography" .
+
+cendata:Nation a skos:Concept ;
+    skos:prefLabel "Nation" ;
+    skos:definition "Singleton United States root geography" ;
+    cendata:universe "Geographic entity" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "geographic_summary" ;
+    skos:broader cendata:Geography .
+
+cendata:Region a skos:Concept ;
+    skos:prefLabel "Census Region" ;
+    skos:definition "4 Census regions (Northeast, Midwest, South, West)" ;
+    cendata:universe "Geographic entity" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "geographic_summary" ;
+    skos:broader cendata:Geography .
+
+cendata:Division a skos:Concept ;
+    skos:prefLabel "Census Division" ;
+    skos:definition "9 divisions nested in regions" ;
+    cendata:universe "Geographic entity" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "geographic_summary" ;
+    skos:broader cendata:Geography .
+
+cendata:State a skos:Concept ;
+    skos:prefLabel "State" ;
+    skos:definition "50 states + DC + PR" ;
+    cendata:universe "Geographic entity" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "geographic_summary" ;
+    skos:broader cendata:Geography .
+
+cendata:County a skos:Concept ;
+    skos:prefLabel "County" ;
+    skos:definition "County or county equivalent (parish, borough, etc.)" ;
+    cendata:universe "Geographic entity" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "geographic_summary" ;
+    skos:broader cendata:Geography .
+
+cendata:CountySubdivision a skos:Concept ;
+    skos:prefLabel "County Subdivision" ;
+    skos:definition "Minor civil divisions, townships, unorganized territories" ;
+    cendata:universe "Geographic entity" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "geographic_summary" ;
+    skos:broader cendata:Geography .
+
+cendata:Place a skos:Concept ;
+    skos:prefLabel "Place" ;
+    skos:definition "Incorporated places and census designated places (CDPs)" ;
+    cendata:universe "Geographic entity" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "geographic_summary" ;
+    skos:broader cendata:Geography .
+
+cendata:CensusTract a skos:Concept ;
+    skos:prefLabel "Census Tract" ;
+    skos:definition "Small statistical subdivisions of counties (1,200-8,000 people)" ;
+    cendata:universe "Geographic entity" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "geographic_summary" ;
+    skos:broader cendata:Geography .
+
+cendata:BlockGroup a skos:Concept ;
+    skos:prefLabel "Block Group" ;
+    skos:definition "Subdivisions of census tracts (600-3,000 people)" ;
+    cendata:universe "Geographic entity" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "geographic_summary" ;
+    skos:broader cendata:Geography .
+
+cendata:CensusBlock a skos:Concept ;
+    skos:prefLabel "Census Block" ;
+    skos:definition "Atomic geography - smallest geographic entity" ;
+    cendata:universe "Geographic entity" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "geographic_summary" ;
+    skos:broader cendata:Geography .
+
+cendata:PUMA a skos:Concept ;
+    skos:prefLabel "Public Use Microdata Area" ;
+    skos:definition "Areas with 100,000+ population for microdata samples" ;
+    cendata:universe "Geographic entity" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "geographic_summary" ;
+    skos:broader cendata:Geography .
+
+cendata:ZCTA a skos:Concept ;
+    skos:prefLabel "ZIP Code Tabulation Area" ;
+    skos:definition "Statistical approximation of postal ZIP codes" ;
+    cendata:universe "Geographic entity" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "geographic_summary" ;
+    skos:broader cendata:Geography .
+
+cendata:UrbanArea a skos:Concept ;
+    skos:prefLabel "Urban Area" ;
+    skos:definition "Urbanized areas and urban clusters" ;
+    cendata:universe "Geographic entity" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "geographic_summary" ;
+    skos:broader cendata:Geography .
+
+cendata:CBSA a skos:Concept ;
+    skos:prefLabel "Core-based Statistical Area" ;
+    skos:definition "Metropolitan and micropolitan statistical areas" ;
+    cendata:universe "Geographic entity" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "geographic_summary" ;
+    skos:broader cendata:Geography .
+
+cendata:SchoolDistrict a skos:Concept ;
+    skos:prefLabel "School District" ;
+    skos:definition "Elementary, secondary, and unified school districts" ;
+    cendata:universe "Geographic entity" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "geographic_summary" ;
+    skos:broader cendata:Geography .
+
+cendata:CongressionalDistrict a skos:Concept ;
+    skos:prefLabel "Congressional District" ;
+    skos:definition "118th Congress vintage congressional districts" ;
+    cendata:universe "Geographic entity" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "geographic_summary" ;
+    skos:broader cendata:Geography .
+
+cendata:StateLegDistrict a skos:Concept ;
+    skos:prefLabel "State Legislative District" ;
+    skos:definition "Upper and lower chamber legislative districts" ;
+    cendata:universe "Geographic entity" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "geographic_summary" ;
+    skos:broader cendata:Geography .
+
+cendata:AIANNH a skos:Concept ;
+    skos:prefLabel "AIANNH Area" ;
+    skos:definition "American Indian, Alaska Native, Native Hawaiian areas" ;
+    cendata:universe "Geographic entity" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "geographic_summary" ;
+    skos:broader cendata:Geography .
+
+cendata:AIReservation a skos:Concept ;
+    skos:prefLabel "American Indian Reservation" ;
+    skos:definition "Federal and state American Indian reservations" ;
+    cendata:universe "Geographic entity" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "geographic_summary" ;
+    skos:broader cendata:Geography .
+
+cendata:VotingDistrict a skos:Concept ;
+    skos:prefLabel "Voting District" ;
+    skos:definition "Voting tabulation districts and precincts" ;
+    cendata:universe "Geographic entity" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:RoutingImplementation ;
+    cendata:censusTables "" ;
+    skos:broader cendata:Geography .
+
+cendata:SubminorDivision a skos:Concept ;
+    skos:prefLabel "Subminor Civil Division" ;
+    skos:definition "Subdivisions of minor civil divisions (limited states)" ;
+    cendata:universe "Geographic entity" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "geographic_reference_files, TIGER_shapefiles" ;
+    skos:broader cendata:Geography .
+
+cendata:TrustLand a skos:Concept ;
+    skos:prefLabel "Off-Reservation Trust Land" ;
+    skos:definition "Trust lands associated with reservations but not contiguous" ;
+    cendata:universe "Geographic entity" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:RoutingImplementation ;
+    cendata:censusTables "" ;
+    skos:broader cendata:Geography .
+
+cendata:TribalTract a skos:Concept ;
+    skos:prefLabel "Tribal Census Tract" ;
+    skos:definition "Census tracts within American Indian reservations" ;
+    cendata:universe "Geographic entity" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "geographic_reference_files, TIGER_shapefiles" ;
+    skos:broader cendata:Geography .
+
+
+# HealthSocial Category (36 concepts)
+cendata:HealthSocial a skos:Concept ;
+    skos:prefLabel "HealthSocial" ;
+    skos:definition "Census concepts related to health_social" .
+
+cendata:HealthInsuranceCoverage a skos:Concept ;
+    skos:prefLabel "Health Insurance Coverage" ;
+    skos:definition "Percentage of population with health insurance coverage" ;
+    cendata:universe "Civilian noninstitutionalized population" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B27001" ;
+    skos:broader cendata:HealthSocial .
+
+cendata:UninsuredRate a skos:Concept ;
+    skos:prefLabel "Uninsured Rate" ;
+    skos:definition "Percentage of population without health insurance" ;
+    cendata:universe "Civilian noninstitutionalized population" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B27001" ;
+    skos:broader cendata:HealthSocial .
+
+cendata:DisabilityRate a skos:Concept ;
+    skos:prefLabel "Disability Rate" ;
+    skos:definition "Percentage of population with a disability" ;
+    cendata:universe "Civilian noninstitutionalized population" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B18101" ;
+    skos:broader cendata:HealthSocial .
+
+cendata:DisabilityByAge a skos:Concept ;
+    skos:prefLabel "Disability by Age" ;
+    skos:definition "Disability status by age groups" ;
+    cendata:universe "Civilian noninstitutionalized population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B18101" ;
+    skos:broader cendata:HealthSocial .
+
+cendata:HearingDifficulty a skos:Concept ;
+    skos:prefLabel "Hearing Difficulty" ;
+    skos:definition "Population with hearing difficulty" ;
+    cendata:universe "Civilian noninstitutionalized population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B18102" ;
+    skos:broader cendata:HealthSocial .
+
+cendata:VisionDifficulty a skos:Concept ;
+    skos:prefLabel "Vision Difficulty" ;
+    skos:definition "Population with vision difficulty" ;
+    cendata:universe "Civilian noninstitutionalized population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B18102" ;
+    skos:broader cendata:HealthSocial .
+
+cendata:CognitiveDifficulty a skos:Concept ;
+    skos:prefLabel "Cognitive Difficulty" ;
+    skos:definition "Population with cognitive difficulty" ;
+    cendata:universe "Civilian noninstitutionalized population 5 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B18102" ;
+    skos:broader cendata:HealthSocial .
+
+cendata:AmbulatoryDifficulty a skos:Concept ;
+    skos:prefLabel "Ambulatory Difficulty" ;
+    skos:definition "Population with ambulatory difficulty" ;
+    cendata:universe "Civilian noninstitutionalized population 5 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B18102" ;
+    skos:broader cendata:HealthSocial .
+
+cendata:SelfCareDifficulty a skos:Concept ;
+    skos:prefLabel "Self-Care Difficulty" ;
+    skos:definition "Population with self-care difficulty" ;
+    cendata:universe "Civilian noninstitutionalized population 5 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B18102" ;
+    skos:broader cendata:HealthSocial .
+
+cendata:IndependentLivingDifficulty a skos:Concept ;
+    skos:prefLabel "Independent Living Difficulty" ;
+    skos:definition "Population with independent living difficulty" ;
+    cendata:universe "Civilian noninstitutionalized population 18 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B18102" ;
+    skos:broader cendata:HealthSocial .
+
+cendata:VeteranStatus a skos:Concept ;
+    skos:prefLabel "Veteran Status" ;
+    skos:definition "Population who served in US Armed Forces" ;
+    cendata:universe "Civilian population 18 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B21001" ;
+    skos:broader cendata:HealthSocial .
+
+cendata:VeteransByPeriod a skos:Concept ;
+    skos:prefLabel "Veterans by Service Period" ;
+    skos:definition "Veterans by period of military service" ;
+    cendata:universe "Civilian veterans 18 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B21002" ;
+    skos:broader cendata:HealthSocial .
+
+cendata:VeteranDisability a skos:Concept ;
+    skos:prefLabel "Veteran Disability Status" ;
+    skos:definition "Veterans with service-connected disability" ;
+    cendata:universe "Civilian veterans 18 years and over" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B21007" ;
+    skos:broader cendata:HealthSocial .
+
+cendata:SNAPBenefits a skos:Concept ;
+    skos:prefLabel "SNAP Benefits" ;
+    skos:definition "Households receiving Supplemental Nutrition Assistance" ;
+    cendata:universe "Households" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B22003" ;
+    skos:broader cendata:HealthSocial .
+
+cendata:SSIRecipients a skos:Concept ;
+    skos:prefLabel "SSI Recipients" ;
+    skos:definition "Recipients of Supplemental Security Income" ;
+    cendata:universe "Population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B19056" ;
+    skos:broader cendata:HealthSocial .
+
+cendata:PublicAssistance a skos:Concept ;
+    skos:prefLabel "Public Assistance Income" ;
+    skos:definition "Households receiving public assistance income" ;
+    cendata:universe "Households" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B19058" ;
+    skos:broader cendata:HealthSocial .
+
+cendata:ElderlyLivingArrangements a skos:Concept ;
+    skos:prefLabel "Elderly Living Arrangements" ;
+    skos:definition "Living arrangements for elderly population" ;
+    cendata:universe "Population 65 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B09020" ;
+    skos:broader cendata:HealthSocial .
+
+cendata:ChildPoverty a skos:Concept ;
+    skos:prefLabel "Child Poverty Rate" ;
+    skos:definition "Poverty rate among children under 18" ;
+    cendata:universe "Population under 18 years for whom poverty status determined" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B17006" ;
+    skos:broader cendata:HealthSocial .
+
+cendata:ElderlyPoverty a skos:Concept ;
+    skos:prefLabel "Elderly Poverty Rate" ;
+    skos:definition "Poverty rate among elderly population" ;
+    cendata:universe "Population 65 years and over for whom poverty status determined" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B17006" ;
+    skos:broader cendata:HealthSocial .
+
+cendata:MedicaidCoverage a skos:Concept ;
+    skos:prefLabel "Medicaid Coverage" ;
+    skos:definition "Population covered by Medicaid" ;
+    cendata:universe "Civilian noninstitutionalized population" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B27003" ;
+    skos:broader cendata:HealthSocial .
+
+cendata:MedicareCoverage a skos:Concept ;
+    skos:prefLabel "Medicare Coverage" ;
+    skos:definition "Population covered by Medicare" ;
+    cendata:universe "Civilian noninstitutionalized population" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B27003" ;
+    skos:broader cendata:HealthSocial .
+
+cendata:PrivateInsurance a skos:Concept ;
+    skos:prefLabel "Private Health Insurance" ;
+    skos:definition "Population with private health insurance" ;
+    cendata:universe "Civilian noninstitutionalized population" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B27003" ;
+    skos:broader cendata:HealthSocial .
+
+cendata:TricareCoverage a skos:Concept ;
+    skos:prefLabel "Tricare Coverage" ;
+    skos:definition "Population covered by Tricare/military health care" ;
+    cendata:universe "Civilian noninstitutionalized population" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B27003" ;
+    skos:broader cendata:HealthSocial .
+
+cendata:HealthcareWorkers a skos:Concept ;
+    skos:prefLabel "Healthcare Workers" ;
+    skos:definition "Population employed in healthcare occupations" ;
+    cendata:universe "Civilian employed population 16 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "C24010" ;
+    skos:broader cendata:HealthSocial .
+
+cendata:SocialWorkers a skos:Concept ;
+    skos:prefLabel "Social Workers" ;
+    skos:definition "Population employed as social workers" ;
+    cendata:universe "Civilian employed population 16 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "C24010, B24010" ;
+    skos:broader cendata:HealthSocial .
+
+cendata:DisabilityByType a skos:Concept ;
+    skos:prefLabel "Disability by Type" ;
+    skos:definition "Population by type of disability" ;
+    cendata:universe "Civilian noninstitutionalized population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B18104, B18105, B18106, B18107" ;
+    skos:broader cendata:HealthSocial .
+
+cendata:SocialSecurityIncome a skos:Concept ;
+    skos:prefLabel "Social Security Income" ;
+    skos:definition "Households with Social Security income" ;
+    cendata:universe "Households" ;
+    cendata:statisticalMethod cendata:MedianMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B19055" ;
+    skos:broader cendata:HealthSocial .
+
+cendata:RetirementIncome a skos:Concept ;
+    skos:prefLabel "Retirement Income" ;
+    skos:definition "Households with retirement income" ;
+    cendata:universe "Households" ;
+    cendata:statisticalMethod cendata:MedianMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B19057" ;
+    skos:broader cendata:HealthSocial .
+
+cendata:ElderlyLivingAlone a skos:Concept ;
+    skos:prefLabel "Elderly Living Alone" ;
+    skos:definition "Elderly persons living alone" ;
+    cendata:universe "Population 65 years and over" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B09021, B11007" ;
+    skos:broader cendata:HealthSocial .
+
+cendata:Grandparents a skos:Concept ;
+    skos:prefLabel "Grandparents as Caregivers" ;
+    skos:definition "Grandparents responsible for grandchildren" ;
+    cendata:universe "Population 30 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B10051" ;
+    skos:broader cendata:HealthSocial .
+
+cendata:SingleParentHouseholds a skos:Concept ;
+    skos:prefLabel "Single Parent Households" ;
+    skos:definition "Family households with single parent" ;
+    cendata:universe "Family households with own children under 18" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B11003, B11005, B23008" ;
+    skos:broader cendata:HealthSocial .
+
+cendata:FertilityRate a skos:Concept ;
+    skos:prefLabel "Fertility Rate" ;
+    skos:definition "Number of births per 1,000 women of childbearing age" ;
+    cendata:universe "Women 15 to 50 years" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ComplexImplementation ;
+    cendata:censusTables "B13016, B01001" ;
+    skos:broader cendata:HealthSocial .
+
+cendata:CommunityHealthWorkers a skos:Concept ;
+    skos:prefLabel "Community Health Workers" ;
+    skos:definition "Population employed as community health workers" ;
+    cendata:universe "Civilian employed population 16 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "C24010" ;
+    skos:broader cendata:HealthSocial .
+
+cendata:TeenBirthRate a skos:Concept ;
+    skos:prefLabel "Teen Birth Rate" ;
+    skos:definition "Birth rate among teenage women..." ;
+    cendata:universe "Women 15 to 19 years" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:RoutingImplementation ;
+    cendata:censusTables "" ;
+    skos:broader cendata:HealthSocial .
+
+cendata:HealthEquityMeasures a skos:Concept ;
+    skos:prefLabel "Health Equity Measures" ;
+    skos:definition "Health disparities across demographic groups..." ;
+    cendata:universe "Population by race and ethnicity" ;
+    cendata:statisticalMethod cendata:CompositeMethod ;
+    cendata:complexityLevel cendata:ComplexImplementation ;
+    cendata:censusTables "B19013, B25077, S2701, B17001A, B17001B, B17001C, B17001D, B17001E, B17001F, B17001G, B17001H, B17001I" ;
+    skos:broader cendata:HealthSocial .
+
+cendata:CommunityWellbeingIndex a skos:Concept ;
+    skos:prefLabel "Community Wellbeing Index" ;
+    skos:definition "Composite measure of community health and social wellbeing..." ;
+    cendata:universe "Population" ;
+    cendata:statisticalMethod cendata:CompositeMethod ;
+    cendata:complexityLevel cendata:ComplexImplementation ;
+    cendata:censusTables "B19013, B25077, B08303, B15003, B25003, B08134, B27001" ;
+    skos:broader cendata:HealthSocial .
+
+
+# Housing Category (61 concepts)
+cendata:Housing a skos:Concept ;
+    skos:prefLabel "Housing" ;
+    skos:definition "Census concepts related to housing" .
+
+cendata:MedianHomeValue a skos:Concept ;
+    skos:prefLabel "Median Home Value" ;
+    skos:definition "Median value of owner-occupied housing units" ;
+    cendata:universe "Owner-occupied housing units" ;
+    cendata:statisticalMethod cendata:MedianMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B25077" ;
+    skos:broader cendata:Housing .
+
+cendata:MedianRent a skos:Concept ;
+    skos:prefLabel "Median Gross Rent" ;
+    skos:definition "Median gross rent paid by renter-occupied housing units" ;
+    cendata:universe "Renter-occupied housing units paying cash rent" ;
+    cendata:statisticalMethod cendata:MedianMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B25064" ;
+    skos:broader cendata:Housing .
+
+cendata:HousingTenure a skos:Concept ;
+    skos:prefLabel "Housing Tenure" ;
+    skos:definition "Owner-occupied versus renter-occupied housing units" ;
+    cendata:universe "Occupied housing units" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B25003" ;
+    skos:broader cendata:Housing .
+
+cendata:HomeownershipRate a skos:Concept ;
+    skos:prefLabel "Homeownership Rate" ;
+    skos:definition "Percentage of occupied housing units that are owner-occupied" ;
+    cendata:universe "Occupied housing units" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B25003" ;
+    skos:broader cendata:Housing .
+
+cendata:HousingUnits a skos:Concept ;
+    skos:prefLabel "Total Housing Units" ;
+    skos:definition "Total number of housing units in area" ;
+    cendata:universe "Housing units" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B25001" ;
+    skos:broader cendata:Housing .
+
+cendata:OccupiedHousingUnits a skos:Concept ;
+    skos:prefLabel "Occupied Housing Units" ;
+    skos:definition "Number of housing units with residents" ;
+    cendata:universe "Housing units" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B25002" ;
+    skos:broader cendata:Housing .
+
+cendata:HouseholdSize a skos:Concept ;
+    skos:prefLabel "Average Household Size" ;
+    skos:definition "Average number of people per occupied housing unit" ;
+    cendata:universe "Occupied housing units" ;
+    cendata:statisticalMethod cendata:MeanMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B25010" ;
+    skos:broader cendata:Housing .
+
+cendata:VacancyRate a skos:Concept ;
+    skos:prefLabel "Housing Vacancy Rate" ;
+    skos:definition "Percentage of housing units that are vacant" ;
+    cendata:universe "Total housing units" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B25002" ;
+    skos:broader cendata:Housing .
+
+cendata:VacantHousingUnits a skos:Concept ;
+    skos:prefLabel "Vacant Housing Units" ;
+    skos:definition "Number of housing units without residents" ;
+    cendata:universe "Housing units" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B25002" ;
+    skos:broader cendata:Housing .
+
+cendata:SevereHousingCostBurden a skos:Concept ;
+    skos:prefLabel "Severe Housing Cost Burden" ;
+    skos:definition "Percentage paying 50% or more of income for housing" ;
+    cendata:universe "Occupied housing units" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B25070, B25091" ;
+    skos:broader cendata:Housing .
+
+cendata:RentBurden a skos:Concept ;
+    skos:prefLabel "Rent Burden" ;
+    skos:definition "Percentage of renters paying 30% or more of income for rent" ;
+    cendata:universe "Renter-occupied housing units" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B25070" ;
+    skos:broader cendata:Housing .
+
+cendata:OwnerCostBurden a skos:Concept ;
+    skos:prefLabel "Owner Cost Burden" ;
+    skos:definition "Percentage of owners paying 30% or more of income for housing" ;
+    cendata:universe "Owner-occupied housing units" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B25091" ;
+    skos:broader cendata:Housing .
+
+cendata:YearBuilt a skos:Concept ;
+    skos:prefLabel "Year Structure Built" ;
+    skos:definition "Distribution of housing units by year built" ;
+    cendata:universe "Housing units" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B25034" ;
+    skos:broader cendata:Housing .
+
+cendata:HousingAge a skos:Concept ;
+    skos:prefLabel "Median Year Structure Built" ;
+    skos:definition "Median year housing structures were built" ;
+    cendata:universe "Housing units" ;
+    cendata:statisticalMethod cendata:MedianMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B25035" ;
+    skos:broader cendata:Housing .
+
+cendata:UnitsInStructure a skos:Concept ;
+    skos:prefLabel "Units in Structure" ;
+    skos:definition "Number of housing units in building structure" ;
+    cendata:universe "Housing units" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B25024" ;
+    skos:broader cendata:Housing .
+
+cendata:SingleFamilyHomes a skos:Concept ;
+    skos:prefLabel "Single Family Detached Homes" ;
+    skos:definition "Housing units in single-family detached structures" ;
+    cendata:universe "Housing units" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B25024" ;
+    skos:broader cendata:Housing .
+
+cendata:MultifamilyHousing a skos:Concept ;
+    skos:prefLabel "Multifamily Housing" ;
+    skos:definition "Housing units in structures with 2+ units" ;
+    cendata:universe "Housing units" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B25024" ;
+    skos:broader cendata:Housing .
+
+cendata:MobileHomes a skos:Concept ;
+    skos:prefLabel "Mobile Homes" ;
+    skos:definition "Housing units that are mobile homes or trailers" ;
+    cendata:universe "Housing units" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B25024" ;
+    skos:broader cendata:Housing .
+
+cendata:Bedrooms a skos:Concept ;
+    skos:prefLabel "Number of Bedrooms" ;
+    skos:definition "Distribution of housing units by number of bedrooms" ;
+    cendata:universe "Housing units" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B25041" ;
+    skos:broader cendata:Housing .
+
+cendata:Rooms a skos:Concept ;
+    skos:prefLabel "Number of Rooms" ;
+    skos:definition "Distribution of housing units by total number of rooms" ;
+    cendata:universe "Housing units" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B25017" ;
+    skos:broader cendata:Housing .
+
+cendata:MedianRooms a skos:Concept ;
+    skos:prefLabel "Median Number of Rooms" ;
+    skos:definition "Median number of rooms in housing units" ;
+    cendata:universe "Housing units" ;
+    cendata:statisticalMethod cendata:MedianMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B25018" ;
+    skos:broader cendata:Housing .
+
+cendata:HeatingFuel a skos:Concept ;
+    skos:prefLabel "Heating Fuel" ;
+    skos:definition "Primary fuel used for heating housing units" ;
+    cendata:universe "Occupied housing units" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B25040" ;
+    skos:broader cendata:Housing .
+
+cendata:KitchenFacilities a skos:Concept ;
+    skos:prefLabel "Kitchen Facilities" ;
+    skos:definition "Presence and completeness of kitchen facilities" ;
+    cendata:universe "Housing units" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B25051" ;
+    skos:broader cendata:Housing .
+
+cendata:PlumbingFacilities a skos:Concept ;
+    skos:prefLabel "Plumbing Facilities" ;
+    skos:definition "Presence and completeness of plumbing facilities" ;
+    cendata:universe "Housing units" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B25047" ;
+    skos:broader cendata:Housing .
+
+cendata:Vehicles a skos:Concept ;
+    skos:prefLabel "Vehicles Available" ;
+    skos:definition "Number of vehicles available to household" ;
+    cendata:universe "Occupied housing units" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B08201" ;
+    skos:broader cendata:Housing .
+
+cendata:NoVehicleHouseholds a skos:Concept ;
+    skos:prefLabel "Households Without Vehicle" ;
+    skos:definition "Households with no vehicle available" ;
+    cendata:universe "Occupied housing units" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B08201" ;
+    skos:broader cendata:Housing .
+
+cendata:Overcrowding a skos:Concept ;
+    skos:prefLabel "Overcrowded Housing" ;
+    skos:definition "Housing units with more than 1 person per room" ;
+    cendata:universe "Occupied housing units" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B25014" ;
+    skos:broader cendata:Housing .
+
+cendata:MortgageStatus a skos:Concept ;
+    skos:prefLabel "Mortgage Status" ;
+    skos:definition "Owner-occupied units with and without mortgage" ;
+    cendata:universe "Owner-occupied housing units" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B25081" ;
+    skos:broader cendata:Housing .
+
+cendata:MonthlyOwnerCosts a skos:Concept ;
+    skos:prefLabel "Monthly Owner Costs" ;
+    skos:definition "Median monthly owner costs including mortgage, taxes, insurance" ;
+    cendata:universe "Owner-occupied housing units" ;
+    cendata:statisticalMethod cendata:MedianMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B25088" ;
+    skos:broader cendata:Housing .
+
+cendata:PropertyTaxes a skos:Concept ;
+    skos:prefLabel "Property Taxes" ;
+    skos:definition "Median annual property taxes paid" ;
+    cendata:universe "Owner-occupied housing units" ;
+    cendata:statisticalMethod cendata:MedianMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B25103" ;
+    skos:broader cendata:Housing .
+
+cendata:YearMovedIn a skos:Concept ;
+    skos:prefLabel "Year Householder Moved In" ;
+    skos:definition "Distribution by year current householder moved in" ;
+    cendata:universe "Occupied housing units" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B25026" ;
+    skos:broader cendata:Housing .
+
+cendata:HousingByAge a skos:Concept ;
+    skos:prefLabel "Housing Tenure by Age" ;
+    skos:definition "Housing tenure by age of householder" ;
+    cendata:universe "Occupied housing units" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B25007" ;
+    skos:broader cendata:Housing .
+
+cendata:HousingByIncome a skos:Concept ;
+    skos:prefLabel "Housing Tenure by Income" ;
+    skos:definition "Housing tenure by household income" ;
+    cendata:universe "Occupied housing units" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B25118" ;
+    skos:broader cendata:Housing .
+
+cendata:GroupQuarters a skos:Concept ;
+    skos:prefLabel "Group Quarters Population" ;
+    skos:definition "People living in institutional and non-institutional group quarters" ;
+    cendata:universe "Population in group quarters" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B26001" ;
+    skos:broader cendata:Housing .
+
+cendata:RentalVacancy a skos:Concept ;
+    skos:prefLabel "Rental Vacancy Rate" ;
+    skos:definition "Percentage of rental units that are vacant" ;
+    cendata:universe "Rental housing units" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B25004" ;
+    skos:broader cendata:Housing .
+
+cendata:ComputerAccess a skos:Concept ;
+    skos:prefLabel "Computer Access" ;
+    skos:definition "Households with computer access" ;
+    cendata:universe "Occupied housing units" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B28001" ;
+    skos:broader cendata:Housing .
+
+cendata:HousingValue a skos:Concept ;
+    skos:prefLabel "Housing Value Distribution" ;
+    skos:definition "Distribution of housing values by price range" ;
+    cendata:universe "Owner-occupied housing units" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B25075" ;
+    skos:broader cendata:Housing .
+
+cendata:RentDistribution a skos:Concept ;
+    skos:prefLabel "Rent Distribution" ;
+    skos:definition "Distribution of gross rent by price range" ;
+    cendata:universe "Renter-occupied housing units" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B25063" ;
+    skos:broader cendata:Housing .
+
+cendata:HousingStability a skos:Concept ;
+    skos:prefLabel "Housing Stability" ;
+    skos:definition "Percentage of households in same residence for 5+ years" ;
+    cendata:universe "Occupied housing units" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B25026" ;
+    skos:broader cendata:Housing .
+
+cendata:SeverelyOvercrowdedHousing a skos:Concept ;
+    skos:prefLabel "Severely Overcrowded Housing" ;
+    skos:definition "Housing units with more than 1.5 persons per room..." ;
+    cendata:universe "Occupied housing units" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B25014" ;
+    skos:broader cendata:Housing .
+
+cendata:SeasonalVacancyRate a skos:Concept ;
+    skos:prefLabel "Seasonal Vacancy Rate" ;
+    skos:definition "Percentage of vacant units held for seasonal use..." ;
+    cendata:universe "Vacant housing units" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B25004" ;
+    skos:broader cendata:Housing .
+
+cendata:CooperativeHousing a skos:Concept ;
+    skos:prefLabel "Cooperative Housing" ;
+    skos:definition "Housing units in cooperative ownership..." ;
+    cendata:universe "Occupied housing units" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B25003, B25032" ;
+    skos:broader cendata:Housing .
+
+cendata:HousingCostBurden a skos:Concept ;
+    skos:prefLabel "Housing Cost Burden" ;
+    skos:definition "Percentage paying 30% or more of income for housing" ;
+    cendata:universe "Occupied housing units" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B25070, B25091" ;
+    skos:broader cendata:Housing .
+
+cendata:MovedInYear a skos:Concept ;
+    skos:prefLabel "Moved in Past Year" ;
+    skos:definition "Percentage of households that moved in past year" ;
+    cendata:universe "Occupied housing units" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B07003" ;
+    skos:broader cendata:Housing .
+
+cendata:HousingByRace a skos:Concept ;
+    skos:prefLabel "Housing Tenure by Race" ;
+    skos:definition "Housing tenure by race and Hispanic origin" ;
+    cendata:universe "Occupied housing units" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B25003A, B25003B, B25003C, B25003D, B25003E, B25003F, B25003G, B25003H, B25003I" ;
+    skos:broader cendata:Housing .
+
+cendata:SeniorHousing a skos:Concept ;
+    skos:prefLabel "Senior Housing" ;
+    skos:definition "Housing characteristics for seniors 65 and older" ;
+    cendata:universe "Occupied housing units with householder 65+" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B25007" ;
+    skos:broader cendata:Housing .
+
+cendata:HousingDensity a skos:Concept ;
+    skos:prefLabel "Housing Density" ;
+    skos:definition "Housing units per square mile" ;
+    cendata:universe "Land area" ;
+    cendata:statisticalMethod cendata:RatioMethod ;
+    cendata:complexityLevel cendata:ComplexImplementation ;
+    cendata:censusTables "B25001, G001" ;
+    skos:broader cendata:Housing .
+
+cendata:InternetAccess a skos:Concept ;
+    skos:prefLabel "Internet Access" ;
+    skos:definition "Households with broadband internet access" ;
+    cendata:universe "Occupied housing units" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B28002" ;
+    skos:broader cendata:Housing .
+
+cendata:SubstandardHousing a skos:Concept ;
+    skos:prefLabel "Substandard Housing" ;
+    skos:definition "Housing lacking complete plumbing or kitchen facilities..." ;
+    cendata:universe "Housing units" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B25016, B25053, B25047, B25048, B25049" ;
+    skos:broader cendata:Housing .
+
+cendata:UtilityCosts a skos:Concept ;
+    skos:prefLabel "Utility Costs" ;
+    skos:definition "Median monthly utility costs..." ;
+    cendata:universe "Occupied housing units" ;
+    cendata:statisticalMethod cendata:MedianMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B25140" ;
+    skos:broader cendata:Housing .
+
+cendata:StudentHousing a skos:Concept ;
+    skos:prefLabel "Student Housing" ;
+    skos:definition "Housing for college and university students..." ;
+    cendata:universe "Occupied housing units with enrolled students" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ComplexImplementation ;
+    cendata:censusTables "B25013, B25014, B08301, B15012" ;
+    skos:broader cendata:Housing .
+
+cendata:AffordableHousingUnits a skos:Concept ;
+    skos:prefLabel "Affordable Housing Units" ;
+    skos:definition "Rental units affordable to low-income households..." ;
+    cendata:universe "Rental housing units" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ComplexImplementation ;
+    cendata:censusTables "B25056, B25063, B25074, B25118, B19001" ;
+    skos:broader cendata:Housing .
+
+cendata:ForSaleVacancyRate a skos:Concept ;
+    skos:prefLabel "For Sale Vacancy Rate" ;
+    skos:definition "Percentage of for-sale units that are vacant..." ;
+    cendata:universe "Housing units for sale" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B25004" ;
+    skos:broader cendata:Housing .
+
+cendata:HousingUnitGrowth a skos:Concept ;
+    skos:prefLabel "Housing Unit Growth" ;
+    skos:definition "Rate of new housing construction..." ;
+    cendata:universe "Housing units" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ComplexImplementation ;
+    cendata:censusTables "B25001, B25002, B25003, B25004" ;
+    skos:broader cendata:Housing .
+
+cendata:CondominiumUnits a skos:Concept ;
+    skos:prefLabel "Condominium Units" ;
+    skos:definition "Owner-occupied condominium housing units..." ;
+    cendata:universe "Owner-occupied housing units" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B25032" ;
+    skos:broader cendata:Housing .
+
+cendata:HousingAssistance a skos:Concept ;
+    skos:prefLabel "Housing Assistance" ;
+    skos:definition "Households receiving housing assistance..." ;
+    cendata:universe "Renter-occupied housing units" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B25070, B25091, B25119" ;
+    skos:broader cendata:Housing .
+
+cendata:WaterAccess a skos:Concept ;
+    skos:prefLabel "Water Access" ;
+    skos:definition "Housing units with access to public water supply..." ;
+    cendata:universe "Housing units" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B25049" ;
+    skos:broader cendata:Housing .
+
+cendata:SewerAccess a skos:Concept ;
+    skos:prefLabel "Sewer Access" ;
+    skos:definition "Housing units connected to public sewer system..." ;
+    cendata:universe "Housing units" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B25047" ;
+    skos:broader cendata:Housing .
+
+cendata:HousingAffordabilityIndex a skos:Concept ;
+    skos:prefLabel "Housing Affordability Index" ;
+    skos:definition "Ratio of median home price to median household income..." ;
+    cendata:universe "Households" ;
+    cendata:statisticalMethod cendata:RatioMethod ;
+    cendata:complexityLevel cendata:ComplexImplementation ;
+    cendata:censusTables "B19013, B25077" ;
+    skos:broader cendata:Housing .
+
+cendata:NeighborhoodQualityIndicators a skos:Concept ;
+    skos:prefLabel "Neighborhood Quality Indicators" ;
+    skos:definition "Composite measure of neighborhood characteristics..." ;
+    cendata:universe "Census tracts" ;
+    cendata:statisticalMethod cendata:CompositeMethod ;
+    cendata:complexityLevel cendata:ComplexImplementation ;
+    cendata:censusTables "B19013, B25077, B25002, B02001, B15003, B23025" ;
+    skos:broader cendata:Housing .
+
+cendata:GentrificationIndicators a skos:Concept ;
+    skos:prefLabel "Gentrification Indicators" ;
+    skos:definition "Changes in home values, income, and education indicating gentrification..." ;
+    cendata:universe "Census tracts" ;
+    cendata:statisticalMethod cendata:CompositeMethod ;
+    cendata:complexityLevel cendata:ComplexImplementation ;
+    cendata:censusTables "B19013, B25077, B15003, B08303, B25003, B25002" ;
+    skos:broader cendata:Housing .
+
+
+# SpecializedPopulations Category (42 concepts)
+cendata:SpecializedPopulations a skos:Concept ;
+    skos:prefLabel "SpecializedPopulations" ;
+    skos:definition "Census concepts related to specialized_populations" .
+
+cendata:ForeignBornPopulation a skos:Concept ;
+    skos:prefLabel "Foreign-Born Population" ;
+    skos:definition "Population born outside the United States" ;
+    cendata:universe "Total population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B05001" ;
+    skos:broader cendata:SpecializedPopulations .
+
+cendata:NaturalizedCitizens a skos:Concept ;
+    skos:prefLabel "Naturalized Citizens" ;
+    skos:definition "Foreign-born population who became US citizens" ;
+    cendata:universe "Foreign-born population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B05001" ;
+    skos:broader cendata:SpecializedPopulations .
+
+cendata:NonCitizens a skos:Concept ;
+    skos:prefLabel "Non-Citizens" ;
+    skos:definition "Population who are not US citizens" ;
+    cendata:universe "Total population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B05001" ;
+    skos:broader cendata:SpecializedPopulations .
+
+cendata:YearOfEntry a skos:Concept ;
+    skos:prefLabel "Year of Entry" ;
+    skos:definition "Distribution by year foreign-born entered US" ;
+    cendata:universe "Foreign-born population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B05005" ;
+    skos:broader cendata:SpecializedPopulations .
+
+cendata:RegionOfBirth a skos:Concept ;
+    skos:prefLabel "Region of Birth" ;
+    skos:definition "Foreign-born population by world region of birth" ;
+    cendata:universe "Foreign-born population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B05006" ;
+    skos:broader cendata:SpecializedPopulations .
+
+cendata:CountryOfBirth a skos:Concept ;
+    skos:prefLabel "Country of Birth" ;
+    skos:definition "Foreign-born population by specific country of birth" ;
+    cendata:universe "Foreign-born population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B05006" ;
+    skos:broader cendata:SpecializedPopulations .
+
+cendata:LimitedEnglishProficiency a skos:Concept ;
+    skos:prefLabel "Limited English Proficiency" ;
+    skos:definition "Population speaking English less than very well" ;
+    cendata:universe "Population 5 years and over" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B16001" ;
+    skos:broader cendata:SpecializedPopulations .
+
+cendata:SpanishSpeakers a skos:Concept ;
+    skos:prefLabel "Spanish Speakers" ;
+    skos:definition "Population speaking Spanish at home" ;
+    cendata:universe "Population 5 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B16001" ;
+    skos:broader cendata:SpecializedPopulations .
+
+cendata:TribalPopulation a skos:Concept ;
+    skos:prefLabel "American Indian and Alaska Native Population" ;
+    skos:definition "Population identifying as American Indian or Alaska Native" ;
+    cendata:universe "Total population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B02001" ;
+    skos:broader cendata:SpecializedPopulations .
+
+cendata:MultiracialPopulation a skos:Concept ;
+    skos:prefLabel "Multiracial Population" ;
+    skos:definition "Population identifying with two or more races" ;
+    cendata:universe "Total population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B02001" ;
+    skos:broader cendata:SpecializedPopulations .
+
+cendata:MultigenerationalHouseholds a skos:Concept ;
+    skos:prefLabel "Multigenerational Households" ;
+    skos:definition "Households with three or more generations" ;
+    cendata:universe "Family households" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B11017" ;
+    skos:broader cendata:SpecializedPopulations .
+
+cendata:RecentImmigrants a skos:Concept ;
+    skos:prefLabel "Recent Immigrants" ;
+    skos:definition "Foreign-born who entered US in last 10 years" ;
+    cendata:universe "Foreign-born population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B05005" ;
+    skos:broader cendata:SpecializedPopulations .
+
+cendata:LanguageSpokenAtHome a skos:Concept ;
+    skos:prefLabel "Language Spoken at Home" ;
+    skos:definition "Primary language spoken at home" ;
+    cendata:universe "Population 5 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B16001" ;
+    skos:broader cendata:SpecializedPopulations .
+
+cendata:EnglishProficiency a skos:Concept ;
+    skos:prefLabel "English Language Proficiency" ;
+    skos:definition "Ability to speak English among non-English speakers" ;
+    cendata:universe "Population 5 years and over who speak non-English language" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B16001" ;
+    skos:broader cendata:SpecializedPopulations .
+
+cendata:AsianLanguageSpeakers a skos:Concept ;
+    skos:prefLabel "Asian Language Speakers" ;
+    skos:definition "Population speaking Asian and Pacific Island languages" ;
+    cendata:universe "Population 5 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B16001" ;
+    skos:broader cendata:SpecializedPopulations .
+
+cendata:ReservationPopulation a skos:Concept ;
+    skos:prefLabel "Reservation Population" ;
+    skos:definition "Population living on American Indian reservations" ;
+    cendata:universe "Population on American Indian reservations" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B01003" ;
+    skos:broader cendata:SpecializedPopulations .
+
+cendata:RuralPopulation a skos:Concept ;
+    skos:prefLabel "Rural Population" ;
+    skos:definition "Population in rural areas" ;
+    cendata:universe "Total population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B01001A, B01001B, B01001C, B01001D, B01001E, B01001F, B01001G, B01001H, B01001I" ;
+    skos:broader cendata:SpecializedPopulations .
+
+cendata:MigratingPopulation a skos:Concept ;
+    skos:prefLabel "Interstate Migrants" ;
+    skos:definition "Population who moved between states" ;
+    cendata:universe "Population 1 year and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B07001" ;
+    skos:broader cendata:SpecializedPopulations .
+
+cendata:CollegeStudents a skos:Concept ;
+    skos:prefLabel "College Student Population" ;
+    skos:definition "Students enrolled in college or university" ;
+    cendata:universe "Population 18 to 24 years" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B14004" ;
+    skos:broader cendata:SpecializedPopulations .
+
+cendata:MilitaryPersonnel a skos:Concept ;
+    skos:prefLabel "Active Military Personnel" ;
+    skos:definition "Currently serving in Armed Forces" ;
+    cendata:universe "Population 18 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B21001" ;
+    skos:broader cendata:SpecializedPopulations .
+
+cendata:CommunitiesOfColor a skos:Concept ;
+    skos:prefLabel "Communities of Color" ;
+    skos:definition "Non-white racial and ethnic populations" ;
+    cendata:universe "Total population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B03002" ;
+    skos:broader cendata:SpecializedPopulations .
+
+cendata:CohabitingCouples a skos:Concept ;
+    skos:prefLabel "Cohabiting Couples" ;
+    skos:definition "Unmarried partner households" ;
+    cendata:universe "Couple households" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B11009, B11010" ;
+    skos:broader cendata:SpecializedPopulations .
+
+cendata:TribalAffiliation a skos:Concept ;
+    skos:prefLabel "Tribal Affiliation" ;
+    skos:definition "Specific tribal grouping of American Indian population..." ;
+    cendata:universe "American Indian and Alaska Native population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B02010, C02010, BIA01" ;
+    skos:broader cendata:SpecializedPopulations .
+
+cendata:RefugeePopulation a skos:Concept ;
+    skos:prefLabel "Refugee Population" ;
+    skos:definition "Foreign-born who entered as refugees..." ;
+    cendata:universe "Foreign-born population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ComplexImplementation ;
+    cendata:censusTables "B05005, B05007, B05012" ;
+    skos:broader cendata:SpecializedPopulations .
+
+cendata:MigrantWorkers a skos:Concept ;
+    skos:prefLabel "Migrant Workers" ;
+    skos:definition "Foreign-born workers in seasonal or temporary employment..." ;
+    cendata:universe "Foreign-born employed population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:RoutingImplementation ;
+    cendata:censusTables "" ;
+    skos:broader cendata:SpecializedPopulations .
+
+cendata:FarmPopulation a skos:Concept ;
+    skos:prefLabel "Farm Population" ;
+    skos:definition "Population engaged in farming occupations..." ;
+    cendata:universe "Rural population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:RoutingImplementation ;
+    cendata:censusTables "B08124, C24010, B25003" ;
+    skos:broader cendata:SpecializedPopulations .
+
+cendata:InternationalMigrants a skos:Concept ;
+    skos:prefLabel "International Migrants" ;
+    skos:definition "Population who moved from abroad..." ;
+    cendata:universe "Population 1 year and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B07001" ;
+    skos:broader cendata:SpecializedPopulations .
+
+cendata:InstitutionalPopulation a skos:Concept ;
+    skos:prefLabel "Institutional Population" ;
+    skos:definition "Population in correctional, nursing, and other institutions..." ;
+    cendata:universe "Total population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B26001, B26010" ;
+    skos:broader cendata:SpecializedPopulations .
+
+cendata:CorrectionalInstitutionPopulation a skos:Concept ;
+    skos:prefLabel "Correctional Institution Population" ;
+    skos:definition "Population in correctional institutions..." ;
+    cendata:universe "Institutional population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B26001, B26002" ;
+    skos:broader cendata:SpecializedPopulations .
+
+cendata:NursingHomePopulation a skos:Concept ;
+    skos:prefLabel "Nursing Home Population" ;
+    skos:definition "Population in nursing facilities..." ;
+    cendata:universe "Institutional population" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B26001, B26010" ;
+    skos:broader cendata:SpecializedPopulations .
+
+cendata:TransientPopulation a skos:Concept ;
+    skos:prefLabel "Transient Population" ;
+    skos:definition "Population in temporary or transitional housing..." ;
+    cendata:universe "Population in temporary housing" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ComplexImplementation ;
+    cendata:censusTables "B25003, B25004, B25014, B25032, B25033, B25034, B25035, B25036, B25037" ;
+    skos:broader cendata:SpecializedPopulations .
+
+cendata:SeasonalResidents a skos:Concept ;
+    skos:prefLabel "Seasonal Residents" ;
+    skos:definition "Population in seasonal or recreational housing..." ;
+    cendata:universe "Households" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ComplexImplementation ;
+    cendata:censusTables "B25004" ;
+    skos:broader cendata:SpecializedPopulations .
+
+cendata:Same-SexCouples a skos:Concept ;
+    skos:prefLabel "Same-Sex Couples" ;
+    skos:definition "Same-sex married and unmarried partner households..." ;
+    cendata:universe "Coupled households" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B11009, B25126" ;
+    skos:broader cendata:SpecializedPopulations .
+
+cendata:AdoptedChildren a skos:Concept ;
+    skos:prefLabel "Adopted Children" ;
+    skos:definition "Adopted children in family households..." ;
+    cendata:universe "Children under 18 in households" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:RoutingImplementation ;
+    cendata:censusTables "" ;
+    skos:broader cendata:SpecializedPopulations .
+
+cendata:FosterChildren a skos:Concept ;
+    skos:prefLabel "Foster Children" ;
+    skos:definition "Foster children in family households..." ;
+    cendata:universe "Children under 18 in households" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B09002, B09005" ;
+    skos:broader cendata:SpecializedPopulations .
+
+cendata:ExtendedFamilyHouseholds a skos:Concept ;
+    skos:prefLabel "Extended Family Households" ;
+    skos:definition "Households with extended family members..." ;
+    cendata:universe "Family households" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ComplexImplementation ;
+    cendata:censusTables "B11017, B11001, B11010" ;
+    skos:broader cendata:SpecializedPopulations .
+
+cendata:SkippedGenerationHouseholds a skos:Concept ;
+    skos:prefLabel "Skipped Generation Households" ;
+    skos:definition "Grandparents raising grandchildren without parents present..." ;
+    cendata:universe "Family households" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B10050, B10051, B10052, B10053, B10054, B10055, B10056, B10057, B10058, B10059" ;
+    skos:broader cendata:SpecializedPopulations .
+
+cendata:Non-RelativeHouseholds a skos:Concept ;
+    skos:prefLabel "Non-Relative Households" ;
+    skos:definition "Households with non-relatives living together..." ;
+    cendata:universe "Households" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ComplexImplementation ;
+    cendata:censusTables "" ;
+    skos:broader cendata:SpecializedPopulations .
+
+cendata:IntergenerationalMobility a skos:Concept ;
+    skos:prefLabel "Intergenerational Mobility" ;
+    skos:definition "Educational and income mobility across generations..." ;
+    cendata:universe "Adults with living parents" ;
+    cendata:statisticalMethod cendata:CompositeMethod ;
+    cendata:complexityLevel cendata:RoutingImplementation ;
+    cendata:censusTables "B15002, B19001, B08301" ;
+    skos:broader cendata:SpecializedPopulations .
+
+cendata:CulturalIdentityMarkers a skos:Concept ;
+    skos:prefLabel "Cultural Identity Markers" ;
+    skos:definition "Language, ancestry, and cultural identification..." ;
+    cendata:universe "Total population" ;
+    cendata:statisticalMethod cendata:CompositeMethod ;
+    cendata:complexityLevel cendata:ComplexImplementation ;
+    cendata:censusTables "B16001, B04006, B02006" ;
+    skos:broader cendata:SpecializedPopulations .
+
+cendata:BorderCommunities a skos:Concept ;
+    skos:prefLabel "Border Communities" ;
+    skos:definition "Population in US-Mexico or US-Canada border areas..." ;
+    cendata:universe "Population in border counties" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ComplexImplementation ;
+    cendata:censusTables "B01003" ;
+    skos:broader cendata:SpecializedPopulations .
+
+cendata:IslandTerritoryPopulations a skos:Concept ;
+    skos:prefLabel "Island Territory Populations" ;
+    skos:definition "Population in Puerto Rico, Guam, US Virgin Islands, etc...." ;
+    cendata:universe "Population in US territories" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B01003_001" ;
+    skos:broader cendata:SpecializedPopulations .
+
+
+# Transportation Category (22 concepts)
+cendata:Transportation a skos:Concept ;
+    skos:prefLabel "Transportation" ;
+    skos:definition "Census concepts related to transportation" .
+
+cendata:CommuteTime a skos:Concept ;
+    skos:prefLabel "Mean Commute Time" ;
+    skos:definition "Mean travel time to work in minutes" ;
+    cendata:universe "Workers 16 years and over" ;
+    cendata:statisticalMethod cendata:MeanMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B08013" ;
+    skos:broader cendata:Transportation .
+
+cendata:CommuteMode a skos:Concept ;
+    skos:prefLabel "Commute Mode" ;
+    skos:definition "Primary means of transportation to work" ;
+    cendata:universe "Workers 16 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B08301" ;
+    skos:broader cendata:Transportation .
+
+cendata:DriveAlone a skos:Concept ;
+    skos:prefLabel "Drive Alone to Work" ;
+    skos:definition "Percentage commuting by driving alone" ;
+    cendata:universe "Workers 16 years and over" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B08301" ;
+    skos:broader cendata:Transportation .
+
+cendata:PublicTransportation a skos:Concept ;
+    skos:prefLabel "Public Transportation Use" ;
+    skos:definition "Percentage commuting by public transportation" ;
+    cendata:universe "Workers 16 years and over" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B08301" ;
+    skos:broader cendata:Transportation .
+
+cendata:WorkFromHome a skos:Concept ;
+    skos:prefLabel "Work From Home" ;
+    skos:definition "Percentage working from home" ;
+    cendata:universe "Workers 16 years and over" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B08301" ;
+    skos:broader cendata:Transportation .
+
+cendata:Carpool a skos:Concept ;
+    skos:prefLabel "Carpool to Work" ;
+    skos:definition "Percentage commuting by carpooling" ;
+    cendata:universe "Workers 16 years and over" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B08301" ;
+    skos:broader cendata:Transportation .
+
+cendata:WalkToWork a skos:Concept ;
+    skos:prefLabel "Walk to Work" ;
+    skos:definition "Percentage walking to work" ;
+    cendata:universe "Workers 16 years and over" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B08301" ;
+    skos:broader cendata:Transportation .
+
+cendata:BikeToWork a skos:Concept ;
+    skos:prefLabel "Bike to Work" ;
+    skos:definition "Percentage bicycling to work" ;
+    cendata:universe "Workers 16 years and over" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B08301" ;
+    skos:broader cendata:Transportation .
+
+cendata:VehiclesAvailable a skos:Concept ;
+    skos:prefLabel "Vehicles Available" ;
+    skos:definition "Number of vehicles available to household" ;
+    cendata:universe "Occupied housing units" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B08201" ;
+    skos:broader cendata:Transportation .
+
+cendata:NoVehicleHouseholds a skos:Concept ;
+    skos:prefLabel "Zero Vehicle Households" ;
+    skos:definition "Percentage of households with no vehicle" ;
+    cendata:universe "Occupied housing units" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B08201" ;
+    skos:broader cendata:Transportation .
+
+cendata:DepartureTime a skos:Concept ;
+    skos:prefLabel "Departure Time for Work" ;
+    skos:definition "Time of departure for work" ;
+    cendata:universe "Workers 16 years and over who did not work at home" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B08302" ;
+    skos:broader cendata:Transportation .
+
+cendata:CommuteByAge a skos:Concept ;
+    skos:prefLabel "Commute Mode by Age" ;
+    skos:definition "Transportation to work by age groups" ;
+    cendata:universe "Workers 16 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B08101" ;
+    skos:broader cendata:Transportation .
+
+cendata:CommuteByIncome a skos:Concept ;
+    skos:prefLabel "Commute Mode by Income" ;
+    skos:definition "Transportation to work by earnings" ;
+    cendata:universe "Workers 16 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B08119" ;
+    skos:broader cendata:Transportation .
+
+cendata:LongCommuters a skos:Concept ;
+    skos:prefLabel "Long Distance Commuters" ;
+    skos:definition "Percentage with commutes over 60 minutes" ;
+    cendata:universe "Workers 16 years and over" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B08012" ;
+    skos:broader cendata:Transportation .
+
+cendata:SeniorTransportation a skos:Concept ;
+    skos:prefLabel "Senior Transportation" ;
+    skos:definition "Transportation patterns for senior workers" ;
+    cendata:universe "Workers 65 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:SimpleImplementation ;
+    cendata:censusTables "B08101" ;
+    skos:broader cendata:Transportation .
+
+cendata:UrbanTransportation a skos:Concept ;
+    skos:prefLabel "Urban Transportation Patterns" ;
+    skos:definition "Transportation modes in urban areas" ;
+    cendata:universe "Workers in urban areas" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B08301" ;
+    skos:broader cendata:Transportation .
+
+cendata:InterstateCommuting a skos:Concept ;
+    skos:prefLabel "Interstate Commuting" ;
+    skos:definition "Workers commuting across state lines" ;
+    cendata:universe "Workers 16 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B08007, B08008" ;
+    skos:broader cendata:Transportation .
+
+cendata:TransportationforDisabled a skos:Concept ;
+    skos:prefLabel "Transportation for Disabled" ;
+    skos:definition "Transportation modes used by workers with disabilities..." ;
+    cendata:universe "Workers 16 years and over with disability" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ModerateImplementation ;
+    cendata:censusTables "B08301, B18101, B08134" ;
+    skos:broader cendata:Transportation .
+
+cendata:RuralTransportationPatterns a skos:Concept ;
+    skos:prefLabel "Rural Transportation Patterns" ;
+    skos:definition "Transportation modes in rural areas..." ;
+    cendata:universe "Workers in rural areas" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ComplexImplementation ;
+    cendata:censusTables "B08141, B08105" ;
+    skos:broader cendata:Transportation .
+
+cendata:Journey-to-WorkFlows a skos:Concept ;
+    skos:prefLabel "Journey-to-Work Flows" ;
+    skos:definition "Geographic patterns of work commuting..." ;
+    cendata:universe "Workers 16 years and over" ;
+    cendata:statisticalMethod cendata:CountMethod ;
+    cendata:complexityLevel cendata:ComplexImplementation ;
+    cendata:censusTables "B08301, B08303, B08119, B08130, B08131, B08132, B08133, B08134" ;
+    skos:broader cendata:Transportation .
+
+cendata:SustainableTransportation a skos:Concept ;
+    skos:prefLabel "Sustainable Transportation" ;
+    skos:definition "Use of environmentally sustainable transportation..." ;
+    cendata:universe "Workers 16 years and over" ;
+    cendata:statisticalMethod cendata:RateMethod ;
+    cendata:complexityLevel cendata:ComplexImplementation ;
+    cendata:censusTables "B08301" ;
+    skos:broader cendata:Transportation .
+
+cendata:TransportationEquity a skos:Concept ;
+    skos:prefLabel "Transportation Equity" ;
+    skos:definition "Access to transportation options across demographic groups..." ;
+    cendata:universe "Workers by income and race" ;
+    cendata:statisticalMethod cendata:CompositeMethod ;
+    cendata:complexityLevel cendata:ComplexImplementation ;
+    cendata:censusTables "B08301, B08303, B08119, B08121, B19001, B02001" ;
+    skos:broader cendata:Transportation .
+
+
+# Implementation Complexity Hierarchy
+cendata:SimpleImplementation a skos:Concept ;
+    skos:prefLabel "Simple Implementation" ;
+    skos:definition "Direct table lookup, single variable access" .
+
+cendata:ModerateImplementation a skos:Concept ;
+    skos:prefLabel "Moderate Implementation" ;
+    skos:definition "Single table calculation, rate or ratio derivation" .
+
+cendata:ComplexImplementation a skos:Concept ;
+    skos:prefLabel "Complex Implementation" ;
+    skos:definition "Multi-table calculation or sophisticated derivation" .
+
+cendata:RoutingImplementation a skos:Concept ;
+    skos:prefLabel "Routing Implementation" ;
+    skos:definition "Better sourced from non-Census agencies (BLS, etc.)" .
+
+# Statistical method hierarchy
+cendata:CountMethod a skos:Concept ;
+    skos:prefLabel "Count" ;
+    skos:definition "Simple enumeration of population or units" .
+
+cendata:MedianMethod a skos:Concept ;
+    skos:prefLabel "Median" ;
+    skos:definition "50th percentile value, robust to outliers" .
+
+cendata:MeanMethod a skos:Concept ;
+    skos:prefLabel "Mean" ;
+    skos:definition "Arithmetic average" .
+
+cendata:RateMethod a skos:Concept ;
+    skos:prefLabel "Rate" ;
+    skos:definition "Numerator/denominator expressed as percentage" .
+
+cendata:RatioMethod a skos:Concept ;
+    skos:prefLabel "Ratio" ;
+    skos:definition "Relationship between two quantities" .
+
+cendata:CompositeMethod a skos:Concept ;
+    skos:prefLabel "Composite" ;
+    skos:definition "Complex calculation combining multiple measures" .
+
+# Geographic Level Infrastructure for GeoAdvisor
+cendata:GeographicLevel a rdfs:Class ;
+    rdfs:label "Geographic Level" ;
+    rdfs:comment "A Census geographic aggregation level" .
+
+cendata:CensusTable a rdfs:Class ;
+    rdfs:label "Census Table" ;
+    rdfs:comment "A Census data table (e.g., B01001)" .
+
+# Geographic Level Hierarchy (Census → COOS mapping)
+cendata:NationalLevel a cendata:GeographicLevel ;
+    rdfs:label "National Level" ;
+    cendata:censusName "United States" ;
+    cendata:coosName "us" ;
+    cendata:hierarchyRank 1 ;
+    cendata:minimumPopulation 0 .
+
+cendata:StateLevel a cendata:GeographicLevel ;
+    rdfs:label "State Level" ;
+    cendata:censusName "State" ;
+    cendata:coosName "state" ;
+    cendata:hierarchyRank 2 ;
+    cendata:minimumPopulation 0 .
+
+cendata:CountyLevel a cendata:GeographicLevel ;
+    rdfs:label "County Level" ;
+    cendata:censusName "County" ;
+    cendata:coosName "county" ;
+    cendata:hierarchyRank 3 ;
+    cendata:minimumPopulation 100 .
+
+cendata:CountySubdivisionLevel a cendata:GeographicLevel ;
+    rdfs:label "County Subdivision Level" ;
+    cendata:censusName "County Subdivision" ;
+    cendata:coosName "county_subdivision" ;
+    cendata:hierarchyRank 4 ;
+    cendata:minimumPopulation 100 .
+
+cendata:PlaceLevel a cendata:GeographicLevel ;
+    rdfs:label "Place Level" ;
+    cendata:censusName "Place" ;
+    cendata:coosName "place" ;
+    cendata:hierarchyRank 5 ;
+    cendata:minimumPopulation 100 .
+
+cendata:TractLevel a cendata:GeographicLevel ;
+    rdfs:label "Census Tract Level" ;
+    cendata:censusName "Census Tract" ;
+    cendata:coosName "tract" ;
+    cendata:hierarchyRank 6 ;
+    cendata:minimumPopulation 1200 .
+
+cendata:BlockGroupLevel a cendata:GeographicLevel ;
+    rdfs:label "Block Group Level" ;
+    cendata:censusName "Block Group" ;
+    cendata:coosName "block_group" ;
+    cendata:hierarchyRank 7 ;
+    cendata:minimumPopulation 600 .
+
+cendata:MSALevel a cendata:GeographicLevel ;
+    rdfs:label "Metropolitan Statistical Area Level" ;
+    cendata:censusName "Metropolitan Statistical Area" ;
+    cendata:coosName "msa" ;
+    cendata:hierarchyRank 8 ;
+    cendata:minimumPopulation 50000 .
+
+cendata:PUMALevel a cendata:GeographicLevel ;
+    rdfs:label "Public Use Microdata Area Level" ;
+    cendata:censusName "Public Use Microdata Area" ;
+    cendata:coosName "puma" ;
+    cendata:hierarchyRank 9 ;
+    cendata:minimumPopulation 100000 .
+
+cendata:ZCTALevel a cendata:GeographicLevel ;
+    rdfs:label "ZIP Code Tabulation Area Level" ;
+    cendata:censusName "ZIP Code Tabulation Area" ;
+    cendata:coosName "zcta" ;
+    cendata:hierarchyRank 10 ;
+    cendata:minimumPopulation 0 .
+
+cendata:CongressionalDistrictLevel a cendata:GeographicLevel ;
+    rdfs:label "Congressional District Level" ;
+    cendata:censusName "Congressional District" ;
+    cendata:coosName "cd" ;
+    cendata:hierarchyRank 11 ;
+    cendata:minimumPopulation 700000 .
+
+# Geographic Properties
+cendata:censusName a rdf:Property ;
+    rdfs:label "Census geographic name" ;
+    rdfs:comment "Official Census Bureau geographic level name" ;
+    rdfs:domain cendata:GeographicLevel ;
+    rdfs:range xsd:string .
+
+cendata:coosName a rdf:Property ;
+    rdfs:label "COOS geographic name" ;
+    rdfs:comment "Standardized COOS geographic level identifier" ;
+    rdfs:domain cendata:GeographicLevel ;
+    rdfs:range xsd:string .
+
+cendata:hierarchyRank a rdf:Property ;
+    rdfs:label "Geographic hierarchy rank" ;
+    rdfs:comment "Numeric rank in geographic hierarchy (1=largest, higher=smaller)" ;
+    rdfs:domain cendata:GeographicLevel ;
+    rdfs:range xsd:integer .
+
+cendata:minimumPopulation a rdf:Property ;
+    rdfs:label "Minimum population threshold" ;
+    rdfs:comment "Typical minimum population for statistical reliability" ;
+    rdfs:domain cendata:GeographicLevel ;
+    rdfs:range xsd:integer .
+
+# Table-Geography Availability
+cendata:availableAtLevel a rdf:Property ;
+    rdfs:label "available at geographic level" ;
+    rdfs:comment "Indicates which geographic levels publish this table" ;
+    rdfs:domain cendata:CensusTable ;
+    rdfs:range cendata:GeographicLevel .
+
+cendata:suggestedMinimumLevel a rdf:Property ;
+    rdfs:label "suggested minimum geographic level" ;
+    rdfs:comment "Recommended minimum geography for statistical reliability" ;
+    rdfs:domain cendata:StatisticalConcept ;
+    rdfs:range cendata:GeographicLevel .
+
+# MOE and Statistical Validity Properties
+cendata:moeThreshold a rdf:Property ;
+    rdfs:label "margin of error threshold" ;
+    rdfs:comment "Maximum acceptable MOE/estimate ratio (0.0-1.0)" ;
+    rdfs:domain cendata:StatisticalConcept ;
+    rdfs:range xsd:decimal .
+
+cendata:reliabilityLevel a rdf:Property ;
+    rdfs:label "statistical reliability level" ;
+    rdfs:comment "Reliability classification: high, medium, low, unreliable" ;
+    rdfs:domain cendata:GeographicLevel ;
+    rdfs:range xsd:string .

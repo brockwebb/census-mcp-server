@@ -1,0 +1,1466 @@
+Understanding and Using  
+American Community Survey Data
+What State and Local Government Users Need to Know
+
+Issued August 2020
+
+Acknowledgments
+
+Linda A. Jacobsen, Vice President, U.S. Programs, Population Reference 
+Bureau (PRB), and Mark Mather, Associate Vice President, U.S. Programs, 
+PRB, drafted this handbook in partnership with the U.S. Census Bureau’s 
+American Community Survey Office. Other PRB staff who assisted in 
+drafting and reviewing the handbook include Lillian Kilduff and Paola 
+Scommegna.
+
+Some of the material in this handbook was adapted from the Census 
+Bureau’s 2009 publication, A Compass for Understanding and Using 
+American Community Survey Data: What State and Local Governments Need 
+to Know, drafted by Joseph J. Salvo, Arun Peter Lobo, and Joel A. Alvarez. 
+
+American Community Survey data users who provided feedback and case 
+studies for this handbook include: Susan Brower, Joel Alvarez, Joseph 
+Salvo, John Wilson, Chandler Felt, Susan Kinne, and Gregg Bell. 
+
+Nicole Scanniello, Gretchen Gooding, and Amanda Klimek, Census Bureau, 
+contributed to the planning and review of this handbook series. 
+
+The American Community Survey program is under the direction of  
+Albert E. Fontenot, Jr., Associate Director for Decennial Census Programs, 
+Deborah M. Stempowski, Acting Assistant Director for Decennial Census 
+Programs, and Donna M. Daily, Chief, American Community Survey Office.
+
+Other individuals from the Census Bureau who contributed to the review and 
+release of these handbooks include: Justin Keller, Jason Lizarraga, Michael 
+Starsinic, R. Chase Sawyer, and Janice Valdisera. 
+
+Faye Brock, Linda Chen, and Christine Geter provided publication 
+management, graphic design and composition, and editorial review for print 
+and electronic media under the direction of Janet Sweeney, Chief of the 
+Graphic and Editorial Services Branch, Public Information Office.
+
+Understanding and Using  
+American Community Survey Data
+What State and Local Government Users Need to Know
+
+Issued August 2020
+
+U.S. Department of Commerce 
+Wilbur Ross, 
+Secretary
+
+Karen Dunn Kelley,  
+Deputy Secretary 
+
+U.S. CENSUS BUREAU 
+Steven Dillingham, 
+Director
+
+Suggested Citation
+
+  U.S. Census Bureau,  
+Understanding and Using  
+American Community Survey  
+Data: What State and Local 
+Government Users Need to Know, 
+U.S. Government Printing Office, 
+Washington, DC, 2020.
+
+U.S. CENSUS BUREAU 
+Steven Dillingham, 
+Director
+
+Ron Jarmin, 
+Deputy Director and Chief Operating Officer
+
+Albert E. Fontenot, Jr., 
+Associate Director for Decennial Census Programs
+
+Deborah M. Stempowski, 
+Acting Assistant Director for Decennial Census Programs
+
+Donna M. Daily, 
+Chief, American Community Survey Office
+
+Contents
+
+1. How State and Local Governments Use ACS Data  . . . . . . . . . . . . . . . . . . . . . . .2
+
+2. Considerations When Working With ACS Data  . . . . . . . . . . . . . . . . . . . . . . . . . .4
+
+3. Case Studies Using ACS Data  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .6
+
+4. Additional Resources . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+
+Understanding and Using American Community Survey Data   iii 
+What State and Local Government Users Need to Know    iii
+
+U.S. Census Bureau 
+This page is intentionally blank.
+
+UNDERSTANDING AND USING AMERICAN  
+COMMUNITY SURVEY DATA: 
+WHAT STATE AND LOCAL GOVERNMENT USERS 
+NEED TO KNOW 
+
+A primary mission of state and local governments is to 
+deliver efficient and effective services and enact poli-
+cies that advance public safety and economic growth. 
+For more than a decade, the U.S. Census Bureau’s 
+American Community Survey (ACS) has provided data 
+to help governments meet the needs of their con-
+stituents. The ACS provides a dynamic picture of the 
+population and housing attributes of states, counties, 
+and municipalities, large and small. 
+
+The ACS has an annual sample size of about 3.5 million 
+addresses, with survey information collected nearly 
+every day of the year. Data are pooled across a calen-
+dar year to produce estimates for that year. As a result, 
+ACS estimates reflect data that have been collected 
+over a period of time rather than for a single point in 
+time as in the decennial census, which is conducted 
+every 10 years and provides population counts as of 
+April 1 of the census year.
+
+This guide provides a brief overview of how state and 
+local governments are using ACS data to develop 
+general plans, to help implement and evaluate local ini-
+tiatives, to attract and retain businesses, and for other 
+applications. It also describes some important con-
+siderations when working with ACS data—especially 
+estimates for small geographic areas.
+
+What Is the ACS?
+
+The ACS is a nationwide survey designed to provide 
+communities with reliable and timely social, economic, 
+housing, and demographic data every year. A sepa-
+rate annual survey, called the Puerto Rico Community 
+Survey (PRCS), collects similar data about the popu-
+lation and housing units in Puerto Rico. The Census 
+Bureau uses data collected in the ACS and the PRCS 
+to provide estimates on a broad range of population, 
+housing unit, and household characteristics for states, 
+counties, cities, school districts, congressional districts, 
+census tracts, block groups, and many other geo-
+graphic areas.
+
+ACS 1-year estimates are data that have been col-
+lected over a 12-month period and are available for 
+geographic areas with at least 65,000 people. Starting 
+with the 2014 ACS, the Census Bureau is also produc-
+ing “1-year Supplemental Estimates”—simplified ver-
+sions of popular ACS tables—for geographic areas with 
+at least 20,000 people. The Census Bureau combines 
+5 consecutive years of ACS data to produce multiyear 
+estimates for geographic areas with fewer than 65,000 
+residents. These 5-year estimates represent data col-
+lected over a period of 60 months. 
+
+For more detailed information about the ACS—how 
+to judge the accuracy of ACS estimates, understand-
+ing multiyear estimates, knowing which geographic 
+areas are covered in the ACS, and how to access ACS 
+data on the Census Bureau’s Web site—see the Census 
+Bureau’s handbook on Understanding and Using 
+American Community Survey Data: What All Data Users 
+Need to Know.1 
+
+1 U.S. Census Bureau, Understanding and Using American 
+Community Survey Data: What All Data Users Need to Know,  
+<www.census.gov/programs-surveys/acs/guidance/handbooks 
+/general.html>. 
+
+Understanding and Using American Community Survey Data   1 
+What State and Local Government Users Need to Know    1
+
+U.S. Census Bureau1. HOW STATE AND LOCAL GOVERNMENTS USE 
+ACS DATA 
+
+Using ACS Data for Planning
+
+Establishing Priorities Through a Needs 
+Assessment
+
+Given competing demands and limited resources at 
+their disposal, governments need to carefully ascer-
+tain appropriate funding levels for their initiatives. 
+Governments also receive requests for help from 
+community groups and civic organizations that must 
+be evaluated and prioritized for funding. American 
+Community Survey (ACS) data can be extremely useful 
+in evaluating the overall needs of the community and 
+identifying subgroups most in need of various services 
+in order to prioritize requests for assistance. 
+
+•  The town of Wenham, Massachusetts, used ACS 
+data (e.g., household type and size, disability 
+status, poverty, income, race, age, employment, 
+units in structure, housing value, and rent costs) to 
+help document priority housing needs and develop 
+strategies to address them.2  
+
+•  The District of Columbia incorporated ACS data 
+(e.g., median family income, per capita income, 
+marital status, unemployment, and means of 
+travel to work) in their Community Health Needs 
+Assessment, which was designed to identify key 
+trends in health and well-being to inform “public 
+health policies, programs, and interventions to 
+strengthen community health.”3 
+
+Developing and Implementing a General 
+Plan
+
+Once a government decides on its priorities, it needs 
+to examine various alternative courses of action to 
+come up with an effective plan. If, for example, a local 
+government decides to make the alleviation of poverty 
+a priority, it needs to examine where exactly to apply 
+its resources. Should the alleviation of child poverty 
+be a priority, or should the focus be on poverty among 
+older adults? Or should resources be applied in some 
+proportion to each of these groups? Examination of 
+ACS data could be instrumental in formulating plans 
+and actions to guide the distribution of resources.
+
+For example, the California city of Milpitas relied on 
+ACS data to help develop their draft Consolidated Plan 
+
+2 Town of Wenham, Housing Needs Assessment, 2017,  
+<www.wenhamma.gov/docs/Wenham%20Housing%20Needs 
+%20Assessment%202017%204-3.pdf>. 
+
+3 District of Columbia Community Health Needs Assessment, 2014, 
+
+<https://dchealth.dc.gov/page/dc-community-health-needs 
+-assessment>. 
+
+for 2017 to 2022. Their draft plan proposes various 
+strategies to meet the needs of community members, 
+including maintaining and preserving existing housing, 
+supporting public services for lower-income families 
+and individuals, and improving access to public facili-
+ties.4 
+
+Once a plan is chosen, it must be implemented. If, for 
+example, a local government decides to focus primar-
+ily on increasing resources for low-income older adults, 
+ACS data could be used to target neighborhoods with 
+the largest concentrations of older individuals in need 
+of services.
+
+Special Considerations: Environmental 
+Justice and Social Equity Analysis
+
+While state and local governments have a variety 
+of resources they can use to ensure that plans and 
+projects meet environmental justice and social equity 
+goals, the ACS can play an important role. Sometimes 
+the impact area for a project is fairly small. Census 
+tract or block group data from the ACS can be used to 
+identify the populations impacted by the project. 
+
+•  The Minnesota Department of Commerce used 
+
+tract-level ACS estimates of minority and low-
+income populations to help decision-makers iden-
+tify the potential impact of a new pipeline project 
+on vulnerable populations.5 
+
+•  ACS data can also be used to measure English-
+
+speaking proficiency and languages spoken in a 
+project area. Both measures can help determine 
+whether a project is in compliance with Title VI of 
+the Civil Rights Act of 1964, which prohibits dis-
+criminatory practices in programs receiving federal 
+funds. 
+
+Using ACS Data for Program and Project 
+Evaluation
+
+While the ACS was not designed specifically for 
+program evaluation, the comprehensive and timely 
+nature of the data can make it a valuable resource for 
+government analysts who want to assess conditions 
+before and after a policy or plan change, or before and 
+
+4 City of Milpitas, Draft Consolidated Plan, 2017–2022, 2017,  
+
+<www.ci.milpitas.ca.gov/wp-content/uploads/2017/05/Draft 
+-Con-Plan_website.pdf>. 
+
+5 Minnesota Department of Commerce, “Energy Environmental 
+
+Review and Analysis: Final Environmental Impact Statement, Line 3 
+Project,” Chapter 11: Environmental Justice, 2017, <https://mn.gov 
+/eera/web/project-file?legacyPath=/opt/documents/34079/Line3 
+%20FEIS%20Ch%2011%20Environmental%20Justice%20Complete 
+.pdf>. 
+
+2   Understanding and Using American Community Survey Data 
+2   What State and Local Government Users Need to Know
+
+U.S. Census Bureauafter the implementation of a project. For example, a 
+city may use ACS commuting data to track trends in 
+bicycle commutes to work before and after expanding 
+a network of local bikeways. 
+
+•  Economic vulnerability (e.g., number of workers, 
+
+industry sectors, earnings, and poverty).
+
+•  Social vulnerability (e.g., age, disability status, lan-
+
+guage proficiency, and vehicle access).
+
+TIP: Since ACS data are collected using the same meth-
+ods across the United States, those who are evaluat-
+ing programs can compare outcomes in communities 
+where a policy change has occurred with communities 
+that  have  similar  characteristics  but  have  not  imple-
+mented the policy change.
+
+Using ACS Data for Economic 
+Development
+
+Many businesses use ACS data to gauge the sales 
+potential of products and services, better understand 
+the workforce, and set strategies for growth. However, 
+state and local governments can also influence eco-
+nomic development through policies to attract or 
+retain businesses. State agencies, chambers of com-
+merce, and other associations of businesses, like the 
+Greater Houston Partnership, use ACS data to profile 
+the economic, demographic, and workforce charac-
+teristics of their state’s regions, counties, and cities to 
+attract new businesses. 
+
+TIP:  Because  ACS  data  include  comparable  data  for 
+cities and counties nationwide, they provide a useful 
+benchmark for businesses making decisions about site 
+selection or strategies for growth. 
+
+Hawaii’s Department of Business, Economic 
+Development & Tourism uses ACS data to compare 
+economic indicators for Hawaii—including unemploy-
+ment, the old-age dependency ratio, women’s share of 
+the labor force, and income—with economic indicators 
+for other states.6 
+
+Using ACS Data for Emergency 
+Management
+
+In addition to policy, planning, and economic develop-
+ment roles, state and local governments have impor-
+tant responsibilities in disaster response and emer-
+gency management. Data from the ACS can provide 
+useful context for first responders and for disaster 
+recovery personnel. For example, data from the ACS 
+can help identify:
+
+•  Physical vulnerability (e.g., vacant and occupied 
+
+housing units, mobile homes, and the year housing 
+structures were built).
+
+These pieces of information can assist local officials as 
+they coordinate evacuations, conduct damage assess-
+ments, and carry out recovery plans.
+
+For example, the Northern Virginia Regional 
+Commission created a dashboard on population 
+groups that may be vulnerable to the coronavirus, 
+based on the U.S. Centers for Disease Control and 
+Prevention’s 2018 Social Vulnerability Index. The index 
+was developed using 2014–2018 ACS 5-year estimates.7  
+
+Using ACS Data for Local and Regional 
+Forecasts and Modeling
+
+State and local government leaders often work across 
+jurisdictional boundaries through metropolitan and 
+regional planning commissions. ACS data are vital for 
+these commissions to help identify and address issues 
+related to housing, transportation, land use, environ-
+mental protection, and economic development. 
+
+•  The Delaware Valley Regional Planning 
+
+Commission uses ACS data, in combination with 
+their own transportation survey data, to pro-
+duce travel simulation models for the greater 
+Philadelphia region.8  
+
+•  Many metropolitan and regional planners also use 
+data from the Census Transportation Planning 
+Products, or CTPP, which provide a wealth of 
+small-area estimates based on ACS 5-year data for 
+transportation analysis and planning.9 The CTPP 
+program is designed to help transportation ana-
+lysts and planners understand where people are 
+commuting to and from and how they get there. 
+The information is organized by where workers 
+live, where they work, and by the flow between 
+those places.
+
+7 Northern Virginia Regional Commission, Northern Virginia 
+Coronavirus Cases and Vulnerable Populations - Impact Planning 
+Report, <https://nvrc.maps.arcgis.com/apps/opsdashboard/index 
+.html#/d47407a16ebb46b5aec7df60af368a5f>. 
+
+8 Delaware Valley Regional Planning Commission, Data Sources, 
+
+<www.dvrpc.org/transportation/modeling/data/>. 
+
+6 Hawaii.gov, Department of Business, Economic Development & 
+Tourism, Hawaii Rankings and Comparisons, <http://dbedt.hawaii.gov 
+/economic/ranks/>. 
+
+9 American Association of State Highway and Transportation 
+
+Officials, Census Transportation Planning Products Program,  
+<https://ctpp.transportation.org/>. 
+
+Understanding and Using American Community Survey Data   3 
+What State and Local Government Users Need to Know    3
+
+U.S. Census Bureau2. CONSIDERATIONS WHEN WORKING WITH  
+ACS DATA
+
+Considerations When Working With 
+ACS Data
+
+The greatest strength of the American Community 
+Survey (ACS) is that it provides access to estimates 
+on an annual basis, but this also results in an array of 
+options that affect how data can be used effectively 
+by state and local governments. 
+
+Most local governments represent relatively small geo-
+graphic areas that must rely on ACS 5-year estimates. 
+Of the approximately 69,000 states, counties, cities, 
+towns, townships, villages, other minor civil divisions, 
+and census designated places, more than 90 percent 
+rely on 5-year estimates exclusively. This is because 
+most local governments are small, serving geographic 
+areas with fewer than 20,000 people. 
+
+Among counties and county equivalents, 41 percent 
+rely on 5-year estimates exclusively, while 26 per-
+cent meet the 65,000-population threshold needed 
+to receive 1-year estimates.10 Data users interested in 
+ACS estimates for areas with populations of 65,000 
+or more have a choice between the 1-year and 5-year 
+data series. Which data should be used?
+
+The 1-year estimates for an area reflect the most 
+current data but they have larger margins of error 
+(MOEs)—indicating less reliability or precision—than 
+the 5-year estimates because they are based on a 
+smaller sample. The 5-year estimates for an area have 
+larger samples and smaller MOEs than the 1-year 
+estimates. However, they are less current because the 
+larger samples include data that were collected in ear-
+lier years. The main advantage of using multiyear esti-
+mates is the increased statistical reliability for smaller 
+geographic areas and small population groups.
+
+TIP: In the end, what makes the most sense is a mat-
+ter  of  judgment  regarding  the  balance  between  the
+period covered by an estimate and its level of reliability 
+or precision. The key is to strive to use only reliable
+estimates,  where  the  period  covered  best  suits  the
+question at hand.  
+
+Many state and local government data users focus 
+on small geographic areas such as census tracts and 
+block groups. Even with 5 years of pooled data, ACS 
+estimates for these small areas often have large MOEs.
+
+TIP: State and local data users need to use good judg-
+ment by paying attention to measures of reliability—
+such  as  MOEs—that  indicate  whether  ACS  data  are 
+useful “straight out of the box,” or whether some type 
+of data aggregation (e.g., combining geographic areas 
+or data categories) is required to increase reliability.   
+
+For example, New York City’s Department of City 
+Planning aggregates census tracts into “Neighborhood 
+Tabulation Areas” to increase data reliability. ACS data 
+are then provided for these neighborhoods—rather 
+than individual census tracts—to support local govern-
+ment decision-making.11 
+
+Finally, there is the issue of how to use multiyear 
+characterizations of an area to measure change over 
+time. As the ACS program has moved forward, a whole 
+series of multiyear estimates for various time intervals 
+has become available. 
+
+TIP:  Data  users  now  have  access  to  nonoverlapping 
+ACS  5-year  estimates  that  have  increased  the  value 
+and utility of the data for monitoring trends in local 
+communities. 
+
+However, it is more challenging to capture rapid 
+change in areas where only ACS 5-year estimates are 
+available. For example, it was very difficult for local 
+officials and planners to accurately assess changes 
+in socioeconomic characteristics accompanying 
+expanded drilling in the Bakken oil fields in North 
+Dakota—where there was a large influx of male work-
+ers starting in the early 2000s—because the affected 
+counties only received 5-year, rather than 1-year, ACS 
+estimates.
+
+For more information about ACS multiyear esti-
+mates and sampling error, see the sections on 
+“Understanding and Using ACS Single-Year and 
+Multiyear Estimates” and “Understanding Error and 
+Determining Statistical Significance” in the U.S. Census 
+Bureau’s handbook on Understanding and Using 
+American Community Survey Data: What All Data 
+Users Need to Know.12 
+
+11 To explore differences in ACS data reliability between census 
+tracts and Neighborhood Tabulation Areas, see NYC Department of 
+City Planning’s ACS data aggregation tool, NYC Population FactFinder, 
+<https://popfactfinder.planning.nyc.gov/>.
+
+10 Percentages include data for municipios in Puerto Rico. For 
+more information, see the Census Bureau’s ACS Web page on Areas 
+Published, available at <www.census.gov/programs-surveys 
+/acs/geography-acs/areas-published.html>. 
+
+12 U.S. Census Bureau, Understanding and Using American 
+Community Survey Data: What All Data Users Need to Know,  
+<www.census.gov/programs-surveys/acs/guidance/handbooks 
+/general.html>. 
+
+4   Understanding and Using American Community Survey Data 
+4   What State and Local Government Users Need to Know
+
+U.S. Census Bureau 
+ 
+ 
+ 
+Using ACS Data for Population and 
+Housing Counts
+
+Many state and local governments need reliable data 
+on the number of people and housing units in their 
+jurisdiction and how those numbers have changed 
+over time.
+
+TIP: Such users need to understand that the ACS was 
+designed to provide estimates of the characteristics of 
+the population, not to provide counts of the population 
+in different geographic areas or population subgroups. 
+
+Therefore, data users are encouraged to rely more 
+upon noncount statistics, such as percent distributions 
+or averages, when using ACS estimates.
+
+The Census Bureau’s Population Estimates Program 
+produces and disseminates the official estimates of the 
+population for the nation, states, counties, cities and 
+towns, and estimates of housing units for states and 
+counties.13 For 2010 and other decennial census years, 
+the decennial census provides the official counts of 
+population and housing units.14 
+
+The ACS uses a weighting method to ensure that 
+estimates are consistent with official Census Bureau 
+population estimates at the county level by age, sex, 
+race, and Hispanic origin—as well as estimates of total 
+
+13 U.S. Census Bureau, Population and Housing Unit Estimates, 
+
+<www.census.gov/programs-surveys/popest.html>. 
+
+14 See, for example, the U.S. Census Bureau, Census of Population 
+
+and Housing, CPH-2. Population and Housing Unit Counts report  
+series, <www.census.gov/prod/www/decennial.html>. 
+
+housing units. ACS 1-year estimates are controlled to 
+population and total housing unit estimates as of July 
+1 of the survey year, while ACS 5-year estimates are 
+controlled to the average of the July 1 population and 
+housing unit estimates over the 5-year period.
+
+Starting with the 2009 survey, ACS estimates of the 
+total population of incorporated places (self-governing 
+cities, towns, or villages) and minor civil divisions 
+(county subdivisions, in 20 states where they serve as 
+functioning governmental units) are also adjusted so 
+that they are consistent with official population esti-
+mates. However, ACS data for other statistical areas, 
+such as Public Use Microdata Areas (PUMAs) or census 
+tracts, have no control totals, which may lead to larger 
+MOEs of population and housing unit estimates than in 
+areas of similar size with control totals. In such cases, 
+data users are again encouraged to rely more on non-
+count statistics, such as percentage distributions or 
+averages.
+
+For more information about ACS methods, visit the 
+Census Bureau’s Design and Methodology Report Web 
+page.15 
+
+15 U.S. Census Bureau, American Community Survey (ACS), Design 
+
+and Methodology Report, <www.census.gov/programs-surveys/acs 
+/methodology/design-and-methodology.html>.
+
+Understanding and Using American Community Survey Data   5 
+What State and Local Government Users Need to Know    5
+
+U.S. Census Bureau3. CASE STUDIES USING ACS DATA
+
+Case Study #1: Minnesota State Demographic Center Analysis of Earnings in Urban 
+and Rural Areas
+
+Skill Level: Intermediate/Advanced 
+Subject: Earnings, Rural-Urban Geographic Areas 
+Type of Analysis: Making comparisons across geographic areas 
+
+   Creating custom geographic areas from census tracts 
+   Calculating margins of error for derived estimates
+
+Tools Used: Data.census.gov, spreadsheet, U.S. Census Bureau’s Statistical Testing Tool 
+Author: Susan Brower, State Demographer of Minnesota
+
+Susan is the State Demographer of Minnesota. She 
+wants to study how earnings differ across geographic 
+regions of the state. She plans to use a rural-urban 
+typology that corresponds to the characteristics of 
+individual census tracts.
+
+Susan will use Rural-Urban Commuting Area (RUCA) 
+classification codes developed by the U.S. Department 
+of Agriculture’s (USDA) Economic Research Service 
+(ERS) to examine economic characteristics of 
+Minnesota residents living in a range of settings—from 
+remote, rural areas to dense, urban cities. RUCA codes 
+classify census tracts using measures of population 
+density, urbanization, and commuting patterns. Susan 
+will aggregate characteristics of residents across the 
+state, based on the RUCA code of the census tract in 
+which they live. (More information about RUCA codes 
+can be found on the ERS Web page on Rural-Urban 
+Commuting Area Codes.)16 
+
+16 U.S. Department of Agriculture, Economic Research Service, 
+
+“Rural-Urban Commuting Area Codes,” <www.ers.usda.gov/data 
+-products/rural-urban-commuting-area-codes/>. 
+
+Census tracts are roughly equivalent to neighbor-
+hoods. They contain 2,500 to 8,000 people per tract. 
+Since detailed American Community Survey (ACS) 
+1-year estimates are only available for geographic 
+areas with at least 65,000 residents, Susan will use 
+ACS 5-year estimates, which she will download from 
+data.census.gov.
+
+There are roughly 1,300 census tracts in Minnesota. 
+Susan will aggregate these tracts into four RUCA-
+based areas—Rural, Small Town, Large Town, and 
+Urban. She will also estimate how much uncertainty is 
+associated with the new estimates she has created.
+
+The U.S. Census Bureau provides a number of formulas 
+that can be used to estimate uncertainty, or margins 
+of error (MOEs), for estimates that are produced 
+from calculations based on published data tables. 
+Calculating the estimates of uncertainty will allow her 
+to make judgments about whether observed differ-
+ences in earnings are real or whether they are within 
+the expected variations that result from survey sam-
+pling.
+
+6   Understanding and Using American Community Survey Data 
+6   What State and Local Government Users Need to Know
+
+U.S. Census Bureau 
+ 
+ 
+ 
+Susan starts her analysis by going to the data.census.gov Web site at <https://data.census.gov>.
+
+•  She clicks on “Advanced Search” under the search bar (see Figure 3.1).
+
+Figure 3.1.  Selecting Advanced Search in Data.census.gov 
+
+Source: U.S. Census Bureau, data.census.gov <https://data.census.gov>.
+
+Understanding and Using American Community Survey Data   7 
+What State and Local Government Users Need to Know    7
+
+U.S. Census Bureau•  Since Susan already knows her desired table ID, she types “B20005” in the first text box directly under the 
+Advanced Search heading. B20005 is the table ID for “Sex by Work Experience in the Past 12 Months by 
+Earnings in the Past 12 Months (in 2018 Inflation-Adjusted Dollars) for the Population 16 Years and Over.”
+
+•  She selects “Geography” to view the geography filters.
+
+•  Next, she selects “Tract,” and scrolls to select “Minnesota” from the “Within (State)” filter.
+
+•  Susan then checks the box for “All Census Tracts within Minnesota” from the “Within (County)” filter and 
+
+clicks “Search” in the lower right corner (see Figure 3.2).
+
+Figure 3.2.  Selecting a Table and Geographies in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+8   Understanding and Using American Community Survey Data 
+8   What State and Local Government Users Need to Know
+
+U.S. Census Bureau•  On the next page, Susan clicks “Tables” in the upper left corner.
+
+•  Then, she selects “Download Table” under the message that the “table is too large to display” (see Figure 
+
+3.3). 
+
+Figure 3.3.  Downloading a Table From Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+•  Next, she uses the checkboxes to select the 2015 ACS 5-year data.
+
+•  She chooses the File Type “CSV.”
+
+•  Then, she clicks “Download” in the lower right corner (see Figure 3.4).
+
+Figure 3.4.  Changing the Survey Year and Choosing a File Type in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+Understanding and Using American Community Survey Data   9 
+What State and Local Government Users Need to Know    9
+
+U.S. Census Bureau•  Susan selects “Download Now” after the file is prepared (see Figure 3.5).
+
+Figure 3.5.  Downloading the Compressed (ZIP) File
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+•  From the compressed folder, Susan opens the file with “data_with_overlays” shown in the file name. 
+
+Documentation relating to the data table is also included in her zipped file.
+
+•  Now that Susan has her data file, she analyzes how earnings vary across the rural-urban areas of her state. 
+The USDA publishes 10 primary RUCA codes that delineate census tracts.17 Susan adds these codes to the 
+ACS data file that she has sorted by geographic identifier (GEO_ID). 
+
+•  Using Excel, Susan “copies” two columns of Minnesota census tract data from the USDA RUCA file—the 
+“Primary RUCA Code 2010” and the “State-County-Tract FIPS Code.” (FIPS refers to Federal Information 
+Processing Standards.) She then pastes these two columns of data into the ACS data file. 
+
+•  To verify that the census tract data from the two files are properly matched in the new file, Susan creates 
+
+a column with the final 11 numbers of the ACS file’s “id” column.18 The last 11 numbers in the “id” column are 
+the tract’s FIPS code. Susan then subtracts this new column (FIPS code) from her ACS file from the “State-
+County-Tract FIPS Codes” column from her RUCA file. If the rows match, the resulting difference will be zero.
+
+•  Susan analyzes earnings for a collapsed version of the RUCA codes. She creates a new column of data with 
+
+four string values: “Urban” for RUCA codes 1–3, “Large Town” for codes 4–6, “Small Town” for codes 7–9, and 
+“Rural” for code 10.
+
+17 U.S. Department of Agriculture, Economic Research Service, “Documentation: 2010 Rural-Urban Commuting Area (RUCA) Codes,”  
+
+<www.ers.usda.gov/data-products/rural-urban-commuting-area-codes/documentation/>.
+
+18 The Census Bureau has published detailed instructions for matching these GEOIDs: <https://ask.census.gov/prweb/PRServletCustom 
+
+/YACFBFye-rFIz_FoGtyvDRUGg1Uzu5Mn*/!STANDARD?pyActivity=pyMobileSnapStart&ArticleID=KCP-5651>.
+
+10   Understanding and Using American Community Survey Data 
+10   What State and Local Government Users Need to Know
+
+U.S. Census Bureau•  The resulting data file now looks like this, with the highlighted cells added from the USDA RUCA file and 
+
+Susan’s subsequent recoding and match verification (see Figure 3.6).
+
+Figure 3.6.  Adding Rural-Urban Codes to Downloaded Data 
+
+Source: Author’s analysis of data from the U.S. Census Bureau, American Community Survey, 5-Year Estimates; and USDA RUCA codes.
+
+•  Susan uses “PivotTables” in Excel to aggregate the earnings distribution across census tracts. The PivotTables 
+sums the number of males working full-time, year-round by rural, small town, large town, and urban census 
+tracts within each earnings distribution category (see Figure 3.7).
+
+Figure 3.7.  Cross-Tabulating Persons Per Income Level and Rural-Urban Category  
+
+Source: Author’s analysis of data from the U.S. Census Bureau, American Community Survey, 5-Year Estimates; and USDA RUCA codes.
+
+•  Next, Susan estimates the median earnings of men who work full-time, year-round and live in rural areas. 
+The Census Bureau provides guidance on how to interpolate a median from a weighted distribution in its 
+Accuracy of the PUMS documentation.19 Susan creates an Excel spreadsheet to estimate a median using the 
+method described in the Census Bureau’s documentation. The documentation also describes how to calcu-
+late standard errors and confidence intervals for her estimates.20 
+
+19 U.S. Census Bureau, American Community Survey (ACS), PUMS Technical Documentation, Accuracy of the PUMS, <www.census.gov 
+
+/programs-surveys/acs/technical-documentation/pums/documentation.html>. 
+
+20 The method described in this case study to approximate a median estimate will not match medians published in data.census.gov, as the 
+published medians are calculated using different and more detailed distributions than are available to users. Also, the approximated MOE of the 
+median using this method may underestimate or overestimate the true MOE, due to the limitations of using the PUMS design factor methodology.
+
+Understanding and Using American Community Survey Data   11 
+What State and Local Government Users Need to Know    11
+
+U.S. Census Bureau•  She repeats these calculations for men’s and women’s earnings in each of her four geographic areas (see 
+
+Figure 3.8).
+
+Figure 3.8.  Calculating a Median From a Weighted Distribution
+
+Source: Author’s analysis of data from the U.S. Census Bureau, American Community Survey, 5-Year Estimates; and USDA RUCA codes.
+
+•  When Susan compiles the calculated medians and their standard errors into a single table, she can see that 
+median earnings for men in urban areas ($55,064) appear to be higher than the median earnings for men in 
+rural, small town, and large town regions of the state. Similarly, urban women’s median earnings ($45,053) 
+are considerably higher than those for women living outside of urban areas. To calculate MOEs for the 
+approximate median earnings, Susan multiplies 1.645 by the standard error of each median. This creates an 
+MOE at the 90 percent confidence level (see Figure 3.9).
+
+Figure 3.9.  Median Earnings for Men and Women in Minnesota by Rural-Urban Location
+
+Median Earnings, Men, Full-Time, Year-Round Workers 
+Minnesota: 2011–2015
+
+Male, rural . . . . . . . . . . .
+
+Male, small town  . . . . .
+
+Male, large town . . . . . .
+
+Male, urban . . . . . . . . . .
+
+Median 
+earnings
+
+$43,838
+
+$44,948
+
+$45,929
+
+$55,064
+
+Standard 
+error
+
+Margin of  
+error (90%)
+
+$302
+
+$381
+
+$362
+
+$170
+
+$498
+
+$628
+
+$596
+
+$280
+
+Median Earnings, Women, Full-Time, Year-Round Workers 
+
+Median 
+
+Standard 
+
+Margin of  
+
+Female, rural . . . . . . . . .
+
+Female, small town . . .
+
+Female, large town . . .
+
+Female, urban . . . . . . . .
+
+$33,476
+
+$33,070
+
+$34,960
+
+$45,053
+
+$288
+
+$297
+
+$262
+
+$151
+
+$475
+
+$488
+
+$432
+
+$248
+
+Source: Author’s analysis of data from the U.S. Census Bureau, American Community Survey, 5-Year Estimates; and USDA RUCA codes.
+
+12   Understanding and Using American Community Survey Data 
+12   What State and Local Government Users Need to Know
+
+U.S. Census Bureau•  Susan then tests whether the calculated differences in median earnings across geographic areas are 
+
+statistically significant. She pastes the estimated medians and MOEs into the Census Bureau’s Statistical 
+Testing Tool and learns that, as expected, urban men’s median earnings are significantly different from their 
+counterparts in rural areas, small towns, and large towns.21 She also confirms that urban women’s median 
+earnings are statistically different from those of women in other areas of the state (see Figure 3.10).
+
+• Figure 3.10.  Statistical Testing Tool for Multiple Estimates (90 Percent Confidence Level)
+
+Source: U.S. Census Bureau, Statistical Testing Tool, <www.census.gov/programs-surveys/acs/guidance/statistical-testing-tool.html>.
+
+Susan uses this analysis to help her convey differences in earnings among residents of rural, small town, large 
+town, and urban areas in reports that her office produces for state policymakers. While she will not always report 
+the numeric results of statistical tests, knowing which differences are significant helps her know which differences 
+she can highlight in her narrative. Conversely, knowing which differences are not statistically significant helps her 
+know which differences she should downplay in her reporting. 
+
+An example of a report that was informed by this type of analysis is Greater Minnesota: Refined & Revisited.22 
+(This report was produced using 2010–2014 ACS 5-year estimates, so the medians are somewhat different, but 
+the results are consistent with what is described here.) This report has been used by policymakers working on 
+rural health care initiatives, on Equal Employment Opportunity activities, and by legislators working to create 
+policies that align with current economic conditions in different areas of the state.
+
+21 U.S. Census Bureau, Statistical Testing Tool, <www.census.gov/programs-surveys/acs/guidance/statistical-testing-tool.html>.
+22 Minnesota State Demographic Center, Greater Minnesota: Refined & Revisited, <https://mn.gov/admin/demography/reports-resources 
+
+/greater-mn-refined-and-revisited.jsp>.
+
+Understanding and Using American Community Survey Data   13 
+What State and Local Government Users Need to Know    13
+
+U.S. Census BureauCase Study #2: New York City, Department of City Planning, Uncertainty in 
+Mapping ACS Data
+
+Skill Level: Intermediate/Advanced 
+Subject: Uncertainty in Mapping American Community Survey (ACS) Data 
+Type of Analysis: Assessment of statistical reliability of ACS maps  
+Tool Used: Map Reliability Calculator 
+Authors: Joel A. Alvarez, Senior Analyst, NYC City Planning, Population Division; and Joseph J. Salvo, Director, 
+NYC City Planning, Population Division
+
+In the summer of 2017, New York City established the New York Works plan—a series of 25 initiatives to pro-
+mote the creation of 100,000 new jobs with good wages over the next decade.23 In support of the plan, the 
+Department of City Planning (DCP) produced a series of maps informing the public about employment pat-
+terns in New York City. In this case study, we walk ACS 
+data users through the process we used to assess the 
+reliability of map classification schemes when produc-
+ing maps for general consumption.
+
+Box 3.1. Establishing a Minimum Reliability 
+Threshold for Maps
+
+ACS data provide city planners with unique insights 
+into the socioeconomic characteristics of local popu-
+lations, including information about employment. 
+Mapping the data is one way to examine differences in 
+employment across geographic areas. However, ACS 
+estimates are subject to sampling variability, so reality 
+on the ground may differ from survey results.24 Given 
+the uncertainty associated with ACS estimates, data 
+users should exercise caution when producing maps to 
+avoid misrepresenting the characteristic(s) being dis-
+played. The following case study provides guidance in 
+this regard, demonstrating how we produced statisti-
+cally reliable maps of employment and unemployment 
+using an online Map Reliability Calculator.25 
+
+Mapping Employment
+
+In support of a mayoral jobs creation initiative, DCP 
+was asked to create a series of maps showing the lat-
+est information on employment and unemployment. 
+One possible approach was to examine administrative 
+data from unemployment insurance filings. However, 
+this data set excludes many self-employed workers 
+and those working “off-the-books,” so we turned to 
+the ACS as a more comprehensive source of data on 
+local employment patterns.
+
+First, we examined overall employment in New York 
+City. Our preference was to produce a map using small 
+geographic units, making census tracts ideal. However, 
+in New York City, census tracts typically consist of 
+only six to eight city blocks and have populations 
+of about 3,000 to 4,000. Consequently, ACS 5-year 
+estimates for census tracts are based on small sample 
+sizes—typically 250 to 300 people surveyed in each 
+tract. To ensure that our map was reliable and would 
+
+Subjects covered in the ACS often display mean-
+ingful spatial patterning at very fine levels of 
+geography. ACS data users may be tempted to 
+present these data in maps using the smallest 
+available geographic units. However, the reliability 
+of ACS estimates typically decreases as units of 
+analysis get smaller, because of diminishing sam-
+ple sizes. When mapping ACS data, users must 
+decide whether to use small geographic areas and 
+see all the fine detail, but risk false conclusions 
+due to data uncertainty; or to use large, statisti-
+cally reliable geographic areas, but risk overlook-
+ing the most salient spatial distributions.
+
+This dilemma can be resolved by establishing a 
+minimum reliability threshold. Once map quality is 
+assured by passing the threshold, ACS data users 
+can pursue mapping at the smallest geographic 
+area for which reliable data are available. New 
+York City’s Department of City Planning (DCP) 
+has adopted a threshold of a 10 percent error rate, 
+under which a map is considered suitable for gen-
+eral use. A 10 percent error rate means that any 
+given geographic area would have a 1 in 10 chance 
+of being erroneously classed, placing it at odds 
+with reality on the ground. This threshold was 
+adopted because it matches the Census Bureau’s 
+standard of 90 percent confidence intervals. 
+Additionally, the DCP standard is to ensure that 
+no individual map category has an error rate of 20 
+percent or more, so that map users can trust the 
+reliability of each respective map class. While this 
+is a lower standard than that used for the overall 
+map, it helps ensure that even categories with 
+relatively few values—and therefore little influence 
+on the overall reliability—can still be trusted by 
+end users.
+
+23 City of New York, New York Works, <https://newyorkworks.cityofnewyork.us/introduction/>. 
+24 Sampling variability is the difference between an estimate based on a sample and the corresponding value that would be obtained if the  
+
+estimate were based on the entire population. 
+
+25 Statistical reliability refers to the ability of a measurement tool to consistently produce the same results. When used in reference to the 
+
+ACS, the measurement tool is the survey itself. 
+
+14   Understanding and Using American Community Survey Data 
+14   What State and Local Government Users Need to Know
+
+U.S. Census Bureaunot mislead people into making false conclusions, we tested the preliminary map using an online Map Reliability 
+Calculator developed by DCP (see Box 3.1 on Establishing a Minimum Reliability Threshold for Maps).26 
+
+To conduct this analysis of map reliability, we first went to the U.S. Census Bureau’s data.census.gov located at  
+<https://data.census.gov> and downloaded data on the employed population aged 16 and older in the civil-
+ian labor force, at the census tract level (from Table B23025).27 The data were then imported into a Geographic 
+Information System (GIS) to produce a map with seven categories using a natural breaks classification scheme.28 
+We then tested the results using the Map Reliability Calculator.
+
+The reliability calculator has three required inputs: 
+
+•  The estimates and associated margins of error (MOEs). 
+
+•  The number of classes or map categories. 
+
+•  The lower limit for each class. 
+
+After inserting this information into the tool, we examined the results and found that our proposed map was not 
+reliable (see Figure 3.11). When the reliability calculator marks a set of map categories as “not reliable,” it means 
+that 10 percent or more of the geographic areas are potentially misclassified (that is, included in the wrong cat-
+egory). In our example, shown in Figure 3.11, the overall reliability of the map was 14.2 percent. This means that 
+of New York City’s 2,167 census tracts, more than 300 may have been incorrectly classified. Further, the second- 
+and fourth-highest map classes in our proposed map had reliability scores of more than 20 percent. As with the 
+overall map, reliability scores for individual map classes tell users the percentage of geographic areas that are 
+likely to be misclassified based on the published MOEs. These excessive scores for individual map categories also 
+marked our proposed map as too unreliable for general use.  
+
+26 New York City Department of City Planning, Map Reliability Calculator, <https://www1.nyc.gov/site/planning/data-maps/nyc-population 
+
+/geographic-reference.page>. 
+
+27 U.S. Census Bureau, data.census.gov, <https://data.census.gov/>. 
+28 A Geographic Information System, or GIS, is an application used for mapping, managing, and analyzing spatial data. Various map classifica-
+
+tion schemes can be employed when creating categories for quantitative data. We used a natural breaks scheme for our employment analysis. 
+This scheme maximizes the variance between classes, while minimizing variance within classes. 
+
+Figure 3.11.  Results From Map Reliability Calculator (Seven Class Breaks) 
+
+Note: Estimates with blank margins of error (MOEs) are treated as having MOEs of zero.  
+Source: New York City Department of City Planning, Map Reliability Calculator, <https://www1.nyc.gov/site/planning/data-maps/nyc-population 
+/geographic-reference.page>.
+
+Understanding and Using American Community Survey Data   15 
+What State and Local Government Users Need to Know    15
+
+U.S. Census BureauOne method of improving map reliability is to reduce the number of map classes. Based on this logic, we 
+decreased the number of categories in the proposed map to six, but the map was still not reliable. It wasn’t until 
+the map was reduced to four categories that it qualified as reliable. Further, to make the categories more pre-
+sentable, we rounded the class breaks and checked to confirm that the map was still reliable (see Figure 3.12). 
+
+Figure 3.12.  Results From Map Reliability Calculator (Four Class Breaks) 
+
+Note: Estimates with blank margins of error (MOEs) are treated as having MOEs of zero.  
+Source: New York City Department of City Planning, Map Reliability Calculator, <https://www1.nyc.gov/site/planning/data-maps 
+/nyc-population/geographic-reference.page>.
+
+16   Understanding and Using American Community Survey Data 
+16   What State and Local Government Users Need to Know
+
+U.S. Census BureauWith this evaluation, we were confident that our map provided a relatively reliable depiction of reality on the 
+ground and went ahead with its use supporting the mayoral initiative (see Figure 3.13).
+
+Figure 3.13.  Map of Employed Population 
+
+Source: Author’s analysis of data from the U.S. Census Bureau, American Community Survey, 5-Year Estimates.
+
+Mapping Unemployment
+
+Generally, the relative size of ACS MOEs increases in relation to associated ACS estimates as count estimates 
+get smaller. It follows that smaller estimates are often less reliable, in a relative sense.29 Consequently, maps built 
+using smaller ACS estimates are typically less reliable than those built using large estimates. We confronted this 
+issue when we attempted to map unemployment estimates for New York City, since the unemployed population 
+is usually much smaller than the employed population. (The unemployed population is only about one-tenth the 
+size of the employed population in New York City.) Because of the relatively large MOEs, we could only produce a 
+reliable map of census tracts if we sorted them into two categories—one for tracts with 250 or more unemployed 
+persons and one for tracts with fewer than 250 unemployed. While such a map would be informative, we wanted 
+
+29 Because estimates and associated MOEs vary greatly in size, it helps to examine the size of MOEs in relation to estimates to better under-
+stand the relative reliability of ACS estimates. ACS analysts often use Coefficients of Variation (CVs) as a measure of relative reliability—making 
+it possible to compare the reliability of ACS estimates across different years, periods (1-year vs. 5-year periods), geographic areas, and variables. 
+For more information on CVs, see the section on “Understanding Error and Determining Statistical Significance” in Understanding and Using 
+American Community Survey Data: What All Data Users Need to Know, <www.census.gov/programs-surveys/acs/guidance/handbooks/general 
+.html>.
+
+Understanding and Using American Community Survey Data   17 
+What State and Local Government Users Need to Know    17
+
+U.S. Census Bureauto give the public a greater understanding of the differences in unemployment across our city. For this reason, a 
+higher-order geographic area, Neighborhood Tabulation Areas (NTAs), was evaluated for mapping suitability.
+
+NTAs were created by DCP using aggregates of census tracts that approximate New York City neighborhoods 
+and fit perfectly within Public Use Microdata Area (PUMA) boundaries. This geographic area has gained wide-
+spread acceptance and use in New York City because of its relative statistical reliability and because New 
+Yorkers tend to think in terms of neighborhoods. However, since the Census Bureau does not publish data at the 
+NTA level, we needed to calculate new estimates and MOEs aggregating from published, tract-level, unemploy-
+ment data.30 Using NTAs, a reliable map of unemployment was produced with four categories—as with employ-
+ment, breakpoints were rounded to make the map more presentable (see Figure 3.14). 
+
+30 For more information on calculating MOEs for aggregated count estimates, see the section on “Calculating Measures of Error for Derived 
+
+Estimates” in Understanding and Using American Community Survey Data: What All Data Users Need to Know, <www.census.gov/programs 
+-surveys/acs/guidance/handbooks/general.html>. 
+
+Figure 3.14.  Map of Unemployed Population 
+
+Source: Author’s analysis of data from the U.S. Census Bureau, American Community Survey, 5-Year Estimates.
+
+18   Understanding and Using American Community Survey Data 
+18   What State and Local Government Users Need to Know
+
+U.S. Census BureauMapping Change in Employment
+
+The 2011–2015 ACS data release provided us with our first opportunity to compare two nonoverlapping 5-year 
+period estimates (2006–2010 and 2011–2015) based on common population controls derived from the 2010 
+Census and, for the most part, common geographic boundaries. Therefore, we wanted to map change in the 
+employed population as well. To conduct an evaluation of map reliability, it was necessary to first calculate the 
+tract-level changes in employment and calculate the MOEs associated with those changes.31 These calculations 
+were quite simple, because we could use the same formula we used when calculating the MOEs for aggregate 
+areas: the square root of the sum of the squared MOEs.32 Again, it was our preference to create a tract-level map, 
+so we first calculated employment change and associated MOEs for census tracts. Once calculated, estimates 
+and MOEs were inserted into the Map Reliability Calculator.
+
+Employment had increased substantially across the city (up nearly 200,000 or 5 percent), so we were surprised 
+to find that a reliable tract map could not be produced, no matter how few categories were used. As with the 
+map of unemployment, we turned to NTAs, a higher-order geographic area, to see if change could be reliably 
+mapped. Change in employment, however, could not pass reliability thresholds using a natural breaks classifica-
+tion scheme. Therefore, PUMAs, the next higher order statistical geography, were considered. PUMA employ-
+ment estimates and MOEs from 2006–2010 had to be calculated using census tract aggregations (as with NTAs), 
+because PUMA boundaries changed in 2012, and 2011–2015 estimates were based on the 2012 boundaries. 
+
+Unfortunately, as with census tracts and NTAs, the PUMA geographic level proved to be unreliable for a natural 
+breaks classification scheme.
+
+With no reliable results, we re-examined our calculator analysis for all three geographic areas. Map classification 
+schemes that were close to being reliable were manipulated to test whether they could pass reliability thresholds 
+with a set of alternate breakpoints. We found that we could produce a reliable NTA map by slightly adjusting the 
+breakpoint between the first and second categories of a two-class, natural-breaks map (see Figure 3.15).  
+
+31 The Census Bureau endorses the use of statistical testing to gauge the reliability of change over time. This testing tells users that the direc-
+tionality of change has a 9 in 10 chance of being correct. However, to gauge the reliability of the magnitude of change, it is important that ACS 
+data users go beyond this basic test and consider the MOE associated with the estimate of change. 
+
+32 For detailed guidance on “Comparing Estimates for Nonoverlapping Periods” see page 4 in the Census Bureau’s “Instructions for Applying 
+
+Statistical Testing to the 2011–2015 ACS 5-Year Data,” available at <www.census.gov/programs-surveys/acs/technical-documentation/code 
+-lists.2015.html>. 
+
+Figure 3.15.  Results From Map Reliability Calculator (Two Class Breaks)
+
+Source: New York City Department of City Planning, Map Reliability Calculator, <https://www1.nyc.gov/site/planning/data-maps 
+/nyc-population/geographic-reference.page>. 
+
+Understanding and Using American Community Survey Data   19 
+What State and Local Government Users Need to Know    19
+
+U.S. Census BureauBecause our lowest map category encompassed both positive and negative change in employment, we chose 
+to only emphasize the top category, where change was equal to, or exceeded, an employment increase of 2,000 
+(see Figure 3.16).
+
+Figure 3.16.  Map of Change in Employed Population 
+
+Source: Author’s analysis of data from the U.S. Census Bureau, American Community Survey, 5-Year Estimates.
+
+20   Understanding and Using American Community Survey Data 
+20   What State and Local Government Users Need to Know
+
+U.S. Census BureauConclusion
+
+In producing this series of maps depicting dimensions of employment in New York City, we learned quite a bit 
+about producing reliable maps for general use. In creating a tract-level map of employment, we learned that 
+map reliability can typically be improved by reducing the number of map categories. Additionally, through the 
+production of the unemployment map, we found that map reliability can usually be improved by using higher-
+order geographic areas, because the reliability of underlying estimates is improved. Finally, while generating a 
+map showing change in employment, we discovered that category breakpoints can be adjusted to make a map 
+statistically reliable. 
+
+This was an important lesson, because it is ultimately up to each end user to decide which breaks work best for 
+their purposes.
+
+While we decided to use a mix of different geographic types in our maps, others might opt for uniformity in their 
+publication summary level. In fact, data users have several different options in mapping ACS data. For example: 
+
+•  Choosing different classification schemes, such as equal interval or quantile schemes.
+
+•  Selecting fewer map categories to reduce the risk of misclassification.
+
+•  Normalizing data using percentages (as opposed to using counts).
+
+•  Loosening map reliability standards to gain insight into a very generalized spatial distribution— 
+
+acknowledging that such a map is more prone to error.33  
+
+Regardless of your approach, it is essential that ACS data mappers pursue their cartographic endeavors with a 
+full understanding that uncertainty is inherent in all survey data, including ACS data, and will impact the quality 
+of maps. It is ultimately up to each end user to decide which standards are most appropriate for their applica-
+tions. 
+
+33 The NYC Department of City Planning’s Map Reliability Calculator provides reliability scores so that users can select alternative thresholds if 
+
+they choose. 
+
+Understanding and Using American Community Survey Data   21 
+What State and Local Government Users Need to Know    21
+
+U.S. Census BureauCase Study #3: King County Housing Assessment
+
+Skill Level: Intermediate/Advanced 
+Subject: Evaluating Housing Program Participation 
+Type of Analysis: American Community Survey (ACS) microdata analysis  
+Tools Used: ACS Public Use Microdata Sample File and data.census.gov 
+Authors: John Wilson, Assessor, King County, WA, Department of Assessments; Chandler Felt, Demographer, 
+King County, WA; and Susan Kinne, Epidemiologist at Public Health-Seattle and King County
+
+John Wilson:
+
+When I became King County (WA) assessor in 2016, 
+housing affordability was headed towards a crisis 
+level—especially for low-income seniors, disabled vet-
+erans, and other disabled individuals. King County has 
+2.1 million residents, and real estate values had been 
+rising at a double-digit pace annually.
+
+I was curious how many people were enrolled in a 
+state-authorized property tax exemption program. It 
+
+turned out to be only about 15,000 countywide. That 
+number seemed low to me, so I contacted Chandler 
+Felt, King County’s demographer.
+
+I asked Chandler, knowing how familiar he was with 
+U.S. Census Bureau data, if he knew of any way to 
+determine how many people in King County might be 
+eligible for the program. Chandler suggested the lat-
+est American Community Survey (ACS) data.
+
+Chandler Felt:
+
+As demographer for the county, I turned to the 
+Census Bureau’s ACS via data.census.gov.34 I looked 
+through the available tables in data.census.gov using 
+the 2014 ACS 1-year data set and the 2010–2014 ACS 
+5-year data set, but soon realized that the data.cen-
+sus.gov tables would not provide the entire list of eli-
+gibility criteria for the exemption. The ACS Public Use 
+Microdata Sample (PUMS) data set would be required 
+to slice our population precisely enough to answer 
+the question, and I do not have experience using the 
+PUMS data.35 I forwarded John’s request to my col-
+league Susan Kinne, Epidemiologist at Public Health-
+Seattle and King County, who is a skilled PUMS user.
+
+King County’s senior tax exemption is based on three 
+eligibility criteria, all from household data:
+
+•  Household tenure = owner (as opposed to renter).
+
+•  Age of householder is 62 or older.
+
+•  Household income is less than $40,000.
+
+34 Data.census.gov was not available at the time this case study 
+was written but is cited here because it is now the primary tool for ac-
+cessing ACS data.
+
+35 The ACS PUMS files are a set of untabulated records with infor-
+mation about individual people or housing units. The Census Bureau 
+produces the PUMS files so that data users can create custom tables 
+that are not available through pretabulated (or summary) ACS data 
+products.
+
+Using the regular data.census.gov tables, I could only 
+report and analyze these criteria two at a time—and 
+not very precisely at that. Income by age is available 
+for householders aged 65 and over, and the cross 
+tabulation of owners by age was likewise for 65-year-
+olds. Generating a series of data.census.gov tables, 
+I developed a rough estimate that up to 34,000 
+households—4.2 percent of the over 800,000 house-
+holds in the county—might be eligible as of 2014. 
+Assessor John Wilson and I agreed that a more reli-
+able estimate was needed, so we asked Susan Kinne 
+to conduct a PUMS analysis, using the three eligibility 
+criteria listed above.
+
+For this analysis, Susan used data from the 2010–2014 
+ACS 5-year PUMS file because it was the most recent 
+data available at the time. The 5-year PUMS files are 
+multiyear combinations of the 1-year PUMS file with 
+appropriate adjustments to the weights and infla-
+tion adjustment factors. She chose to use the 5-year 
+file because it yields more reliable estimates than the 
+1-year file, and she was conducting an analysis for a 
+relatively small geographic area and population sub-
+group (older homeowners living in King County).
+
+22   Understanding and Using American Community Survey Data 
+22   What State and Local Government Users Need to Know
+
+U.S. Census Bureau 
+Here are the steps she took to produce an estimate of the number of homeowners aged 62 and older in King 
+County who may be eligible for a property tax exemption:
+
+1.  Using data.census.gov (Table S2501), Susan first found an estimate of the total number of occupied housing 
+
+units in King County, WA, in 2010–2014 (808,729) (see Figure 3.17).
+
+2.  Using statistical software, she read in the data from the 2010–2014 ACS 5-year PUMS file.36 
+
+3.  Next, she used the PUMS Data Dictionary to find the variables she needed to conduct her analysis.37  
+
+4.  From her previous work with the PUMS data, she knew that King County was made up of 11 Public Use 
+
+Microdata Areas, or PUMAs, ranging from PUMA 11606 through PUMA 11616. She selected these PUMAs using 
+the PUMA10 variable in the data set.38 
+
+5.  Next, she selected the PUMS variables and categories she needed to determine the percentage of occupied 
+
+housing units in King County headed by homeowners aged 62 and older. 
+a.  AGEP (Age) >= 62 
+b.  RELP (Relationship) = 0 (Household reference person) 
+c.  TEN (Tenure) = 1 (Owned with a mortgage) or 2 (Owned without a mortgage)
+
+6.  A cross-tabulation of these variables showed that approximately 16.2 percent of occupied housing units were 
+
+headed by homeowners aged 62 and older. Applying that estimate to the total number of occupied housing 
+units from data.census.gov (808,729) yielded an estimate of about 131,000 occupied housing units headed by 
+older homeowners.
+
+7.  As a final step, she used the HINCP (Household Income) variable to estimate that among the 131,000 housing 
+units headed by older adults, approximately 40,000 (31 percent) had incomes below the $40,000 tax exemp-
+tion threshold.  
+
+36 U.S. Census Bureau, American Community Survey (ACS), PUMS Data, <www.census.gov/programs-surveys/acs/data/pums.html>. 
+37 U.S. Census Bureau, American Community Survey (ACS), PUMS Technical Documentation, <www.census.gov/programs-surveys/acs 
+
+/technical-documentation/pums/documentation.html>. 
+
+38 PUMAs are special nonoverlapping areas that partition each state into contiguous geographic units. Each contains roughly 100,000 people.
+
+Figure 3.17.  Table of Occupancy Characteristics in King County, Washington: 2010–2014
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>. 
+
+Understanding and Using American Community Survey Data   23 
+What State and Local Government Users Need to Know    23
+
+U.S. Census BureauConclusion
+
+The results suggested that there could be 25,000 low-income homeowners eligible to participate in the tax 
+exemption program who were not enrolled (40,000 minus 15,000 currently enrolled).
+
+We set into action an outreach plan to increase enrollment. By reaching into certain neighborhoods with large 
+numbers of lower-income homeowners, we were able to increase the number of homeowners applying for the 
+program.
+
+After 18 months, the Department of Assessments has brought in nearly 7,500 new applications. That represents 
+a nearly 50 percent increase in enrollment.
+
+24   Understanding and Using American Community Survey Data 
+24   What State and Local Government Users Need to Know
+
+U.S. Census Bureau4. ADDITIONAL RESOURCES 
+
+U.S. Census Bureau, What Is the American 
+Community Survey? 
+<www.census.gov/programs-surveys/acs/about.html>
+
+U.S. Census Bureau, ACS Data Tables and Tools  
+<www.census.gov/acs/www/data/data-tables 
+-and-tools/>
+
+U.S. Census Bureau, Understanding and Using 
+American Community Survey Data: What All Data 
+Users Need to Know 
+<www.census.gov/programs-surveys/acs/guidance 
+/handbooks/general.html>
+
+U.S. Census Bureau, Census Business Builder (CBB)  
+<www.census.gov/data/data-tools/cbb.html>
+
+U.S. Census Bureau, Data.census.gov Resources 
+<www.census.gov/data/what-is-data-census-gov.html>
+
+U.S. Census Bureau, ACS Data Releases 
+<www.census.gov/programs-surveys/acs/news 
+/data-releases.html>
+
+U.S. Census Bureau, Geography and ACS  
+<www.census.gov/programs-surveys/acs 
+/geography-acs.html>
+
+U.S. Census Bureau, State Data Center (SDC) Program  
+<www.census.gov/about/partners/sdc.html>
+
+ACS Online Community 
+<https://acsdatacommunity.prb.org/>
+
+Understanding and Using American Community Survey Data   25 
+What State and Local Government Users Need to Know    25
+
+U.S. Census Bureau 
+

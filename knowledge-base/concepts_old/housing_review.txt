@@ -1,0 +1,345 @@
+# Housing Concepts - Review Queue (0.75-0.9 confidence)
+# Human review required - edit and mark as 'reviewed' when done
+
+## 1. Housing Vacancy Rate (confidence: 0.85)
+ID: cendata:VacancyRate
+Universe: Total housing units
+Stat Method: rate
+Tables: ['B25002']
+Definition: Percentage of housing units that are vacant
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 2. Vacant Housing Units (confidence: 0.85)
+ID: cendata:VacantHousingUnits
+Universe: Housing units
+Stat Method: count
+Tables: ['B25002']
+Definition: Number of housing units without residents
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 3. Housing Cost Burden (confidence: 0.85)
+ID: cendata:HousingCostBurden
+Universe: Occupied housing units
+Stat Method: rate
+Tables: ['B25070', 'B25091']
+Definition: Percentage paying 30% or more of income for housing
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 4. Severe Housing Cost Burden (confidence: 0.80)
+ID: cendata:SevereHousingCostBurden
+Universe: Occupied housing units
+Stat Method: rate
+Tables: ['B25070', 'B25091']
+Definition: Percentage paying 50% or more of income for housing
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 5. Rent Burden (confidence: 0.85)
+ID: cendata:RentBurden
+Universe: Renter-occupied housing units
+Stat Method: rate
+Tables: ['B25070']
+Definition: Percentage of renters paying 30% or more of income for rent
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 6. Owner Cost Burden (confidence: 0.85)
+ID: cendata:OwnerCostBurden
+Universe: Owner-occupied housing units
+Stat Method: rate
+Tables: ['B25091']
+Definition: Percentage of owners paying 30% or more of income for housing
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 7. Year Structure Built (confidence: 0.80)
+ID: cendata:YearBuilt
+Universe: Housing units
+Stat Method: count
+Tables: ['B25034']
+Definition: Distribution of housing units by year built
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 8. Median Year Structure Built (confidence: 0.75)
+ID: cendata:HousingAge
+Universe: Housing units
+Stat Method: median
+Tables: ['B25035']
+Definition: Median year housing structures were built
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 9. Units in Structure (confidence: 0.80)
+ID: cendata:UnitsInStructure
+Universe: Housing units
+Stat Method: count
+Tables: ['B25024']
+Definition: Number of housing units in building structure
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 10. Single Family Detached Homes (confidence: 0.85)
+ID: cendata:SingleFamilyHomes
+Universe: Housing units
+Stat Method: count
+Tables: ['B25024']
+Definition: Housing units in single-family detached structures
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 11. Multifamily Housing (confidence: 0.80)
+ID: cendata:MultifamilyHousing
+Universe: Housing units
+Stat Method: count
+Tables: ['B25024']
+Definition: Housing units in structures with 2+ units
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 12. Mobile Homes (confidence: 0.80)
+ID: cendata:MobileHomes
+Universe: Housing units
+Stat Method: count
+Tables: ['B25024']
+Definition: Housing units that are mobile homes or trailers
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 13. Number of Bedrooms (confidence: 0.80)
+ID: cendata:Bedrooms
+Universe: Housing units
+Stat Method: count
+Tables: ['B25041']
+Definition: Distribution of housing units by number of bedrooms
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 14. Number of Rooms (confidence: 0.75)
+ID: cendata:Rooms
+Universe: Housing units
+Stat Method: count
+Tables: ['B25017']
+Definition: Distribution of housing units by total number of rooms
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 15. Median Number of Rooms (confidence: 0.75)
+ID: cendata:MedianRooms
+Universe: Housing units
+Stat Method: median
+Tables: ['B25018']
+Definition: Median number of rooms in housing units
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 16. Heating Fuel (confidence: 0.75)
+ID: cendata:HeatingFuel
+Universe: Occupied housing units
+Stat Method: count
+Tables: ['B25040']
+Definition: Primary fuel used for heating housing units
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 17. Kitchen Facilities (confidence: 0.75)
+ID: cendata:KitchenFacilities
+Universe: Housing units
+Stat Method: count
+Tables: ['B25051']
+Definition: Presence and completeness of kitchen facilities
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 18. Plumbing Facilities (confidence: 0.75)
+ID: cendata:PlumbingFacilities
+Universe: Housing units
+Stat Method: count
+Tables: ['B25047']
+Definition: Presence and completeness of plumbing facilities
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 19. Vehicles Available (confidence: 0.80)
+ID: cendata:Vehicles
+Universe: Occupied housing units
+Stat Method: count
+Tables: ['B08201']
+Definition: Number of vehicles available to household
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 20. Households Without Vehicle (confidence: 0.80)
+ID: cendata:NoVehicleHouseholds
+Universe: Occupied housing units
+Stat Method: count
+Tables: ['B08201']
+Definition: Households with no vehicle available
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 21. Overcrowded Housing (confidence: 0.75)
+ID: cendata:Overcrowding
+Universe: Occupied housing units
+Stat Method: rate
+Tables: ['B25014']
+Definition: Housing units with more than 1 person per room
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 22. Mortgage Status (confidence: 0.85)
+ID: cendata:MortgageStatus
+Universe: Owner-occupied housing units
+Stat Method: count
+Tables: ['B25081']
+Definition: Owner-occupied units with and without mortgage
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 23. Monthly Owner Costs (confidence: 0.85)
+ID: cendata:MonthlyOwnerCosts
+Universe: Owner-occupied housing units
+Stat Method: median
+Tables: ['B25088']
+Definition: Median monthly owner costs including mortgage, taxes, insurance
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 24. Property Taxes (confidence: 0.75)
+ID: cendata:PropertyTaxes
+Universe: Owner-occupied housing units
+Stat Method: median
+Tables: ['B25103']
+Definition: Median annual property taxes paid
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 25. Moved in Past Year (confidence: 0.75)
+ID: cendata:MovedInYear
+Universe: Occupied housing units
+Stat Method: rate
+Tables: ['B25026']
+Definition: Percentage of households that moved in past year
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 26. Year Householder Moved In (confidence: 0.75)
+ID: cendata:YearMovedIn
+Universe: Occupied housing units
+Stat Method: count
+Tables: ['B25026']
+Definition: Distribution by year current householder moved in
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 27. Housing Tenure by Age (confidence: 0.80)
+ID: cendata:HousingByAge
+Universe: Occupied housing units
+Stat Method: count
+Tables: ['B25007']
+Definition: Housing tenure by age of householder
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 28. Housing Tenure by Income (confidence: 0.80)
+ID: cendata:HousingByIncome
+Universe: Occupied housing units
+Stat Method: count
+Tables: ['B25118']
+Definition: Housing tenure by household income
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 29. Housing Tenure by Race (confidence: 0.75)
+ID: cendata:HousingByRace
+Universe: Occupied housing units
+Stat Method: count
+Tables: ['B25003A', 'B25003B', 'B25003C']
+Definition: Housing tenure by race and Hispanic origin
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 30. Senior Housing (confidence: 0.75)
+ID: cendata:SeniorHousing
+Universe: Occupied housing units with householder 65+
+Stat Method: count
+Tables: ['B25007']
+Definition: Housing characteristics for seniors 65 and older
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 31. Group Quarters Population (confidence: 0.75)
+ID: cendata:GroupQuarters
+Universe: Population in group quarters
+Stat Method: count
+Tables: ['B26001']
+Definition: People living in institutional and non-institutional group quarters
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 32. Rental Vacancy Rate (confidence: 0.75)
+ID: cendata:RentalVacancy
+Universe: Rental housing units
+Stat Method: rate
+Tables: ['B25004']
+Definition: Percentage of rental units that are vacant
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 33. Housing Density (confidence: 0.75)
+ID: cendata:HousingDensity
+Universe: Land area
+Stat Method: ratio
+Tables: ['B25001']
+Definition: Housing units per square mile
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 34. Internet Access (confidence: 0.75)
+ID: cendata:InternetAccess
+Universe: Occupied housing units
+Stat Method: rate
+Tables: ['B28002']
+Definition: Households with broadband internet access
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 35. Computer Access (confidence: 0.75)
+ID: cendata:ComputerAccess
+Universe: Occupied housing units
+Stat Method: rate
+Tables: ['B28001']
+Definition: Households with computer access
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 36. Housing Value Distribution (confidence: 0.80)
+ID: cendata:HousingValue
+Universe: Owner-occupied housing units
+Stat Method: count
+Tables: ['B25075']
+Definition: Distribution of housing values by price range
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 37. Rent Distribution (confidence: 0.80)
+ID: cendata:RentDistribution
+Universe: Renter-occupied housing units
+Stat Method: count
+Tables: ['B25063']
+Definition: Distribution of gross rent by price range
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 38. Housing Stability (confidence: 0.75)
+ID: cendata:HousingStability
+Universe: Occupied housing units
+Stat Method: rate
+Tables: ['B25026']
+Definition: Percentage of households in same residence for 5+ years
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+

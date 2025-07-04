@@ -1,0 +1,1007 @@
+Wealth of Households: 2022
+
+Current Population Reports
+
+By Briana Sullivan and Shomik Ghosh 
+
+P70BR-202
+
+November 2024
+
+INTRODUCTION
+
+This brief examines household wealth at the end of 
+2022 using the U.S. Census Bureau’s 2023 Survey 
+of Income and Program Participation (SIPP) public-
+use data.1 It highlights differences in asset ownership 
+and debt-holding rates and demonstrates significant 
+variation in median household wealth by demographic 
+and economic characteristics such as education and 
+income. By illustrating how wealth varies across  
+U.S. households, this brief provides key insights into 
+the economic well-being of households.2
+
+THE DISTRIBUTION OF HOUSEHOLD WEALTH
+
+Wealth can vary dramatically across households. For 
+example, a household with few assets and a heavy 
+debt load may have negative wealth in the tens of 
+thousands of dollars. Conversely, a household that 
+owns its own home and has multiple retirement 
+accounts may have positive wealth in the hundreds of 
+thousands of dollars.
+
+Table 1 presents the value of household wealth by 
+percentile. The median household wealth in 2022 was 
+$176,500. The 10th percentile of household wealth was 
+zero dollars, meaning 1 in 10 households had wealth of 
+zero dollars or less. The 90th percentile of household 
+wealth was $1,603,000, meaning 1 in 10 households 
+had wealth exceeding $1.6 million.
+
+¹ The U.S. Census Bureau has reviewed this data product to 
+ensure appropriate access, use, and disclosure avoidance protec-
+tion of the confidential source data (Project No. P-7516454, Dataset 
+D-0000004561, Approval CBDRB-FY24-0222).
+
+² All estimates include households with negative wealth.
+
+WHAT IS SIPP?
+
+The Survey of Income and Program Participation 
+(SIPP) is a nationally representative, longitudinal 
+survey administered by the U.S. Census Bureau 
+that provides comprehensive information on the 
+dynamics of income, employment, household 
+composition, and government program partici-
+pation. The SIPP is also a leading source of data 
+on economic well-being, family dynamics, edu-
+cation, wealth, health insurance, child care, and 
+food security. The SIPP interviews individuals for 
+several years and provides monthly data about 
+changes in household and family composition 
+and economic circumstances over time. Visit the 
+SIPP website at <www.census.gov/sipp> for more 
+information.
+
+KEY CONCEPTS AND DEFINITIONS
+
+A household consists of a group of people 
+occupying a housing unit together (group quar-
+ters, such as dormitories, institutions, or nurs-
+ing homes, are excluded from the analysis). The 
+householder is a person who owns or rents the 
+housing unit (i.e., a person whose name appears 
+on the deed or lease).
+
+Wealth is the value of assets owned minus the 
+debts owed. Therefore, wealth can be negative. 
+The major assets not covered in this measure are 
+equity in pension plans and the value of home 
+furnishings.
+
+Household wealth percentile is the dollar amount 
+below which a given percentage of households 
+fall. The 50th percentile is also referred to as the 
+median.
+
+Table 1.
+Value of Household Wealth by 
+Percentile: 2022
+
+Percentile
+
+2022 dollars
+
+10th . . . . . . . . . . . . . . . . . . .
+25th  . . . . . . . . . . . . . . . . . .
+50th . . . . . . . . . . . . . . . . . .
+75th  . . . . . . . . . . . . . . . . . .
+90th . . . . . . . . . . . . . . . . . .
+
+Z
+18,280
+176,500
+614,700
+1,603,000
+
+Z Represents or rounds to zero.
+Source: U.S. Census Bureau, 2023 Survey 
+of Income and Program Participation public-
+use data, Project No. P-7516454, Dataset 
+D-0000004561, Approval CBDRB-FY24-0222. 
+
+THE DISTRIBUTION OF 
+HOUSEHOLD WEALTH BY 
+RACE AND ETHNICITY
+
+Figure 1 presents the distribu-
+tion of household wealth by 
+the race and ethnicity of the 
+householder. Households with a 
+White, non-Hispanic or an Asian, 
+non-Hispanic householder were 
+more likely to have wealth over 
+$1 million when compared to 
+other households (20.0 and 29.3 
+percent, respectively). Meanwhile, 
+4.0 percent of households with 
+a Black, non-Hispanic house-
+holder, 7.5 percent with a Hispanic 
+householder of any race, and 11.5 
+percent with a householder of any 
+other race group or combination 
+had wealth over $1 million. 
+
+Households with negative wealth 
+are more likely than other house-
+holds to experience higher rates of 
+financial insecurity and are more 
+vulnerable to economic shocks. 
+Around 21 percent of households 
+with a Black, non-Hispanic house-
+holder, 15.5 percent with a Hispanic 
+householder of any race, and 16.0 
+percent with a householder of any 
+other race group or combination 
+
+had zero or negative wealth.3 
+Fewer than 10 percent of house-
+holds with a White, non-Hispanic 
+or Asian, non-Hispanic house-
+holder had zero or negative wealth 
+(8.4 and 6.6 percent, respectively).
+
+MEDIAN WEALTH 
+BY HOUSEHOLD 
+CHARACTERISTICS
+
+Figure 2 depicts how median 
+wealth varied by demographic and 
+economic characteristics of the 
+household according to the 2023 
+SIPP.
+
+The data suggest that households 
+generally accumulate more wealth 
+as they age. For households in 
+which the householder was under 
+the age of 35, median wealth was 
+$31,110 in 2022. For households 
+in which the householder was 
+between 70 and 74 years old, 
+median household wealth was 
+$403,000, or about 2.3 times the 
+value of overall median wealth 
+($176,500). Figure 2 also suggests 
+that aging households eventu-
+ally draw down their wealth. For 
+households in which the house-
+holder was at least 75 years old, 
+median household wealth was 
+$307,900, or about 80 percent of 
+the median household wealth for 
+householders between 70 and 74 
+years old.
+
+Higher education was associated 
+with more wealth. Median wealth 
+among households in which the 
+most educated member held a 
+high school diploma was $57,020, 
+or 6.6 times greater than house-
+holds in which no member had a 
+
+³ There is no statistically significant dif-
+ference between the share of households 
+with zero or negative wealth for those 
+with a Hispanic householder and those 
+with a householder of another race or race 
+combination.
+
+high school diploma. Households 
+in which the most educated mem-
+ber had a bachelor’s degree had 
+a median wealth of $287,600, 5.0 
+times greater than those in which 
+the most educated member held a 
+high school diploma.
+
+Households with higher annual 
+incomes had more wealth. When 
+households are separated into 
+income quintiles (meaning five 
+equally sized groups ordered by 
+income from lowest to highest), a 
+meaningful wealth difference can 
+be found between the highest, 
+the middle, and the lowest income 
+households.4 For example, the 
+median wealth of households in 
+the lowest income group (lowest 
+quintile) was 7.3 percent of the 
+median wealth of households in 
+the middle income group (third 
+quintile). The median wealth of 
+households in the third income 
+quintile was 20.6 percent of the 
+median wealth of the households 
+with the highest income (highest 
+quintile).
+
+Homeowners were wealthier than 
+renters. Households that owned 
+their home had a median wealth 
+about 44 times larger than those 
+that rented. If home equity is 
+excluded from total wealth, the 
+median wealth of households that 
+owned their home was about 17 
+times that of the median house-
+hold that rented. In other words, 
+home equity alone did not account 
+for the difference in median wealth 
+between households that owned 
+and households that rented.
+
+⁴ Thresholds for income quintiles differ 
+across survey years. In the 2023 SIPP public-
+use data, we define the lowest quintile as 
+household income at or below $30,109. The 
+middle quintile includes households with 
+income between $59,184 and $96,024. The 
+highest quintile is defined as household 
+income above $157,408.
+
+2 
+
+U.S. Census Bureau
+
+Figure 1.
+Distribution of Household Wealth by Amount of Wealth and Race of Householder: 2022
+(In 2022 dollars)
+
+White Alone, not Hispanic
+Zero or negative
+
+$
+
+$
+
+$
+$
+
+$
+$
+$
+
+$
+$
+$
+
+Zero or negative
+
+$
+
+$
+
+$
+$
+
+$
+$
+$
+
+$
+$
+$
+
+Zero or negative
+
+$
+
+$
+
+$
+$
+
+$
+$
+$
+
+$
+$
+$
+
+not Hispanic
+Zero or negative
+
+$
+
+$
+
+$
+$
+
+$
+$
+$
+
+$
+$
+$
+
+Zero or negative
+
+$
+
+$
+
+$
+$
+
+$
+$
+$
+
+$
+$
+$
+
+$
+$
+$
+
+$
+
+$
+$
+$
+
+$
+
+$
+$
+$
+
+$
+
+$
+$
+$
+
+$
+
+$
+$
+$
+
+$
+
+$
+$
+$
+
+$
+$
+$
+
+$
+$
+$
+
+$
+$
+$
+
+$
+$
+$
+
+Note: Householder is a person who owns or rents the housing unit (whose name appears on the deed or lease). 
+Source: U.S. Census Bureau, 2023 Survey of Income and Program Participation public-use data, Project No. P-7516454,
+Dataset D-0000004561, Approval CBDRB-FY24-0222.
+
+U.S. Census Bureau 
+
+3
+
+Figure 2.
+Median Wealth by Household Characteristics: 2022
+(In 2022 dollars)
+
+Age of Householder
+
+Highest Level of Educational
+Attainment in Household
+No high school diploma
+
+High school graduate
+
+Associate’s degree
+
+Graduate or professional degree
+
+Annual Household Income
+
+Lowest quintile
+
+Second quintile
+
+Third quintile
+
+Fourth quintile
+
+Highest quintile
+
+Housing Tenure
+
+Marital Status by Age of Householder
+
+Renter
+
+Married couple
+
+Unmarried male
+
+Unmarried female
+
+Married couple
+
+Unmarried male
+
+Unmarried female
+
+Married couple
+
+Unmarried male
+
+Unmarried female
+
+Married couple
+
+Unmarried male
+
+Unmarried female
+
+Source: U.S. Census Bureau, 2023 Survey of Income and Program Participation public-use data, Project No. P-7516454,
+Dataset D-0000004561, Approval CBDRB-FY24-0222.      
+
+4 
+
+U.S. Census Bureau
+
+Table 2.
+Asset and Unsecured Debt Ownership Rates for Households and Median Values of Asset Holdings 
+and Unsecured Debts Owed: 2022
+
+Asset or debt type
+
+Percent  
+holding asset 
+ or debt type
+
+Standard 
+error
+
+Median value 
+(2022 dollars)1, 2
+
+Standard error 
+(2022 dollars)
+
+Wealth
+
+Value of asset holdings
+Assets at financial institutions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Vehicles. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Equity in own home . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Retirement accounts³  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Stocks and mutual funds. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Business assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Bonds  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Other real estate . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Rental property . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Other asset holdings⁴  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Unsecured debts⁵
+All unsecured debts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Credit card and store bills. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Student loan and education-related expenses . . . . . . . . . . . . . . . . .
+Medical debts  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Other unsecured debts⁶  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+X
+
+95.8
+82.4
+62.2
+60.3
+26.3
+16.2
+8.6
+7.6
+6.7
+26.2
+
+54.4
+41.9
+17.1
+14.3
+9.0
+
+X
+
+0.2
+0.4
+0.3
+0.4
+0.3
+0.3
+0.2
+0.2
+0.2
+0.4
+
+0.4
+0.4
+0.4
+0.3
+0.3
+
+ 176,500 
+
+ 3,581 
+
+ 10,600 
+ 13,200 
+ 198,000 
+ 75,000 
+ 38,000 
+ 8,000 
+ 6,000 
+ 100,000 
+ 200,000 
+ 16,000 
+
+ 8,000 
+ 4,000 
+ 22,000 
+ 2,000 
+ 7,000 
+
+ 331 
+ 179 
+4,502 
+ 1,808 
+ 3,030 
+ 1,978 
+ 1,397 
+ 3,676 
+ 6,277 
+ 1,176 
+
+ 297 
+Z
+ 1,983 
+Z
+ 481 
+
+X Not applicable.
+Z Represents or rounds to zero.
+¹ Asset values are net of debts held against them, otherwise known as equity. Wealth is also net of all unsecured debts.
+² Estimates of median value are conditional on asset ownership or possession of the relevant debt type. If a household held an asset or debt 
+
+type during the reference year but reported its value to be zero dollars as of December 31 (e.g., because the asset was sold or the debt paid off), 
+the zero is included in the median calculation.
+
+³ Includes Individual Retirement Accounts (IRAs), Keogh accounts, Thrift Savings Plans, and 401(k) accounts.
+⁴ Includes annuities, trusts, cash life insurance policies, educational savings accounts, mortgages held for sale of real estate, amount due from 
+
+sale of business property, and other financial assets.
+
+⁵ The percentage of households holding secured debts and the median value of those debts can be found in the “2022 Wealth, Asset 
+
+Ownership, & Debt of Households Detailed Tables” at <www.census.gov/data/tables/2022/demo/wealth/wealth-asset-ownership.html>. Estimates 
+are provided for total secured debt, home debt, business debt, and vehicle debt.
+
+⁶ Includes loans obtained through a bank/credit union, money owed to private individuals, debt held against mutual funds or stocks, and all 
+
+other debts.
+
+Source: U.S. Census Bureau, 2023 Survey of Income and Program Participation public-use data, Project No. P-7516454, Dataset D-0000004561, 
+
+Approval CBDRB-FY24-0222. 
+
+The median wealth of married 
+householders was greater at all 
+age levels than that of unmarried 
+householders. For example, mar-
+ried householders under the age 
+of 35 had a median wealth 13.8 
+times that of unmarried female 
+householders and 4.3 times that of 
+unmarried male householders. This 
+pattern suggests that the gaps in 
+median wealth cannot solely be 
+attributed to the presence of an 
+additional adult in the household; 
+otherwise, married householders 
+would have no more than twice 
+the median wealth of unmarried 
+householders.
+
+There are also statistically sig-
+nificant differences in median 
+wealth between men and women 
+
+U.S. Census Bureau 
+
+for some age groups. For those 
+under the age of 35, 35 to 54, and 
+65 and over, the median wealth of 
+unmarried female householders 
+was less than the median wealth of 
+unmarried male householders. For 
+example, unmarried female house-
+holders under the age of 35 had 
+a median wealth of $8,040 (30.9 
+percent of their unmarried male 
+counterparts’ wealth). But among 
+those aged 55 to 64, the difference 
+in median wealth between unmar-
+ried male and female householders 
+was not statistically significant.
+
+ASSET OWNERSHIP RATES 
+AND VALUES
+
+The SIPP collects data on 
+many different asset types; the 
+
+ownership rates and median values 
+of these assets are presented in 
+Table 2.5 In calculating median 
+asset value, equity is the value of 
+an asset net of any secured debts 
+held against it. For example, the 
+mortgage balance is subtracted 
+from the value of a home to cal-
+culate home equity. Therefore, the 
+value of these secured assets may 
+be negative.
+
+Assets at financial institutions 
+(such as checking and savings 
+accounts) and vehicle equity were 
+
+⁵ Estimates of median value are condi-
+tional on asset ownership or holding of the 
+relevant debt type. If a household held an 
+asset or debt type during the reference year 
+but reported its value to be zero dollars 
+as of December 31 (e.g., because the asset 
+was sold or the debt paid off), the zero is 
+included in the median calculation.
+
+5
+
+the most common assets. In 2022, 
+95.8 percent of households had 
+assets at financial institutions and 
+82.4 percent owned vehicles. The 
+median values of these two asset 
+classes were among the lowest 
+values: $10,600 for assets at finan-
+cial institutions and $13,200 for 
+vehicles.6 
+
+The assets with the highest median 
+values were primary home equity 
+($198,000) and rental property 
+equity ($200,000).7 Equity in one’s 
+own home was the third-most 
+common asset class; 62.2 percent 
+of households owned a home dur-
+ing the year. Rental property was 
+among the least commonly held 
+assets, owned by 6.7 percent of 
+households.
+
+Retirement accounts were also 
+a major source of wealth with a 
+median value of $75,000. They 
+were the fourth-most common 
+asset class, owned by 60.3 percent 
+of households.
+
+RATES AND VALUES OF 
+UNSECURED DEBT HOLDINGS
+
+Table 2 also shows debt-holding 
+rates and the values of unsecured 
+debts (e.g., credit card or medical 
+debt). Unsecured debts differ from 
+secured debts in that they have no 
+asset backing them. For example, 
+a lender cannot repossess some-
+one’s education if the individual 
+fails to pay a student loan, the way 
+an auto lender might repossess a 
+car. By including unsecured debts, 
+Table 2 provides a more com-
+plete picture of the debts held by 
+households.
+
+In 2022, 54.4 percent of house-
+holds had some unsecured debt. 
+Credit card debt was the most 
+common form of unsecured debt, 
+held by 41.9 percent of households. 
+Student loans, held by 17.1 percent 
+of households, was the category 
+with the highest median amount 
+owed at $22,000. About 14 per-
+cent of households had medical 
+debt; the median amount owed 
+was $2,000.
+
+THE COMPOSITION OF 
+HOUSEHOLD WEALTH
+
+Median asset values vary across 
+asset types, meaning that some 
+commonly held assets are a small 
+part of overall wealth (Table 2). 
+Therefore, to illustrate the com-
+position of wealth, Figure 3 shows 
+aggregate household wealth 
+decomposed by asset type.8 
+
+Because the asset holdings of 
+extremely wealthy households 
+are not representative of the rest 
+of the population, this section 
+focuses on households at or below 
+the 99th percentile of net worth.
+
+In 2022, home equity and retire-
+ment accounts composed 
+the majority (63.5 percent) of 
+aggregate household wealth. 
+Specifically, 32.1 percent of house-
+hold wealth was held in retire-
+ment accounts, and home equity 
+accounted for 31.4 percent of 
+household wealth.9 
+
+Despite being the two most com-
+monly held assets, assets at finan-
+cial institutions and vehicle equity 
+accounted for 9.2 percent and 2.9 
+
+⁶ The median values of assets at financial 
+
+institutions and vehicles are statistically 
+lower than the median values of equity in 
+own home, retirement accounts, other real 
+estate, stocks and mutual funds, and rental 
+property.
+
+⁷ The difference between median rental 
+property equity and median primary home 
+equity was not statistically significant.
+
+⁸ The aggregate value of wealth is 
+defined as the sum of wealth across all  
+U.S. households. To calculate the share of 
+wealth held in a specific asset category, 
+the value of the asset (net of any debt held 
+against it) is summed across all households 
+and divided by aggregate household wealth.
+
+⁹ The share of household wealth held in 
+retirement accounts was not statistically dif-
+ferent from the share held in home equity.
+
+percent of aggregate household 
+wealth, respectively.10 
+
+Dividing the total value of unse-
+cured debt among all households 
+by the total value of household 
+wealth, unsecured debt was 2.8 
+percent of aggregate wealth. 
+Student loans and other education-
+related expenses accounted for the 
+largest share of unsecured debt 
+in the United States. Although 
+the magnitude of these expenses 
+was equivalent to 1.4 percent of 
+aggregate wealth, they accounted 
+for about 50 percent of unsecured 
+debt.
+
+SUMMARY
+
+Estimates presented in this brief 
+illustrate the wide variation in 
+household wealth and, therefore, 
+the economic well-being of house-
+holds. Assets at financial institu-
+tions (such as checking or savings 
+accounts) and vehicle equity were 
+the most commonly held assets, 
+but they only accounted for a 
+relatively small portion of aggre-
+gate household wealth. Retirement 
+accounts and home equity made 
+up the majority of aggregate 
+household wealth.
+
+Additionally, the estimates dem-
+onstrate significant variation in 
+median wealth by demographic 
+and economic characteristics, 
+namely age, education, income, 
+home ownership, and marital 
+status.
+
+SOURCE AND ACCURACY
+
+Statistics from surveys are sub-
+ject to sampling and nonsampling 
+error. All comparisons presented 
+in this brief have taken sam-
+pling error into account and are 
+
+10 Note that decompositions of aggregate 
+
+wealth are not necessarily informative of 
+individual households’ wealth composition. 
+While vehicles represent a small share of 
+aggregate wealth, they represent a much 
+larger share of wealth for households owning 
+only vehicles and a checking account.
+
+6 
+
+U.S. Census Bureau
+
+32.1
+
+31.4
+
+Figure 3.
+Composition of Wealth by Asset Type: 20221 
+(In percent)
+
+Retirement accounts2
+
+Equity in own home
+
+Stocks and mutual funds
+
+Assets at financial institutions
+
+Other asset holdings3
+
+Rental properties
+
+Other real estate
+
+Business assets
+
+Vehicles
+
+Bonds
+
+Student loan and 
+education-related expenses4
+
+–1.4
+
+Credit card and store bills4
+
+–0.6
+
+Medical debts4
+
+–0.4
+
+Other unsecured debts4, 5
+
+–0.4
+
+10.9
+
+9.2
+
+4.5
+
+4.5
+
+3.1
+
+3.1
+
+2.9
+
+1.2
+
+1 Excludes households in the top 1 percent of wealth.
+2 Includes Individual Retirement Accounts (IRAs), Keogh accounts, Thrift Savings Plans, and 401(k) accounts.
+3 Includes annuities, trusts, cash life insurance policies, educational savings accounts, mortgages held for sale of real estate, amount 
+due from sale of business property, and other financial assets.
+4 Because wealth is assets minus debts, unsecured debts are subtracted from the distribution of wealth and are shown as negative.
+5 Includes loans obtained through a bank or credit union, money owed to private individuals, debt held against mutual funds or stocks, 
+and all other debts.
+Source: U.S. Census Bureau, 2023 Survey of Income and Program Participation public-use data, Project No. P-7516454, 
+Dataset D-0000004561, Approval CBDRB-FY24-0222.
+
+significant at the 90 percent 
+confidence level, unless otherwise 
+noted. This means the 90 percent 
+confidence interval for the differ-
+ence between the estimates being 
+compared does not include zero. 
+Nonsampling errors in surveys 
+may be attributed to a variety of 
+sources, such as how the survey 
+was designed, how respondents 
+interpret questions, how able and 
+willing respondents are to provide 
+correct answers, and how accu-
+rately the answers are coded and 
+classified. To minimize these errors, 
+the Census Bureau employs quality 
+control procedures throughout the 
+production process, including the 
+overall design of surveys, wording 
+
+of questions, review of the work of 
+interviewers and coders, and the 
+statistical review of reports.
+
+at <www.census.gov/programs-
+surveys/sipp/tech-documentation.
+html>.
+
+Additional information can be 
+found on the main SIPP website 
+at <www.census.gov/sipp>, in 
+the SIPP Users’ Guide at <www.
+census.gov/programs-surveys/
+sipp/guidance/users-guide.
+html>, and in the SIPP Source and 
+Accuracy Statements at <www.
+census.gov/programs-surveys/
+sipp/tech-documentation/source-
+accuracy-statements.html>. For 
+technical documentation and 
+more information about SIPP data 
+quality, visit the SIPP website’s 
+technical documentation page 
+
+CONTACTS
+
+For more information on the con-
+tent of this report or on the SIPP, 
+including data and methodology, 
+contact the SIPP Coordination and 
+Outreach staff at <census.sipp@
+census.gov> or 1-888-245-3076.
+
+SUGGESTED CITATION
+
+Briana Sullivan and Shomik Ghosh, 
+“The Wealth of Households: 2022,” 
+Current Population Reports, 
+P70BR-202, U.S. Census Bureau, 
+Washington, DC, 2024.
+
+U.S. Census Bureau 
+
+7
+
+

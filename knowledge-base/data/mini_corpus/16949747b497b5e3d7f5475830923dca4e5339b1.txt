@@ -1,0 +1,306 @@
+United States Census Bureau | An official website of the United States Government
+
+Income in the United
+States: 2023
+
+September 10, 2024
+Report Number: P60-282
+Written by: Gloria Guzman and Melissa Kollar
+
+Introduction
+
+This report presents estimates on income, earnings, and inequality in the United States for calendar year 2023, based
+
+on information collected in the 2024 and earlier Current Population Survey Annual Social and Economic Supplements
+
+(CPS ASEC) conducted by the Census Bureau.  
+
+The income estimates in the main sections of this report are based on the concept of money income, which is pretax
+
+and does not account for the value of in-kind transfers. Appendix A provides a detailed explanation of how income is
+
+measured using the CPS ASEC. Estimates of post-tax income and inequality are included in Appendix B.
+
+Income in the United States: 2023 [<1.0 MB][//www2.census.gov/library/publications/2024/demo/p60-282.pdf]
+
+Highlights
+
+Real median household income was $80,610 in 2023, a 4.0 percent increase from the 2022 estimate of $77,540 (Figure 1 and
+Table A-1). This is the first statistically significant annual increase in real median household income since 2019.
+
+Real median household incomes increased by 5.4 percent for White households and by 5.7 percent for non-Hispanic White
+households between 2022 and 2023. There was no significant change in median incomes for Black, Asian, and Hispanic
+households (Figure 2 and Table A-1).
+
+Household income rose throughout the income distribution, increasing 6.7 percent at the 10th percentile and 4.6 percent at the
+90th percentile (Table A-3).
+
+Income inequality as measured by the Gini index and income percentile ratios was not significantly different between 2022 and
+2023 (Figure 3 and Table A-3).
+
+Between 2022 and 2023, the number of total workers increased by 2.2 million, or 1.3 percent. The change in the number of full-
+time, year-round workers was not statistically significant (Figure 5 and Table A-6).
+
+Real median earnings for men who worked full-time, year-round increased by 3.0 percent, and real median earnings increased
+1.5 percent for women who worked full-time, year-round (Figure 4 and Table A-6).
+
+For full-time, year-round workers, the female-to-male earnings ratio in 2023 fell to 82.7 percent from 84.0 percent in 2022
+(Figure 6 and Table A-6). This is the first statistically significant annual decrease in the female-to-male earnings ratio since
+2003.
+
+Tables
+
+Income:
+
+Table A-1. Income Summary Measures by Selected Characteristics: 2022 and
+2023 [< 1.0 MB]
+
+[//www2.census.gov/programs-
+surveys/demo/tables/p60/282/tableA1.xlsx]
+
+Table A-2. Households by Total Money Income, Race, and Hispanic Origin of
+Householder: 1967 to 2023 [< 1.0 MB]
+
+[//www2.census.gov/programs-
+surveys/demo/tables/p60/282/tableA2.xlsx]
+
+Income Inequality:
+
+Table A-3. Income Distribution Measures Using Money Income and Equivalence-
+Adjusted Income: 2022 and 2023 [< 1.0 MB]
+
+[//www2.census.gov/programs-
+surveys/demo/tables/p60/282/tableA3.xlsx]
+
+Table A-4a. Selected Measures of Household Income Dispersion: 1967 to
+2023 [< 1.0 MB]
+
+[//www2.census.gov/programs-
+surveys/demo/tables/p60/282/tableA4a.xlsx]
+
+Table A-4b. Selected Measures of Household Income Dispersion: 1967 to
+2023 [< 1.0 MB]
+
+[//www2.census.gov/programs-
+surveys/demo/tables/p60/282/tableA4b.xlsx]
+
+Table A-5. Selected Measures of Equivalence-Adjusted Income Dispersion:
+1967 to 2023 [< 1.0MB]
+
+[//www2.census.gov/programs-
+surveys/demo/tables/p60/282/tableA5.xlsx]
+
+Earnings:
+
+Table A-6. Earnings Summary Measures by Selected Characteristics: 2022
+and 2023 [< 1.0 MB]
+
+[//www2.census.gov/programs-
+surveys/demo/tables/p60/282/tableA6.xlsx]
+
+Table A-7. Number and Real Median Earnings of Total Workers and Full-Time, Year-Round Workers
+With Earnings by Sex and Female-to-Male Earnings Ratio: 1960 to 2023 [< 1.0 MB]
+
+[//www2.census.gov/programs-
+surveys/demo/tables/p60/282/tableA7.xl
+sx]
+
+Post-Tax Household Income:
+
+Table B-1. Post-Tax Household Income Summary Measures by Selected
+Characteristics: 2022 and 2023 [< 1.0 MB]
+
+[//www2.census.gov/programs-
+surveys/demo/tables/p60/282/tableB1.xlsx]
+
+Table B-2. Summary Measures by Selected Characteristics Using Money Income and
+Post-Tax Income: 2023 [< 1.0 MB]
+
+[//www2.census.gov/programs-
+surveys/demo/tables/p60/282/tableB2.xlsx]
+
+Table B-3. Distribution Measures Using Post-Tax Income and Equivalence-Adjusted
+Post-Tax Income: 2022 and 2023 [< 1.0 MB]
+
+[//www2.census.gov/programs-
+surveys/demo/tables/p60/282/tableB3.xlsx]
+
+Table B-4. Distribution Measures Using Money Income, Post-Tax Income, Equivalence-Adjusted
+Income, and Equivalence-Adjusted Post-Tax Income: 2023 [< 1.0 MB]
+
+[//www2.census.gov/programs-
+surveys/demo/tables/p60/282/tableB4.xlsx]
+
+Table B-5. Selected Measures of Household Post-Tax Income Dispersion: 2009
+to 2023 [<1.0 MB]
+
+[//www2.census.gov/programs-
+surveys/demo/tables/p60/282/tableB5.xlsx]
+
+Figures
+
+Income:
+
+Figure 1. Median Household Income and Percent Change by Selected
+Characteristics [<1.0 MB]
+
+[/content/dam/Census/library/visualizations/2024/demo/p60-
+282/figure1.pdf]
+
+Figure 2. Real Median Household Income by Race and Hispanic Origin: 1967
+to 2023 [1.3 MB]
+
+[/content/dam/Census/library/visualizations/2024/demo/p60-
+282/figure2.pdf]
+
+Income Inequality:
+
+Figure 3. Income Distribution Measures and Percent Change Using Money Income and
+Equivalence-Adjusted Income [<1.0 MB]
+
+[/content/dam/Census/library/visualizations/2024/de
+mo/p60-282/figure3.pdf]
+
+Earnings:
+
+Figure 4. Median Earnings and Percent Change by Work Status and Sex
+[<1.0 MB]
+
+[/content/dam/Census/library/visualizations/2024/demo/p60-
+282/figure4.pdf]
+
+Figure 5. Total and Full-Time, Year-Round Workers With Earnings by Sex:
+1967 to 2023 [<1.0 MB]
+
+[/content/dam/Census/library/visualizations/2024/demo/p60-
+282/figure5.pdf]
+
+Figure 6. Female-to-Male Earnings Ratio and Median Earnings of Full-Time, Year-
+Round Workers by Sex: 1960 to 2023 [<1.0 MB]
+
+[/content/dam/Census/library/visualizations/2024/d
+emo/p60-282/figure6.pdf]
+
+For More Information
+
+To adjust for changes in the cost of living over time, historical income and earnings estimates in this report are
+expressed in real or 2023 dollars. The current method for inflation-adjustment is based on the Chained Consumer
+
+Price Index for all Urban Consumers (C-CPI-U) [https://www.bls.gov/cpi/additional-resources/chained-cpi.htm]
+between 2000 and 2023 and the Consumer Price Index for all Urban Consumers Retroactive Series (R-CPI-U-RS)
+
+[https://www.bls.gov/cpi/research-series/r-cpi-u-rs-home.htm] prior to 2000. More information on the inflation
+adjustment and the annual index values are available in Appendix A.
+
+For information on confidentiality protection, sampling error, nonsampling error, and definitions,
+see https://www2.census.gov/programs-surveys/cps/techdocs/cpsmar24.pdf [https://www2.census.gov/programs-
+
+surveys/cps/techdocs/cpsmar24.pdf]  [PDF - <1.0 MB].
+
+The Census Bureau has reviewed this data product to ensure appropriate access, use, and disclosure avoidance
+
+protection of the confidential source data used to produce this product (Data Management System (DMS) number: P-
+7534374, Disclosure Review Board (DRB) approval number: CBDRB-FY24-0434). To further protect respondent privacy,
+
+all estimates in this report have undergone additional rounding. As a result, this year's estimates may differ from
+previous publications and details may not sum to totals.
+
+Others in Series
+
+Publication
+
+Poverty in the United States: 2022
+
+September 12, 2023
+
+This report presents data on poverty in the United States based
+on information collected in the 2023 and earlier CPS ASEC.
+
+[/library/publications/2023/demo/p60-280.html]
+
+Publication
+
+Health Insurance Coverage in the
+United States: 2022
+
+September 12, 2023
+
+This report presents data on health insurance coverage in the
+United States in 2022 based on information collected in the
+2023 CPS ASEC.
+
+[/library/publications/2023/demo/p60-281.html]
+
+Publication
+
+Poverty in the United States: 2023
+
+September 10, 2024
+
+This report presents data on poverty in the United States based
+on information collected in the 2024 and earlier CPS ASEC.
+
+[/library/publications/2024/demo/p60-283.html]
+
+VIEW ALL [/LIBRARY/PUBLICATIONS/TIME-SERIES/P60.HTML]
+
+Related Information
+
+Income & Poverty Publications [/topics/income-poverty/library/publications.html]
+
+Income & Poverty Data Tables [/topics/income-poverty/data/tables.html]
+
+Income Inequality Data Tables [/topics/income-poverty/income-inequality/data/data-tables.html]
+
+You May Be Interested In
+
+America Counts Story
+
+America Counts Story
+
+America Counts: Stories
+
+New Census Tool
+
+About Income & Poverty
+
+Provides Child Poverty
+Rates in All School
+Districts
+
+National Poverty in
+
+America Awareness
+Month: Measuring
+Poverty
+
+Explore various America
+Counts stories on the
+topic of income and
+
+The 2019 SAIPE School
+District Profiles data
+visualization provides
+
+The Census Bureau’s
+2020 Supplemental
+Poverty Measure rate
+
+poverty.
+[/topics/income-
+poverty/stories.html]
+
+demographic and
+[/library/stories/2021/10/census-
+tool-provides-access-to-child-
+poverty-rates-every-united-states-
+school-district.html]
+
+was 2.3 percentage
+[/library/stories/2022/01/nationa
+l-poverty-in-america-awareness-
+month-measuring-poverty.html]
+
+Page Last Revised - August 30, 2024
+
+

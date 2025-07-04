@@ -1,0 +1,8 @@
+label,confidence,universe,stat_method,definition
+"Income Inequality (Gini Index)",0.7,"Households","ratio","Gini coefficient measuring income inequality..."
+"Long-Term Unemployment",0.7,"Civilian labor force 16 years and over","count","Workers unemployed for 27 weeks or longer..."
+"Discouraged Workers",0.7,"Population 16 years and over not in labor force","count","People not in labor force who want to work but have given up looking..."
+"Underemployment Rate",0.65,"Civilian labor force 16 years and over","rate","Workers employed part-time for economic reasons plus unemployed..."
+"Economic Mobility Index",0.6,"Households","ratio","Measure of income movement between quintiles over time..."
+"Minimum Wage Workers",0.65,"Population 16 years and over with earnings","count","Workers earning at or below federal minimum wage..."
+"Service Worker Earnings (Tip-Based)",0.7,"Food service workers with earnings","median","Median earnings for workers in food service occupations..."

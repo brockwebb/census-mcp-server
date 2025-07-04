@@ -1,0 +1,1260 @@
+United States Census Bureau | An official website of the United States Government
+
+Subject Definitions
+
+Introduction
+
+The definitions and explanations found in reports in the Current Population Reports series issued by the Census
+Bureau are largely drawn from various technical and procedural materials used in the collection of data in the
+Current Population Survey. The concepts defined below generally refer to current definitions. For reports based on
+earlier surveys, especially those published before 1990, the user should consult the printed reports for those years.
+As reports and surveys continue to evolve, definitions may also alter to accommodate these changes. We will alert
+users to significant changes in the concepts presented in the reports released on the Internet to enable them to
+accurately interpret the data for historical comparisons.
+
+Birth Cohort [#birthcohort]
+Births, Out of wedlock [#birthsoutofwedlock]
+Child Support [#childsupport]
+
+[#childsupport]
+
+[#childsupport] Children [#children]
+
+[#children]
+
+[#children] Children ever born [#childreneverborn]
+
+[#childreneverborn]
+
+[#childreneverborn] College enrollment [#collegeenrollment]
+
+[#collegeenrollment]
+
+[#collegeenrollment] Citizenship status [#citizenshipstatus]
+
+[#citizenshipstatus]
+
+[#citizenshipstatus] Country of birth [#countryofbirth]
+
+[#countryofbirth]
+
+[#countryofbirth] Country of birth and Year of entry [#countryofbirthyearofentry]
+
+[#countryofbirthyearofentry]
+
+[#countryofbirthyearofentry] Earnings [#earnings]
+
+[#earnings]
+
+[#earnings] Educational attainment [#educationalattainment]
+
+[#educationalattainment]
+
+[#educationalattainment] Employed People [#employedpeople]
+
+[#employedpeople]
+
+[#employedpeople] Ethnic origin [#ethnicorigin]
+
+[#ethnicorigin]
+
+[#ethnicorigin] Family [#family]
+
+[#family]
+
+[#family] Family group [#familygroup]
+
+[#familygroup]
+
+[#familygroup] Family household [#familyhousehold]
+
+[#familyhousehold]
+
+[#familyhousehold] Foreign-born (See Native) [#foreignborn]
+
+[#foreignborn]
+
+[#foreignborn] Geographic regions (See Regions, geographic) [#geographicregions]
+
+[#geographicregions]
+
+[#geographicregions] Group quarters [#groupquarters]
+
+[#groupquarters]
+
+[#groupquarters] Head Start [#headstart]
+
+[#headstart]
+
+[#headstart] Health Insurance Coverage [#healthinsurancecoverage]
+
+[#healthinsurancecoverage]
+
+[#healthinsurancecoverage] Household [#household]
+
+[#household]
+
+[#household] Household, family, or subfamily, Size of [#householdfamily]
+
+[#householdfamily]
+
+[#householdfamily] Household, nonfamily [#householdnonfamily]
+
+[#householdnonfamily]
+
+[#householdnonfamily] Householder [#householder]
+
+[#householder]
+
+[#householder] Income Measurement [#incomemeasurement]
+
+[#incomemeasurement]
+
+[#incomemeasurement] Income-to-poverty ratios [#incometopovertyratios]
+
+[#incometopovertyratios] Marital status [#maritalstatus]
+
+[#maritalstatus]
+
+[#maritalstatus] Marriage cohort [#marriagecohort]
+
+[#marriagecohort]
+
+[#marriagecohort] Marriage, Age at first [#marriage]
+
+[#marriage]
+
+[#marriage] Married couple [#marriedcouple]
+
+[#marriedcouple]
+
+[#marriedcouple] Mean (Average) income [#meanincome]
+
+[#meanincome]
+
+[#meanincome] Median income [#medianincome]
+
+[#medianincome]
+
+[#medianincome] Metropolitan-nonmetropolitan residence [#metropolitanresidence]
+
+[#metropolitanresidence]
+
+[#metropolitanresidence] Migration, allocations of data [#migration]
+
+[#migration]
+
+[#migration] Migration universe [#migrationuniverse]
+
+[#migrationuniverse]
+
+[#migrationuniverse] Mobility status [#mobilitystatus]
+
+[#mobilitystatus]
+
+[#mobilitystatus] Modal grade: (see School, Modal grade) [#modalgrade]
+
+[#modalgrade]
+
+[#modalgrade] Moving, Reasons for [#moving]
+
+[#moving]
+
+[#moving] Native [#nativeborn]
+
+[#nativeborn]
+
+[#nativeborn] Nativity [#nativity]
+
+[#nativity]
+
+[#nativity] Parity [#parity]
+
+[#parity]
+
+[#parity] Per capita income [#percapitaincome]
+
+[#percapitaincome]
+
+[#percapitaincome] Population coverage [#populationcoverage]
+
+[#populationcoverage]
+
+[#populationcoverage] Poverty definition [#povertydefinition]
+
+[#povertydefinition]
+
+[#povertydefinition] Race [#race]
+
+[#race]
+
+[#race] Reference person [#referenceperson]
+
+[#referenceperson]
+
+[#referenceperson] Regions, Geographic [#regions]
+
+[#regions]
+
+[#regions] Residence, Duration of (Voting Supplements) [#residence]
+
+Rounding [#rounding]
+
+[#rounding]
+
+[#rounding] Size of household, family, or subfamily (See Household, family, or subfamily, size of) [#sizeofhousehold]
+
+[#sizeofhousehold]
+
+[#sizeofhousehold] School, dropout rate, annual high school [#schooldropoutrate]
+
+[#schooldropoutrate]
+
+[#schooldropoutrate] School enrollment [#schoolenrollment]
+
+[#schoolenrollment]
+
+[#schoolenrollment] School, Level of [#levelofschool]
+
+[#levelofschool]
+
+[#levelofschool] School, Modal grade [#schoolmodalgrade]
+
+[#schoolmodalgrade]
+
+[#schoolmodalgrade] School, Nursery [#nurseryschool]
+
+[#nurseryschool]
+
+[#nurseryschool] School, Public or Private [#publicprivateschool]
+
+[#publicprivateschool]
+
+[#publicprivateschool] Secondary individuals [#secondaryindividuals]
+
+[#secondaryindividuals]
+
+[#secondaryindividuals] Step family [#stepfamily]
+
+[#stepfamily]
+
+[#stepfamily] Subfamily [#subfamily]
+
+[#subfamily]
+
+[#subfamily] Tenure [#tenure]
+
+[#tenure]
+
+[#tenure] Undocumented immigrants  [#undocumentedimmigrants]
+
+[#undocumentedimmigrants]
+
+[#undocumentedimmigrants] Unemployed people [#unemployedpeople]
+
+[#unemployedpeople]
+
+[#unemployedpeople] Units in structure [#units]
+
+[#units]
+
+[#units] Unmarried couple [#unmarriedcouple]
+
+[#unmarriedcouple]
+
+[#unmarriedcouple] Unrelated individuals [#unrelatedindividuals]
+
+[#unrelatedindividuals]
+
+[#unrelatedindividuals] Vocational school enrollment [#vocationalschool]
+
+[#vocationalschool]
+
+[#vocationalschool] Voting, people eligible to register [#voting]
+
+[#voting]
+
+[#voting] Voter, reported participation [#reportedparticipation]
+
+[#reportedparticipation]
+
+[#reportedparticipation] Voter, reported registration [#reportedregistration]
+
+[#reportedregistration]
+
+[#reportedregistration] Work Experience [#workexperience]
+
+Birth Cohort
+
+A birth cohort is a group of people who were born in a specified calendar period.
+
+Births, Out of wedlock
+
+Out-of-wedlock births are defined as births occurring in the 12-month period preceding the survey date to women
+who were currently divorced, widowed, or never married at the time of the interview.
+
+Child Support
+
+Data on award of child support payments were collected from people 15 years or older with children under 21 years
+of age whose other parent was not living in the household. Information on recipiency and amount of payments was
+obtained from people who reported that they were awarded or had agreements to receive child support payments.
+>Reason for nonaward of child support.
+Final agreement pending: A child support agreement was awaiting final court, magisterial, or legal action before
+becoming final, and/or a voluntary written agreement was not yet final.
+Joint custody granted: Housing, care, and support of the child(ren) was shared by both parents; therefore, no money
+or other support was exchanged.
+Did not want child support: The custodial parent indicated he/she did not want child support for own child(ren).
+Unable to locate other parent: Child support was desired, but the child(ren)’s noncustodial parent could not be
+located.
+Unable to establish paternity: Child support arrangements could not be made because the child(ren)’s paternity
+could not be established.
+Some other reason: The custodial parent wanted child support, and the reason for nonaward did not fit any of the
+reasons listed above.
+Inclusion of health insurance in child support award.
+This item refers to whether the child(ren)’s noncustodial parent had made health insurance arrangements for
+his/her child(ren) as part of the child support award. Arrangements for health insurance could have been made by
+the noncustodial parent purchasing a separate policy for the child(ren) or including the child(ren) under the health
+
+insurance provided by his/her employer. In either event, the purchase of, or inclusion of, health insurance must be
+part of the child support agreement. Insurance taken out by the custodial parent but paid for from child support
+payment by the noncustodial parent is not included.
+Type of child support arrangement.
+Voluntary written agreement: Voluntary written agreements between the parties. This agreement may or may not
+have been recognized by the courts as part of the divorce or separation proceedings. This type of agreement was
+not ordered by the courts.
+Court ordered: Payments ordered by the court. Court-ordered payments usually take place when a mutually
+acceptable agreement cannot be worked out between the parties.
+Other: Arrangements not within either of the two cases above. This category includes informal verbal agreements.
+
+Children
+
+The term "children," as used in tables on living arrangements of children under 18, are all persons under 18 years,
+excluding people who maintain households, families, or subfamilies as a reference person or spouse.
+Own children in a family are sons and daughters, including stepchildren and adopted children, of the householder.
+Similarly, "own" children in a subfamily are sons and daughters of the married couple or parent in the subfamily. (All
+children shown as members of related subfamilies are own children of the person(s) maintaining the subfamily.) For
+each type of family unit identified in the CPS, the count of "own children under 18 years old" is limited to never-
+married children; however, "own children under 25" and "own children of any age," as the terms are used here,
+include all children regardless of marital status. The counts include never-married children living away from home in
+college dormitories.
+Related children in a family include own children and all other children under 18 years old in the household who are
+related to the householder by birth, marriage, or adoption. The count of related children in families was formerly
+restricted to never-married children. However, beginning with data for 1968 the Bureau of the Census includes ever-
+married children under the category of related children. This change added approximately 20,000 children to the
+category of related children in March 1968.
+
+Children ever born
+
+The question "How many babies has...ever had, if any? (Do not count stillbirths)" is asked of all women 15 to 44
+years old. When asking about children ever born, interviewers are instructed to include children born to the women
+before her present marriage, children no longer living, and children away from home as well as children who are still
+living in the home. It is possible that some never-married mothers living with one or more of their natural children
+reported themselves as having been married. In addition, many mothers who first married after the birth of one or
+more children counted those children, as they were expected to do. Nevertheless, data are probably less complete
+for births out of wedlock than for births within marriage.
+
+College enrollment
+
+The college enrollment statistics are based on replies to the interviewer’s inquiry as to whether the person was
+attending or enrolled in school and the grade or school or year of college. Interviewers were instructed to count as
+enrolled anyone who had been enrolled at any time during the current term or school year, except those who have
+left for the remainder of the term. Thus, regular college enrollment includes those people attending a 4-year or 2-
+year college, university, or professional school (such as medical or law school) in courses that may advance the
+student toward a recognized college or university degree (e.g., BA or MA). Attendance may be either full time or part
+time, during the day or night. The college student need not be working toward a degree, but he/she must be enrolled
+in a class for which credit would be applied toward a degree. (see "school enrollment"). Students are classified by
+year of college, based on the academic year (not calendar year) they are attending. Undergraduate years are the 1st
+through 4th year, or freshman through senior. Graduate or professional school years include the 5th year and higher.
+Two-year and four-year colleges: College students were asked to report whether the college in which they were
+enrolled was a 2-year college (junior or community college) or a 4-year college or university. Students enrolled in the
+first 4 years (undergraduates) were classified by the type of college they reported. Graduate students are shown as
+a separate group.
+Attendance, full-time and part-time. College students were classified according to whether they were attending
+school on a full-time or part-time basis. A student was regarded as attending college full time if he/she was taking
+12 or more hours of classes during the average school week, and part time if he/she was taking less than 12 hours
+of classes during the average school week.
+
+Citizenship status
+
+There are five categories of citizenship status: 1) Born in the United States; 2) Born in Puerto Rico or another
+outlying area of the U.S.; 3) Born abroad of U.S. citizen parent or parents; 4) Naturalized citizen; 5) Not a U.S. citizen.
+Place of birth was asked for every household member in the CPS sample and for the parents of every household
+member. People born in the U.S. or Outlying Areas or whose parents were born in the U.S. or Outlying Areas were
+not asked citizenship questions. Citizenship status (1), (2), or (3) was assigned during the editing phase of data
+preparation based on the place of birth of the household member or the place of birth of his or her parents. People
+born outside the U.S. and Outlying Areas to parents also born outside the U.S. and Outlying Areas were asked, "Are
+you a citizen of the United States?" ''Yes" answers were assigned to the naturalized citizen category (4) and "No"
+answers were assigned to the "Not a citizen" category (5) during the editing process. People for whom no birthplace
+was provided were assigned a citizenship status during the editing process. For example, the citizenship status of a
+child might have been assigned based on the citizenship status of the child’s mother or father.
+
+Country of birth
+
+(
+
+)
+
+Birth place codes available in the CPS include; one code for the United States (fifty states and Washington DC); one
+code for Puerto Rico; one code for all other outlying areas of the United States (American Samoa, Guam, U.S. Virgin
+Islands, Northern Marinas, etc.); separate codes for 100 individual foreign countries or areas; residual codes for
+other cases (At Sea, etc.). People for whom no birthplace was provided were assigned a birthplace during the
+editing process based on several criteria. For example, the birthplace of a child might have been assigned based on
+the birthplace of it’s mother and/or father.
+
+Country of birth and Year of entry
+
+People born outside the United States (see Country of Birth) were asked the year they came to live in the United
+States. Persons in citizenship categories (2) to (5) (see Citizenship Status) for whom no year of entry was reported
+were assigned a value for "Year of Entry" during the editing process based on other reported information.
+
+Earnings
+
+The Census Bureau classifies earnings from longest job (or self-employment) and other employment earnings into
+three types:
+
+1. Money wage or salary income is the total income people receive for work performed as an employee during the income
+
+year. This category includes wages, salary, armed forces pay, commissions, tips, piece-rate payments, and cash bonuses
+earned, before deductions are made for items such as taxes, bonds, pensions, and union dues.
+
+2. Net income from nonfarm self-employment is the net money income (gross receipts minus expenses) from one’s own
+
+business, professional enterprise, or partnership. Gross receipts include the value of all goods sold and services rendered.
+Expenses include items such as costs of goods purchased, rent, heat, power, depreciation charges, wages and salaries
+paid, and business taxes (not personal income taxes). In general, the Census Bureau considers inventory changes in
+determining net income from nonfarm self-employment; replies based on income tax returns or other official records do
+reflect inventory changes. However, when respondents do not report values of inventory changes, interviewers will accept
+net income figures exclusive of inventory changes. The Census Bureau does not include the value of saleable merchandise
+consumed by the proprietors of retail stores as part of net income.
+
+3. Net income from farm self-employment is the net money income (gross receipts minus operating expenses) from the
+operation of a farm by a person on their own account, as an owner, renter, or sharecropper. Gross receipts include the
+value of all products sold, payments from government farm programs, money received from the rental of farm equipment
+to others, rent received from farm property if payment is made based on a percent of crops produced, and incidental
+receipts from the sale of items such as wood, sand, and gravel. Operating expenses include items such as cost of feed,
+fertilizer, seed, and other farming supplies; cash wages paid to farmhands; depreciation charges; cash rent; interest on
+farm mortgages; farm building repairs; and farm taxes (not state and federal personal income taxes). The Census Bureau
+does not include the value of fuel, food, or other farm products used for family living as part of net income. In determining
+farm self-employment income, the Census Bureau considers inventory changes in determining net income only when they
+are accounted for in replies based on income tax returns or other official records which reflect inventory changes;
+otherwise, the Census Bureau does not take inventory changes into account.
+
+Educational attainment
+
+Data on educational attainment are derived from a single question that asks, "What is the highest grade of
+school...has completed, or the highest degree...has received?"
+The single educational attainment question now in use was introduced in the CPS beginning January 1992, and is
+similar to that used in the 1990 Decennial Census of Population and Housing. Consequently, data on educational
+attainment from the 1992 CPS are not directly comparable to CPS data from earlier years. The new question
+replaces the previous two-part question used in the CPS that asked respondents to report the highest grade they
+had attended, and whether or not they had completed that grade.
+The questions on educational attainment apply only to progress in "regular" schools. Such schools include graded
+public, private, and parochial elementary and high schools (both junior and senior high schools), colleges,
+universities, and professional schools, whether day schools or night schools. Thus, regular schooling is that which
+may advance a person toward an elementary school certificate or high school diploma, or a college, university, or
+professional school degree. Schooling in other than regular schools was counted only if the credits obtained are
+regarded as transferable to a school in the regular school system.
+
+Employed People
+
+Employed people are those who, during the reference week (a) did any work at all (for at least 1 hour) as paid
+employees; worked in their own businesses, professions, or on their own farms; or worked 15 hours or more as
+unpaid workers in an enterprise operated by a family member or (b) were not working, but who had a job or
+business from which they were temporarily absent because of vacation, illness, bad weather, childcare problems,
+maternity or paternity leave, labor-management dispute, job training, or other family or personal reasons whether or
+not they were paid for the time off or were seeking other jobs. Each employed person is counted only once, even if
+he or she holds more than one job.
+Employed citizens of foreign countries who are temporarily in the United States but not living on the premises of an
+embassy are included. Excluded are people whose only activity consisted of work around their own house (painting,
+repairing, cleaning, or other home-related housework) or volunteer work for religious, charitable, or other
+organizations.
+
+Ethnic origin
+
+People of Hispanic origin were identified by a question that asked for self-identification of the persons’ origin or
+descent. Respondents were asked to select their origin (and the origin of other household members) from a "flash
+card" listing ethnic origins. People of Hispanic origin, in particular, were those who indicated that their origin was
+Mexican, Puerto Rican, Cuban, Central or South American, or some other Hispanic origin. It should be noted that
+people of Hispanic origin may be of any race.
+People who were Non-Hispanic White origin, were identified by crossing the responses to two self-identification
+questions: (1) origin or descent and (2) race. Respondents were asked to select their race (and the race of other
+household members) from a "flash card" listing racial groups. Beginning with March 1989, the population is divided
+into five groups on the basis of race: White, Black, American Indian, Eskimo or Aleut, Asian or Pacific Islander, and
+Other races. The last category includes any other race except the four mentioned. Respondents who selected their
+race as White and indicated that their origin was not one of the Hispanic origin subgroups Mexican, Puerto Rican,
+Cuban, Central or South American, were called Non-Hispanic White origin.
+
+Family
+
+A family is a group of two people or more (one of whom is the householder) related by birth, marriage, or adoption
+and residing together; all such people (including related subfamily members) are considered as members of one
+family. Beginning with the 1980 Current Population Survey, unrelated subfamilies (referred to in the past as
+secondary families) are no longer included in the count of families, nor are the members of unrelated subfamilies
+included in the count of family members. The number of families is equal to the number of family households,
+however, the count of family members differs from the count of family household members because family
+household members include any non-relatives living in the household.
+
+Family group
+
+A family group is any two or more people (not necessarily including a householder) residing together, and related by
+birth, marriage, or adoption. A household may be composed of one such group, more than one, or none at all. The
+count of family groups includes family households, related subfamilies, and unrelated subfamilies.
+
+Family household
+
+A family household is a household maintained by a householder who is in a family (as defined above), and includes
+any unrelated people (unrelated subfamily members and/or secondary individuals) who may be residing there. The
+number of family households is equal to the number of families. The count of family household members differs
+from the count of family members, however, in that the family household members include all people living in the
+household, whereas family members include only the householder and his/her relatives. See the definition of family.
+
+Foreign-born
+
+(See Native)
+
+Geographic regions
+
+(See Regions, geographic)
+
+Group quarters
+
+As of 1983, group quarters were defined in the current population survey as noninstitutional living arrangements for
+groups not living in conventional housing units or groups living in housing units containing ten or more unrelated
+people or nine or more people unrelated to the person in charge. (Prior to 1983, group quarters included housing
+units containing five or more people unrelated to the person in charge.) Examples of people in group quarters
+include a person residing in staff quarters at a hospital, or in a halfway house. Beginning in 1972, inmates of
+institutions have not been included in the Current Population Survey.
+
+Head Start
+
+Children enrolled in Head Start programs or similar programs sponsored by local agencies to provide preschool
+education to young children are counted under nursery school or kindergarten as appropriate. (Also see, Schools,
+Nursery)
+
+Health Insurance Coverage
+
+A person was considered covered by health insurance at some time during the year if he or she was covered by at
+least one of the following types of coverages:
+1. Employer-based
+2. Own Employment-based
+3. Direct purchase (through private company or exchange)
+4. Medicaid
+5. Medicare
+6. Military health care (TRICARE, CHAMPVA, VA)
+
+7. CHIP, the Children’s Health Insurance Program
+8. State-specific
+9. Other
+An individual can have more than one type of coverage during the year.
+Definitions of the major types of health insurance coverage [https://www.census.gov/topics/health/health-
+insurance/about/glossary.html#par_textimage_1] are available in the health insurance section.
+
+Household
+
+A household consists of all the people who occupy a housing unit. A house, an apartment or other group of rooms,
+or a single room, is regarded as a housing unit when it is occupied or intended for occupancy as separate living
+quarters; that is, when the occupants do not live with any other persons in the structure and there is direct access
+from the outside or through a common hall.
+A household includes the related family members and all the unrelated people, if any, such as lodgers, foster
+children, wards, or employees who share the housing unit. A person living alone in a housing unit, or a group of
+unrelated people sharing a housing unit such as partners or roomers, is also counted as a household. The count of
+households excludes group quarters. There are two major categories of households, "family" and "nonfamily". (See
+definitions of Family household and Nonfamily household).
+
+Household, family, or subfamily, Size of
+
+The term "size of household" includes all the people occupying a housing unit. "Size of family" includes the family
+householder and all other people in the living quarters who are related to the householder by birth, marriage, or
+adoption. "Size of related subfamily" includes the husband and wife or the lone parent and their never-married sons
+and daughters under 18 years of age. "Size of unrelated subfamily" includes the reference person and all other
+members related to the reference person. If a family has a related subfamily among its members, the size of the
+family includes the members of the related subfamily.
+
+Household, nonfamily
+
+A nonfamily household consists of a householder living alone (a one-person household) or where the householder
+shares the home exclusively with people to whom he/she is not related.
+
+Householder
+
+The householder refers to the person (or one of the people) in whose name the housing unit is owned or rented
+(maintained) or, if there is no such person, any adult member, excluding roomers, boarders, or paid employees. If the
+house is owned or rented jointly by a married couple, the householder may be either the husband or the wife. The
+person designated as the householder is the "reference person" to whom the relationship of all other household
+members, if any, is recorded.
+The number of householders is equal to the number of households. Also, the number of family householders is
+equal to the number of families.
+Head versus householder. Beginning with the 1980 CPS, the Bureau of the Census discontinued the use of the terms
+"head of household" and "head of family." Instead, the terms "householder" and "family householder" are used.
+Recent social changes have resulted in greater sharing of household responsibilities among the adult members and,
+therefore, have made the term "head" increasingly inappropriate in the analysis of household and family data.
+Specifically, beginning in 1980, the Census Bureau discontinued its longtime practice of always classifying the
+husband as the reference person (head) when he and his wife are living together.
+
+Income Measurement
+
+For each person in the sample 15 years old and over, the CPS asks questions on the amount of money income
+received in the preceding calendar year from each of the following sources:
+
+1. Earnings
+
+2. Unemployment compensation
+
+3. Workers’ compensation
+
+4. Social security
+
+5. Supplemental security income
+
+6. Public assistance
+
+7. Veterans’ payments
+
+8. Survivor benefits
+
+9. Disability benefits
+
+10. Pension or retirement income
+
+11. Interest
+
+12. Dividends
+
+13. Rents, royalties, and estates and trusts
+
+14. Educational assistance
+
+15. Alimony
+
+16. Child support
+
+17. Financial assistance from outside of the household
+
+18. Other income
+
+It should be noted that although the income statistics refer to receipts during the preceding calendar year, the
+demographic characteristics, such as age, labor force status, and family or household composition, are as of the
+survey date. The income of the family/household does not include amounts received by people who were members
+during all or part of the income year if these people no longer resided in the family/household at the time of
+interview. However, the CPS collects income data for people who are current residents but did not reside in the
+household during the income year.
+Data on consumer income collected in the CPS by the Census Bureau cover money income received (exclusive of
+certain money receipts such as capital gains) before payments for personal income taxes, social security, union
+dues, medicare deductions, etc. Therefore, money income does not reflect the fact that some families receive part
+of their income in the form of noncash benefits, such as food stamps, health benefits, rent-free housing, and goods
+produced and consumed on the farm. In addition, money income does not reflect the fact that noncash benefits are
+also received by some nonfarm residents which often take the form of the use of business transportation and
+facilities, full or partial payments by business for retirement programs, medical and educational expenses, etc. Data
+users should consider these elements when comparing income levels. Moreover, readers should be aware that for
+many different reasons there is a tendency in household surveys for respondents to underreport their income.
+Based on an analysis of independently derived income estimates, the Census Bureau determined that respondents
+report income earned from wages or salaries much better than other sources of income and that the reported wage
+and salary income is nearly equal to independent estimates of aggregate income.
+For more information and the definitions of the source incomes, please refer to Appendix A, Definitions and
+Explanations, from the Current Population Reports, Consumer Income, P60-200 [//www2.census.gov/programs-
+surveys/cps/methodology/Appendix%20A%20P60-200%20income%20measurement%20definition.pdf] [PDF - 30K] .
+
+Income-to-poverty ratios
+
+Income-to-poverty ratios represent the ratio of family or unrelated individual income to their appropriate poverty
+threshold. Ratios below 1.00 indicate that the income for the respective family or unrelated individual is below the
+official definition of poverty, while a ratio of 1.00 or greater indicates income above the poverty level. A ratio of 1.25,
+for example, indicates that income was 125 percent above the appropriate poverty threshold.
+Gini ratio. The Gini ratio (or index of income concentration) is a statistical measure of income equality ranging from
+0 to 1. A measure of 1 indicates perfect inequality; i.e., one person has all the income and rest have none. A
+measure of 0 indicates perfect equality; i.e., all people have equal shares of income. The Census Bureau used
+grouped data to compute all Gini ratios. For a more detailed discussion, see Current Population Reports, Series P-
+60, No. 123.
+
+Marital status
+
+The marital status classification identifies four major categories: never married, married, widowed, and divorced.
+These terms refer to the marital status at the time of the enumeration.
+The category "married" is further divided into "married, spouse present," "separated," and "other married, spouse
+absent." A person was classified as "married, spouse present" if the husband or wife was reported as a member of
+the household, even though he or she may have been temporarily absent on business or on vacation, visiting, in a
+hospital, etc., at the time of the enumeration. People reported as separated included those with legal separations,
+those living apart with intentions of obtaining a divorce, and other people permanently or temporarily separated
+because of marital discord. The group "other married, spouse absent" includes married people living apart because
+either the husband or wife was employed and living at a considerable distance from home, was serving away from
+home in the Armed Forces, had moved to another area, or had a different place of residence for any other reason
+except separation as defined above.
+Single, when used as a marital status category, is the sum of never-married, widowed, and divorced people. "Single,"
+when used in the context of "single-parent family/household," means only one parent is present in the home. The
+parent may be never-married, widowed, divorced, or married, spouse absent.
+
+Marriage cohort
+
+A marriage cohort is a group of women who were first married in a specified calendar period, regardless of any
+subsequent changes in marital status.
+
+Marriage, Age at first
+
+The estimated median age at first marriage, is an approximation derived indirectly from tabulations of marital status
+and age. In computing this median, several steps are involved. First, the expected proportion of young people who
+will ever marry during their lifetime is computed. Second, one-half of this expected proportion is calculated. And
+third, the current age of young people who are at this halfway mark is computed. From the assumptions made and
+the procedures used, it follows that the date of the survey is also the date when this halfway mark is reached. Half
+of the young people of the given age who will ever get married had done so prior to the survey date and half are
+expected to marry in years to come.
+
+Married couple
+
+A married couple, as defined for census purposes, is a husband and wife enumerated as members of the same
+household. The married couple may or may not have children living with them. The expression "husband-wife" or
+"married-couple" before the term "household," "family," or "subfamily" indicates that the household, family, or
+subfamily is maintained by a husband and wife. The number of married couples equals the count of married-couple
+families plus related and unrelated married-couple subfamilies.
+
+Mean (Average) income
+
+Mean (average) income is the amount obtained by dividing the total aggregate income of a group by the number of
+units in that group. The means for households, families, and unrelated individuals are based on all households,
+families, and unrelated individuals, respectively. The means (averages) for people are based on people 15 years old
+and over with income.
+
+Median income
+
+Median income is the amount which divides the income distribution into two equal groups, half having incomes
+above the median, half having incomes below the median. The medians for households, families, and unrelated
+individuals are based on all households, families, and unrelated individuals, respectively. The medians for people are
+based on people 15 years old and over with income.
+
+Metropolitan-nonmetropolitan residence
+
+The general concept of a metropolitan area (MA) is one of a large population nucleus, together with adjacent
+communities that have a high degree of economic and social integration with that nucleus. Some MA’s are defined
+around two or more nuclei.
+The MA classification is a statistical standard, developed for use by Federal agencies in the production, analysis,
+and publication of data on MA’s. The MA’s are designated and defined by the Federal Office of Management and
+Budget, following a set of official published standards. These standards were developed by the interagency Federal
+Executive Committee on Metropolitan Areas, with the aim of producing definitions that are as consistent as
+possible for all MA’s nationwide.
+Each MA must contain either a place with a minimum population of 50,000 or a Census Bureau-defined urbanized
+area and a total MA population of at least 100,000 (75,000 in New England). An MA is comprised of one or more
+central counties, and an MA may also include one or more outlying counties that have closed economic and social
+relationships with the central county. An outlying county must have a specified level of commuting to the central
+counties and also must meet certain standards regarding metropolitan character, such as population density, urban
+population, and population growth. In New England, MA’s are composed of cities and towns rather than whole
+counties.
+The territory, population, and housing units in MA’s are referred to as "metropolitan." The metropolitan category is
+subdivided into "inside central city" and "outside central city." The territory, population, and housing units located
+outside MA’s are referred to as "nonmetropolitan."
+To meet the needs of various users, the standards provide for a flexible structure of metropolitan definitions that
+classify an MA either as a metropolitan statistical area (MSA) or as a consolidated metropolitan statistical area
+(CMSA) that is divided into primary metropolitan statistical areas (PMSA’s). Documentation of the MA standards
+and how they are applied is available from the Secretary, Federal Executive Committee on Metropolitan Areas,
+Population Division, U.S. Bureau of the Census, Washington, DC 20233.
+Central city. In each MSA and CMSA, the largest place and, in some cases, additional places are designated as
+"central cities" under the official standards. A few PMSA’s do not have central cities. The largest central city and, in
+some cases, up to two additional central cities are included in the title of the MA; there are also central cities that
+are not included in an MA title. An MA central city does not include any part of that city that extends outside the MA
+boundary.
+Consolidated and primary metropolitan statistical area. If an area that qualifies as an MA has more than one million
+people, primary metropolitan statistical areas (PMSA’s) may be defined within it. PMSA’s consist of a large
+urbanized county or cluster of counties that demonstrates very strong internal economic and social links, in addition
+to close ties to other portions of the larger area. When PMSA’s are established, the larger area of which they are
+component parts is designated a consolidated metropolitan statistical area (CMSA).
+Metropolitan statistical area. Metropolitan statistical areas are relatively freestanding MA’s and are not closely
+associated with other MA’s. These areas are typically surrounded by nonmetropolitan counties.
+
+Migration, allocations of data
+
+In cases where complete mobility information is not reported, these people missing mobility data are assigned the
+mobility status and/or previous residence obtained for other family or household members, or are otherwise
+allocated, usually using the data for another sample person who did respond to the questions. The mobility status
+and previous residence allocated to a nonrespondent is usually obtained from another person with similar
+demographic characteristics who has been selected systematically in the order in which individual records are
+processed. Characteristics used in these allocations (when assignment of data for other family or household
+members is not possible) include age, race, and division of current residence. State of previous residence is used
+instead of state of current residence if the individual being allocated data reported state of previous residence but
+not city or county.
+
+Migration universe
+
+The one-year migration universe only includes persons at least one year of age on the survey date. One-year
+migration data are collected annually. Similarly, the five-year migration universe only includes persons at least five
+years of age on the survey date. Five-year migration data are only collected in years ending in 0 or 5. The survey only
+includes persons currently living in the United States, so there are no estimates of movers from the United States to
+
+(
+
+) (
+
+locations abroad (including Puerto Rico and U.S. Territories). (See the section, "Migration, Allocations of Data" for a
+discussion of the allocation of mobility data for people for whom no response or only partial responses to the
+mobility questions were given.)
+
+Mobility status
+
+Migration status (one-year) is derived from answers to questions about residence one year before the survey date
+and the geographic location of the respondent’s current residence. One-year migration data are collected annually.
+Similarly, five-year migration status is based on residence five years ago compared to current residence. Five-year
+migration data are only collected in years ending in 0 or 5. See information about the migration universe above.
+Nonmovers are defined as having the same previous residence and current residence. (It is possible that nonmovers
+lived in a different residence for a period of time between the previous and current residences.) Movers are defined
+as having a different previous residence than current residence. (It is possible that movers moved more than once
+between their previous and current residences.) Movers are further classified as to whether they were living in the
+same or different county, state, region, or moved from abroad. Movers are also categorized by whether they moved
+within or between principal cities of metropolitan areas, balances of metropolitan areas, and nonmetropolitan areas
+of the United States.
+
+Modal grade
+
+(see School, Modal Grade)
+
+Moving, Reasons for
+
+Reasons for moving are collected for movers over the past year (one-year migration data only; not collected for five-
+year migration data). Persons who moved with the householder are assigned the reason of the householder. For
+cases selecting one of the four “other” categories (other family-related reason, other employment-related reason,
+other housing reason, and other reasons) write-ins are collected, allowing them to be potentially be recoded.
+Reasons for moving.
+Family-related reasons:
+
+Change in marital status: Moved because of family formation or dissolution resulting in a change in legal marital
+status classification to one of the following categories: married, widowed, separated or divorced.
+To establish own household: Moved out of an existing household in order to establish a separate one.
+Other family reason (specify): All other reasons not listed above that are family-related.
+Employment-related reasons:
+
+New job or job transfer: Moved because of a new job or location of existing job moved. This includes military
+transfers.
+To look for work or lost job: Moved in order to find work or due to a loss of employment.
+To be closer to work/easier commute: Moved to be closer to their work and/or reduce their commuting time or
+effort.
+Retired: Moved after retirement from a job.
+Other job related reason (specify): All other reasons not listed above that are employment-related.
+Housing-related reasons:
+
+Wanted to own home, not rent: Moved because wanted to own their home and not rent a house or apartment.
+Wanted newer/better/larger house or apartment: Moved because they wanted a newer/better/larger house or
+apartment.
+Wanted better neighborhood/less crime: Moved to a better neighborhood and/or moved to an area with less crime.
+Wanted cheaper housing: Moved to a cheaper/less expensive house or apartment.
+Foreclosure/eviction: Moved due to a foreclosure or eviction.
+Other housing reason (specify): All other reasons not listed above that are housing-related.
+Other reasons:
+Relationship with unmarried partner (boy/girlfriend, fiancé, etc.): Moved to be with an unmarried partner or for other
+reasons related to an unmarried partner.
+To attend or leave college: Moved to a different place of residence to attend college, or left their college residence to
+return to a previous place of residence or move elsewhere.
+Change of climate: Moved to a more preferable climate (i.e., weather patterns).
+Health reasons: Moved based on one’s own health or that of another person (e.g., spouse).
+Natural disaster (hurricane, tornado, etc.): Moved due to a natural disaster.
+Other reason (specify): All other reasons not listed.
+
+Native
+
+Native-born people are U.S. citizens at birth. All people with the following citizenship status are U.S. natives: (1)
+Born in the United States; (2) Born in Puerto Rico or a U.S. outlying area; or (3) Born abroad of U.S. citizen parent or
+parents (see Citizenship status). All other people are foreign-born.
+
+Nativity
+
+There are two major categories of nativity, Native and Foreign-born (see Native above).
+
+Parity
+
+Parity is the number of children ever born to a woman. In some cases, use of the term "parity" provides a less
+cumbersome expression, e.g., "two-parity women" as opposed to "women with two children ever born."
+
+Per capita income
+
+Per capita income is the average income computed for every man, woman, and child in a particular group. The
+Census Bureau derived per capita income by dividing the total income of a particular group by the total population in
+that group (excluding patients or inmates in institutional quarters).
+
+Population coverage
+
+The universe for the CPS includes the civilian noninstitutional population of the United States and members of the
+Armed Forces in the United States living off post or with their families on post, but excludes all other members of
+the Armed Forces. The information on the Hispanic population from the CPS was collected in the 50 States and the
+District of Columbia and, therefore, does not include residents of outlying areas or U.S. territories such as Guam,
+Puerto Rico, and the Virgin Islands.
+
+Poverty definition
+
+1 [#footnote1] 
+
+Following the Office of Management and Budget’s (OMB’s) Directive 14, the Census Bureau uses a set of money
+income thresholds that vary by family size and composition to detect who is poor. If a family’s total income is less
+than that family’s threshold, then that family, and every individual in it, is considered poor. The poverty thresholds do
+not vary geographically, but they are updated annually for inflation with the Consumer Price Index (CPI-U). The
+official poverty definition counts money income before taxes and excludes capital gains and noncash benefits (such
+as public housing, medicaid, and food stamps).
+Poverty statistics are based on a definition developed by Mollie Orshansky of the Social Security Administration
+(SSA)in 1964 
+For a detailed discussion of the original SSA poverty thresholds, see Mollie Orshansky,
+Counting the Poor: Another Look at the Poverty Profile, Social Security Bulletin, vol. 28, no. 1, January 1965, pp. 3-29
+(reprinted in Social Security Bulletin, vol. 51, no. 10, October 1988, pp. 25-51); and Who’s Who Among the Poor: A
+Demographic View of Poverty, Social Security Bulletin, vol. 28, no. 7, July 1965, pp. 3-32. and revised in 1969 and
+1981 by interagency committees. This definition was established as the official definition of poverty for statistical
+use in all Executive departments by the Bureau of the Budget (BoB) in 1969 (in Circular No. A-46); after BoB became
+The Office of Management and Budget, this was reconfirmed in Statistical Policy Directive No. 14.
+The original poverty definition provided a range of income cutoffs or thresholds adjusted by such factors as family
+size, sex of the family head, number of children under 18 years old, and farm-nonfarm residence. At the core of this
+definition of poverty was the economy food plan, the least costly of four nutritionally adequate food plans designed
+by the Department of Agriculture. It was determined from the Department of Agriculture’s 1955 Household Food
+Consumption Survey that families of three or more people spent approximately one-third of their after-tax money
+income on food; accordingly, poverty thresholds for families of three or more people were set at three times the
+cost of the economy food plan. Different procedures were used to calculate poverty thresholds for two-person
+families and people living alone in order to compensate for the relatively larger fixed expenses of these smaller
+units. For two-person families, the cost of the economy food plan was multiplied by a factor of 3.7 (also derived
+from the 1955 survey). For unrelated individuals (one-person units), no multiplier was used; poverty thresholds were
+instead calculated as a fixed proportion of the corresponding thresholds for two-person units. Annual updates of
+these SSA poverty thresholds were based on price changes of the items in the economy food plan.
+As a result of deliberations of a Federal interagency committee in 1969, the following two modifications to the
+original SSA definition of poverty were adopted:
+2
+ [#footnote2] Poverty thresholds for 1959-1967 were recalculated on this basis, and revised poverty population
+figures for those years were tabulated using the revised thresholds. These revised 1959-1967 poverty population
+figures have been published in Census Bureau reports issued since August 1969 (including the present report).
+Because of this revision, poverty statistics from documents dated before August 1969 are not comparable with
+current poverty statistics.           
+
+1. The SSA thresholds for nonfarm families were retained for the base year 1963, but annual adjustments in the levels were
+based on changes in the Consumer Price Index (CPI) rather than on changes in the cost of foods in the economy food
+plan.
+
+2. The farm thresholds were raised from 70 to 85 percent of the corresponding nonfarm levels. The combined impact of
+
+these two modifications resulted in an increase in the tabulated totals for 1967 of 360,000 poor families and 1.6 million
+poor people.
+
+In 1981, three additional modifications in the poverty definition recommended by another interagency committee
+were adopted for implementation in the March 1982 CPS as well as the 1980 census:
+
+1. Elimination of separate thresholds for farm families.
+
+2. Elimination (by averaging) of separate thresholds for female-householder families and "all other" families (earlier termed
+
+"male-headed" families).
+
+3. Extension of the detailed poverty threshold matrix to make the largest family size category "nine people or more".
+
+For further details, see the section, "Changes in the Definition of Poverty," in Current Population Reports, Series P-60,
+No. 133.
+The poverty thresholds are increased each year by the same percentage as the annual average Consumer Price
+Index (CPI). The poverty thresholds are currently adjusted using the annual average CPI-U (1982-84 = 100). This
+base year has been used since 1988. From 1980 through 1987, the thresholds were adjusted using the CPI-U (1967
+= 100). The CPI (1963 = 100) was used to adjust thresholds prior to 1980.
+For further information on how the poverty thresholds were developed and subsequent changes in them, see
+Gordon M. Fisher, "The Development and History of the Poverty Thresholds," Social Security Bulletin, vol.55, no.4,
+Winter 1992, pp. 3-14.
+
+Race
+
+The race of individuals was identified by a question that asked for self-identification of the person’s race.
+Respondents were asked to select their race from a "flashcard" listing racial groups.
+The population is divided into five groups on the basis of race: White; Black; American Indian, Eskimo or Aleut; Asian
+or Pacific Islander; and Other races beginning with March 1989. The last category includes any other race except the
+four mentioned. In most of the published tables "Other races" are included in the total population data line but are
+not shown individually.
+
+Reference person
+
+The reference person is the person to whom the relationship of other people in the household is recorded. The
+household reference person is the person listed as the householder (see definition of "Householder"). The subfamily
+reference person is either the single parent or the husband/wife in a married-couple situation.
+
+Regions, Geographic
+
+The four major regions of the United States for which data are presented represent groups of States as follows:
+Northeast. Connecticut, Maine, Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode
+Island, Vermont.
+Midwest. Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South
+Dakota, Wisconsin.
+South. Alabama, Arkansas, Delaware, District of Columbia, Florida, Georgia, Kentucky, Louisiana, Maryland,
+Mississippi, North Carolina, Oklahoma, South Carolina, Tennessee, Texas, Virginia, West Virginia.
+West. Alaska, Arizona, California, Colorado, Hawaii, Idaho, Montana, Nevada, New Mexico, Oregon, Utah,
+Washington, Wyoming.
+Sunbelt. Consists of 13 states plus one county in Nevada and nine counties in California. The states that are entirely
+inside the Sunbelt are: North Carolina, South Carolina, Georgia, Florida, Alabama, Mississippi, Louisiana, Tennessee,
+Arkansas, Oklahoma, Texas, New Mexico, and Arizona. Also included are Clark County, Nevada, and Imperial, Kern,
+Los Angeles, Orange, Riverside, San Bernardino, San Diego, Santa Barbara, and Ventura Counties in California.
+
+Residence, Duration of (Voting Supplements)
+
+Data on duration of residence were obtained from replies to the following question asked in the November Voting
+Supplements: "How long has (this person) lived at this address?"
+
+Less than 1 month
+
+1 to 6 months
+
+7 to 11 months
+
+1 to 2 years
+
+3 to 4 years
+
+5 years or longer
+
+Don’t know
+
+Rounding
+
+Percentages are rounded to the nearest tenth of a percent; therefore, the percentages in a distribution do not always
+add to exactly 100.0 percent.
+
+Size of household, family, or subfamily
+
+(See Household, family, or subfamily, size of)
+
+School, dropout rate, annual high school
+
+The annual high school dropout rate is an estimate of the proportion of students who drop out of school in a single
+year. This section briefly explains how the annual dropout rate is calculated; for further explanation and details of its
+derivation see Current Population Report, Series P-20, No. 413, "School Enrollment--Social and Economic
+Characteristics of Students: October 1983."
+Annual dropout rates for a single grade (x) are estimated as the ratio of the number of people who were enrolled in
+grade (x) in the year preceding the survey and who did not complete grade (x) and are not currently enrolled, to the
+number enrolled in grade (x) at the start of the year preceding this survey. People reported as enrolled last year but
+not currently enrolled are presented in table 8 of Current Population Reports on school enrollment, by the highest
+grade completed and are presumed to have dropped out of the succeeding grade (except those who graduated this
+year). Thus, individuals counted as 10th grade dropouts are those not enrolled in school whose highest grade
+completed is the 9th grade. (They include not only those people who were enrolled in the 10th grade in the fall of the
+
+year preceding the survey and left school without completing the year, but also those people who finished the 9th
+grade in the spring preceding the survey and were not enrolled at the survey date.) These estimates form the
+numerator of estimates of the annual grade specific dropout rate.
+People currently enrolled in high school are presumed to have successfully completed and been enrolled in the
+preceding grade in the preceding year. Thus, those who have successfully completed the 10th grade are enrolled in
+the 11th grade. Along with the people who dropped out of that grade, they comprise the denominator of the
+estimate of the annual grade-specific dropout rate.
+Since people who complete the 12th grade cannot be presumed to enroll in college, the estimate of the number of
+people enrolled in the 12th grade one year prior to the survey is constructed as the sum of the number of people
+reported as having graduated from high school "this year" (both those enrolled in the first year of college and people
+not currently enrolled whose highest grade completed is the 12th grade) and those people not currently enrolled
+who were enrolled last year and whose highest grade completed is the 11th grade (dropouts). The annual dropout
+rate for all grades during one year can be obtained by summing the components of the rates for the individual
+grades. In other words, those people who were enrolled in the tenth, eleventh, or twelfth grade last year and who are
+not currently enrolled and do not have a diploma.
+In addition to the annual rate, two other estimates of dropouts are frequently used. The annual dropout rate is
+different from a "pool" (or status) measure such as the proportion of an age group who are high school dropouts
+(not enrolled in school, not high school graduates, which does not depend on when the individuals dropped out. A
+third measure of dropouts is the cohort measure, most commonly from a longitudinal study, in which one calculates
+the proportion of a specific group of people enrolled in a specific year, who had not received diplomas (and who
+were no longer in school) some years later. For example, the proportion of a cohort enrolled in ninth grade in year X,
+who were not enrolled and had not received a diploma by year X=4.
+
+School enrollment
+
+The school enrollment statistics from the CPS are based on replies to the interviewer’s inquiry whether the person
+was enrolled in regular school. Interviewers were instructed to count as enrolled anyone who had been enrolled at
+any time during the current term or school year in any type of public, parochial, or other private school in the regular
+school system. Such schools include nursery schools, kindergartens, elementary schools, high schools, colleges,
+universities, and professional schools. Attendance may be on either a full-time, or part-time basis and during the day
+or night. Regular schooling is that which may advance a person toward an elementary or high school diploma, a
+college, university, or professional school degree. Children enrolled in nursery schools and kindergarten are included
+in the enrollment figures for regular schools and are also shown separately.
+Enrollment in schools which are not in the regular school system, such as trade schools, business colleges, and
+schools for the mentally handicapped, which do not advance students to regular school degrees, is not included.
+People enrolled in classes which do not require physical presence in school, such as correspondence courses or
+other courses of independent study, and in training courses given directly on the job, are also excluded from the
+count of those enrolled in school, unless such courses are being counted for credit at a regular school.
+School enrollment in year preceding current survey: An inquiry on enrollment in regular school or college in October
+of the preceding year was asked for all people (enrolled and not enrolled). In years before 1988, the question was
+asked only of people who were not currently attending regular school or were enrolled in college. In the tabulations
+of people enrolled in secondary school in the previous year, people currently enrolled in high school were assumed
+to have been enrolled the previous year.
+Comparability of enrollment data in previous years: Changes in the edit and tabulation packages used in processing
+the October CPS school enrollment supplement caused some minor revisions in the estimates. The current edit and
+tabulation package began with 1987 data. The 1986 data which were published in Current Population Report, Series
+P-20 No. 429, were reprocessed with the rewritten programs in order to clarify comparability. Time series tables
+usually show only the revised estimates for 1986. The previous edit and tabulation package was used from 1967 to
+1986.
+Major changes in the data due to the 1987 edit revisions were: (1) Among 14- and 15-year-olds, an edit improvement
+allowed people with enrollment data not reported, who were previously automatically imputed "not enrolled," to be
+enrolled; (2) Revisions in tabulation of enrollment in the previous year simplifies calculation of an annual high school
+dropout rate; (3) Edit improvements caused increases in college enrollment estimates, most notably above age 24;
+this age group was largely ignored in earlier edits; (4) Type of college is fully allocated (discussed earlier); (5)
+Tabulations of type of college (2-year,4-year) are available by race; (6) Dependent family member is defined
+consistently; (7) New tabulations of employment status, vocational course enrollment, college retention and re-
+entry, and families with children enrolled in public and private school were available beginning in 1987.
+In the series of reports on school enrollment for 1987 to 1992, race and Hispanic origin were erroneously tabulated
+for a small percentage of children 3 to 14 years old. Race and Hispanic origin of an adult in the household were
+attributed to the child, rather than using the child’s reported characteristics. In the vast majority of cases these
+characteristics were the same for family members, but for a small percentage of children, they were different. The
+correction made the following proportional changes in the numbers of children in each group: White (-0.5 percent),
+Black (+3.1 percent), Hispanic origin (-4.6 percent).
+Published data on enrollment from the October CPS for 1981 to 1993 used population controls based on the 1980
+census. Beginning in 1994 estimates were based on 1990 census population controls, including adjustment for
+undercount. Time series tables show two sets of data for 1993; the data labeled 1993r were processed using
+population controls based on the 1990 census, adjusted for undercount. The change in 1994 from a paper and
+pencil survey to a computer assisted survey had some affect on the data. Most notable, the enrollment question for
+children 3 to 5 years old was different from the question for older children--it included a reference to nursery school.
+In 1994 reported nursery school enrollment was significantly higher than in earlier years.
+
+School, Level of
+
+The statistics on level of school indicate the number of people enrolled at each of five levels--nursery school,
+kindergarten, elementary school (1st to 8th grades), high school (9th to 12th grades), and college or professional
+school. The last group includes graduate students in colleges or universities. People enrolled in elementary, middle
+school, intermediate school or junior high school through the eighth grade are classified as in elementary school. All
+people enrolled in 9th through 12th grade are classified as in high school.
+
+School, Modal grade
+
+Enrolled people are classified according to their relative progress in school: that is, whether the grade or year in
+which they were enrolled was below, at, or above the modal (or typical) grade for people of their age at the time of
+the survey. The modal grade is the year of school in which the largest proportion of students of a given age is
+enrolled.
+
+School, Nursery
+
+A nursery school is defined as a group or class that is organized to provide educational experiences for children
+during the year or years preceding kindergarten. It includes instruction as an important and integral phase of its
+program of child care. Private homes in which essentially custodial care is provided are not considered nursery
+schools. Children attending nursery school are classified as attending during either part of the day or the full day.
+Part-day attendance refers to those who attend either in the morning or in the afternoon, but not both. Full-day
+attendance refers to those who attend in both the morning and the afternoon. Children enrolled in Head Start
+programs or similar programs sponsored by local agencies to provide preschool education to young children are
+counted under nursery school.
+
+School, Public or private
+
+In this report, a public school is defined as any educational institution operated by publicly elected or appointed
+school officials and supported by public funds. Private schools include educational institutions established and
+operated by religious bodies, as well as those which are under other private control. In cases where enrollment was
+in a school or college which was both publicly and privately controlled or supported, enrollment was counted
+according to whether it was primarily public or private.
+
+Secondary individuals
+
+Secondary individuals are people of any age who reside in a household, but are not related to the householder
+(except unrelated subfamily members). People who reside in group quarters are also secondary individuals.
+Examples of a secondary individual include (1) a guest, partner, roommate, or resident employee; (2) a foster child;
+or (3) a person residing in a rooming house, a halfway house, staff quarters at a hospital, or other type of group
+quarters.
+
+Step family
+
+A Step family is a married-couple family household with at least one child under age 18 who is a stepchild (i.e., a
+son or daughter through marriage, but not by birth) of the householder. This definition undercounts the true number
+of step families in instances where the parent of the natural born or biological child is the householder and that
+parents spouse is not the child’s parent, as biological or step-parentage is not ascertained in the CPS for both
+parents.
+
+Subfamily
+
+A subfamily is a married couple with or without children, or a single parent with one or more own never-married
+children under 18 years old. A subfamily does not maintain their own household, but lives in the home of someone
+else.
+Related subfamily. A related subfamily is a married couple with or without children, or one parent with one or more
+own never married children under 18 years old, living in a household and related to, but not including, the person or
+couple who maintains the household. One example of a related subfamily is a young married couple sharing the
+home of the husband’s or wife’s parents. The number of related subfamilies is not included in the count of families.
+Unrelated subfamily. An unrelated subfamily (formerly called a secondary family) is a married couple with or without
+children, or a single parent with one or more own never-married children under 18 years old living in a household.
+Unrelated subfamily members are not related to the householder. An unrelated subfamily may include people such
+as guests, partners, roommates, or resident employees and their spouses and/or children. The number of unrelated
+subfamily members is included in the total number of household members, but is not included in the count of family
+members.
+Beginning in 1989, any person(s) who is not related to the householder and who is not the husband, wife, parent, or
+child in an unrelated subfamily is counted as an unrelated individual.
+
+Tenure
+
+A housing unit is "owned" if the owner or co-owner lives in the unit, even if it is mortgaged or not fully paid for. A
+cooperative or condominium unit is "owned" only if the owner or co-owner lives in it. All other occupied units are
+classified as "rented," including units rented for cash rent and those occupied without payment of cash rent.
+
+Undocumented immigrants
+
+Because all residents of the United States living in households are represented in the sample of households
+interviewed by the CPS, undocumented immigrants are probably included in CPS data. Because the CPS makes no
+attempt to ascertain the legal status of any person interviewed, these individuals cannot be identified from CPS
+data.
+
+Unemployed people
+
+All people who were not employed during the reference week but were available for work (excluding temporary
+illness) and had made specific efforts to find employment some time during the 4-week period ending with the
+reference week are classified as unemployed. Individuals who were waiting to be recalled to a job from which they
+had been laid off need not have been looking for work to be classified as unemployed. People waiting to start a new
+job must have actively looked for a job within the last 4 weeks in order to be counted as unemployed. Otherwise,
+they are classified as not in the labor force.
+
+Units in structure
+
+In the determination of the number of units in a structure, all housing units, both occupied and vacant, were
+counted. The statistics are presented in terms of the number of occupied housing units in structures of specified
+size, not in terms of the number of residential structures.
+
+Unmarried couple
+
+An unmarried couple is composed of two unrelated adults of the opposite sex (one of whom is the householder)
+who share a housing unit with or without the presence of children under 15 years old. Unmarried couple households
+contain only two adults.
+
+Unrelated individuals
+
+Unrelated individuals are people of any age who are not members of families or subfamilies.
+
+Vocational school enrollment
+
+Vocational school enrollment includes enrollment in business, vocational, technical, secretarial, trade, or
+correspondence courses which are not counted as regular school enrollment and are not for recreation or adult
+education classes. Courses counted as college enrollment should not also be included as vocational.
+
+Voting, people eligible to register
+
+The population of voting age includes a considerable number of people who meet the age requirement but cannot
+register and vote. People who are not citizens are not eligible to vote. Among citizens of voting age, some people
+are not permitted to vote because they have been committed to penal institutions, mental hospitals, or other
+institutions, or because they fail to meet state and local resident requirements for various reasons. The eligibility to
+register is governed by state laws which differ in many respects.
+Registration is the act of qualifying to vote by formally enrolling on a list of voters. People who have moved to
+another election district must take steps to have their names placed on the voting rolls in their new place of
+residence.
+In a few states or parts of states, no formal registration is required. Voters merely present themselves at the polling
+place on election day with proof that they are of age and have met the appropriate residence requirements.
+Therefore, in these areas people who are citizens and of voting age, and who meet the residence requirement, would
+be considered as being registered.
+
+Voter, reported participation
+
+Voter participation data are derived from replies to the following question asked of people (excluding noncitizens)
+of voting age: "In any election some people are not able to vote because they are sick or busy, or have some other
+reason, and others do not want to vote. Did (this person) vote in the election held on November (date varies)?"
+Those of voting age were classified as "voted" or "did not vote." In most tables, this "did not vote" class includes
+those reported as "did not vote," "do not know," noncitizens, and nonrespondents. Nonrespondents and people who
+reported that they did not know if they voted were included in the "did not vote" class because of the general over-
+reporting by respondents in the sample.
+
+Voter, reported registration
+
+The data on registration were obtained by tabulating replies to the following question for those people included in
+the category "did not vote." "Was (this person) registered to vote in the November (date varies) election?"
+All people reported as having voted were assumed to have been registered. Therefore, the total registered
+population is obtained by combining the number of people who voted and people included in the category "did not
+vote," but who had registered.
+
+Work Experience
+
+A person with work experience is one who, during the preceding calendar year, did any work for pay or profit or
+worked without pay on a family-operated farm or business at any time during the year, on a part-time or full-time
+basis. A full-time worker is one who worked 35 hours or more per week during a majority of the weeks worked
+during the preceding calendar year. A year-round worker is one who worked for 50 weeks or more during the
+preceding calendar year. A full-time, year-round worker is a person who worked full time (35 or more hours per
+week) and 50 or more weeks during the previous calendar year.
+
+Footnotes
+
+1
+ For a detailed discussion of the original SSA poverty thresholds, see Mollie Orshansky, Counting the Poor: Another
+Look at the Poverty Profile, Social Security Bulletin, vol. 28, no. 1, January 1965, pp. 3-29 (reprinted in Social Security
+Bulletin, vol. 51, no. 10, October 1988, pp. 25-51); and Who’s Who Among the Poor: A Demographic View of Poverty,
+Social Security Bulletin, vol. 28, no. 7, July 1965, pp. 3-32.
+2
+ Poverty thresholds for 1959-1967 were recalculated on this basis, and revised poverty population figures for those
+years were tabulated using the revised thresholds. These revised 1959-1967 poverty population figures have been
+published in Census Bureau reports issued since August 1969 (including the present report). Because of this
+revision, poverty statistics from documents dated before August 1969 are not comparable with current poverty
+statistics.       
+
+Page Last Revised - May 15, 2024
+
+

@@ -1,0 +1,173 @@
+United States Census Bureau | An official website of the United States Government
+
+Coverage Rates Definitions
+
+1. What is coverage error?
+
+There are two kinds of coverage error: under-coverage and over-coverage.
+
+Under-coverage exists when housing units or people do not have a chance of being selected in the
+
+sample.
+
+Over-coverage exists when housing units or people have more than one chance of selection in the
+
+sample, or are included in the sample when they should not have been.
+
+2. How does the ACS reduce coverage error?
+
+The final ACS population estimates are adjusted for coverage error by controlling specific survey
+
+estimates to independent population controls by sex, age, race, and Hispanic origin.
+
+The final PRCS population estimates are adjusted for coverage error by controlling specific survey
+estimates to independent population control by sex and age.
+
+The ACS housing unit estimates are adjusted for coverage error by controlling the survey estimates to
+
+the independent housing unit controls for total housing units. Because of subsequent steps in the
+
+housing unit weighting process, the final ACS housing unit estimates will not agree with the independent
+housing unit controls.
+
+Refer to Accuracy of the Data [/programs-surveys/acs/technical-documentation/code-lists.html] to learn
+
+more about this weighting procedure.
+
+3. Why is it important to measure coverage error?
+
+If the characteristics of under-covered or over-covered housing units or individuals differ from those that
+
+are selected, the ACS may not provide an accurate picture of the population.
+
+4. How does the ACS measure coverage error?
+
+The Census Bureau calculates coverage rates to measure coverage error in the ACS. The coverage rate is
+the ratio of the ACS population or housing estimate of an area or group to the independent estimate for
+
+that area or group, times 100.
+
+Coverage rates for the total resident population are calculated by sex at the national, state, and Puerto
+
+Rico levels, and at the national level only for total Hispanics, and non-Hispanics crossed by the five major
+race categories: White, Black, American Indian and Alaska Native, Asian, and Native Hawaiian and Other
+
+Pacific Islander. The total resident population includes persons in both housing units and group quarters.
+
+In addition, a coverage rate that includes only the group quarters population is calculated at the national
+
+level. Coverage rates for housing units are calculated at the national and state level, except for Puerto
+Rico because independent housing unit estimates are not available.
+
+These rates are weighted to reflect the probability of selection into the sample, the subsampling for
+
+personal visit follow-up, and non-response. As the coverage rate drops below 100 percent, the weights of
+
+the people in the survey need greater adjustment in the final weighting procedure to reach the
+independent estimate. If the rate is greater than 100 percent, the ACS population estimates are
+
+downweighted to match the independent estimates.
+
+The coverage rates for the total resident population are for the data from 2006 or later only. The 2000-
+
+2005 rates are for the comparable universes excluding the group quarters population since that
+
+population was not added to the ACS until 2006.
+
+5. What is the independent population estimate?
+
+The Census Bureau uses independent data on housing, births, deaths, immigration, etc. to produce
+
+official estimates of the population and housing units each year. The base for these independent
+
+estimates is the decennial census counts. The ACS, like all other household surveys, controls some of its
+most basic estimates to these official estimates to correct for potential over- or under-coverage.
+
+6. What effect does the GQ coverage rate have on the quality of the ACS data?
+
+As an example, the national GQ coverage rate for 2006 was 76.2 percent. The estimates could be biased
+
+if the 23.8 percent of the GQ population that is not covered by the survey differs from the population that
+was interviewed. One of the reasons for the low coverage rate was the data collection methodology.
+
+Prior to 2013, data collection in college or university housing was conducted during the entire year. The
+
+number of people in college or university housing during the months of May through August is much
+
+lower than the other months because less students attend summer sessions. The population control
+used in the GQ weighting methodology, however, is based on the census reference date of April 1 when
+
+most students are attending. One-third of the ACS yearly sample was allocated to these four months of
+
+May - August. An examination of the data collected during this period revealed that the population of the
+
+GQs visited in these months is not representative of the college or university housing population control.
+Thus, the ACS coverage rate for the summer months was artificially lower than the other eight months
+
+and as a result the overall coverage is too low. Note that if we use the eight non-summer months for
+
+college or university housing and standardize it to reflect the full-year population (weighting it up by 1.5
+
+to account for the four summer months), the national GQ coverage rate for 2006 increases to 81.8
+percent. Beginning with the 2013 data year, data collection in college or university housing is only
+
+conducted during January – April and September – December. This helps to improve the coverage of
+
+GQs and reduce any potential bias.
+
+7. How are coverage rates calculated?
+HU Coverage Rate (state x, year y) =
+
+GQ Population Coverage Rate (year y) =
+
+Population Coverage rate for group A (state x, year
+
+y) =
+
+Related Information
+
+Share Your ACS Data Story [/programs-surveys/acs/share-your-acs-data-story.html]
+
+Contact Us [/programs-surveys/acs/contact.html]
+
+You May Be Interested In
+
+Contact
+
+Updates
+
+Contact Us
+
+Email Updates
+
+Share Your ACS Data
+Story
+
+Learn how to contact
+the American
+
+Sign up to receive email
+updates about the
+
+Tell us your story about
+how you use data from
+
+Community Survey if you
+
+American Community
+
+the American
+
+[/programs-
+surveys/acs/contact.html]
+
+[/programs-
+surveys/acs/news/email-
+updates.html]
+
+[/programs-surveys/acs/share-
+your-acs-data-story.html]
+
+Page Last Revised - December 8, 2022
+
+

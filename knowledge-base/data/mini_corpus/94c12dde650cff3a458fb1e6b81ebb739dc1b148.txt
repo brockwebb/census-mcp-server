@@ -1,0 +1,1830 @@
+Understanding and Using  
+Puerto Rico Community Survey Data
+What All Data Users Need to Know
+
+Issued April 2020
+
+Acknowledgments
+
+Linda A. Jacobsen, Vice President, U.S. Programs, Population Reference 
+Bureau (PRB), Mark Mather, Associate Vice President, U.S. Programs, PRB, 
+and Kelvin Pollard, Senior Demographer, U.S. Programs, PRB, drafted 
+this handbook in partnership with the U.S. Census Bureau’s American 
+Community Survey Office. Other PRB staff who assisted in drafting and 
+reviewing the handbook include Paola Scommegna and Lillian Kilduff. 
+
+American Community Survey data users who provided feedback and case 
+studies for this handbook include Caridad Arroyo, José Caraballo Cueto, 
+and Alberto Velázquez.
+
+Nicole Scanniello, Gretchen Gooding, and Caleb Hopler, Census Bureau, 
+contributed to the planning and review of this handbook.  
+
+The American Community Survey program is under the direction of   
+Albert E. Fontenot Jr., Associate Director for Decennial Census Programs, 
+James B. Treat, Assistant Director for Decennial Census Programs, and 
+Donna M. Daily, Chief, American Community Survey Office.
+
+Other individuals from the Census Bureau who contributed to the review and 
+release of these handbooks include Sirius Fuller, Justin Keller, David Raglin, 
+Michael Ratcliffe, Dameka Reese, Michael Starsinic, Janice Valdisera, and 
+Brian Wilson.
+
+Faye Brock, Linda Chen, Christine Geter, and Amanda Perry provided 
+publication management, graphic design and composition, and editorial 
+review for print and electronic media under the direction of Janet Sweeney, 
+Chief of the Graphic and Editorial Services Branch, Public Information Office.
+
+Understanding and Using  
+Puerto Rico Community Survey Data
+What All Data Users Need to Know
+
+Issued April 2020
+
+U.S. Department of Commerce 
+Wilbur Ross, 
+Secretary
+
+Karen Dunn Kelley,  
+Deputy Secretary 
+
+U.S. CENSUS BUREAU 
+Steven Dillingham, 
+Director
+
+Suggested Citation
+
+  U.S. Census Bureau,  
+Understanding and Using  
+Puerto Rico Community Survey Data: 
+What All Data Users Need to Know, 
+U.S. Government Printing Office, 
+Washington, DC, 2020.
+
+U.S. CENSUS BUREAU 
+Steven Dillingham, 
+Director
+
+Ron Jarmin, 
+Deputy Director and Chief Operating Officer
+
+Albert E. Fontenot Jr., 
+Associate Director for Decennial Census Programs
+
+James B. Treat, 
+Assistant Director for Decennial Census Programs
+
+Donna M. Daily, 
+Chief, American Community Survey Office
+
+Contents
+
+1. Understanding the PRCS: The Basics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+
+2. How Is the PRCS Different From the ACS? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+
+3. Geographic Areas Covered in the PRCS  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+
+4. Accessing PRCS Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+
+5. Case Studies Using PRCS Data  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+
+6. Additional Resources . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44
+
+Understanding and Using Puerto Rico Community Survey Data   iii 
+What All Data Users Need to Know    iii
+
+U.S. Census Bureau 
+This page is intentionally blank.
+
+UNDERSTANDING AND USING PUERTO RICO 
+COMMUNITY SURVEY DATA: WHAT ALL DATA 
+USERS NEED TO KNOW
+
+Suppose a mayor wants to know if a job training 
+initiative has reduced the level of unemployment in a 
+municipio. A business owner in San Juan wants infor-
+mation about the changing characteristics of workers 
+and their commuting patterns. A public health agency 
+is interested in identifying vulnerable populations that 
+may need evacuation assistance during an emergency. 
+Where could they go for this information?
+
+The U.S. Census Bureau’s Puerto Rico Community 
+Survey (PRCS) is designed to meet the needs of 
+policymakers, business leaders, planners, and oth-
+ers who need good data to make informed decisions. 
+The PRCS is part of the Census Bureau’s American 
+Community Survey (ACS) program, providing a 
+detailed portrait of the social, economic, housing, and 
+demographic characteristics of communities through-
+out Puerto Rico. 
+
+This guide provides an overview of what data users 
+need to know about working with PRCS data— 
+particularly how the PRCS differs from the ACS and 
+the major geographic areas for which PRCS data are 
+available. It also includes some recent case studies that 
+show how PRCS data are being used to help address 
+important policy and program issues in Puerto Rico. 
+
+What Is the American Community 
+Survey?
+
+The ACS is a nationwide survey designed to provide 
+communities with reliable and timely social, economic, 
+housing, and demographic data every year. The U.S. 
+Census Bureau uses data collected in the ACS to pro-
+vide estimates on a broad range of population, housing 
+unit, and household characteristics for states, coun-
+ties, cities, American Indian and Alaska Native areas, 
+tribal subdivision areas, school districts, congressional 
+districts, census tracts, block groups, and many other 
+geographic areas.    
+
+The ACS has an annual sample size of about 3.5 million 
+addresses, with survey information collected nearly 
+every day of the year. Data are pooled across a calen-
+dar year to produce estimates for that year. As a result, 
+ACS estimates reflect data that have been collected 
+over a period of time rather than for a single point in 
+time as in the decennial census, which is conducted 
+every 10 years and provides population counts as of 
+April 1 of the census year.
+
+ACS 1-year estimates are data that have been col-
+lected over a 12-month period and are available for 
+geographic areas with at least 65,000 people. Starting 
+with the 2014 ACS, the Census Bureau is also produc-
+ing “1-year Supplemental Estimates”—simplified ver-
+sions of popular ACS tables—for geographic areas with 
+at least 20,000 people. The Census Bureau combines 
+5 consecutive years of ACS data to produce multiyear 
+estimates for geographic areas with fewer than 65,000 
+residents. These 5-year estimates represent data col-
+lected over a period of 60 months. 
+
+For more detailed information about the ACS—how 
+to judge the accuracy of ACS estimates, understand-
+ing multiyear estimates, knowing which geographic 
+areas are covered in the ACS, and how to access ACS 
+data on the Census Bureau’s Web site—see the Census 
+Bureau’s handbook on Understanding and Using 
+American Community Survey Data: What All Data Users 
+Need to Know.1 
+
+1 U.S. Census Bureau, Understanding and Using American  
+Community Survey Data: What All Data Users Need to Know,  
+<www.census.gov/programs-surveys/acs/guidance/handbooks 
+/general.html>. 
+
+Understanding and Using Puerto Rico Community Survey Data   1 
+What All Data Users Need to Know    1
+
+U.S. Census Bureau1. UNDERSTANDING THE PRCS: THE BASICS
+
+What Is the Puerto Rico Community 
+Survey?
+
+The U.S. Census Bureau first conducted the Puerto 
+Rico Community Survey (PRCS) in 2005—the same 
+year the American Community Survey (ACS) was 
+implemented for the 50 states and the District of 
+Columbia. The 2005 PRCS covered the household 
+population and was expanded to cover the full popu-
+lation (including people living in group quarters such 
+as college dormitories) the following year. In 2010, the 
+PRCS, like the ACS, replaced the decennial census long 
+form as the nation’s source of social and economic 
+data for population and housing characteristics. The 
+Census Bureau uses data collected in the PRCS to pro-
+vide estimates for Puerto Rico, municipios, neighbor-
+hoods, and many other geographic areas. 
+
+The PRCS has an annual sample size of about 36,000 
+addresses. Because the PRCS is based on a sample, 
+rather than all housing units and people, PRCS esti-
+mates have a degree of uncertainty, called sampling 
+error, associated with them. In general, the larger the 
+sample, the smaller the level of sampling error. To help 
+
+users understand the impact of sampling error on data 
+reliability, the Census Bureau provides a “margin of 
+error” for each published PRCS estimate. The margin 
+of error, combined with the PRCS estimate, gives users 
+a range of values within which the actual, “real-world” 
+value is likely to fall. 
+
+TIP: In general, data users should be careful in draw-
+ing conclusions about small differences between two 
+PRCS estimates because they may not be statistically 
+different. 
+
+For more information about margins of error in the 
+PRCS—and determining statistical significance—see 
+the Census Bureau’s Accuracy of the Data documenta-
+tion for PRCS multiyear and 1-year estimates.2  
+
+Users also should note that the PRCS was designed to 
+provide estimates of the characteristics of the popula-
+tion, not to provide counts of the population in differ-
+ent geographic areas or population subgroups. For 
+
+2 U.S. Census Bureau, American Community Survey (ACS), Code 
+
+Lists, Definitions, and Accuracy, <www.census.gov/programs-surveys 
+/acs/technical-documentation/code-lists.html>.
+
+  Table 1.1.  Population and Housing Data Included in Puerto Rico Community Survey
+
+Social Characteristics
+Ancestry
+Citizenship Status
+Disability Status1
+Educational Attainment
+Fertility
+Grandparents as Caregivers
+Language Spoken at Home
+Marital History2
+Marital Status
+Migration/Residence 1 Year Ago
+Period of Military Service
+Place of Birth
+School Enrollment
+Undergraduate Field of  
+
+Degree3
+
+Veteran Status2
+Year of Entry
+
+Economic Characteristics
+Class of Worker
+Commuting (Journey to Work)
+Employment Status
+Food Stamps/Supplemental 
+
+Nutrition Assistance Program 
+(SNAP)4
+
+Health Insurance Coverage2
+Income and Earnings
+Industry and Occupation
+Place of Work
+Poverty Status
+Work Status Last Year
+
+Housing Characteristics
+Computer and Internet Use5
+House Heating Fuel
+Kitchen Facilities
+Occupancy/Vacancy Status
+Occupants Per Room
+
+Plumbing Facilities6
+Rent
+Rooms/Bedrooms
+Selected Monthly Owner Costs
+Telephone Service Available
+Tenure (Owner/Renter)
+Units in Structure
+Value of Home
+Vehicles Available
+Year Householder Moved Into 
+
+Unit
+
+Year Structure Built
+
+Demographics Characteristics
+Age and Sex
+Group Quarters Population
+Hispanic or Latino Origin
+Race
+Relationship to Householder
+Total Population
+
+1 Questions on Disability Status were significantly revised in the 2008 survey to cause a break in series. 
+2 Marital History, Veterans’ Service-Connected Disability Status and Ratings, and Health Insurance Coverage were added in the 2008 survey. 
+3 Undergraduate Field of Degree was added in the 2009 survey. 
+4 Food Stamp Benefit amount was removed in 2008. In Puerto Rico, the SNAP Program is called the Nutritional Assistance Program.
+5 Computer and Internet Use was added to the 2013 survey. 
+6 One of the components of Plumbing Facilities, flush toilet, and Business or Medical Office on Property questions were removed in 2016.
+Source: U.S. Census Bureau. 
+
+2   Understanding and Using Puerto Rico Community Survey Data 
+2   What All Data Users Need to Know
+
+U.S. Census Bureauand occupations, educational attainment, veterans, 
+homeownership, and many other topics. Because data 
+collection is ongoing, the PRCS also provides essential, 
+up-to-date information about population and housing 
+characteristics both before and after natural disasters 
+(like hurricanes) or economic shifts, like the recession 
+in Puerto Rico that began in 2006.5  
+
+Here are some examples of how PRCS data are being 
+used for reporting and decision-making:
+
+•  The daily newspaper El Nuevo Día used PRCS data 
+to show that Puerto Rico had experienced net out-
+migration of 67,000 people to the U.S. mainland in 
+2016.6
+
+•  The Youth Development Institute of Puerto Rico 
+(Instituto para el Desarrollo de la Juventud) uses 
+PRCS data for several of the indicators it uses 
+to monitor child and family well-being in the 
+Commonwealth and its municipios, including child 
+poverty, single-parent family status, and access to 
+health insurance.7
+
+•  The Center for Puerto Rican Studies at Hunter 
+
+College, City University of New York, used PRCS 
+data to project the number of people who may 
+migrate from Puerto Rico to the United States 
+in the wake of Hurricane Maria, as well as which 
+states are likely to feel the greatest impact.8
+
+•  The U.S. Department of Housing and Urban 
+
+Development used PRCS data to analyze aspects 
+of the housing market in Puerto Rico, including the 
+share of homeowners living in single-family homes 
+and median rental costs.9
+
+basic counts of Puerto Rico’s population by age, sex, 
+race, and Hispanic origin, visit the Census Bureau’s 
+Population and Housing Unit Estimates Web page.3   
+
+The content collected through the PRCS can be 
+grouped into four main types of characteristics: social, 
+economic, housing, and demographic (see Table 1.1). 
+Various tables in the ACS/PRCS have different “uni-
+verses,” or base reference totals against which all 
+other characteristics are compared. Some tables cover 
+population characteristics, while others cover housing 
+characteristics. Among the population tables, some 
+cover the entire population (such as tables of the 
+population by age), while some cover only a subset of 
+the population (such as tables on employment status, 
+which include data only for the population aged 16 and 
+older).
+
+PRCS and ACS content is designed to meet the needs 
+of federal government agencies, and every question on 
+the survey is asked for a reason. For example, ques-
+tions about how people get to work and the length 
+of their commutes are used for planning emergency 
+response routes and improvements to roads, highways, 
+rail lines, and bus routes. The responsibility of the 
+Office of Management and Budget (OMB) under the 
+Paperwork Reduction Act requires that new questions 
+demonstrate the practical utility of the data and mini-
+mize “respondent burden.” Respondent burden can 
+be defined in different ways, but is often related to the 
+length of the interview or questionnaire, or the extent 
+to which questions are viewed as being intrusive or too 
+personal. Because participation in the PRCS and ACS 
+is mandatory, the OMB will only approve necessary 
+questions for inclusion on the surveys.
+
+Some people are reluctant to respond to the PRCS 
+because of concerns about the confidentiality of the 
+data. However, strict confidentiality laws protect all 
+PRCS and ACS information that could be used to iden-
+tify individuals or households under Title 13 of the  
+U.S. Code.4 This is true even for interagency commu-
+nication; other government agencies do not have the 
+legal right to access individuals’ confidential informa-
+tion from the PRCS or the ACS. 
+
+Who Uses the PRCS?
+
+The PRCS provides vital information on a yearly basis 
+about Puerto Rico and its people, in order to help 
+local officials, community leaders, businesses, and the 
+public plan and make decisions based on the changes 
+taking place in their communities. Through the PRCS, 
+we know more about demographic trends, jobs 
+
+3 U.S. Census Bureau, Population and Housing Unit Estimates, 
+
+<www.census.gov/popest/>. 
+
+4 U.S. Census Bureau, Title 13, U.S. Code—Protection of Confidential  
+
+Information, <www.census.gov/history/www/reference/privacy 
+_confidentiality/title_13_us_code.html>. 
+
+5 Mary Williams Walsh, “How Puerto Rico Is Grappling With a Debt 
+
+Crisis,” New York Times (May 16, 2017), <www.nytimes.com 
+/interactive/2017/business/dealbook/puerto-rico-debt-bankruptcy 
+.html>. 
+
+6 “Unas 67,000 personas en la isla emigraron a Estados Unidos en 
+
+2016,” El Nuevo Dia (September 14, 2017), <www.elnuevodia.com 
+/noticias/locales/nota/unas67000personasenlaislaemigraro-
+naestadosunidosen2016-2357680/>.
+
+7 Instituto para el Desarrollo de la Juventud, <http://juventudpr.org 
+
+/en/data/statistics/>.
+
+8 Center for Puerto Rican Studies (Centro), Hunter College, CUNY, 
+“Estimates of Post-Hurricane Maria Exodus from Puerto Rico,” Centro 
+RB2017-01 (October 2017), <https://centropr.hunter.cuny.edu/sites 
+/default/files/RB2017-01-POST-MARIA%20EXODUS_V3.pdf>.
+
+9 U.S. Department of Housing and Urban Development, Office of 
+
+Policy Development and Research, (September 1, 2017),  
+“Comprehensive Housing Market Analysis” for Puerto Rico,”  
+<www.huduser.gov/portal/publications/pdf/PuertoRico-comp.pdf>.
+
+Understanding and Using Puerto Rico Community Survey Data   3 
+What All Data Users Need to Know    3
+
+U.S. Census Bureau2. HOW IS THE PRCS DIFFERENT FROM THE ACS? 
+
+The data collected in the Puerto Rico Community Survey (PRCS) are similar to those collected in the American 
+Community Survey (ACS) for the 50 states and the District of Columbia, but there are also some important dif-
+ferences between the two surveys. 
+
+With the ACS, the initial mailings sent to U.S. addresses are printed in English and residents can receive Spanish-
+language materials upon request. By comparison, Puerto Rico addresses initially receive PRCS mailings that are 
+printed in Spanish, although residents can request English-language materials. English and Spanish versions of 
+sample PRCS questionnaires are available on the U.S. Census Bureau’s Web site.10  
+
+The PRCS form includes several questions that are modified from those on the ACS to account for cultural and 
+geographic differences between Puerto Rico and the U.S. mainland.11 For example, Question 4 in the Housing 
+section asks the amount of land that a house, apartment, or mobile home occupies. Whereas the acre is the unit 
+of measurement in the ACS, the cuerda (or “Spanish acre,” equal to .971 acres) is the measurement unit in the 
+PRCS (see Figure 2.1).12   
+
+Figure 2.1.  ACS and PRCS Questions on Property Size  
+
+2016 ACS Questionnaire 
+
+   2016 PRCS Questionnaire 
+
+Source: U.S. Census Bureau, 2016 ACS and PRCS Questionnaires, <www.census.gov/programs-surveys/acs/methodology 
+/questionnaire-archive.2016.html>.
+
+While the ACS asks if respondents have “hot and cold running water,” the PRCS asks if they have “running water” 
+and “a water heater,” as it is less common to have hot water heaters in Puerto Rico (see Figure 2.2).
+
+Figure 2.2.  ACS and PRCS Questions on Plumbing, Kitchen Facilities, and Telephone Service  
+
+2016 ACS Questionnaire 
+
+    2016 PRCS Questionnaire 
+
+Source: U.S. Census Bureau, 2016 ACS and PRCS Questionnaires, <www.census.gov/programs-surveys/acs/methodology 
+/questionnaire-archive.2016.html>.
+
+10 U.S. Census Bureau, American Community Survey (ACS), Questionnaire Archive, <www.census.gov/programs-surveys/acs/methodology 
+
+/questionnaire-archive.html>. 
+
+11 U.S. Census Bureau, American Community Survey Design and Methodology Report (January 2014), p. 56, <https://www2.census.gov 
+
+/programs-surveys/acs/methodology/design_and_methodology/acs_design_methodology_report_2014.pdf>. 
+
+12 U.S. Census Bureau, 2016 ACS and PRCS Questionnaires, <www.census.gov/programs-surveys/acs/methodology/questionnaire-archive.2016 
+
+.html>. 
+
+4   Understanding and Using Puerto Rico Community Survey Data 
+4   What All Data Users Need to Know
+
+U.S. Census Bureau 
+ 
+In the ACS, Question 14 asks whether anyone in the household received benefits through the Food Stamp 
+Program or Supplemental Nutrition Assistance Program (SNAP) (see Figure 2.3). Puerto Rico operates a 
+“Nutritional Assistance Program” in place of SNAP, and eligibility requirements and benefit amounts are deter-
+mined by Puerto Rico, rather than the federal government.
+
+Figure 2.3.  ACS and PRCS Questions on Nutrition Assistance Program Benefits  
+
+2016 ACS Questionnaire 
+
+            2016 PRCS Questionnaire 
+
+Source: U.S. Census Bureau, 2016 ACS and PRCS Questionnaires, <www.census.gov/programs-surveys/acs/methodology 
+/questionnaire-archive.2016.html>.
+
+Figure 2.4 shows additional PRCS modifications to the questions on birthplace (nativity), citizenship, and year 
+of entry. For these questions, the differences are in the geographic areas emphasized in the question wording or 
+response options. For example, the “year of entry” question in the ACS asks when a respondent came to live in 
+the United States. In the PRCS, that same question asks when someone came to live in Puerto Rico.
+
+Figure 2.4.  ACS and PRCS Questions on Place of Birth, Citizenship, and Year of Entry  
+
+2016 ACS Questionnaire 
+
+    2016 PRCS Questionnaire 
+
+Source: U.S. Census Bureau, 2016 ACS and PRCS Questionnaires, <www.census.gov/programs-surveys/acs/methodology 
+/questionnaire-archive.2016.html>.
+
+Understanding and Using Puerto Rico Community Survey Data   5 
+What All Data Users Need to Know    5
+
+U.S. Census Bureau 
+Similarly, questions on migration and place of residence 1 year ago differ slightly between the two surveys (see 
+Figure 2.5). 
+
+Figure 2.5.  ACS and PRCS Questions on Migration/Residence 1 Year Ago  
+
+2016 ACS Questionnaire 
+
+    2016 PRCS Questionnaire 
+
+Source: U.S. Census Bureau, 2016 ACS and PRCS Questionnaires, <www.census.gov/programs-surveys/acs/methodology 
+/questionnaire-archive.2016.html>.
+
+6   Understanding and Using Puerto Rico Community Survey Data 
+6   What All Data Users Need to Know
+
+U.S. Census Bureau 
+The “place of work” question in the ACS asks the respondent to name the county and state of their work loca-
+tion, while the same question in the PRCS asks the person to name the Puerto Rico municipio as the first option, 
+while listing the U.S. county and state as an alternative (see Figure 2.6).13
+
+Figure 2.6.  ACS and PRCS Questions on Place of Work  
+
+2016 ACS Questionnaire 
+
+    2016 PRCS Questionnaire 
+
+Source: U.S. Census Bureau, 2016 ACS and PRCS Questionnaires, <www.census.gov/programs-surveys/acs/methodology 
+/questionnaire-archive.2016.html>.
+
+13 U.S. Census Bureau, American Community Survey (ACS), Questionnaire Archive, <www.census.gov/programs-surveys/acs/methodology 
+
+/questionnaire-archive.html>. 
+
+Understanding and Using Puerto Rico Community Survey Data   7 
+What All Data Users Need to Know    7
+
+U.S. Census Bureau 
+There are also differences in the ACS and PRCS questions on the means of transportation to work. The ACS 
+includes an option for “Streetcar or trolley car” while “Carro público,” or “public car” is included in the list of 
+options in the PRCS (see Figure 2.7).
+
+Figure 2.7.  ACS and PRCS Questions on Commuting  
+
+2016 ACS Questionnaire 
+
+             2016 PRCS Questionnaire 
+
+Source: U.S. Census Bureau, 2016 ACS and PRCS Questionnaires, <www.census.gov/programs-surveys/acs/methodology 
+/questionnaire-archive.2016.html>.
+
+Finally, Figure 2.8 shows a minor difference in the ACS and PRCS questions on class of worker. The ACS ques-
+tionnaire includes “county” as an example of a local government employee, while the PRCS questionnaire refers 
+to both “county” and “municipio” employees.
+
+Figure 2.8.  ACS and PRCS Questions on Class of Worker 
+
+2016 ACS Questionnaire 
+
+                2016 PRCS Questionnaire 
+
+Source: U.S. Census Bureau, 2016 ACS and PRCS Questionnaires, <www.census.gov/programs-surveys/acs/methodology 
+/questionnaire-archive.2016.html>.
+
+8   Understanding and Using Puerto Rico Community Survey Data 
+8   What All Data Users Need to Know
+
+U.S. Census BureauDifferences in Data Collection Methods and Population Controls
+
+Unlike the ACS, the PRCS does not have an Internet response option. As a result, the Census Bureau uses a differ-
+ent mail strategy to encourage households to complete the PRCS. About 4 days before the initial mail package, 
+addresses selected for the PRCS receive a prenotice letter, which addresses selected for the ACS do not receive. 
+The initial mail package for the PRCS contains the full questionnaire, rather than an instruction card for complet-
+ing the survey online, as is the case for the ACS mailing. In both cases, the replacement mail package for nonre-
+spondents is sent approximately 3 weeks after the initial mailing. In addition, the Census Bureau sends only two 
+reminder postcards for the PRCS, compared with three reminders for the ACS (two pressure seal letters and one 
+postcard). 
+
+As with most household surveys, the PRCS data are controlled so that the number of people in certain categories 
+agree with the Census Bureau’s official estimates. The PRCS, like the ACS, uses a weighting method to ensure 
+that estimates are consistent with official Census Bureau population control totals. However, there are minor dif-
+ferences in the controls used in the ACS and the PRCS. ACS estimates are controlled to the Census Bureau’s July 
+1 population estimate totals by age, sex, race, and Hispanic origin, while PRCS estimates are controlled to popula-
+tion estimates by age and sex only. Additionally, while both ACS and PRCS estimates are controlled to the popu-
+lation at the county (or municipio) level, they are not controlled to the sub-county level in Puerto Rico—unlike in 
+the 50 states and the District of Columbia.14  
+
+Housing unit totals in the ACS are controlled to the Census Bureau’s mid-year totals, but there are currently 
+no housing unit controls available for Puerto Rico.15 This is because the Census Bureau’s Population Estimates 
+Program only produces July 1 housing unit estimates for the 50 states and the District of Columbia. 
+
+More information about PRCS and ACS methods is available in the Census Bureau’s Design and Methodology 
+Report.16 
+
+14 Starting with the 2009 surveys, ACS estimates of the total population of incorporated places (self-governing cities, towns, or villages) and 
+
+minor civil divisions (such as county precincts) are also adjusted so that they are consistent with official population estimates. 
+
+15 U.S. Census Bureau, American Community Survey Design and Methodology Report (January 2014), pp. 153–154, <www.census.gov/programs 
+
+-surveys/acs/methodology/design-and-methodology.html>. 
+
+16 U.S. Census Bureau, American Community Survey Design and Methodology Report (January 2014), <www.census.gov/programs-surveys 
+
+/acs/methodology/design-and-methodology.html>. 
+
+Understanding and Using Puerto Rico Community Survey Data   9 
+What All Data Users Need to Know    9
+
+U.S. Census Bureau3. GEOGRAPHIC AREAS COVERED IN THE PRCS
+
+Data from the Puerto Rico Community Survey (PRCS) are tabulated for a variety of geographic areas ranging 
+from the Commonwealth to municipios, barrios, and subbarios. For reporting purposes, Puerto Rico (like the 
+United States as a whole) is subdivided into two main types of geographic areas, legal and statistical. Municipios 
+are the primary legal divisions of Puerto Rico. For data presentation purposes, the U.S. Census Bureau treats a 
+municipio as the equivalent of a county in the United States.
+
+The Census Bureau recognizes barrios and barrios-pueblo as the primary legal divisions of municipios. These 
+entities are similar to the minor civil divisions used for reporting data in 29 states of the United States. Subbarios 
+are subdivisions of barrios and barrios-pueblo.
+
+Statistical areas in Puerto Rico are defined by the Census Bureau in partnership with officials in Puerto Rico and 
+include areas like metropolitan and micropolitan statistical areas, urban areas, census tracts, and zonas urbanas. 
+The primary purpose of statistical areas is to tabulate and present decennial census and ACS/PRCS data. An 
+example of a statistical area is the San Juan-Carolina-Caguas Metropolitan Statistical Area. 
+
+There are no incorporated places in Puerto Rico; instead, the Census Bureau provides data for two types of 
+“census designated places”: zonas urbanas, representing the governmental center of each municipio, and comu-
+nidades, representing other settlements. 
+
+Figures 3.1 through 3.4 display sample maps of several key geographic areas available through the PRCS: 
+municipios, Public Use Microdata Areas (PUMAs), comunidades, and census tracts.
+
+There are 78 municipios in Puerto Rico, all of which are functioning governmental entities. PRCS 1-year estimates 
+are currently available for 11 of Puerto Rico’s 78 municipios—those with populations of 65,000 or more in 2016 
+(see Figure 3.1). Puerto Rico has 62 municipios with populations of at least 20,000 people that receive 1-year 
+Supplemental Estimates. The 16 municipios in Puerto Rico with fewer than 20,000 people only receive 5-year 
+estimates.
+
+Figure 3.1.  Municipios in Puerto Rico by Availability of PRCS Estimates in 2016
+
+Source: U.S. Census Bureau, American Community Survey data (2016, 2016 Supplemental, and 2012–2016),  
+<https://data.census.gov>; and Geography, Cartographic Boundary Shapefiles—County, <www.census.gov 
+/geographies/mapping-files/time-series/geo/carto-boundary-file.2016.html>. 
+
+10   Understanding and Using Puerto Rico Community Survey Data 
+10   What All Data Users Need to Know
+
+U.S. Census BureauAs with each state, the Census Bureau works with the Puerto Rico State Data Center to divide Puerto Rico into a 
+series of PUMAs with minimum populations of 100,000. PUMAs are constructed based on municipio and census 
+tract boundaries. Typically, municipios with large populations are subdivided into multiple PUMAs, while PUMAs 
+in more rural areas are made up of groups of adjacent municipios. PUMAs defined in Puerto Rico for the 2010 
+Census and beyond nest within the boundaries of the 11 municipio-based planning regions used to tabulate and 
+disseminate Economic Census data for Puerto Rico.
+
+Puerto Rico’s PUMAs are shown below in Figure 3.2. 
+
+Figure 3.2.  Public Use Microdata Areas in Puerto Rico
+
+Source: U.S. Census Bureau, Geography, Cartographic Boundary Shapefiles—Public Use Microdata Areas (PUMAs),  
+<www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.2016.html>.
+
+Puerto Rico also contains 253 census designated places, referred to as “comunidades” and “zonas urbanas.” As 
+Figure 3.3 shows, 94 percent of these places have fewer than 20,000 people and thus will receive only 5-year 
+estimates; in contrast, 1-year estimates are available for only six of these places.
+
+Figure 3.3.  Comunidades in Puerto Rico by Availability of PRCS Estimates in 2016
+
+Source: U.S. Census Bureau, American Community Survey data (2016, 2016 Supplemental, and 2012–2016),  
+<https://data.census.gov>; and Geography, Cartographic Boundary Shapefiles—Places (Incorporated Places and Census 
+Designated Places), <www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.2016 
+.html>. 
+
+Understanding and Using Puerto Rico Community Survey Data   11 
+What All Data Users Need to Know    11
+
+U.S. Census BureauCensus tracts—small subdivisions of counties that typically have between 1,200 and 8,000 residents, with an 
+optimum population of 4,000,—are commonly used to present information for areas approximately the size of 
+neighborhoods. Puerto Rico currently has 945 census tracts (see Figure 3.4).
+
+Figure 3.4.  Census Tracts in Puerto Rico
+
+Source: U.S. Census Bureau, Geography, Cartographic Boundary Shapefiles—Census Tracts, <www.census.gov 
+/geographies/mapping-files/time-series/geo/carto-boundary-file.2016.html>.
+
+There are also more than 300 PRCS data tables available for block groups—subdivisions of census tracts—that 
+include between 600 and 3,000 people each. In the PRCS, block groups are the lowest (smallest) level of geog-
+raphy published. Block group data are only available in the PRCS 5-year data products.   
+
+For more information about geographic areas covered by PRCS and ACS data, see the Census Bureau’s hand-
+book on Understanding and Using American Community Survey Data: What All Data Users Need to Know.17
+
+17 U.S. Census Bureau, American Community Survey, Understanding and Using American Community Survey Data: What All Data Users Need to 
+
+Know, <www.census.gov/programs-surveys/acs/guidance/handbooks/general.html>. 
+
+12   Understanding and Using Puerto Rico Community Survey Data 
+12   What All Data Users Need to Know
+
+U.S. Census Bureau4. ACCESSING PRCS DATA
+
+Data.census.gov is the U.S. Census Bureau’s primary tool for accessing population, housing, and economic data 
+from the Puerto Rico Community Survey (PRCS), the American Community Survey (ACS), the decennial census, 
+and many other Census Bureau data sets.18 Data.census.gov provides comprehensive access to pretabulated 
+PRCS data for a wide range of geographic areas, including Puerto Rico, municipios, census designated places, 
+census tracts, and block groups. 
+
+Suppose, for example, we are interested in finding poverty estimates for Puerto Rico. 
+
+•  Go to data.census.gov at <https://data.census.gov> and click on “Advanced Search” under the search bar 
+
+(see Figure 4.1). This will bring you to the Advanced Search page.
+
+Figure 4.1.  Selecting Advanced Search in Data.census.gov 
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+TIP: Data users who want to access PRCS estimates through data.census.gov will not see “PRCS” or “Puerto 
+Rico Community Survey” among the listed surveys. Rather, they can access PRCS estimates by using the geog-
+raphy filter to select data for Puerto Rico. However, there are certain tables produced only for Puerto Rico, with 
+names ending in “PR” such as “DP02PR.” For a complete list of ACS and PRCS tables, visit the Census Bureau’s 
+Table Shells and Table List Web page at <www.census.gov/programs-surveys/acs/technical-documentation 
+/table-shells.html>.
+
+18 Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>. 
+
+Understanding and Using Puerto Rico Community Survey Data   13 
+What All Data Users Need to Know    13
+
+U.S. Census Bureau•  Begin with the Geography filter. Select “Geography” in the navigation pane on the left side of the screen to 
+
+display a list of available geographies.
+
+•  Select “State” and then select “Puerto Rico” from the “State” filter (see Figure 4.2).
+
+Figure 4.2.  Geography Filter Selection in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+14   Understanding and Using Puerto Rico Community Survey Data 
+14   What All Data Users Need to Know
+
+U.S. Census Bureau•  Next, choose the “Surveys” filter and select “ACS 1-Year Estimates Subject Tables” (see Figure 4.3)
+
+Figure 4.3.  Selecting a Survey in Data.census.gov 
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+Understanding and Using Puerto Rico Community Survey Data   15 
+What All Data Users Need to Know    15
+
+U.S. Census Bureau•  For our example, choose the “Topics” filter and select “Income and Poverty,” “Poverty,” and “Poverty” again.
+
+•  The three filters should appear in the “Selected Filters” at the bottom of the page. 
+
+•  Next, click on “Search” in the lower right corner of the page (see Figure 4.4). 
+
+Figure 4.4.  Searching for Topics in Data.census.gov 
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+16   Understanding and Using Puerto Rico Community Survey Data 
+16   What All Data Users Need to Know
+
+U.S. Census Bureau•  Click on Table S1701 “Poverty Status in the Past 12 Months” (see Figure 4.5).
+
+Figure 4.5.  Choosing a Subject Table in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+Understanding and Using Puerto Rico Community Survey Data   17 
+What All Data Users Need to Know    17
+
+U.S. Census Bureau•  An online table showing poverty status for the population in Puerto Rico is displayed on the next screen. 
+
+•  From this page, users can click on “Customize Table” if they want to modify the geography, survey, year, or 
+
+topic (see Figure 4.6).
+
+Figure 4.6.  Customizing a Table in Data.census.gov 
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+18   Understanding and Using Puerto Rico Community Survey Data 
+18   What All Data Users Need to Know
+
+U.S. Census BureauOther Options for Accessing PRCS Data 
+
+Data users with programming skills can use the ACS Summary File for Puerto Rico to download and analyze ACS 
+data.19 The Summary File is useful for skilled programmers who want to access multiple ACS tables for large num-
+bers of geographic areas. Similar to data.census.gov, data users who want to access PRCS estimates through the 
+ACS Summary File will not see “PRCS” or “Puerto Rico Community Survey.” They can access PRCS estimates by 
+selecting Puerto Rico as their geography. 
+
+There are certain tables produced only for Puerto Rico with names ending in “PR” such as “B05001PR.” For a 
+complete list of ACS and PRCS tables, visit the Census Bureau’s Table Shells and Table List Web page at  
+<www.census.gov/programs-surveys/acs/technical-documentation/table-shells.html>.
+
+TIP: The ACS Summary File is geared toward more advanced data users, so the Census Bureau recommends 
+that users check to see if their tables of interest are easily available for download through data.census.gov 
+before using this data product. 
+
+The ACS Summary File can be downloaded as zipped files from the Census Bureau’s file transfer protocol (FTP) 
+server.20 
+
+Developers can also access PRCS data through the Census Bureau’s application programming interface (API).21  
+The Census Data API provides an efficient way to get ACS, PRCS, and other data directly from the Census 
+Bureau, without storing the data on a computer or a local server. If you know how to read the documentation 
+and create a request, you can easily download variables and geographic areas of interest. Data are continuously 
+available and regularly updated, so you have immediate access to new data as they are released. 
+
+Data users interested in creating custom ACS estimates for Puerto Rico can access microdata records from the 
+Census Bureau’s Public Use Microdata Sample (PUMS) files. Accessible through the Census Bureau’s Web site, 
+the ACS PUMS files allow users to create their own estimates with variables of their choosing.22 Estimates created 
+using the PUMS files may differ from published estimates available through data.census.gov because the PUMS 
+files are a subset of the cases contained in the full ACS data.
+
+TIP: Data users need to use statistical software, such as SPSS, SAS, R, or Stata, to process PUMS data, and the 
+responsibility for producing estimates from PUMS and judging their statistical significance is up to the data 
+user. 
+
+Data users interested in learning more about accessing data from the PRCS are encouraged to refer to the 
+section on “Accessing ACS Data” in the Census Bureau’s handbook on Understanding and Using American 
+Community Survey Data: What All Data Users Need to Know.23
+
+19 U.S. Census Bureau, American Community Survey (ACS), Summary File Data, <www.census.gov/programs-surveys/acs/data/summary-file 
+
+.html>. 
+
+20 U.S. Census Bureau, American Community Survey (ACS), Data via FTP, <www.census.gov/programs-surveys/acs/data/data-via-ftp.html>. 
+21 U.S. Census Bureau, Developers, Available APIs, <www.census.gov/data/developers/data-sets.html>. 
+22 U.S. Census Bureau, American Community Survey (ACS), PUMS Data, <www.census.gov/programs-surveys/acs/data/pums.html>. 
+23 U.S. Census Bureau, Understanding and Using American Community Survey Data: What All Data Users Need to Know, <www.census.gov 
+
+/programs-surveys/acs/guidance/handbooks/general.html>. 
+
+Understanding and Using Puerto Rico Community Survey Data   19 
+What All Data Users Need to Know    19
+
+U.S. Census Bureau5. CASE STUDIES USING PRCS DATA
+
+Case Study #1: Analyzing Child Poverty Rates Across Municipios
+
+Skill Level: Introductory/Intermediate 
+Subject: Child poverty 
+Type of Analysis: Analysis of  Puerto Rico Community Survey (PRCS) data across municipios in Puerto Rico 
+Tools Used: Data.census.gov, spreadsheet 
+Author: José Caraballo Cueto, Census Information Center, University of Puerto Rico
+
+Dr. José Caraballo Cueto is the director of the Census Information Center (CIC) at the University of Puerto Rico 
+(UPR) in Cayey. The CIC Program was established in 1988 through a joint agreement between the National Urban 
+League and the U.S. Census Bureau to support the dissemination of census data to underserved communities. 
+
+Since then, the CIC Network has become an official Census Bureau Program with a total of 59 organizations in 
+22 states, including the District of Columbia and Puerto Rico. The CIC at UPR in Cayey provides the university, 
+and the 11 municipios it serves, technical training in the use of census data. For this case study, Dr. Cueto analyzes 
+child poverty estimates in Puerto Rico across municipios, using Puerto Rico Community Survey (PRCS) data.
+
+His first step is to select the appropriate PRCS data set. While single-year data are available for many municipios, 
+he needs to use a 5-year ACS data set (for example, 2011–2015) if he wants data for every municipio in the 
+Commonwealth. He also knows that there is uncertainty—margin of error—associated with all the PRCS esti-
+mates, particularly for smaller geographic areas and small population groups. The 5-year estimates are more reli-
+able than 1-year estimates because they are based on larger sample sizes.
+
+Dr. Cueto starts his analysis by going to the data.census.gov Web site at <https://data.census.gov>.
+
+•  He types “Poverty” into the search bar on the data.census.gov home page and then clicks on the “Search” 
+
+button (see Figure 5.1). 
+
+Figure 5.1.  Searching for Poverty Tables in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+20   Understanding and Using Puerto Rico Community Survey Data 
+20   What All Data Users Need to Know
+
+U.S. Census Bureau•  On the next page, he clicks on the first table on “Poverty Status in the Past 12 Months,” which includes pov-
+
+erty estimates for the population under age 18 (see Figure 5.2).
+
+Figure 5.2.  Results of a Search for Poverty Tables in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+Understanding and Using Puerto Rico Community Survey Data   21 
+What All Data Users Need to Know    21
+
+U.S. Census Bureau•  Next, he selects the desired survey year by clicking on the current “Product” selection at the top of the page. 
+(For the purposes of this case study, he used 2015 ACS 5-year estimates because they were the most recent 
+data available at the time.)
+
+•  The header should read “2015 ACS 5-Year Estimates Subject Tables.” 
+
+•  Next, he clicks on the “Customize Table” button to select geographic areas of interest (see Figure 5.3).
+
+Figure 5.3.  Customizing a Table in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+•  On the next page, he scrolls to the top of the table and selects the Geography filter.
+
+•  He clicks on “State” and then selects “Puerto Rico” (see Figure 5.4). Puerto Rico is a territory of the United 
+States, but in data.census.gov, Puerto Rico is listed under the “State” category, and its municipios are listed 
+under the “County” category.
+
+Figure 5.4.  Selecting Data for Puerto Rico in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+22   Understanding and Using Puerto Rico Community Survey Data 
+22   What All Data Users Need to Know
+
+U.S. Census Bureau•  Next, he clicks on “County” and then “Puerto Rico” to display a list of municipios.
+
+•  He checks the box labeled “All counties in Puerto Rico.” He confirms that the “Selected Geographies” at the 
+
+bottom of the page list the geographies that he needs for his analysis. 
+
+•  He then clicks on the “Close” button in the lower right corner to view the table with his updated geography 
+
+selections (see Figure 5.5). 
+
+Figure 5.5.  Selecting Data for Puerto Rico Municipios in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+•  The online table displays data on children living in families below the poverty level. However, he decides to 
+
+export the full table into a spreadsheet.
+
+•  He clicks on the “Download” button at the top of the page (see Figure 5.6).
+
+Figure 5.6.  Downloading a Table in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+Understanding and Using Puerto Rico Community Survey Data   23 
+What All Data Users Need to Know    23
+
+U.S. Census Bureau•  He then uses the checkboxes to select the 2015 ACS 5-year data.
+
+•  He chooses the File Type (CSV).
+
+•  Finally, he clicks “Download” at the bottom of the screen. 
+
+•  When the file is ready, he clicks “Download Now” to save the file to his computer (see Figures 5.7 and 5.8).
+
+Figure 5.7.  Selecting a Survey Year and File Type in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+Figure 5.8.  Downloading Selected Files From Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+24   Understanding and Using Puerto Rico Community Survey Data 
+24   What All Data Users Need to Know
+
+U.S. Census Bureau•  Dr. Cueto opens the zipped CSV file (with prefix ACSST5Y2015.S1701_data_with_overlays) and sees that the 
+
+child poverty rate in Puerto Rico in 2011–2015 was 57.4 percent.
+
+•  Here, the results for municipios are presented in a map to show areas with the highest and lowest child pov-
+
+erty rates in the Commonwealth (see Figure 5.9). This map is featured in the CIC’s Poverty by Age and Sex in 
+Puerto Rico publication.24 
+
+Figure 5.9.  Map of Child Poverty Rates in Puerto Rico: 2011–2015
+
+Source: Author’s analysis of data from the U.S. Census Bureau, American Community Survey.
+
+24 University of Puerto Rico, Census Information Center, Poverty by Age Group and Sex in Puerto Rico, <www.upr.edu/iii-cayey/notas-del 
+
+-centro-de-informacion-censal-cic-24-pobreza-por-grupo-de-edad-y-sexo-en-puerto-rico/>. 
+
+Understanding and Using Puerto Rico Community Survey Data   25 
+What All Data Users Need to Know    25
+
+U.S. Census BureauCase Study #2: Youth Development Institute’s Child and Youth Well-Being Index
+
+Skill Level: Introductory/Intermediate 
+Subject: Child and youth well-being 
+Type of Analysis: Creation of well-being index by combining Puerto Rico Community Survey (PRCS) estimates 
+with data from other sources  
+Tools Used: Data.census.gov and spreadsheet 
+Author: Caridad Arroyo, Youth Development Institute (Instituto del Desarrollo de la Juventud)
+
+About Our Institute
+
+The Youth Development Institute of Puerto Rico (Instituto del Desarrollo de la Juventud, IDJ) is a nonprofit orga-
+nization working to advance public policies—at both the federal and commonwealth level—to improve the lives of 
+children and youth in Puerto Rico.25 Our work includes the collection and dissemination of data, development of 
+research-driven public policy recommendations, and advocacy work that is driven by both data and people. We 
+are the only organization focused on policy and advocacy around children’s issues in Puerto Rico. 
+
+The Child and Youth Well-Being Index
+
+Policymakers in Puerto Rico are hindered by a lack of up-to-date, reliable, and accessible data that provide 
+information about the local context. Reliable data for local areas are needed to promote conversation, citizen 
+participation, and public policy recommendations. Here is where the IDJ, in a strategic planning session, saw the 
+opportunity to raise awareness about the living conditions of children and youth in Puerto Rico through the Child 
+and Youth Well-Being Index.
+
+The Child and Youth Well-Being Index is a tool developed by the IDJ with the assistance of Puerto Rico’s Institute 
+of Statistics to examine the living conditions of children and youth in Puerto Rico. Data are from the Puerto 
+Rico Community Survey (PRCS) and several other federal data sources. After a process of validation with local 
+experts, we settled on an index with 27 indicators in five core areas of children’s development. The areas are 
+economy, education, family, health, and security. The criteria to include indicators in the Index were: 
+
+1.  Accessible and current data available every 1 or 2 years.
+
+2.  From a valid source of information—mainly from federal reports and the U.S. Census Bureau.
+
+3.  Consistent in their methodology over time to ensure valid comparisons across different years. 
+
+The method used to construct the index is similar to the method used by the World Bank in their Knowledge 
+Economy Index.26 This method allows us to normalize all data points in a uniform scale ranging from zero to 
+10. Standardization is important because the indicators are not available in the same unit of measurement. At 
+the end of the process, we calculate the mean of these normalized values and establish a grade, from A to F, to 
+describe the living conditions of children in the Commonwealth.  
+
+25 Youth Development Institute of Puerto Rico, <www.juventudpr.org/>. 
+26 World Bank, The knowledge economy, the KAM methodology and World Bank operations (English), <http://documents.worldbank.org 
+
+/curated/en/695211468153873436/The-knowledge-economy-the-KAM-methodology-and-World-Bank-operations>. 
+
+26   Understanding and Using Puerto Rico Community Survey Data 
+26   What All Data Users Need to Know
+
+U.S. Census BureauAccessing PRCS Data for the Index
+
+Of the 27 indicators in the Child and Youth Well-Being Index, 12 are drawn from the 2016 PRCS 1-year estimates. 
+Our first step to access these PRCS data is to identify the relevant tables that we need in data.census.gov.
+
+•  We navigate to the Census Bureau’s data.census.gov Web site <https://data.census.gov>. 
+
+•  We select the “Advanced Search” option, which allows users to conduct keyword searches or search by using 
+
+predefined topics, geographies, years, surveys, or codes (see Figure 5.10).
+
+Figure 5.10.  Selecting Advanced Search in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+Understanding and Using Puerto Rico Community Survey Data   27 
+What All Data Users Need to Know    27
+
+U.S. Census Bureau•  Next, we click on the Topic filter to display a list of available topics. For example, to find data on grandparents 
+responsible for their grandchildren under 18 years, we type “grandparents” into the search box and then click 
+on the “Grandparents and Grandchildren” box.
+
+•  After making our selection, we click on the “Search” box in the lower right corner (see Figure 5.11).
+
+•  Next, we click on “Tables” at the top of the page to display a list of potential tables on grandparents and 
+
+grandchildren.
+
+•  From this list, we can identify those that are best suited for our analysis. For the measure of grandparents 
+
+responsible for grandchildren, we select Table S1002 “Grandparents” (see Figure 5.12).
+
+Figure 5.11.  Searching for Topics in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+Figure 5.12.  Selecting a Table in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+28   Understanding and Using Puerto Rico Community Survey Data 
+28   What All Data Users Need to Know
+
+U.S. Census BureauBy repeating this process for different topics, we identify the PRCS tables that we need for our analysis. Table 5.1 
+provides a list of each measure and the source of the data in data.census.gov.
+
+  Table 5.1. Indicators and Source Tables From the PRCS 
+
+Indicator
+
+Table ID Table name
+
+Children under 18 years below the poverty level
+
+DP03
+
+Selected Economic Characteristics
+
+Median family income with children under 18 years S1903
+
+Median Income in the Past 12 Months (In 2016 
+Inflation-Adjusted Dollars)
+
+Unemployed teenagers between 16 and 19 years 
+not enrolled in school
+
+Families with children whose parents are unem-
+ployed or not in the labor force
+
+B14005 Sex by School Enrollment by Educational 
+Attainment by Employment Status for the 
+Population 16 To 19 Years
+
+B23007 Presence of Own Children Under 18 Years by 
+
+Family Type by Employment Status: Opposite-Sex 
+Married-Couple Families and Families Maintained 
+by Women and Men with No Spouse Present
+
+Children under 18 years not enrolled in school
+
+B14003 Sex by School Enrollment by Type of School by 
+
+Children between 3 to 4 years not enrolled in 
+school
+
+Teenagers between 16 and 19 years not enrolled 
+school and without high school diploma
+
+Households with children living in single-parent 
+families
+
+Age for the Population 3 Years and Over
+
+S1401
+
+School Enrollment
+
+B14005 Sex by School Enrollment by Educational 
+Attainment by Employment Status for the 
+Population 16 to 19 Years
+
+B09002 Own Children Under 18 Years by Family Type and 
+
+Age
+
+Households with children under 18 years receiv-
+ing food stamps
+
+S2201
+
+Food Stamps/Supplemental Nutrition Assistance 
+Program (SNAP)
+
+Women 15 to 50 years who had a birth in the 
+last 12 months and have less than a high school 
+diploma
+
+B13014 Women 15 to 50 Years Who Had a Birth in the 
+
+Past 12 Months by Marital Status and Educational 
+Attainment
+
+Grandparents responsible for their grandchildren 
+under 18 years
+
+S1002
+
+Grandparents
+
+Children under 18 years without health insurance
+
+S2701
+
+Selected Characteristics of Health Insurance 
+Coverage in the United States
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+Understanding and Using Puerto Rico Community Survey Data   29 
+What All Data Users Need to Know    29
+
+U.S. Census Bureau•  Now that we know the relevant table identifiers, we can use the search box to quickly find the data that we 
+
+need. For example, to get data on grandparents responsible for grandchildren, we can type “S1002” into the 
+search box and click “Search” (see Figure 5.13).
+
+Figure 5.13.  Searching for Tables in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+•  American Community Survey (ACS) estimates for Table S1002 are displayed on the data.census.gov Web site. 
+However, the default geography in data.census.gov is the United States, so we need to filter the results to get 
+data for Puerto Rico. 
+
+•  We click on the “Geographies” filter at the top of the page (see Figure 5.14). If the filters are not being dis-
+
+played, try expanding the size of the browser window, or click on the “Customize Table” button to view the 
+available filters.
+
+Figure 5.14.  Selecting Geographies in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+30   Understanding and Using Puerto Rico Community Survey Data 
+30   What All Data Users Need to Know
+
+U.S. Census Bureau•  We click on “State” and then select “Puerto Rico.” (Puerto Rico is a territory of the United States, but in  
+
+data.census.gov, Puerto Rico is listed under the “State” category.)
+
+•  Then we click “Close” in the lower right corner to view the results (see Figure 5.15)
+
+Figure 5.15.  Selecting Data for Puerto Rico in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+•  Next, we select the desired survey year by clicking on the current “Product” selection at the top of the page 
+(see Figure 5.16). For the purposes of this case study, we used 2016 ACS 1-year estimates because they were 
+the most recent data available at the time.
+
+Figure 5.16.  Customizing a Table in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+Understanding and Using Puerto Rico Community Survey Data   31 
+What All Data Users Need to Know    31
+
+U.S. Census Bureau•  Next, we right click on the table and select “Export Table” and then “Export to CSV” to download the data to 
+
+our computer (see Figure 5.17).
+
+Figure 5.17.  Exporting a Table in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+32   Understanding and Using Puerto Rico Community Survey Data 
+32   What All Data Users Need to Know
+
+U.S. Census BureauNow that we have the data in a spreadsheet format, we can manipulate it to produce the estimates we need. 
+From Table S1002, we calculate the share of grandparents responsible for grandchildren (40.5 percent) by 
+dividing the number of grandparents responsible for grandchildren (39,093) by the total number of grandpar-
+ents living with grandchildren (96,568) (see Table 5.2).27 
+
+  Table 5.2.  Portion of Table S1002 for Puerto Rico 
+
+Subject
+
+Total
+
+Percent distribution of grandparents responsible for grandchildren 
+
+Total
+
+30 to 59 years
+
+60 years and over
+
+Estimate
+
+Margin 
+of error Estimate
+
+Margin 
+of error Estimate
+
+Margin 
+of error Estimate
+
+Margin 
+of error
+
+Puerto Rico
+
+96,568
+
+±5,605
+
+39,093
+
+±3,548
+
+19,490
+
+±2,406
+
+19,603
+
+±2,583
+
+Grandparents living with own  
+grandchildren under 18 years
+
+Race and Hispanic or Latino Origin
+
+  One race
+
+    White
+
+    Black or African American
+
+    American Indian and Alaska  
+  Native
+
+    Asian
+
+    Native Hawaiian and Other  
+  Pacific Islander
+
+    Some other race
+
+  Two or more races
+
+Hispanic or Latino origin (of any  
+ race)
+
+N
+
+67.8%
+
+11.3%
+
+N
+
+±3.1
+
+±1.6
+
+N
+
+62.5%
+
+16.2%
+
+N
+
+±4.1
+
+±2.8
+
+N
+
+60.9%
+
+18.5%
+
+N
+
+±5.3
+
+±4.3
+
+N
+
+64.1%
+
+14.0%
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+16.3%
+
+4.4%
+
+±2.2
+
+±1.2
+
+16.2%
+
+4.9%
+
+±3.1
+
+±2.0
+
+16.2%
+
+4.4%
+
+±4.5
+
+±2.5
+
+16.3%
+
+5.4%
+
+98.8%
+
+±0.7
+
+99.5%
+
+±0.5
+
+99.4%
+
+±0.8
+
+99.6%
+
+N
+
+±6.2
+
+±3.9
+
+N
+
+N
+
+N
+
+±4.4
+
+±4.1
+
+±0.7
+
+N
+
+White alone, not Hispanic or Latino
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N The estimate and margin of error columns indicates that data for this geographic area cannot be displayed because the number of sample 
+cases is too small. 
+Source: U.S. Census Bureau, data.census.gov, Table S1002: Grandparents.
+
+27 U.S. Census Bureau, data.census.gov, Table S1002: Grandparents. 
+
+Understanding and Using Puerto Rico Community Survey Data   33 
+What All Data Users Need to Know    33
+
+U.S. Census BureauThe results are presented on our Puerto Rico’s Well-Being Index Web page.28 Data are available for each of 
+the 27 indicators across five social dimensions: Education, Family, Safety and Risk, Economy, and Health and 
+Lifestyles (see Figure 5.18). Users can also click the “Read More” option to get definitions and source information 
+or to compare the data for Puerto Rico with data for the 50 states and the District of Columbia.
+
+Figure 5.18.  Viewing Indicator Data on the Youth Development Institute Web Site
+
+Source: Youth Development Institute of Puerto Rico, Puerto Rico’s Well-Being Index, 
+ <http://juventudpr.org/en/data/well-being-index/puerto-ricos-well-being-index/>.
+
+28 Youth Development Institute of Puerto Rico, Puerto Rico’s Well-Being Index, <http://juventudpr.org/en/data/well-being-index/puerto 
+
+-ricos-well-being-index/>. 
+
+34   Understanding and Using Puerto Rico Community Survey Data 
+34   What All Data Users Need to Know
+
+U.S. Census BureauThe 27 individual indicator values are combined into a single summary measure to create the Child and Youth 
+Well-Being Index. These index values are presented for Puerto Rico and for each state and the District of 
+Columbia on the Youth Development Institute’s Web site (see Figure 5.19).29 Massachusetts and Minnesota have 
+among the highest (best) index values, scoring a “B,” while Puerto Rico ranks toward the bottom, scoring a “D.”
+
+Figure 5.19.  Visualizing the Well-Being Index for Children and Youth
+
+Source: Youth Development Institute of Puerto Rico, Puerto Rico’s Well-Being Index, 
+ <http://juventudpr.org/en/data/well-being-index/puerto-ricos-well-being-index/>.
+
+29 Youth Development Institute of Puerto Rico, Well-Being Index for Children and Youth, <http://juventudpr.org/en/data/well-being-index 
+
+/tabla-comparativa-con-eeuu/>. 
+
+Understanding and Using Puerto Rico Community Survey Data   35 
+What All Data Users Need to Know    35
+
+U.S. Census BureauCase Study #3: U.S. Migrants to Puerto Rico
+
+Skill Level: Introductory/Intermediate 
+Subject: Characteristics of Immigrants to Puerto Rico 
+Type of Analysis: Comparison of immigrants to total population in Puerto Rico by age and income over time 
+Tools Used: Data.census.gov and spreadsheet 
+Author: Alberto Velázquez, Puerto Rico Institute of Statistics (PRIS)
+
+At the Puerto Rico Institute of Statistics (PRIS), we keep track of migration flows in order to inform policymakers 
+and the public in general about the diverse characteristics of this dynamic population.30 The Puerto Rico 
+Community Survey (PRCS) collects data on multiple variables, such as age, sex, race, family and relationships, 
+income, education, health insurance, and disabilities (among other characteristics) of the Puerto Rican population. 
+The PRCS is the equivalent of the American Community Survey (ACS) for Puerto Rico.
+
+The PRCS 1-year estimates allow us to access data about the island’s population that migrated from the United 
+States from 2010 to 2016. Using these data, we compared the changing characteristics of the immigrant and total 
+populations in Puerto Rico, focusing on two variables: median age and median income.
+
+We accessed PRCS estimates for this analysis from data.census.gov, which consolidates data from the multiple 
+surveys and censuses published by the U.S. Census Bureau.31 Data.census.gov provides an interactive platform for 
+data users seeking population, housing, and economic information at the national, state, and county geographic 
+levels, among others.
+
+Accessing PRCS Data on U.S. Migrants to Puerto Rico
+
+•  Go to the data.census.gov Web site at <https://data.census.gov>.
+
+•  Click on “Advanced Search” under the search bar. This will bring you to the Advanced Search page (see 
+
+Figure 5.20).
+
+Figure 5.20.  Advanced Search in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+30 Puerto Rico Institute of Statistics, <https://estadisticas.pr/>. 
+31 U.S. Census Bureau, data.census.gov, <https://data.census.gov>. 
+
+36   Understanding and Using Puerto Rico Community Survey Data 
+36   What All Data Users Need to Know
+
+U.S. Census Bureau•  Begin with the Geography filter. Select “Geography” in the navigation pane on the left side of the screen to 
+
+display a list of available geographies.
+
+•  Select “State” and then select “Puerto Rico” from the “State” filter (see Figure 5.21). 
+
+Figure 5.21.  Geography Filter Selection in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+Understanding and Using Puerto Rico Community Survey Data   37 
+What All Data Users Need to Know    37
+
+U.S. Census Bureau•  Next, choose the “Topics” filter, select “Populations and People,” and select “Residential Mobility.”
+
+•  Both filters should appear in the “Selected Filters” at the bottom of the page.
+
+•  Next, click on “Search” in the lower right corner of the page (see Figure 5.22).
+
+Figure 5.22.  Residential Mobility Filter Selection in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+38   Understanding and Using Puerto Rico Community Survey Data 
+38   What All Data Users Need to Know
+
+U.S. Census Bureau•  To find PRCS data on U.S. migrants to Puerto Rico, click on Table S0701PR “Geographic Mobility by Selected 
+
+Characteristics in Puerto Rico” (see Figure 5.23).
+
+Figure 5.23.  Table Selection in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+•  Next, select “Customize Table” (see Figure 5.24).
+
+Figure 5.24.  Customize Table in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+Understanding and Using Puerto Rico Community Survey Data   39 
+What All Data Users Need to Know    39
+
+U.S. Census Bureau•  Select the desired survey year by clicking on the current “Product” selection. Make sure you select the most 
+recent data set available. When this analysis was initially conducted, the 2016 ACS 1-year estimates were the 
+most current. The header should read “2016 American Community Survey 1-Year Estimates” and the geogra-
+phy—“Puerto Rico” (see Figure 5.25).
+
+Figure 5.25.  Selecting the Survey Year in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+•  Select “Download” at the top of the window. Then, use the Download Tables window to check the boxes for 
+
+the 2010 to 2016 PRCS 1-year data. Select “CSV” as the file type and click on “Download” (see Figure 5.26).
+
+Figure 5.26.  Survey Year and File Type Selection in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+40   Understanding and Using Puerto Rico Community Survey Data 
+40   What All Data Users Need to Know
+
+U.S. Census Bureau•  After the files are prepared, click the “Download Now” button (see Figure 5.27).
+
+Figure 5.27.  Download Tables in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+This will produce the zip file. Open the zip file to extract your tables. The data are located in a series of CSV 
+files—one file for each year—with the following prefixes: 
+
+•  ACSST1Y2010.S0701PR_data_with_overlays
+
+•  ACSST1Y2011.S0701PR_data_with_overlays
+
+•  ACSST1Y2012.S0701PR_data_with_overlays
+
+•  ACSST1Y2013.S0701PR_data_with_overlays
+
+•  ACSST1Y2014.S0701PR_data_with_overlays
+
+•  ACSST1Y2015.S0701PR_data_with_overlays
+
+•  ACSST1Y2016.S0701PR_data_with_overlays
+
+Understanding and Using Puerto Rico Community Survey Data   41 
+What All Data Users Need to Know    41
+
+U.S. Census BureauTo analyze the selected characteristics over time, we created charts to display trends in median age and median 
+income during the period (see Figure 5.28).
+
+Figure 5.28.  Median Age and Median Income Among the Immigrant and Total       
+                    Population in Puerto Rico: 2010 to 2016
+
+Source: Author’s analysis of data from the U.S. Census Bureau, American Community Survey.
+
+42   Understanding and Using Puerto Rico Community Survey Data 
+42   What All Data Users Need to Know
+
+U.S. Census BureauWe do not include the margins of error (MOEs) in the graphical representations of the data, because we want to 
+present a basic comparison of the point estimates between the immigrant population and the total population of 
+Puerto Rico. However, respective MOEs for the point estimates are included in Table 5.3.
+
+ Table 5.3. Median Age and Median Income for the Immigrant and Total Puerto Rico Population: 2010 to 2016 
+
+Median Age
+
+Median Income
+
+Year
+
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+
+Total PR
+
+MOE
+
+Immigrant
+
+MOE
+
+Total PR
+
+37.7
+37.9
+38.3
+38.9
+39.8
+40.4
+41.0
+
+±0.2
+±0.2
+±0.2
+±0.2
+±0.2
+±0.2
+±0.2
+
+28.0
+32.8
+33.4
+34.4
+41.5
+30.4
+29.9
+
+±3.3
+±5.2
+±2.5
+±4.1
+±4.8
+±3.5
+±4.4
+
+$11,931 
+$11,937 
+$12,317 
+$12,283 
+$12,212 
+$12,259 
+$12,581 
+
+MOE
+
+±124
+±159
+±152
+±141
+±151
+±135
+±220
+
+Immigrant
+
+$9,300 
+$11,611 
+$9,598 
+$10,560 
+$11,577 
+$11,114 
+$11,913 
+
+MOE
+
+±1,243
+±1,454
+±1,537
+±1,309
+±2,829
+±1,218
+±2,550
+
+Source: Author’s analysis of data from the U.S. Census Bureau, American Community Survey.
+
+The results allow a comparison of age and income between recent immigrants to Puerto Rico and the total popu-
+lation on the island, and how these characteristics have changed over time. This analysis helps the PRIS advise 
+policymakers and the public about changes in the characteristics of the Commonwealth’s dynamic immigrant 
+population. These analyses are included in PRIS’s annual report, “Migrant Population Profile,” available in the pub-
+lications section of our Web site32 
+
+32 Puerto Rico Institute of Statistics, Publications, Perfil del Migrante, <https://estadisticas.pr/en/publicaciones/perfil-del-migrante>. 
+
+Understanding and Using Puerto Rico Community Survey Data   43 
+What All Data Users Need to Know    43
+
+U.S. Census Bureau 
+6. ADDITIONAL RESOURCES
+
+U.S. Census Bureau, About the Puerto Rico Community Survey 
+<www.census.gov/programs-surveys/acs/about/puerto-rico-community-survey.html>.
+
+U.S. Census Bureau, What Is the American Community Survey? 
+<www.census.gov/programs-surveys/acs/about.html>. 
+
+U.S. Census Bureau, Understanding and Using American Community Survey Data: 
+What All Data Users Need to Know  
+<www.census.gov/programs-surveys/acs/guidance/handbooks/general.html>.
+
+U.S. Census Bureau, ACS Data Releases 
+<www.census.gov/programs-surveys/acs/news/data-releases.html>.
+
+U.S. Census Bureau, Geography and ACS  
+<www.census.gov/programs-surveys/acs/geography-acs.html>.
+
+U.S. Census Bureau, ACS Data Tables and Tools  
+<www.census.gov/acs/www/data/data-tables-and-tools/>.
+
+U.S. Census Bureau, data.census.gov Resources 
+<www.census.gov/data/what-is-data-census-gov.html>.
+
+44   Understanding and Using Puerto Rico Community Survey Data 
+44   What All Data Users Need to Know
+
+U.S. Census Bureau

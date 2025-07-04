@@ -1,0 +1,851 @@
+{
+  "variable_id": "B24010I_039E",
+  "geography_weight": 0.29472180712393486,
+  "other_weights": {
+    "economics": 0.2218242592311473,
+    "education": 0.24864657971198467,
+    "specialized_populations": 0.23480735393293317
+  }
+}
+{
+  "variable_id": "B24010B_023E",
+  "geography_weight": 0.2909795337670284,
+  "other_weights": {
+    "economics": 0.22946641527407283,
+    "education": 0.24092430684599347,
+    "specialized_populations": 0.2386297441129053
+  }
+}
+{
+  "variable_id": "B14005_021E",
+  "geography_weight": 0.28041335374630055,
+  "other_weights": {
+    "economics": 0.23224674012840693,
+    "education": 0.26804504604134194,
+    "specialized_populations": 0.2192948600839506
+  }
+}
+{
+  "variable_id": "B27001I_026E",
+  "geography_weight": 0.3787243960547655,
+  "other_weights": {
+    "education": 0.3076876259832423,
+    "specialized_populations": 0.3135879779619922
+  }
+}
+{
+  "variable_id": "C24010_066E",
+  "geography_weight": 0.3848368747966698,
+  "other_weights": {
+    "economics": 0.28721153943324074,
+    "education": 0.3279515857700895
+  }
+}
+{
+  "variable_id": "B08134_011E",
+  "geography_weight": 0.4358086704604774,
+  "other_weights": {
+    "economics": 0.2621149505105811,
+    "education": 0.30207637902894147
+  }
+}
+{
+  "variable_id": "B20005A_048E",
+  "geography_weight": 0.35386500662291076,
+  "other_weights": {
+    "economics": 0.3200877718675456,
+    "education": 0.3260472215095436
+  }
+}
+{
+  "variable_id": "B19051_002E",
+  "geography_weight": 0.35720642754958426,
+  "other_weights": {
+    "economics": 0.32522463822488706,
+    "education": 0.3175689342255287
+  }
+}
+{
+  "variable_id": "B24122_187E",
+  "geography_weight": 0.3751963929336808,
+  "other_weights": {
+    "economics": 0.310264143945792,
+    "education": 0.3145394631205273
+  }
+}
+{
+  "variable_id": "B01001F_018E",
+  "geography_weight": 0.30281914845102786,
+  "other_weights": {
+    "core_demographics": 0.21474589807148442,
+    "education": 0.2335051906584068,
+    "specialized_populations": 0.24892976281908094
+  }
+}
+{
+  "variable_id": "B01001G_020E",
+  "geography_weight": 0.30236421342945885,
+  "other_weights": {
+    "core_demographics": 0.21131099999971212,
+    "education": 0.2383345745325496,
+    "specialized_populations": 0.24799021203827942
+  }
+}
+{
+  "variable_id": "B19081_002E",
+  "geography_weight": 0.38279495335921615,
+  "other_weights": {
+    "economics": 0.31259415327388673,
+    "education": 0.3046108933668971
+  }
+}
+{
+  "variable_id": "B18131_028E",
+  "geography_weight": 0.2895084473414708,
+  "other_weights": {
+    "economics": 0.22798512105898303,
+    "education": 0.2551049013935951,
+    "specialized_populations": 0.22740153020595105
+  }
+}
+{
+  "variable_id": "B18131_001E",
+  "geography_weight": 0.2949671728401591,
+  "other_weights": {
+    "economics": 0.22117011801620345,
+    "education": 0.24793234898945177,
+    "specialized_populations": 0.23593036015418567
+  }
+}
+{
+  "variable_id": "B24122_503E",
+  "geography_weight": 0.37806301397545167,
+  "other_weights": {
+    "economics": 0.3112751937943368,
+    "education": 0.3106617922302115
+  }
+}
+{
+  "variable_id": "B19001_015E",
+  "geography_weight": 0.41380325714012084,
+  "other_weights": {
+    "economics": 0.2827822185200097,
+    "education": 0.3034145243398695
+  }
+}
+{
+  "variable_id": "B18131_094E",
+  "geography_weight": 0.3915164360859876,
+  "other_weights": {
+    "education": 0.3207511194579029,
+    "specialized_populations": 0.2877324444561095
+  }
+}
+{
+  "variable_id": "B24010I_062E",
+  "geography_weight": 0.29972374006481095,
+  "other_weights": {
+    "economics": 0.223673442718672,
+    "education": 0.234893736846474,
+    "specialized_populations": 0.24170908037004302
+  }
+}
+{
+  "variable_id": "B25032C_001E",
+  "geography_weight": 0.4207272324687678,
+  "other_weights": {
+    "housing": 0.28014751139245087,
+    "specialized_populations": 0.2991252561387813
+  }
+}
+{
+  "variable_id": "B17001B_047E",
+  "geography_weight": 0.3050936165253487,
+  "other_weights": {
+    "economics": 0.23241464144161283,
+    "education": 0.24244283378497208,
+    "specialized_populations": 0.2200489082480664
+  }
+}
+{
+  "variable_id": "B27003_013E",
+  "geography_weight": 0.38154708760184014,
+  "other_weights": {
+    "education": 0.3244620094683373,
+    "specialized_populations": 0.29399090292982255
+  }
+}
+{
+  "variable_id": "B24122_299E",
+  "geography_weight": 0.3677646838105893,
+  "other_weights": {
+    "economics": 0.3089063130462701,
+    "education": 0.3233290031431406
+  }
+}
+{
+  "variable_id": "C17002_006E",
+  "geography_weight": 0.384371365051176,
+  "other_weights": {
+    "economics": 0.29604424541699076,
+    "education": 0.31958438953183327
+  }
+}
+{
+  "variable_id": "B23001_127E",
+  "geography_weight": 0.2873024142794386,
+  "other_weights": {
+    "economics": 0.23718120901029896,
+    "education": 0.25157138749608,
+    "specialized_populations": 0.22394498921418246
+  }
+}
+{
+  "variable_id": "C24010C_004E",
+  "geography_weight": 0.2804622352086178,
+  "other_weights": {
+    "economics": 0.23484085992475484,
+    "education": 0.23281634871195092,
+    "specialized_populations": 0.25188055615467647
+  }
+}
+{
+  "variable_id": "B25017_006E",
+  "geography_weight": 0.252547880212625,
+  "other_weights": {
+    "economics": 0.1828925012579228,
+    "education": 0.18307248883760424,
+    "housing": 0.19384169412798927,
+    "specialized_populations": 0.18764543556385868
+  }
+}
+{
+  "variable_id": "B24010_222E",
+  "geography_weight": 0.4007131296925834,
+  "other_weights": {
+    "economics": 0.28707287348936456,
+    "education": 0.31221399681805206
+  }
+}
+{
+  "variable_id": "B20005A_046E",
+  "geography_weight": 0.33919786493012877,
+  "other_weights": {
+    "economics": 0.3312800694223592,
+    "education": 0.329522065647512
+  }
+}
+{
+  "variable_id": "B08006_008E",
+  "geography_weight": 0.27667194688212854,
+  "other_weights": {
+    "economics": 0.23394409042448605,
+    "education": 0.22628013955975462,
+    "transportation": 0.2631038231336308
+  }
+}
+{
+  "variable_id": "B05006_020E",
+  "geography_weight": 0.4000493814928952,
+  "other_weights": {
+    "education": 0.2884518951167878,
+    "specialized_populations": 0.311498723390317
+  }
+}
+{
+  "variable_id": "B24010_245E",
+  "geography_weight": 0.39149585345080234,
+  "other_weights": {
+    "economics": 0.2938780755317689,
+    "education": 0.31462607101742873
+  }
+}
+{
+  "variable_id": "B24010G_001E",
+  "geography_weight": 0.3960117778460692,
+  "other_weights": {
+    "education": 0.29974680569032064,
+    "specialized_populations": 0.30424141646361014
+  }
+}
+{
+  "variable_id": "B01002G_003E",
+  "geography_weight": 0.22204630600649503,
+  "other_weights": {
+    "core_demographics": 0.19006920763426666,
+    "economics": 0.19143727802378524,
+    "education": 0.20506672856143843,
+    "specialized_populations": 0.19138047977401465
+  }
+}
+{
+  "variable_id": "B25121_099E",
+  "geography_weight": 0.2935205710693492,
+  "other_weights": {
+    "economics": 0.22468773902074768,
+    "education": 0.23350839956005007,
+    "housing": 0.24828329034985305
+  }
+}
+{
+  "variable_id": "B17010B_023E",
+  "geography_weight": 0.30503844327957047,
+  "other_weights": {
+    "economics": 0.2428374841473656,
+    "education": 0.2379427347291207,
+    "specialized_populations": 0.21418133784394325
+  }
+}
+{
+  "variable_id": "B11001B_006E",
+  "geography_weight": 0.40999627885956985,
+  "other_weights": {
+    "education": 0.29701420249008836,
+    "specialized_populations": 0.2929895186503418
+  }
+}
+{
+  "variable_id": "B14007G_019E",
+  "geography_weight": 0.289461594206578,
+  "other_weights": {
+    "economics": 0.21392298353628345,
+    "education": 0.2698113869266828,
+    "specialized_populations": 0.22680403533045576
+  }
+}
+{
+  "variable_id": "B24122_073E",
+  "geography_weight": 0.3733391240992869,
+  "other_weights": {
+    "economics": 0.3007220911742086,
+    "education": 0.32593878472650445
+  }
+}
+{
+  "variable_id": "C24010D_004E",
+  "geography_weight": 0.38254430269002326,
+  "other_weights": {
+    "education": 0.3061123415913226,
+    "specialized_populations": 0.3113433557186541
+  }
+}
+{
+  "variable_id": "B01001H_002E",
+  "geography_weight": 0.30866476242917484,
+  "other_weights": {
+    "core_demographics": 0.22378399150654332,
+    "education": 0.21619518849415942,
+    "specialized_populations": 0.2513560575701224
+  }
+}
+{
+  "variable_id": "B25032B_006E",
+  "geography_weight": 0.3305981246923149,
+  "other_weights": {
+    "education": 0.2276631176653371,
+    "housing": 0.2152597818765587,
+    "specialized_populations": 0.22647897576578932
+  }
+}
+{
+  "variable_id": "B21001C_007E",
+  "geography_weight": 0.40424706300685725,
+  "other_weights": {
+    "education": 0.28266465398672963,
+    "specialized_populations": 0.31308828300641306
+  }
+}
+{
+  "variable_id": "B10051_002E",
+  "geography_weight": 0.3795331716589821,
+  "other_weights": {
+    "education": 0.300435315529749,
+    "specialized_populations": 0.3200315128112689
+  }
+}
+{
+  "variable_id": "B05003E_009E",
+  "geography_weight": 0.3590504871280445,
+  "other_weights": {
+    "education": 0.275927240392053,
+    "specialized_populations": 0.36502227247990254
+  }
+}
+{
+  "variable_id": "B24010_003E",
+  "geography_weight": 0.4146585483664316,
+  "other_weights": {
+    "economics": 0.2885415175329463,
+    "education": 0.2967999341006221
+  }
+}
+{
+  "variable_id": "B17010D_006E",
+  "geography_weight": 0.3102587264856816,
+  "other_weights": {
+    "economics": 0.23790697029124558,
+    "education": 0.2368831558105216,
+    "specialized_populations": 0.2149511474125512
+  }
+}
+{
+  "variable_id": "C24050_029E",
+  "geography_weight": 0.3254830489256519,
+  "other_weights": {
+    "economics": 0.21018789187179143,
+    "education": 0.25450061166186,
+    "specialized_populations": 0.20982844754069668
+  }
+}
+{
+  "variable_id": "B25115_001E",
+  "geography_weight": 0.43173181746453354,
+  "other_weights": {
+    "education": 0.2926932268948661,
+    "specialized_populations": 0.2755749556406003
+  }
+}
+{
+  "variable_id": "B04006_024E",
+  "geography_weight": 0.37144965855688544,
+  "other_weights": {
+    "education": 0.26574412222971905,
+    "specialized_populations": 0.3628062192133955
+  }
+}
+{
+  "variable_id": "B07001PR_064E",
+  "geography_weight": 0.40276559163842446,
+  "other_weights": {
+    "education": 0.3075943610228469,
+    "specialized_populations": 0.28964004733872867
+  }
+}
+{
+  "variable_id": "B21001H_019E",
+  "geography_weight": 0.37021431951740574,
+  "other_weights": {
+    "education": 0.3005573926048229,
+    "specialized_populations": 0.32922828787777136
+  }
+}
+{
+  "variable_id": "B01001_003E",
+  "geography_weight": 0.3133702548724227,
+  "other_weights": {
+    "economics": 0.2157372980159923,
+    "education": 0.24806537859175004,
+    "specialized_populations": 0.22282706851983494
+  }
+}
+{
+  "variable_id": "B25075_011E",
+  "geography_weight": 0.38875389026556395,
+  "other_weights": {
+    "education": 0.2946676804907838,
+    "housing": 0.31657842924365226
+  }
+}
+{
+  "variable_id": "B15002_029E",
+  "geography_weight": 0.3516973971688478,
+  "other_weights": {
+    "education": 0.37505312940595925,
+    "specialized_populations": 0.27324947342519296
+  }
+}
+{
+  "variable_id": "B25075_013E",
+  "geography_weight": 0.31665368001330096,
+  "other_weights": {
+    "economics": 0.2043357545876536,
+    "education": 0.22224156296914505,
+    "housing": 0.2567690024299004
+  }
+}
+{
+  "variable_id": "B14007H_016E",
+  "geography_weight": 0.2875247545431299,
+  "other_weights": {
+    "economics": 0.21697790950802745,
+    "education": 0.276925072187068,
+    "specialized_populations": 0.21857226376177458
+  }
+}
+{
+  "variable_id": "B24122_321E",
+  "geography_weight": 0.28195975259092065,
+  "other_weights": {
+    "economics": 0.2502174563736459,
+    "education": 0.24473809730053186,
+    "housing": 0.22308469373490158
+  }
+}
+{
+  "variable_id": "B21001I_028E",
+  "geography_weight": 0.3810944161211022,
+  "other_weights": {
+    "education": 0.2925825082126711,
+    "specialized_populations": 0.3263230756662267
+  }
+}
+{
+  "variable_id": "B24010_251E",
+  "geography_weight": 0.4076563647630104,
+  "other_weights": {
+    "economics": 0.28021364085170475,
+    "education": 0.3121299943852848
+  }
+}
+{
+  "variable_id": "B09001_009E",
+  "geography_weight": 0.30738327401957183,
+  "other_weights": {
+    "economics": 0.21708379693256705,
+    "education": 0.2526776343565422,
+    "specialized_populations": 0.22285529469131893
+  }
+}
+{
+  "variable_id": "B24122_521E",
+  "geography_weight": 0.3571213113427194,
+  "other_weights": {
+    "economics": 0.31935772106909194,
+    "education": 0.32352096758818866
+  }
+}
+{
+  "variable_id": "B13016_014E",
+  "geography_weight": 0.29717280866300055,
+  "other_weights": {
+    "economics": 0.22246581652130717,
+    "education": 0.24545427942968492,
+    "specialized_populations": 0.23490709538600732
+  }
+}
+{
+  "variable_id": "B24010_094E",
+  "geography_weight": 0.39601945747060385,
+  "other_weights": {
+    "economics": 0.2988204942811719,
+    "education": 0.30516004824822424
+  }
+}
+{
+  "variable_id": "B01001_004E",
+  "geography_weight": 0.30513332680533567,
+  "other_weights": {
+    "economics": 0.21628576112051742,
+    "education": 0.2481860381879988,
+    "specialized_populations": 0.2303948738861481
+  }
+}
+{
+  "variable_id": "B14006_016E",
+  "geography_weight": 0.36941697693209913,
+  "other_weights": {
+    "economics": 0.2915033878577469,
+    "education": 0.339079635210154
+  }
+}
+{
+  "variable_id": "B07001_031E",
+  "geography_weight": 0.5933402045197292,
+  "other_weights": {
+    "education": 0.4066597954802708
+  }
+}
+{
+  "variable_id": "B24010I_029E",
+  "geography_weight": 0.30593272561270823,
+  "other_weights": {
+    "economics": 0.22291659840228778,
+    "education": 0.2350081340910403,
+    "specialized_populations": 0.2361425418939637
+  }
+}
+{
+  "variable_id": "B11001F_001E",
+  "geography_weight": 0.2467008183850965,
+  "other_weights": {
+    "economics": 0.1796174283930826,
+    "education": 0.195380330667174,
+    "housing": 0.18066450113632415,
+    "specialized_populations": 0.1976369214183228
+  }
+}
+{
+  "variable_id": "B17010I_001E",
+  "geography_weight": 0.3085211460926859,
+  "other_weights": {
+    "economics": 0.22425085990351218,
+    "education": 0.22795262935986702,
+    "specialized_populations": 0.23927536464393492
+  }
+}
+{
+  "variable_id": "B17010F_001E",
+  "geography_weight": 0.3274286915060214,
+  "other_weights": {
+    "economics": 0.21839887208018402,
+    "education": 0.23550986059085033,
+    "specialized_populations": 0.21866257582294427
+  }
+}
+{
+  "variable_id": "B24010_126E",
+  "geography_weight": 0.31088689734346364,
+  "other_weights": {
+    "economics": 0.2299659434099631,
+    "education": 0.24011550620281005,
+    "specialized_populations": 0.21903165304376324
+  }
+}
+{
+  "variable_id": "C24010_064E",
+  "geography_weight": 0.39847835369643825,
+  "other_weights": {
+    "economics": 0.2748303066009508,
+    "education": 0.3266913397026109
+  }
+}
+{
+  "variable_id": "B19301E_001E",
+  "geography_weight": 0.293184636015715,
+  "other_weights": {
+    "economics": 0.24702029218449945,
+    "education": 0.24324968145822468,
+    "specialized_populations": 0.21654539034156092
+  }
+}
+{
+  "variable_id": "B24010G_021E",
+  "geography_weight": 0.3001709860710166,
+  "other_weights": {
+    "economics": 0.22731766601109588,
+    "education": 0.24046001924867463,
+    "specialized_populations": 0.23205132866921288
+  }
+}
+{
+  "variable_id": "B04006_048E",
+  "geography_weight": 0.3697461238689032,
+  "other_weights": {
+    "education": 0.2698180042202897,
+    "specialized_populations": 0.36043587191080706
+  }
+}
+{
+  "variable_id": "B17001A_038E",
+  "geography_weight": 0.3702657261674283,
+  "other_weights": {
+    "economics": 0.31748223304829004,
+    "education": 0.31225204078428165
+  }
+}
+{
+  "variable_id": "B24010B_014E",
+  "geography_weight": 0.39676781496650065,
+  "other_weights": {
+    "education": 0.317624697432006,
+    "specialized_populations": 0.28560748760149335
+  }
+}
+{
+  "variable_id": "B08101_036E",
+  "geography_weight": 0.26573501613182166,
+  "other_weights": {
+    "economics": 0.2346261271834853,
+    "education": 0.2330228543245452,
+    "transportation": 0.2666160023601479
+  }
+}
+{
+  "variable_id": "C24050_032E",
+  "geography_weight": 0.33545431471766746,
+  "other_weights": {
+    "economics": 0.20851190855728566,
+    "education": 0.24551533028207856,
+    "specialized_populations": 0.21051844644296835
+  }
+}
+{
+  "variable_id": "B25041_001E",
+  "geography_weight": 0.3192360171528094,
+  "other_weights": {
+    "education": 0.2198509657598537,
+    "housing": 0.23663772189038063,
+    "specialized_populations": 0.22427529519695624
+  }
+}
+{
+  "variable_id": "B18101_029E",
+  "geography_weight": 0.3791674321860585,
+  "other_weights": {
+    "education": 0.32567791893292164,
+    "specialized_populations": 0.29515464888101983
+  }
+}
+{
+  "variable_id": "B17001B_035E",
+  "geography_weight": 0.3093370804303213,
+  "other_weights": {
+    "economics": 0.22062594173889397,
+    "education": 0.249300127304,
+    "specialized_populations": 0.22073685052678468
+  }
+}
+{
+  "variable_id": "B19019_005E",
+  "geography_weight": 0.37148040727535475,
+  "other_weights": {
+    "economics": 0.3204351306385883,
+    "education": 0.308084462086057
+  }
+}
+{
+  "variable_id": "B25124_014E",
+  "geography_weight": 0.3302982935720796,
+  "other_weights": {
+    "education": 0.23974334893578964,
+    "housing": 0.22061872106365174,
+    "specialized_populations": 0.20933963642847903
+  }
+}
+{
+  "variable_id": "B24122_238E",
+  "geography_weight": 0.36781231538950687,
+  "other_weights": {
+    "economics": 0.31606762886779993,
+    "education": 0.3161200557426932
+  }
+}
+{
+  "variable_id": "B08119_050E",
+  "geography_weight": 0.30164600313739415,
+  "other_weights": {
+    "economics": 0.23225328075638862,
+    "education": 0.229701647493914,
+    "transportation": 0.2363990686123032
+  }
+}
+{
+  "variable_id": "B24010G_042E",
+  "geography_weight": 0.397675867892547,
+  "other_weights": {
+    "economics": 0.2828385732428787,
+    "education": 0.3194855588645743
+  }
+}
+{
+  "variable_id": "B24122_083E",
+  "geography_weight": 0.3824854203889009,
+  "other_weights": {
+    "economics": 0.298845015902042,
+    "education": 0.31866956370905714
+  }
+}
+{
+  "variable_id": "B05003F_016E",
+  "geography_weight": 0.2852089323534245,
+  "other_weights": {
+    "core_demographics": 0.2121125741950866,
+    "education": 0.22810770079498302,
+    "specialized_populations": 0.2745707926565059
+  }
+}
+{
+  "variable_id": "B17001G_008E",
+  "geography_weight": 0.3113215647963773,
+  "other_weights": {
+    "economics": 0.22369613985946468,
+    "education": 0.2470963653946237,
+    "specialized_populations": 0.21788592994953432
+  }
+}
+{
+  "variable_id": "B15002_026E",
+  "geography_weight": 0.2937404339506491,
+  "other_weights": {
+    "economics": 0.20737107568636218,
+    "education": 0.28518588785676974,
+    "specialized_populations": 0.21370260250621897
+  }
+}
+{
+  "variable_id": "B25141_010E",
+  "geography_weight": 0.34451045869020014,
+  "other_weights": {
+    "economics": 0.2036687721569616,
+    "education": 0.23827389274631786,
+    "housing": 0.2135468764065204
+  }
+}
+{
+  "variable_id": "C24010G_007E",
+  "geography_weight": 0.30141503821988647,
+  "other_weights": {
+    "economics": 0.22205080440516647,
+    "education": 0.2473922324723831,
+    "specialized_populations": 0.22914192490256396
+  }
+}
+{
+  "variable_id": "B04006_035E",
+  "geography_weight": 0.3754309788207757,
+  "other_weights": {
+    "education": 0.2744346615736651,
+    "specialized_populations": 0.3501343596055592
+  }
+}
+{
+  "variable_id": "B23022_031E",
+  "geography_weight": 0.288511201684011,
+  "other_weights": {
+    "economics": 0.22711903704221378,
+    "education": 0.2567269667126338,
+    "specialized_populations": 0.22764279456114142
+  }
+}
+{
+  "variable_id": "B05007_090E",
+  "geography_weight": 0.3747520388541481,
+  "other_weights": {
+    "education": 0.2741069381636692,
+    "specialized_populations": 0.3511410229821827
+  }
+}
+{
+  "variable_id": "B25007_012E",
+  "geography_weight": 0.20634159575472108,
+  "other_weights": {
+    "economics": 0.19579759487141796,
+    "education": 0.20900650672006663,
+    "housing": 0.19552358579754428,
+    "specialized_populations": 0.19333071685625006
+  }
+}
+{
+  "variable_id": "B21003_001E",
+  "geography_weight": 0.3831640158325752,
+  "other_weights": {
+    "education": 0.31489040486406766,
+    "specialized_populations": 0.30194557930335714
+  }
+}
+{
+  "variable_id": "B02001_010E",
+  "geography_weight": 0.38410117090878204,
+  "other_weights": {
+    "education": 0.29471665284399223,
+    "specialized_populations": 0.3211821762472257
+  }
+}
+{
+  "variable_id": "B25032A_009E",
+  "geography_weight": 0.41113009987341387,
+  "other_weights": {
+    "education": 0.2861424621162185,
+    "housing": 0.30272743801036767
+  }
+}

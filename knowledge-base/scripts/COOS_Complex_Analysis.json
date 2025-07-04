@@ -1,0 +1,1677 @@
+{
+  "complex_implementation_strategies": [
+    {
+      "calculation_strategy": "Step 1: Obtain total population estimates from B01003 for two time points (t1 and t2). Step 2: Calculate raw change: (Pop_t2 - Pop_t1). Step 3: Calculate rate: ((Pop_t2 - Pop_t1) / Pop_t1) \u00d7 100. Step 4: Annualize if periods differ from one year: Rate \u00d7 (1 / years_between). Step 5: For ACS data, propagate margins of error using the formula: MOE_rate = (100 / Pop_t1) \u00d7 sqrt(MOE_t2\u00b2 + (Pop_t2/Pop_t1)\u00b2 \u00d7 MOE_t1\u00b2). Step 6: Calculate confidence intervals around the growth rate estimate.",
+      "methodological_challenges": [
+        "ACS estimates represent period estimates (e.g., 5-year averages), not point-in-time counts, making year-over-year comparisons conceptually problematic",
+        "Geographic boundary changes between time periods can invalidate comparisons",
+        "Different ACS products (1-year, 5-year) have different reliability and geographic coverage",
+        "Margin of error propagation becomes complex and can result in very wide confidence intervals for small geographies",
+        "Mixing Decennial Census counts with ACS estimates introduces methodological inconsistencies",
+        "Population controls and weighting adjustments change over time, affecting comparability"
+      ],
+      "reliability_thresholds": {
+        "min_sample_size": 65000,
+        "min_geography": "county",
+        "confidence_intervals": "90%|95%|99%"
+      },
+      "precision_estimates": "For counties with 100,000+ population using ACS 1-year estimates: expect MOE of \u00b10.5-1.5 percentage points. For smaller counties using ACS 5-year estimates: MOE can exceed \u00b13-5 percentage points. For places under 20,000 population, growth rates may have MOE exceeding the estimate itself, rendering them statistically unreliable.",
+      "alternative_approaches": [
+        "Use Census Population Estimates Program (PEP) data, which provides annual population estimates specifically designed for growth analysis",
+        "Compare Decennial Census counts (2010 to 2020) for more reliable long-term growth rates",
+        "Use ACS 5-year estimates compared at 5-year intervals to reduce overlap issues",
+        "Report absolute population change with margins of error instead of rates for small geographies",
+        "Use metropolitan statistical area (MSA) level data for more stable estimates"
+      ],
+      "use_case_guidance": {
+        "recommended_for": [
+          "Large counties or metros (100,000+ population) using consistent data sources",
+          "Long-term growth analysis using Decennial Census data",
+          "Regional planning where precision requirements are moderate",
+          "Comparative analysis across similarly-sized geographies"
+        ],
+        "avoid_for": [
+          "Small cities or census tracts where MOE exceeds useful thresholds",
+          "Year-over-year monitoring using overlapping ACS 5-year estimates",
+          "Precise demographic projections requiring high accuracy",
+          "Legal or funding decisions requiring statistical significance",
+          "Geographies that have undergone boundary changes"
+        ]
+      },
+      "implementation_complexity": "high",
+      "llm_used": "claude-opus-4-20250514",
+      "reviewed_at": "2025-06-28T23:47:54.927558",
+      "original_concept": {
+        "id": "cendata:PopulationGrowthRate",
+        "label": "Population Growth Rate",
+        "confidence": 0.7,
+        "universe": "Total population",
+        "stat_method": "rate",
+        "definition": "Annual population change rate...",
+        "census_tables": [],
+        "status": "low_confidence",
+        "bucket": "core_demographics",
+        "category": "core_demographics",
+        "review_status": "modified",
+        "complexity": "complex",
+        "routing": "derived",
+        "implementation_notes": "Population growth rate is not directly reported in any ACS or Decennial Census table. It must be derived by comparing total population estimates from two different time points (e.g., ACS 1-year estimates for consecutive years, or Decennial Census counts). Use tables such as B01003 (Total Population) for each year, then calculate the annualized rate of change.",
+        "table_mapping_accuracy": "incorrect",
+        "llm_reviewed_by": "openai",
+        "reviewed_at": "2025-06-28T22:16:39.685493",
+        "modification_reason": "Population growth rate is a valid statistical concept, but it is not directly available in any Census or ACS table. It requires a derived calculation using total population counts from different years. The universe and statistical method are appropriate, but the lack of direct table mapping means the concept is complex to implement and must be derived from multiple releases. No single ACS table contains this rate; it is not a direct lookup or single-table calculation."
+      },
+      "mode": "complex_analysis"
+    },
+    {
+      "calculation_strategy": "1. Extract racial/ethnic categories from ACS Table B03002: Hispanic/Latino population, Non-Hispanic White alone, Non-Hispanic Black alone, Non-Hispanic Asian alone, Non-Hispanic American Indian/Alaska Native alone, Non-Hispanic Native Hawaiian/Pacific Islander alone, Non-Hispanic Some Other Race alone, Non-Hispanic Two or More Races. 2. Calculate proportions by dividing each group count by total population. 3. Apply diversity formula: D = 1 - \u03a3(pi\u00b2) where pi is the proportion of each racial/ethnic group. This yields the probability that two randomly selected individuals belong to different groups. 4. Scale result to 0-100 for interpretability (multiply by 100).",
+      "methodological_challenges": [
+        "Racial/ethnic categories in B03002 may not capture full complexity of identity, particularly for multiracial individuals",
+        "Small area estimates suffer from high margins of error, especially for smaller racial/ethnic groups",
+        "Temporal comparability issues when Census racial categories change between surveys",
+        "Geographic boundary changes can affect longitudinal analysis",
+        "Suppression of small cell counts may lead to underestimation of diversity in some areas"
+      ],
+      "reliability_thresholds": {
+        "min_sample_size": 1000,
+        "min_geography": "tract",
+        "confidence_intervals": "90%"
+      },
+      "precision_estimates": "For areas with population >10,000: expect MOE of \u00b12-5 percentage points. For smaller areas (1,000-10,000): MOE increases to \u00b15-15 percentage points. Below 1,000 population: results become highly unreliable with MOE potentially exceeding \u00b120 percentage points. MOE compounds when combining multiple racial categories.",
+      "alternative_approaches": [
+        "Simpson's Diversity Index: Similar interpretation but slightly different mathematical properties",
+        "Shannon's Entropy Index: Captures both richness and evenness of racial distribution",
+        "Simple percentage of non-White population: Less nuanced but more stable for small areas",
+        "Dissimilarity Index: Measures segregation between two groups rather than overall diversity",
+        "Multigroup Entropy Index: Better for comparing diversity across different geographic scales"
+      ],
+      "use_case_guidance": {
+        "recommended_for": [
+          "County-level or larger geographic comparisons of racial/ethnic diversity",
+          "Urban planning assessments for community development",
+          "Educational resource allocation based on student body diversity",
+          "Market analysis for culturally diverse products/services",
+          "Civil rights compliance monitoring at aggregate levels"
+        ],
+        "avoid_for": [
+          "Block group analysis due to high margins of error",
+          "Rural areas with populations under 5,000",
+          "Year-over-year comparisons at small geographies",
+          "Individual-level inference or discrimination analysis",
+          "Legal compliance determinations requiring precise thresholds"
+        ]
+      },
+      "implementation_complexity": "high",
+      "llm_used": "claude-opus-4-20250514",
+      "reviewed_at": "2025-06-28T23:48:13.749706",
+      "original_concept": {
+        "id": "cendata:RacialDiversityIndex",
+        "label": "Racial Diversity Index",
+        "confidence": 0.65,
+        "universe": "Total population",
+        "stat_method": "ratio",
+        "definition": "Measure of racial and ethnic diversity...",
+        "census_tables": [
+          "B03002"
+        ],
+        "status": "low_confidence",
+        "bucket": "core_demographics",
+        "category": "core_demographics",
+        "review_status": "modified",
+        "complexity": "complex",
+        "routing": "derived",
+        "implementation_notes": "The Racial Diversity Index is not a direct Census/ACS variable but can be derived from detailed race/ethnicity counts in ACS Table B03002 (Hispanic or Latino Origin by Race). Calculation typically involves computing the probability that two randomly selected individuals are of different races/ethnicities (e.g., using the Herfindahl-Hirschman Index or similar diversity indices). Universe should remain 'Total population.'",
+        "table_mapping_accuracy": "needs_correction",
+        "llm_reviewed_by": "openai",
+        "reviewed_at": "2025-06-28T22:16:51.564224",
+        "modification_reason": "The Racial Diversity Index is a legitimate statistical concept widely used in demographic research, but it is not a direct ACS/Census variable. It must be calculated from detailed race/ethnicity counts, which are available in ACS Table B03002. The calculation is moderately complex and requires aggregating and processing multiple columns. The original table mapping was missing; B03002 is the correct source. The concept is feasible and methodologically sound, but the ontology entry should clarify that this is a derived measure, not a direct lookup."
+      },
+      "mode": "complex_analysis"
+    },
+    {
+      "calculation_strategy": "1. Extract occupation codes from B24122 for nursing categories: 29-1141 (Registered Nurses), 29-2061 (Licensed Practical/Vocational Nurses), potentially 29-1151 (Nurse Anesthetists), 29-1171 (Nurse Practitioners), 29-1161 (Nurse Midwives). 2. Since B24122 provides pre-calculated medians by occupation, extract the median earnings value for each nursing occupation code. 3. If aggregating across multiple nursing types, use weighted median calculation: sort all nurses by earnings, weight by employment counts from B24121, find the earnings value at the 50th percentile of the weighted distribution. 4. Apply appropriate MOE calculations for derived estimates if combining categories.",
+      "methodological_challenges": [
+        "Cannot directly compute a combined median from multiple pre-calculated occupation medians without microdata access",
+        "Occupation code definitions may change between ACS years, requiring crosswalk tables",
+        "B24122 suppresses data for small occupation groups, creating gaps in coverage",
+        "Definition ambiguity: 'nurses' could include RNs only or all nursing occupations",
+        "Part-time vs full-time earnings not distinguished in this table",
+        "Self-employed nurses may be excluded depending on table universe"
+      ],
+      "reliability_thresholds": {
+        "min_sample_size": 30,
+        "min_geography": "county",
+        "confidence_intervals": "90%"
+      },
+      "precision_estimates": "For counties: MOE typically 10-20% of median estimate. For metro areas: MOE 5-10% of estimate. For states: MOE 2-5% of estimate. Smaller nursing specialties (nurse anesthetists, midwives) will have much larger MOEs (20-40%) even at state level. Combined nursing categories require derived MOE calculations that increase uncertainty by approximately sqrt(2) when combining two groups of similar size.",
+      "alternative_approaches": [
+        "Use B24012 for median earnings of all healthcare practitioners as a broader proxy",
+        "Focus solely on RNs (29-1141) which comprise ~75% of nursing workforce for simpler implementation",
+        "Use Public Use Microdata Sample (PUMS) to calculate custom medians with full control over definitions",
+        "Use Occupational Employment Statistics (OES) from BLS for occupation-specific wage data",
+        "Calculate mean instead of median using B24011 which allows easier aggregation"
+      ],
+      "use_case_guidance": {
+        "recommended_for": [
+          "State-level nursing workforce analysis",
+          "Metropolitan area healthcare labor market studies",
+          "Comparing RN earnings across large geographic areas",
+          "Healthcare workforce planning for populous counties"
+        ],
+        "avoid_for": [
+          "Small county or census tract analysis due to suppression",
+          "Comparing specialized nursing roles (insufficient sample)",
+          "Time series analysis without accounting for occupation code changes",
+          "Analysis requiring part-time/full-time distinction",
+          "Studies needing hourly wage rates rather than annual earnings"
+        ]
+      },
+      "implementation_complexity": "high",
+      "llm_used": "claude-opus-4-20250514",
+      "reviewed_at": "2025-06-28T23:48:36.948361",
+      "original_concept": {
+        "label": "Nurse Median Earnings",
+        "confidence": 0.75,
+        "status": "medium_confidence",
+        "id": "cendata:NurseSalary",
+        "universe": "Healthcare practitioners with earnings",
+        "stat_method": "median",
+        "census_tables": [
+          "B24122"
+        ],
+        "definition": "Median earnings for workers in healthcare practitioner occupations",
+        "category": "economics",
+        "review_status": "modified",
+        "complexity": "complex",
+        "routing": "census",
+        "implementation_notes": "Table B24122 provides median earnings by detailed occupation. Nurses would need to be identified from specific occupation codes within healthcare practitioner categories. The concept should specify which nursing occupations are included (RNs, LPNs, etc.) and note that this requires aggregating across multiple occupation codes within the table.",
+        "table_mapping_accuracy": "needs_correction",
+        "llm_reviewed_by": "anthropic",
+        "reviewed_at": "2025-06-28T22:21:18.511588",
+        "modification_reason": "The concept is statistically valid as median earnings for occupational groups is a standard measure. However, B24122 contains detailed occupation-level data, and 'nurses' represents a subset of healthcare practitioners that would require identifying specific occupation codes. The universe definition is too broad ('healthcare practitioners') when the concept specifically targets nurses. This is feasible from Census data but requires careful occupation code mapping and potentially aggregating across multiple nursing occupation categories within the table structure."
+      },
+      "mode": "complex_analysis"
+    },
+    {
+      "calculation_strategy": "1. Extract geographic mobility data from B07009 (current residence) and B07010 (residence 1 year ago) for population 25+ years. 2. Create educational attainment categories: less than high school, high school graduate, some college/associate's, bachelor's degree, graduate/professional degree. 3. For each education level, calculate mobility rates: (movers within county + movers between counties + movers between states + movers from abroad) / total population in that education category. 4. Calculate mobility rates by type: within-county rate, between-county rate, between-state rate, from-abroad rate for each education level. 5. Apply appropriate weights if combining multiple geographies. 6. Calculate standard errors using successive difference replication or generalized variance functions.",
+      "methodological_challenges": [
+        "Tables B07009/B07010 have different reference periods - current residence vs. 1 year ago residence, requiring careful interpretation",
+        "Educational attainment categories may not align perfectly across mobility status subcategories",
+        "Small cell sizes for highly educated movers in rural areas lead to suppression and high margins of error",
+        "International migration component may be underrepresented due to survey coverage limitations",
+        "Seasonal migration patterns (e.g., students) can distort annual estimates",
+        "Group quarters populations (dormitories, military) have different mobility patterns that may skew results"
+      ],
+      "reliability_thresholds": {
+        "min_sample_size": 500,
+        "min_geography": "county",
+        "confidence_intervals": "90%|95%"
+      },
+      "precision_estimates": "Margins of error typically 5-15% for county-level total mobility rates, increasing to 20-40% for detailed education-mobility cross-tabulations. Graduate degree holders' interstate mobility in small counties often has CVs exceeding 30%. Metropolitan areas achieve CVs under 10% for main categories. State-level estimates generally reliable with CVs under 5% for aggregate rates.",
+      "alternative_approaches": [
+        "Use simplified binary education categories (bachelor's degree or higher vs. less than bachelor's) to increase cell sizes",
+        "Focus only on total mobility rate by education rather than mobility type breakdowns",
+        "Use Public Use Microdata Sample (PUMS) for custom cross-tabulations with more control over categories",
+        "Aggregate to Metropolitan Statistical Areas (MSAs) rather than counties for more reliable estimates",
+        "Use 5-year ACS estimates exclusively rather than 1-year to improve precision",
+        "Consider migration flows data (county-to-county or state-to-state) for specific origin-destination patterns"
+      ],
+      "use_case_guidance": {
+        "recommended_for": [
+          "Metropolitan area analysis of brain drain/brain gain patterns",
+          "State-level policy evaluation of education-migration relationships",
+          "Regional economic development studies examining skilled worker retention",
+          "University town analysis of graduate retention rates",
+          "Comparative studies across large counties or metro areas"
+        ],
+        "avoid_for": [
+          "Rural county analysis with populations under 20,000",
+          "Year-over-year trend analysis due to high volatility",
+          "Census tract or block group level analysis",
+          "International student mobility studies (coverage issues)",
+          "Precise point estimates for small demographic subgroups",
+          "Short-term economic impact assessments"
+        ]
+      },
+      "implementation_complexity": "high",
+      "llm_used": "claude-opus-4-20250514",
+      "reviewed_at": "2025-06-28T23:49:01.501957",
+      "original_concept": {
+        "id": "cendata:EducationalMobility",
+        "label": "Educational Mobility",
+        "confidence": 0.7,
+        "universe": "Population 25 years and over",
+        "stat_method": "rate",
+        "definition": "Geographic mobility by educational attainment...",
+        "census_tables": [
+          "B07009",
+          "B07010"
+        ],
+        "status": "low_confidence",
+        "bucket": "education",
+        "category": "education",
+        "review_status": "modified",
+        "complexity": "complex",
+        "routing": "derived",
+        "implementation_notes": "Educational mobility (as geographic mobility by educational attainment) is not a direct ACS table but can be derived by cross-tabulating geographic mobility status (e.g., moved within county, between counties, etc.) with educational attainment for the population 25 years and over. Use tables B07009 (Geographic Mobility by Educational Attainment for Current Residence) and B07010 (Geographic Mobility by Educational Attainment for Residence 1 Year Ago) to construct rates.",
+        "table_mapping_accuracy": "needs_correction",
+        "llm_reviewed_by": "openai",
+        "reviewed_at": "2025-06-28T22:25:59.101560",
+        "modification_reason": "While 'educational mobility' is a legitimate concept, the ACS does not provide a direct table for this. However, the ACS does provide tables that allow for the calculation of geographic mobility rates by educational attainment for adults 25+, making it feasible but requiring multi-table derivation. The universe and statistical method are appropriate, but the table mapping needs correction to reference the correct ACS tables. This is a complex, derived measure rather than a direct lookup."
+      },
+      "mode": "complex_analysis"
+    },
+    {
+      "calculation_strategy": "Step 1: Extract births data from B13016 (Women who had a birth in past 12 months by age). Step 2: Sum births across age groups 15-44 (note: B13016 uses standard 15-44 range, not 15-50). Step 3: Extract female population aged 15-44 from B01001 (Sex by Age), summing variables B01001_030 through B01001_037. Step 4: Calculate General Fertility Rate = (Total births / Female population 15-44) \u00d7 1,000. Step 5: Apply margin of error calculations using standard error propagation for ratios.",
+      "methodological_challenges": [
+        "Age range mismatch: Standard fertility rates use 15-44, not 15-50 as specified",
+        "B13016 provides 12-month births data which may not align with population reference period",
+        "Small area estimates may have large margins of error due to rare event (births)",
+        "Need to carefully match variable codes across tables for correct age groups",
+        "MOE calculations for derived ratios require quadratic formula approach"
+      ],
+      "reliability_thresholds": {
+        "min_sample_size": 1000,
+        "min_geography": "county",
+        "confidence_intervals": "90%"
+      },
+      "precision_estimates": "For counties: CV typically 10-30%. For places/tracts: CV often 30-50%+. Small areas (<5,000 women 15-44) may have MOEs exceeding 50% of estimate. Birth counts <100 produce unreliable rates.",
+      "alternative_approaches": [
+        "Use B13002 (Women 15-50 Who Had Birth by Marital Status) for simpler extraction",
+        "Calculate Age-Specific Fertility Rates using 5-year age groups for more detail",
+        "Use multi-year ACS estimates (5-year) for more stable small-area rates",
+        "Consider Crude Birth Rate (births/total population) as simpler proxy"
+      ],
+      "use_case_guidance": {
+        "recommended_for": [
+          "County-level or larger geography comparisons",
+          "Tracking fertility trends in metropolitan areas",
+          "Health planning for obstetric services",
+          "Demographic projections at regional scale"
+        ],
+        "avoid_for": [
+          "Census tract or block group analysis",
+          "Places with <10,000 population",
+          "Year-to-year comparisons using 1-year ACS",
+          "Direct comparison with vital statistics-based rates"
+        ]
+      },
+      "implementation_complexity": "high",
+      "llm_used": "claude-opus-4-20250514",
+      "reviewed_at": "2025-06-28T23:49:20.156361",
+      "original_concept": {
+        "label": "Fertility Rate",
+        "confidence": 0.75,
+        "status": "medium_confidence",
+        "id": "cendata:FertilityRate",
+        "universe": "Women 15 to 50 years",
+        "stat_method": "rate",
+        "census_tables": [
+          "B13016",
+          "B01001"
+        ],
+        "definition": "Number of births per 1,000 women of childbearing age",
+        "category": "health_social",
+        "review_status": "modified",
+        "complexity": "complex",
+        "routing": "derived",
+        "implementation_notes": "Requires combining birth data from B13016 with female population denominators from B01001. Standard fertility rate uses ages 15-44, not 15-50. Consider specifying General Fertility Rate vs Total Fertility Rate.",
+        "table_mapping_accuracy": "needs_correction",
+        "llm_reviewed_by": "anthropic",
+        "reviewed_at": "2025-06-28T22:29:21.275043",
+        "modification_reason": "The concept is statistically valid but requires clarification. B13016 provides births to women by age groups, but calculating a proper fertility rate requires careful age-specific denominators from population tables. The universe should typically be 15-44 years for standard fertility rates, not 15-50. This is a multi-table calculation requiring births data combined with female population counts by age. The definition should specify whether this is General Fertility Rate (births per 1,000 women 15-44) or another variant. Implementation complexity is high due to need for precise age group alignment between numerator and denominator sources."
+      },
+      "mode": "complex_analysis"
+    },
+    {
+      "calculation_strategy": "1) Extract data from all specified tables for each racial/ethnic group (White alone, Black alone, AIAN alone, Asian alone, NHPI alone, Other race alone, Two or more races, White non-Hispanic, Hispanic). 2) For each group, calculate z-scores for: median household income (B19013), median home value (B25077), health insurance coverage rate (S2701), and poverty rate (B17001 series). 3) Invert poverty rate z-scores so higher values indicate better outcomes. 4) Create composite index by averaging z-scores across indicators for each group. 5) Calculate disparity ratios by comparing each group's composite score to the overall population score. 6) Apply small area estimation techniques for groups with high CVs.",
+      "methodological_challenges": [
+        "Different tables may have inconsistent race/ethnicity categorizations requiring careful crosswalk",
+        "Missing data for small racial/ethnic groups in many geographies due to disclosure avoidance",
+        "Weighting decisions for composite index components lack empirical validation",
+        "Temporal comparability issues as health insurance questions changed in ACS",
+        "Home value data (B25077) only available for owner-occupied units, creating selection bias",
+        "Margin of error propagation through multiple calculations can lead to unreliable estimates"
+      ],
+      "reliability_thresholds": {
+        "min_sample_size": 1000,
+        "min_geography": "county",
+        "confidence_intervals": "90%"
+      },
+      "precision_estimates": "For counties with 50,000+ population: composite index MOE typically \u00b10.15-0.25 standard deviations. For smaller geographies or specific racial/ethnic groups: MOE can exceed \u00b10.5 SD. Disparity ratios between groups often have CVs >30% at tract level. Use 90% confidence intervals for screening, require 95% CI non-overlap for statistical significance claims.",
+      "alternative_approaches": [
+        "Use only health insurance coverage (S2701) as single indicator - simpler but less comprehensive",
+        "Focus on Black-White or Hispanic-White disparities only - more stable estimates",
+        "Use Public Use Microdata Sample (PUMS) for custom cross-tabulations",
+        "Apply CDC PLACES methodology using model-based small area estimates",
+        "Use County Health Rankings composite measures instead of constructing from ACS"
+      ],
+      "use_case_guidance": {
+        "recommended_for": [
+          "County-level or MSA-level health equity assessments",
+          "Identifying broad patterns of disparity across large geographies",
+          "Initial screening for communities with potential health inequities",
+          "Grant applications requiring demographic health disparity data"
+        ],
+        "avoid_for": [
+          "Census tract or block group level analysis",
+          "Small racial/ethnic groups (e.g., NHPI in most states)",
+          "Year-over-year change detection due to high MOEs",
+          "Clinical or individual-level health interventions",
+          "Legal compliance or regulatory determinations"
+        ]
+      },
+      "implementation_complexity": "very_high",
+      "llm_used": "claude-opus-4-20250514",
+      "reviewed_at": "2025-06-28T23:49:42.464330",
+      "original_concept": {
+        "id": "cendata:HealthEquityMeasures",
+        "label": "Health Equity Measures",
+        "confidence": 0.6,
+        "universe": "Population by race and ethnicity",
+        "stat_method": "composite",
+        "definition": "Health disparities across demographic groups...",
+        "census_tables": [
+          "B19013",
+          "B25077",
+          "S2701",
+          "B17001A",
+          "B17001B",
+          "B17001C",
+          "B17001D",
+          "B17001E",
+          "B17001F",
+          "B17001G",
+          "B17001H",
+          "B17001I"
+        ],
+        "status": "low_confidence",
+        "bucket": "health_social",
+        "category": "health_social",
+        "review_status": "modified",
+        "complexity": "complex",
+        "routing": "derived",
+        "implementation_notes": "Health equity measures are not directly available in ACS tables. They require combining multiple indicators (e.g., income, poverty, insurance coverage) across race/ethnicity groups. Use ACS tables on income (B19013), home value (B25077), health insurance (S2701), and poverty by race/ethnicity (B17001 series) to construct composite indices.",
+        "table_mapping_accuracy": "needs_correction",
+        "llm_reviewed_by": "openai",
+        "reviewed_at": "2025-06-28T22:31:45.901372",
+        "modification_reason": "Health equity measures are legitimate statistical concepts but are not directly reported in ACS/Census tables. They require composite calculations using multiple demographic and socioeconomic indicators, each available in separate ACS tables, often disaggregated by race/ethnicity. The universe and statistical method are appropriate for a derived measure, but the table mapping is incomplete and needs to reference specific tables for each component. This is a complex, derived measure rather than a direct lookup or single-table calculation."
+      },
+      "mode": "complex_analysis"
+    },
+    {
+      "calculation_strategy": "1. Extract raw data from census tables: B19013 (median household income), B25077 (median home value), B08303 (commute times), B15003 (educational attainment), B25003 (homeownership), B08134 (commute mode), B27001 (health insurance coverage). 2. Standardize each indicator using z-scores or min-max normalization to ensure comparability across different units. 3. Define dimensional structure (e.g., economic wellbeing, housing stability, education/human capital, health access, transportation/mobility). 4. Calculate dimension scores by averaging standardized indicators within each dimension. 5. Apply weighting scheme - either equal weights across dimensions or empirically-derived weights based on principal component analysis or expert judgment. 6. Aggregate dimension scores into final index using additive or multiplicative method. 7. Rescale final index to 0-100 or 0-1 scale for interpretability.",
+      "methodological_challenges": [
+        "Multicollinearity between indicators (e.g., income and home values) may overweight certain dimensions",
+        "Missing data patterns vary across tables and geographies, requiring imputation strategies",
+        "Temporal consistency issues when combining multi-year ACS estimates with different reference periods",
+        "Scale effects when comparing diverse geographies (urban vs rural normalization challenges)",
+        "Theoretical justification for indicator selection and weighting schemes",
+        "Handling suppressed data for small geographies while maintaining index comparability"
+      ],
+      "reliability_thresholds": {
+        "min_sample_size": 1000,
+        "min_geography": "census tract",
+        "confidence_intervals": "90%|95%"
+      },
+      "precision_estimates": "Composite index MOE typically 15-25% of index value at tract level, 8-15% at county level. Individual component MOEs compound through error propagation formula: sqrt(sum of squared component CVs). For 7 components with average CVs of 10%, expect composite CV around 26%. Precision decreases significantly for subpopulations or smaller geographies. Bootstrap resampling recommended for robust confidence intervals.",
+      "alternative_approaches": [
+        "Single economic indicator proxy: median household income adjusted for cost of living",
+        "Simplified 3-component index: income + education + health insurance coverage only",
+        "Use existing indices: CDC Social Vulnerability Index or Opportunity Atlas data",
+        "Factor analysis approach: Let data determine optimal weighting through PCA",
+        "Percentile ranking method: Rank geographies on each indicator, average ranks"
+      ],
+      "use_case_guidance": {
+        "recommended_for": [
+          "County-level or larger geography comparisons for resource allocation",
+          "Identifying communities for targeted interventions or investment",
+          "Longitudinal tracking of community progress (with consistent methodology)",
+          "Academic research with transparent methodology documentation"
+        ],
+        "avoid_for": [
+          "Block group or smaller geography analysis due to high MOEs",
+          "Cross-state comparisons without cost-of-living adjustments",
+          "Real-time decision making (ACS data has 1-2 year lag)",
+          "Legal/regulatory compliance requiring specific standardized measures"
+        ]
+      },
+      "implementation_complexity": "high",
+      "llm_used": "claude-opus-4-20250514",
+      "reviewed_at": "2025-06-28T23:50:05.093727",
+      "original_concept": {
+        "id": "cendata:CommunityWellbeingIndex",
+        "label": "Community Wellbeing Index",
+        "confidence": 0.55,
+        "universe": "Population",
+        "stat_method": "composite",
+        "definition": "Composite measure of community health and social wellbeing...",
+        "census_tables": [
+          "B19013",
+          "B25077",
+          "B08303",
+          "B15003",
+          "B25003",
+          "B08134",
+          "B27001"
+        ],
+        "status": "low_confidence",
+        "bucket": "health_social",
+        "category": "health_social",
+        "review_status": "modified",
+        "complexity": "complex",
+        "routing": "derived",
+        "implementation_notes": "Requires clear methodological framework defining component indicators, weights, and aggregation method. Should specify which wellbeing dimensions are included and provide transparency on index construction.",
+        "table_mapping_accuracy": "needs_correction",
+        "llm_reviewed_by": "anthropic",
+        "reviewed_at": "2025-06-28T22:31:56.277968",
+        "modification_reason": "While composite wellbeing indices are legitimate statistical constructs, this concept lacks specificity in its current form. The definition is too vague ('community health and social wellbeing...') without identifying specific component measures or methodology. Census/ACS data can support many wellbeing indicators (income, housing, education, employment, health insurance coverage), but creating a valid composite index requires: 1) Clear theoretical framework for component selection, 2) Explicit weighting scheme, 3) Standardization methodology, 4) Validation against known outcomes. The low confidence score (0.55) reflects this conceptual ambiguity. Recommend modifying to either specify a particular wellbeing index methodology (e.g., following established frameworks) or breaking into component indicators that can be more directly measured."
+      },
+      "mode": "complex_analysis"
+    },
+    {
+      "calculation_strategy": "1. Retrieve B25001_001E (total housing units) from the desired geography level. 2. Retrieve AREALAND from G001 for the same geography (convert from square meters to square miles by dividing by 2,589,988). 3. Calculate density = B25001_001E / (AREALAND / 2,589,988). 4. Handle edge cases where AREALAND = 0 (water-only geographies) by returning NULL. 5. Apply MOE propagation for ratio estimates using the formula: MOE_ratio = |ratio| * sqrt((MOE_numerator/estimate_numerator)\u00b2 + (MOE_denominator/estimate_denominator)\u00b2) where MOE_denominator = 0 for land area.",
+      "methodological_challenges": [
+        "Geographic boundary changes between census years affect land area comparability",
+        "Water-only geographies (e.g., certain census tracts) have zero land area",
+        "Different geographic summary levels may have inconsistent land area definitions",
+        "Urban vs. rural areas have vastly different density ranges requiring context-aware interpretation",
+        "Mixed-use developments complicate the housing unit definition",
+        "Seasonal/vacation housing units may distort density in resort areas"
+      ],
+      "reliability_thresholds": {
+        "min_sample_size": 50,
+        "min_geography": "tract",
+        "confidence_intervals": "90% standard|95% for policy analysis|99% for legal compliance"
+      },
+      "precision_estimates": "MOE typically 5-15% of estimate for census tracts, 2-8% for counties, 1-3% for states. Higher MOEs (20-40%) expected in rural tracts with <100 housing units. Coefficient of variation should be <30% for reliable estimates.",
+      "alternative_approaches": [
+        "Population density (B01003/G001) as proxy when housing data unavailable",
+        "Occupied housing density (B25003_001E/G001) for active residential areas only",
+        "Structure density using B25024 for single vs. multi-family analysis",
+        "Block-level census data for finer spatial resolution without sampling error",
+        "Parcel-level administrative data from local assessors for precise counts"
+      ],
+      "use_case_guidance": {
+        "recommended_for": [
+          "Urban planning and zoning analysis",
+          "Infrastructure capacity planning",
+          "Environmental impact assessments",
+          "Housing market analysis",
+          "Emergency services resource allocation"
+        ],
+        "avoid_for": [
+          "Cross-national comparisons without standardization",
+          "Time series analysis across major boundary changes",
+          "Small geographies with <50 housing units",
+          "Areas with significant seasonal variation",
+          "Quality of life assessments without additional context"
+        ]
+      },
+      "implementation_complexity": "moderate",
+      "llm_used": "claude-opus-4-20250514",
+      "reviewed_at": "2025-06-28T23:50:26.514350",
+      "original_concept": {
+        "label": "Housing Density",
+        "confidence": 0.75,
+        "status": "medium_confidence",
+        "id": "cendata:HousingDensity",
+        "universe": "Land area",
+        "stat_method": "ratio",
+        "census_tables": [
+          "B25001",
+          "G001"
+        ],
+        "definition": "Housing units per square mile",
+        "category": "housing",
+        "review_status": "modified",
+        "complexity": "complex",
+        "routing": "derived",
+        "implementation_notes": "Housing Density (housing units per square mile) is not directly reported in ACS tables. B25001 provides the numerator (total housing units), while G001 provides land area in square miles. The density must be calculated by dividing B25001_001E by the land area from G001. Ensure both tables are from the same geographic summary level.",
+        "table_mapping_accuracy": "needs_correction",
+        "llm_reviewed_by": "openai",
+        "reviewed_at": "2025-06-28T22:34:52.511595",
+        "modification_reason": "Housing Density is a legitimate and widely used statistical concept. It is not directly available in ACS tables but can be derived by combining data from B25001 (housing units) and G001 (land area). The original mapping to only B25001 is incomplete; both tables are needed. The universe should be clarified as 'geographic area' rather than 'land area,' since the calculation is for a geographic entity. The complexity is 'complex' because it requires joining data from two tables. The routing is 'derived' since it is not a direct ACS variable."
+      },
+      "mode": "complex_analysis"
+    },
+    {
+      "calculation_strategy": "1. Extract household age distribution from B25013 (Tenure by Age of Householder) to identify units with 18-24 year old householders. 2. Use B15012 (Sex by Educational Attainment for 18-24 years) to determine college enrollment rates by age cohort. 3. Apply enrollment rates as weights to housing units with residents in target age range. 4. Cross-reference with B25014 (Tenure by Occupants Per Room) to exclude overcrowded units that may be family households. 5. Adjust for commuting patterns using B08301 to account for students living at home but commuting to campus.",
+      "methodological_challenges": [
+        "Cannot distinguish between graduate students (often older) and undergraduates",
+        "Misclassifies young professionals living in college areas as students",
+        "Cannot identify students living with non-student roommates or family",
+        "Educational attainment tables don't directly measure current enrollment",
+        "Age-based proxy excludes non-traditional students over 24",
+        "Group quarters (dorms) are excluded from household surveys"
+      ],
+      "reliability_thresholds": {
+        "min_sample_size": 500,
+        "min_geography": "tract",
+        "confidence_intervals": "90% for county|95% for place|99% for metro area"
+      },
+      "precision_estimates": "Expected MOE of \u00b115-25% at tract level, \u00b18-12% at place level, \u00b13-5% at county level. Estimates become highly unreliable in areas with <1,000 college-age residents. Confidence intervals widen significantly in non-college towns where student housing is rare.",
+      "alternative_approaches": [
+        "Simple proxy: Count units with 3+ unrelated individuals under 25 using household relationship tables",
+        "Geographic approach: Focus on census tracts within 2 miles of college campuses",
+        "Rent-based proxy: Identify units with multiple bedrooms renting below median for the area",
+        "Direct survey approach: Use local administrative data from universities when available",
+        "IPUMS microdata: Access individual-level records for more precise student identification"
+      ],
+      "use_case_guidance": {
+        "recommended_for": [
+          "College town housing market analysis",
+          "Comparing student housing density across university communities",
+          "Identifying areas with high concentrations of student renters",
+          "Regional planning for university-adjacent neighborhoods"
+        ],
+        "avoid_for": [
+          "Precise counts of student housing units",
+          "Analysis in areas without major educational institutions",
+          "Small geographic areas (block groups) with low populations",
+          "Distinguishing between undergraduate and graduate student housing",
+          "Tracking on-campus dormitory residents"
+        ]
+      },
+      "implementation_complexity": "very_high",
+      "llm_used": "claude-opus-4-20250514",
+      "reviewed_at": "2025-06-28T23:50:47.890550",
+      "original_concept": {
+        "id": "cendata:StudentHousing",
+        "label": "Student Housing",
+        "confidence": 0.65,
+        "universe": "Occupied housing units with enrolled students",
+        "stat_method": "count",
+        "definition": "Housing for college and university students...",
+        "census_tables": [
+          "B25013",
+          "B25014",
+          "B08301",
+          "B15012"
+        ],
+        "status": "low_confidence",
+        "bucket": "housing",
+        "category": "housing",
+        "review_status": "modified",
+        "complexity": "complex",
+        "routing": "derived",
+        "implementation_notes": "Requires proxy methodology combining household composition, age demographics, and educational enrollment status. Consider defining as 'housing units with college-age residents enrolled in school' using age cohorts 18-24 from educational attainment tables.",
+        "table_mapping_accuracy": "needs_correction",
+        "llm_reviewed_by": "anthropic",
+        "reviewed_at": "2025-06-28T22:36:09.933671",
+        "modification_reason": "The Census/ACS does not directly collect data on 'student housing' as a housing type classification. The concept is statistically valid but requires complex derivation from multiple demographic variables. The universe definition 'occupied housing units with enrolled students' is imprecise - it could include K-12 students, graduate students, or households with any enrolled student regardless of the housing's primary purpose. A more feasible approach would use age-restricted educational enrollment data (tables B15012 for school enrollment by age) combined with household composition tables (B25013/B25014) to approximate college student housing. The empty census tables array confirms no direct measurement exists."
+      },
+      "mode": "complex_analysis"
+    },
+    {
+      "calculation_strategy": "1) Extract median household income by tract from B19001, calculate 30%/50% AMI thresholds. 2) From B25063, extract gross rent distribution by price brackets. 3) Calculate affordable rent threshold as 30% of monthly AMI (divide annual by 12, multiply by 0.3). 4) Sum rental units in B25063 brackets below affordability threshold. 5) Cross-validate using B25074 (household income by gross rent) to ensure consistency. 6) Apply B25118 tenure data to verify rental unit universe. 7) Consider incorporating B25056 for contract rent if gross rent unavailable.",
+      "methodological_challenges": [
+        "Income brackets in B19001 don't align perfectly with rent brackets in B25063, requiring interpolation",
+        "AMI calculation requires defining geographic reference area (county vs metro area)",
+        "Gross rent includes utilities but contract rent doesn't - inconsistent affordability measures",
+        "Household size variations not captured - affordability varies by household composition",
+        "Time lag between income and rent data collection can distort in rapidly changing markets"
+      ],
+      "reliability_thresholds": {
+        "min_sample_size": 100,
+        "min_geography": "tract",
+        "confidence_intervals": "90%|95%|99%"
+      },
+      "precision_estimates": "MOE typically \u00b115-25% for tract-level estimates due to bracket interpolation and small sample sizes. County-level estimates improve to \u00b15-10%. Precision degrades significantly when targeting specific income thresholds (e.g., exactly 30% AMI) versus broader ranges (e.g., below 50% AMI).",
+      "alternative_approaches": [
+        "Use HUD's pre-calculated Comprehensive Housing Affordability Strategy (CHAS) data based on ACS",
+        "Simple proxy: Count units below HUD Fair Market Rent threshold using B25063 alone",
+        "Use median gross rent to income ratio from B25071 as affordability indicator",
+        "Calculate percentage of cost-burdened households (>30% income on rent) from B25074"
+      ],
+      "use_case_guidance": {
+        "recommended_for": [
+          "Housing needs assessments and affordable housing gap analysis",
+          "Comparing affordability across similar geographic areas",
+          "Tracking broad affordability trends over time",
+          "Supporting affordable housing policy development"
+        ],
+        "avoid_for": [
+          "Precise counts needed for housing development pro formas",
+          "Small area analysis below tract level",
+          "Real-time market analysis (ACS data has 2-3 year lag)",
+          "Comparing areas with vastly different housing markets without normalization"
+        ]
+      },
+      "implementation_complexity": "very_high",
+      "llm_used": "claude-opus-4-20250514",
+      "reviewed_at": "2025-06-28T23:51:08.267990",
+      "original_concept": {
+        "id": "cendata:AffordableHousingUnits",
+        "label": "Affordable Housing Units",
+        "confidence": 0.65,
+        "universe": "Rental housing units",
+        "stat_method": "count",
+        "definition": "Rental units affordable to low-income households...",
+        "census_tables": [
+          "B25056",
+          "B25063",
+          "B25074",
+          "B25118",
+          "B19001"
+        ],
+        "status": "low_confidence",
+        "bucket": "housing",
+        "category": "housing",
+        "review_status": "modified",
+        "complexity": "complex",
+        "routing": "derived",
+        "implementation_notes": "Requires defining income thresholds (e.g., 30% or 50% AMI), combining rent data with household income distributions, and applying affordability criteria (typically 30% of income rule). Consider using HUD Fair Market Rent data as external reference.",
+        "table_mapping_accuracy": "needs_correction",
+        "llm_reviewed_by": "anthropic",
+        "reviewed_at": "2025-06-28T22:36:26.924624",
+        "modification_reason": "While 'affordable housing' is a legitimate policy concept, it's not a direct Census measure. The Census collects gross rent (B25063) and household income data separately, but doesn't classify units as 'affordable' per se. This requires: 1) Defining affordability threshold (% of Area Median Income), 2) Calculating what rent level is affordable at that income, 3) Counting units at or below that rent level. The empty census tables array and vague definition indicate this needs substantial methodological development. The concept should be modified to specify the affordability criteria and calculation method, or alternatively focus on component measures like 'rental units under $X' or 'cost-burdened renters.'"
+      },
+      "mode": "complex_analysis"
+    },
+    {
+      "calculation_strategy": "Step 1: Extract total housing units from B25001 for base year (t0) and comparison year (t1). Step 2: Calculate absolute change: \u0394HU = HU(t1) - HU(t0). Step 3: Calculate annualized growth rate: r = [(HU(t1)/HU(t0))^(1/n) - 1] \u00d7 100, where n = years between observations. Step 4: For ACS data, propagate margins of error using formula: MOE_rate = (1/HU(t0)) \u00d7 sqrt[MOE(t1)\u00b2 + (\u0394HU/HU(t0))\u00b2 \u00d7 MOE(t0)\u00b2]. Step 5: Cross-validate with occupied/vacant splits from B25002-B25004 to identify data quality issues.",
+      "methodological_challenges": [
+        "Boundary changes between survey years can invalidate direct comparisons",
+        "ACS estimates have overlapping sample periods, violating independence assumptions for rate calculations",
+        "Housing unit definition changes between decennial census and ACS surveys",
+        "Margin of error propagation becomes complex with multi-year comparisons",
+        "Seasonal variations in ACS 1-year estimates can distort growth rates",
+        "Small area estimates may have coefficients of variation exceeding 30%"
+      ],
+      "reliability_thresholds": {
+        "min_sample_size": 1000,
+        "min_geography": "county",
+        "confidence_intervals": "90%"
+      },
+      "precision_estimates": "For counties: MOE typically 5-15% of estimate. For census tracts: MOE often 20-40% of estimate. For block groups: MOE frequently exceeds 50% of estimate, making rates unreliable. Multi-year comparisons compound uncertainty - expect MOE to be 1.4-2x the single-year MOE for rate calculations.",
+      "alternative_approaches": [
+        "Use building permit data from Census Building Permits Survey for more timely estimates",
+        "Compare 5-year ACS periods with non-overlapping timeframes (e.g., 2006-2010 vs 2016-2020)",
+        "Use decennial census counts for robust long-term trends (2000, 2010, 2020)",
+        "Calculate net change in occupied units (B25003) as proxy for effective housing growth",
+        "Use administrative data from local tax assessors for annual housing counts"
+      ],
+      "use_case_guidance": {
+        "recommended_for": [
+          "County-level or larger geography growth analysis",
+          "Long-term planning studies using decennial census data",
+          "Regional housing market comparisons",
+          "Validating local administrative data sources"
+        ],
+        "avoid_for": [
+          "Census tract or block group analysis due to high MOEs",
+          "Year-over-year comparisons using 1-year ACS data",
+          "Areas with significant boundary changes or annexations",
+          "Small municipalities under 20,000 population",
+          "Precise growth rate rankings of similar geographies"
+        ]
+      },
+      "implementation_complexity": "high",
+      "llm_used": "claude-opus-4-20250514",
+      "reviewed_at": "2025-06-28T23:51:29.224152",
+      "original_concept": {
+        "id": "cendata:HousingUnitGrowth",
+        "label": "Housing Unit Growth",
+        "confidence": 0.7,
+        "universe": "Housing units",
+        "stat_method": "rate",
+        "definition": "Rate of new housing construction...",
+        "census_tables": [
+          "B25001",
+          "B25002",
+          "B25003",
+          "B25004"
+        ],
+        "status": "low_confidence",
+        "bucket": "housing",
+        "category": "housing",
+        "review_status": "modified",
+        "complexity": "complex",
+        "routing": "derived",
+        "implementation_notes": "Housing unit growth rates require longitudinal comparison of housing stock counts across survey years. Consider using 1-year ACS estimates for recent years or decennial census for longer-term trends. May need to account for margin of error propagation in rate calculations.",
+        "table_mapping_accuracy": "needs_correction",
+        "llm_reviewed_by": "anthropic",
+        "reviewed_at": "2025-06-28T22:36:50.360404",
+        "modification_reason": "While 'Housing Unit Growth' is a statistically valid concept, the current definition is incomplete and the empty census tables list needs correction. The ACS provides housing unit counts by various characteristics (occupied, vacant, tenure) but growth rates must be derived by comparing counts across time periods. This is methodologically complex because it requires: 1) Selecting appropriate time periods, 2) Handling margin of error in multi-year comparisons, 3) Potentially adjusting for geographic boundary changes. The concept should be modified to specify the time frame for growth calculation and appropriate base tables for housing unit counts."
+      },
+      "mode": "complex_analysis"
+    },
+    {
+      "calculation_strategy": "1) Extract median household income from B19013 (Median Household Income in the Past 12 Months). 2) Extract median home value from B25077 (Median Value for Owner-Occupied Housing Units). 3) Calculate ratio as: Median Home Value / Median Household Income. 4) Multiply by 100 to express as percentage of annual income. 5) Apply margin of error propagation using the formula: MOE_ratio = ratio * sqrt((MOE_numerator/numerator)\u00b2 + (MOE_denominator/denominator)\u00b2). 6) Flag results where coefficient of variation exceeds 30%.",
+      "methodological_challenges": [
+        "Income data reflects past 12 months while home values are current market estimates, creating temporal misalignment",
+        "B25077 only includes owner-occupied units, excluding rental market dynamics",
+        "Geographic boundary changes between survey years can affect comparability",
+        "Median values may mask extreme distributions in high-inequality areas",
+        "Small area estimates may have large margins of error, particularly for home values",
+        "Does not account for property taxes, insurance, or maintenance costs"
+      ],
+      "reliability_thresholds": {
+        "min_sample_size": 100,
+        "min_geography": "census tract",
+        "confidence_intervals": "90%"
+      },
+      "precision_estimates": "For census tracts: expect CVs of 10-30% for income, 15-40% for home values. Combined ratio CVs typically 20-50%. County-level estimates more precise with CVs under 10%. Metropolitan areas achieve CVs under 5%. Margins of error increase exponentially in areas with fewer than 1,000 households.",
+      "alternative_approaches": [
+        "Use B25071 (Median Gross Rent as Percentage of Household Income) for rental affordability",
+        "Calculate using B25119 (Median Household Income by Tenure) for owner-specific income",
+        "Use B25098/B25099 for mortgage status-specific affordability ratios",
+        "Apply 30% affordability threshold to create binary affordable/unaffordable classification",
+        "Use ACS Public Use Microdata for custom affordability calculations with individual records"
+      ],
+      "use_case_guidance": {
+        "recommended_for": [
+          "County and metropolitan area housing market analysis",
+          "Multi-year trend analysis at geographic levels above census tract",
+          "Comparative analysis across similar-sized geographic units",
+          "Initial screening for detailed housing affordability studies"
+        ],
+        "avoid_for": [
+          "Block group analysis due to insufficient sample sizes",
+          "Real-time market conditions (data lags 1-3 years)",
+          "Individual household affordability assessment",
+          "Areas with fewer than 1,000 owner-occupied units",
+          "Comparing vastly different housing markets without normalization"
+        ]
+      },
+      "implementation_complexity": "high",
+      "llm_used": "claude-opus-4-20250514",
+      "reviewed_at": "2025-06-28T23:51:49.634649",
+      "original_concept": {
+        "id": "cendata:HousingAffordabilityIndex",
+        "label": "Housing Affordability Index",
+        "confidence": 0.7,
+        "universe": "Households",
+        "stat_method": "ratio",
+        "definition": "Ratio of median home price to median household income...",
+        "census_tables": [
+          "B19013",
+          "B25077"
+        ],
+        "status": "low_confidence",
+        "bucket": "housing",
+        "category": "housing",
+        "review_status": "modified",
+        "complexity": "complex",
+        "routing": "derived",
+        "implementation_notes": "Requires careful consideration of geographic alignment between housing and income data. Should specify whether using owner-occupied housing values only. Consider temporal alignment issues as housing values may reflect different time periods than income data.",
+        "table_mapping_accuracy": "needs_correction",
+        "llm_reviewed_by": "anthropic",
+        "reviewed_at": "2025-06-28T22:37:50.621704",
+        "modification_reason": "Housing Affordability Index is a legitimate statistical concept widely used in housing economics. However, it requires multi-table calculation using median household income (B19013_001) and median home values (B25077_001 for owner-occupied units). The concept is methodologically sound but complex to implement due to potential geographic and temporal misalignment between housing stock and resident income. The empty census tables array needs correction to include the appropriate tables. While calculable from Census/ACS data, this is a derived measure requiring careful methodological consideration rather than a simple table lookup."
+      },
+      "mode": "complex_analysis"
+    },
+    {
+      "calculation_strategy": "1. Extract raw data from each ACS table at census tract level (B19013 for median household income, B25077 for median home value, B25002 for vacancy rates, B02001 for racial diversity index, B15003 for % bachelor's degree or higher, B23025 for employment rate). 2. Standardize each variable to z-scores using tract-level means and standard deviations within the study area. 3. Check for multicollinearity using correlation matrix; consider dropping highly correlated variables (r > 0.8). 4. Apply weights to each standardized variable (equal weights or theory-driven weights). 5. Sum weighted z-scores to create composite index. 6. Optionally transform final scores to 0-100 scale or quintiles for interpretation.",
+      "methodological_challenges": [
+        "Different ACS tables have varying margins of error that compound when creating composites",
+        "Missing data in some tracts for specific variables requires imputation decisions",
+        "Choice of weights significantly impacts results but lacks objective criteria",
+        "Temporal misalignment when using multi-year ACS estimates",
+        "Scale differences between variables can distort composite without proper standardization",
+        "Spatial autocorrelation violates independence assumptions in standard statistical tests"
+      ],
+      "reliability_thresholds": {
+        "min_sample_size": 500,
+        "min_geography": "census_tract",
+        "confidence_intervals": "90%"
+      },
+      "precision_estimates": "Composite MOE approximately 1.5-2x the average MOE of component variables. For typical census tracts, expect composite MOE of \u00b115-25% of the index value. Precision decreases substantially for tracts with <1,000 population. Use Monte Carlo simulation with component MOEs to estimate composite precision more accurately.",
+      "alternative_approaches": [
+        "Use principal component analysis (PCA) to derive data-driven weights and reduce dimensionality",
+        "Employ median household income alone as simpler proxy for neighborhood quality",
+        "Use CDC's Social Vulnerability Index which provides pre-calculated tract-level measures",
+        "Apply spatial regression models to account for neighborhood spillover effects",
+        "Create separate indices for economic, social, and physical dimensions rather than single composite"
+      ],
+      "use_case_guidance": {
+        "recommended_for": [
+          "Comparative analysis across multiple census tracts within a metro area",
+          "Identifying neighborhoods for targeted interventions or investments",
+          "Academic research on neighborhood effects with appropriate caveats",
+          "Preliminary screening for more detailed neighborhood assessments"
+        ],
+        "avoid_for": [
+          "Small area analysis with tracts under 1,000 population",
+          "Cross-regional comparisons without local standardization",
+          "Legal or regulatory decisions requiring precise point estimates",
+          "Time series analysis without accounting for ACS methodology changes"
+        ]
+      },
+      "implementation_complexity": "high",
+      "llm_used": "claude-opus-4-20250514",
+      "reviewed_at": "2025-06-28T23:52:09.923719",
+      "original_concept": {
+        "id": "cendata:NeighborhoodQualityIndicators",
+        "label": "Neighborhood Quality Indicators",
+        "confidence": 0.6,
+        "universe": "Census tracts",
+        "stat_method": "composite",
+        "definition": "Composite measure of neighborhood characteristics...",
+        "census_tables": [
+          "B19013",
+          "B25077",
+          "B25002",
+          "B02001",
+          "B15003",
+          "B23025"
+        ],
+        "status": "low_confidence",
+        "bucket": "housing",
+        "category": "housing",
+        "review_status": "modified",
+        "complexity": "complex",
+        "routing": "derived",
+        "implementation_notes": "Neighborhood Quality Indicators are not directly available in a single ACS table. They must be constructed as a composite index using multiple ACS tables at the census tract level, typically including measures such as median household income (B19013), median home value (B25077), housing vacancy (B25002), racial/ethnic composition (B02001), educational attainment (B15003), and employment status (B23025). The specific indicators and weighting should be clearly defined.",
+        "table_mapping_accuracy": "needs_correction",
+        "llm_reviewed_by": "openai",
+        "reviewed_at": "2025-06-28T22:37:54.543233",
+        "modification_reason": "While 'Neighborhood Quality Indicators' is a legitimate statistical concept, it is not a direct ACS variable or table. It requires synthesizing data from multiple ACS tables, making it a complex, derived measure. The universe (census tracts) and composite method are appropriate, but the original table mapping is incomplete. The concept is feasible using ACS data, but only through multi-table derivation, not direct lookup."
+      },
+      "mode": "complex_analysis"
+    },
+    {
+      "calculation_strategy": "1. Extract data from ACS 5-year estimates for at least two time periods (e.g., 2011-2015 and 2016-2020) for tables B19013 (median household income), B25077 (median home value), B15003 (educational attainment), B08303 (commute times), B25003 (tenure), and B25002 (occupancy status). 2. Calculate percent changes for key indicators: median income change, median home value change, percent with bachelor's degree or higher change, and percent owner-occupied change. 3. Standardize each change metric using z-scores within the metropolitan area or county. 4. Create composite score by weighting: income change (25%), home value change (30%), education change (25%), tenure change (20%). 5. Identify tracts in bottom 40th percentile for initial period income/home values that moved to top 40th percentile in later period. 6. Apply additional filters for statistical significance using MOE calculations.",
+      "methodological_challenges": [
+        "Temporal comparability issues due to census tract boundary changes between ACS periods",
+        "Missing data or high MOEs in small tracts may create gaps in longitudinal analysis",
+        "Defining appropriate comparison geography (metro area vs county) affects z-score standardization",
+        "Weighting scheme for composite score is subjective and may not capture all gentrification patterns",
+        "Distinguishing gentrification from general neighborhood improvement or decline",
+        "ACS 5-year estimates overlap, limiting true independent time period comparisons"
+      ],
+      "reliability_thresholds": {
+        "min_sample_size": 500,
+        "min_geography": "census_tract",
+        "confidence_intervals": "90%"
+      },
+      "precision_estimates": "Expected MOEs vary by component: Income MOE typically 10-20% of estimate in small tracts; Home value MOE 15-25% of estimate; Education percentages MOE 3-8 percentage points. Composite score reliability depends on weakest component. Use 90% confidence intervals for change detection to balance Type I/II errors. Propagated error in percent changes can exceed 30% in small tracts.",
+      "alternative_approaches": [
+        "Simple two-indicator approach using only median income and home value changes",
+        "Percentile rank changes within metro area instead of composite scoring",
+        "Use Census 2010/2020 data for education/tenure baseline to avoid ACS temporal overlap",
+        "Freeman method focusing on income/education of in-movers vs existing residents",
+        "Typology approach classifying tracts into categories rather than continuous score"
+      ],
+      "use_case_guidance": {
+        "recommended_for": [
+          "Metropolitan-level policy analysis and resource allocation",
+          "Academic research with careful methodology documentation",
+          "Identifying broad patterns across multiple neighborhoods",
+          "Baseline assessment for community development initiatives"
+        ],
+        "avoid_for": [
+          "Single tract analysis or small area decisions",
+          "Rural areas or small cities with few census tracts",
+          "Real-time monitoring (due to ACS data lag)",
+          "Legal or regulatory decisions requiring precise boundaries",
+          "Areas with significant tract boundary changes"
+        ]
+      },
+      "implementation_complexity": "very_high",
+      "llm_used": "claude-opus-4-20250514",
+      "reviewed_at": "2025-06-28T23:52:35.894394",
+      "original_concept": {
+        "id": "cendata:GentrificationIndicators",
+        "label": "Gentrification Indicators",
+        "confidence": 0.65,
+        "universe": "Census tracts",
+        "stat_method": "composite",
+        "definition": "Changes in home values, income, and education indicating gentrification...",
+        "census_tables": [
+          "B19013",
+          "B25077",
+          "B15003",
+          "B08303",
+          "B25003",
+          "B25002"
+        ],
+        "status": "low_confidence",
+        "bucket": "housing",
+        "category": "housing",
+        "review_status": "modified",
+        "complexity": "complex",
+        "routing": "derived",
+        "implementation_notes": "Requires longitudinal analysis across multiple ACS periods. Consider standardized composite scoring methodology. May need supplementation with administrative data for complete picture.",
+        "table_mapping_accuracy": "needs_correction",
+        "llm_reviewed_by": "anthropic",
+        "reviewed_at": "2025-06-28T22:38:04.719975",
+        "modification_reason": "Gentrification indicators are statistically valid and measurable from Census data, but the concept requires significant modification. The empty census tables list needs correction - gentrification measurement requires multiple tables covering income (B19013), home values (B25077), educational attainment (B15003), and potentially commuting patterns (B08303) and housing tenure (B25003, B25002). This is inherently a complex, multi-table longitudinal analysis requiring comparison across time periods to detect 'changes.' The composite methodology is appropriate but needs specification of weighting schemes and temporal comparison methods. While feasible with ACS data, implementation complexity is high and may benefit from integration with administrative records for validation."
+      },
+      "mode": "complex_analysis"
+    },
+    {
+      "calculation_strategy": "1. Extract foreign-born population from B05005 (total foreign-born count) as baseline denominator. 2. Use B05007 to identify foreign-born by citizenship status and region of birth - focus on regions with high refugee flows (e.g., Southeast Asia, Eastern Europe, Africa). 3. Cross-reference with B05012 (year of entry) to align with major refugee admission periods (e.g., 1975-1985 for Southeast Asian refugees, 1990s for Bosnian refugees). 4. Apply proportional estimation based on historical refugee admission data from DHS/State Department to approximate refugee share within each origin-period cohort. 5. Sum estimated refugee populations across all origin-period combinations. Note: This remains an approximation as ACS does not directly identify refugee status.",
+      "methodological_challenges": [
+        "Refugee status is not directly captured in ACS - only foreign-born and citizenship status are recorded",
+        "Refugees who have naturalized cannot be distinguished from other naturalized citizens",
+        "Secondary migration makes place of birth an imperfect proxy for refugee status",
+        "Time lag between arrival and naturalization varies by origin country",
+        "Some refugees may be misclassified as other admission categories in administrative data",
+        "ACS sampling may miss concentrated refugee populations in specific neighborhoods"
+      ],
+      "reliability_thresholds": {
+        "min_sample_size": 500,
+        "min_geography": "county",
+        "confidence_intervals": "90%|95%|99%"
+      },
+      "precision_estimates": "Expect margins of error of \u00b130-50% at county level due to indirect estimation method. At state level, MOE may decrease to \u00b115-25%. Metropolitan Statistical Areas with known refugee resettlement programs may achieve \u00b120-30% MOE. Precision deteriorates significantly for specific origin countries or arrival cohorts.",
+      "alternative_approaches": [
+        "Use Office of Refugee Resettlement (ORR) administrative data for direct counts by state/county",
+        "Combine ACS foreign-born data with DHS refugee admission statistics for proportional allocation",
+        "Focus on specific origin countries with high refugee proportions (e.g., >80% of Bhutanese-born are refugees)",
+        "Use Public Use Microdata Sample (PUMS) to create more refined estimates using additional variables",
+        "Partner with local refugee resettlement agencies for validation of estimates"
+      ],
+      "use_case_guidance": {
+        "recommended_for": [
+          "State-level planning for refugee services and integration programs",
+          "Metropolitan area analysis of refugee population trends over time",
+          "Comparative analysis across major refugee resettlement cities",
+          "Baseline estimates for grant applications to federal refugee programs"
+        ],
+        "avoid_for": [
+          "Precise counts needed for funding formulas or legal compliance",
+          "Small area analysis below county level (census tract, block group)",
+          "Recent refugee arrivals (within last 1-2 years) due to ACS lag",
+          "Distinguishing between different refugee admission programs (e.g., SIV vs. traditional refugees)",
+          "Time-sensitive emergency response planning"
+        ]
+      },
+      "implementation_complexity": "very_high",
+      "llm_used": "claude-opus-4-20250514",
+      "reviewed_at": "2025-06-28T23:52:58.860633",
+      "original_concept": {
+        "id": "cendata:RefugeePopulation",
+        "label": "Refugee Population",
+        "confidence": 0.6,
+        "universe": "Foreign-born population",
+        "stat_method": "count",
+        "definition": "Foreign-born who entered as refugees...",
+        "census_tables": [
+          "B05005",
+          "B05007",
+          "B05012"
+        ],
+        "status": "low_confidence",
+        "bucket": "specialized_populations",
+        "category": "specialized_populations",
+        "review_status": "modified",
+        "complexity": "complex",
+        "routing": "census",
+        "implementation_notes": "Refugee status is captured in ACS nativity/citizenship tables but requires careful interpretation. Use B05007 (place of birth by citizenship status) combined with year of entry data. Note that 'refugee' is not explicitly coded - this population is embedded within broader foreign-born categories and may require additional data sources for precise identification.",
+        "table_mapping_accuracy": "needs_correction",
+        "llm_reviewed_by": "anthropic",
+        "reviewed_at": "2025-06-28T22:40:16.207707",
+        "modification_reason": "Refugee population is a valid demographic concept, but the Census/ACS does not directly identify refugees as a distinct category. The data exists within nativity and citizenship tables, but extracting true refugee populations requires complex cross-tabulation and may still be imprecise. The empty census tables array needs correction to include relevant nativity/citizenship tables. While feasible, this is a complex derivation rather than a direct measurement, and the definition should be refined to acknowledge these limitations."
+      },
+      "mode": "complex_analysis"
+    },
+    {
+      "calculation_strategy": "1. Extract relevant variables from housing tenure tables (B25003, B25004) to identify temporary occupancy patterns. 2. Aggregate specific subcategories from B25014 (tenure by occupants per room) and B25032-B25037 (tenure by units in structure) that indicate temporary housing arrangements. 3. Cross-reference with vacancy status tables to identify units in transitional use. 4. Sum populations across identified temporary housing categories. 5. Consider supplementing with group quarters data (B26001-B26010) for institutional transient populations. 6. Apply appropriate population weights to convert housing units to population counts using average household size by tenure type.",
+      "methodological_challenges": [
+        "Census tables primarily capture housing units, not direct population counts in temporary housing",
+        "Defining 'temporary' housing lacks standardized Census Bureau criteria",
+        "Seasonal variations in occupancy are not captured in ACS annual estimates",
+        "Group quarters populations may be double-counted if included",
+        "Renter-occupied units used as proxy may include long-term renters",
+        "Homeless populations and informal housing arrangements are systematically undercounted"
+      ],
+      "reliability_thresholds": {
+        "min_sample_size": 500,
+        "min_geography": "county",
+        "confidence_intervals": "90%"
+      },
+      "precision_estimates": "Expected margins of error: \u00b115-25% for county-level estimates, \u00b110-20% for metro areas, \u00b125-40% for census tracts. MOEs increase significantly when aggregating across multiple tables due to error propagation. Coefficient of variation likely exceeds 30% for geographies smaller than large counties.",
+      "alternative_approaches": [
+        "Use B25004 (vacancy status) alone focusing on 'for rent' and 'for seasonal use' categories",
+        "Simplify to renter-occupied units with recent move-in dates (B25038, B25039)",
+        "Focus solely on group quarters institutional populations (B26001)",
+        "Use Public Use Microdata Sample (PUMS) for custom tabulations with person-level weights",
+        "Combine decennial census group quarters counts with ACS housing data for hybrid approach"
+      ],
+      "use_case_guidance": {
+        "recommended_for": [
+          "Regional housing policy analysis requiring broad estimates",
+          "Comparative studies across large metropolitan areas",
+          "Baseline assessments for emergency planning",
+          "Academic research with appropriate caveats about limitations"
+        ],
+        "avoid_for": [
+          "Precise counts needed for resource allocation",
+          "Small area analysis below county level",
+          "Time-sensitive or seasonal population estimates",
+          "Legal or regulatory compliance requiring exact counts",
+          "Direct service delivery planning for transient populations"
+        ]
+      },
+      "implementation_complexity": "very_high",
+      "llm_used": "claude-opus-4-20250514",
+      "reviewed_at": "2025-06-28T23:53:19.047839",
+      "original_concept": {
+        "id": "cendata:TransientPopulation",
+        "label": "Transient Population",
+        "confidence": 0.55,
+        "universe": "Population in temporary housing",
+        "stat_method": "count",
+        "definition": "Population in temporary or transitional housing...",
+        "census_tables": [
+          "B25003",
+          "B25004",
+          "B25014",
+          "B25032",
+          "B25033",
+          "B25034",
+          "B25035",
+          "B25036",
+          "B25037"
+        ],
+        "status": "low_confidence",
+        "bucket": "specialized_populations",
+        "category": "specialized_populations",
+        "review_status": "modified",
+        "complexity": "complex",
+        "routing": "census",
+        "implementation_notes": "Requires aggregation across multiple housing tenure and occupancy tables. Consider focusing on specific subcategories like 'renter-occupied units' or 'vacant units for rent' as proxies. May need to combine with group quarters data (B26001-B26010) for comprehensive coverage.",
+        "table_mapping_accuracy": "needs_correction",
+        "llm_reviewed_by": "anthropic",
+        "reviewed_at": "2025-06-28T22:41:21.131507",
+        "modification_reason": "Transient population is a valid demographic concept, but 'temporary housing' is not directly enumerated in Census/ACS. The concept needs refinement to align with available housing categories. Census captures housing tenure (owner/renter), vacancy status, and group quarters, which can serve as proxies for housing stability. The empty census tables list and moderate confidence score suggest this concept needs better operationalization using available housing and group quarters tables."
+      },
+      "mode": "complex_analysis"
+    },
+    {
+      "calculation_strategy": "1. Extract counts from Table B25004 for 'Vacant housing units: For seasonal, recreational, or occasional use' (typically B25004_006E). 2. Apply an occupancy assumption (e.g., 25% average annual occupancy based on local tourism patterns). 3. Multiply seasonal units by assumed occupancy rate and average household size (from B25010) to estimate population. 4. Document all assumptions explicitly. 5. Consider seasonal variation adjustments if analyzing specific time periods.",
+      "methodological_challenges": [
+        "ACS does not capture actual seasonal resident populations - only housing unit classifications",
+        "Occupancy rates vary dramatically by location, season, and property type with no ACS data support",
+        "Average household size for seasonal units likely differs from year-round units",
+        "Units classified as 'seasonal' may include rarely-used vacation homes or frequently-occupied second homes",
+        "Geographic mobility of seasonal residents makes them difficult to enumerate consistently"
+      ],
+      "reliability_thresholds": {
+        "min_sample_size": 500,
+        "min_geography": "county",
+        "confidence_intervals": "90%|95%|99%"
+      },
+      "precision_estimates": "Margins of error compound significantly: \u00b115-30% for housing unit counts in small geographies, plus unmeasurable uncertainty from occupancy assumptions. Total uncertainty could exceed \u00b150% for population estimates. Only housing unit counts have calculable MOEs.",
+      "alternative_approaches": [
+        "Use seasonal housing unit counts directly without population conversion",
+        "Combine with local tourism/lodging tax data for occupancy validation",
+        "Use change in total population between decennial censuses as proxy for seasonal variation",
+        "Focus on seasonal housing unit density or percentage rather than population estimates"
+      ],
+      "use_case_guidance": {
+        "recommended_for": [
+          "Identifying areas with high seasonal housing concentrations",
+          "Infrastructure planning for maximum potential occupancy scenarios",
+          "Comparative analysis of seasonal housing patterns across regions",
+          "Housing market studies focusing on vacation/second home inventory"
+        ],
+        "avoid_for": [
+          "Precise population estimates for service delivery planning",
+          "Demographic profiling of seasonal residents",
+          "Year-over-year trend analysis of seasonal populations",
+          "Any analysis requiring actual resident counts rather than housing capacity"
+        ]
+      },
+      "implementation_complexity": "very_high",
+      "llm_used": "claude-opus-4-20250514",
+      "reviewed_at": "2025-06-28T23:53:37.764447",
+      "original_concept": {
+        "id": "cendata:SeasonalResidents",
+        "label": "Seasonal Residents",
+        "confidence": 0.65,
+        "universe": "Households",
+        "stat_method": "count",
+        "definition": "Population in seasonal or recreational housing...",
+        "census_tables": [
+          "B25004"
+        ],
+        "status": "low_confidence",
+        "bucket": "specialized_populations",
+        "category": "specialized_populations",
+        "review_status": "modified",
+        "complexity": "complex",
+        "routing": "derived",
+        "implementation_notes": "The ACS does not directly enumerate 'seasonal residents' as a population or household count. However, Table B25004 (Vacancy Status) includes counts of housing units classified as 'For seasonal, recreational, or occasional use.' To estimate 'seasonal residents,' one would need to make assumptions about occupancy patterns, which is not directly supported by ACS data. The universe should be 'housing units,' not 'households.'",
+        "table_mapping_accuracy": "incorrect",
+        "llm_reviewed_by": "openai",
+        "reviewed_at": "2025-06-28T22:41:25.171682",
+        "modification_reason": "The concept as defined conflates population/household counts with housing unit characteristics. The ACS tracks housing units that are vacant for seasonal/recreational use (B25004), but does not count the number of people or households who are 'seasonal residents.' Thus, the statistical concept is questionable as stated, the universe is incorrect, and there is no direct table for the proposed measure. The best available proxy is the count of housing units classified as 'seasonal, recreational, or occasional use,' but this does not equate to a count of residents or households. Calculation of actual 'seasonal residents' would require additional assumptions or external data."
+      },
+      "mode": "complex_analysis"
+    },
+    {
+      "calculation_strategy": "Step 1: Extract multigenerational households from B11017 (total in B11017_001). Step 2: From B11001, identify family households (B11001_002) and subtract husband-wife families with own children only (B11001_003) and single-parent families with own children only (B11001_005 + B11001_008). Step 3: From B11010, identify family households with other relatives (B11010_003 + B11010_010). Step 4: Create composite measure by combining multigenerational households with family households containing other relatives, avoiding double-counting by using the maximum value or weighted combination. Step 5: Apply household weights and calculate standard errors using replicate weights or successive difference replication.",
+      "methodological_challenges": [
+        "No direct measure exists - requires proxy construction from multiple tables with different universes",
+        "Risk of double-counting households that appear in multiple categories (e.g., multigenerational AND other relatives)",
+        "Tables may have different reference periods or sampling frames",
+        "Definition ambiguity - 'extended family' varies culturally and legally",
+        "Missing granular relationship data beyond predefined ACS categories",
+        "Complex household arrangements may not fit neatly into available categories"
+      ],
+      "reliability_thresholds": {
+        "min_sample_size": 800,
+        "min_geography": "county",
+        "confidence_intervals": "90%"
+      },
+      "precision_estimates": "Expected CV of 15-25% at county level, 8-15% at metro area level, 5-10% at state level. Margins of error typically \u00b13-5% at county level for 5-year estimates. For 1-year estimates, only reliable for areas with 65,000+ population. Derived measures will have larger MOEs than direct tabulations - expect 1.5-2x standard table MOEs.",
+      "alternative_approaches": [
+        "Use B11017 (Multigenerational Households) alone as simpler proxy - captures 3+ generation households",
+        "Focus on B11001 subfamily categories for nuclear family + other relatives",
+        "Use PUMS microdata to create custom tabulations with precise relationship coding",
+        "Combine B09019 (household relationship) with B11003 (family type) for targeted analysis",
+        "Use B25010 (average household size) with B11016 (household type by size) as indirect measure"
+      ],
+      "use_case_guidance": {
+        "recommended_for": [
+          "Comparative analysis across large geographic areas (states, large metros)",
+          "Trend analysis using consistent methodology across time periods",
+          "Policy research on housing needs and family support systems",
+          "Cultural and demographic studies of household composition patterns"
+        ],
+        "avoid_for": [
+          "Small area analysis (census tracts, small cities under 20,000)",
+          "Legal determinations requiring precise relationship definitions",
+          "Year-to-year changes in areas under 100,000 population",
+          "International comparisons without careful definition alignment"
+        ]
+      },
+      "implementation_complexity": "high",
+      "llm_used": "claude-opus-4-20250514",
+      "reviewed_at": "2025-06-28T23:54:01.438770",
+      "original_concept": {
+        "id": "cendata:ExtendedFamilyHouseholds",
+        "label": "Extended Family Households",
+        "confidence": 0.7,
+        "universe": "Family households",
+        "stat_method": "count",
+        "definition": "Households with extended family members...",
+        "census_tables": [
+          "B11017",
+          "B11001",
+          "B11010"
+        ],
+        "status": "low_confidence",
+        "bucket": "specialized_populations",
+        "category": "specialized_populations",
+        "review_status": "modified",
+        "complexity": "complex",
+        "routing": "census",
+        "implementation_notes": "The ACS does not provide a direct variable or table for 'extended family households.' However, related tables (e.g., B11017: Multigenerational Households, B11001: Household Type, B11010: Nonrelatives in Household) can be used to approximate this concept. A derived measure would require combining information on household relationships, presence of relatives beyond the nuclear family, and possibly multigenerational status.",
+        "table_mapping_accuracy": "incorrect",
+        "llm_reviewed_by": "openai",
+        "reviewed_at": "2025-06-28T22:42:00.600480",
+        "modification_reason": "While 'extended family households' is a legitimate demographic/statistical concept, the ACS does not directly enumerate them. The closest proxy is 'multigenerational households' (B11017), but this does not fully capture all extended family arrangements (e.g., presence of aunts/uncles/cousins who are not part of a multigenerational chain). Calculating this measure would require complex derivation from multiple tables and is not a simple count. The universe and method are generally appropriate, but the lack of direct table mapping and the need for derived logic require modification of the concept for ACS implementation."
+      },
+      "mode": "complex_analysis"
+    },
+    {
+      "calculation_strategy": "1. Access ACS PUMS data for the geography of interest\n2. Identify all households using serialno (household ID)\n3. For each household, examine RELSHIPP codes for all members\n4. Flag households where NO member has RELSHIPP = 20 (householder) paired with codes 21-36 (relatives)\n5. Within flagged households, verify all members have non-relative codes (37-40: nonrelatives, boarders, roommates)\n6. Count flagged households and apply replicate weights (WGTP) for estimates\n7. Calculate standard errors using successive difference replication with WGTP1-WGTP80",
+      "methodological_challenges": [
+        "Complex households with mixed relative/non-relative members require classification decisions",
+        "Single-person households technically have no relatives but may not match conceptual intent",
+        "Group quarters (dorms, institutions) may be miscategorized if included",
+        "Replicate weight calculations are computationally intensive for variance estimation",
+        "Relationship codes can be ambiguous for unmarried partners vs roommates"
+      ],
+      "reliability_thresholds": {
+        "min_sample_size": 500,
+        "min_geography": "PUMA",
+        "confidence_intervals": "90%|95%|99%"
+      },
+      "precision_estimates": "For PUMAs (~100,000 population): CV typically 15-25% due to small universe size\nFor counties >250,000 population: CV typically 10-20%\nFor states: CV typically 5-15%\nMargins of error at 90% confidence = 1.645 * SE\nExpect wide confidence intervals for rare household types",
+      "alternative_approaches": [
+        "Use nonfamily households (B11001) as proxy - includes single-person households but readily available",
+        "Focus on 2+ person nonfamily households (B11016) to exclude single-person units",
+        "Use unmarried partner households (B11009) for specific cohabitation analysis",
+        "Aggregate householders living alone + householders with nonrelatives only from B09019",
+        "Custom tabulation request to Census Bureau for direct non-relative household counts"
+      ],
+      "use_case_guidance": {
+        "recommended_for": [
+          "Housing affordability studies examining shared living arrangements",
+          "College town analyses where unrelated roommates are common",
+          "Urban planning for co-housing and shared economy trends",
+          "State-level demographic profiles with adequate sample sizes"
+        ],
+        "avoid_for": [
+          "Small area analysis below PUMA level",
+          "Time series comparisons due to relationship coding changes",
+          "Legal/regulatory purposes requiring precise definitions",
+          "Rural areas with very small non-relative household populations"
+        ]
+      },
+      "implementation_complexity": "very_high",
+      "llm_used": "claude-opus-4-20250514",
+      "reviewed_at": "2025-06-28T23:54:23.161655",
+      "original_concept": {
+        "id": "cendata:Non-RelativeHouseholds",
+        "label": "Non-Relative Households",
+        "confidence": 0.65,
+        "universe": "Households",
+        "stat_method": "count",
+        "definition": "Households with non-relatives living together...",
+        "census_tables": [],
+        "status": "low_confidence",
+        "bucket": "specialized_populations",
+        "category": "specialized_populations",
+        "review_status": "modified",
+        "complexity": "complex",
+        "routing": "derived",
+        "implementation_notes": "The ACS does not directly tabulate 'non-relative households.' Instead, it provides data on household types (family, nonfamily, etc.) and relationships among household members. To approximate 'non-relative households,' one would need to derive this from detailed relationship variables (e.g., PUMS variables RELSHIPP, HHT, and household roster data), identifying households where all members are non-relatives or where non-relatives cohabit. No standard ACS summary table provides this directly.",
+        "table_mapping_accuracy": "incorrect",
+        "llm_reviewed_by": "openai",
+        "reviewed_at": "2025-06-28T22:42:14.886810",
+        "modification_reason": "The concept of 'non-relative households' is not a standard Census/ACS category. The ACS distinguishes between 'family' and 'nonfamily' households, with the latter including people living alone or with non-relatives. However, summary tables do not directly enumerate households composed solely of non-relatives or with non-relatives present. Calculating this requires detailed manipulation of microdata (PUMS), making it a complex, derived measure rather than a direct table lookup or simple calculation. The universe and statistical method are generally appropriate, but the absence of direct table mapping and the need for derivation require modification of the concept and its implementation."
+      },
+      "mode": "complex_analysis"
+    },
+    {
+      "calculation_strategy": "1. Extract language diversity: Calculate proportion of non-English speakers from B16001 (normalize by total population 5+ years). 2. Quantify ancestry diversity: Use B04006 to calculate Herfindahl-Hirschman Index (HHI) for ancestry concentration. 3. Measure racial/ethnic diversity: Apply Simpson's Diversity Index to B02006 categories. 4. Standardize each component to z-scores using state or national means/SDs. 5. Create composite score: Weight equally (1/3 each) or use PCA-derived weights. 6. Transform final score to 0-100 scale for interpretability.",
+      "methodological_challenges": [
+        "Defining 'cultural identification' beyond measurable proxies creates validity concerns",
+        "Multiple ancestry reporting in B04006 leads to totals exceeding 100% - requires careful normalization",
+        "Language data excludes children under 5, creating universe mismatch with other components",
+        "Weighting scheme selection (equal vs. data-driven) significantly impacts results",
+        "Temporal consistency issues as ancestry categories change between ACS releases",
+        "Geographic comparability problems due to varying demographic compositions affecting z-score standardization"
+      ],
+      "reliability_thresholds": {
+        "min_sample_size": 1000,
+        "min_geography": "census tract",
+        "confidence_intervals": "90%|95%|99%"
+      },
+      "precision_estimates": "Expected CVs: 5-15% for county level, 15-30% for census tracts, 30-50% for block groups. Composite MOEs require root-sum-of-squares calculation across components. For tracts with <1000 population, MOEs can exceed 40% of estimates. Language components typically most precise, ancestry least precise due to sampling variability.",
+      "alternative_approaches": [
+        "Use single indicator: foreign-born percentage (B05002) as simplified cultural diversity proxy",
+        "Implement entropy-based diversity index using only race/ethnicity data (B03002)",
+        "Create binary indicator: areas above/below threshold for linguistic isolation (B16002)",
+        "Use pre-calculated diversity indices from external sources (e.g., USA Today Diversity Index)",
+        "Focus on specific cultural groups relevant to research question rather than composite"
+      ],
+      "use_case_guidance": {
+        "recommended_for": [
+          "County or MSA-level analysis of cultural diversity trends",
+          "Comparative studies across large geographic units",
+          "Initial exploratory analysis to identify areas for detailed study",
+          "Policy research requiring broad cultural diversity measures"
+        ],
+        "avoid_for": [
+          "Block group analysis or areas with <1000 population",
+          "Legal compliance or funding allocation decisions",
+          "Time-series analysis across ACS data releases with classification changes",
+          "Studies requiring precise point estimates rather than relative rankings"
+        ]
+      },
+      "implementation_complexity": "very_high",
+      "llm_used": "claude-opus-4-20250514",
+      "reviewed_at": "2025-06-28T23:54:45.362952",
+      "original_concept": {
+        "id": "cendata:CulturalIdentityMarkers",
+        "label": "Cultural Identity Markers",
+        "confidence": 0.6,
+        "universe": "Total population",
+        "stat_method": "composite",
+        "definition": "Language, ancestry, and cultural identification...",
+        "census_tables": [
+          "B16001",
+          "B04006",
+          "B02006"
+        ],
+        "status": "low_confidence",
+        "bucket": "specialized_populations",
+        "category": "specialized_populations",
+        "review_status": "modified",
+        "complexity": "complex",
+        "routing": "derived",
+        "implementation_notes": "Cultural Identity Markers is not a direct ACS variable or table. Components such as language spoken at home (B16001), ancestry (B04006), and race/ethnicity (B02006) are available, but 'cultural identification' is not directly measured. Any composite index would require combining variables from multiple tables and making methodological decisions about weighting and inclusion.",
+        "table_mapping_accuracy": "needs_correction",
+        "llm_reviewed_by": "openai",
+        "reviewed_at": "2025-06-28T22:42:27.794578",
+        "modification_reason": "While ACS provides data on language, ancestry, and race/ethnicity, it does not directly measure 'cultural identification' as a unified concept. The proposed composite is methodologically complex and would require careful definition and justification. The universe ('total population') is appropriate, but the statistical method and table mapping need clarification. Recommend modifying the concept to specify which ACS variables are included and how they are combined."
+      },
+      "mode": "complex_analysis"
+    },
+    {
+      "calculation_strategy": "1. Define border counties using TIGER/Line shapefiles or Census geographic relationship files to identify counties adjacent to international borders. 2. Create a list of FIPS codes for all border counties (approximately 33 US-Mexico and 16 US-Canada border counties). 3. Query B01003_001 (total population) for each identified county using the appropriate ACS dataset (1-year for large counties, 5-year for comprehensive coverage). 4. Sum the population values across all border counties. 5. Calculate margin of error using the square root of the sum of squared MOEs formula. 6. Document which counties are included and the year of geographic definitions used.",
+      "methodological_challenges": [
+        "Border county definitions may vary between federal agencies and over time due to boundary changes",
+        "Some border counties are very large with populations far from the actual border",
+        "Maritime borders and water boundaries create definitional ambiguities",
+        "Cross-border metropolitan areas may require special consideration",
+        "Native American reservations spanning borders complicate jurisdictional definitions"
+      ],
+      "reliability_thresholds": {
+        "min_sample_size": 1000,
+        "min_geography": "county",
+        "confidence_intervals": "90%"
+      },
+      "precision_estimates": "For 5-year ACS estimates, expect MOEs of 1-3% for large border counties (>100,000 population) and 5-10% for smaller counties (<20,000). When aggregating across all border counties, the combined MOE typically ranges from 0.5-1.5% of the total border population due to the large aggregate sample size.",
+      "alternative_approaches": [
+        "Use Census-designated border metropolitan statistical areas (MSAs) for urban border analysis",
+        "Apply distance-based buffers (e.g., population within 25 miles of border) using block group data",
+        "Focus on specific ports of entry communities using place-level geography",
+        "Use Public Use Microdata Areas (PUMAs) that align with border regions for detailed demographic analysis"
+      ],
+      "use_case_guidance": {
+        "recommended_for": [
+          "Regional economic impact studies of border policies",
+          "Healthcare and education resource planning for border regions",
+          "Transportation and infrastructure investment analysis",
+          "Cross-border labor market research"
+        ],
+        "avoid_for": [
+          "Fine-grained analysis of actual border-crossing populations",
+          "Studies requiring distinction between near-border and far-from-border populations within counties",
+          "Real-time migration or movement patterns",
+          "Analysis requiring consistent definitions across different time periods"
+        ]
+      },
+      "implementation_complexity": "high",
+      "llm_used": "claude-opus-4-20250514",
+      "reviewed_at": "2025-06-28T23:55:03.788518",
+      "original_concept": {
+        "id": "cendata:BorderCommunities",
+        "label": "Border Communities",
+        "confidence": 0.65,
+        "universe": "Population in border counties",
+        "stat_method": "count",
+        "definition": "Population in US-Mexico or US-Canada border areas...",
+        "census_tables": [
+          "B01003"
+        ],
+        "status": "low_confidence",
+        "bucket": "specialized_populations",
+        "category": "specialized_populations",
+        "review_status": "modified",
+        "complexity": "complex",
+        "routing": "census",
+        "implementation_notes": "The ACS does not have a direct table for 'border communities.' To calculate this, users must define the list of border counties (using external geographic definitions, e.g., TIGER/Line shapefiles or Census county codes adjacent to the US-Mexico or US-Canada border), then sum the total population (B01003_001) for those counties. The universe should be clarified as 'population in counties adjacent to the US-Mexico or US-Canada border.'",
+        "table_mapping_accuracy": "needs_correction",
+        "llm_reviewed_by": "openai",
+        "reviewed_at": "2025-06-28T22:42:51.447966",
+        "modification_reason": "While 'border communities' is a legitimate statistical concept, it is not a standard Census/ACS variable or table. The ACS provides population counts at the county level (e.g., B01003), but does not flag 'border counties.' The calculation is feasible but requires external geographic logic to identify which counties qualify. The original table mapping was empty; B01003 is the correct table for total population by county. The complexity is 'complex' due to the need for geographic preprocessing. The concept is best sourced from Census data, not BLS or other agencies."
+      },
+      "mode": "complex_analysis"
+    },
+    {
+      "calculation_strategy": "1. Define rural geography using Census Urban/Rural Classification (2020 criteria): areas outside Urbanized Areas (50,000+ population) and Urban Clusters (2,500-49,999 population). 2. Obtain rural area identifiers from Census TIGER/Line shapefiles or Urban Area Reference files. 3. Extract transportation data from tables B08141 (means of transportation by vehicles available) and B08105 (means of transportation by public transportation). 4. Filter records to include only geographic units classified as rural or aggregate tract/block group data within rural boundaries. 5. Calculate transportation mode distributions, ensuring proper weighting when aggregating across geographic units. 6. Apply ACS replicate weights for variance estimation.",
+      "methodological_challenges": [
+        "Rural definition ambiguity - Census rural classification differs from USDA Rural-Urban Continuum Codes and other federal definitions",
+        "Geographic boundary misalignment - ACS geographic units (tracts, block groups) may straddle urban/rural boundaries",
+        "Small sample sizes in sparsely populated rural areas leading to high margins of error",
+        "Temporal mismatch between decennial Census urban/rural designations and ACS survey years",
+        "Limited public transportation categories in rural contexts may mask informal transportation arrangements",
+        "Seasonal variation in transportation patterns not captured in ACS point-in-time estimates"
+      ],
+      "reliability_thresholds": {
+        "min_sample_size": 100,
+        "min_geography": "county",
+        "confidence_intervals": "90%|95%|99%"
+      },
+      "precision_estimates": "Expected margins of error: 5-10% for county-level estimates in moderately populated rural counties (10,000-50,000 residents); 10-20% for less populated counties; 20-40% for tract-level estimates in rural areas. Rare transportation modes (e.g., public transit in very rural areas) may have CVs exceeding 40%. Use ACS variance replicate weights to calculate precise MOEs.",
+      "alternative_approaches": [
+        "Use county-level data with Rural-Urban Continuum Codes for simpler rural definition",
+        "Focus on predominant transportation modes only (drove alone, carpool) to improve reliability",
+        "Aggregate multiple years of ACS data (3-year or 5-year estimates) for smaller geographies",
+        "Use PUMS data with PUMA-based rural approximations for custom tabulations",
+        "Supplement with LEHD Origin-Destination Employment Statistics for commute patterns"
+      ],
+      "use_case_guidance": {
+        "recommended_for": [
+          "Regional transportation planning in rural areas with adequate population",
+          "Comparative analysis of rural vs urban transportation dependencies",
+          "Environmental impact assessments of rural commuting patterns",
+          "Economic development planning focusing on transportation barriers"
+        ],
+        "avoid_for": [
+          "Small area analysis below county level without aggregation",
+          "Real-time or seasonal transportation analysis",
+          "Areas with significant seasonal population fluctuations",
+          "Policy evaluation requiring precise mode-specific estimates"
+        ]
+      },
+      "implementation_complexity": "high",
+      "llm_used": "claude-opus-4-20250514",
+      "reviewed_at": "2025-06-28T23:55:25.804474",
+      "original_concept": {
+        "id": "cendata:RuralTransportationPatterns",
+        "label": "Rural Transportation Patterns",
+        "confidence": 0.7,
+        "universe": "Workers in rural areas",
+        "stat_method": "count",
+        "definition": "Transportation modes in rural areas...",
+        "census_tables": [
+          "B08141",
+          "B08105"
+        ],
+        "status": "low_confidence",
+        "bucket": "transportation",
+        "category": "transportation",
+        "review_status": "modified",
+        "complexity": "complex",
+        "routing": "census",
+        "implementation_notes": "To operationalize 'Rural Transportation Patterns,' filter ACS tables on 'Means of Transportation to Work' (e.g., B08141, B08105) by respondents in rural geographies. Rural status is not a direct ACS variable but can be inferred by aggregating data for areas classified as rural by Census geography definitions (e.g., outside urbanized areas/urban clusters).",
+        "table_mapping_accuracy": "needs_correction",
+        "llm_reviewed_by": "openai",
+        "reviewed_at": "2025-06-28T22:44:33.012348",
+        "modification_reason": "The concept is statistically valid and can be calculated from ACS data, but not by direct table lookup. ACS tables like B08141 and B08105 provide transportation mode data for workers, but do not have a 'rural' flag. Users must aggregate data for rural geographies (e.g., census tracts or counties classified as rural). The original table mapping is missing; recommended tables are provided. The complexity is 'complex' due to the need for geographic filtering and aggregation."
+      },
+      "mode": "complex_analysis"
+    },
+    {
+      "calculation_strategy": "1. Extract worker counts by mode from B08301 (means of transportation) as baseline population. 2. Compile travel time distributions from B08303 to establish distance proxies. 3. Cross-tabulate workplace geography data from B08119 (workplace by minor civil division) with residence data. 4. Integrate detailed modal splits from B08130-B08134 (means of transportation by various demographics). 5. Create origin-destination matrix using residence PUMA and workplace PUMA/county combinations. 6. Apply iterative proportional fitting (IPF) to balance marginal totals between residence and workplace geographies. 7. Validate against CTPP special tabulation if available for the geography.",
+      "methodological_challenges": [
+        "ACS tables lack direct origin-destination pairs - must be inferred from marginal distributions",
+        "Workplace geography allocation uses a statistical model that can introduce substantial error in small areas",
+        "Modal split tables (B08130-B08134) have different universe restrictions that complicate integration",
+        "Temporal mismatch between 5-year ACS estimates can obscure changing commute patterns",
+        "Suppression thresholds differ across tables, creating data gaps in flow reconstruction",
+        "Interstate flows require coordination of data from multiple state files"
+      ],
+      "reliability_thresholds": {
+        "min_sample_size": 500,
+        "min_geography": "county",
+        "confidence_intervals": "90%|95%|99%"
+      },
+      "precision_estimates": "For county-to-county flows: expect CVs of 15-30% for flows >1000 workers, 30-50% for flows of 100-1000 workers, and >50% for smaller flows. Tract-level analysis typically unreliable except for large employment centers. State-level flows generally achieve CVs <10%. Margins of error compound when combining multiple tables - use root sum of squares approximation.",
+      "alternative_approaches": [
+        "Use CTPP 5-year special tabulation for true O-D pairs instead of reconstructing from ACS",
+        "Limit analysis to county-to-county flows using only B08119 workplace geography",
+        "Use LODES (LEHD Origin-Destination Employment Statistics) for administrative data-based flows",
+        "Simplify to net commuting flows (in-commuters minus out-commuters) using B08117",
+        "Focus on single mode analysis using B08301 to avoid complex modal integration"
+      ],
+      "use_case_guidance": {
+        "recommended_for": [
+          "Regional transportation planning at county or MSA level",
+          "Economic impact analysis of major employment centers",
+          "Multi-county workforce development strategies",
+          "State-level commuting shed analysis"
+        ],
+        "avoid_for": [
+          "Tract-to-tract flow analysis outside major metros",
+          "Real-time or recent change analysis (5-year estimates too smoothed)",
+          "Small employer or site-specific impact studies",
+          "Any analysis requiring flows <100 workers"
+        ]
+      },
+      "implementation_complexity": "very_high",
+      "llm_used": "claude-opus-4-20250514",
+      "reviewed_at": "2025-06-28T23:55:50.893079",
+      "original_concept": {
+        "id": "cendata:Journey-to-WorkFlows",
+        "label": "Journey-to-Work Flows",
+        "confidence": 0.7,
+        "universe": "Workers 16 years and over",
+        "stat_method": "count",
+        "definition": "Geographic patterns of work commuting...",
+        "census_tables": [
+          "B08301",
+          "B08303",
+          "B08119",
+          "B08130",
+          "B08131",
+          "B08132",
+          "B08133",
+          "B08134"
+        ],
+        "status": "low_confidence",
+        "bucket": "transportation",
+        "category": "transportation",
+        "review_status": "modified",
+        "complexity": "complex",
+        "routing": "census",
+        "implementation_notes": "Requires aggregation of commuting flow data from multiple detailed tables. Consider using CTPP (Census Transportation Planning Package) for more comprehensive flow matrices. Statistical method should specify 'aggregated count' or 'flow matrix compilation'.",
+        "table_mapping_accuracy": "needs_correction",
+        "llm_reviewed_by": "anthropic",
+        "reviewed_at": "2025-06-28T22:44:44.600838",
+        "modification_reason": "Journey-to-Work Flows is a valid and important demographic concept that Census/ACS can support, but the current specification is incomplete. The empty census tables array needs correction - this concept requires multiple commuting-related tables. The statistical method 'count' is oversimplified; this actually involves complex spatial flow analysis between origin-destination pairs. The universe specification is correct. While Census collects the underlying data (place of work, residence), creating meaningful flow patterns requires sophisticated geographic aggregation and potentially supplementary data sources like CTPP. The concept should be modified to reflect this complexity and provide proper table mappings."
+      },
+      "mode": "complex_analysis"
+    },
+    {
+      "calculation_strategy": "1. Extract total workers 16+ from B08301_001E (denominator). 2. Sum sustainable mode estimates from B08301: public transit (B08301_010E), walked (B08301_019E), bicycle (B08301_018E), and worked from home (B08301_021E) if included in sustainability definition. 3. Calculate sustainable transportation rate = (sum of sustainable modes / total workers) \u00d7 100. 4. Compute margin of error using ACS formula for derived ratios: MOE = sqrt(MOE_numerator\u00b2 - (rate\u00b2 \u00d7 MOE_denominator\u00b2)) / denominator. 5. Apply statistical testing to ensure rate MOE is within acceptable bounds (CV < 30%).",
+      "methodological_challenges": [
+        "Defining 'sustainable' transportation is subjective - must explicitly state which modes are included (e.g., should carpooling or working from home count?)",
+        "Mode categories in B08301 may not perfectly align with sustainability concepts (e.g., motorcycles grouped with bicycles in some years)",
+        "Temporal comparability issues as ACS transportation categories have changed over time",
+        "Does not capture multi-modal trips or seasonal variations in commute patterns",
+        "Missing data on fuel types (electric vs. gas vehicles) within automobile category"
+      ],
+      "reliability_thresholds": {
+        "min_sample_size": 100,
+        "min_geography": "census tract",
+        "confidence_intervals": "90%"
+      },
+      "precision_estimates": "For census tracts: expect MOEs of \u00b15-15 percentage points depending on tract size and mode distribution. For counties: MOEs typically \u00b11-3 percentage points. For places >65,000 population: MOEs usually <\u00b11 percentage point. Precision decreases significantly for individual sustainable modes in small geographies.",
+      "alternative_approaches": [
+        "Use only public transit share (B08301_010E) as a simpler proxy for sustainable transportation infrastructure usage",
+        "Create categorical variable (high/medium/low sustainability) instead of continuous rate to reduce precision requirements",
+        "Aggregate to larger geographies (county or MSA level) for more reliable estimates",
+        "Use 5-year ACS estimates exclusively to maximize sample size and reliability"
+      ],
+      "use_case_guidance": {
+        "recommended_for": [
+          "Regional transportation planning and infrastructure investment decisions",
+          "Environmental impact assessments at county or metropolitan area level",
+          "Comparative analysis across large cities or metropolitan areas",
+          "Tracking long-term trends using consistent definitions over time"
+        ],
+        "avoid_for": [
+          "Small area analysis below census tract level without careful MOE evaluation",
+          "Year-over-year change detection in areas with <20,000 workers",
+          "Direct carbon footprint calculations without additional data sources",
+          "Rural areas where limited mode choices make rates less meaningful"
+        ]
+      },
+      "implementation_complexity": "high",
+      "llm_used": "claude-opus-4-20250514",
+      "reviewed_at": "2025-06-28T23:56:12.526196",
+      "original_concept": {
+        "id": "cendata:SustainableTransportation",
+        "label": "Sustainable Transportation",
+        "confidence": 0.65,
+        "universe": "Workers 16 years and over",
+        "stat_method": "rate",
+        "definition": "Use of environmentally sustainable transportation...",
+        "census_tables": [
+          "B08301"
+        ],
+        "status": "low_confidence",
+        "bucket": "transportation",
+        "category": "transportation",
+        "review_status": "modified",
+        "complexity": "complex",
+        "routing": "derived",
+        "implementation_notes": "The ACS does not have a direct variable for 'sustainable transportation.' Calculation requires aggregating modes considered sustainable (e.g., public transit, walking, bicycling) from B08301 (Means of Transportation to Work). The universe 'Workers 16 years and over' is correct. The rate can be calculated as the share of workers using sustainable modes divided by total workers. Definition of 'sustainable' must be explicitly operationalized.",
+        "table_mapping_accuracy": "needs_correction",
+        "llm_reviewed_by": "openai",
+        "reviewed_at": "2025-06-28T22:44:48.086399",
+        "modification_reason": "While 'sustainable transportation' is a valid statistical concept, it is not directly measured in the ACS. However, it can be derived by summing relevant categories in B08301. The complexity is 'complex' because it requires both a conceptual mapping (what counts as sustainable) and aggregation across multiple variables. Table mapping needs correction: B08301 is the relevant table, not the empty list provided. The concept is feasible but requires careful definition and calculation."
+      },
+      "mode": "complex_analysis"
+    },
+    {
+      "calculation_strategy": "1) Extract commute mode shares by race from B08301 (White alone, Black alone, Asian alone, etc.). 2) Calculate median travel time by mode and race using B08303 cross-tabulations. 3) Determine vehicle availability by income brackets from B08119 and map to racial groups using B19001 x B02001 correlations. 4) Create composite equity index: a) Calculate mode choice diversity index by race, b) Compute travel time burden ratio (minority/white median times), c) Assess vehicle access rates by income quintile and race, d) Weight components (suggest 40% mode diversity, 35% time burden, 25% vehicle access) to create final 0-100 equity score where higher = more equitable.",
+      "methodological_challenges": [
+        "Census tables don't directly cross-tabulate race x income x transportation mode - requires statistical estimation/imputation",
+        "Travel time data (B08303) only available for workers, excluding non-working populations who may face greater transportation barriers",
+        "Mode choice categories differ between tables - B08301 has detailed modes while B08119 groups differently",
+        "Small area estimates for minority populations often suppressed, creating data gaps in rural/suburban areas",
+        "Income brackets in B19001 don't align with vehicle availability brackets in B08119, requiring interpolation"
+      ],
+      "reliability_thresholds": {
+        "min_sample_size": 500,
+        "min_geography": "census tract",
+        "confidence_intervals": "90%|95%|99%"
+      },
+      "precision_estimates": "Expected margins of error: \u00b18-12% at tract level for composite score, \u00b115-25% for subgroup comparisons (e.g., Black transit users). MOEs compound when combining multiple tables - use root sum of squares method. For small minority populations (<100 workers), MOEs can exceed 50% making results unreliable. County-level estimates typically achieve \u00b13-5% MOE for overall score.",
+      "alternative_approaches": [
+        "Simple commute time ratio: Calculate ratio of minority to white median travel times from B08303 only - loses income dimension but more reliable",
+        "Vehicle availability index: Focus solely on B08119 household vehicle access by tract median income - simpler but misses racial disparities",
+        "Transit accessibility score: Use B08301 transit mode share as proxy for transit service quality - assumes choice reflects access",
+        "Two-factor approach: Combine just B08303 (time) and B08119 (vehicles) without complex race x income interactions"
+      ],
+      "use_case_guidance": {
+        "recommended_for": [
+          "Metropolitan area transportation planning where sample sizes support subgroup analysis",
+          "Environmental justice assessments requiring documented disparities",
+          "Grant applications needing comprehensive equity metrics",
+          "Comparing equity across multiple large cities or counties"
+        ],
+        "avoid_for": [
+          "Rural areas with small minority populations where MOEs exceed 30%",
+          "Real-time transportation operations decisions requiring precise data",
+          "Individual neighborhood assessments below tract level",
+          "Areas with suppressed data for 3+ of the 6 required tables"
+        ]
+      },
+      "implementation_complexity": "very_high",
+      "llm_used": "claude-opus-4-20250514",
+      "reviewed_at": "2025-06-28T23:56:38.917428",
+      "original_concept": {
+        "id": "cendata:TransportationEquity",
+        "label": "Transportation Equity",
+        "confidence": 0.6,
+        "universe": "Workers by income and race",
+        "stat_method": "composite",
+        "definition": "Access to transportation options across demographic groups...",
+        "census_tables": [
+          "B08301",
+          "B08303",
+          "B08119",
+          "B08121",
+          "B19001",
+          "B02001"
+        ],
+        "status": "low_confidence",
+        "bucket": "transportation",
+        "category": "transportation",
+        "review_status": "modified",
+        "complexity": "complex",
+        "routing": "derived",
+        "implementation_notes": "Requires defining specific transportation equity metrics (e.g., commute time disparities, mode availability by income/race) and combining multiple transportation, income, and demographic tables. Consider focusing on measurable proxies like commute time ratios or vehicle availability rates across groups.",
+        "table_mapping_accuracy": "needs_correction",
+        "llm_reviewed_by": "anthropic",
+        "reviewed_at": "2025-06-28T22:44:57.783369",
+        "modification_reason": "Transportation equity is conceptually valid but poorly defined here. The Census doesn't directly measure 'access to transportation options' but does collect commute data, vehicle availability, and travel times that could serve as proxies. The concept needs operationalization - what specific metric constitutes equity? The composite method is appropriate given the multi-dimensional nature, but specific tables and calculations must be defined. The empty census tables array indicates incomplete specification. This would require complex multi-table analysis combining transportation behavior (B08xxx series), income (B19xxx), and race (B02xxx) data to create meaningful equity measures."
+      },
+      "mode": "complex_analysis"
+    }
+  ],
+  "summary": {
+    "total_analyzed": 25,
+    "complexity_distribution": {
+      "high": 13,
+      "very_high": 11,
+      "moderate": 1
+    }
+  },
+  "generated_at": "2025-06-28T23:56:39.418239"
+}

@@ -1,0 +1,48 @@
+United States Census Bureau | An official website of the United States Government
+
+Data Processing Error for
+Migration Originating in
+Connecticut in 2022 ACS
+
+June 20, 2024
+
+After the release of the 2022 American Community Survey (ACS) data products, an error was identified in the
+
+Migration/Residence One Year Ago data among respondents who reported moving within the state of Connecticut or
+
+from the state of Connecticut to another state or Puerto Rico. Due to the change of county boundaries in Connecticut,
+
+[/programs-surveys/acs/technical-documentation/user-notes/2023-01.html] respondents reporting a Connecticut
+
+county as their residence one year ago were systematically excluded from the donor pool for allocating missing or
+
+inconsistent data [https://www2.census.gov/programs-
+
+surveys/acs/methodology/design_and_methodology/2022/acs_design_methodology_ch10_2022.pdf] . This
+
+processing error resulted in a decreased share of allocated migration geographies originating in Connecticut. The
+error was present in 2022 1-year and 2018-2022 5-year data products [/content/dam/Census/programs-
+surveys/acs/tech-doc/errata/Errata143_2022_CT_ImpactedDataProductList.xlsx] and Public Use Microdata Sample
+(PUMS) [/content/dam/Census/programs-surveys/acs/tech-
+doc/errata/Errata143_2022_CT_ImpactedDataProductList.xlsx] files.
+
+The error had the impact of overestimating movers from different states and Puerto Rico to Connecticut,
+underestimating movers within Connecticut, and underestimating movers from Connecticut to other states and Puerto
+Rico. For Connecticut as a state of current residence or previous residence, users should not compare 2022 ACS 1-
+year and 2018-2022 ACS 5-year estimates to other ACS data. The 2022 estimates will be suppressed in future 1-year
+and 5-year Comparison Profiles for Connecticut and nested geographies. Affected estimates include Same county;
+
+Different county, Same state; and Different county, Different state in CP02. For other states and Puerto Rico, users
+should use caution when comparing 2022 ACS 1-year and 2018-2022 ACS 5-year estimates to other ACS data.
+
+Data for total movers, non-movers, and movers from abroad were not affected by the error. Estimates for Place of
+Work and other ACS topics were unaffected. The error did not impact population estimates associated with the
+Census Bureau’s Population Estimates Program. The error did impact estimates associated with the 2022 State-to-
+State Migration Flows [/data/tables/time-series/demo/geographic-mobility/state-to-county-migration.html] .
+
+The processing error impacting 2022 has been corrected for the 2023 ACS 1-year estimates. Revised data for 2022
+will be used to create the 2023 and later ACS 5-year estimates.
+
+Page Last Revised - August 30, 2024
+
+

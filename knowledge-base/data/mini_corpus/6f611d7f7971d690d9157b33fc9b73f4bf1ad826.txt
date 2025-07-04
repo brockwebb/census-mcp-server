@@ -1,0 +1,129 @@
+An ofﬁcial website of the United States government Here’s how you know
+
+(cid:0)
+
+   BACK TO TOPICS PAGE [/ACS/WWW/ABOUT/WHY-WE-ASK-EACH-QUES…
+
+We ask questions about the units in the structure, number of
+
+rooms, and number of bedrooms to create data about housing
+
+types and housing density.
+
+Local, state, tribal, and federal agencies use these data in
+
+government programs to analyze whether adequate housing is
+
+available and affordable for residents, and to provide and fund
+
+housing assistance programs. The number of rooms in
+
+combination with the number of people living in a unit provides
+
+a ratio of people to rooms, which can be used to measure the
+
+extent of overcrowding in our nation's households. These
+
+statistics also help enforce laws, policies, and regulations
+
+against discrimination in government programs and in society.
+
+Your privacy concerns
+
+We use your conﬁdential survey answers to create statistics like those in the results below and in the full tables that contain all th
+
+data—no one is able to ﬁgure out your survey answers from the statistics we produce. The Census Bureau is legally bound to
+
+strict conﬁdentiality requirements. Individual records are not shared with anyone, including federal agencies and law enforcemen
+entities. By law, the Census Bureau cannot share respondents' answers with anyone, including companies, other federal agenci
+and law enforcement.
+
+Questions as they appear on the form
+
+We ask two questions about the units in the structure, number of rooms, and number of
+bedrooms to produce statistics about housing types and housing density.
+
+(cid:0)
+
+   VIEW QUESTIONS
+
+Results from these questions
+
+We compile the results from these questions to provide communities with important statistics for infrastructure development and
+
+emergency planning. You can see some of these published statistics here for the nation, states, and your community.
+
+United States
+
+Housing Units that are Detached Single-Family Houses
+
+61.4 percent [https://data.census.gov/table/ACSDP5Y2023.DP04]
+
+Source: Latest ACS 5-Year Estimates
+Data Proﬁles/Housing Characteristics [https://data.census.gov/table/ACSDP5Y2023.DP04]
+
+Median Number of Rooms in a Housing Unit
+
+5.5 [https://data.census.gov/table/ACSDP5Y2023.DP04]
+
+Source: Latest ACS 5-Year Estimates
+Data Proﬁles/Housing Characteristics [https://data.census.gov/table/ACSDP5Y2023.DP04]
+
+Housing Units with 1 Bedroom
+
+10.9 percent [https://data.census.gov/table/ACSDP5Y2023.DP04]
+
+Is this page helpful?
+
+✕
+
+ Yes 
+
+ No
+
+Source: Latest ACS 5-Year Estimates
+
+Data Proﬁles/Housing Characteristics [https://data.census.gov/table/ACSDP5Y2023.DP04]
+
+Units in structure, rooms, and bedrooms data help communities:
+
+Provide Adequate Housing
+
+We ask about different types of housing, and how many people occupy that housing, to help communities understand whether
+
+available housing meets the needs of residents. For example, these data help measure overcrowding in communities and are
+
+integral components to set Fair Market Rents for all areas of the country.
+
+When housing is not sufﬁcient, data can help communities:
+
+Enroll eligible households in programs designed to assist them (such as the Low Income Home Energy Assistance Program).
+Qualify for grants from the Community Development Block Grant (CDBG), HOME Investment Partnerships Program, Emergency Solutions
+
+Grants (ESG), Housing Opportunities for Persons with AIDS (HOPWA), and other programs.
+
+These data provide benchmark statistics that measure progress toward the Congressional declaration of goals for a national
+housing policy--a decent home and suitable living environment for every American family.
+
+Plan Community Development
+
+These data are used to identify adequate housing and may be useful in identifying types of structures in disaster-prone areas
+during emergency planning and preparation.
+
+History of units in structure, rooms, and bedrooms questions
+
+Units in structure and rooms originated with the 1940 Census, while bedrooms originated with the 1960 Census. They were
+
+transferred to the ACS in 2005 when it replaced the decennial census long form.
+
+[https://acsdatacommunity.prb.org/]
+
+Is this page helpful?
+
+✕
+
+ Yes 
+
+ No
+
+

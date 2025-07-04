@@ -1,0 +1,234 @@
+{
+  "meta": {
+    "category": "core_demographics",
+    "status": "auto_approved",
+    "concept_count": 16,
+    "confidence_threshold": "\u22650.9"
+  },
+  "concepts": [
+    {
+      "id": "cendata:TotalPopulation",
+      "label": "Total Population",
+      "bucket": "core_demographics",
+      "universe": "Total population",
+      "stat_method": "count",
+      "census_tables": [
+        "B01003"
+      ],
+      "definition": "Total count of people residing in the area",
+      "source_page": 15,
+      "status": "auto",
+      "confidence": 0.98
+    },
+    {
+      "id": "cendata:MedianAge",
+      "label": "Median Age",
+      "bucket": "core_demographics",
+      "universe": "Total population",
+      "stat_method": "median",
+      "census_tables": [
+        "B01002"
+      ],
+      "definition": "The median age of the total population",
+      "source_page": 18,
+      "status": "auto",
+      "confidence": 0.95
+    },
+    {
+      "id": "cendata:PopulationDensity",
+      "label": "Population Density",
+      "bucket": "core_demographics",
+      "universe": "Total population",
+      "stat_method": "ratio",
+      "census_tables": [
+        "B01003"
+      ],
+      "definition": "Number of people per square mile",
+      "source_page": 15,
+      "status": "auto",
+      "confidence": 0.9
+    },
+    {
+      "id": "cendata:GenderComposition",
+      "label": "Gender Composition",
+      "bucket": "core_demographics",
+      "universe": "Total population",
+      "stat_method": "count",
+      "census_tables": [
+        "B01001"
+      ],
+      "definition": "Distribution of population by sex/gender",
+      "source_page": 15,
+      "status": "auto",
+      "confidence": 0.95
+    },
+    {
+      "id": "cendata:AgeDistribution",
+      "label": "Age Distribution",
+      "bucket": "core_demographics",
+      "universe": "Total population",
+      "stat_method": "count",
+      "census_tables": [
+        "B01001"
+      ],
+      "definition": "Distribution of population across age groups",
+      "source_page": 18,
+      "status": "auto",
+      "confidence": 0.92
+    },
+    {
+      "id": "cendata:WhiteAlone",
+      "label": "White Alone Population",
+      "bucket": "core_demographics",
+      "universe": "Total population",
+      "stat_method": "count",
+      "census_tables": [
+        "B02001"
+      ],
+      "definition": "Population reporting race as White alone",
+      "source_page": 22,
+      "status": "auto",
+      "confidence": 0.9
+    },
+    {
+      "id": "cendata:BlackAlone",
+      "label": "Black or African American Alone Population",
+      "bucket": "core_demographics",
+      "universe": "Total population",
+      "stat_method": "count",
+      "census_tables": [
+        "B02001"
+      ],
+      "definition": "Population reporting race as Black or African American alone",
+      "source_page": 22,
+      "status": "auto",
+      "confidence": 0.9
+    },
+    {
+      "id": "cendata:AsianAlone",
+      "label": "Asian Alone Population",
+      "bucket": "core_demographics",
+      "universe": "Total population",
+      "stat_method": "count",
+      "census_tables": [
+        "B02001"
+      ],
+      "definition": "Population reporting race as Asian alone",
+      "source_page": 22,
+      "status": "auto",
+      "confidence": 0.9
+    },
+    {
+      "id": "cendata:HispanicLatino",
+      "label": "Hispanic or Latino Population",
+      "bucket": "core_demographics",
+      "universe": "Total population",
+      "stat_method": "count",
+      "census_tables": [
+        "B03002"
+      ],
+      "definition": "Population of Hispanic or Latino origin (of any race)",
+      "source_page": 25,
+      "status": "auto",
+      "confidence": 0.9
+    },
+    {
+      "id": "cendata:ChildPopulation",
+      "label": "Child Population",
+      "bucket": "core_demographics",
+      "universe": "Total population",
+      "stat_method": "count",
+      "census_tables": [
+        "B01001"
+      ],
+      "definition": "Population under 18 years of age",
+      "source_page": 18,
+      "status": "auto",
+      "confidence": 0.95
+    },
+    {
+      "id": "cendata:WorkingAgePopulation",
+      "label": "Working Age Population",
+      "bucket": "core_demographics",
+      "universe": "Total population",
+      "stat_method": "count",
+      "census_tables": [
+        "B01001"
+      ],
+      "definition": "Population aged 18-64 years",
+      "source_page": 18,
+      "status": "auto",
+      "confidence": 0.9
+    },
+    {
+      "id": "cendata:SeniorPopulation",
+      "label": "Senior Population",
+      "bucket": "core_demographics",
+      "universe": "Total population",
+      "stat_method": "count",
+      "census_tables": [
+        "B01001"
+      ],
+      "definition": "Population aged 65 and older",
+      "source_page": 18,
+      "status": "auto",
+      "confidence": 0.95
+    },
+    {
+      "id": "cendata:TotalHouseholds",
+      "label": "Total Households",
+      "bucket": "core_demographics",
+      "universe": "Households",
+      "stat_method": "count",
+      "census_tables": [
+        "B25001"
+      ],
+      "definition": "Total number of households",
+      "source_page": 35,
+      "status": "auto",
+      "confidence": 0.95
+    },
+    {
+      "id": "cendata:HouseholdSize",
+      "label": "Average Household Size",
+      "bucket": "core_demographics",
+      "universe": "Households",
+      "stat_method": "mean",
+      "census_tables": [
+        "B25010"
+      ],
+      "definition": "Average number of people per household",
+      "source_page": 35,
+      "status": "auto",
+      "confidence": 0.9
+    },
+    {
+      "id": "cendata:ForeignBorn",
+      "label": "Foreign-Born Population",
+      "bucket": "core_demographics",
+      "universe": "Total population",
+      "stat_method": "count",
+      "census_tables": [
+        "B05002"
+      ],
+      "definition": "Population born outside the United States",
+      "source_page": 28,
+      "status": "auto",
+      "confidence": 0.9
+    },
+    {
+      "id": "cendata:NativeBorn",
+      "label": "Native-Born Population",
+      "bucket": "core_demographics",
+      "universe": "Total population",
+      "stat_method": "count",
+      "census_tables": [
+        "B05002"
+      ],
+      "definition": "Population born in the United States",
+      "source_page": 28,
+      "status": "auto",
+      "confidence": 0.9
+    }
+  ]
+}

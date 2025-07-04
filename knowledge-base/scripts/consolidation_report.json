@@ -1,0 +1,43 @@
+{
+  "consolidation_summary": {
+    "total_variables": 36918,
+    "duplicates_resolved": 0,
+    "quality_distribution": {
+      "coos": 8790,
+      "early": 948,
+      "bulk": 27403
+    }
+  },
+  "quality_tiers": {
+    "coos": {
+      "priority": 1,
+      "description": "Research-grade, domain specialist ensemble"
+    },
+    "early": {
+      "priority": 2,
+      "description": "High-quality ensemble testing"
+    },
+    "bulk": {
+      "priority": 3,
+      "description": "Single-agent production coverage"
+    }
+  },
+  "dataset_composition": {
+    "coos": {
+      "count": 8790,
+      "percentage": 23.81,
+      "description": "Research-grade, domain specialist ensemble"
+    },
+    "early": {
+      "count": 948,
+      "percentage": 2.57,
+      "description": "High-quality ensemble testing"
+    },
+    "bulk": {
+      "count": 27403,
+      "percentage": 74.23,
+      "description": "Single-agent production coverage"
+    }
+  },
+  "recommendations": []
+}

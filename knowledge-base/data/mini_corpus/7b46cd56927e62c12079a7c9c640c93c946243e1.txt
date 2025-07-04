@@ -1,0 +1,1174 @@
+Using the American Community Survey 
+Table-Based Summary File
+What Data Users Need to Know
+
+Issued October 2023
+
+Acknowledgments
+
+Mark Mather, associate vice president, U.S. Programs, Population 
+Reference Bureau (PRB), and Kelvin Pollard, senior demographer, 
+PRB, drafted this handbook in partnership with the U.S. Census 
+Bureau’s American Community Survey Office.
+
+Nicole Scanniello and Gretchen Gooding, Census Bureau, contrib-
+uted to the planning and review of the handbook series.
+
+The American Community Survey program is under the direction of 
+Deborah M. Stempowski, associate director for Decennial Census 
+Programs, and Donna M. Daily, Chief, American Community Survey 
+Office.
+
+Other individuals from the Census Bureau who contributed to the 
+review and release of these handbooks include Grace Clemons, Thu 
+Dang, Charles Gamble, Hsin-Hsing Lee, Vicki Mack, Bonan Ren, 
+Nathan Walters, and Kai Wu.
+
+Stacey Barber, Steven Brown, and Paula Lancaster provided publica-
+tion management, graphic design and composition, editorial review, 
+and 508 compliancy for print and electronic media under the direc-
+tion of Corey Beasley, Chief of the Graphic and Editorial Services 
+Branch, Public Information Office.
+
+Using the American Community Survey 
+Table-Based Summary File
+What Data Users Need to Know
+
+Issued October 2023
+
+U.S. CENSUS BUREAU 
+Robert L. Santos, 
+Director
+
+Suggested Citation
+
+  U.S. Census Bureau,  
+Using the American Community 
+Survey Table-Based Summary File: 
+What Data Users Need to Know, 
+U.S. Government Publishing Office, 
+Washington, DC,  
+October 2023.
+
+U.S. CENSUS BUREAU 
+Robert L. Santos, 
+Director
+
+Ron S. Jarmin, 
+Deputy Director and Chief Operating Officer
+
+Deborah M. Stempowski, 
+Associate Director for Decennial Census Programs
+
+Vacant, 
+Assistant Director for Decennial Census Programs
+
+Donna M. Daily, 
+Chief, American Community Survey Office
+
+Contents
+
+Using the American Community Survey Table-Based Summary File:  
+    What Data Users Need to Know  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+
+1. Overview of the ACS Summary File  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+
+2. How To Use the ACS Table-Based Summary File . . . . . . . . . . . . . . . . . . . . . . . . . 5
+
+3. Tools and Resources for the ACS Summary File . . . . . . . . . . . . . . . . . . . . . . . . . 13
+
+Using the American Community Survey Table-Based Summary File  iii 
+What All Data Users Need to Know  iii
+
+U.S. Census BureauThis page is intentionally blank.
+
+USING THE AMERICAN COMMUNITY SURVEY 
+TABLE-BASED SUMMARY FILE: WHAT DATA 
+USERS NEED TO KNOW 
+
+Introduction
+
+The American Community Survey (ACS) Table-Based 
+Summary File is a pipe-delimited text file that contains 
+all the Detailed Tables from the ACS. Data users with 
+programming skills and access to statistical software 
+can use the Summary File to download and analyze 
+ACS data for a wide range of geographic areas.
+
+This guide provides an overview of the ACS Table-
+Based Summary File and how it can be used to access 
+data on America’s communities.
+
+Starting with the 2022 ACS data releases, the table-
+based format will be the only format available. The 
+2021 data releases were the final releases of the 
+original sequence-based format. For information 
+about accessing the ACS Summary File in the 
+original sequence-based format, refer to Using the 
+American Community Survey Summary File: What 
+Data Users Need to Know.1
+
+What Is the ACS?
+
+The ACS is a nationwide survey designed to  
+provide communities with reliable and timely social, 
+economic, housing, and demographic data every 
+year. A separate annual survey, called the Puerto 
+Rico Community Survey (PRCS), collects similar 
+data about the population and housing units in 
+Puerto Rico. The U.S. Census Bureau uses data 
+collected in the ACS and the PRCS to provide 
+estimates on a broad range of population, housing 
+unit, and household characteristics for states, 
+counties, cities, school districts, congressional 
+districts, census tracts, block groups, and many 
+other geographic areas.
+
+The ACS has an annual sample size of about 3.5 
+million addresses with survey information collected 
+nearly every day of the year. Data are pooled across 
+a calendar year to produce estimates for that year. 
+As a result, ACS estimates reflect data that have 
+been collected over a period of time rather than for 
+a single point in time, as in the decennial census, 
+which is conducted every 10 years and provides 
+population counts as of April 1 of the census year.
+
+ACS 1-year estimates are data that have been 
+collected over a 12-month period and are available 
+for geographic areas with a population of at least 
+65,000. Starting with the 2014 ACS, the Census 
+Bureau has been producing “1-year Supplemental 
+Estimates”—simplified versions of popular ACS 
+tables—for geographic areas with a population of 
+at least 20,000. The Census Bureau combines 5 
+consecutive years of ACS data to produce multiyear 
+estimates for geographic areas with fewer than 
+65,000 residents. These 5-year estimates represent 
+data collected over a period of 60 months.
+
+For more detailed information about the ACS—
+how to judge the accuracy of ACS estimates, 
+understanding multiyear estimates, knowing 
+which geographic areas are covered in the ACS, 
+and how to access ACS data on the Census Bureau’s 
+website—refer to the Census Bureau’s handbook 
+on Understanding and Using American Community 
+Survey Data: What All Data Users Need to Know.2
+
+¹ U.S. Census Bureau, Using the American Community Survey 
+
+Summary File: What Data Users Need to Know, <www.census.gov/
+programs-surveys/acs/library/handbooks/summary-file.html>. 
+
+² U.S. Census Bureau, Understanding and Using American 
+Community Survey Data: What All Data Users Need to Know, 
+<www.census.gov/programs-surveys/acs/library/handbooks/general.
+html>.
+
+Using the American Community Survey Table-Based Summary File  1 
+What All Data Users Need to Know  1
+
+U.S. Census Bureau1. OVERVIEW OF THE ACS SUMMARY FILE
+
+The American Community Survey (ACS) Summary 
+File is a unique data product that includes all 
+estimates and margins of error (MOEs) from 
+the Detailed Tables for all geographies that are 
+published for the ACS. The Detailed Tables are 
+designed for advanced data users or those who 
+want access to the most comprehensive ACS tables. 
+They begin with the letters “B” for base tables and 
+“C” for collapsed tables (e.g., B01001 or C15002). 
+The collapsed tables cover the same topics as the 
+base tables, but with fewer categories. Other ACS 
+data products, such as Subject Tables and Data 
+Profiles, are created from the Detailed Tables and, 
+therefore, are not available in the ACS Summary 
+File.3
+
+The 2005 through 2021 ACS Summary Files were 
+released in a sequence-based format containing the 
+estimates and MOEs from the tables in two separate 
+files. The sequences excluded metadata such as the 
+titles of the tables, the descriptions of the rows, and 
+the names of the geographic areas. The metadata 
+and MOEs were stored in other files that users 
+had to merge with the data files to reproduce the 
+complete tables.
+
+Beginning with the 2018 ACS, the U.S. Census 
+Bureau began testing a streamlined format that 
+the estimates and MOEs were grouped by table ID. 
+Under this table-based format, a file is posted for 
+each table that contains the estimates and MOEs 
+for all available geographies. Users can easily select 
+the individual table(s), only needing to merge in 
+a separate file containing geographic labels to 
+reproduce the complete table(s). The table-based 
+format will be the only format available starting with 
+the 2022 ACS data release.
+
+The ACS Summary File can be challenging to use 
+and is intended for advanced users who work with 
+statistical software, like SAS or Python. The Census 
+Bureau provides SAS programs that can be used to 
+access and process the data, as well as instructions 
+for using Excel to merge the geography file with a 
+sample data table in the Table-Based ACS Summary 
+File format.4 Before using the Summary File, users 
+should first check if the data of interest are easily 
+available for download on data.census.gov—the 
+Census Bureau’s data dissemination platform.5
+
+³ For information about the types of ACS tables that are available, 
+
+refer to the U.S. Census Bureau’s “Table IDs Explained" webpage at 
+<www.census.gov/programs-surveys/acs/data/data-tables/table-
+ids-explained.html>.
+
+⁴ U.S. Census Bureau, “Instructions on How to Read American 
+Community Survey Geography Names into Summary File Tables Using 
+Excel,” <https://www2.census.gov/programs-surveys/acs/summary_
+file/2021/table-based-SF/documentation/ACS_Table_Based_SF_
+Excel_Import%20GEO%20Names_Tool.pdf>. 
+
+⁵ U.S. Census Bureau, “<https://data.census.gov>."
+
+Benefits and Uses of the ACS Summary 
+File’s Table-Based Format
+
+The table-based format for the ACS Summary File 
+provides access to each detailed table for all available 
+geographies. The main benefit of the table-based 
+format is that for each table, estimates and MOEs are 
+combined into a single file and only require data users 
+to merge in a single file of geography labels to create 
+complete tables. The new format enables data users 
+to:
+
+• Make comparisons across different geographic areas.
+• Evaluate the precision of a particular estimate since 
+each table’s estimates and MOEs are now in a single 
+file.
+
+• Access the ACS data needed since each table is now 
+in a separate file and the supporting documentation 
+has been simplified.
+
+• Use either a statistical (e.g., SAS, SPSS, or Python) or 
+spreadsheet (e.g., Excel) program to work with the 
+Summary File tables.
+
+The table-based format still allows users the  
+ability to:
+
+• Connect data across tables. For example, calculate 
+the number of people living in census tracts with at 
+least 30 percent of the population living in poverty.
+
+• Filter the data based on specified criteria. For 
+example, only extract data for table totals and 
+selected estimates.
+
+• Recode variables. For example, aggregate data 
+across several categories or calculate rates and 
+percentages.
+
+• Produce tabulations across many subjects and 
+
+geographies. For example, tables about educational 
+attainment, poverty, disability, and commuting for all 
+50 states, the District of Columbia, and Puerto Rico.
+
+Geographies Covered
+
+The ACS Summary File covers geographic areas based 
+on “summary levels.” Summary levels range from 
+very large reporting units such as “State,” to much 
+smaller reporting units, such as “Census Tract.” 
+Summary levels may nest within other geographic 
+areas such as “State” to “County” to “Census Tract,” 
+or they may cross between two or more geographic 
+hierarchies to produce units that are only portions 
+of geographic areas. For example, summary level 
+“State-Place-County” crosses the “State-Place” 
+hierarchy with the “State-County” hierarchy and 
+may create units that cover only a portion of one 
+county.
+
+2  Using the American Community Survey Table-Based Summary File 
+2  What All Data Users Need to Know
+
+U.S. Census BureauEach summary level has an assigned three-digit 
+summary level code to help data users link each 
+summary level to its appropriate use in a table, map, 
+or other data summarization format. Here are some 
+common summary levels used to identify types of 
+geographic areas:6
+
+Comparing Published Detailed Tables to 
+the ACS Summary File
+
+The ACS Summary File contains the same data as the 
+Detailed Tables but in a more flexible format to allow 
+data users to extract only the desired data.
+
+• 010 Nation
+• 020 Region
+• 030 Division
+• 040 State
+• 050 State-County
+• 140 State-County-Census Tract
+• 250 American Indian Area/Alaska Native Area/ 
+
+Hawaiian Home Land
+
+• 310 Metropolitan Statistical Area/Micropolitan 
+
+Statistical Area
+
+• 500 State-Congressional District
+
+Not all geographic levels are published for all 
+ACS Summary File datasets. While all available 
+geographic levels are available for the 5-year files, 
+some levels are not available for the 1-year datasets 
+as they may not meet the minimum population 
+threshold of 65,000. For a list of the most common 
+geographic levels published for the 1-year and 
+5-year Summary Files (as well as for the 1-year 
+Supplemental Files), refer to the “Areas Published” 
+or “Reference Materials” webpages on the Census 
+Bureau’s website.7 
+
+Many resources are available to help users 
+understand the ACS geographic terms and 
+concepts. For additional information, refer to the 
+Census Bureau’s “About Geographic Areas” and 
+“Geography and ACS” webpages.8
+
+⁶ A figure showing the complete geographic hierarchy for 
+standard entities is available in the file “Standard Hierarchy of 
+Census Geographic Entities” at <https://www2.census.gov/geo/pdfs/
+reference/geodiagram.pdf>. 
+
+⁷ U.S. Census Bureau, “Areas Published,” <www.census.gov/
+programs-surveys/acs/geography-acs/areas-published.html>. To 
+view the complete list of geographic levels published, refer to the 
+Census Bureau’s “Reference Materials" webpage at <www.census.gov/
+programs-surveys/acs/geography-acs/reference-materials.html>.
+
+⁸ U.S. Census Bureau, “About Geographic Areas,” <www.census.
+gov/programs-surveys/geography/guidance/geo-areas.html> and  
+ “Geography & ACS,” <www.census.gov/programs-surveys/acs/
+geography-acs.html>.
+
+Figure 1.1 shows an example using a table  
+from data.census.gov, and Figure 1.2 shows the 
+corresponding estimates from the Summary File. 
+The published table includes information such as the 
+table ID (B17001), the table title “Poverty Status in 
+the Past 12 Months by Sex by Age,” and the source 
+file “2021 American Community Survey, 1-year 
+estimates.” The body of the table provides the 
+estimates and MOEs for each selected geography 
+(e.g., Citrus County, Florida). The highlighted box 
+shows that in 2021, there were 155,317 people whose 
+poverty status was determined in Citrus County, and 
+there were 25,014 people whose income in the past 12 
+months was below the poverty level. (The MOEs for 
+these estimates were ±2,105 and ±4,670, respectively.)
+
+As conveyed in Figure 1.2, the Summary File does 
+not contain any of the metadata included in the 
+published table. Rather, the file only contains the 
+geographic identifiers, estimates, and MOEs that are 
+separated by pipes (i.e., vertical bar symbols).
+
+Data Release Schedule and Notable 
+Changes to the Summary File
+
+You can learn more details about each data release 
+by visiting the ACS Data Releases webpage on the 
+Census Bureau’s website.9 This webpage includes 
+links to a schedule, notes about new estimates or new 
+guidance, and technical information about geography 
+and product changes. Check the updated data release 
+information before using the Summary File as changes 
+may impact the tables or geographies. You can also 
+browse notes from previous years. 
+
+⁹ U.S. Census Bureau, “Data Releases,” <www.census.gov/
+
+programs-surveys/acs/news/data-releases.html>.
+
+Using the American Community Survey Table-Based Summary File  3 
+What All Data Users Need to Know  3
+
+U.S. Census BureauFigure 1.1.  Excerpt From 2021 American Community Survey 1-Year Estimates on Data.census.gov
+
+Source: U.S. Census Bureau, 2021 American Community Survey, 1-year estimates Detailed Tables, Table B17001, <https://data.census.gov/table?
+q=B17001:+POVERTY+STATUS+IN+THE+PAST+12+MONTHS+BY+SEX+BY+AGE&g=050XX00US12017&tid=ACSDT1Y2021.B17001>.
+
+Figure 1.2.  Excerpt From 2021 American Community Survey 1-Year Summary File
+
+Source: U.S. Census Bureau, 2021 American Community Survey 1-year estimates, 1-year Summary File (table-based), Table B17001 (truncated). 
+The complete file is available on the Census Bureau’s website at <www2.census.gov/programs-surveys/acs/summary_file/2021/table-
+based-SF/data/1YRData/acsdt1y2021-b17001.dat>.
+
+4  Using the American Community Survey Table-Based Summary File 
+4  What All Data Users Need to Know
+
+U.S. Census Bureau2. HOW TO USE THE ACS TABLE-BASED 
+SUMMARY FILE
+
+The American Community Survey (ACS) Summary 
+File is located on the U.S. Census Bureau’s file 
+transfer protocol server.10 The easiest way to find 
+the file is to start at the ACS website.11 From the 
+ACS main page <www.census.gov/programs-
+surveys/acs>, select the “Data” navigation link on 
+the left. From there, click on the “Summary File” 
+navigation link on the left, as shown in Figure 2.1.
+
+The ACS Table-Based Summary File is in pipe-
+delimited, Unicode Transformation Format (UTF-
+8), which can easily be imported into software 
+packages. The file is divided into three components: 
+table labels (or table shells), geography labels 
+
+10 U.S. Census Bureau, “American Community Survey Data via the 
+
+File Transfer Protocol Server," <www.census.gov/programs-surveys/
+acs/data/data-via-ftp.html>.
+
+11 U.S. Census Bureau, “American Community Survey," <www.
+
+census.gov/programs-surveys/acs>.
+
+(or geography files), and data files. This section 
+describes the components of the Summary File and 
+the next section provides information and resources to 
+put them together. 
+
+• Data files: Data (including estimates, margins of 
+
+error, and geographies) organized by table ID for the 
+1-year or 5-year release:
+ ° Folder: 1YRData, 5YRData.
+ ° Example: The file acsdt1y2021-b01001.dat, variable 
+
+B01001_E003 for 0400000US06 = 1,129,355.
+
+• Geography labels (or geography files): All 
+
+geography labels for the 1-year or 5-year data 
+release:
+ ° File name example: Geos20211YR.txt or 
+
+Geos20215YR.txt.
+
+ ° Variable label example: 0400000US06 = 
+
+“California.”
+
+Figure 2.1.  Locating the American Community Survey Summary File
+
+Source: U.S. Census Bureau, “American Community Survey Data," <www.census.gov/programs-surveys/acs/data.html>.
+
+Using the American Community Survey Table-Based Summary File  5 
+What All Data Users Need to Know  5
+
+U.S. Census BureauFigure 2.2.  American Community Survey Summary File Components Associated With the 2021 Data Release
+
+Source: U.S. Census Bureau, “American Community Survey Summary File," <www.census.gov/programs-surveys/acs/data/summary-file.2021.
+html#list-tab-1622397667>.
+
+• Table labels (or table shells): A description of each 
+
+line item in a table for the 1-year or 5-year data 
+release:
+ ° File name example: ACS20211YR_Table_Shells.txt 
+
+or ACS20215YR_Table_Shells.txt.
+
+ ° Variable label example: B01001_003 = “SEX BY 
+
+AGE – Total Males Under 5 Years.”
+
+Figure 2.2 shows the location of each of these 
+components on the Census Bureau’s ACS Summary 
+File website (2021 data release).
+
+Data Files
+
+Under the new table-based format, the ACS 
+Summary File is organized by individual Detailed 
+Tables that can be downloaded separately. Each 
+data file contains estimates and margins of error 
+(MOEs) for all available geographies. Figure 2.3  
+lists a compressed file of the entire dataset.
+
+Table 2.1 lists the naming convention used for a 
+selected file in the 1-year data directory (for 2021). The 
+file name, “acsdt1y,” refers to the ACS 1-year Detailed 
+Tables; “2021” refers to the data collection year; and 
+“b01001” refers to the table ID.
+
+Figure 2.4 lists the first few rows from a 2017–2021 
+ACS 5-year Summary File estimate for “Table B08121: 
+Median Earnings in the Past 12 Months (In 2021 
+Inflation-Adjusted Dollars) by Means of Transportation 
+to Work.” The first row of the pipe-delimited file lists 
+the variable labels, while subsequent rows list the 
+ACS estimates for this table. The rows highlighted in 
+the table list the results for the United States, rural 
+areas, and the Midwest region (spotlighted in the 
+“Geography Files” subsection).
+
+The directory for the ACS 1-year Summary File is 
+organized in a similar fashion.
+
+6  Using the American Community Survey Table-Based Summary File 
+6  What All Data Users Need to Know
+
+U.S. Census BureauFigure 2.3.  Summary File Directory for the 2021 American Community Survey 1-Year Data
+
+Source: U.S. Census Bureau, 2021 American Community Survey, 1-year estimates, 1-year Summary File (table-based), data via file transfer 
+protocol at <https://www2.census.gov/programs-surveys/acs/summary_file/2021/table-based-SF/data/1YRData/>.
+
+Table 2.1.  Naming Convention for Files Within Data Directory
+
+  Example
+
+Name
+
+Range or Type
+
+acsdt1y2021-b01001.dat
+
+acs
+
+dt
+
+1y
+
+2021
+
+-
+
+Survey Name
+
+American Community Survey
+
+Table Type
+
+Detailed Table
+
+Period Covered
+
+1y=1-year, 5y=5-year
+
+Reference Year
+
+ACS data year (last year of the period for multiyear periods)
+
+Hyphen
+
+b01001
+
+Table Number
+
+Unique table number
+
+Source: U.S. Census Bureau.
+
+Using the American Community Survey Table-Based Summary File  7 
+What All Data Users Need to Know  7
+
+U.S. Census BureauFigure 2.4.  Excerpt of 2017–2021 American Community Survey 5-Year Data File
+
+Source: U.S. Census Bureau, 2017–2021 American Community Survey, 5-year estimates, Table B08121 (truncated). The complete file is available 
+on the Census Bureau’s website at <https://www2.census.gov/programs-surveys/acs/summary_file/2021/table-based-SF/data/5YRData/
+acsdt5y2021-b08121.dat>.
+
+Geography Labels (or Geography Files)
+
+The Census Bureau provides a separate file that 
+contains labels for all geographies in both the 
+1-year and 5-year ACS data files. You can use the 
+geography identifier (GEO_ID) in this geography file 
+to match the corresponding geographic identifier 
+in each data file. Table 2.2 lists the contents of the 
+geography file, which is available in .TXT format. Each 
+
+row represents a different geographic area and the 
+first four fields contain metadata such as the state 
+postal abbreviation and summary level. Following 
+those fields are the different geographic levels 
+available for a particular data release. The fields in 
+the table are left blank if the geographic level is not 
+available for a particular data release. The GEO_ID is 
+displayed in a red box in the table.
+
+8  Using the American Community Survey Table-Based Summary File 
+8  What All Data Users Need to Know
+
+U.S. Census BureauTable 2.2.  Contents of 2017–2021 American Community Survey 5-Year Geography File
+
+Variable Name
+
+Description
+
+Code Type
+
+FILEID
+STUSAB
+SUMLEVEL
+COMPONENT
+US
+REGION
+DIVISION
+STATE
+COUNTY
+COUSUB
+PLACE
+TRACT
+BLKGRP
+CONCIT
+AIANHH
+AIANHHFP
+AIHHTLI
+AITS
+AITSFP
+ANRC
+CBSA
+CSA
+METDIV
+MACC
+MEMI
+NECTA
+CNECTA
+NECTADIV
+UA
+CDCURR
+SLDU
+SLDL
+ZCTA5
+SUBMCD
+SDELM
+SDSEC
+SDUNI
+UR
+PCI
+PUMA5
+GEO_ID
+NAME
+BTTR
+BTBG
+TL_GEO_ID
+
+Always equal to ACS Summary File identification
+State Postal Abbreviation
+Summary Level
+Geographic Component
+US
+Census Region
+Census Division
+State (FIPS Code)
+County of current residence
+County Subdivision (FIPS)
+Place (FIPS Code)
+Census Tract
+Block Group
+Consolidated City
+American Indian Area/Alaska Native Area/Hawaiian Home Land (Census/FIPS)
+American Indian Area/Alaska Native Area/Hawaiian Home Land (LEFT BLANK)
+American Indian Trust Land/Hawaiian Home Land Indicator
+American Indian Tribal Subdivision (Census/FIPS)
+American Indian Tribal Subdivision (LEFT BLANK)
+Alaska Native Regional Corporation
+Metropolitan and Micropolitan Statistical Area
+Combined Statistical Area
+Metropolitan Statistical Area—Metropolitan Division
+Metropolitan Area Central City
+Metropolitan/Micropolitan Indicator Flag
+New England City and Town Area
+New England City and Town Combined Statistical Area
+New England City and Town Area Division
+Urban Area
+Current Congressional District***
+State Legislative District Upper
+State Legislative District Lower
+5-digit ZIP Code Tabulation Area
+Subminor Civil Division (FIPS)
+State-School District (Elementary)
+State-School District (Secondary)
+State-School District (Unified)
+Urban/Rural
+Principal City Indicator
+Public Use Microdata Area—5% File
+Geographic Identifier
+Area Name
+Tribal Tract
+Tribal Block Group
+Geographic Identifier (for TIGER/Line Shapefiles)
+
+Record
+Record
+Record
+Record
+Geographic
+Geographic
+Geographic
+Geographic
+Geographic
+Geographic
+Geographic
+Geographic
+Geographic
+Geographic
+Geographic
+Geographic
+Geographic
+Geographic
+Geographic
+Geographic
+Geographic
+Geographic
+Geographic
+Geographic
+Geographic
+Geographic
+Geographic
+Geographic
+Geographic
+Geographic
+Geographic
+Geographic
+Geographic
+Geographic
+Geographic
+Geographic
+Geographic
+Geographic
+Geographic
+Geographic
+Geographic
+Geographic
+Geographic
+Geographic
+Geographic
+
+Source: U.S. Census Bureau, 2017–2021 American Community Survey, 5-year estimates, 5-year geography file, <https://www2.census.
+gov/programs-surveys/acs/summary_file/2021/table-based-SF/documentation/Geos20215YR.txt>.
+
+Using the American Community Survey Table-Based Summary File  9 
+What All Data Users Need to Know  9
+
+U.S. Census BureauFigure 2.5.  Excerpt of 2017–2021 American Community Survey 5-Year Geography File
+
+Source: U.S. Census Bureau, 2017–2021 American Community Survey, 5-year estimates, 5-year geography file (truncated). The complete 
+file is available on the Census Bureau’s website at <https://www2.census.gov/programs-surveys/acs/summary_file/2021/table-based-SF/
+documentation/Geos20215YR.txt>.
+
+Figure 2.5 lists the first few rows and columns in 
+the 5-year geography file. The first row displays 
+the variable labels and the following rows include 
+identifiers for all the geographic areas included in the 
+Summary File. For example:
+
+• In Row 2, the GEO_ID is “0100000US,” representing 
+
+the United States.
+
+• In Row 4, the GEO_ID is “0100043US,” representing 
+
+rural areas.
+
+• In Row 21, the GEO_ID is “0200000US2,” 
+
+representing the Midwest region.
+
+Table Labels (or Table Shells)
+
+Table shells provide descriptions of each line item in 
+the ACS Summary File without the estimates or MOEs 
+filled in. They contain the table IDs, line numbers, 
+unique IDs, and descriptions of each data cell in 
+the Census Bureau’s Detailed Tables. Table shells 
+are available 1 week before ACS data are released, 
+allowing users to preview the contents of a new data 
+
+release in advance. Figure 2.6 lists the columns and 
+first few rows of the table shells for the 2017–2021  
+ACS 5-year release.
+
+Table IDs
+
+All ACS tables have a table ID that follows specific 
+naming conventions. This makes it easy to identify  
+the same table across different tools such as on  
+data.census.gov, the Summary File, and the application 
+programming interface. You will need to know the 
+table ID to identify the table from the Summary File. 
+The Census Bureau provides a spreadsheet with table 
+shells and associated table IDs for all Detailed Tables 
+on their website.12
+
+Table IDs consist of up to five elements. The first 
+element is a letter that indicates the table type. 
+For example, in Figure 2.7, the first letter is “B” 
+indicating that the data are from a detailed (or 
+
+12 U.S. Census Bureau, “Table Shells and Table List" can be found at 
+
+<www.census.gov/programs-surveys/acs/technical-documentation/
+table-shells.html>.
+
+10  Using the American Community Survey Table-Based Summary File 
+10  What All Data Users Need to Know
+
+U.S. Census BureauFigure 2.6.  Excerpt of 2017–2021 American Community Survey 5-Year Table Shells
+
+Source: U.S. Census Bureau, 2017–2021 American Community Survey, 5-year estimates, 5-year table shells (truncated). The complete file is 
+available on the Census Bureau’s website at <www2.census.gov/programs-surveys/acs/summary_file/2021/table-based-SF/documentation/
+ACS20215YR_Table_Shells.txt>.
+
+Figure 2.7.  American Community Survey Table IDs Explained
+
+Source: U.S. Census Bureau, American Community Survey Data Tables, “Table IDs Explained," <www.census.gov/programs-surveys/acs/data/
+data-tables/table-ids-explained.html>.
+
+base) table. Table IDs that start with “C” refer to 
+collapsed tables. The “B" tables have the most 
+detail for a given topic, while “C" tables have 
+collapsed categories.
+
+The next two characters identify the subject of the 
+table. Tables beginning with “01,” for example, are for 
+tables in the age and sex subject. Each subject has a 
+unique two-digit subject number.
+
+The following three digits are a sequential table 
+number that uniquely identifies a table within a given 
+subject.
+
+The fourth element is an alphabetic suffix that 
+indicates the corresponding ACS table is repeated 
+for different race and Hispanic origin groups. 
+For example, table IDs ending in a “C” are for 
+the American Indian and Alaska Native alone 
+population. Those with an “H” suffix are for the  
+non-Hispanic White population. Lastly, selected 
+tables will have a final alphabetic suffix “PR” 
+to indicate a table is available for Puerto Rico 
+geographies only.
+
+Using the American Community Survey Table-Based Summary File  11 
+What All Data Users Need to Know  11
+
+U.S. Census BureauFigure 2.8.  Unique IDs for American Community Survey Variable Names Explained
+
+Source: U.S. Census Bureau, 2021 American Community Survey, 1-year Summary File (table-based), Table B01001, <www2.census.gov/
+programs-surveys/acs/summary_file/2021/table-based-SF/data/1YRData/acsdt1y2021-b01001.dat>.
+
+Refer to the Census Bureau’s website for more 
+details about naming conventions and subject 
+numbers for ACS tables.13
+
+Unique ID for Variable Names
+
+In the ACS Summary File, variable names for estimates 
+and MOEs are displayed using a unique, alpha-numeric 
+identifier (a unique ID).
+
+The unique ID includes four elements: a table ID, an 
+underscore, a letter to indicate the variable type  
+(E = estimate, M = margin of error), and a three-digit 
+line number, which identifies ACS estimates within 
+each table.14 For example, in Table B01001, “Sex by 
+Age,” the unique ID for the estimated total number 
+of people who are American Indian and Alaska Native 
+alone is “B01001C_E001” (Figure 2.8).
+
+13 U.S. Census Bureau, American Community Survey, “Table IDs 
+
+Explained," <www.census.gov/programs-surveys/acs/data/data-
+tables/table-ids-explained.html>.
+
+14 The table shells for the American Community Survey Summary 
+
+File provide unique IDs without the “variable type” displayed, since 
+all rows represent estimates rather than MOEs. However, the data files 
+include this information. 
+
+12  Using the American Community Survey Table-Based Summary File 
+12  What All Data Users Need to Know
+
+U.S. Census Bureau3. TOOLS AND RESOURCES FOR THE ACS 
+SUMMARY FILE
+
+The U.S. Census Bureau provides several resources 
+to help data users access and use the table-based 
+American Community Survey (ACS) Summary File on 
+the “Getting Started” webpage, including:
+
+• Links to the ACS Summary File data.
+• Release notes and supporting materials.
+• Instructions on how to read ACS geography names 
+
+into Summary File tables using Excel.
+
+• Example programs to access the ACS Summary File 
+
+using SAS or Python.
+
+• Webinars that provide guidance on using the ACS 
+
+Summary File in the table-based format.15
+
+Reading the ACS Summary File Into 
+Excel 
+
+The Census Bureau provides a document that 
+describes how data users without access to SAS or 
+other statistical software—or who are seeking data 
+for just a few tables—can retrieve ACS Summary 
+File tables using Excel.16
+
+• Select a table of interest from the Census Bureau’s 
+
+file transfer protocol (FTP) directory and download it 
+as a text file.
+
+• In Excel, open the text file of the table of interest, 
+
+using Excel’s Text Import Wizard. The table file uses 
+pipe delimiters (i.e., vertical bar symbols).
+
+• Download the corresponding geography file, either 
+from the Table-Based Format webpage or the FTP 
+website. Make sure the geography file corresponds 
+with the ACS Summary File from where you selected 
+the table. For example, if the data table comes 
+from the 2021 1-year Summary File, you will want to 
+download the 2021 ACS 1-year geography file. Like 
+the data table, the geography file will be saved as a 
+text file.
+
+• Open the geography file in Excel using the Text 
+
+Import Wizard. Like the table file, the geography file 
+uses pipe delimiters.
+
+• Once both the data table and geography files are 
+open, use the VLOOKUP function to merge the 
+geography names into the data table.
+
+15 U.S. Census Bureau, American Community Survey Summary File, 
+
+“Getting Started," <www.census.gov/programs-surveys/acs/data/
+summary-file.Getting_Started.html#list-tab-1622397667>.
+
+16 U.S. Census Bureau, “Instructions on How to Read ACS 
+
+Geography Names into Summary File Tables Using Excel,” <https://
+www2.census.gov/programs-surveys/acs/summary_file/2021/table-
+based-SF/documentation/ACS_Table_Based_SF_Excel_Import%20
+GEO%20Names_Tool.pdf>.
+
+SAS and Other Statistical Programs
+
+More advanced users can also use the Census Bureau’s 
+example programs, available on the “ACS Summary 
+File" webpage, as a starting point to access ACS data 
+using SAS, Python, or other statistical software.17 
+These programs can be used to access:
+
+• The ACS 1-year data for all the geographies in a 
+
+single state (California). 
+
+• The ACS 5-year data for all the tracts in the  
+
+United States.
+
+The SAS code listed in Figure 3.1 could be used to 
+output 2021 ACS 1-year data for all geographies in 
+California from Table B01001, “Sex and Age.” The 
+Census Bureau also has an “ACS Data Users GitHub" 
+webpage where data users can share code for 
+working with ACS data with different programming 
+languages (R, Python, SAS, Stata, etc.).18
+
+Webinars and Other Supporting 
+Materials
+
+The Census Bureau has organized a series of webinars 
+for data users who want more information about using 
+the ACS Table-Based Summary File.19 
+
+USER NOTES
+
+Population Thresholds
+
+The Census Bureau publishes American Community 
+Survey 1-year and 5-year estimates with population 
+thresholds set for the ACS 1-year estimates to provide 
+reliable data. Table 3.1 provides a brief comparison of 
+the two types of estimates:
+
+For more guidance on using ACS 1-year and 5-year 
+estimates, refer to the chapter on “Understanding 
+Multiyear Estimates” in Understanding and Using 
+American Community Survey Data: What All Data 
+Users Need to Know.20
+
+17 U.S. Census Bureau, American Community Survey Summary File, 
+
+“Getting Started," <www.census.gov/programs-surveys/acs/data/
+summary-file.Getting_Started.html#list-tab-1622397667>.
+
+18 U.S. Census Bureau, American Community Survey, “Data Users 
+
+GitHub" webpage, <https://github.com/Census-ACS>.
+
+19 U.S. Census Bureau, American Community Survey Summary File, 
+
+“Getting Started," <www.census.gov/programs-surveys/acs/data/
+summary-file.Getting_Started.html#list-tab-1622397667>.
+
+20 U.S. Census Bureau, Understanding and Using American 
+
+Community Survey Data: What All Data Users Need to Know, <www.
+census.gov/programs-surveys/acs/library/handbooks/general.html>.
+
+Using the American Community Survey Table-Based Summary File  13 
+What All Data Users Need to Know  13
+
+U.S. Census BureauFigure 3.1.  SAS Code Used to Output 2021 American Community Survey 1-Year Data for California 
+Geographies
+
+Source: U.S. Census Bureau, American Community Survey, “Data Users GitHub Repository," <https://github.com/Census-ACS/acs-summary-
+file/blob/master/SAS/Example01.sas>.
+
+Table 3.1.  Understanding American Community Survey 1-Year and 5-Year Estimates
+
+  1-Year Estimates
+
+5-Year Estimates
+
+Published for selected geographic areas with populations 
+of 65,000 or greater.
+
+Published for all geographic areas.
+
+Represent the average characteristics over 1 calendar 
+year.
+
+Represent the average characteristics over a 5-year  
+period of time.
+
+Have fewer published geographic areas than the 5-year 
+estimates.
+
+Have more published areas than the 1-year estimates.
+
+Source: U.S. Census Bureau, Using the American Community Survey Summary File: What Data Users Need to Know, <www.census.gov/
+programs-surveys/acs/library/handbooks/summary-file.html>. 
+
+14  Using the American Community Survey Table-Based Summary File 
+14  What All Data Users Need to Know
+
+U.S. Census BureauJam Values
+
+A “jam value” is a hard-coded value used to explain 
+the absence of data. The Table-Based Summary 
+File uses numeric jam values, whereas, the previous 
+sequence-based format used character values. For 
+example, a jam value is represented by a value in the 
+data display, such as “-666666666,” in cases where 
+the estimate could not be computed because there 
+was an insufficient number of sample observations. 
+The sequence-based format used a dot (.) to 
+express this information. Learn more about these 
+special data values on the Census Bureau’s “Code 
+Lists, Definitions, and Accuracy" webpage.22
+
+Display of ACS Estimates
+
+The estimates in the Summary File are stored using 
+standard notation instead of in scientific notation. The 
+estimates are stored as whole numbers. The largest 
+estimate in the ACS Summary File contains 14 digits.
+
+For More Information
+
+For any technical questions or comments on the ACS 
+Summary File, email <acso.users.support@census.
+gov>. If you have questions or comments about the 
+ACS, you can submit a question online at <https://
+ask.census.gov/>.
+
+Explanation of Missing Estimates and 
+Data Release Filtering Rules
+
+Data users often question why certain ACS 
+estimates are not available. Missing estimates can 
+be caused by data suppression through various 
+methods or restrictions that are applied to ACS 
+data to limit the disclosure of information about 
+individual respondents and the number of published 
+estimates with unacceptable statistical reliability.
+
+Filtering rules, based on statistical reliability 
+of the ACS 1-year estimates, are used to ensure 
+that Detailed Tables are not released where the 
+majority of estimates in the Detailed Tables have an 
+unacceptable level of reliability.
+
+Learn more about missing estimates and filtering 
+rules on the Census Bureau’s “Data Suppression" 
+webpage.21
+
+Margins of Error (MOEs) and Rounding 
+Rules
+
+There are a few special rules on how certain MOEs are 
+determined for ACS estimates. The accuracy of the 
+estimate (decimal place) within the Detailed Tables 
+determine the number of digits to where the MOE is 
+rounded.
+
+Some ACS tables and estimates do not have MOEs 
+associated with them, including:
+
+• Tables B98001, B98002, and B98003, which are 
+
+sample counts, not estimates.
+
+• The remaining tables in series B98 (quality 
+
+measure tables) and B99 (allocation tables). 
+
+• ACS estimates that are controlled to independent 
+
+population or housing unit totals.
+
+21 U.S. Census Bureau, American Community Survey, “Data 
+Suppression," <www.census.gov/programs-surveys/acs/technical-
+documentation/data-suppression.html>.
+
+22
+
+ U.S. Census Bureau, “Code Lists, Definitions, and Accuracy,"  
+
+<www.census.gov/programs-surveys/acs/technical-documentation/
+code-lists.html>.
+
+Using the American Community Survey Table-Based Summary File  15 
+What All Data Users Need to Know  15
+
+U.S. Census Bureau

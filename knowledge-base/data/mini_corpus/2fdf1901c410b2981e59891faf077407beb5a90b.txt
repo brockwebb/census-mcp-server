@@ -1,0 +1,4515 @@
+Health Insurance Coverage in the United States: 2023
+
+Current Population Reports
+
+By Katherine Keisler-Starkey and Lisa N. Bunch
+
+Issued September 2024
+
+P60-284
+
+Acknowledgments
+
+Katherine Keisler-Starkey and Lisa N. Bunch prepared this report under the direc-
+tion of Kelly Holder, chief of the Health and Disability Statistics Branch. Sharon 
+Stern, assistant division chief for Employment Characteristics, of the Social, 
+Economic, and Housing Statistics Division, provided overall direction. 
+
+Preeti Vaghela, with the assistance of Kerry Akiyama, Andrew Blocher, Matthew 
+Dearstyne, Lorelei De Vos, Richard Lee, and Aboubakari Petoni, under the 
+supervision of Karen Bradwell, chief of the Demographic Systems Division, and 
+Roselyn Rosal Tineo of the Demographic Programs Directorate—Survey Operations 
+(ADDP-SO), processed the 2024 Current Population Survey Annual Social and 
+Economic Supplement (CPS ASEC) file.
+
+Adam W. Reilly, with the assistance of Kirk E. Davis, Raymond E. Dowdy, Lan N. 
+Huynh, Marguerite McDaniel, and Chandararith R. Phe, programmed and produced 
+the historical, detailed, and publication tables under the direction of Hung X. Pham, 
+chief of the Tabulation and Applications Branch, Demographic Surveys Division.
+
+Weimin Zhang, under the supervision of David H. Hornick, of the Demographic 
+Statistical Methods Division, conducted statistical review of all Current Population 
+Survey data. 
+
+Tim Marshall, Roselyn Rosal Tineo, and Roberto Marrero Cases, all of ADDP-SO, 
+provided overall direction for survey implementation. Charlie Carter and Johanna 
+Rupp, both of the Information Technology Directorate, prepared and programmed 
+the computer-assisted interviewing instrument used to conduct the CPS ASEC.
+
+Additional people within the U.S. Census Bureau also made significant contribu-
+tions to the preparation of the report. Halelujha Ketema, Adam Bee, Caitlin Carter, 
+Douglas Conway, Katrina Crankshaw, Holly Fee, Kevin C. Heslin, Rachel Lindstrom, 
+Matthew Marlay, Amy Steinweg, and Jonathan Vespa of the Social, Economic, and 
+Housing Statistics Division reviewed the contents. 
+
+Stacey Barber, Faye Brock, Linda Chen, and Stephen Gibson provided publication 
+management, graphic design and composition, editorial review, and 508 compliancy 
+for print and electronic media under the direction of Corey Beasley, chief of the 
+Graphic and Editorial Services Branch, Public Information Office. 
+
+The authors would like to also thank the Census Bureau field representatives and 
+telephone interviewers who conducted the interviews that provide the data in this 
+report. Without their dedication, the preparation of this report or any report from 
+the Current Population Survey would be impossible.
+
+Health Insurance Coverage 
+in the United States: 2023 Issued September 2024
+
+P60-284
+
+U.S. Census Bureau 
+Robert L. Santos,  
+Director
+
+Suggested Citation
+
+Katherine Keisler-Starkey and
+
+Lisa N. Bunch,
+
+U.S. Census Bureau,
+
+Current Population Reports,
+
+P60-284, 
+
+Health Insurance Coverage 
+ in the United States: 2023,
+
+U.S. Government Publishing Office,
+
+Washington, DC,
+
+September 2024.
+
+U.S. CENSUS BUREAU 
+Robert L. Santos, 
+Director 
+
+Ron S. Jarmin, 
+Deputy Director and Chief Operating Officer
+
+Victoria A. Velkoff, 
+Associate Director for Demographic Programs
+
+David G. Waddington, 
+Chief, Social, Economic, and Housing Statistics Division
+
+Contents
+
+TEXT
+
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
+What Is Health Insurance Coverage? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
+
+Highlights . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
+
+1
+1
+
+2
+
+Estimates of Health Insurance Coverage in the United  
+
+States . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
+
+3
+
+Health Insurance Coverage by Type and Selected  
+
+Characteristics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
+Health Insurance Coverage by Age . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
+Private Coverage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
+Public Coverage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
+
+Uninsured Rates for Children and Working-Age Adults by Selected 
+
+Characteristics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
+Children Under the Age of 19 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
+Working-Age Adults 19 to 64 Years Old . . . . . . . . . . . . . . . . . . . . . . . . .  
+
+4
+4
+4
+6
+
+6
+6
+6
+
+Public and Private Health Insurance Coverage by Selected 
+
+Characteristics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
+
+9
+
+Coverage Type for Children and Working-Age Adults by Household 
+
+Income Quintile  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
+
+9
+Coverage Type by Demographic and Social Characteristics . . . . . . . . .   11
+
+Estimates of Health Insurance Coverage: 2013 to 2023  . . . . . . . . . . . .   13
+Overall Coverage Rate . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   13
+
+Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   14
+
+Accessing Health Insurance Coverage Data . . . . . . . . . . . . . . . . . . . . . . .   14
+State and Local Estimates of Health Insurance Coverage . . . . . . . . . . . .   14
+Additional Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   15
+Data.census.gov  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   15
+Public-Use Microdata . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   15
+Census Data API  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   15
+
+Source and Accuracy of the Estimates  . . . . . . . . . . . . . . . . . . . . . . . . . . .   15
+Nonresponse Bias in the CPS ASEC  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   16
+CPS ASEC Modernization  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   16
+
+Comments. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   16
+
+Endnotes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   16
+
+U.S. Census Bureau 
+
+Health Insurance Coverage in the United States: 2023  iii
+
+TABLE
+
+Table 1.  Number of People by Health Insurance Coverage Status and Type: 2022 to 2023 . . . . . . . . . . . . . . . . 
+
+2
+
+FIGURES
+
+Figure 1.  Percentage of People by Type of Health Insurance Coverage and Change From 2022 to 2023  . . .  
+
+Figure 2.  Percentage of People Uninsured by Age Group: 2022 and 2023 . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
+
+Figure 3.  Percentage of People With Selected Coverage Types and Uninsured by Age Group: 2022  
+
+  and 2023 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
+
+Figure 4.  Percentage of Children Under the Age of 19 Without Health Insurance Coverage by Selected  
+
+  Characteristics: 2022 and 2023 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
+
+Figure 5.  Percentage of Working-Age Adults Without Health Insurance Coverage by Selected  
+
+  Characteristics: 2022 and 2023 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
+
+3
+
+4
+
+5
+
+7
+
+8
+
+Figure 6.  Uninsured Rate by Income-to-Poverty Ratio and Medicaid Expansion Status of State for  
+
+  Adults Aged 19 to 64: 2022 and 2023 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   10
+
+Figure 7.  Health Insurance by Type and Household Income Quintile for Children Under the Age of 19  
+
+  and Adults Aged 19 to 64: 2023  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   11
+
+Figure 8.  Health Insurance Coverage Type by Selected Characteristics: 2022 and 2023 . . . . . . . . . . . . . . . . .   12
+
+Figure 9.  Percentage of People Without Health Insurance Coverage: 2013 to 2023 . . . . . . . . . . . . . . . . . . . .   14
+
+APPENDIX A TABLES
+
+Table A-1. Percentage of People by Health Insurance Coverage Status and Type by Selected  
+
+   Characteristics: 2022 and 2023 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   18
+
+Table A-2. Health Insurance Coverage Status and Type by Age and Selected Characteristics: 2022 and  
+
+   2023 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   20
+
+iv  Health Insurance Coverage in the United States: 2023 
+
+U.S. Census Bureau
+
+Health Insurance Coverage in the United States: 2023
+
+What Is Health Insurance Coverage?
+
+Health insurance coverage in the Current Population Survey 
+Annual Social and Economic Supplement (CPS ASEC) refers to 
+comprehensive coverage at any time during the calendar year for 
+the civilian noninstitutionalized population of the United States.* For 
+reporting purposes, the U.S. Census Bureau broadly classifies health 
+insurance coverage as private insurance or public insurance. 
+
+Private Coverage
+
+ • Employment-based: Plan provided through an employer or 
+
+union.
+
+ • Direct-purchase: Coverage purchased directly from an 
+
+insurance company, or through a federal or state Marketplace  
+(e.g., healthcare.gov).
+
+ • TRICARE: Coverage through TRICARE, formerly known as 
+
+Civilian Health and Medical Program of the Uniformed Services.
+
+Public Coverage
+
+ • Medicare: Federal program that helps to pay health care costs 
+for people aged 65 and older and for certain people under the 
+age of 65 with long-term disabilities.
+
+ • Medicaid: This report uses the term Medicaid to include the 
+
+specific Medicaid government program and other programs for 
+low-income individuals administered by the states such as the 
+Children’s Health Insurance Program (CHIP) and Basic Health 
+Programs.
+
+ • VA and CHAMPVA: Care provided by the Department of 
+
+Veterans Affairs, the military, and the Civilian Health and Medical 
+Program of the Department of Veterans Affairs.
+
+Additionally, people are considered uninsured if they only had 
+coverage through the Indian Health Service (IHS), as IHS coverage 
+is not considered comprehensive.
+
+* Comprehensive health insurance covers basic health care needs. This definition 
+excludes single service plans such as accident, disability, dental, vision, or 
+prescription medicine plans.
+
+INTRODUCTION
+
+Health insurance offers a means 
+for financing an individual’s 
+health care expenses. Health 
+insurance coverage provides 
+access to medical care, protection 
+from high unexpected costs, 
+and more economic stability 
+for people and families. While 
+the majority of people in the 
+United States have private health 
+insurance, primarily through an 
+employer, others obtain coverage 
+through programs offered by the 
+government. Yet some do not 
+have health insurance coverage 
+at all (refer to the “What Is Health 
+Insurance Coverage?” text box).
+
+Year-to-year, the prevalence of 
+health insurance coverage and 
+the distribution of coverage types 
+may change due to economic 
+trends, shifts in the demographic 
+composition of the population 
+(such as population aging), and 
+policy changes that affect access 
+to care. Economic changes 
+include shifts in the labor market 
+following the COVID-19 pandemic. 
+Policy changes include updates to 
+the Medicaid program in response 
+to the COVID-19 pandemic or 
+other economic or social forces. 
+For example, Congress extended 
+mandated continuous coverage 
+for those with Medicaid through 
+March 2023 in all states.1 
+
+Using information collected by the 
+Current Population Survey Annual 
+Social and Economic Supplement 
+(CPS ASEC), this report presents 
+statistics on health insurance 
+coverage in the United States 
+in 2023 and changes in health 
+insurance coverage rates between 
+
+U.S. Census Bureau 
+
+Health Insurance Coverage in the United States: 2023  1
+
+2022 and 2023.* Respondents 
+were asked to report any health 
+insurance coverage they had 
+during the previous calendar 
+year. People are only considered 
+uninsured if they did not have 
+health insurance coverage for the 
+entire calendar year. In addition, 
+people are considered to have a 
+particular type of health insurance 
+
+* The U.S. Census Bureau reviewed 
+
+these data and associated products for 
+unauthorized disclosure of confidential 
+information and approved the disclosure 
+avoidance practices applied to this 
+release. (Data Management System [DMS]: 
+P-7534374; Disclosure Review Board [DRB] 
+approval number: CBDRB-FY24-0436). All 
+comparative statements have undergone 
+statistical testing and are statistically 
+significant at the 90 percent confidence 
+level unless otherwise noted.
+
+if they held it at any time during 
+the calendar year.2 
+
+The CPS is the longest-running 
+household survey conducted 
+by the U.S. Census Bureau. The 
+key purpose of the CPS ASEC is 
+to provide timely and detailed 
+estimates of economic well-
+being, of which health insurance 
+is an important part. The 
+Census Bureau has integrated 
+improvements to the CPS ASEC 
+as the needs of data users and 
+the health insurance environment 
+have changed. The estimates in 
+this report are based on data 
+collected in the 2024 and earlier 
+CPS ASECs.
+
+Table 1. 
+Number of People by Health Insurance Coverage Status and 
+Type: 2022 to 2023
+(Numbers in thousands. Margins of error in thousands. Population as of March of the 
+following year. Information on confidentiality protection, sampling error, nonsampling 
+error, and definitions is available at <https://www2.census.gov/programs-surveys/cps/
+techdocs/cpsmar24.pdf>)
+
+Coverage type
+
+    Total  . . . . . . . . . . . . . . .
+Any health plan . . . . . . . . . . . . .
+ Any private plan2, 3 . . . . . . . . . .
+  Employment-based2  . . . . . .
+  Direct-purchase2 . . . . . . . . . .
+   Marketplace coverage2  . .
+  TRICARE2 . . . . . . . . . . . . . . . .
+ Any public plan2, 4. . . . . . . . . . .
+  Medicare2 . . . . . . . . . . . . . . . .
+  Medicaid2 . . . . . . . . . . . . . . . .
+  VA and CHAMPVA2, 5 . . . . . .
+Uninsured6 . . . . . . . . . . . . . . . . .
+
+2022
+
+2023
+
+Number
+
+330,000
+304,000
+216,500
+179,800
+32,800
+11,840
+7,817
+
+119,100
+61,570
+62,050
+3,354
+25,940
+
+Margin of 
+error1 (±)
+
+130
+746
+1,399
+1,369
+661
+461
+485
+
+1,183
+392
+1,112
+214
+739
+
+Number
+
+331,700
+305,200
+216,800
+178,200
+33,850
+13,320
+8,721
+
+120,400
+62,550
+62,700
+3,171
+26,440
+
+Margin of 
+error1 (±)
+
+145
+704
+1,294
+1,345
+731
+483
+520
+
+1,172
+395
+1,103
+206
+700
+
+1 A margin of error (MOE) is a measure of an estimate’s variability. The larger the MOE in 
+relation to the size of the estimate, the less reliable the estimate. This number, when added to 
+and subtracted from the estimate, forms the 90 percent confidence interval. MOEs shown in 
+this table are based on standard errors calculated using replicate weights. 
+
+2 The estimates by type of coverage are not mutually exclusive; people can be covered by 
+
+more than one type of health insurance during the year.
+
+3 Private health insurance includes coverage provided through an employer or union, 
+
+coverage purchased directly, or TRICARE.
+
+4 Public health insurance coverage includes Medicaid, Medicare, CHAMPVA (Civilian 
+
+Health and Medical Program of the Department of Veterans Affairs), and care provided by the 
+Department of Veterans Affairs (VA) and the military.
+
+5 Includes CHAMPVA, as well as care provided by the VA and the military. 
+6 In the CPS ASEC, individuals are considered to be uninsured if they did not have health 
+
+insurance coverage for the entire calendar year.
+
+Source: U.S. Census Bureau, Current Population Survey, 2023 and 2024 Annual Social and 
+
+Economic Supplements (CPS ASEC).
+
+This report is released alongside 
+two other reports focused on 
+household income and poverty in 
+the United States. These estimates 
+can be found in “Income in the 
+United States: 2023” and “Poverty 
+in the United States: 2023.” 
+
+HIGHLIGHTS
+
+ • In 2023, most people, 92.0 
+
+percent or 305.2 million, had 
+health insurance, either for 
+some or all of the year (Table 1 
+and Figure 1).
+
+ • In 2023, private health 
+
+insurance coverage continued 
+to be more prevalent than 
+public coverage, at 65.4 
+percent and 36.3 percent, 
+respectively.3 
+
+ • Of the subtypes of health 
+
+insurance coverage, 
+employment-based insurance 
+was the most common, 
+covering 53.7 percent of the 
+population for some or all of 
+the calendar year, followed 
+by Medicaid (18.9 percent), 
+Medicare (18.9 percent), 
+direct-purchase coverage 
+(10.2 percent), TRICARE 
+(2.6 percent), and VA and 
+CHAMPVA coverage (1.0 
+percent).4 
+
+ • While the private coverage rate 
+was statistically unchanged 
+between 2022 and 2023, the 
+employment-based coverage 
+rate declined by 0.7 percentage 
+points to 53.7 percent in 2023. 
+At the same time, the rate 
+of direct-purchase coverage 
+increased by 0.3 percentage 
+points to 10.2 percent in 2023.5 
+
+ • The 2023 public coverage rate 
+was not statistically different 
+from the rate in 2022. Whereas, 
+Medicare coverage increased 
+by 0.2 percentage points to 
+cover 18.9 percent of people.
+
+2 Health Insurance Coverage in the United States: 2023 
+
+U.S. Census Bureau
+
+ • The uninsured rate for children 
+under the age of 19 increased 
+by 0.5 percentage points to 
+5.8 percent between 2022 and 
+2023 (Figure 2).
+
+ESTIMATES OF HEALTH 
+INSURANCE COVERAGE IN 
+THE UNITED STATES
+
+This report classifies health 
+insurance coverage into three 
+different categories: overall 
+coverage, private coverage, 
+and public coverage (refer to 
+the “What Is Health Insurance 
+Coverage?” text box). In the CPS 
+ASEC, people are considered 
+insured if they were covered 
+by any type of health insurance 
+for some or all of the previous 
+calendar year. People are 
+considered uninsured if they 
+were not covered by any type of 
+insurance for the entire year.6 
+
+In 2023, most people (92.0 
+percent) had health insurance 
+
+coverage at some point during 
+the calendar year (Figure 1). That 
+means 8.0 percent of people were 
+uninsured for the entire calendar 
+year. More people had private 
+health insurance (65.4 percent) 
+than public coverage (36.3 
+percent).
+
+Employment-based insurance 
+was the most common subtype 
+of health insurance in the civilian 
+noninstitutionalized population 
+(53.7 percent), followed by 
+Medicaid (18.9 percent), Medicare 
+(18.9 percent), direct-purchase 
+insurance (10.2 percent), 
+TRICARE (2.6 percent), and VA 
+and CHAMPVA health care (1.0 
+percent).7, 8
+
+The percentage of people 
+covered by health insurance did 
+not change between 2022 and 
+2023, nor were there statistically 
+significant changes in overall 
+private coverage or overall public 
+coverage. 
+
+Of the subtypes of private 
+health insurance, employment-
+based coverage decreased by 
+0.7 percentage points between 
+2022 and 2023. The percentage 
+of people covered by direct-
+purchase insurance increased 
+by 0.3 percentage points to 10.2 
+percent, and TRICARE coverage 
+increased by 0.3 percentage 
+points to 2.6 percent between 
+2022 and 2023.9, 10 
+
+Of the three subtypes of public 
+health insurance, Medicare rates 
+increased between 2022 and 
+2023, while the Medicaid and 
+VA and CHAMPVA rates did not 
+have any significant change. The 
+percentage of people covered 
+by Medicare increased 0.2 
+percentage points to 18.9 percent 
+in 2023. This increase was in part 
+due to growth in the number of 
+people aged 65 and older.11, 12 
+
+Figure 1.
+Percentage of People by Type of Health Insurance Coverage and Change From 2022 to 2023
+(Population as of March of the following year)
+
+Type of Coverage in 2023
+
+Change: 2022 to 2023
+
+No statistical change between years
+
+92.0
+
+65.4
+
+53.7
+
+Uninsured
+With health insurance
+
+8.0
+
+Any private plan
+     Employment-based
+     Direct-purchase
+         Marketplace
+     TRICARE
+
+10.2
+
+4.0
+2.6
+
+Any public plan
+     Medicare
+     Medicaid
+     VA and CHAMPVA1
+
+1.0
+
+36.3
+
+18.9
+18.9
+
+0.1
+–0.1
+
+–0.3
+*–0.7
+*0.3
+*0.4
+*0.3
+
+0.2
+*0.2
+0.1
+-0.1
+
+* Denotes a statistically signiﬁcant change between 2022 and 2023 at the 90 percent conﬁdence level.
+1 Includes CHAMPVA (Civilian Health and Medical Program of the Department of Veterans Affairs), as well as care provided by the 
+Department of Veterans Affairs (VA) and the military.
+Note: The estimates by type of coverage are not mutually exclusive; people can be covered by more than one type of health insurance 
+during the year. Information on conﬁdentiality protection, sampling error, nonsampling error, and deﬁnitions is available at 
+<https://www2.census.gov/programs-surveys/cps/techdocs/cpsmar24.pdf>.
+Source: U.S. Census Bureau, Current Population Survey, 2023 and 2024 Annual Social and Economic Supplements (CPS ASEC).
+
+U.S. Census Bureau 
+
+Health Insurance Coverage in the United States: 2023  3
+
+Figure 2.
+Percentage of People Uninsured by Age Group: 2022 and 2023
+(Population as of March of the following year)
+
+2022
+
+2023
+
+14.0
+
+14.1
+
+12.5
+
+12.6
+
+11.7
+
+11.2
+
+5.8
+
+5.4
+
+8.6
+
+8.6
+
+1.1
+
+0.9
+
+Under 19 years*
+
+19 to 25 years
+
+26 to 34 years
+
+35 to 44 years
+
+45 to 64 years
+
+65 years and older*
+
+* Denotes a statistically signiﬁcant change between 2022 and 2023 at the 90 percent conﬁdence level.
+Note: Information on conﬁdentiality protection, sampling error, nonsampling error, and deﬁnitions is available at 
+<https://www2.census.gov/programs-surveys/cps/techdocs/cpsmar24.pdf>.
+Source: U.S. Census Bureau, Current Population Survey, 2023 and 2024 Annual Social and Economic Supplements (CPS ASEC).
+
+HEALTH INSURANCE 
+COVERAGE BY TYPE AND 
+SELECTED CHARACTERISTICS 
+
+adults may receive coverage 
+through a parent or guardian’s 
+plan up to the age of 25. 
+
+Health Insurance Coverage  
+by Age
+
+Age is associated with the 
+likelihood that a person has health 
+insurance coverage, as well as 
+with health coverage type. In 
+general, older adults (aged 65 
+and older) and children (under 
+the age of 19) are more likely to 
+have health insurance coverage 
+than those aged 19 to 64, in part 
+because their age makes them 
+eligible for certain public health 
+insurance programs. Medicare 
+provides health coverage benefits 
+for most adults aged 65 and older. 
+Children under the age of 19 may 
+qualify for coverage through 
+Medicaid or the Children’s Health 
+Insurance Program (CHIP).13 Since 
+the implementation of the Patient 
+Protection and Affordable Care 
+Act (ACA), children and young 
+
+For children under the age of 
+19, the uninsured rate increased 
+0.5 percentage points to 5.8 
+percent in 2023. For adults aged 
+65 and older, the uninsured rate 
+(0.9 percent) was lower in 2023 
+compared with 2022 (Figure 2). 
+
+There were no statistical changes 
+between 2022 and 2023 for the 
+working-age adult age groups 
+listed in Figure 2; however, 
+uninsured rates differed between 
+the age groups. Among working-
+age adults, those aged 19 to 25 
+had the highest rate (14.1 percent) 
+uninsured for the entire calendar 
+year of 2023, and those aged 
+45 to 64 had the lowest (8.6 
+percent). Overall, the uninsured 
+rate for adults decreased as age 
+increased. 
+
+Private Coverage
+Private coverage rates varied by 
+broad age groups (Figure 3). In 
+2023, the percentage of working-
+age adults aged 19 to 64 with 
+private coverage was 73.1 percent, 
+compared with 61.2 percent of 
+children under the age of 19 and 
+45.2 percent of those aged 65 
+and older. Among adults aged 
+19 to 64, most had employment-
+based coverage (62.9 percent 
+of all working-age adults). In 
+2023, 23.1 percent of adults aged 
+65 and older had employment-
+based coverage, and 19.5 percent 
+had coverage they purchased 
+directly.14 
+
+Between 2022 and 2023, private 
+coverage for children under 19 
+years old did not statistically 
+change, but employment-based 
+coverage for children decreased 
+1.0 percentage point during this 
+period. For working-age adults 
+aged 19 to 64, private coverage 
+
+4 Health Insurance Coverage in the United States: 2023 
+
+U.S. Census Bureau
+
+                                                                                                                                                                                                                                             
+                                                                                          
+Figure 3.
+Percentage of People With Selected Coverage Types and Uninsured by Age Group: 
+2022 and 2023
+(Population as of March of the following year)
+
+No statistical change between years
+
+Type of Coverage by Age in 2023
+
+Change: 2022 to 2023
+
+UNDER 19 YEARS
+
+Uninsured
+
+Private
+
+  Employment-based
+
+  Direct-purchase
+
+  TRICARE
+
+Public
+
+  Medicaid
+
+  5.8
+
+  5.5
+
+  2.4
+
+  Other public1
+
+  0.7
+
+19 TO 64 YEARS
+
+Uninsured
+
+Private
+
+  Employment-based
+
+  Direct-purchase
+
+  TRICARE
+
+Public
+
+  Medicare
+
+  Medicaid
+
+  10.9
+
+  9.2
+
+  2.4
+
+  3.4
+
+18.9
+
+  15.9
+
+  61.2
+
+  54.0
+
+  36.2
+
+  35.7
+
+  73.1
+
+  62.9
+
+  VA and CHAMPVA2
+
+  1.0
+
+65 YEARS AND OLDER
+
+Uninsured
+
+Private
+
+  Employment-based
+
+  Direct-purchase
+
+  TRICARE
+
+Public
+
+  Medicare
+
+  Medicaid
+
+  0.9
+
+ 3.6
+
+  7.1
+
+  VA and CHAMPVA2
+
+  1.9
+
+ 45.2
+
+ 23.1
+
+ 19.5
+
+  93.8
+
+  93.7
+
+*0.5
+
+–0.6
+
+*–1.0
+
+0.1
+
+0.2
+
+0.1
+
+0.2
+
+Z
+
+0.1
+
+0.1
+
+–0.6
+
+*0.6
+
+*0.2
+
+–0.2
+
+–0.2
+
+0.1
+
+Z
+
+*–0.2
+
+–0.6
+
+–0.3
+
+–0.8
+
+*0.5
+
+0.2
+
+0.3
+
+0.2
+
+*–0.6
+
+* Denotes a statistically signiﬁcant change between 2022 and 2023 at the 90 percent conﬁdence level.
+Z Rounds to zero.
+1 Other Public includes Medicare, Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA), and care 
+provided by the Department of Veterans Affairs (VA) and the military.
+2 Includes CHAMPVA, as well as care provided by the VA and the military.
+Note: The estimates by type of coverage are not mutually exclusive; people can be covered by more 
+than one type of health insurance during the year. Information on conﬁdentiality protection, sampling error, 
+nonsampling error, and deﬁnitions is available at <https://www2.census.gov/programs-surveys/cps/techdocs/cpsmar24.pdf>.
+Source: U.S. Census Bureau, Current Population Survey, 2023 and 2024 Annual Social and Economic Supplements (CPS ASEC).
+
+U.S. Census Bureau 
+
+Health Insurance Coverage in the United States: 2023  5
+
+overall did not statistically 
+change, although direct-
+purchase insurance increased 
+by 0.6 percentage points (to 9.2 
+percent), and TRICARE coverage 
+increased by 0.2 percentage 
+points (to 2.4 percent).15 Among 
+those 65 years and older, 
+TRICARE coverage increased 0.5 
+percentage points. 
+
+Public Coverage 
+In 2023, more than one third 
+of children under the age of 
+19 had public health coverage 
+(36.2 percent), compared with 
+18.9 percent of adults aged 19 
+to 64. Most adults 65 years and 
+older (93.8 percent) held public 
+coverage. Among children under 
+the age of 19, 35.7 percent were 
+covered through Medicaid or 
+CHIP; among adults aged 65 and 
+older, 93.7 percent were covered 
+through the Medicare program. 
+About 15.9 percent of working-
+age adults aged 19 to 64 were 
+covered through Medicaid, and 
+3.4 percent held Medicare at 
+some point in the year.
+
+Between 2022 and 2023, public 
+coverage types saw little change 
+by age group. VA and CHAMPVA 
+coverage decreased for adults 
+65 years and older (by 0.6 
+percentage points). No other 
+changes in public health coverage 
+by age group occurred between 
+2022 and 2023.
+
+Uninsured Rates for Children 
+and Working-Age Adults by 
+Selected Characteristics
+
+In general, most adults aged 65 
+and older are covered by health 
+insurance, primarily through 
+Medicare. For children under the 
+age of 19 and working-age adults 
+aged 19 to 64, health insurance 
+coverage status and coverage 
+type vary. While people 65 years 
+
+and older have nearly universal 
+access to Medicare, those under 
+the age of 65 are more likely to 
+be uninsured and more likely to 
+have variability in their type and 
+continuity of coverage over time.
+
+Children Under the Age of 19
+In 2023, 5.8 percent of children 
+under the age of 19 did not have 
+health insurance, an increase of 
+0.5 percentage points since 2022. 
+Health insurance coverage rates 
+for children under the age of 19 
+in 2023 differed across several 
+demographic factors including 
+race and Hispanic origin (Figure 
+4). In 2023, Hispanic children 
+(of any race) had the highest 
+uninsured rate at 9.4 percent. 
+Asian children had an uninsured 
+rate of 4.2 percent, non-Hispanic 
+White children had an uninsured 
+rate of 4.4 percent, and Black 
+children had an uninsured rate of 
+4.8 percent.16, 17, 18 None of these 
+rates were statistically different 
+from 2022.
+
+In 2023, 5.1 percent of children 
+under the age of 19 born in the 
+United States were uninsured. In 
+contrast, 19.2 percent of foreign-
+born children were uninsured, 
+including 7.5 percent of children 
+who were naturalized citizens and 
+22.1 percent of children who were 
+not citizens. These rates were not 
+statistically different from 2022.19 
+
+The uninsured rate varied by 
+region of the United States as 
+well. For children under the age of 
+19 in the Midwest, the uninsured 
+rate increased from 3.3 percent 
+in 2022 to 4.6 percent in 2023, 
+an increase of 1.3 percentage 
+points. In the West, the uninsured 
+rate for children increased by 0.9 
+percentage points to 5.1 percent. 
+However, the uninsured rate 
+did not significantly change for 
+
+children in the South (7.6 percent) 
+or children in the Northeast (4.1 
+percent).20 
+
+The ACA provides the option 
+for states to expand Medicaid 
+eligibility to people whose 
+income-to-poverty ratio falls 
+under a particular threshold. 
+As of January 1, 2023, 38 states 
+and the District of Columbia had 
+expanded Medicaid eligibility 
+requirements (referred to 
+as “expansion states”). The 
+remaining 12 states had not 
+expanded Medicaid eligibility 
+(“nonexpansion states”). The 
+uninsured rate for children under 
+the age of 19 living in Medicaid 
+expansion states increased 
+to 4.6 percent in 2023. For 
+children in nonexpansion states, 
+no significant change in the 
+uninsured rate occurred between 
+2022 and 2023, which was 8.3 
+percent in 2023.
+
+Working-Age Adults 19 to 64 
+Years Old
+Working-age adults (aged 19 to 
+64) may have different health 
+insurance outcomes from other 
+age groups because they do 
+not qualify for certain programs 
+intended for children, such as 
+CHIP. Some other programs, such 
+as Medicare, are widely available 
+to adults aged 65 and older, but 
+working-age adults only qualify 
+under limited circumstances. 
+In 2023, 10.9 percent of adults 
+aged 19 to 64 did not have health 
+insurance coverage (Figure 5). 
+
+At 23.6 percent, the uninsured 
+rate of Hispanic adults (of any 
+race) aged 19 to 64 was about 
+twice the rate for Black adults (11.1 
+percent), and more than twice 
+the rate for non-Hispanic White 
+adults (7.0 percent), and for Asian 
+adults (6.8 percent).21 
+
+6 Health Insurance Coverage in the United States: 2023 
+
+U.S. Census Bureau
+
+Figure 4.
+Percentage of Children Under the Age of 19 Without Health Insurance Coverage by 
+Selected Characteristics: 2022 and 2023             
+(Population of children under the age of 19 as of March of the following year)
+
+Total*
+
+   5.8
+5.4
+
+2023 
+2022
+
+Race and Hispanic Origin1
+
+White, not Hispanic
+
+Black
+
+Asian
+
+Hispanic (any race)
+
+Nativity
+
+Native-born
+
+Foreign-born
+
+         4.4
+       4.1
+
+  4.8
+ 4.7
+
+ 4.2
+4.1
+
+    5.1
+ 4.7
+
+     9.4
+8.6
+
+Naturalized citizen
+
+          7.5
+5.2  6.9
+
+Noncitizen
+
+Region
+
+Northeast
+
+Midwest*
+
+South
+
+West*
+
+Medicaid Expansion Status2
+
+Expansion state*
+
+Nonexpansion state
+
+  4.1
+ 4.0
+
+          4.6
+   3.3
+
+       5.1
+  4.2
+
+    4.6
+ 4.1
+
+7.6
+7.7
+
+    8.3
+  8.1
+
+    19.2
+            20.6
+
+22.1
+2            24.6
+
+* Denotes a statistically signiﬁcant change between 2022 and 2023 at the 90 percent conﬁdence level.
+1 Federal surveys give respondents the option of reporting more than one race. Therefore, two basic ways of deﬁning a 
+race group are possible. A group, such as Asian, may be deﬁned as those who reported Asian and no other race (the 
+race-alone or single-race concept) or as those who reported Asian regardless of whether they also reported another race 
+(the race-alone-or-in-combination concept). This ﬁgure shows estimates for the race-alone population.
+2 Medicaid expansion status as of January 1, 2023. Expansion states on or before January 1, 2023, include AK, AR, AZ, CA, CO, 
+CT, DC, DE, HI, IA, ID, IL, IN, KY, LA, MA, MD, ME, MI, MN, MO, MT, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, UT, VA, VT, 
+WA, and WV. For more information, refer to <www.medicaid.gov/state-overviews/index.html>.
+Note: Information on conﬁdentiality protection, sampling error, nonsampling error, and deﬁnitions is available at 
+<https://www2.census.gov/programs-surveys/cps/techdocs/cpsmar24.pdf>.
+Source: U.S. Census Bureau, Current Population Survey, 2023 and 2024 Annual Social and Economic Supplements (CPS ASEC).
+
+U.S. Census Bureau 
+
+Health Insurance Coverage in the United States: 2023  7
+
+      
+  
+Figure 5.
+Percentage of Working-Age Adults Without Health Insurance Coverage by Selected 
+Characteristics: 2022 and 2023             
+(Population of adults aged 19 to 64 as of March of the following year)
+
+2023 
+2022
+
+ 23.6
+ 23.4
+
+22.3
+22.1
+
+     32.9
+      33.0
+
+Total
+
+Race and Hispanic Origin1
+
+White, not Hispanic
+
+Black
+
+Asian
+
+Hispanic (any race)
+
+Nativity
+
+Native-born
+
+Foreign-born
+
+Naturalized citizen
+
+Noncitizen
+
+Work Experience
+
+All workers
+
+Worked full-time, year-round*
+
+Worked less than full-time, year-round*
+
+Did not work
+
+Marital Status
+
+Married2
+
+Widowed*
+
+Divorced
+
+Separated
+
+Never married
+
+Region
+
+Northeast
+
+Midwest*
+
+South
+
+West
+
+10.9
+10.8
+
+11.1
+ 11.4
+
+7.0
+6.8
+
+6.8
+ 7.4
+
+8.1
+8.2
+
+  9.5
+8.8
+
+ 10.0
+9.8
+
+ 8.9
+8.4
+
+12.9
+   13.8
+
+ 14.7
+ 14.5
+
+ 7.9
+ 7.8
+
+10.5
+          13.7
+
+ 11.6
+11.3
+
+  18.1
+     19.2
+
+  14.7
+ 14.5
+
+   7.2
+  6.7
+
+    8.1
+ 7.2
+
+ 9.8
+9.7
+
+14.8
+ 15.2
+
+* Denotes a statistically signiﬁcant change between 2022 and 2023 at the 90 percent conﬁdence level. 
+1 Federal surveys give respondents the option of reporting more than one race. Therefore, two basic ways of deﬁning a 
+race group are possible. A group, such as Asian, may be deﬁned as those who reported Asian and no other race (the 
+race-alone or single-race concept) or as those who reported Asian regardless of whether they also reported another race 
+(the race-alone-or-in-combination concept). This ﬁgure shows estimates for the race-alone population.
+2 The combined category “married” includes three individual categories: “married, civilian spouse present,” “married, 
+U.S. armed forces spouse present,” and “married, spouse absent."
+Note: Information on conﬁdentiality protection, sampling error, nonsampling error, and deﬁnitions is available at 
+<https://www2.census.gov/programs-surveys/cps/techdocs/cpsmar24.pdf>.
+Source: U.S. Census Bureau, Current Population Survey, 2023 and 2024 Annual Social and Economic Supplements (CPS ASEC).
+
+8 Health Insurance Coverage in the United States: 2023 
+
+U.S. Census Bureau
+
+  
+  
+      
+  
+The uninsured rate for foreign-
+born working-age adults was 
+more than 2.5 times the rate of 
+native-born working-age adults 
+(22.3 percent compared with 
+8.1 percent). Among foreign-
+born adults aged 19 to 64, 32.9 
+percent of noncitizen adults were 
+uninsured in 2023, more than 
+three times the percentage of 
+naturalized citizens who were 
+uninsured (9.5 percent).
+
+The uninsured rates of working-
+age adults by race, Hispanic 
+origin, and nativity were not 
+statistically different between 
+2022 and 2023.
+
+For many adults aged 19 to 64, 
+health insurance coverage is 
+related to employment status, 
+such as working full-time, year-
+round; working less than full-
+time, year-round; or not working 
+at all. Between 2022 and 2023, 
+the uninsured rate for adults 
+aged 19 to 64 who worked full-
+time, year-round increased by 
+0.5 percentage points, from 8.4 
+percent to 8.9 percent, while 
+the uninsured rate for those 
+who worked less than full-time, 
+year-round decreased by 0.9 
+percentage points, from 13.8 
+percent to 12.9 percent. Working-
+age adults who did not work had 
+an uninsured rate of 14.7 percent 
+in 2023.22 
+
+Marital status is also related to 
+health insurance coverage, as 
+many married adults share their 
+health plans. Among working-
+age adults in 2023, the uninsured 
+rates for those who were 
+separated (18.1 percent), never 
+married (14.7 percent), divorced 
+(11.6 percent), or widowed (10.5 
+percent) were higher than the 
+uninsured rate for those who 
+were married (7.9 percent). 
+
+Between 2022 and 2023, only 
+the uninsured rate for widowed 
+adults aged 19 to 64 statistically 
+changed, decreasing from 13.7 
+percent to 10.5 percent.23, 24
+
+Health insurance rates for adults 
+aged 19 to 64 also varied by 
+region. For example, 8.1 percent 
+of adults living in the Midwest 
+in 2023 were uninsured, a 0.9 
+percentage-point increase from 
+2022 (7.2 percent). The uninsured 
+rate did not significantly change 
+for working-age adults in other 
+regions.
+
+For adults aged 19 to 64, health 
+insurance coverage may be 
+related to both poverty status and 
+residence in an expansion state.25 
+
+The uninsured rates for adults 
+aged 19 to 64 by income-to-
+poverty group were lower in 
+expansion states compared with 
+nonexpansion states. In 2023, 
+the uninsured rate for adults 
+aged 19 to 64 was 8.9 percent 
+in expansion states, compared 
+with 15.5 percent in nonexpansion 
+states (Figure 6). Overall, the 
+uninsured rate for working-age 
+adults increased in expansion 
+states by 0.5 percentage points 
+and remained unchanged in 
+nonexpansion states between 
+2022 and 2023.
+
+For working-age adults in 
+expansion states, there was a 1.0 
+percentage-point increase in the 
+uninsured rate for those between 
+100 and 399 percent of their 
+poverty threshold (13.3 percent in 
+2023). 
+
+For working-age adults in 
+poverty in nonexpansion states, 
+the uninsured rate fell by 5.3 
+percentage points between 
+2022 and 2023. This is based on 
+a relatively small sample of 12 
+
+nonexpansion states. The small 
+sample size of the nonexpansion 
+population in poverty may 
+contribute to the large variances 
+surrounding estimates for this 
+group. No statistical changes in 
+the uninsured rates occurred for 
+other income-to-poverty groups 
+in nonexpansion states.
+
+PUBLIC AND PRIVATE HEALTH 
+INSURANCE COVERAGE BY 
+SELECTED CHARACTERISTICS
+
+The CPS ASEC can also be used 
+to look more closely at health 
+insurance coverage types for 
+selected economic, demographic, 
+and social characteristics. 
+Examining changes in health 
+coverage by type also highlights 
+how these changes affect the 
+uninsured rate for different 
+groups.
+
+Coverage Type for Children 
+and Working-Age Adults by 
+Household Income Quintile
+
+Health insurance coverage and 
+type is associated with household 
+income, which may determine 
+the ability to afford private health 
+insurance, and those with low 
+incomes may qualify for public 
+health insurance options. Further, 
+policies implemented in 2020 
+in response to the COVID-19 
+pandemic may have increased 
+access to and the affordability 
+of public and private health 
+coverage, including Medicaid 
+continuous coverage provisions 
+that extended into 2023. 
+
+Household income quintiles are 
+created by ordering all households 
+by income and then dividing them 
+into five equally sized groups. 
+Income cutoffs are determined 
+by finding the income levels that 
+ensure 20 percent of households 
+are in each group. In 2023, 
+
+U.S. Census Bureau 
+
+Health Insurance Coverage in the United States: 2023  9
+
+Figure 6.
+Uninsured Rate by Income-to-Poverty Ratio and Medicaid Expansion Status of State for 
+Adults Aged 19 to 64: 2022 and 2023
+(Population of adults aged 19 to 64 as of March of the following year)
+
+Expansion States1
+
+2022     2023  
+
+Nonexpansion States1
+
+2022      2023
+
+37.9
+
+32.5
+
+18.7
+
+17.0
+
+12.4
+
+13.3
+
+3.3
+
+3.5
+
+Below
+ 100% 
+of poverty
+
+Between
+100% and 399%
+of poverty*
+
+At or above
+400% 
+of poverty
+
+8.4
+
+8.9
+
+Total*
+
+20.5
+
+21.4
+
+16.2
+
+15.5
+
+5.4
+
+5.4
+
+Below
+ 100% 
+of poverty*
+
+Between
+ 100% and 399%
+ of poverty
+
+At or above
+ 400%
+ of poverty
+
+Total
+
+Percentage-Point Change in Uninsured Rate Between 2022 and 2023
+
+1.7
+
+1.0*
+
+0.2
+
+0.5*
+
+0.9
+
+–5.3*
+
+–0.1
+
+–0.7
+
+* Denotes a statistically signiﬁcant change between 2022 and 2023 at the 90 percent conﬁdence level.
+1 Medicaid expansion status as of January 1, 2023. Expansion states on or before January 1, 2023, include AK, AR, AZ, CA, CO, 
+CT, DC, DE, HI, IA, ID, IL, IN, KY, LA, MA, MD, ME, MI, MN, MO, MT, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, UT, VA, VT, 
+WA, and WV. For more information, refer to <www.medicaid.gov/state-overviews/index.html>. As of March 2024, about 134.7 million 
+adults aged 19 to 64 lived in expansion states and about 61.5 million adults aged 19 to 64 lived in nonexpansion states. 
+Note: Information on conﬁdentiality protection, sampling error, nonsampling error, and deﬁnitions is available at 
+<https://www2.census.gov/programs-surveys/cps/techdocs/cpsmar24.pdf>.
+Source: U.S. Census Bureau, Current Population Survey, 2023 and 2024 Annual Social and Economic Supplements (CPS ASEC).
+
+households in the lowest quintile 
+had incomes of $33,000 or less. 
+Households in the second quintile 
+had incomes over $33,000 and 
+up to $62,200; those in the third 
+quintile had incomes over $62,200 
+and up to $101,000; and those in 
+the fourth quintile had incomes 
+over $101,000 and up to $165,300. 
+Households in the highest quintile 
+had incomes over $165,300. 
+Figure 7 presents health insurance 
+for people in households by these 
+income quintiles.26 
+
+Uninsured rates and income 
+quintiles have an inverse 
+relationship. People in the lowest 
+household income quintile had 
+the highest uninsured rates, both 
+
+for children under the age of 19 as 
+well as for adults aged 19 to 64. 
+As the income quintile increased, 
+the percentage of uninsured 
+decreased. Among working-
+age adults, those in the lowest 
+household income quintile had 
+an uninsured rate of 21.2 percent, 
+while those in the highest income 
+quintile had an uninsured rate of 
+3.8 percent in 2023. 
+
+In 2023, 10.3 percent of children 
+under the age of 19 (or about 1 
+million) living in households in 
+the lowest income quintile did 
+not have health insurance at any 
+time, and 6.6 percent of children 
+(or about 987,000) living in 
+households in the third quintile 
+
+did not have health insurance. 
+However, for children living in 
+households in the highest income 
+quintile, the uninsured rate was 
+2.5 percent (about 497,000 
+children) in 2023.27 
+
+Among people in the lowest 
+quintile, the private health 
+insurance coverage rates were 
+16.6 percent for children under 
+the age of 19 and 30.3 percent 
+for working-age adults aged 19 to 
+64. Households in higher quintiles 
+had higher rates of private 
+insurance. Those in the highest 
+income quintile households were 
+the most likely to have private 
+health insurance (91.8 percent 
+for children under the age of 19 
+
+10 Health Insurance Coverage in the United States: 2023 
+
+U.S. Census Bureau
+
+Figure 7.
+Health Insurance by Type and Household Income Quintile for Children Under the Age of 19 
+and Adults Aged 19 to 64: 2023 
+(In percent. Population as of March of the following year)
+
+Under 19 years
+
+ 19 to 64 years
+
+Insurance Type by Income Quintile in 2023
+
+Range
+$33,000 and below 
+
+Lowest quintile 
+Second quintile 
+Third quintile 
+Fourth quintile 
+Highest quintile  Above $165,300 
+
+$33,000–$62,200 
+$62,200–$101,000 
+
+$101,000–$165,300
+
+Uninsured
+
+Lowest quintile
+
+Second quintile
+
+Third quintile
+
+Fourth quintile
+
+10.3  21.2
+
+9.0  18.8
+
+6.6  13.1
+
+4.1  7.4
+
+Highest quintile
+
+2.5 3.8
+
+Private Coverage
+
+Lowest quintile
+
+Second quintile
+
+Third quintile
+
+Fourth quintile
+
+Highest quintile
+
+Public Coverage
+
+Lowest quintile
+
+Second quintile
+
+Third quintile
+
+Fourth quintile
+
+Highest quintile
+
+16.6
+
+30.3
+
+31.1
+
+54.9
+
+55.3
+
+71.0
+
+78.9 84.3
+
+91.8
+
+92.6
+
+51.4
+
+77.0
+
+30.4
+
+64.6
+
+19.9
+
+42.9
+
+11.1 20.1
+
+5.3
+
+7.0
+
+Note: The estimates by type of coverage are not mutually exclusive; people can be covered by more than one type of health insurance 
+during the year. Dollar amounts in the chart are rounded to four signiﬁcant digits. Information on conﬁdentiality protection, sampling 
+error, nonsampling error, and deﬁnitions is available at <https://www2.census.gov/programs-surveys/cps/techdocs/cpsmar24.pdf>.
+Source: U.S. Census Bureau, Current Population Survey, 2024 Annual Social and Economic Supplement (CPS ASEC).
+
+and 92.6 percent for working-age 
+adults). 
+
+In contrast, those in the lowest 
+income quintile were the most 
+likely to have public insurance 
+(77.0 percent for children under 
+the age of 19 and 51.4 percent for 
+working-age adults), while those 
+in the highest quintile households 
+were the least likely to have public 
+health insurance (7.0 percent 
+
+for children under the age of 19 
+and 5.3 percent for working-age 
+adults). The percentage of people 
+with public insurance decreased 
+as the household income quintile 
+increased. 
+
+Coverage Type by 
+Demographic and Social 
+Characteristics
+
+Among people of all ages, 
+differences in coverage type and 
+
+changes in coverage can be seen 
+across demographic and social 
+groups (Figure 8). For example, 
+coverage rates varied by race and 
+Hispanic origin. In 2023, non-
+Hispanic White individuals had the 
+highest rate of private coverage 
+(72.3 percent), followed by 
+Asian individuals (71.4 percent), 
+Black individuals (55.9 percent), 
+and Hispanic individuals (49.5 
+percent). For public coverage, 
+
+U.S. Census Bureau 
+
+Health Insurance Coverage in the United States: 2023  11
+
+ 
+Figure 8.
+Health Insurance Coverage Type by Selected Characteristics: 2022 and 2023
+(In percent. Population as of March of the following year)
+
+  Public
+
+Private
+
+No statistical change between years
+
+Health Insurance Coverage in 2023
+
+Change: 2022 to 2023
+
+TOTAL
+
+Race and Hispanic Origin1
+
+White, not Hispanic
+
+Black
+
+Asian
+
+Hispanic (any race)
+
+Nativity
+Native-born
+
+Foreign-born
+
+Expansion Status2
+Expansion state
+
+Nonexpansion state
+
+TOTAL, 19 TO 64 YEARS
+
+Work Experience
+All workers
+
+Worked full-time, year-round
+
+Worked less than full-time, 
+year-round
+Did not work
+
+Disability Status3
+
+With a disability
+
+With no disability
+
+Marital Status
+
+Married4
+
+Not married
+
+36.3
+
+  65.4
+
+35.5
+
+42.3
+
+55.9
+
+29.2
+
+37.2
+
+49.5
+
+72.3
+
+71.4
+
+36.9
+
+67.4
+
+32.7
+
+54.4
+
+37.8
+
+33.0
+
+65.9
+
+64.2
+
+18.9
+
+73.1
+
+12.6
+
+8.6
+
+80.1
+
+84.7
+
+23.8
+
+67.0
+
+42.8 46.7
+
+47.9 51.2
+
+16.1
+
+13.6
+
+75.2
+
+  81.8
+
+24.5
+
+64.0
+
+0.2
+–0.3
+
+0.1
+Z
+1.1
+–0.8
+1.4
+–0.8
+–0.5
+0.1
+
+0.3
+–0.2
+–0.1
+–0.1
+
+0.2
+*–0.7
+0.1
+0.7
+
+–0.2
+0.1
+
+Z
+Z
+–0.3
+–0.1
+0.3
+1.0
+0.2
+–0.8
+
+–1.1
+0.5
+–0.2
+0.2
+
+–0.4
+0.1
+0.1
+0.1
+
+* Denotes a statistically significant change between 2022 and 2023 at the 90 percent confidence level.
+Z Rounds to zero.
+1 Federal surveys give respondents the option of reporting more than one race. Therefore, two basic ways of defining a 
+race group are possible. A group, such as Asian, may be defined as those who reported Asian and no other race (the 
+race-alone or single-race concept) or as those who reported Asian regardless of whether they also reported another race 
+(the race-alone-or-in-combination concept). This figure shows estimates for the race-alone population.
+2 Medicaid expansion status as of January 1, 2023. Expansion states on or before January 1, 2023, include AK, AR, AZ, CA, CO, 
+CT, DC, DE, HI, IA, ID, IL, IN, KY, LA, MA, MD, ME, MI, MN, MO, MT, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, UT, VA, VT, 
+WA, and WV. For more information, refer to <www.medicaid.gov/state-overviews/index.html>.
+3 The sum of those with and without a disability does not equal the total because disability status is not defined for individuals 
+in the U.S. armed forces. 
+4 The combined category “married” includes three individual categories: “married, civilian spouse present,” “married, U.S. armed 
+forces spouse present,” and “married, spouse absent." 
+
+Note: The estimates by type of coverage are not mutually exclusive; people can be covered by more than one type of health 
+insurance during the year. Information on conﬁdentiality protection, sampling error, nonsampling error, and deﬁnitions is available 
+at <https://www2.census.gov/programs-surveys/cps/techdocs/cpsmar24.pdf>.
+Source: U.S. Census Bureau, Current Population Survey, 2023 and 2024 Annual Social and Economic Supplements (CPS ASEC).
+
+12 Health Insurance Coverage in the United States: 2023 
+
+U.S. Census Bureau
+
+Black individuals had the 
+highest public coverage rate of 
+42.3 percent in 2023, followed 
+by Hispanic individuals (37.2 
+percent), non-Hispanic White 
+individuals (35.5 percent), and 
+Asian individuals (29.2 percent).
+
+Private and public coverage rates 
+also varied by nativity status. In 
+2023, 67.4 percent of native-born 
+individuals had private coverage, 
+compared with 54.4 percent of 
+foreign-born individuals. The 
+public coverage rate for native-
+born individuals was 36.9 percent 
+in 2023. 
+
+Private coverage rates decreased 
+by 0.7 percentage points in 
+expansion states between 2022 
+and 2023. In 2023, 65.9 percent 
+of people in expansion states 
+had private coverage, and 37.8 
+percent had public coverage. No 
+significant year-to-year changes 
+occurred for either private or 
+public coverage in nonexpansion 
+states. In nonexpansion states 
+in 2023, 64.2 percent of people 
+had private coverage, while 33.0 
+percent had public coverage.
+
+When looking at health insurance 
+by work experience, disability 
+status, or marital status, the 
+population of interest includes 
+adults aged 19 to 64. 
+
+For many adults aged 19 to 64, 
+health insurance coverage is 
+related to work status, as many 
+workers may be covered by their 
+employers’ health plans. Indeed, 
+private health insurance coverage 
+rates for workers were higher 
+than for nonworkers. In 2023, 
+84.7 percent of full-time, year-
+round workers and 67.0 percent of 
+those working less than full-time, 
+
+year-round were covered through 
+a private insurance plan. By 
+comparison, those who did not 
+work at all had the lowest rates of 
+private health insurance coverage, 
+at 46.7 percent. No statistically 
+significant year-to-year changes in 
+rates of private coverage occurred 
+for either workers or nonworkers.
+
+Rates of public coverage followed 
+a different pattern. Nonworkers 
+were more likely than workers 
+to have public coverage (42.8 
+percent of nonworkers and 12.6 
+percent of workers). Full-time, 
+year-round workers had the 
+lowest rate of public coverage at 
+8.6 percent, while 23.8 percent of 
+workers who worked less than full-
+time, year-round were covered by 
+public coverage in 2023.
+
+Among adults aged 19 to 64, 
+those with a disability were less 
+likely than those with no disability 
+to have private health insurance 
+coverage and were more likely 
+to have public coverage. In 2023, 
+47.9 percent of working-age 
+adults with a disability had private 
+coverage, compared with 75.2 
+percent with no disability. At the 
+same time, 51.2 percent of adults 
+aged 19 to 64 with a disability and 
+16.1 percent with no disability had 
+public coverage.
+
+There were also differences in 
+the distribution of coverage type 
+by marital status. For example, 
+in 2023, 81.8 percent of married 
+adults aged 19 to 64 had private 
+coverage, compared with 64.0 
+percent of those who were not 
+married. Married adults were 
+also less likely to hold public 
+coverage (13.6 percent) than their 
+nonmarried counterparts (24.5 
+percent). 
+
+ESTIMATES OF HEALTH 
+INSURANCE COVERAGE: 2013 
+TO 2023
+
+Overall Coverage Rate
+
+Economic trends, demographic 
+shifts, and changes in federal and 
+state policy provide important 
+context for coverage levels 
+and changes within social and 
+demographic groups. The 
+uninsured rate declined from 2013 
+to 2014, when many provisions 
+of the ACA went into effect and 
+continued to decline through 
+2016, then remained at 8.8 
+percent in 2017 under the legacy 
+processing system (Figure 9).28 
+
+After switching to the new 
+processing system, the 2017 rate 
+was 7.9 percent. From 2017 to 
+2018 the uninsured rate increased 
+to 8.5 percent. The uninsured 
+rate in 2020 (8.6 percent) was 
+not significantly different from 
+the uninsured rate in 2018.29 
+The CPS ASEC only considers 
+people who had no coverage at 
+all during the calendar year as 
+uninsured. Therefore, people who 
+lost health insurance coverage in 
+2020 because of the COVID-19 
+pandemic were not considered 
+uninsured in 2020 in the CPS 
+ASEC. In 2021, the uninsured 
+rate declined by 0.4 percentage 
+points from 2020, to 8.3 percent. 
+Between 2021 and 2022, the 
+uninsured rate decreased by an 
+additional 0.4 percentage points, 
+falling to 7.9 percent in 2022. 
+Between 2022 and 2023, there 
+was no significant change, and 
+the uninsured rate remained near 
+historic lows at 8.0 percent in 
+2023.
+
+U.S. Census Bureau 
+
+Health Insurance Coverage in the United States: 2023  13
+
+Figure 9.
+Percentage of People Without Health Insurance Coverage: 2013 to 2023 
+(Numbers in percent. Population as of March of the following year)
+
+Recession
+
+10.4
+
+9.1
+
+8.8
+
+8.8
+
+7.9
+
+8.5
+
+8.0
+
+8.6
+
+8.3
+
+7.9
+
+8.0
+
+25
+
+20
+
+15
+
+13.3
+
+10
+
+5
+
+0
+
+2013
+
+2014
+
+2015
+
+2016
+
+20171
+
+2018
+
+20192
+
+2020
+
+2021
+
+2022
+
+2023
+
+1 The data for 2017 and beyond reﬂect the implementation of an updated processing system. 
+
+2 The Census Bureau recommends using caution when making comparisons between calendar year coverage in 2019 (collected 
+in 2020) and other years: <www.census.gov/content/dam/Census/library/working-papers/2023/demo/sehsd-wp-2023-27.pdf>. 
+
+Note: Information on conﬁdentiality protection, sampling error, nonsampling error, and deﬁnitions is available at  
+<https://www2.census.gov/programs-surveys/cps/techdocs/cpsmar24.pdf>.
+
+Source: U.S. Census Bureau, Current Population Survey, 2018 Annual Social and Economic Supplement Bridge File 
+and 2014 to 2024 Annual Social and Economic Supplements (CPS ASEC).
+
+SUMMARY
+
+In 2023, the overall uninsured 
+rate did not change, nor did the 
+overall rates of public or private 
+coverage. 
+
+There were changes in some 
+types of insurance for the total 
+population. For example, Medicare 
+rates increased by 0.2 percentage 
+points due to population aging. 
+Employment-based insurance 
+decreased by 0.7 percentage 
+points, while direct-purchase 
+insurance and TRICARE insurance 
+each increased by 0.3 percentage 
+points. Overall, private coverage 
+continued to be more prevalent 
+than public insurance.30
+
+People in some social and 
+demographic groups saw their 
+uninsured rates change between 
+
+2022 and 2023. The uninsured 
+rate for children under the age of 
+19 increased by 0.5 percentage 
+points, driven by a 1.0 percentage-
+point decrease in employment-
+based insurance for this group. 
+Conversely, the uninsured rate 
+for adults 65 years and older 
+decreased by 0.2 percentage 
+points. 
+
+ACCESSING HEALTH 
+INSURANCE COVERAGE DATA 
+
+State and Local Estimates of 
+Health Insurance Coverage
+
+The Census Bureau publishes 
+annual estimates of health 
+insurance coverage by state and 
+other smaller geographic units 
+based on data collected in the 
+American Community Survey 
+(ACS). Single-year estimates are 
+
+available for geographic units with 
+a population of 65,000 or more. 
+Five-year estimates are available 
+for all geographic units, including 
+census tracts and block groups.
+
+The Census Bureau’s Small Area 
+Health Insurance Estimates 
+(SAHIE) program also produces 
+single-year estimates of health 
+insurance for all states and 
+counties. These estimates are 
+based on statistical models using 
+data from a variety of sources 
+including current surveys, 
+administrative records, and annual 
+population estimates. In general, 
+SAHIE estimates have lower 
+variances than ACS estimates but 
+are released later because they 
+incorporate these additional data 
+into their models.
+
+14 Health Insurance Coverage in the United States: 2023 
+
+U.S. Census Bureau
+
+SAHIE estimates are available 
+at <www.census.gov/programs-
+surveys/sahie.html>. The most 
+recent estimates are for 2022.
+
+Additional Data  
+
+Additional estimates from the CPS 
+ASEC are available on the Census 
+Bureau’s Health Insurance website. 
+This includes detailed tables, 
+historical tables, press releases, 
+briefings, and working papers. The 
+website may be accessed through 
+the Census Bureau’s home page at 
+<www.census.gov> or directly at 
+<www.census.gov/topics/health/
+health-insurance.html>.
+
+For assistance with health 
+insurance data, contact the 
+Census Bureau Customer Service 
+Center at 1-800-923-8282 (toll-
+free), or search your topic of 
+interest using the Census Bureau’s 
+“Question and Answer Center” 
+found at <https://ask.census.gov>.
+
+Data.census.gov 
+Data.census.gov is a platform to 
+access data and digital content 
+from the Census Bureau. It 
+allows access to the Census 
+Bureau’s most popular surveys 
+and programs such as the CPS, 
+ACS, decennial census, economic 
+census, and more.
+
+To learn more about data.census.
+gov, check out the release notes at 
+<https://www2.census.gov/data/
+api-documentation/data-census-
+gov-release-notes.pdf>.
+
+Public-Use Microdata
+Data users can create custom 
+statistics from Public Use 
+Microdata files using the 
+Microdata Access Tool (MDAT), 
+available at <https://data.census.
+gov/mdat>. Microdata for the 
+2024 CPS ASEC and earlier years 
+
+are available online at <www.
+census.gov/data/datasets/time-
+series/demo/cps/cps-asec.html>. 
+Technical methods have been 
+applied to CPS microdata to 
+avoid disclosing the identities of 
+individuals from whom data were 
+collected.
+
+Census Data API
+The Census Data Application 
+Programming Interface (API) gives 
+the public access to pretabulated 
+data from various Census Bureau 
+data programs. It is an efficient 
+way to query data directly from 
+Census Bureau servers with 
+many advantages, including the 
+ability to easily download target 
+variables and geographies and 
+immediately access the most 
+current data. Users can find which 
+datasets are currently available via 
+the API at <www.census.gov/data/
+developers/data-sets.html>.
+
+SOURCE AND ACCURACY OF 
+THE ESTIMATES
+
+The CPS is the longest-running 
+survey conducted by the Census 
+Bureau. The CPS is a household 
+survey primarily used to collect 
+employment data. The sample 
+universe for the basic CPS 
+consists of the resident civilian 
+noninstitutionalized population 
+of the United States. People in 
+institutions, such as prisons, long-
+term care hospitals, and nursing 
+homes, are not eligible to be 
+interviewed in the CPS. Students 
+living in dormitories are included 
+in the estimates only if information 
+about them is reported in an 
+interview at their parents’ home. 
+Since the CPS is a household 
+survey, people who are homeless 
+and not living in shelters are not 
+included in the sample.
+
+The CPS ASEC, the source for the 
+estimates in this report, collects 
+data in February, March, and 
+April each year, asking detailed 
+questions categorizing income 
+into over 50 sources. The key 
+purpose of the survey is to 
+provide timely and comprehensive 
+estimates of income, poverty, 
+and health insurance and to 
+measure change in these national-
+level estimates. The survey is 
+the official source of national 
+poverty estimates calculated 
+in accordance with the Office 
+of Management and Budget’s 
+Statistical Policy Directive 14.
+
+The CPS ASEC collects data in 
+the 50 states and the District 
+of Columbia; these data do not 
+represent residents of Puerto Rico 
+or the U.S. Island Areas.31 The 
+2024 CPS ASEC sample consists 
+of about 89,500 addresses. 
+The CPS ASEC includes military 
+personnel who live in a household 
+with at least one civilian adult, 
+regardless of whether they live 
+on- or off-post. All other armed 
+forces personnel are excluded. 
+The estimates in this report 
+are controlled to March 2024 
+independent national population 
+estimates by age, sex, race, and 
+Hispanic origin. Beginning with 
+the data for 2020, population 
+estimates are based on 2020 
+Census population counts and are 
+updated annually after accounting 
+for births, deaths, emigration, and 
+immigration.
+
+The estimates in this report (which 
+may be shown in text, figures, and 
+tables) are based on responses 
+from a sample of the population 
+and may differ from actual values 
+because of sampling variability 
+or other factors. As a result, 
+apparent differences between the 
+
+U.S. Census Bureau 
+
+Health Insurance Coverage in the United States: 2023  15
+
+estimates for two or more groups 
+may not be statistically significant. 
+All comparative statements have 
+undergone statistical testing and 
+are statistically significant at the 
+90 percent confidence level unless 
+otherwise noted.
+
+In this report, the variances of 
+estimates were calculated using 
+replication methods. For estimates 
+prior to 2010, or as noted in 
+historical tables, the Generalized 
+Variance Function method 
+was used. More information 
+on replicate weights, standard 
+errors, income top-coding and 
+data swapping on the public-
+use file, and changes to the CPS 
+ASEC data file from the prior year 
+is available at <https://www2.
+census.gov/programs-surveys/
+cps/techdocs/cpsmar24.pdf>.
+
+Nonresponse Bias in the CPS 
+ASEC
+
+The Census Bureau administers 
+the CPS ASEC each year between 
+February and April by telephone 
+and in-person interviews, with 
+most data collected in March. In 
+2020, normal data collection was 
+interrupted due to the COVID-
+19 pandemic. The response 
+rate fell to 73 percent in March 
+2020, down from 82 percent in 
+March 2019. Response rates were 
+regularly above 80 percent before 
+the pandemic. 
+
+Although standard collection 
+procedures have resumed, 
+response rates remain lower than 
+they were before the pandemic. 
+The response rate for the CPS 
+basic household survey was 67 
+percent in March 2024. Lower 
+response rates could affect 
+estimates if respondents differ 
+from nonrespondents. More 
+information on how sample 
+
+differences and nonresponse 
+bias affected income and 
+poverty estimates in the 2024 
+CPS ASEC is available at <www.
+census.gov/newsroom/blogs/
+research-matters/2024/09/
+administrative-data-nonresponse-
+bias-cps-asec.html>. Information 
+on how data collection issues in 
+2020 affected health insurance 
+coverage estimates is available 
+at <www.census.gov/library/
+working-papers/2020/demo/
+SEHSD-WP2020-13.html>. 
+
+CPS ASEC Modernization
+
+The Census Bureau has begun 
+a multiyear effort to modernize 
+many of its surveys, including the 
+CPS. Part of this involves adding 
+an Internet Self-Response (ISR) 
+mode to the CPS and then the 
+CPS ASEC. 
+
+This project requires extensive 
+review and testing to ensure 
+that ISR is a viable collection 
+mode for the CPS ASEC and that 
+changes do not negatively affect 
+the reliability and comparability 
+of the estimates. The project 
+schedule seeks to align the CPS 
+ASEC modernization effort 
+with that of the CPS to maintain 
+continuity. However, the schedule 
+and activities may change to 
+accommodate funding availability, 
+discovery of issues during 
+testing and analysis, and project 
+reprioritization. 
+
+For more information about the 
+ASEC modernization project 
+and timeline, visit the Census 
+Bureau’s CPS ASEC Modernization 
+Efforts webpage at <www.
+census.gov/programs-surveys/
+cps/about/modernization/
+asecmodernization.html> or email 
+at <demo.asec.modernization@
+census.gov>.
+
+COMMENTS
+
+The Census Bureau welcomes 
+the comments and advice of data 
+and report users. If you have 
+suggestions or comments on the 
+health insurance coverage report, 
+contact:
+
+Sharon Stern
+
+Assistant Division Chief for 
+Employment Characteristics
+
+Social, Economic, and Housing 
+Statistics Division
+
+U.S. Census Bureau
+
+Washington, DC 20233-8500
+
+or email
+
+<sharon.m.stern@census.gov>.
+
+ENDNOTES
+
+1 While the Continuous Coverage program 
+formally ended in April 2023, some states 
+opted to maintain continuous coverage for 
+some additional time. All states had ended 
+continuous coverage by the end of 2023. 
+For more information, refer to “Families First 
+Coronavirus Response Act, P.L. 116–127,” 
+March 18, 2020, <https://www.congress.
+gov/116/plaws/publ127/PLAW-116publ127.
+pdf>; Congressional Research Service, 
+“Health Care Provisions in the Families First 
+Coronavirus Response Act, P.L. 116–127,” 
+R46316, April 17, 2020, <https://crsreports.
+congress.gov/product/pdf/R/R46316>; 
+“American Rescue Plan Act of 2021,” P.L. 
+117–2, March 11, 2021, <www.congress.
+gov/117/plaws/publ2/PLAW-117publ2.pdf>; 
+Katie Keith, “Final Coverage Provisions in 
+the American Rescue Plan and What Comes 
+Next,” Health Affairs Blog, DOI: 10.1377/
+hblog20210311.725837, March 11, 2021.
+2 The CPS ASEC also includes a measure of 
+health insurance coverage held at the time 
+of the interview. Although this measure 
+of coverage cannot predict coverage in a 
+given calendar year, it offers a snapshot 
+of health insurance coverage early in the 
+year when CPS ASEC data are collected. 
+Additional statistics for this health coverage 
+can be found in Table H-02 at <www.
+census.gov/data/tables/time-series/demo/
+income-poverty/cps-hi/hi.html>.
+3 Some people have more than one 
+coverage type during the calendar year.
+4 In 2023, the percentage of people with 
+Medicare coverage was not statistically 
+different from the percentage of people 
+with Medicaid coverage.
+5 Throughout this report, details may not 
+sum to totals because of rounding.
+6 Infants born after the calendar-year 
+reference period are excluded from 
+estimates in this report.
+
+16 Health Insurance Coverage in the United States: 2023 
+
+U.S. Census Bureau
+
+7 The final category includes CHAMPVA 
+(Civilian Health and Medical Program of the 
+Department of Veterans Affairs) coverage 
+and care provided by the Department of 
+Veterans Affairs (VA) and the military.
+8 In 2023, the percentage of people with 
+Medicare coverage was not statistically 
+different from the percentage of people 
+with Medicaid coverage.
+9 Given the small sample size and relative 
+stability in enrollment reported by the 
+Military Health System, it is difficult to 
+determine whether the apparent increase 
+in the CPS ASEC between 2022 and 2023 
+reflects real change in TRICARE coverage. 
+For more information, refer to the Annual 
+Evaluation of the TRICARE Program, <www.
+health.mil/Military-Health-Topics/Access-
+Cost-Quality-and-Safety/Health-Care-
+Program-Evaluation/Annual-Evaluation-of-
+the-TRICARE-Program>.
+10 Between 2022 and 2023, the percentage-
+point change of people with direct-
+purchase coverage was not statistically 
+different from the percentage-point change 
+of people with TRICARE coverage.
+11 The proportion of the population 65 years 
+and older with Medicare coverage did not 
+statistically change between 2022 and 
+2023. The percentage of the U.S. population 
+65 years and older, however, increased 
+between 2022 and 2023.
+12 Between 2022 and 2023, the percentage-
+point change of people with Medicaid 
+coverage was not statistically different 
+from the percentage-point change of 
+people with Medicare coverage or the 
+percentage-point change of people with VA 
+and CHAMPVA coverage.
+13 CHIP is a public assistance program that 
+provides health insurance to children in 
+families with income too high to qualify 
+for Medicaid, but who are likely unable to 
+afford private health insurance.
+14 Although most people aged 65 and 
+older held coverage through Medicare, 
+47.6 percent of people aged 65 and older 
+reported holding more than one type of 
+coverage concurrently for some or all of 
+calendar year 2023.
+15 Between 2022 and 2023, the percentage-
+point change of adults aged 19 to 64 with 
+private coverage was not statistically 
+different from the percentage-point change 
+of adults aged 19 to 64 with direct-purchase 
+coverage or the percentage-point change 
+of adults aged 19 to 64 with TRICARE 
+coverage.
+
+16 Federal surveys give respondents the 
+option of reporting more than one race. 
+Therefore, two basic ways of defining a race 
+group are possible. A group, such as Asian, 
+may be defined as those who reported 
+Asian and no other race (the race-alone 
+or single-race concept) or as those who 
+reported Asian regardless of whether they 
+also reported another race (the race-alone-
+or-in-combination concept). The body of 
+this report (text and figures) shows data 
+using the first approach (race alone). 
+Primary use of the single-race population 
+does not imply that it is the preferred 
+method of presenting or analyzing data. 
+The Census Bureau uses a variety of 
+approaches. In this report, the terms “White, 
+not Hispanic” and “non-Hispanic White” are 
+used interchangeably and refer to people 
+who are not Hispanic and who reported 
+White and no other race. This report uses 
+non-Hispanic White as the comparison 
+group for other race and Hispanic origin 
+groups. Since Hispanic individuals may be 
+any race, data in this report for the Hispanic 
+population overlap with data for race 
+groups. Of those who reported only one 
+race, Hispanic origin was reported by 17.1 
+percent of White householders, 5.8 percent 
+of Black householders, 2.4 percent of Asian 
+householders, and 32.3 percent of American 
+Indian and Alaska Native householders. 
+Data users should exercise caution when 
+interpreting aggregate results for the 
+Hispanic population or for race groups 
+because these populations consist of many 
+distinct groups that differ in socioeconomic 
+characteristics, culture, and nativity. Data on 
+Hispanic origin were first collected in 1972. 
+Data on Asian and Pacific Islander origin 
+and American Indian and Alaska Native 
+origin were first collected in 1987. More 
+information is available at <www.census.
+gov/programs-surveys/cps.html>. 
+17 The small sample size of the Asian 
+population and the fact that the CPS ASEC 
+does not use separate population controls 
+for weighting the Asian sample to national 
+totals contribute to the large variances 
+surrounding estimates for this group. As 
+a result, the CPS ASEC may be unable to 
+detect statistically significant differences 
+between some estimates for the Asian 
+population.
+18 In 2023, the percentage of Black 
+children under the age of 19 without 
+health insurance was not statistically 
+different from the percentage of Asian 
+children under the age of 19 without health 
+insurance.
+19 In 2023, the percentage of native-born 
+children under the age of 19 without health 
+insurance was not statistically different 
+from the percentage of naturalized citizen 
+children under the age of 19 without health 
+insurance.
+
+20 In 2023, the percentage of children under 
+the age of 19 without health insurance in the 
+Midwest, the percentage of children under 
+the age of 19 without health insurance 
+in the Northeast, and the percentage of 
+children under the age of 19 without health 
+insurance in the West were not statistically 
+different from each other.
+21 In 2023, the percentage of non-Hispanic 
+White working-age adults without health 
+insurance was not statistically different 
+from the percentage of Asian working-age 
+adults without health insurance.
+22 Between 2022 and 2023, the percentage-
+point change in the uninsured rate for 
+adults aged 19 to 64 who did not work 
+was not statistically different from the 
+percentage-point change in the uninsured 
+rate for adults aged 19 to 64 who worked 
+full-time, year-round or the percentage-
+point change in the uninsured rate for 
+adults aged 19 to 64 who worked less than 
+full-time, year-round.
+23 The small sample size of working-age 
+adults who are widowed may contribute to 
+the large variances surrounding estimates 
+for this group.
+24 In 2023, the percentage of widowed 
+working-age adults without health 
+insurance was not statistically different 
+from the percentage of divorced working-
+age adults without health insurance.
+25 The Office of Management and Budget 
+determined the official definition of poverty 
+in Statistical Policy Directive 14. Appendix 
+A of “Poverty in the United States: 2023,” 
+provides a more detailed description of 
+how the Census Bureau calculates poverty. 
+More information is available at <www.
+census.gov/library/publications/2024/
+demo/p60-283.html>.
+26 Dollar amounts are rounded to four 
+significant digits.
+27 Numbers rounded to the nearest 
+thousand.
+28 Figure 9 includes a series break after 
+2017 when an updated processing system 
+was introduced for the CPS ASEC. For 
+more information on the processing system 
+change, refer to Rachel A. Lindstrom, 
+Katherine Keisler-Starkey, and Lisa N. 
+Bunch, “Estimates of Health Insurance 
+Coverage, 2013 to 2022,” SEHSD Working 
+Paper Number 2023-27, U.S. Census 
+Bureau, Washington, DC, 2023.
+29 Comparisons between 2018 and 
+2020 estimates use 2010 Census-based 
+population controls.
+30 Between 2022 and 2023, the percentage-
+point change of people with direct-
+purchase coverage, the percentage-point 
+change of people with Medicare coverage, 
+and the percentage-point change of 
+people with TRICARE coverage were not 
+statistically different from each other. 
+31 U.S. Island Areas include American Samoa, 
+Guam, the Commonwealth of the Northern 
+Mariana Islands, and the U.S. Virgin Islands.
+
+U.S. Census Bureau 
+
+Health Insurance Coverage in the United States: 2023  17
+
+Appendix A.
+
+Table A-1. 
+Percentage of People by Health Insurance Coverage Status and Type by Selected Characteristics: 
+2022 and 2023—Con.
+(Numbers in thousands. Population as of March of the following year. Information on confidentiality protection, sampling error, 
+nonsampling error, and definitions is available at <https://www2.census.gov/programs-surveys/cps/techdocs/cpsmar24.pdf>)
+
+Total
+
+Any health insurance
+
+Private health 
+insurance2
+
+Public health 
+insurance3
+
+Uninsured4
+
+Number
+
+Percent
+
+Margin of 
+error1 (±)
+
+Percent
+
+Margin of 
+error1 (±) Percent
+
+Margin of 
+error1 (±) Percent
+
+Margin of 
+error1 (±)
+
+331,700
+
+92.0
+
+0.2
+
+65.4
+
+0.4
+
+36.3
+
+Characteristic
+
+    2023 Total . . . . . . . . . . . . . . . . .
+Race5 and Hispanic Origin
+White . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ White, not Hispanic . . . . . . . . . . . . . . .
+Black . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Asian  . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Hispanic (any race) . . . . . . . . . . . . . . . . .
+
+Age
+Under 65 years . . . . . . . . . . . . . . . . . . . . .
+ Under 19 years6  . . . . . . . . . . . . . . . . . .
+ 19 to 64 years . . . . . . . . . . . . . . . . . . . .
+  19 to 25 years7  . . . . . . . . . . . . . . . . .
+  26 to 34 years . . . . . . . . . . . . . . . . . .
+  35 to 44 years . . . . . . . . . . . . . . . . . .
+  45 to 64 years . . . . . . . . . . . . . . . . . .
+65 years and older . . . . . . . . . . . . . . . . . .
+
+Nativity
+Native-born . . . . . . . . . . . . . . . . . . . . . . . .
+Foreign-born  . . . . . . . . . . . . . . . . . . . . . .
+ Naturalized citizen . . . . . . . . . . . . . . . .
+ Not a citizen . . . . . . . . . . . . . . . . . . . . .
+
+Region
+Northeast  . . . . . . . . . . . . . . . . . . . . . . . . .
+Midwest . . . . . . . . . . . . . . . . . . . . . . . . . . .
+South . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+West . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+State Medicaid Expansion Status8
+Lived in Medicaid expansion state . . . .
+Did not live in Medicaid expansion 
+
+249,400
+192,500
+44,880
+21,790
+65,380
+
+272,400
+76,280
+196,100
+30,150
+40,350
+44,320
+81,320
+59,240
+
+280,400
+51,260
+24,850
+26,410
+
+56,100
+68,110
+129,200
+78,240
+
+92.0
+95.0
+91.9
+94.5
+82.5
+
+90.5
+94.2
+89.1
+85.9
+87.4
+88.3
+91.4
+99.1
+
+94.0
+81.2
+92.8
+70.3
+
+94.7
+94.1
+89.3
+92.8
+
+226,500
+
+93.6
+
+state . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+105,100
+
+88.7
+
+Footnotes provided at end of table.
+
+0.2
+0.2
+0.5
+0.6
+0.6
+
+0.3
+0.3
+0.3
+0.7
+0.6
+0.5
+0.4
+0.1
+
+0.2
+0.7
+0.5
+1.2
+
+0.6
+0.4
+0.4
+0.4
+
+0.2
+
+0.5
+
+67.1
+72.3
+55.9
+71.4
+49.5
+
+69.7
+61.2
+73.1
+67.7
+71.2
+73.6
+75.7
+45.2
+
+67.4
+54.4
+63.6
+45.6
+
+67.2
+69.4
+63.8
+63.1
+
+65.9
+
+64.2
+
+0.4
+0.5
+1.1
+1.3
+0.9
+
+0.4
+0.8
+0.4
+0.9
+0.8
+0.8
+0.5
+0.8
+
+0.4
+0.9
+1.0
+1.2
+
+0.9
+0.9
+0.7
+0.7
+
+0.5
+
+0.8
+
+35.7
+35.5
+42.3
+29.2
+37.2
+
+23.8
+36.2
+18.9
+20.7
+19.4
+17.5
+18.9
+93.8
+
+36.9
+32.7
+38.4
+27.4
+
+38.0
+35.9
+34.4
+38.6
+
+37.8
+
+33.0
+
+0.4
+
+0.4
+0.4
+1.1
+1.3
+0.8
+
+0.4
+0.8
+0.4
+0.9
+0.7
+0.7
+0.6
+0.3
+
+0.4
+0.8
+0.9
+1.2
+
+1.0
+0.9
+0.5
+0.7
+
+0.5
+
+0.6
+
+8.0
+
+8.0
+5.0
+8.1
+5.5
+17.5
+
+9.5
+5.8
+10.9
+14.1
+12.6
+11.7
+8.6
+0.9
+
+6.0
+18.8
+7.2
+29.7
+
+5.3
+5.9
+10.7
+7.2
+
+6.4
+
+11.3
+
+0.2
+
+0.2
+0.2
+0.5
+0.6
+0.6
+
+0.3
+0.3
+0.3
+0.7
+0.6
+0.5
+0.4
+0.1
+
+0.2
+0.7
+0.5
+1.2
+
+0.6
+0.4
+0.4
+0.4
+
+0.2
+
+0.5
+
+18 Health Insurance Coverage in the United States: 2023 
+
+U.S. Census Bureau
+
+Table A-1. 
+Percentage of People by Health Insurance Coverage Status and Type by Selected Characteristics: 
+2022 and 2023—Con.
+(Numbers in thousands. Population as of March of the following year. Information on confidentiality protection, sampling error, 
+nonsampling error, and definitions is available at <https://www2.census.gov/programs-surveys/cps/techdocs/cpsmar24.pdf>)
+
+Total
+
+Any health insurance
+
+Private health 
+insurance2
+
+Public health 
+insurance3
+
+Uninsured4
+
+Number
+
+Percent
+
+Margin of 
+error1 (±)
+
+Percent
+
+Margin of 
+error1 (±) Percent
+
+Margin of 
+error1 (±) Percent
+
+Margin of 
+error1 (±)
+
+330,000
+
+92.1
+
+0.2
+
+65.6
+
+0.4
+
+36.1
+
+Characteristic
+
+    2022 Total . . . . . . . . . . . . . . . . .
+Race5 and Hispanic Origin
+White . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ White, not Hispanic . . . . . . . . . . . . . . .
+Black . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Asian  . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Hispanic (any race) . . . . . . . . . . . . . . . . .
+
+Age
+Under 65 years . . . . . . . . . . . . . . . . . . . . .
+ Under 19 years6  . . . . . . . . . . . . . . . . . .
+ 19 to 64 years . . . . . . . . . . . . . . . . . . . .
+  19 to 25 years7  . . . . . . . . . . . . . . . . .
+  26 to 34 years . . . . . . . . . . . . . . . . . .
+  35 to 44 years . . . . . . . . . . . . . . . . . .
+  45 to 64 years . . . . . . . . . . . . . . . . . .
+65 years and older . . . . . . . . . . . . . . . . . .
+
+Nativity
+Native-born . . . . . . . . . . . . . . . . . . . . . . . .
+Foreign-born  . . . . . . . . . . . . . . . . . . . . . .
+ Naturalized citizen . . . . . . . . . . . . . . . .
+ Not a citizen . . . . . . . . . . . . . . . . . . . . .
+
+Region
+Northeast  . . . . . . . . . . . . . . . . . . . . . . . . .
+Midwest . . . . . . . . . . . . . . . . . . . . . . . . . . .
+South . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+West . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+State Medicaid Expansion Status8
+Lived in Medicaid expansion state . . . .
+Did not live in Medicaid expansion 
+
+248,700
+193,100
+44,540
+21,550
+63,790
+
+272,100
+76,200
+195,900
+30,430
+40,580
+43,490
+81,390
+57,880
+
+281,200
+48,780
+23,930
+24,840
+
+56,290
+67,800
+127,900
+78,000
+
+92.1
+95.1
+91.7
+94.1
+82.8
+
+90.7
+94.6
+89.2
+86.0
+87.5
+88.8
+91.4
+98.9
+
+94.0
+81.2
+93.2
+69.6
+
+94.9
+94.9
+88.9
+93.0
+
+226,100
+
+93.9
+
+0.2
+0.2
+0.6
+0.6
+0.6
+
+0.3
+0.4
+0.3
+0.7
+0.5
+0.5
+0.3
+0.1
+
+0.2
+0.7
+0.5
+1.2
+
+0.4
+0.4
+0.4
+0.4
+
+0.2
+
+0.5
+
+67.1
+72.3
+56.6
+72.2
+49.4
+
+69.8
+61.8
+72.9
+68.8
+70.9
+74.1
+74.9
+45.9
+
+67.6
+54.4
+63.2
+46.0
+
+66.9
+70.4
+63.5
+64.0
+
+66.6
+
+63.6
+
+0.5
+0.5
+1.1
+1.3
+0.8
+
+0.5
+0.7
+0.5
+0.9
+0.9
+0.7
+0.7
+0.8
+
+0.4
+1.0
+1.1
+1.3
+
+1.0
+0.9
+0.7
+0.9
+
+0.5
+
+0.8
+
+35.7
+35.4
+41.2
+27.8
+37.7
+
+23.9
+36.1
+19.1
+19.5
+19.5
+17.6
+19.6
+93.6
+
+36.7
+32.8
+39.3
+26.7
+
+38.7
+35.9
+33.9
+38.1
+
+37.6
+
+32.9
+
+0.4
+
+0.4
+0.4
+1.0
+1.2
+0.7
+
+0.4
+0.7
+0.4
+0.8
+0.7
+0.6
+0.6
+0.3
+
+0.4
+0.8
+0.9
+1.1
+
+0.9
+0.8
+0.6
+0.8
+
+0.4
+
+0.7
+
+7.9
+
+7.9
+4.9
+8.3
+5.9
+17.2
+
+9.3
+5.4
+10.8
+14.0
+12.5
+11.2
+8.6
+1.1
+
+6.0
+18.8
+6.8
+30.4
+
+5.1
+5.1
+11.1
+7.0
+
+6.1
+
+11.8
+
+0.2
+
+0.2
+0.2
+0.6
+0.6
+0.6
+
+0.3
+0.4
+0.3
+0.7
+0.5
+0.5
+0.3
+0.1
+
+0.2
+0.7
+0.5
+1.2
+
+0.4
+0.4
+0.4
+0.4
+
+0.2
+
+0.5
+
+state . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+103,900
+
+88.2
+
+1 A margin of error (MOE) is a measure of an estimate’s variability. The larger the MOE in relation to the size of the estimate, the less reliable 
+the estimate. This number, when added to and subtracted from the estimate, forms the 90 percent confidence interval. MOEs shown in this table 
+are based on standard errors calculated using replicate weights. 
+
+2 Private health insurance includes coverage provided through an employer or union, coverage purchased directly, or TRICARE.
+3 Public health insurance coverage includes Medicaid, Medicare, CHAMPVA (Civilian Health and Medical Program of the Department of 
+
+Veterans Affairs), and care provided by the Department of Veterans Affairs (VA) and the military.
+
+4 Individuals are considered to be uninsured if they did not have health insurance coverage for the entire calendar year.
+5 Federal surveys give respondents the option of reporting more than one race. Therefore, two basic ways of defining a race group are 
+possible. A group, such as Asian, may be defined as those who reported Asian and no other race (the race-alone or single-race concept) or as 
+those who reported Asian regardless of whether they also reported another race (the race-alone-or-in-combination concept). This table shows 
+data using the first approach (race alone). The use of the single-race population does not imply that it is the preferred method of presenting 
+or analyzing data. The Census Bureau uses a variety of approaches. Data for American Indians and Alaska Natives, Native Hawaiians and Other 
+Pacific Islanders, and those reporting two or more races are not shown separately.  
+
+6 Children under the age of 19 are eligible for Medicaid/CHIP.
+7 This age group is of special interest because of the Affordable Care Act’s dependent coverage provision. Individuals aged 19 to 25 may be 
+
+eligible to be a dependent on a parent’s health insurance plan.
+
+8 Medicaid expansion status as of January 1, 2023. Expansion states on or before January 1, 2023 include AK, AR, AZ, CA, CO, CT, DC, DE, HI, 
+IA, ID, IL, IN, KY, LA, MA, MD, ME, MI, MN, MO, MT, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, UT, VA, VT, WA, and WV. For more information, 
+refer to <www.medicaid.gov/state-overviews/index.html>.
+
+Note: The estimates by type of coverage are not mutually exclusive; people can be covered by more than one type of health insurance during 
+
+the year. 
+
+Source: U.S. Census Bureau, Current Population Survey, 2023 and 2024 Annual Social and Economic Supplements (CPS ASEC).
+
+U.S. Census Bureau 
+
+Health Insurance Coverage in the United States: 2023  19
+
+Table A-2. 
+Health Insurance Coverage Status and Type by Age and Selected Characteristics:  
+2022 and 2023—Con.
+(Numbers in thousands. Population as of March of the following year. Information on confidentiality protection, sampling error, 
+nonsampling error, and definitions is available at <https://www2.census.gov/programs-surveys/cps/techdocs/cpsmar24.pdf>)
+
+Total
+
+Any health insurance
+
+Private health 
+insurance2
+
+Public health 
+insurance3
+
+Uninsured4
+
+Number
+
+Percent
+
+Margin of 
+error1 (±)
+
+Percent
+
+Margin of 
+error1 (±) Percent
+
+Margin of 
+error1 (±) Percent
+
+Margin of 
+error1 (±)
+
+Characteristic
+
+2023
+
+    Total, 19 to 64 years old . . . . . 196,100
+Disability Status5
+With disability  . . . . . . . . . . . . . . . . . . . . .
+With no disability . . . . . . . . . . . . . . . . . . .
+
+16,260
+179,000
+
+Work Experience
+All workers  . . . . . . . . . . . . . . . . . . . . . . . .
+ Worked full-time, year-round . . . . . .
+ Worked less than full-time,  
+  year-round . . . . . . . . . . . . . . . . . . . . .
+Did not work at least 1 week . . . . . . . . .
+
+Marital Status
+Married6 . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Widowed . . . . . . . . . . . . . . . . . . . . . . . . . .
+Divorced  . . . . . . . . . . . . . . . . . . . . . . . . . .
+Separated . . . . . . . . . . . . . . . . . . . . . . . . .
+Never married . . . . . . . . . . . . . . . . . . . . . .
+
+154,900
+114,200
+
+40,710
+41,240
+
+100,100
+3,150
+17,850
+3,912
+71,120
+
+    Total, 26 to 64 years old . . . . . 166,000
+
+89.1
+
+91.8
+88.8
+
+90.0
+91.1
+
+87.1
+85.3
+
+92.1
+89.5
+88.4
+81.9
+85.3
+
+89.6
+
+Educational Attainment
+No high school diploma . . . . . . . . . . . . .
+High school graduate  
+ (includes equivalency) . . . . . . . . . . . .
+Some college, no degree . . . . . . . . . . . .
+Associate degree . . . . . . . . . . . . . . . . . . .
+Bachelor’s degree . . . . . . . . . . . . . . . . . .
+Graduate or professional degree . . . . .
+
+13,330
+
+70.5
+
+44,580
+22,300
+18,480
+42,060
+25,240
+
+84.9
+90.7
+92.1
+94.7
+96.9
+
+Footnotes provided at end of table.
+
+0.3
+
+73.1
+
+0.4
+
+18.9
+
+0.4
+
+10.9
+
+0.7
+0.3
+
+0.3
+0.3
+
+0.5
+0.6
+
+0.3
+1.8
+0.8
+2.0
+0.5
+
+0.3
+
+1.4
+
+0.6
+0.6
+0.7
+0.4
+0.4
+
+47.9
+75.2
+
+80.1
+84.7
+
+67.0
+46.7
+
+81.8
+60.0
+65.6
+54.0
+64.3
+
+74.0
+
+36.5
+
+61.4
+72.5
+77.5
+87.6
+92.2
+
+1.2
+0.4
+
+0.4
+0.4
+
+0.8
+0.9
+
+0.5
+2.5
+1.3
+2.7
+0.6
+
+0.4
+
+1.3
+
+0.8
+1.0
+1.0
+0.6
+0.5
+
+51.2
+16.1
+
+12.6
+8.6
+
+23.8
+42.8
+
+13.6
+33.1
+25.9
+31.0
+23.5
+
+18.6
+
+36.8
+
+26.9
+22.3
+18.3
+9.4
+6.8
+
+1.2
+0.3
+
+0.3
+0.3
+
+0.7
+0.9
+
+0.4
+2.6
+1.2
+2.6
+0.6
+
+0.4
+
+1.5
+
+0.7
+0.9
+0.8
+0.5
+0.5
+
+8.2
+11.2
+
+10.0
+8.9
+
+12.9
+14.7
+
+7.9
+10.5
+11.6
+18.1
+14.7
+
+10.4
+
+29.5
+
+15.1
+9.3
+7.9
+5.3
+3.1
+
+0.3
+
+0.7
+0.3
+
+0.3
+0.3
+
+0.5
+0.6
+
+0.3
+1.8
+0.8
+2.0
+0.5
+
+0.3
+
+1.4
+
+0.6
+0.6
+0.7
+0.4
+0.4
+
+20 Health Insurance Coverage in the United States: 2023 
+
+U.S. Census Bureau
+
+Table A-2. 
+Health Insurance Coverage Status and Type by Age and Selected Characteristics:  
+2022 and 2023—Con.
+(Numbers in thousands. Population as of March of the following year. Information on confidentiality protection, sampling error, 
+nonsampling error, and definitions is available at <https://www2.census.gov/programs-surveys/cps/techdocs/cpsmar24.pdf>)
+
+Total
+
+Any health insurance
+
+Private health 
+insurance2
+
+Public health 
+insurance3
+
+Uninsured4
+
+Number
+
+Percent
+
+Margin of 
+error1 (±)
+
+Percent
+
+Margin of 
+error1 (±) Percent
+
+Margin of 
+error1 (±) Percent
+
+Margin of 
+error1 (±)
+
+Characteristic
+
+2022
+
+    Total, 19 to 64 years old . . . . . 195,900
+Disability Status5
+With disability  . . . . . . . . . . . . . . . . . . . . .
+With no disability . . . . . . . . . . . . . . . . . . .
+
+15,640
+179,400
+
+Work Experience
+All workers  . . . . . . . . . . . . . . . . . . . . . . . .
+ Worked full-time, year-round . . . . . .
+ Worked less than full-time,  
+  year-round . . . . . . . . . . . . . . . . . . . . .
+Did not work at least 1 week . . . . . . . . .
+
+Marital Status
+Married6 . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Widowed . . . . . . . . . . . . . . . . . . . . . . . . . .
+Divorced  . . . . . . . . . . . . . . . . . . . . . . . . . .
+Separated . . . . . . . . . . . . . . . . . . . . . . . . .
+Never married . . . . . . . . . . . . . . . . . . . . . .
+
+153,200
+114,300
+
+38,930
+42,700
+
+99,680
+3,239
+17,960
+3,802
+71,200
+
+    Total, 26 to 64 years old . . . . . 165,500
+
+89.2
+
+92.5
+88.8
+
+90.2
+91.6
+
+86.2
+85.5
+
+92.2
+86.3
+88.7
+80.8
+85.5
+
+89.7
+
+Educational Attainment
+No high school diploma . . . . . . . . . . . . .
+High school graduate  
+ (includes equivalency) . . . . . . . . . . . .
+Some college, no degree . . . . . . . . . . . .
+Associate degree . . . . . . . . . . . . . . . . . . .
+Bachelor’s degree . . . . . . . . . . . . . . . . . .
+Graduate or professional degree . . . . .
+
+13,330
+
+68.8
+
+44,730
+23,280
+17,410
+41,650
+25,050
+
+85.9
+90.4
+92.6
+94.8
+96.8
+
+0.3
+
+72.9
+
+0.5
+
+19.1
+
+0.4
+
+10.8
+
+0.7
+0.3
+
+0.3
+0.3
+
+0.6
+0.6
+
+0.3
+2.0
+0.9
+1.9
+0.5
+
+0.3
+
+1.4
+
+0.5
+0.6
+0.6
+0.4
+0.4
+
+47.4
+75.0
+
+80.0
+84.8
+
+66.0
+47.5
+
+81.7
+54.2
+64.6
+52.1
+64.7
+
+73.7
+
+35.6
+
+62.1
+71.5
+77.4
+87.2
+91.9
+
+1.3
+0.5
+
+0.4
+0.4
+
+0.9
+0.9
+
+0.5
+2.5
+1.2
+2.4
+0.7
+
+0.5
+
+1.4
+
+0.8
+1.0
+1.1
+0.6
+0.6
+
+52.3
+16.3
+
+12.6
+8.9
+
+23.5
+42.6
+
+13.9
+35.1
+26.8
+31.6
+23.0
+
+19.0
+
+36.5
+
+27.4
+22.7
+18.9
+9.8
+6.9
+
+1.4
+0.4
+
+0.3
+0.3
+
+0.8
+0.9
+
+0.4
+2.5
+1.1
+2.1
+0.6
+
+0.4
+
+1.4
+
+0.7
+0.9
+1.1
+0.4
+0.6
+
+7.5
+11.2
+
+9.8
+8.4
+
+13.8
+14.5
+
+7.8
+13.7
+11.3
+19.2
+14.5
+
+10.3
+
+31.2
+
+14.1
+9.6
+7.4
+5.2
+3.2
+
+0.3
+
+0.7
+0.3
+
+0.3
+0.3
+
+0.6
+0.6
+
+0.3
+2.0
+0.9
+1.9
+0.5
+
+0.3
+
+1.4
+
+0.5
+0.6
+0.6
+0.4
+0.4
+
+1 A margin of error (MOE) is a measure of an estimate’s variability. The larger the MOE in relation to the size of the estimate, the less reliable 
+the estimate. This number, when added to and subtracted from the estimate, forms the 90 percent confidence interval. MOEs shown in this table 
+are based on standard errors calculated using replicate weights. 
+
+2 Private health insurance includes coverage provided through an employer or union, coverage purchased directly, or TRICARE.
+3 Public health insurance coverage includes Medicaid, Medicare, CHAMPVA (Civilian Health and Medical Program of the Department of 
+
+Veterans Affairs), and care provided by the Department of Veterans Affairs (VA) and the military.
+
+4 Individuals are considered to be uninsured if they did not have health insurance coverage for the entire calendar year.
+5 The sum of those with and without a disability does not equal the total because disability status is not defined for individuals in the U.S. armed 
+
+forces. 
+
+6 The combined category “married” includes three individual categories: “married, civilian spouse present,” “married, U.S. armed forces spouse 
+
+present,” and “married, spouse absent.” 
+
+Note: The estimates by type of coverage are not mutually exclusive; people can be covered by more than one type of health insurance during 
+
+the year. 
+
+Source: U.S. Census Bureau, Current Population Survey, 2023 and 2024 Annual Social and Economic Supplements (CPS ASEC).
+
+U.S. Census Bureau 
+
+Health Insurance Coverage in the United States: 2023  21
+
+P
+6
+0
+-
+2
+8
+4
+
+H
+e
+a
+l
+t
+h
+
+I
+
+n
+s
+u
+r
+a
+n
+c
+e
+C
+o
+v
+e
+r
+a
+g
+e
+
+i
+
+n
+t
+h
+e
+U
+n
+i
+t
+e
+d
+S
+t
+a
+t
+e
+s
+:
+
+2
+0
+2
+3
+
+C
+u
+r
+r
+e
+n
+t
+P
+o
+p
+u
+l
+a
+t
+i
+o
+n
+R
+e
+p
+o
+r
+t
+s
+
+U
+S
+
+.
+
+.
+
+C
+e
+n
+s
+u
+s
+B
+u
+r
+e
+a
+u
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

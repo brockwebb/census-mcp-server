@@ -1,0 +1,241 @@
+United States Census Bureau | An official website of the United States Government
+
+Understanding and Using
+American Community
+Survey Data: What Users of
+Data for American Indians
+and Alaska Natives Need to
+Know
+
+March 2021
+
+Suppose a tribal planner needs
+current information about the local
+population to plan for future
+economic development, a
+
+Commission on Indian Affairs in a
+southeastern state wants to improve
+access to health services for tribal
+members, or a policy analyst at a
+federal agency wants to measure the
+effectiveness of programs that fund
+critical health care services to
+American Indian and Alaska Native
+populations nationwide. Where could
+they turn for this information?
+
+The U.S. Census Bureau’s American
+Community Survey (ACS) provides a
+detailed portrait of the social,
+economic, housing, and
+demographic characteristics of
+America’s communities, including
+information about the characteristics
+of American Indians and Alaska
+
+Natives and the areas where they
+live. ACS data are important to tribal
+government officials, federal funding
+agencies, state government
+agencies, and nongovernmental
+organizations that provide services
+to improve the well-being of tribal
+populations. When American Indian
+and Alaska Native respondents
+complete the ACS, they are helping
+
+[/con
+tent/
+dam/
+Cens
+us/lib
+rary/
+publi
+catio
+ns/20
+21/ac
+s/acs
+_aian
+_han
+dboo
+k_20
+21.pd
+f]
+
+Understa
+nding and
+Using
+American
+Communi
+ty Survey
+Data:
+What
+Users of
+Data for
+American
+Indians
+and
+Alaska
+Natives
+Need to
+Know
+[15.7 MB]
+
+American
+Community
+Survey
+
+to ensure that the best statistics are
+
+available to their communities to
+
+inform future decisions.
+
+This handbook provides an overview of the ACS to help tribal data users and others understand the basics of the
+
+survey, how the data can be used, how to judge the accuracy of ACS estimates, and how to access ACS data on the
+
+Census Bureau’s Web site. It also includes some recent case studies that show how ACS data are being used to help
+
+address important policy and program issues facing American Indian and Alaska Native populations. Links to
+
+additional ACS resources, including technical documentation for more advanced users, are included throughout this
+
+handbook.
+
+Download by Section
+
+1. Understanding the ACS: The Basics [<1.0 MB]
+
+[/content/dam/Census/library/publications/2021/acs/acs_aian_handbook_2021_ch01.pdf]
+
+American Community Survey
+
+2. The Geography of American Indian and Alaska Native Areas
+[<1.0 MB]
+
+[/content/dam/Census/library/publications/2021/acs/acs_aian_handbook_20
+21_ch02.pdf]
+
+American Community Survey
+
+3. Understanding and Using ACS Single-Year and Multiyear
+Estimates [<1.0 MB]
+
+[/content/dam/Census/library/publications/2021/acs/acs_aian_handbook_
+2021_ch03.pdf]
+
+American Community Survey
+
+4. Making Comparisons with ACS Data [<1.0 MB]
+
+[/content/dam/Census/library/publications/2021/acs/acs_aian_handbook_2021_ch04.pdf]
+
+American Community Survey
+
+5. Accessing ACS Data [<1.0 MB]
+
+[/content/dam/Census/library/publications/2021/acs/acs_aian_handbook_2021_ch05.pdf]
+
+American Community Survey
+
+6. Case Studies Using ACS Data [11.2 MB]
+
+[/content/dam/Census/library/publications/2021/acs/acs_aian_handbook_2021_ch06.pdf]
+
+American Community Survey
+
+7. Understanding Error and Determining Statistical
+Significance [<1.0 MB]
+
+American Community Survey
+
+[/content/dam/Census/library/publications/2021/acs/acs_aian_handbook_20
+21_ch07.pdf]
+
+8. Calculating Measures of Error for Derived Estimates
+[<1.0 MB]
+
+[/content/dam/Census/library/publications/2021/acs/acs_aian_handbook_2021_c
+h08.pdf]
+
+American Community Survey
+
+9. Differences Between the ACS and the Decennial Census
+[<1.0 MB]
+
+[/content/dam/Census/library/publications/2021/acs/acs_aian_handbook_2021
+_ch09.pdf]
+
+American Community Survey
+
+10. Using Dollar-Denominated Data [<1.0 MB]
+
+[/content/dam/Census/library/publications/2021/acs/acs_aian_handbook_2021_ch10.pdf]
+
+American Community Survey
+
+11. Measures of Nonsampling Error [<1.0 MB]
+
+[/content/dam/Census/library/publications/2021/acs/acs_aian_handbook_2021_ch11.pdf]
+
+American Community Survey
+
+12. Glossary [<1.0 MB]
+
+[/content/dam/Census/library/publications/2021/acs/acs_aian_handbook_2021_ch12.pdf]
+
+American Community Survey
+
+Others in Series
+
+Publication
+
+What ACS Public Use Microdata
+Sample File Users Need to Know
+
+February 2021
+
+This guide helps data users learn how to access PUMS files,
+create PUMS tables, and measure accuracy and margins of
+error.
+
+[/programs-surveys/acs/guidance/handbooks/pums.html]
+
+Publication
+
+What Congress Needs to Know
+
+June 2020
+
+This handbook helps congressional staff use ACS data to
+respond to constituent inquiries, draft floor/press statements,
+conduct legislative research, and more.
+
+[/programs-surveys/acs/guidance/handbooks/congress.html]
+
+Publication
+
+What the Business Community
+Needs to Know
+
+October 2020
+
+This handbook helps business data users learn how to access
+and use ACS data and provide concrete examples of how ACS
+data can answer real-world questions.
+
+[/programs-surveys/acs/guidance/handbooks/business.html]
+
+VIEW ALL [/PROGRAMS-SURVEYS/ACS/LIBRARY/HANDBOOKS.HTML]
+
+Related Information
+
+American Community Survey Resources for AIAN [/programs-surveys/acs/information-for/aian.html]
+
+Race, Ethnicity, Ancestry and American Indian & Alaska Native Tables [/programs-surveys/acs/data/race-aian.html]
+
+Page Last Revised - May 1, 2025
+
+

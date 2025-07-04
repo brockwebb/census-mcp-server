@@ -1,0 +1,504 @@
+United States Census Bureau | An official website of the United States Government
+
+Subjects Included in the
+Survey
+
+Find ACS Data by Topic
+
+The links below connect to American Community Survey Detailed Tables for each subject on data.census.gov
+
+[https://data.census.gov/cedsci/] .
+
+The search results will display 1-year and 5-year estimates for the nation from the most recent release.
+
+Use the "refine your search results" geography box to change the state, city, or place. (Or use the Geography Selector tool on the
+left for more selections.) Hint: Which estimates appear (1-year or 5-year) will depend on the size of a chosen geography.
+
+Subject Definitions
+
+Explore our Subject Definitions document for more
+information about definitions of population and housing
+variables to help you understand the results of the
+American Community Survey.
+
+[https://www2.census.gov/programs-
+surveys/acs/tech_docs/subject_definitions/]
+
+Social
+
+Housing
+
+Ancestry
+
+Bedrooms
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&q=B04]
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&q=Bedrooms]
+
+Citizen
+Voting-Age
+Population
+
+Computer
+and Internet
+Use
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&q=B29]
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&q=B28]
+
+Citizenship
+Status
+
+House
+Heating Fuel
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&t=Citizenship]
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&q=House%20Heating%
+20Fuel]
+
+Disability
+Status
+
+Kitchen
+Facilities
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&q=B18]
+
+[https://data.census.gov/cedsci/
+all?q=Kitchen&d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables]
+
+Educational
+Attainment
+
+Occupancy/V
+acancy Status
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&t=Educational%20Attai
+nment]
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&t=Vacancy]
+
+Fertility
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&q=B13]
+
+Grandparents
+as Caregivers
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&q=B10]
+
+Language
+Spoken at
+Home
+
+Occupants
+per Room
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&t=Occupants%20Per%2
+0Room]
+
+Plumbing
+Facilities
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&t=Water,%20Sewage,%
+20and%20Plumbing%20Facilities]
+
+Rent
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&q=B16]
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&t=Renter%20Costs]
+
+Marital
+History
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&t=Marital%20Status%2
+0and%20Marital%20History]
+
+Marital Status
+
+Rooms
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&q=Rooms]
+
+Selected
+Monthly
+Owner Costs
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&t=Marital%20Status%2
+0and%20Marital%20History]
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&t=Mortgage%20Costs]
+
+Migration/Re
+sidence 1
+Year Ago
+
+Telephone
+Service
+Available
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&q=B07]
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&q=Telephone]
+
+Place of Birth
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&q=B06]
+
+Tenure
+(Owner/Rente
+r)
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+
+School
+Enrollment
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&q=B14]
+
+Undergraduat
+e Field of
+Degree
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&q=Field%20of%20Degr
+ee]
+
+Veteran
+Status; Period
+of Military
+Service
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&q=B21]
+
+Year of Entry
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&q=Entry]
+
+20Tables&t=Owner/Renter%20(Te
+nure)]
+
+Units in
+Structure
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&t=Units%20and%20Sto
+ries%20in%20Structure]
+
+Value of
+Home
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&t=Housing%20Value%2
+0and%20Purchase%20Price]
+
+Vehicles
+Available
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&t=Transportation]
+
+Year
+Householder
+Moved Into
+Unit
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&t=Year%20Householde
+r%20Moved%20Into%20Unit]
+
+Year
+Structure
+Built
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&t=Year%20Structure%2
+0Built]
+
+Economic
+
+Class of
+Worker
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&t=Class%20of%20Work
+er]
+
+Commuting
+(Journey to
+
+Work) and
+Place of Work
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&q=B08]
+
+Employment
+Status
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&t=Employment%20and
+%20Labor%20Force%20Status]
+
+Food
+Stamps/Supp
+lemental
+Nutrition
+Assistance
+Program
+(SNAP)
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&q=B22]
+
+Health
+Insurance
+Coverage
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&t=Health%20Insurance]
+
+Income and
+Earnings
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&t=Income%20and%20E
+arnings]
+
+Industry
+
+[https://data.census.gov/cedsci/
+all?t=Industry&d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables]
+
+Occupation
+
+[https://data.census.gov/cedsci/
+all?t=Occupation&d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables]
+
+Poverty
+Status
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&q=B17]
+
+Work Status
+Last Year
+
+[https://data.census.gov/cedsci/
+all?
+q=B23022%20B23004%20B2302
+3%20C23004%20C23022%20C23
+023]
+
+Demograph
+ic
+
+Age; Sex
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&q=B01]
+
+Group
+Quarters
+Population
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&q=B26]
+
+Hispanic or
+Latino Origin
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&q=B03]
+
+Race
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&q=B02]
+
+Relationship
+to
+Householder
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&t=Relationship]
+
+Total
+Population
+
+[https://data.census.gov/cedsci/
+all?d=ACS%201-
+Year%20Estimates%20Detailed%
+20Tables&t=Population%20Total]
+
+Related Information
+
+Share Your ACS Data Story [/programs-surveys/acs/share-your-acs-data-story.html]
+
+Contact Us [/programs-surveys/acs/contact.html]
+
+You May Be Interested In
+
+Contact
+
+Updates
+
+Contact Us
+
+Email Updates
+
+Share Your ACS Data
+
+Story
+
+Learn how to contact
+
+Sign up to receive email
+
+Tell us your story about
+
+the American
+Community Survey if you
+
+updates about the
+American Community
+
+how you use data from
+the American
+
+[/programs-
+surveys/acs/contact.html]
+
+[/programs-
+surveys/acs/news/email-
+updates.html]
+
+[/programs-surveys/acs/share-
+your-acs-data-story.html]
+
+Page Last Revised - August 19, 2024
+
+

@@ -1,0 +1,158 @@
+United States Census Bureau | An official website of the United States Government
+
+Geography and the
+American Community
+Survey: What Data Users
+Need to Know
+
+February 2020
+
+Geography plays an important role in
+all U.S. Census Bureau activities by
+
+providing the framework used to
+collect and publish data, including
+
+American Community Survey
+(ACS) estimates. Data users employ
+ACS data that are tabulated for a
+variety of geographic areas
+to produce detailed portraits and
+
+maps of social, economic, housing,
+and demographic characteristics of
+America’s communities.
+
+This guide provides an overview of
+geographic areas for which ACS data
+are available, special considerations
+
+in working with spatial data,
+and links to tools and other
+resources that data users can use to
+map ACS data.
+
+Download by Section
+
+[/conte
+nt/dam
+/Censu
+s/librar
+y/public
+ations/
+2020/a
+cs/acs_
+geogra
+phy_ha
+ndbook
+_2020.p
+df]
+
+Geogra
+phy and
+the
+Americ
+an
+Commu
+nity
+Survey
+What
+Data
+Users
+Need to
+Know
+[6.1
+MB]
+
+America
+n
+Commun
+ity
+Survey
+
+1. Geographic Areas Covered in the ACS [2.1
+MB]
+
+[/content/dam/Census/library/publications/2020/acs/acs_geography_handbook_2020_ch01.
+pdf]
+
+American Community Survey
+
+2. Geographic Boundaries, Vintages, and Frequency of
+Updates [<1.0 MB]
+
+[/content/dam/Census/library/publications/2020/acs/acs_geography_handbook
+_2020_ch02.pdf]
+
+American Community Survey
+
+3. Accessing and Mapping ACS Data [1.4
+MB]
+
+American Community Survey
+
+[/content/dam/Census/library/publications/2020/acs/acs_geography_handbook_2020_ch03.pd
+f]
+
+4. Additional Resources [<1.0 MB]
+
+[/content/dam/Census/library/publications/2020/acs/acs_geography_handbook_2020_ch04.pdf]
+
+American Community Survey
+
+Others in Series
+
+Publication
+
+What Researchers Need to Know
+
+April 2020
+
+This handbook helps researchers learn more about estimates
+for geographic areas, how to access data products, sampling
+error, and more.
+
+[/programs-surveys/acs/library/handbooks/researchers.html]
+
+Publication
+
+What State and Local Government
+Users Need to Know
+
+August 2020
+
+This handbook helps data users from state and local
+governments learn about ACS data and provides examples of
+how ACS data can answer real-world questions.
+
+[/programs-surveys/acs/guidance/handbooks/state-local.html]
+
+Publication
+
+What ACS Public Use Microdata
+Sample File Users Need to Know
+
+February 2021
+
+This guide helps data users learn how to access PUMS files,
+create PUMS tables, and measure accuracy and margins of
+error.
+
+[/programs-surveys/acs/guidance/handbooks/pums.html]
+
+VIEW ALL [/PROGRAMS-SURVEYS/ACS/LIBRARY/HANDBOOKS.HTML]
+
+Related Information
+
+Geography & ACS [/programs-surveys/acs/geography-acs.html]
+
+Census Geographies [/geographies.html]
+
+WEBINAR
+
+Geography Areas and Concepts for the American Community Survey [/data/academy/webinars/2022/geography-areas-and-
+concepts-for-the-acs.html]
+
+Page Last Revised - May 1, 2025
+
+

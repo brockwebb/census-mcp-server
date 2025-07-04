@@ -1,0 +1,114 @@
+2022 E-Stats Summary of Changes 
+
+Update 
+
+Beginning with the 2020 E-Stats data, the U.S Census Bureau released a  
+data visualization rather than a full report. The methodologies and background information of 
+the surveys contributing to E-Stats can be found on the E-Stats Methodology page. 
+
+Release of E-Commerce Data 
+
+E-commerce estimates were released prior to publishing the 2022 E-Stats data visualization for  
+the following surveys: 
+
+• Service Annual Survey: September 25, 2024 
+• Annual Wholesale Trade Survey: January 29, 2024 
+• Annual Retail Trade Survey: September 25, 2024 
+• Economic Census-Manufacturing: January 23, 2025 
+• Annual Survey of Manufactures: March 23, 2023 
+
+Notes on Comparability 
+
+2022 Service Annual Survey (SAS) 
+
+The 2021 SAS estimates were revised to reflect historical corrections to current sample data.  
+Corrections are made to replace previously reported data with more accurate data received at a  
+later date or to replace imputed data with reported data. Additional information is available on the SAS 
+Methodology page. 
+
+Restatement to the 2017 NAICS 
+
+The 2022 Service Annual Survey (SAS) estimates were re-released to incorporate the 2017 North American 
+Industry Classification System (NAICS). Publication tables were reformatted to incorporate the 2017 NAICS 
+definitions. This change does not affect the total service sector levels in E-stats. 
+
+Additional information is available on the SAS 2017 NAICS Restatement page. 
+
+2022 Annual Wholesale Trade Survey (AWTS) 
+
+The 2021 AWTS estimates were revised to reflect historical corrections to current sample data.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Corrections are made to replace previously reported data with more accurate data received at a  
+later date or to replace imputed data with reported data.  
+
+The 2022 AWTS data are presented on a 2017 NAICS basis. 
+
+Additional information is available on the AWTS Methodology page. 
+
+2022 Annual Retail Trade Survey (ARTS) 
+
+The 2021 ARTS estimates were revised to reflect historical corrections to current sample data.  
+Corrections are made to replace previously reported data with more accurate data received at a  
+later date or to replace imputed data with reported data obtained. 
+
+Additional information is available on the ARTS Methodology page. 
+
+Restatement to the 2017 NAICS 
+
+The 2022 Annual Retail Trade Survey (ARTS) estimates were re-released to incorporate the 2017 North 
+American Industry Classification System (NAICS). Publication tables were reformatted to incorporate the 
+2017 NAICS definitions. This change does not affect the total retail trade levels in E-stats. 
+
+Additional information is available on the ARTS Summary of Changes (restated) page. 
+
+Removal of Nonemployers  
+
+Previously in the Annual Retail Trade Survey, firms without paid employees, or nonemployers, were 
+included in the estimates through imputation or administrative data provided by other federal agencies. In 
+addition to the 2017 North American Industry Classification System (NAICS) changes, the Annual Retail 
+Trade Survey restated data to include employer-only time series to be aligned with the Annual Integrated 
+Economic Survey (AIES).  
+
+Additional information is available on the ARTS Summary of Changes (restated) page. 
+
+2022 Economic Census (EC)-Manufacturing and 2021 Annual Survey of 
+Manufactures (ASM)  
+
+The 2022 manufacturing estimates are based on the 2022 EC. Every five years, for years ending in 2 
+and 7, the U.S. Census Bureau collects detailed statistics about businesses that are essential to 
+understanding the American economy. Data produced from the 2022 Economic Census are based 
+on the 2022 NAICS.  
+
+The 2021 manufacturing establishments were based on the 2021 ASM. Data produced from the 
+2021 ASM are based on the 2017 NAICS. A new sample was selected at 5-year intervals beginning 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the second survey year subsequent to the EC. The last sample was selected in 2019, the second 
+year following the 2017 Economic Census-Manufacturing. 
+
+Additional information is available on the EC Methodology page.  
+Additional information is available on the ASM Methodology page. 
+
+ 
+ 
+ 
+

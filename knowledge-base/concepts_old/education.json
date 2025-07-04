@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "category": "education",
+    "status": "auto_approved",
+    "concept_count": 8,
+    "confidence_threshold": "\u22650.9"
+  },
+  "concepts": [
+    {
+      "id": "cendata:EducationalAttainment",
+      "label": "Educational Attainment",
+      "bucket": "education",
+      "universe": "Population 25 years and over",
+      "stat_method": "count",
+      "census_tables": [
+        "B15003"
+      ],
+      "definition": "Highest level of education completed by individuals",
+      "source_page": 67,
+      "status": "auto",
+      "confidence": 0.95
+    },
+    {
+      "id": "cendata:HighSchoolGraduationRate",
+      "label": "High School Graduation Rate",
+      "bucket": "education",
+      "universe": "Population 25 years and over",
+      "stat_method": "rate",
+      "census_tables": [
+        "B15003"
+      ],
+      "definition": "Percentage of population with high school diploma or equivalent",
+      "source_page": 67,
+      "status": "auto",
+      "confidence": 0.9
+    },
+    {
+      "id": "cendata:BachelorsDegreeRate",
+      "label": "Bachelor's Degree Attainment Rate",
+      "bucket": "education",
+      "universe": "Population 25 years and over",
+      "stat_method": "rate",
+      "census_tables": [
+        "B15003"
+      ],
+      "definition": "Percentage of population with bachelor's degree or higher",
+      "source_page": 67,
+      "status": "auto",
+      "confidence": 0.95
+    },
+    {
+      "id": "cendata:CollegeEnrollment",
+      "label": "College Enrollment",
+      "bucket": "education",
+      "universe": "Population 18 to 24 years",
+      "stat_method": "count",
+      "census_tables": [
+        "B14004"
+      ],
+      "definition": "Students enrolled in college or graduate school",
+      "source_page": 65,
+      "status": "auto",
+      "confidence": 0.9
+    },
+    {
+      "id": "cendata:LessThanHighSchool",
+      "label": "Less Than High School Education",
+      "bucket": "education",
+      "universe": "Population 25 years and over",
+      "stat_method": "count",
+      "census_tables": [
+        "B15003"
+      ],
+      "definition": "Population without high school diploma or equivalent",
+      "source_page": 67,
+      "status": "auto",
+      "confidence": 0.9
+    },
+    {
+      "id": "cendata:AssociateDegree",
+      "label": "Associate Degree Attainment",
+      "bucket": "education",
+      "universe": "Population 25 years and over",
+      "stat_method": "count",
+      "census_tables": [
+        "B15003"
+      ],
+      "definition": "Population with associate degree",
+      "source_page": 67,
+      "status": "auto",
+      "confidence": 0.9
+    },
+    {
+      "id": "cendata:MastersDegree",
+      "label": "Master's Degree Attainment",
+      "bucket": "education",
+      "universe": "Population 25 years and over",
+      "stat_method": "count",
+      "census_tables": [
+        "B15003"
+      ],
+      "definition": "Population with master's degree",
+      "source_page": 67,
+      "status": "auto",
+      "confidence": 0.9
+    },
+    {
+      "id": "cendata:EducationIncome",
+      "label": "Income by Educational Attainment",
+      "bucket": "education",
+      "universe": "Population 25 years and over with earnings",
+      "stat_method": "median",
+      "census_tables": [
+        "B20004"
+      ],
+      "definition": "Median earnings by educational attainment level",
+      "source_page": 73,
+      "status": "auto",
+      "confidence": 0.9
+    }
+  ]
+}

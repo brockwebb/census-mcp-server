@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "category": "health_social",
+    "status": "auto_approved",
+    "concept_count": 2,
+    "confidence_threshold": "\u22650.9"
+  },
+  "concepts": [
+    {
+      "id": "cendata:HealthInsuranceCoverage",
+      "label": "Health Insurance Coverage",
+      "bucket": "health_social",
+      "universe": "Civilian noninstitutionalized population",
+      "stat_method": "rate",
+      "census_tables": [
+        "B27001"
+      ],
+      "definition": "Percentage of population with health insurance coverage",
+      "source_page": 95,
+      "status": "auto",
+      "confidence": 0.9
+    },
+    {
+      "id": "cendata:UninsuredRate",
+      "label": "Uninsured Rate",
+      "bucket": "health_social",
+      "universe": "Civilian noninstitutionalized population",
+      "stat_method": "rate",
+      "census_tables": [
+        "B27001"
+      ],
+      "definition": "Percentage of population without health insurance",
+      "source_page": 95,
+      "status": "auto",
+      "confidence": 0.9
+    }
+  ]
+}

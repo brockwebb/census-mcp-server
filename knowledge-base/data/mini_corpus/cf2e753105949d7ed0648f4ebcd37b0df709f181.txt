@@ -1,0 +1,205 @@
+United States Census Bureau | An official website of the United States Government
+
+Sample Size Definitions
+
+1. How large is the sample?
+
+The full implementation of the ACS, which began in 2005, sampled approximately 2.9 million housing
+unit addresses annually stateside. The PRCS sampled approximately 36,000 housing unit addresses
+
+each year in Puerto Rico. The 2011 ACS sampled approximately 3.3 million housing unit addresses - this
+
+corresponds to an increase in the targeted annual sample size of 3.54 million addresses that began with
+
+the June 2011 ACS sample. This increase in the targeted annual sample size has continued since then,
+resulting in a current annual ACS sample of approximately 3.54 million housing unit addresses.
+
+The full implementation of the ACS and PRCS Group Quarters (GQ) data collection began in 2006.
+
+Sample sizes approximated 200,000 persons through 2016 and around 170,000 persons starting in
+
+2017.  The counts through 2016 included sample persons in GQs that were out-of-scope – these sample
+persons were removed from subsequent sample counts.
+
+The ACS sampled between 740,000 and 900,000 housing unit addresses annually between 2000 and
+
+2004.
+
+2. What is sampling error?
+
+The ACS estimates are based on data from a sample of housing units and people in the population, not
+
+the full population. For this reason, ACS estimates have a degree of uncertainty associated with them,
+
+called sampling error. In general, the larger the sample, the smaller the level of sampling error.
+
+3. Why is it important to measure sampling error?
+
+The estimates produced by the ACS are not exact because they are based on a sample. The sampling
+
+error measures the degree of uncertainty associated with the estimates. If the degree of uncertainty is
+
+too large, then users should be cautious in how the estimates are used.
+
+4. How does the ACS measure sampling error?
+
+The ACS calculates standard errors for each estimate produced and publishes the 90 percent confidence
+
+level margins of error (the Census Bureau standard). You can be 90 percent confident that the interval
+
+within the margin of error from the estimate includes the true value. See Accuracy of the Data
+
+[/programs-surveys/acs/technical-documentation/code-lists.html] for more details on how margins of
+error and confidence intervals are calculated and interpreted.
+
+5. What other numbers provide important information on the reliability of ACS estimates?
+
+Note: Sample and interview counts were rounded for 2018 to help reduce disclosure risk. In 2019, noise
+
+injection replaced rounding as our method to reduce disclosure risk for interview counts. As part of that
+review, we determined that the sample counts did not require protection. For more information, see
+
+this user note [https://www.census.gov/programs-surveys/acs/technical-documentation/user-
+
+notes/2020-05.html] .
+
+Housing Units Initial Addresses Selected - The number of addresses in each state and for the nation that
+were selected for the ACS sample for a particular year. Each year's sample is systematically divided into
+
+12 monthly samples for ACS interviewing. This initial number includes addresses later determined to be
+
+commercial or nonexistent, as well as housing units that are not interviewed due to subsampling for
+
+personal visit follow-up, refusals, or other reasons. It excludes addresses that were deleted from the
+
+sample, e.g., addresses that were part of a sample reduction.
+
+Housing Units Final Interviews - The final number of interviews across all modes of data collection for
+
+the ACS in a given year for the nation and by state. This number includes occupied and vacant housing
+
+units that were interviewed by the internet, mail, or personal visit methods between January 1 -
+
+December 31. It excludes addresses determined to be nonexistent or commercial, addresses not
+selected in the subsample for personal visit follow-up, and addresses that are not interviewed due to
+
+refusals or other reasons.
+
+Internet interviewing began in January 2013, giving the ACS four interview modes for data collection. 
+
+Computer-assisted telephone interviewing then ended in September 2017, resulting in the ACS having
+three modes of data collection again. 
+
+Group Quarters People Initial Sample Selected - The number of people living in in-scope GQs that were
+
+selected for ACS interviewing in a given year for the nation and by state. Each year's sample is
+
+systematically divided into 12 monthly samples for ACS interviewing. This initial number includes people
+not interviewed due to the group quarter refusing entry, the person refusing to respond, the person being
+
+unavailable at the time of the interview, or other reasons. It excludes potential sample cases where the
+
+GQ was determined to be out-of-scope or nonexistent as well as any sample reductions where there was
+
+no opportunity for a person to be contacted.
+
+Refinements were made to the methodology for computing initial sample beginning with the 2017
+
+sample.  One of these refinements was to omit people in out-of-scope GQs from the initial sample size. 
+
+The effect of these refinements is a smaller sample size.
+
+Group Quarters People Actual Final Interviews - The final number of actual person interviews for the
+ACS for those living in group quarters in a given year for the nation and by state.
+
+Group Quarters People Synthetic Final Interviews - The final number of synthetic person interviews for
+
+the ACS in a given year, for the nation and by state. For more information, see the User Note on synthetic
+
+interviews [/programs-surveys/acs/technical-documentation/user-notes/2011-01.html#par_textimage] .
+
+6. Are these numbers used to calculate the survey response rate?
+
+These numbers by themselves are not used to measure the response to the request to participate in the
+
+ACS. See Survey Response Rates - Definitions [/programs-surveys/acs/methodology/sample-size-and-
+
+data-quality/response-rates-definitions.html] for more information.
+
+7. How does the ACS calculate these five measures of sample size?
+
+Housing Units Initial Addresses Selected (state x, year y) =
+
+The number of housing unit addresses selected for sample from the
+
+Master Address File, for state x in year y
+
+Housing Units Final Interviews (state x, year y) =
+
+The number of all housing unit interviews successfully conducted by
+
+Group Quarters People Initial Sample Selected (state x, year y) =
+
+Group Quarters People Actual Final Interviews (state x, year y) =
+
+Group Quarters People Synthetic Final Interviews (state x, year y) =
+
+Related Information
+
+internet, mail, or personal visit between January 1 and December 31 of
+year y, in state x, adjusted for disclosure avoidance
+
+The number of expected sample persons across sample GQs in state x,
+year y
+
+The number of all actual person interviews between January 1 and
+December 31 of year y, for state x, adjusted for disclosure avoidance
+
+The number of all synthetic person interviews between January 1 and
+December 31 of year y, in state x, adjusted for disclosure avoidance
+
+Share Your ACS Data Story [/programs-surveys/acs/share-your-acs-data-story.html]
+
+Contact Us [/programs-surveys/acs/contact.html]
+
+You May Be Interested In
+
+Contact
+
+Updates
+
+Contact Us
+
+Email Updates
+
+Share Your ACS Data
+Story
+
+Learn how to contact
+the American
+
+Sign up to receive email
+updates about the
+
+Tell us your story about
+how you use data from
+
+Community Survey if you
+
+American Community
+
+the American
+
+[/programs-
+surveys/acs/contact.html]
+
+[/programs-
+surveys/acs/news/email-
+updates.html]
+
+[/programs-surveys/acs/share-
+your-acs-data-story.html]
+
+Page Last Revised - August 22, 2023
+
+

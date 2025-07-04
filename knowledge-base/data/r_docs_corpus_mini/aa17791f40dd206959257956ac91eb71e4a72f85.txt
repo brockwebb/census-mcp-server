@@ -1,0 +1,291 @@
+United States Census Bureau | An official website of the United States Government
+
+What Updates to OMB’s
+Race/Ethnicity Standards
+Mean for the Census
+Bureau
+
+April 08, 2024
+Written by: Rachel Marks, Chief, Racial Statistics Branch, Population Division; Nicholas Jones,
+
+Director/Senior Advisor for Race/Ethnicity Research & Outreach, Population Division; and Karen
+Battle, Division Chief, Population Division
+
+Estimated reading time: 8 minutes
+
+On March 28, 2024, the U.S. Office of Management and Budget (OMB) published the results
+
+[https://bidenwhitehouse.archives.gov/omb/briefing-room/2024/03/28/omb-publishes-revisions-to-statistical-policy-
+directive-no-15-standards-for-maintaining-collecting-and-presenting-federal-data-on-race-and-ethnicity/] of its review
+of Statistical Policy Directive No. 15 (SPD 15) and issued updated standards [https://www.federalregister.gov/public-
+inspection/2024-06469/statistical-policy-directive-no-15-standards-for-maintaining-collecting-and-presenting-federal-
+data] for maintaining, collecting and presenting race/ethnicity data across federal agencies.
+
+Among the biggest updates: directives to use a combined race/ethnicity question; the addition of a new “Middle
+Eastern and North African” minimum reporting category; and a requirement to collect detailed race/ethnicity
+responses.
+
+Our findings over the past decade resonate with many of the SPD 15 updates. Based on our extensive research and
+engagement with myriad communities, organizations, scholars, researchers and data users across the country, we
+know a combined race/ethnicity question with a dedicated Middle Eastern or North African response category and an
+emphasis on the collection of detailed identities for all communities will produce more accurate race/ethnicity data
+
+for our nation’s population.
+
+The updates to SPD 15 were informed by robust empirical research; extensive engagement with experts, scholars,
+organization leaders and communities across the country; and the successful and meaningful collaboration among
+federal agency leaders and experts on the Interagency Technical Working Group on Race and Ethnicity Standards
+[https://spd15revision.gov/content/spd15revision/en/history/2024-standards/about.html] .
+
+We are confident that the updated standards will improve data on race/ethnicity across U.S. Census Bureau programs,
+and that these new data will better represent the U.S. population’s rich racial/ethnic diversity and detailed identities. 
+
+Using a Combined Race/Ethnicity Question
+
+The updated SPD 15 requires the use of a combined race/ethnicity question for self-response and proxy reporting.
+Within this approach, respondents may report one category or multiple categories to indicate their racial/ethnic
+identity. In the updated standards, a single response, such as Hispanic or Latino, is considered a complete response.
+
+For the past several decades, the Some Other Race (SOR) population has increased, largely driven by the increase in
+
+the Hispanic population which could not easily report its Hispanic identity in the separate race question. From 2010 to
+2020 [https://www.census.gov/library/stories/2021/08/improved-race-ethnicity-measures-reveal-united-states-
+population-much-more-multiracial.html] , the Some Other Race alone or in combination population (49.9 million)
+increased by 129%, surpassing the Black or African American population (46.9 million) as the nation’s second-largest
+race alone or in combination group.
+
+This is consistent with our previous research [https://www2.census.gov/programs-surveys/decennial/2020/program-
+
+management/final-analysis-reports/2015nct-race-ethnicity-analysis.pdf] which found that a combined race/ethnicity
+
+question resulted in significantly lower percentages of respondents reporting as SOR (as well as significantly lower
+
+percentages of missing responses) than the separate race and ethnicity questions – and higher reporting in OMB
+
+race/ethnicity categories. Notably, a combined race/ethnicity question allows Hispanic respondents to identify as
+
+Hispanic alone at higher rates than in the separate questions format.
+
+New “Middle Eastern or North African” Category
+
+The updated SPD 15 adds a new, dedicated “Middle Eastern or North African” (MENA) category. In the previous 1997
+
+SPD 15, MENA respondents were defined and tabulated within the White racial category.
+
+Extensive engagement [https://www.census.gov/library/working-papers/2015/demo/2015-MENA-Experts.html] with
+
+the Middle Eastern or North African community has shown strong support for a MENA category and the need for
+
+demographic and socioeconomic statistics about its population to inform policy decisions, health research, civil rights
+
+monitoring and enforcement, and many other needs.
+
+Our research has found that including a MENA category in a combined race/ethnicity questions helps MENA
+
+respondents report their MENA identities more accurately. When no such category is available, MENA respondents are
+less likely to report as only MENA and instead report their MENA identity within the White category.
+
+Required Collection of Detailed Race/Ethnicity Data
+
+The updated SPD 15 now requires the collection of detailed race/ethnicity data beyond the minimum categories for
+
+most situations.
+
+For the American Community Survey (ACS) and the past several decennial censuses, the Census Bureau has collected
+
+and tabulated detailed race/ethnicity data [https://www.census.gov/newsroom/press-releases/2023/2020-census-
+detailed-dhc-file-a.html] , providing important statistics about many of our nation’s diverse populations
+
+[https://www.census.gov/library/stories/2023/09/2020-census-dhc-a-race-overview.html] . Our research has shown
+that using a combined question with multiple detailed checkboxes increases the reporting within the OMB
+
+race/ethnicity categories. The use of detailed checkboxes also decreases item nonresponse; improves accuracy and
+reliability; and achieves similar or higher levels of detailed reporting as question designs without detailed checkboxes
+
+for all major groups, with the exception of the American Indian and Alaska Native (AIAN) population. For AIAN
+respondents, using one dedicated write-in area coupled with example groups, rather than detailed checkboxes,
+
+increases detailed reporting. The updates to the OMB standards reflect these approaches.
+
+In the 2020 Census and beginning in the 2020 ACS, we used a mix of detailed checkboxes and write-in areas to collect
+
+detailed race and ethnicity responses. But these were not used the same way across the minimum categories. The
+updated SPD 15 will allow us to improve our questionnaire design to facilitate the reporting of detailed race/ethnicity
+
+responses and increase the availability of disaggregated race/ethnicity data for all communities.
+
+Question Stem and Instructions
+
+The updated guidance in SPD 15 to use the question stem “What is your race and/or ethnicity?” aligns with our
+
+research that found it is optimal to use the “race/ethnicity” terminology, rather than alternatives such as “race/origin”
+or “categories,” for a combined question.
+
+The updated SPD 15 also suggests instructions to use to make clear that respondents may select multiple
+
+race/ethnicity groups: “Select all that apply and enter additional details in the spaces below.”  This approach aligns
+
+with our research that found the instructions “Mark all that apply” (for paper data collections) and “Select all that
+apply” (for Internet data collections) performed as well as or, in some instances, better than other variations.
+
+Terminology and Definitions
+
+The updated standards also aim to provide balance across the race/ethnicity definitions and to remove any outdated
+
+and offensive terminology (Table 1).
+
+The following updates were made to the standards:
+
+The phrase “who maintains tribal affiliation or community attachment” was removed from the American Indian or Alaska
+Native (AIAN) definition.
+
+The phrase ‘‘(including Central America)’’ was changed to listing ‘‘Central America’’ co-equally with North America and South
+America in the AIAN definition.
+
+The term “Far East” was replaced with “Central or East Asia” and the term ‘‘Indian Subcontinent’’ was replaced with ‘‘South
+Asia’’ in the Asian definition.
+
+The term “Negro” was removed from the Black or African American definition.
+
+‘‘Cuban’’ being listed twice in the Hispanic or Latino definition was corrected.
+
+The language ‘‘. . . regardless of race. The term ‘Spanish origin’ can be used in addition to ‘Hispanic or Latino’’’ was removed
+from the Hispanic or Latino definition.
+
+The term “Other” was removed from the “Native Hawaiian and Other Pacific Islander” category name.
+
+The updated standards now require that the terminology “Multiracial and/or Multiethnic” rather than “Two or More Races” be
+used when presenting data for those who identify with multiple race/ethnicity minimum reporting categories.
+
+The terms “majority” and “minority” are no longer permissible in tabulations except when statistically accurate and used for
+statistical descriptions, or when legal requirements call for use of the terms. In the past, the Census Bureau had sometimes
+used these terms, but more recently we began using a variety of racial/ethnic diversity measures
+[https://www.census.gov/newsroom/blogs/random-samplings/2021/08/measuring-racial-ethnic-diversity-2020-census.html]
+that have clear conceptual definitions and interpretations.
+
+Table 1. Revised Definitions for Minimum Race/Ethnicity Reporting Categories in 2024 SPD 15
+
+Minimum Race/Ethnicity
+Reporting Category
+
+Definition
+
+American Indian or Alaska Native
+
+Individuals with origins in any of the original peoples of North, Central, and South America, including, for example, Navajo Nation,
+
+Blackfeet Tribe of the Blackfeet Indian Reservation of Montana, Native Village of Barrow Inupiat Traditional Government, Nome Eskimo
+
+Community, Aztec, and Maya.
+
+Asian
+
+Individuals with origins in any of the original peoples of Central or East Asia, Southeast Asia, or South Asia, including, for example,
+
+Chinese, Asian Indian, Filipino, Vietnamese, Korean, and Japanese.
+
+Black or African American
+
+Individuals with origins in any of the Black racial groups of Africa, including, for example, African American, Jamaican, Haitian,
+
+Nigerian, Ethiopian, and Somali.
+
+Hispanic or Latino
+
+Includes individuals of Mexican, Puerto Rican, Salvadoran, Cuban, Dominican, Guatemalan, and other Central or South American or
+
+Spanish culture or origin.
+
+Middle Eastern or North African
+
+Individuals with origins in any of the original peoples of the Middle East or North Africa, including, for example, Lebanese, Iranian,
+
+Egyptian, Syrian, Iraqi, and Israeli.
+
+Native Hawaiian or Pacific Islander
+
+Individuals with origins in any of the original peoples of Hawaii, Guam, Samoa, or other Pacific Islands, including, for example, Native
+
+Hawaiian, Samoan, Chamorro, Tongan, Fijian, and Marshallese.
+
+White
+
+Individuals with origins in any of the original peoples of Europe, including, for example, English, German, Irish, Italian, Polish, and
+
+Scottish.
+
+Note: The Census Bureau also uses the category “Some Other Race” in the American Community Survey and decennial census, as
+mandated by the U.S. Congress [https://www.congress.gov/109/plaws/publ108/PLAW-109publ108.pdf] . Extensive research has
+
+shown that use of a combined race/ethnicity question reduces the reporting of “Some Other Race” as respondents are able to find a
+category or multiple categories to report their racial/ethnic identity.
+
+Note: Although the minimum race/ethnicity reporting categories are alphabetized in SPD 15 and the example question designs
+provided by the Office of Management and Budget, the Census Bureau has historically ordered the categories by population size on its
+
+questionnaires.
+
+Tabulation Guidance
+
+Since 2000, when respondents were first permitted to select more than one race response, the Census Bureau has
+
+published data for the race alone,race in combination, and race alone or in combination populations to frame the
+discussion of racial composition, and these concepts have been central to understanding our country’s changing
+demographics [https://www.census.gov/library/stories/2021/08/improved-race-ethnicity-measures-reveal-united-
+states-population-much-more-multiracial.html] . The updated standards encourage the reporting of as much
+
+information on race/ethnicity as possible in data tabulations, and we will continue to emphasize these important
+approaches for data following the guidance of the updated standards.
+
+Next Steps
+
+Our race/ethnicity research team is thoroughly reviewing the SPD 15 updates and collaborating with colleagues
+across the Census Bureau as we begin to develop an action plan to implement the updated standards within the
+OMB’s required five-year period. We expect that updates will be made as expeditiously as possible for all our data
+
+collections that include race and ethnicity, such as the American Community Survey and the 2030 Census. Throughout
+this process, we will engage with stakeholders and keep them posted as we develop our implementation plans. We
+look forward to partnering with you as we implement the updated race/ethnicity standards to provide the most
+accurate, reliable and relevant data possible about our changing and diversifying nation.
+
+This article was filed under:
+
+American Indian or Alaska Native (AIAN) [/newsroom/blogs/random-samplings.html?text-list-cfab77f3a8:filters=Census:Topic/ThePopulation/race/aian]
+
+Asian [/newsroom/blogs/random-samplings.html?text-list-cfab77f3a8:filters=Census:Topic/ThePopulation/race/asian]
+
+Black or African American [/newsroom/blogs/random-samplings.html?text-list-cfab77f3a8:filters=Census:Topic/ThePopulation/race/black]
+
+Census Operations [/newsroom/blogs/random-samplings.html?text-list-cfab77f3a8:filters=Census:Topic/census-operations]
+
+Data Collection & Processing [/newsroom/blogs/random-samplings.html?text-list-cfab77f3a8:filters=Census:Topic/census-operations/collection-processing]
+
+Data Quality (Missing Data, Edit, and Imputation) [/newsroom/blogs/random-samplings.html?text-list-cfab77f3a8:filters=Census:Topic/research/statistical-
+methods/data-quality]
+
+Data Services [/newsroom/blogs/random-samplings.html?text-list-cfab77f3a8:filters=Census:Topic/census-operations/data-equity]
+
+Native Hawaiian or Other Pacific Islander (NHOPI) [/newsroom/blogs/random-samplings.html?text-list-cfab77f3a8:filters=Census:Topic/ThePopulation/race/nhopi]
+
+Race [/newsroom/blogs/random-samplings.html?text-list-cfab77f3a8:filters=Census:Topic/ThePopulation/race]
+
+Previous
+
+Integrating Our Business Statistics for an Ever-Changing U.S. Economy
+[https://www.census.gov/newsroom/blogs/random-
+samplings/2024/integrating-business-statistics-for-economy.html]
+
+Next
+Testing Our Innovations [https://www.census.gov/newsroom/blogs/random-
+samplings/2024/04/2026-testing-our-innovations.html]
+
+Related Information
+
+DIRECTOR'S BLOG
+
+Improving Race/Ethnicity Data With Updated Federal Standards [/newsroom/blogs/director/2024/04/improving-race-ethnicity-
+data.html]
+
+Page Last Revised - February 11, 2025
+
+

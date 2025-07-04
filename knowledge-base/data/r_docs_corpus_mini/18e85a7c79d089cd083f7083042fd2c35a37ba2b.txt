@@ -1,0 +1,242 @@
+United States Census Bureau | An official website of the United States Government
+
+Handbooks for Data Users
+
+You can use American Community Survey (ACS) data in different ways and for different reasons. Each one of our downloadable
+PDF handbooks helps a particular group with specific how-to instructions and/or case studies.
+
+For an introduction to ACS data, we recommend the handbook Understanding and Using American Community Survey Data: What
+All Data Users Need to Know [/programs-surveys/acs/library/handbooks/general.html] .
+
+Publication
+
+Publication
+
+Understanding and Using ACS
+Data: What All Data Users Need
+to Know
+
+What Users of Data for Amer.
+Indians and Alaska Natives
+Need to Know
+
+September 2020
+
+March 2021
+
+This handbook helps general data users learn how to
+access and use ACS data and provide concrete
+examples of how ACS data can answer real-world
+questions.
+
+This handbook helps users of data for AIAN learn how to
+access and use ACS data and provide concrete
+examples of how ACS data can answer real-world
+questions.
+
+[/programs-surveys/acs/library/handbooks/general.html]
+
+[/programs-surveys/acs/library/handbooks/aian.html]
+
+Publication
+
+Publication
+
+What Federal Agencies Need to
+Know
+
+March 2021
+
+This handbook helps federal agencies use ACS data for
+eligibility determinations, allocation of funds, program
+parameters, and more.
+
+[/programs-surveys/acs/library/handbooks/federal.html]
+
+What ACS Public Use Microdata
+Sample File Users Need to
+Know
+
+February 2021
+
+This guide helps data users learn how to access PUMS
+files, create PUMS tables, and measure accuracy and
+margins of error.
+
+[/programs-surveys/acs/library/handbooks/pums.html]
+
+Publication
+
+Publication
+
+What Users of Data for Rural
+Areas Need to Know
+
+What the Business Community
+Needs to Know
+
+October 2020
+
+October 2020
+
+This handbook helps users of data about rural areas
+learn about ACS data and provides examples of how
+ACS data can answer real-world questions.
+
+[/programs-surveys/acs/library/handbooks/rural.html]
+
+This handbook helps business data users learn how to
+access and use ACS data and provide concrete
+examples of how ACS data can answer real-world
+questions.
+
+[/programs-surveys/acs/library/handbooks/business.html]
+
+Publication
+
+Publication
+
+What State and Local
+Government Users Need to
+Know
+
+August 2020
+
+What Congress Needs to Know
+
+June 2020
+
+This handbook helps congressional staff use ACS data
+to respond to constituent inquiries, draft floor/press
+
+This handbook helps data users from state and local
+governments learn about ACS data and provides
+examples of how ACS data can answer real-world
+questions.
+[/programs-surveys/acs/library/handbooks/state-local.html]
+
+statements, conduct legislative research, and more.
+[/programs-surveys/acs/library/handbooks/congress.html]
+
+Publication
+
+Publication
+
+What Puerto Rico Community
+Survey Data Users Need to
+Know
+
+April 2020
+
+This handbook helps PRCS data users learn how to
+access and use PRCS data and provide concrete
+examples of how PRCS data can answer real-world
+questions.
+
+[/programs-surveys/acs/library/handbooks/prcs.html]
+
+What Researchers Need to
+Know
+
+April 03, 2020
+
+This handbook helps researchers learn more about
+estimates for geographic areas, how to access data
+products, sampling error, and more.
+
+[/programs-surveys/acs/library/handbooks/researchers.html]
+
+Publication
+
+Publication
+
+What Users of the Census Data
+API Need to Know
+
+February 01, 2020
+
+This guide provides an overview of the Census Data API
+and how it can be used to build custom queries to
+quickly and consistently access ACS data.
+
+[/programs-surveys/acs/library/handbooks/api.html]
+
+What Journalists Need to Know
+
+February 01, 2020
+
+This handbook helps journalists learn how to search ACS
+data for statistics and trends with examples of how to
+use the ACS to uncover and enhance stories.
+
+[/programs-surveys/acs/library/handbooks/journalists.html]
+
+Publication
+
+Publication
+
+Geography and the American
+Community Survey
+
+What ACS Summary File Data
+Users Need to Know
+
+February 01, 2020
+
+October 2023
+
+This guide provides an overview of geographic areas for
+which ACS data are available, special considerations in
+working with spatial data, and more.
+
+This guide provides an overview of the ACS Summary
+File and how it can be used to access data on America’s
+communities.
+
+[/programs-surveys/acs/library/handbooks/geography.html]
+
+[/programs-surveys/acs/library/handbooks/summary-file.html]
+
+You May Be Interested In
+
+Contact
+
+Updates
+
+Contact Us
+
+Email Updates
+
+Share Your ACS Data Story
+
+Learn how to contact the
+American Community
+Survey if you have
+questions about
+completing the survey,
+finding data or using data
+
+[/programs-
+surveys/acs/contact.html]
+
+Sign up to receive email
+updates about the
+American Community
+Survey and other topics
+from the Census Bureau.
+
+[/programs-
+surveys/acs/news/email-
+updates.html]
+
+Tell us your story about
+how you use data from the
+American Community
+Survey.
+
+[/programs-surveys/acs/share-
+your-acs-data-story.html]
+
+Page Last Revised - October 18, 2022
+
+

@@ -1,0 +1,1163 @@
+{
+  "enrichment_method": "domain_specialist_ensemble_with_arbitration",
+  "total_variables_processed": 25,
+  "arbitrations_triggered": 0,
+  "arbitration_rate": 0.0,
+  "total_cost": 0.18166200000000002,
+  "average_cost_per_variable": 0.0072664800000000005,
+  "cost_breakdown": {
+    "B19325_057E": 0.007969,
+    "B19037A_022E": 0.0071435000000000005,
+    "B19037E_054E": 0.007163,
+    "B19037G_032E": 0.0074815,
+    "B19037B_010E": 0.0073775,
+    "B19101B_016E": 0.0068509999999999995,
+    "B19037A_008E": 0.00715,
+    "B19001F_006E": 0.007728499999999999,
+    "B19123_018E": 0.007657,
+    "B19001A_017E": 0.0068185,
+    "B19313C_001E": 0.0071305,
+    "B19128_004E": 0.006864,
+    "B19037H_063E": 0.0072475000000000005,
+    "B19037E_034E": 0.007618,
+    "B19037E_041E": 0.007553000000000001,
+    "B25026_012E": 0.0074815,
+    "B25121_062E": 0.007267000000000001,
+    "B25140E_012E": 0.008086,
+    "B25129_051E": 0.0073644999999999995,
+    "B25106_043E": 0.0065065,
+    "B25033_003E": 0.0071435000000000005,
+    "B25042_005E": 0.00702,
+    "B25117_004E": 0.0067925,
+    "B25123_010E": 0.0067729999999999995,
+    "B25102_003E": 0.007475
+  },
+  "enriched_variables": {
+    "B19325_057E": {
+      "variable_id": "B19325_057E",
+      "enrichment_method": "domain_specialist_ensemble",
+      "participating_specialists": [
+        "labor_economist",
+        "geographic_analyst"
+      ],
+      "agreement_score": 0.9731752872467041,
+      "specialist_analyses": [
+        {
+          "plain_language_name": "Full-time, year-round working women with income between $10,000 and $12,499",
+          "statistical_concept": "This variable measures the number of females aged 15 and over who worked full-time, year-round in the past 12 months and earned an income between $10,000 and $12,499, adjusted for 2023 inflation.",
+          "methodology_notes": "The data is collected through surveys that ask respondents about their work experience and income over the past year. Full-time, year-round work is typically defined as working 35 or more hours per week for 50 to 52 weeks in a year. Income figures are adjusted for inflation to reflect 2023 dollars, ensuring comparability over time.",
+          "interpretation_guidance": "This data point provides insight into the economic status of women who are consistently employed but earn relatively low incomes. It can be used to assess economic inequality, evaluate the effectiveness of labor policies, and understand the distribution of income among full-time female workers.",
+          "limitations": "The variable does not account for non-monetary benefits, variations in cost of living across regions, or the potential for underreporting of income. It also does not capture part-time workers or those with intermittent employment, which may skew understanding of overall economic conditions for women.",
+          "related_concepts": "This variable is related to concepts such as gender wage gap, poverty thresholds, labor force participation rates, and income distribution. It also connects to broader discussions on economic inequality and workforce demographics.",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a labor economics perspective, this variable highlights the persistent issue of low wages among women, even those who are employed full-time. It underscores the need for policies that address wage disparities and improve economic opportunities for women. Additionally, it may reflect occupational segregation, where women are overrepresented in lower-paying jobs.",
+          "specialist_name": "labor_economist",
+          "specialist_role": "Labor and Employment Economist",
+          "analysis_cost": 0.0040885
+        },
+        {
+          "plain_language_name": "Number of Women with Full-Time, Year-Round Jobs Earning $10,000 to $12,499",
+          "statistical_concept": "This variable measures the estimated number of females aged 15 and over who worked full-time, year-round in the past 12 months and earned an income between $10,000 and $12,499, adjusted for 2023 inflation.",
+          "methodology_notes": "The data is collected through the Census, which uses a combination of surveys and administrative records. The income is adjusted for inflation to reflect 2023 dollars, ensuring comparability over time. The variable focuses on females who have consistent full-time employment throughout the year.",
+          "interpretation_guidance": "This data point provides insight into the economic status of women who are consistently employed full-time but earn relatively low incomes. It can be used to assess economic disparities and inform policy decisions related to wage equality and employment opportunities.",
+          "limitations": "The variable does not account for part-time workers or those with irregular employment patterns. It also does not provide information on other sources of income or benefits that might affect overall economic well-being. Additionally, geographic variations and cost of living differences are not directly addressed.",
+          "related_concepts": "This variable is related to concepts such as gender wage gap, poverty thresholds, employment statistics, and income distribution. It can be cross-referenced with data on educational attainment, occupational sectors, and geographic economic conditions.",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a geographic and spatial analysis perspective, understanding the distribution of this demographic across different regions can highlight areas with significant economic challenges for women. Spatial analysis can reveal patterns related to urban versus rural employment opportunities and the impact of local economic policies on income levels.",
+          "specialist_name": "geographic_analyst",
+          "specialist_role": "Geographic and Spatial Analyst",
+          "analysis_cost": 0.0038805
+        }
+      ],
+      "timestamp": 1750978492.4380548,
+      "statistical_concept": "This variable measures the number of females aged 15 and over who worked full-time, year-round in the past 12 months and earned an income between $10,000 and $12,499, adjusted for 2023 inflation.",
+      "plain_language_name": "Full-time, year-round working women with income between $10,000 and $12,499",
+      "methodology_notes": "The data is collected through surveys that ask respondents about their work experience and income over the past year. Full-time, year-round work is typically defined as working 35 or more hours per week for 50 to 52 weeks in a year. Income figures are adjusted for inflation to reflect 2023 dollars, ensuring comparability over time.",
+      "limitations": "The variable does not account for non-monetary benefits, variations in cost of living across regions, or the potential for underreporting of income. It also does not capture part-time workers or those with intermittent employment, which may skew understanding of overall economic conditions for women.",
+      "related_concepts": "This variable is related to concepts such as gender wage gap, poverty thresholds, labor force participation rates, and income distribution. It also connects to broader discussions on economic inequality and workforce demographics.",
+      "synthesis_method": "collaborative_consensus",
+      "confidence_score": 0.9731752872467041
+    },
+    "B19037A_022E": {
+      "variable_id": "B19037A_022E",
+      "enrichment_method": "domain_specialist_ensemble",
+      "participating_specialists": [
+        "labor_economist",
+        "geographic_analyst"
+      ],
+      "agreement_score": 0.9289869070053101,
+      "specialist_analyses": [
+        {
+          "plain_language_name": "Income Range for Young to Mid-Age White Household Heads",
+          "statistical_concept": "This variable measures the estimated number of households led by individuals aged 25 to 44, who identify as White alone, with an annual income between $15,000 and $19,999, adjusted for 2023 inflation.",
+          "methodology_notes": "The data is collected through surveys and adjusted for inflation to reflect 2023 dollars, ensuring comparability over time. It focuses on the age and racial identity of the householder, which is the person in whose name the housing unit is owned or rented.",
+          "interpretation_guidance": "This data point provides insight into the economic status of a specific demographic group, highlighting the prevalence of low-income households among young to mid-age White householders. It can be used to assess economic disparities and inform policy decisions.",
+          "limitations": "The variable does not account for non-cash benefits or other income sources, and it may not fully capture the economic well-being of households. Additionally, it focuses solely on White alone householders, excluding multiracial individuals.",
+          "related_concepts": "Household income distribution, racial and age demographics, inflation adjustment, economic inequality",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a labor and employment perspective, this variable highlights potential challenges in the labor market for young to mid-age White individuals, such as underemployment or low-wage employment. It underscores the importance of examining wage growth and employment opportunities for this demographic to address income disparities.",
+          "specialist_name": "labor_economist",
+          "specialist_role": "Labor and Employment Economist",
+          "analysis_cost": 0.00331825
+        },
+        {
+          "plain_language_name": "Income of White Householders Aged 25-44 Earning $15,000 to $19,999",
+          "statistical_concept": "This variable measures the estimated number of households led by a white individual aged 25 to 44, with an annual income between $15,000 and $19,999, adjusted for 2023 inflation.",
+          "methodology_notes": "The data is collected through surveys and adjusted for inflation to reflect 2023 dollars. It focuses on the age and income of the householder, specifically for those identifying as white alone. The estimates are derived from sample data, which may include weighting to ensure representativeness.",
+          "interpretation_guidance": "This data should be interpreted as an estimate of the number of households within the specified age and income range. It is important to consider the inflation adjustment when comparing to previous years. The data is specific to white householders, which may not reflect broader demographic trends.",
+          "limitations": "The variable is limited to white householders, excluding multi-racial or other racial identities. It is also subject to sampling error and may not capture informal or unreported income. The income range is relatively narrow, which may limit its utility for broader economic analysis.",
+          "related_concepts": "Household income distribution, demographic age analysis, racial demographics in income studies, inflation adjustment in economic data.",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a geographic and spatial analysis perspective, this variable can be used to identify spatial patterns of income distribution among young to middle-aged white householders. It can inform studies on economic diversity, housing affordability, and regional economic health. However, analysts should be cautious of the racial and age-specific focus, which may not capture the full economic landscape of a given area.",
+          "specialist_name": "geographic_analyst",
+          "specialist_role": "Geographic and Spatial Analyst",
+          "analysis_cost": 0.00382525
+        }
+      ],
+      "timestamp": 1750978499.935723,
+      "statistical_concept": "This variable measures the estimated number of households led by individuals aged 25 to 44, who identify as White alone, with an annual income between $15,000 and $19,999, adjusted for 2023 inflation.",
+      "plain_language_name": "Income Range for Young to Mid-Age White Household Heads",
+      "methodology_notes": "The data is collected through surveys and adjusted for inflation to reflect 2023 dollars, ensuring comparability over time. It focuses on the age and racial identity of the householder, which is the person in whose name the housing unit is owned or rented.",
+      "limitations": "The variable does not account for non-cash benefits or other income sources, and it may not fully capture the economic well-being of households. Additionally, it focuses solely on White alone householders, excluding multiracial individuals.",
+      "related_concepts": "Household income distribution, racial and age demographics, inflation adjustment, economic inequality",
+      "synthesis_method": "collaborative_consensus",
+      "confidence_score": 0.9289869070053101
+    },
+    "B19037E_054E": {
+      "variable_id": "B19037E_054E",
+      "enrichment_method": "domain_specialist_ensemble",
+      "participating_specialists": [
+        "labor_economist",
+        "geographic_analyst"
+      ],
+      "agreement_score": 0.9901864528656006,
+      "specialist_analyses": [
+        {
+          "plain_language_name": "Income of Elderly Native Hawaiian and Pacific Islander Householders",
+          "statistical_concept": "This variable measures the estimated number of households led by individuals aged 65 and over, who identify as Native Hawaiian or Other Pacific Islander, with an annual income of less than $10,000, adjusted for 2023 inflation.",
+          "methodology_notes": "The data is collected through surveys and adjusted for inflation to reflect 2023 dollars. It focuses specifically on the income of householders, not the entire household, and is limited to those identifying as Native Hawaiian or Other Pacific Islander.",
+          "interpretation_guidance": "This data point provides insight into the economic status of elderly Native Hawaiian and Pacific Islander householders. It highlights the prevalence of low income among this demographic, which can inform policy decisions and social services targeting poverty alleviation.",
+          "limitations": "The data may not capture informal income sources or non-cash benefits. It is also limited to those who self-identify as Native Hawaiian or Other Pacific Islander, potentially excluding mixed-race individuals. The focus on householders may overlook income contributions from other household members.",
+          "related_concepts": "Poverty rates, elderly economic security, racial and ethnic income disparities, inflation-adjusted income measures, household composition.",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a labor and employment perspective, this variable underscores the importance of understanding demographic-specific economic challenges. It highlights the need for targeted employment and social policies to support elderly populations, particularly within minority groups, who may face unique barriers to financial stability.",
+          "specialist_name": "labor_economist",
+          "specialist_role": "Labor and Employment Economist",
+          "analysis_cost": 0.0034515
+        },
+        {
+          "plain_language_name": "Income of Older Native Hawaiian and Pacific Islander Householders",
+          "statistical_concept": "This variable measures the estimated number of households led by individuals aged 65 and over, who identify as Native Hawaiian or Other Pacific Islander alone, with an annual income of less than $10,000, adjusted for 2023 inflation.",
+          "methodology_notes": "The data is collected through the Census, which uses a combination of surveys and administrative records. The income is adjusted for inflation to reflect 2023 dollars, ensuring comparability over time. The focus is on householders, which refers to the person in whose name the housing unit is owned or rented.",
+          "interpretation_guidance": "This data point provides insight into the economic status of older Native Hawaiian and Pacific Islander householders. It is important to consider the broader socio-economic context, including cost of living and regional economic conditions, when interpreting this data.",
+          "limitations": "The data may not capture informal income sources or non-cash benefits. Additionally, the focus on 'householder' may exclude other older individuals in the household who contribute to or rely on household income. The category 'Native Hawaiian and Other Pacific Islander alone' may not fully represent individuals with mixed heritage.",
+          "related_concepts": "This variable is related to concepts such as poverty rates, age demographics, racial and ethnic income disparities, and inflation-adjusted income measures.",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a geographic and spatial analysis perspective, understanding the distribution of these households can inform regional policy decisions and resource allocation. Spatial patterns may reveal areas with higher concentrations of economically vulnerable older populations, guiding targeted interventions.",
+          "specialist_name": "geographic_analyst",
+          "specialist_role": "Geographic and Spatial Analyst",
+          "analysis_cost": 0.0037115
+        }
+      ],
+      "timestamp": 1750978507.115385,
+      "statistical_concept": "This variable measures the estimated number of households led by individuals aged 65 and over, who identify as Native Hawaiian or Other Pacific Islander, with an annual income of less than $10,000, adjusted for 2023 inflation.",
+      "plain_language_name": "Income of Elderly Native Hawaiian and Pacific Islander Householders",
+      "methodology_notes": "The data is collected through surveys and adjusted for inflation to reflect 2023 dollars. It focuses specifically on the income of householders, not the entire household, and is limited to those identifying as Native Hawaiian or Other Pacific Islander.",
+      "limitations": "The data may not capture informal income sources or non-cash benefits. It is also limited to those who self-identify as Native Hawaiian or Other Pacific Islander, potentially excluding mixed-race individuals. The focus on householders may overlook income contributions from other household members.",
+      "related_concepts": "Poverty rates, elderly economic security, racial and ethnic income disparities, inflation-adjusted income measures, household composition.",
+      "synthesis_method": "collaborative_consensus",
+      "confidence_score": 0.9901864528656006
+    },
+    "B19037G_032E": {
+      "variable_id": "B19037G_032E",
+      "enrichment_method": "domain_specialist_ensemble",
+      "participating_specialists": [
+        "labor_economist",
+        "geographic_analyst"
+      ],
+      "agreement_score": 0.8881886005401611,
+      "specialist_analyses": [
+        {
+          "plain_language_name": "Income of Young to Middle-Aged Multiracial Householders",
+          "statistical_concept": "This variable measures the estimated number of households led by individuals aged 25 to 44, who identify as two or more races, with an annual income between $100,000 and $124,999, adjusted for inflation to 2023 dollars.",
+          "methodology_notes": "The data is collected through surveys and adjusted for inflation to reflect 2023 dollars, ensuring comparability over time. The age range focuses on a demographic often in their prime working years, and the income bracket is a specific segment of the middle to upper-middle class.",
+          "interpretation_guidance": "This data can be used to understand the economic status and income distribution of multiracial households led by younger adults. It provides insights into the earning potential and economic conditions of this demographic group.",
+          "limitations": "The data may not capture all nuances of income sources, such as non-wage income or benefits. Additionally, the category of 'two or more races' can encompass a wide variety of racial combinations, which may have different socio-economic outcomes.",
+          "related_concepts": "Household income distribution, racial demographics in economics, age-related income trends, inflation-adjusted income analysis.",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a labor and employment perspective, this variable highlights the economic position of a diverse and potentially growing segment of the workforce. Understanding their income levels can inform policies on wage growth, employment opportunities, and economic equity for multiracial individuals in their prime working years.",
+          "specialist_name": "labor_economist",
+          "specialist_role": "Labor and Employment Economist",
+          "analysis_cost": 0.00340275
+        },
+        {
+          "plain_language_name": "Income of Householders Aged 25-44 with Two or More Races",
+          "statistical_concept": "This variable measures the estimated number of householders aged 25 to 44, who identify as having two or more races, and have a household income between $100,000 and $124,999 in the past 12 months, adjusted for 2023 inflation.",
+          "methodology_notes": "The data is collected through surveys and adjusted for inflation to reflect 2023 dollars. It focuses on householders, which are individuals who own or rent the living quarters. The age range is specific to 25-44 years, and the racial category is 'Two or More Races,' which includes individuals identifying with more than one racial group.",
+          "interpretation_guidance": "This data should be interpreted as an estimate of the economic status of a specific demographic group within a given geographic area. It provides insight into the income distribution among younger, racially diverse householders. When analyzing this data, consider the geographic scope and the potential for sampling variability.",
+          "limitations": "The data may be subject to sampling errors and biases inherent in survey methodologies. The 'Two or More Races' category can encompass a wide variety of racial combinations, which may not be uniformly distributed across different regions. Additionally, income brackets may not capture the full economic picture, such as wealth or debt.",
+          "related_concepts": "Household Income Distribution, Racial Demographics, Age Demographics, Inflation Adjustment, Geographic Income Variability",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a geographic and spatial analysis perspective, understanding the distribution of income among racially diverse householders can reveal patterns of economic inequality and inform policy decisions. Spatial boundaries, such as census tracts or metropolitan areas, play a crucial role in interpreting this data, as income levels and racial diversity can vary significantly across different regions.",
+          "specialist_name": "geographic_analyst",
+          "specialist_role": "Geographic and Spatial Analyst",
+          "analysis_cost": 0.004078750000000001
+        }
+      ],
+      "timestamp": 1750978514.570359,
+      "statistical_concept": "This variable measures the estimated number of households led by individuals aged 25 to 44, who identify as two or more races, with an annual income between $100,000 and $124,999, adjusted for inflation to 2023 dollars.",
+      "plain_language_name": "Income of Young to Middle-Aged Multiracial Householders",
+      "methodology_notes": "The data is collected through surveys and adjusted for inflation to reflect 2023 dollars, ensuring comparability over time. The age range focuses on a demographic often in their prime working years, and the income bracket is a specific segment of the middle to upper-middle class.",
+      "limitations": "The data may not capture all nuances of income sources, such as non-wage income or benefits. Additionally, the category of 'two or more races' can encompass a wide variety of racial combinations, which may have different socio-economic outcomes.",
+      "related_concepts": "Household income distribution, racial demographics in economics, age-related income trends, inflation-adjusted income analysis.",
+      "synthesis_method": "collaborative_consensus",
+      "confidence_score": 0.8881886005401611
+    },
+    "B19037B_010E": {
+      "variable_id": "B19037B_010E",
+      "enrichment_method": "domain_specialist_ensemble",
+      "participating_specialists": [
+        "labor_economist",
+        "geographic_analyst"
+      ],
+      "agreement_score": 0.9974924325942993,
+      "specialist_analyses": [
+        {
+          "plain_language_name": "Income of Young Black or African American Householders",
+          "statistical_concept": "This variable measures the estimated number of households led by Black or African American individuals under the age of 25, with an annual income between $40,000 and $44,999, adjusted for 2023 inflation.",
+          "methodology_notes": "The data is collected through surveys and adjusted for inflation to reflect 2023 dollars, ensuring comparability over time. It focuses specifically on the age and racial demographics of the householder, which can influence income levels.",
+          "interpretation_guidance": "This data point provides insight into the economic status of young Black or African American householders, highlighting the income distribution within this demographic. It can be used to assess economic opportunities and challenges faced by young Black or African American individuals.",
+          "limitations": "The data is limited to self-reported income and may not capture informal or unreported earnings. It also does not account for regional cost of living variations or household size, which can impact economic well-being.",
+          "related_concepts": "Household income distribution, racial and age demographics in labor economics, inflation-adjusted income, economic mobility among young adults.",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a labor and employment perspective, this variable highlights the intersection of age, race, and income, which are critical factors in understanding labor market dynamics and economic inequality. Young Black or African American householders may face unique challenges in the labor market, such as access to education and employment opportunities, which can influence their income levels.",
+          "specialist_name": "labor_economist",
+          "specialist_role": "Labor and Employment Economist",
+          "analysis_cost": 0.00346775
+        },
+        {
+          "plain_language_name": "Income of Young Black or African American Householders",
+          "statistical_concept": "This variable measures the estimated number of households led by Black or African American individuals under the age of 25, with an annual income between $40,000 and $44,999, adjusted for inflation to 2023 dollars.",
+          "methodology_notes": "The data is collected through the Census, which uses a combination of surveys and administrative records to estimate household income. The income is adjusted for inflation to reflect 2023 dollars, ensuring comparability over time. The focus is specifically on Black or African American householders, which may involve self-identification in survey responses.",
+          "interpretation_guidance": "This data point provides insight into the economic status of young Black or African American householders. It is important to consider this within the broader context of age, race, and income distribution. The data reflects estimates, not exact counts, and should be interpreted as such.",
+          "limitations": "The variable is limited by the accuracy of self-reported data and the challenges of capturing income accurately in surveys. It also does not account for regional cost of living variations or other demographic factors that might influence income levels.",
+          "related_concepts": "This variable is related to broader concepts of income distribution, racial demographics, age demographics, and economic inequality. It also connects to studies on the economic mobility of young adults and racial disparities in income.",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a geographic and spatial analysis perspective, understanding the distribution of this demographic can inform policies and programs aimed at economic support and development. Spatial patterns may reveal concentrations of young Black or African American householders in certain areas, which could be critical for targeted interventions.",
+          "specialist_name": "geographic_analyst",
+          "specialist_role": "Geographic and Spatial Analyst",
+          "analysis_cost": 0.00390975
+        }
+      ],
+      "timestamp": 1750978522.883801,
+      "statistical_concept": "This variable measures the estimated number of households led by Black or African American individuals under the age of 25, with an annual income between $40,000 and $44,999, adjusted for 2023 inflation.",
+      "plain_language_name": "Income of Young Black or African American Householders",
+      "methodology_notes": "The data is collected through surveys and adjusted for inflation to reflect 2023 dollars, ensuring comparability over time. It focuses specifically on the age and racial demographics of the householder, which can influence income levels.",
+      "limitations": "The data is limited to self-reported income and may not capture informal or unreported earnings. It also does not account for regional cost of living variations or household size, which can impact economic well-being.",
+      "related_concepts": "Household income distribution, racial and age demographics in labor economics, inflation-adjusted income, economic mobility among young adults.",
+      "synthesis_method": "collaborative_consensus",
+      "confidence_score": 0.9974924325942993
+    },
+    "B19101B_016E": {
+      "variable_id": "B19101B_016E",
+      "enrichment_method": "domain_specialist_ensemble",
+      "participating_specialists": [
+        "labor_economist",
+        "geographic_analyst"
+      ],
+      "agreement_score": 0.9371848106384277,
+      "specialist_analyses": [
+        {
+          "plain_language_name": "Family Income Range for Black or African American Households",
+          "statistical_concept": "This variable measures the estimated number of Black or African American households with a total family income between $150,000 and $199,999 over the past 12 months, adjusted for inflation to 2023 dollars.",
+          "methodology_notes": "The data is collected through surveys and adjusted for inflation to reflect 2023 dollars, ensuring comparability over time. It specifically focuses on households where the householder identifies as Black or African American alone.",
+          "interpretation_guidance": "This data point provides insight into the economic status of Black or African American households within a specific income bracket. It can be used to analyze income distribution and economic disparities within this demographic group.",
+          "limitations": "The data may not capture all sources of income or account for regional cost-of-living differences. It also does not provide information on household size or composition, which can affect economic well-being.",
+          "related_concepts": "Household income distribution, racial economic disparities, inflation adjustment, income inequality",
+          "confidence_score": 0.85,
+          "specialist_perspective": "Understanding income distribution within racial groups is crucial for assessing economic equity and targeting policy interventions. This variable helps identify the proportion of Black or African American households achieving higher income levels, which can inform discussions on upward mobility and access to economic opportunities.",
+          "specialist_name": "labor_economist",
+          "specialist_role": "Labor and Employment Economist",
+          "analysis_cost": 0.003068
+        },
+        {
+          "plain_language_name": "Income Range for Black or African American Families",
+          "statistical_concept": "This variable measures the estimated number of families, specifically those with a Black or African American householder, whose total income in the past 12 months falls between $150,000 and $199,999, adjusted for 2023 inflation.",
+          "methodology_notes": "The data is collected through surveys and adjusted for inflation to reflect 2023 dollars. It focuses on families with a Black or African American householder, which means the person identified as the head of the household is Black or African American. The data is likely derived from the American Community Survey (ACS) or similar Census data collection efforts.",
+          "interpretation_guidance": "This data should be interpreted as an estimate of the number of Black or African American households within the specified income range. It provides insight into the economic status of these families but should be considered alongside other demographic and economic variables for comprehensive analysis.",
+          "limitations": "The data is subject to sampling error and may not capture all nuances of income distribution within the Black or African American community. It also does not account for non-cash benefits or regional cost of living variations.",
+          "related_concepts": "Household income distribution, racial and ethnic demographics, inflation adjustment, economic inequality, family structure",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a geographic and spatial analysis perspective, understanding the distribution of income among Black or African American households can reveal patterns of economic disparity and inform policy decisions. It is crucial to consider spatial boundaries and geographic hierarchies, such as urban vs. rural settings, which can significantly impact income levels and access to resources.",
+          "specialist_name": "geographic_analyst",
+          "specialist_role": "Geographic and Spatial Analyst",
+          "analysis_cost": 0.003783
+        }
+      ],
+      "timestamp": 1750978530.356164,
+      "statistical_concept": "This variable measures the estimated number of Black or African American households with a total family income between $150,000 and $199,999 over the past 12 months, adjusted for inflation to 2023 dollars.",
+      "plain_language_name": "Family Income Range for Black or African American Households",
+      "methodology_notes": "The data is collected through surveys and adjusted for inflation to reflect 2023 dollars, ensuring comparability over time. It specifically focuses on households where the householder identifies as Black or African American alone.",
+      "limitations": "The data may not capture all sources of income or account for regional cost-of-living differences. It also does not provide information on household size or composition, which can affect economic well-being.",
+      "related_concepts": "Household income distribution, racial economic disparities, inflation adjustment, income inequality",
+      "synthesis_method": "collaborative_consensus",
+      "confidence_score": 0.9371848106384277
+    },
+    "B19037A_008E": {
+      "variable_id": "B19037A_008E",
+      "enrichment_method": "domain_specialist_ensemble",
+      "participating_specialists": [
+        "labor_economist",
+        "geographic_analyst"
+      ],
+      "agreement_score": 0.9946439266204834,
+      "specialist_analyses": [
+        {
+          "plain_language_name": "Income Range for Young White Household Heads",
+          "statistical_concept": "This variable measures the estimated number of households led by individuals under 25 years old, who identify as White alone, with an annual income between $30,000 and $34,999, adjusted for 2023 inflation.",
+          "methodology_notes": "The data is collected through household surveys and adjusted for inflation to reflect 2023 dollars. It focuses on the age and racial identity of the householder, as well as the household's income bracket.",
+          "interpretation_guidance": "This data point provides insight into the economic status of young White household heads, specifically those earning within a specific income range. It can be used to analyze economic opportunities and challenges faced by this demographic group.",
+          "limitations": "The variable does not account for non-White householders, mixed-race individuals, or those who may identify with multiple racial categories. It also does not provide information on household size, cost of living variations, or other income sources.",
+          "related_concepts": "Household income distribution, age demographics, racial demographics, inflation adjustment, economic inequality",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a labor and employment perspective, this variable can highlight early career income levels for young White individuals, potentially reflecting entry-level job wages and the impact of educational attainment on income. It may also indicate economic mobility or stagnation within this demographic.",
+          "specialist_name": "labor_economist",
+          "specialist_role": "Labor and Employment Economist",
+          "analysis_cost": 0.003133
+        },
+        {
+          "plain_language_name": "Income of Young White Household Heads",
+          "statistical_concept": "This variable measures the estimated number of households led by individuals under 25 years old, who identify as White alone, with an annual income between $30,000 and $34,999, adjusted for inflation to 2023 dollars.",
+          "methodology_notes": "The data is collected through the Census, which uses a combination of surveys and administrative records to estimate household income. The income is adjusted for inflation to reflect 2023 dollars, ensuring comparability over time. The focus is on the age and race of the householder, which is the person in whose name the housing unit is owned or rented.",
+          "interpretation_guidance": "This data should be interpreted as an estimate of the economic status of young White householders. It provides insight into the income distribution within this demographic group, which can be useful for understanding economic challenges or opportunities faced by young adults.",
+          "limitations": "The data is limited to those who identify as White alone, excluding multiracial individuals. It also does not account for regional cost of living variations or other demographic factors such as education or employment status. The estimates are subject to sampling error and may not capture all nuances of income distribution.",
+          "related_concepts": "This variable is related to broader concepts of household income distribution, age demographics, racial demographics, and economic inequality. It can be connected to studies on youth economic mobility and racial income disparities.",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a geographic and spatial analysis perspective, understanding the distribution of income among young White householders can reveal patterns of economic stratification and residential segregation. It can also inform policy decisions related to housing affordability, education, and employment opportunities targeted at young adults.",
+          "specialist_name": "geographic_analyst",
+          "specialist_role": "Geographic and Spatial Analyst",
+          "analysis_cost": 0.004017
+        }
+      ],
+      "timestamp": 1750978538.21405,
+      "statistical_concept": "This variable measures the estimated number of households led by individuals under 25 years old, who identify as White alone, with an annual income between $30,000 and $34,999, adjusted for 2023 inflation.",
+      "plain_language_name": "Income Range for Young White Household Heads",
+      "methodology_notes": "The data is collected through household surveys and adjusted for inflation to reflect 2023 dollars. It focuses on the age and racial identity of the householder, as well as the household's income bracket.",
+      "limitations": "The variable does not account for non-White householders, mixed-race individuals, or those who may identify with multiple racial categories. It also does not provide information on household size, cost of living variations, or other income sources.",
+      "related_concepts": "Household income distribution, age demographics, racial demographics, inflation adjustment, economic inequality",
+      "synthesis_method": "collaborative_consensus",
+      "confidence_score": 0.9946439266204834
+    },
+    "B19001F_006E": {
+      "variable_id": "B19001F_006E",
+      "enrichment_method": "domain_specialist_ensemble",
+      "participating_specialists": [
+        "labor_economist",
+        "geographic_analyst"
+      ],
+      "agreement_score": 0.9871262311935425,
+      "specialist_analyses": [
+        {
+          "plain_language_name": "Household Income Range for Some Other Race Alone Householders",
+          "statistical_concept": "This variable measures the estimated number of households, led by a householder identifying as 'Some Other Race Alone,' with an annual income between $25,000 and $29,999, adjusted for 2023 inflation.",
+          "methodology_notes": "The income data is adjusted for inflation to reflect 2023 dollars, ensuring comparability over time. The category 'Some Other Race Alone' is used for respondents who do not identify with the standard racial categories provided by the Census. This can include a diverse range of racial identities, often reflecting complex demographic and cultural backgrounds.",
+          "interpretation_guidance": "This data point provides insight into the economic status of households led by individuals identifying as 'Some Other Race Alone' within a specific income bracket. It is useful for understanding income distribution and economic diversity within this demographic group.",
+          "limitations": "The category 'Some Other Race Alone' is broad and may encompass a wide variety of racial identities, potentially obscuring specific cultural or ethnic nuances. Additionally, income data is self-reported and subject to inaccuracies. The inflation adjustment assumes a consistent inflation rate, which may not capture localized economic variations.",
+          "related_concepts": "This variable is related to broader concepts of income distribution, racial and ethnic demographics, and economic inequality. It also connects to labor market outcomes and household economic stability.",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a labor and employment perspective, understanding the income distribution of 'Some Other Race Alone' households can shed light on potential disparities in labor market opportunities and outcomes. This demographic may face unique challenges in the labor market, influenced by factors such as discrimination, access to education, and occupational segregation. Analyzing this data alongside employment statistics can help identify areas for policy intervention to promote economic equity.",
+          "specialist_name": "labor_economist",
+          "specialist_role": "Labor and Employment Economist",
+          "analysis_cost": 0.00411775
+        },
+        {
+          "plain_language_name": "Household Income Range $25,000 to $29,999 for Some Other Race Alone Householders",
+          "statistical_concept": "This variable measures the estimated number of households, led by a householder identifying as 'Some Other Race Alone,' with an annual income between $25,000 and $29,999, adjusted for inflation to 2023 dollars.",
+          "methodology_notes": "The data is collected through surveys where respondents self-identify their race and report their household income. The income figures are adjusted for inflation to reflect 2023 dollars, ensuring comparability over time. The 'Some Other Race Alone' category typically includes individuals who do not identify with the standard racial categories provided by the Census.",
+          "interpretation_guidance": "This data should be interpreted as an estimate of the number of households within a specific income range, led by individuals who identify with a race not categorized under the standard options. It provides insight into the economic status of this demographic group within the broader population.",
+          "limitations": "The 'Some Other Race Alone' category can be broad and heterogeneous, potentially encompassing diverse ethnic backgrounds. This can limit the specificity of the data. Additionally, income data is self-reported and subject to inaccuracies or biases in reporting.",
+          "related_concepts": "Household Income Distribution, Racial Demographics, Inflation Adjustment, Socioeconomic Status",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a geographic and spatial analysis perspective, understanding the distribution of income among 'Some Other Race Alone' households can reveal spatial patterns of economic disparity and inform targeted policy interventions. However, the broad categorization of race may obscure more nuanced spatial trends among different ethnic groups.",
+          "specialist_name": "geographic_analyst",
+          "specialist_role": "Geographic and Spatial Analyst",
+          "analysis_cost": 0.00361075
+        }
+      ],
+      "timestamp": 1750978551.017431,
+      "statistical_concept": "This variable measures the estimated number of households, led by a householder identifying as 'Some Other Race Alone,' with an annual income between $25,000 and $29,999, adjusted for 2023 inflation.",
+      "plain_language_name": "Household Income Range for Some Other Race Alone Householders",
+      "methodology_notes": "The income data is adjusted for inflation to reflect 2023 dollars, ensuring comparability over time. The category 'Some Other Race Alone' is used for respondents who do not identify with the standard racial categories provided by the Census. This can include a diverse range of racial identities, often reflecting complex demographic and cultural backgrounds.",
+      "limitations": "The category 'Some Other Race Alone' is broad and may encompass a wide variety of racial identities, potentially obscuring specific cultural or ethnic nuances. Additionally, income data is self-reported and subject to inaccuracies. The inflation adjustment assumes a consistent inflation rate, which may not capture localized economic variations.",
+      "related_concepts": "This variable is related to broader concepts of income distribution, racial and ethnic demographics, and economic inequality. It also connects to labor market outcomes and household economic stability.",
+      "synthesis_method": "collaborative_consensus",
+      "confidence_score": 0.9871262311935425
+    },
+    "B19123_018E": {
+      "variable_id": "B19123_018E",
+      "enrichment_method": "domain_specialist_ensemble",
+      "participating_specialists": [
+        "labor_economist",
+        "geographic_analyst"
+      ],
+      "agreement_score": 0.9891136884689331,
+      "specialist_analyses": [
+        {
+          "plain_language_name": "6-Person Families Without Public Assistance or SNAP",
+          "statistical_concept": "This variable measures the number of six-person families that did not receive any cash public assistance income or household Food Stamps/SNAP benefits in the past 12 months.",
+          "methodology_notes": "The data is likely collected through surveys where respondents report their family size and whether they received any public assistance or SNAP benefits. It is important to consider the accuracy of self-reported data and the definitions used for 'cash public assistance' and 'SNAP benefits.'",
+          "interpretation_guidance": "This data can be used to understand the economic self-sufficiency of larger families, specifically those with six members, by identifying those who do not rely on public assistance programs. It can provide insights into the economic stability and income levels of these families.",
+          "limitations": "The variable does not account for other forms of non-cash assistance or informal support systems that families might rely on. Additionally, it does not provide information on the income levels or employment status of these families, which are crucial for a comprehensive analysis.",
+          "related_concepts": "Family income distribution, poverty rates, economic self-sufficiency, public assistance program participation, household size and composition.",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a labor and employment perspective, this variable can help identify segments of the population that are potentially more economically stable and less reliant on government assistance. It can also be used to assess the effectiveness of employment policies aimed at reducing dependency on public assistance. Understanding the characteristics of these families can inform policy decisions related to labor markets, wages, and family support programs.",
+          "specialist_name": "labor_economist",
+          "specialist_role": "Labor and Employment Economist",
+          "analysis_cost": 0.0037635
+        },
+        {
+          "plain_language_name": "6-Person Families Without Public Assistance or SNAP",
+          "statistical_concept": "This variable measures the number of families consisting of six members who have not received any cash public assistance income or household Food Stamps/SNAP benefits in the past 12 months.",
+          "methodology_notes": "The data is collected through surveys where respondents report their family size and whether they have received any public assistance or SNAP benefits. The geographic boundaries for this data are typically defined by census tracts, counties, or other administrative divisions. The residence methodology involves counting families based on their usual place of residence.",
+          "interpretation_guidance": "This data can be used to understand the economic self-sufficiency of larger families within a given area. It is important to consider the local cost of living and employment opportunities when interpreting this data, as these factors can influence the need for public assistance.",
+          "limitations": "The data may not capture informal assistance or support networks that families rely on. Additionally, underreporting or misreporting can occur due to stigma associated with receiving public assistance. The data is also subject to sampling errors and may not be representative of smaller geographic areas.",
+          "related_concepts": "This variable is related to concepts such as poverty rates, employment statistics, and household income distribution. It also connects to broader discussions on social safety nets and economic inequality.",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a geographic and spatial analysis perspective, understanding the distribution of families not receiving public assistance can highlight areas of economic resilience or potential gaps in social services. Spatial patterns may reveal concentrations of economic stability or vulnerability, which can inform policy decisions and resource allocation.",
+          "specialist_name": "geographic_analyst",
+          "specialist_role": "Geographic and Spatial Analyst",
+          "analysis_cost": 0.0038935
+        }
+      ],
+      "timestamp": 1750978573.1354518,
+      "statistical_concept": "This variable measures the number of six-person families that did not receive any cash public assistance income or household Food Stamps/SNAP benefits in the past 12 months.",
+      "plain_language_name": "6-Person Families Without Public Assistance or SNAP",
+      "methodology_notes": "The data is likely collected through surveys where respondents report their family size and whether they received any public assistance or SNAP benefits. It is important to consider the accuracy of self-reported data and the definitions used for 'cash public assistance' and 'SNAP benefits.'",
+      "limitations": "The variable does not account for other forms of non-cash assistance or informal support systems that families might rely on. Additionally, it does not provide information on the income levels or employment status of these families, which are crucial for a comprehensive analysis.",
+      "related_concepts": "Family income distribution, poverty rates, economic self-sufficiency, public assistance program participation, household size and composition.",
+      "synthesis_method": "collaborative_consensus",
+      "confidence_score": 0.9891136884689331
+    },
+    "B19001A_017E": {
+      "variable_id": "B19001A_017E",
+      "enrichment_method": "domain_specialist_ensemble",
+      "participating_specialists": [
+        "labor_economist",
+        "geographic_analyst"
+      ],
+      "agreement_score": 0.9569506049156189,
+      "specialist_analyses": [
+        {
+          "plain_language_name": "Households with Income of $200,000 or More (White Alone Householder)",
+          "statistical_concept": "This variable measures the number of households, led by individuals identifying as White alone, that reported an annual income of $200,000 or more, adjusted for inflation to 2023 dollars.",
+          "methodology_notes": "The data is collected through surveys and adjusted for inflation to reflect 2023 dollars, ensuring comparability over time. It focuses on households where the primary householder identifies as White alone, excluding multiracial or ethnic combinations.",
+          "interpretation_guidance": "This data point provides insight into the economic status and income distribution among White households, specifically those at the higher end of the income spectrum. It can be used to analyze wealth concentration and economic disparities within this demographic group.",
+          "limitations": "The variable does not account for multiracial households or those identifying with ethnicities beyond 'White alone.' It also does not provide information on income sources or distribution within households. Additionally, it may not capture informal or unreported income.",
+          "related_concepts": "Income distribution, racial and ethnic demographics, inflation adjustment, household economic status, wealth inequality",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a labor and employment perspective, this variable highlights the intersection of race and economic status, which is crucial for understanding labor market dynamics and wage disparities. It can inform policies aimed at addressing income inequality and promoting equitable economic opportunities.",
+          "specialist_name": "labor_economist",
+          "specialist_role": "Labor and Employment Economist",
+          "analysis_cost": 0.00321425
+        },
+        {
+          "plain_language_name": "Households with White Alone Householder Earning $200,000 or More",
+          "statistical_concept": "This variable measures the estimated number of households, where the householder identifies as White Alone, with an annual income of $200,000 or more, adjusted for inflation to 2023 dollars.",
+          "methodology_notes": "The data is collected through surveys and adjusted for inflation to reflect 2023 dollars, ensuring comparability over time. The 'White Alone' category refers to individuals who identify solely as White, without any other racial or ethnic identification.",
+          "interpretation_guidance": "This data point provides insight into the income distribution among White Alone households, specifically those at the higher end of the income spectrum. It is useful for understanding economic disparities and the concentration of wealth within this demographic group.",
+          "limitations": "The variable does not account for multiracial individuals or those who identify with multiple ethnicities. It also does not provide information on income sources or household size, which can affect economic well-being. Additionally, survey data may have sampling errors or non-response biases.",
+          "related_concepts": "This variable is related to broader concepts of income distribution, racial demographics, economic inequality, and inflation adjustment. It also connects to other income brackets and demographic groups for comparative analysis.",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a geographic and spatial analysis perspective, this variable can be used to map income distribution patterns across different regions, helping to identify areas of economic concentration or disparity. It is crucial for urban planning, policy-making, and resource allocation to understand the spatial dynamics of wealth among White Alone households.",
+          "specialist_name": "geographic_analyst",
+          "specialist_role": "Geographic and Spatial Analyst",
+          "analysis_cost": 0.00360425
+        }
+      ],
+      "timestamp": 1750978580.7132092,
+      "statistical_concept": "This variable measures the number of households, led by individuals identifying as White alone, that reported an annual income of $200,000 or more, adjusted for inflation to 2023 dollars.",
+      "plain_language_name": "Households with Income of $200,000 or More (White Alone Householder)",
+      "methodology_notes": "The data is collected through surveys and adjusted for inflation to reflect 2023 dollars, ensuring comparability over time. It focuses on households where the primary householder identifies as White alone, excluding multiracial or ethnic combinations.",
+      "limitations": "The variable does not account for multiracial households or those identifying with ethnicities beyond 'White alone.' It also does not provide information on income sources or distribution within households. Additionally, it may not capture informal or unreported income.",
+      "related_concepts": "Income distribution, racial and ethnic demographics, inflation adjustment, household economic status, wealth inequality",
+      "synthesis_method": "collaborative_consensus",
+      "confidence_score": 0.9569506049156189
+    },
+    "B19313C_001E": {
+      "variable_id": "B19313C_001E",
+      "enrichment_method": "domain_specialist_ensemble",
+      "participating_specialists": [
+        "labor_economist",
+        "geographic_analyst"
+      ],
+      "agreement_score": 0.9816884398460388,
+      "specialist_analyses": [
+        {
+          "plain_language_name": "Total Income for American Indian and Alaska Native Adults",
+          "statistical_concept": "This variable measures the total income received by individuals aged 15 and over who identify as American Indian or Alaska Native, adjusted for inflation to reflect 2023 dollar values.",
+          "methodology_notes": "The data is collected through surveys and adjusted for inflation to ensure comparability over time. It includes all sources of income such as wages, salaries, benefits, and other earnings. The adjustment to 2023 dollars is crucial for maintaining the real value of income over time.",
+          "interpretation_guidance": "This data provides insights into the economic well-being of the American Indian and Alaska Native population. It can be used to assess income disparities, economic growth, and the impact of inflation on this demographic group. However, it should be interpreted in the context of broader economic conditions and demographic changes.",
+          "limitations": "The data may not capture informal or unreported income, and it relies on self-reported information, which can introduce bias. Additionally, inflation adjustments are based on general indices and may not reflect specific cost-of-living changes experienced by this group.",
+          "related_concepts": "Median income, poverty rates, employment rates, wage growth, inflation adjustment, demographic income analysis",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a labor and employment perspective, this variable is crucial for understanding the economic challenges and opportunities faced by American Indian and Alaska Native communities. It highlights the need for targeted employment policies and programs to address income disparities and improve economic outcomes for these populations.",
+          "specialist_name": "labor_economist",
+          "specialist_role": "Labor and Employment Economist",
+          "analysis_cost": 0.0035847500000000003
+        },
+        {
+          "plain_language_name": "Total Income for American Indian and Alaska Native Individuals (2023 Dollars)",
+          "statistical_concept": "This variable measures the total income earned by individuals aged 15 and over who identify as American Indian or Alaska Native, adjusted for inflation to reflect 2023 dollar values.",
+          "methodology_notes": "The data is collected through surveys and adjusted for inflation to ensure comparability over time. It includes all forms of income such as wages, salaries, and other earnings. The population considered is those who identify solely as American Indian or Alaska Native, excluding those who identify with multiple races.",
+          "interpretation_guidance": "This data should be interpreted as an aggregate measure, providing insight into the overall economic status of the American Indian and Alaska Native population. It is important to consider this in the context of broader economic conditions and demographic factors.",
+          "limitations": "The data may not capture informal or unreported income, and the inflation adjustment assumes a consistent cost of living across different regions. Additionally, it does not account for income distribution within the population.",
+          "related_concepts": "Median income, poverty rates, employment statistics, inflation adjustment, racial and ethnic demographics",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a geographic and spatial analysis perspective, understanding the spatial distribution of income among American Indian and Alaska Native populations can reveal significant insights into regional economic disparities and resource allocation needs. It is crucial to consider the geographic context, such as reservation boundaries and urban versus rural settings, when analyzing this data.",
+          "specialist_name": "geographic_analyst",
+          "specialist_role": "Geographic and Spatial Analyst",
+          "analysis_cost": 0.00354575
+        }
+      ],
+      "timestamp": 1750978588.145477,
+      "statistical_concept": "This variable measures the total income received by individuals aged 15 and over who identify as American Indian or Alaska Native, adjusted for inflation to reflect 2023 dollar values.",
+      "plain_language_name": "Total Income for American Indian and Alaska Native Adults",
+      "methodology_notes": "The data is collected through surveys and adjusted for inflation to ensure comparability over time. It includes all sources of income such as wages, salaries, benefits, and other earnings. The adjustment to 2023 dollars is crucial for maintaining the real value of income over time.",
+      "limitations": "The data may not capture informal or unreported income, and it relies on self-reported information, which can introduce bias. Additionally, inflation adjustments are based on general indices and may not reflect specific cost-of-living changes experienced by this group.",
+      "related_concepts": "Median income, poverty rates, employment rates, wage growth, inflation adjustment, demographic income analysis",
+      "synthesis_method": "collaborative_consensus",
+      "confidence_score": 0.9816884398460388
+    },
+    "B19128_004E": {
+      "variable_id": "B19128_004E",
+      "enrichment_method": "domain_specialist_ensemble",
+      "participating_specialists": [
+        "labor_economist",
+        "geographic_analyst"
+      ],
+      "agreement_score": 0.95377516746521,
+      "specialist_analyses": [
+        {
+          "plain_language_name": "Total Income for Married Couples Without Children",
+          "statistical_concept": "This variable measures the total income earned by families consisting of married couples who do not have their own children under the age of 18 living in the household, adjusted for inflation to reflect 2023 dollars.",
+          "methodology_notes": "The data is collected through surveys and adjusted for inflation to ensure comparability over time. It focuses specifically on married-couple families without children under 18, which may include older couples, young couples without children, or couples whose children have moved out.",
+          "interpretation_guidance": "When interpreting this data, consider the economic conditions affecting married couples without children, such as dual-income potential, retirement income for older couples, and the absence of child-related expenses. This can provide insights into disposable income and economic stability for this demographic.",
+          "limitations": "This variable does not account for non-married couples, single-parent families, or other family structures. It also does not differentiate between income sources, such as wages, investments, or retirement funds, which can vary significantly within this group.",
+          "related_concepts": "Household income distribution, inflation adjustment, family structure demographics, dual-income households, economic well-being of childless families.",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a labor and employment perspective, this variable can highlight the economic advantages or disadvantages faced by married couples without children. It may reflect higher disposable income due to dual incomes and lack of child-related expenses, or it could indicate economic challenges if one partner is not in the labor force. Understanding these dynamics is crucial for policy-making and economic forecasting.",
+          "specialist_name": "labor_economist",
+          "specialist_role": "Labor and Employment Economist",
+          "analysis_cost": 0.003705
+        },
+        {
+          "plain_language_name": "Aggregate Income for Married Couples Without Children",
+          "statistical_concept": "This variable measures the total income of married-couple families without children under 18, adjusted for inflation to 2023 dollars.",
+          "methodology_notes": "The data is collected from households identified as married-couple families without children under 18. Income is adjusted for inflation to reflect 2023 dollars, ensuring comparability over time. The data is typically gathered through surveys and may involve self-reporting, which can introduce some variability.",
+          "interpretation_guidance": "This data provides insight into the economic status of married couples without young children. It can be used to analyze economic trends, compare income levels across different geographic areas, or assess the impact of economic policies on this demographic group.",
+          "limitations": "The data may not capture informal income sources or account for regional cost-of-living differences. Additionally, inflation adjustments are based on national averages, which may not reflect local economic conditions.",
+          "related_concepts": "Household income distribution, inflation adjustment, family structure demographics, economic well-being indicators",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a geographic and spatial analysis perspective, understanding the distribution of income among married couples without children can reveal patterns of economic disparity and inform regional planning. This data can be used to identify areas with higher economic stability or vulnerability, aiding in targeted policy interventions.",
+          "specialist_name": "geographic_analyst",
+          "specialist_role": "Geographic and Spatial Analyst",
+          "analysis_cost": 0.0031590000000000003
+        }
+      ],
+      "timestamp": 1750978597.634253,
+      "statistical_concept": "This variable measures the total income earned by families consisting of married couples who do not have their own children under the age of 18 living in the household, adjusted for inflation to reflect 2023 dollars.",
+      "plain_language_name": "Total Income for Married Couples Without Children",
+      "methodology_notes": "The data is collected through surveys and adjusted for inflation to ensure comparability over time. It focuses specifically on married-couple families without children under 18, which may include older couples, young couples without children, or couples whose children have moved out.",
+      "limitations": "This variable does not account for non-married couples, single-parent families, or other family structures. It also does not differentiate between income sources, such as wages, investments, or retirement funds, which can vary significantly within this group.",
+      "related_concepts": "Household income distribution, inflation adjustment, family structure demographics, dual-income households, economic well-being of childless families.",
+      "synthesis_method": "collaborative_consensus",
+      "confidence_score": 0.95377516746521
+    },
+    "B19037H_063E": {
+      "variable_id": "B19037H_063E",
+      "enrichment_method": "domain_specialist_ensemble",
+      "participating_specialists": [
+        "labor_economist",
+        "geographic_analyst"
+      ],
+      "agreement_score": 0.987238883972168,
+      "specialist_analyses": [
+        {
+          "plain_language_name": "Income Range for Older White Non-Hispanic Householders",
+          "statistical_concept": "This variable measures the estimated number of households led by individuals aged 65 and over, who identify as White Alone and Not Hispanic or Latino, with an annual household income between $50,000 and $59,999, adjusted for 2023 inflation.",
+          "methodology_notes": "The data is collected through surveys and adjusted for inflation to reflect 2023 dollars, ensuring comparability over time. It focuses on the head of the household, which is typically the person who owns or rents the residence.",
+          "interpretation_guidance": "This data can be used to understand the economic status of older White non-Hispanic households within a specific income bracket. It is important to consider this in the context of broader demographic and economic trends, such as retirement income sources and cost of living adjustments.",
+          "limitations": "The variable does not account for intra-household income distribution or wealth. It also excludes other racial and ethnic groups, potentially limiting its applicability for broader demographic analyses. Additionally, income ranges are broad, which may obscure finer economic distinctions.",
+          "related_concepts": "Household income distribution, age demographics, racial and ethnic economic disparities, inflation adjustment, retirement income sources.",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a labor and employment perspective, this variable highlights the economic conditions of a specific demographic group that may be transitioning from the workforce to retirement. Understanding their income levels can inform policies on retirement security, social services, and economic support for aging populations.",
+          "specialist_name": "labor_economist",
+          "specialist_role": "Labor and Employment Economist",
+          "analysis_cost": 0.00348725
+        },
+        {
+          "plain_language_name": "Income Range for Older White Non-Hispanic Householders",
+          "statistical_concept": "This variable measures the estimated number of households led by a person aged 65 or older, who identifies as White alone and not Hispanic or Latino, with an annual household income between $50,000 and $59,999, adjusted for inflation to 2023 dollars.",
+          "methodology_notes": "The data is collected through surveys and adjusted for inflation to reflect 2023 dollars, ensuring comparability over time. The focus is on the race and ethnicity of the householder, which is self-reported, and the income is categorized into specific ranges for analysis.",
+          "interpretation_guidance": "This data should be interpreted as an estimate of the number of older White non-Hispanic households within a specific income bracket. It provides insight into the economic status of this demographic group, but should be considered alongside other variables for a comprehensive analysis.",
+          "limitations": "The data is subject to sampling error and may not capture all nuances of income distribution. It also does not account for multi-racial or Hispanic individuals who may identify as White, nor does it reflect non-monetary forms of income or wealth.",
+          "related_concepts": "This variable is related to broader concepts of household income distribution, demographic aging, racial and ethnic economic disparities, and inflation-adjusted income analysis.",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a geographic and spatial analysis perspective, this variable can be used to map and analyze the distribution of older White non-Hispanic households by income across different regions. It can help identify areas with higher concentrations of economically stable older populations, which may influence local policy and resource allocation.",
+          "specialist_name": "geographic_analyst",
+          "specialist_role": "Geographic and Spatial Analyst",
+          "analysis_cost": 0.0037602500000000006
+        }
+      ],
+      "timestamp": 1750978607.486212,
+      "statistical_concept": "This variable measures the estimated number of households led by individuals aged 65 and over, who identify as White Alone and Not Hispanic or Latino, with an annual household income between $50,000 and $59,999, adjusted for 2023 inflation.",
+      "plain_language_name": "Income Range for Older White Non-Hispanic Householders",
+      "methodology_notes": "The data is collected through surveys and adjusted for inflation to reflect 2023 dollars, ensuring comparability over time. It focuses on the head of the household, which is typically the person who owns or rents the residence.",
+      "limitations": "The variable does not account for intra-household income distribution or wealth. It also excludes other racial and ethnic groups, potentially limiting its applicability for broader demographic analyses. Additionally, income ranges are broad, which may obscure finer economic distinctions.",
+      "related_concepts": "Household income distribution, age demographics, racial and ethnic economic disparities, inflation adjustment, retirement income sources.",
+      "synthesis_method": "collaborative_consensus",
+      "confidence_score": 0.987238883972168
+    },
+    "B19037E_034E": {
+      "variable_id": "B19037E_034E",
+      "enrichment_method": "domain_specialist_ensemble",
+      "participating_specialists": [
+        "labor_economist",
+        "geographic_analyst"
+      ],
+      "agreement_score": 0.997733473777771,
+      "specialist_analyses": [
+        {
+          "plain_language_name": "Income of Native Hawaiian and Other Pacific Islander Householders Aged 25-44",
+          "statistical_concept": "This variable measures the estimated number of households led by individuals aged 25 to 44 who identify as Native Hawaiian or Other Pacific Islander, with an annual household income between $150,000 and $199,999, adjusted for 2023 inflation.",
+          "methodology_notes": "The data is collected through the Census Bureau's surveys, which adjust income figures for inflation to reflect 2023 dollars. It focuses on the age of the householder and their racial identification, specifically targeting the Native Hawaiian and Other Pacific Islander demographic.",
+          "interpretation_guidance": "This data point provides insight into the economic status of a specific demographic group within a defined age range. It can be used to assess economic well-being, compare income levels across different racial groups, or track changes over time within this demographic.",
+          "limitations": "The data may not capture all sources of income or account for regional cost-of-living differences. It also relies on self-reported racial identification, which may not fully represent the diversity within the Native Hawaiian and Other Pacific Islander community.",
+          "related_concepts": "Household income distribution, racial and ethnic economic disparities, age-specific economic analysis, inflation-adjusted income metrics.",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a labor and employment perspective, this variable highlights the intersection of age, race, and income, which is crucial for understanding labor market outcomes and economic opportunities for minority groups. It can inform policies aimed at reducing income disparities and improving economic mobility for Native Hawaiian and Other Pacific Islander communities.",
+          "specialist_name": "labor_economist",
+          "specialist_role": "Labor and Employment Economist",
+          "analysis_cost": 0.0036205
+        },
+        {
+          "plain_language_name": "Income of Native Hawaiian and Other Pacific Islander Householders Aged 25-44",
+          "statistical_concept": "This variable measures the estimated number of households led by individuals aged 25 to 44 who identify as Native Hawaiian or Other Pacific Islander and have an annual household income between $150,000 and $199,999, adjusted for inflation to 2023 dollars.",
+          "methodology_notes": "The data is collected through surveys and adjusted for inflation to reflect 2023 dollars, ensuring comparability over time. The focus is on the age of the householder and their income bracket, specifically for those identifying as Native Hawaiian or Other Pacific Islander alone.",
+          "interpretation_guidance": "This data should be interpreted as an estimate of the economic status of a specific demographic group within a defined age range. It provides insights into the income distribution among Native Hawaiian and Other Pacific Islander householders aged 25 to 44, which can be useful for understanding economic disparities and planning community resources.",
+          "limitations": "The data is subject to sampling errors and may not fully capture the diversity within the Native Hawaiian and Other Pacific Islander communities. Additionally, it does not account for multi-racial households or those who identify with more than one race. The income range is broad, which may obscure finer details of income distribution.",
+          "related_concepts": "Household income distribution, demographic analysis, inflation adjustment, racial and ethnic economic disparities.",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a geographic and spatial analysis perspective, understanding the distribution of income among Native Hawaiian and Other Pacific Islander householders can inform regional planning and policy-making. It highlights areas where economic support or development initiatives may be needed and can guide resource allocation to address income disparities within this demographic group.",
+          "specialist_name": "geographic_analyst",
+          "specialist_role": "Geographic and Spatial Analyst",
+          "analysis_cost": 0.0039975
+        }
+      ],
+      "timestamp": 1750978617.1752372,
+      "statistical_concept": "This variable measures the estimated number of households led by individuals aged 25 to 44 who identify as Native Hawaiian or Other Pacific Islander, with an annual household income between $150,000 and $199,999, adjusted for 2023 inflation.",
+      "plain_language_name": "Income of Native Hawaiian and Other Pacific Islander Householders Aged 25-44",
+      "methodology_notes": "The data is collected through the Census Bureau's surveys, which adjust income figures for inflation to reflect 2023 dollars. It focuses on the age of the householder and their racial identification, specifically targeting the Native Hawaiian and Other Pacific Islander demographic.",
+      "limitations": "The data may not capture all sources of income or account for regional cost-of-living differences. It also relies on self-reported racial identification, which may not fully represent the diversity within the Native Hawaiian and Other Pacific Islander community.",
+      "related_concepts": "Household income distribution, racial and ethnic economic disparities, age-specific economic analysis, inflation-adjusted income metrics.",
+      "synthesis_method": "collaborative_consensus",
+      "confidence_score": 0.997733473777771
+    },
+    "B19037E_041E": {
+      "variable_id": "B19037E_041E",
+      "enrichment_method": "domain_specialist_ensemble",
+      "participating_specialists": [
+        "labor_economist",
+        "geographic_analyst"
+      ],
+      "agreement_score": 0.998516857624054,
+      "specialist_analyses": [
+        {
+          "plain_language_name": "Income Range for Middle-Aged Native Hawaiian and Other Pacific Islander Householders",
+          "statistical_concept": "This variable measures the estimated number of households led by individuals aged 45 to 64 who identify as Native Hawaiian or Other Pacific Islander, with an annual household income between $25,000 and $29,999, adjusted for 2023 inflation.",
+          "methodology_notes": "The data is collected through surveys and adjusted for inflation to reflect 2023 dollars, ensuring comparability over time. It focuses specifically on the age and ethnic background of the householder, which can influence income levels due to factors like work experience and potential discrimination.",
+          "interpretation_guidance": "This data should be interpreted as a snapshot of income distribution within a specific demographic group. It can provide insights into economic well-being and potential disparities faced by middle-aged Native Hawaiian and Other Pacific Islander householders. However, it should be contextualized within broader economic conditions and demographic trends.",
+          "limitations": "The data may not capture informal income sources or account for regional cost-of-living variations. Additionally, the sample size for this specific demographic might be small, leading to potential variability in estimates.",
+          "related_concepts": "Household income distribution, age demographics, ethnic and racial economic disparities, inflation adjustment, labor market participation",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a labor and employment perspective, this variable highlights the intersection of age, ethnicity, and income, which are crucial for understanding labor market dynamics and economic inequality. It underscores the importance of targeted policies to address income disparities and support economic opportunities for underrepresented groups.",
+          "specialist_name": "labor_economist",
+          "specialist_role": "Labor and Employment Economist",
+          "analysis_cost": 0.0035815
+        },
+        {
+          "plain_language_name": "Income Range for Middle-Aged Native Hawaiian and Other Pacific Islander Householders",
+          "statistical_concept": "This variable measures the estimated number of households led by individuals aged 45 to 64 who identify as Native Hawaiian or Other Pacific Islander, with an annual household income between $25,000 and $29,999, adjusted for inflation to 2023 dollars.",
+          "methodology_notes": "The data is collected through surveys and adjusted for inflation to reflect 2023 dollars, ensuring comparability over time. The focus is on the age of the householder and their self-identified race, specifically Native Hawaiian and Other Pacific Islander alone, which means individuals who identify solely with this racial category.",
+          "interpretation_guidance": "This data should be interpreted as an estimate of the economic status of a specific demographic group within a defined age range. It provides insight into the income distribution and economic conditions of middle-aged Native Hawaiian and Other Pacific Islander householders.",
+          "limitations": "The data is subject to sampling error and may not fully capture the diversity within the Native Hawaiian and Other Pacific Islander community. Additionally, the income range is relatively narrow, which may limit broader economic insights. The data does not account for multi-racial individuals or those who identify with more than one race.",
+          "related_concepts": "Household income distribution, age demographics, racial and ethnic economic disparities, inflation adjustment, Census data collection methodologies.",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a geographic and spatial analysis perspective, understanding the distribution of this demographic group across different regions can provide insights into regional economic disparities and the spatial concentration of Native Hawaiian and Other Pacific Islander communities. This can inform policy decisions and resource allocation to address economic challenges faced by this group.",
+          "specialist_name": "geographic_analyst",
+          "specialist_role": "Geographic and Spatial Analyst",
+          "analysis_cost": 0.0039715
+        }
+      ],
+      "timestamp": 1750978634.783324,
+      "statistical_concept": "This variable measures the estimated number of households led by individuals aged 45 to 64 who identify as Native Hawaiian or Other Pacific Islander, with an annual household income between $25,000 and $29,999, adjusted for 2023 inflation.",
+      "plain_language_name": "Income Range for Middle-Aged Native Hawaiian and Other Pacific Islander Householders",
+      "methodology_notes": "The data is collected through surveys and adjusted for inflation to reflect 2023 dollars, ensuring comparability over time. It focuses specifically on the age and ethnic background of the householder, which can influence income levels due to factors like work experience and potential discrimination.",
+      "limitations": "The data may not capture informal income sources or account for regional cost-of-living variations. Additionally, the sample size for this specific demographic might be small, leading to potential variability in estimates.",
+      "related_concepts": "Household income distribution, age demographics, ethnic and racial economic disparities, inflation adjustment, labor market participation",
+      "synthesis_method": "collaborative_consensus",
+      "confidence_score": 0.998516857624054
+    },
+    "B25026_012E": {
+      "variable_id": "B25026_012E",
+      "enrichment_method": "domain_specialist_ensemble",
+      "participating_specialists": [
+        "housing_economist",
+        "geographic_analyst"
+      ],
+      "agreement_score": 0.9766965508460999,
+      "specialist_analyses": [
+        {
+          "plain_language_name": "Renter Population Moved In Between 2010 and 2017",
+          "statistical_concept": "This variable measures the total number of people living in rental housing units who moved into their current residence between the years 2010 and 2017.",
+          "methodology_notes": "The data is collected through surveys that ask respondents about their housing tenure and the year they moved into their current rental unit. It is important to note that this data is self-reported and may be subject to recall bias.",
+          "interpretation_guidance": "This data can be used to understand mobility trends among renters, identify periods of high rental turnover, and assess the stability of rental housing markets during the specified timeframe. It can also provide insights into demographic shifts and housing demand.",
+          "limitations": "The data does not account for renters who moved out of their units after 2017 or those who moved in before 2010. It also does not capture the reasons for moving, which can be influenced by factors such as economic conditions, housing availability, and personal circumstances.",
+          "related_concepts": "This variable is related to concepts such as housing tenure, residential mobility, rental market dynamics, and demographic changes in housing.",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a real estate market perspective, understanding the mobility of renters during this period can help identify trends in rental demand and supply, inform policy decisions regarding housing affordability, and guide investment strategies in the rental market. It also highlights the importance of considering both temporal and spatial factors when analyzing housing markets.",
+          "specialist_name": "housing_economist",
+          "specialist_role": "Housing and Real Estate Economist",
+          "analysis_cost": 0.00359125
+        },
+        {
+          "plain_language_name": "Renter Population in Housing Units Moved In Between 2010 and 2017",
+          "statistical_concept": "This variable measures the estimated number of people living in rented housing units who moved into their current residence between the years 2010 and 2017.",
+          "methodology_notes": "The data is derived from survey responses collected by the Census Bureau, specifically focusing on the tenure of housing units (renter-occupied) and the year the householder moved into the unit. The data is typically collected through the American Community Survey (ACS), which uses a sample of households to estimate population characteristics.",
+          "interpretation_guidance": "When interpreting this data, consider the time frame (2010-2017) and the focus on renter-occupied units. This variable provides insights into mobility trends among renters and can be used to analyze housing stability, migration patterns, and demographic shifts within communities.",
+          "limitations": "The data is based on estimates and is subject to sampling error. It may not capture short-term moves or temporary housing situations accurately. Additionally, the data does not provide information on why individuals moved or the conditions of their previous housing.",
+          "related_concepts": "This variable is related to concepts such as housing tenure, migration patterns, demographic changes, and housing market dynamics. It can also be connected to studies on urban development and socioeconomic factors influencing mobility.",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a geographic and spatial analysis perspective, this variable can be used to map and analyze spatial patterns of renter mobility. It can help identify areas with high turnover rates, which may indicate economic or social factors influencing housing stability. Understanding these patterns can inform urban planning and policy-making, particularly in addressing housing affordability and accessibility.",
+          "specialist_name": "geographic_analyst",
+          "specialist_role": "Geographic and Spatial Analyst",
+          "analysis_cost": 0.00389025
+        }
+      ],
+      "timestamp": 1750978645.085898,
+      "statistical_concept": "This variable measures the total number of people living in rental housing units who moved into their current residence between the years 2010 and 2017.",
+      "plain_language_name": "Renter Population Moved In Between 2010 and 2017",
+      "methodology_notes": "The data is collected through surveys that ask respondents about their housing tenure and the year they moved into their current rental unit. It is important to note that this data is self-reported and may be subject to recall bias.",
+      "limitations": "The data does not account for renters who moved out of their units after 2017 or those who moved in before 2010. It also does not capture the reasons for moving, which can be influenced by factors such as economic conditions, housing availability, and personal circumstances.",
+      "related_concepts": "This variable is related to concepts such as housing tenure, residential mobility, rental market dynamics, and demographic changes in housing.",
+      "synthesis_method": "collaborative_consensus",
+      "confidence_score": 0.9766965508460999
+    },
+    "B25121_062E": {
+      "variable_id": "B25121_062E",
+      "enrichment_method": "domain_specialist_ensemble",
+      "participating_specialists": [
+        "housing_economist",
+        "geographic_analyst"
+      ],
+      "agreement_score": 0.9243123531341553,
+      "specialist_analyses": [
+        {
+          "plain_language_name": "Household Income Range: $50,000 to $74,999 in 2023 Dollars",
+          "statistical_concept": "This variable measures the number of households with an annual income between $50,000 and $74,999, adjusted for inflation to reflect 2023 dollar values.",
+          "methodology_notes": "The income data is adjusted for inflation to ensure comparability over time, using the Consumer Price Index (CPI) as a deflator. This adjustment allows for a more accurate reflection of purchasing power and economic conditions in 2023.",
+          "interpretation_guidance": "This data can be used to understand the distribution of household incomes within a specific range, providing insights into the economic status of households. It is important to consider this data in the context of local cost of living and housing market conditions.",
+          "limitations": "The data does not account for regional variations in cost of living, which can significantly impact the real value of income. Additionally, it does not provide information on income sources or household size, which are crucial for understanding economic well-being.",
+          "related_concepts": "This variable is related to concepts such as median household income, poverty thresholds, and income inequality measures. It also connects to housing affordability and cost-burdened households.",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a real estate and housing market perspective, understanding the distribution of household incomes in this range is critical for assessing housing demand and affordability. Households within this income bracket may face challenges in accessing affordable housing, particularly in high-cost areas. This data can inform policy decisions and market strategies aimed at improving housing accessibility and affordability.",
+          "specialist_name": "housing_economist",
+          "specialist_role": "Housing and Real Estate Economist",
+          "analysis_cost": 0.0036335000000000004
+        },
+        {
+          "plain_language_name": "Households with Income Between $50,000 and $74,999",
+          "statistical_concept": "This variable measures the estimated number of households whose total income over the past 12 months falls within the range of $50,000 to $74,999, adjusted for inflation to 2023 dollars.",
+          "methodology_notes": "The data is collected through surveys and adjusted for inflation to reflect 2023 dollar values, ensuring comparability over time. It is important to note that household income includes all sources of income for all members of the household.",
+          "interpretation_guidance": "This data can be used to understand the economic status of households within a specific income bracket, providing insights into the middle-income segment of the population. It is useful for analyzing economic trends, planning social services, and assessing economic well-being.",
+          "limitations": "The data is subject to sampling and non-sampling errors, and inflation adjustments may not perfectly reflect changes in purchasing power. Additionally, income ranges do not account for household size or cost of living variations across different geographic areas.",
+          "related_concepts": "This variable is related to concepts such as median household income, poverty thresholds, and income inequality measures. It also connects to geographic and demographic analyses of income distribution.",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a geographic and spatial analysis perspective, understanding the distribution of households within this income range can reveal spatial patterns of economic diversity and highlight areas of economic growth or decline. It is crucial to consider geographic hierarchies, such as states, counties, and metropolitan areas, to contextualize the data within broader economic and social frameworks.",
+          "specialist_name": "geographic_analyst",
+          "specialist_role": "Geographic and Spatial Analyst",
+          "analysis_cost": 0.0036335
+        }
+      ],
+      "timestamp": 1750978666.9145641,
+      "statistical_concept": "This variable measures the number of households with an annual income between $50,000 and $74,999, adjusted for inflation to reflect 2023 dollar values.",
+      "plain_language_name": "Household Income Range: $50,000 to $74,999 in 2023 Dollars",
+      "methodology_notes": "The income data is adjusted for inflation to ensure comparability over time, using the Consumer Price Index (CPI) as a deflator. This adjustment allows for a more accurate reflection of purchasing power and economic conditions in 2023.",
+      "limitations": "The data does not account for regional variations in cost of living, which can significantly impact the real value of income. Additionally, it does not provide information on income sources or household size, which are crucial for understanding economic well-being.",
+      "related_concepts": "This variable is related to concepts such as median household income, poverty thresholds, and income inequality measures. It also connects to housing affordability and cost-burdened households.",
+      "synthesis_method": "collaborative_consensus",
+      "confidence_score": 0.9243123531341553
+    },
+    "B25140E_012E": {
+      "variable_id": "B25140E_012E",
+      "enrichment_method": "domain_specialist_ensemble",
+      "participating_specialists": [
+        "housing_economist",
+        "geographic_analyst"
+      ],
+      "agreement_score": 0.9773550629615784,
+      "specialist_analyses": [
+        {
+          "plain_language_name": "Percentage of Native Hawaiian and Other Pacific Islander Renters Spending Over 50% of Income on Housing",
+          "statistical_concept": "This variable measures the proportion of households, specifically those headed by individuals identifying as Native Hawaiian and Other Pacific Islander, that spend more than half of their household income on rent and related housing costs.",
+          "methodology_notes": "The data is derived from survey responses collected over the past 12 months, focusing on self-reported income and housing costs. It is important to note that this variable specifically targets households where the householder identifies as Native Hawaiian and Other Pacific Islander alone, excluding mixed-race households.",
+          "interpretation_guidance": "A higher percentage indicates a greater housing cost burden among this demographic, suggesting potential affordability issues. This can be used to assess economic stress and housing insecurity within the Native Hawaiian and Other Pacific Islander communities.",
+          "limitations": "The data may not capture informal housing arrangements or under-the-table income, which can lead to underreporting of actual income or housing costs. Additionally, it does not account for housing quality or location, which can significantly impact the perceived burden of housing costs.",
+          "related_concepts": "This variable is related to broader concepts of housing affordability, cost-burdened households, and income-to-rent ratios. It also connects to demographic studies focusing on minority groups and their economic challenges.",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a real estate market perspective, this variable highlights the vulnerability of specific demographic groups to housing market fluctuations. It underscores the need for targeted housing policies and support systems to address affordability challenges faced by Native Hawaiian and Other Pacific Islander renters. Understanding these dynamics is crucial for developing inclusive housing strategies that ensure equitable access to affordable housing.",
+          "specialist_name": "housing_economist",
+          "specialist_role": "Housing and Real Estate Economist",
+          "analysis_cost": 0.004004
+        },
+        {
+          "plain_language_name": "Percentage of Native Hawaiian and Other Pacific Islander Households Spending Over 50% of Income on Rent",
+          "statistical_concept": "This variable measures the proportion of households, specifically those headed by individuals identifying as Native Hawaiian or Other Pacific Islander alone, that spend more than half of their household income on rent. It is an indicator of housing cost burden within this demographic group.",
+          "methodology_notes": "The data is collected through surveys where respondents report their household income and housing costs over the past 12 months. The focus is on households where the head identifies solely as Native Hawaiian or Other Pacific Islander. The variable is part of a broader analysis of housing affordability and cost burden.",
+          "interpretation_guidance": "A higher percentage indicates a greater housing cost burden among Native Hawaiian and Other Pacific Islander households, suggesting potential economic stress or affordability issues. This data can be used to assess housing policy effectiveness and identify communities in need of housing assistance.",
+          "limitations": "The data may not capture households with mixed racial identities or those who identify with multiple races. Additionally, self-reported income and housing costs can introduce inaccuracies. The variable does not account for other forms of housing assistance or subsidies that might alleviate cost burdens.",
+          "related_concepts": "Housing affordability, cost burden, income-to-rent ratio, racial and ethnic disparities in housing, economic stress indicators.",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a geographic and spatial analysis perspective, understanding the spatial distribution of housing cost burdens among Native Hawaiian and Other Pacific Islander households can reveal patterns of economic inequality and inform targeted interventions. Spatial boundaries such as census tracts or neighborhoods can be used to identify areas with high concentrations of cost-burdened households, guiding resource allocation and policy development.",
+          "specialist_name": "geographic_analyst",
+          "specialist_role": "Geographic and Spatial Analyst",
+          "analysis_cost": 0.004082
+        }
+      ],
+      "timestamp": 1750978676.703139,
+      "statistical_concept": "This variable measures the proportion of households, specifically those headed by individuals identifying as Native Hawaiian and Other Pacific Islander, that spend more than half of their household income on rent and related housing costs.",
+      "plain_language_name": "Percentage of Native Hawaiian and Other Pacific Islander Renters Spending Over 50% of Income on Housing",
+      "methodology_notes": "The data is derived from survey responses collected over the past 12 months, focusing on self-reported income and housing costs. It is important to note that this variable specifically targets households where the householder identifies as Native Hawaiian and Other Pacific Islander alone, excluding mixed-race households.",
+      "limitations": "The data may not capture informal housing arrangements or under-the-table income, which can lead to underreporting of actual income or housing costs. Additionally, it does not account for housing quality or location, which can significantly impact the perceived burden of housing costs.",
+      "related_concepts": "This variable is related to broader concepts of housing affordability, cost-burdened households, and income-to-rent ratios. It also connects to demographic studies focusing on minority groups and their economic challenges.",
+      "synthesis_method": "collaborative_consensus",
+      "confidence_score": 0.9773550629615784
+    },
+    "B25129_051E": {
+      "variable_id": "B25129_051E",
+      "enrichment_method": "domain_specialist_ensemble",
+      "participating_specialists": [
+        "housing_economist",
+        "geographic_analyst"
+      ],
+      "agreement_score": 0.9802664518356323,
+      "specialist_analyses": [
+        {
+          "plain_language_name": "Renter Households Moving into Large Buildings (2010-2017)",
+          "statistical_concept": "This variable measures the number of renter-occupied housing units in buildings with 50 or more units, where the current householder moved in between 2010 and 2017.",
+          "methodology_notes": "The data is collected through surveys and reflects self-reported information from householders. It is important to note that the data is subject to sampling and non-sampling errors, and the definition of 'moved in' is based on the householder's response.",
+          "interpretation_guidance": "This data can be used to understand trends in urbanization and the demand for high-density housing. It reflects the mobility of renters and can indicate shifts in housing preferences or economic conditions that influence renting in large apartment complexes.",
+          "limitations": "The data does not account for changes in household composition or reasons for moving. It also does not capture the quality or affordability of the housing units. Additionally, the data is limited to the specified time frame and may not reflect current trends.",
+          "related_concepts": "Housing mobility, urbanization, rental market trends, housing density, demographic shifts",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a real estate market perspective, this variable is crucial for understanding the dynamics of rental demand in urban areas. It highlights the popularity of large apartment complexes, which can be influenced by factors such as economic conditions, employment opportunities, and lifestyle preferences. This data can inform developers and policymakers about the need for high-density housing solutions and the potential for investment in urban infrastructure.",
+          "specialist_name": "housing_economist",
+          "specialist_role": "Housing and Real Estate Economist",
+          "analysis_cost": 0.00353275
+        },
+        {
+          "plain_language_name": "Renter Households Moving Between 2010 and 2017 in Large Buildings",
+          "statistical_concept": "This variable measures the estimated number of renter-occupied housing units where the householder moved in between 2010 and 2017, specifically in buildings with 50 or more units.",
+          "methodology_notes": "The data is collected through surveys where respondents report the year they moved into their current residence. The focus is on renter-occupied units, and the structure size is categorized as having 50 or more units. This data is typically gathered through the American Community Survey (ACS) and is subject to sampling variability.",
+          "interpretation_guidance": "This data can be used to understand mobility trends among renters in large apartment complexes over a specific period. It is useful for analyzing urban housing dynamics, particularly in areas with significant multi-family housing developments.",
+          "limitations": "The data may not capture all moves accurately due to recall bias or non-response. It also does not account for moves within the same building or complex. Additionally, the data is an estimate and subject to sampling errors.",
+          "related_concepts": "This variable is related to housing tenure, residential mobility, urbanization trends, and housing market dynamics. It also connects to broader demographic studies on population movement and housing supply.",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a geographic and spatial analysis perspective, this variable is crucial for understanding the distribution and density of renter populations in urban areas. It can inform urban planning and policy decisions, particularly in cities with high-rise residential buildings. The data can also be used to assess the demand for rental housing and the potential need for infrastructure and services in densely populated areas.",
+          "specialist_name": "geographic_analyst",
+          "specialist_role": "Geographic and Spatial Analyst",
+          "analysis_cost": 0.00383175
+        }
+      ],
+      "timestamp": 1750978685.774026,
+      "statistical_concept": "This variable measures the number of renter-occupied housing units in buildings with 50 or more units, where the current householder moved in between 2010 and 2017.",
+      "plain_language_name": "Renter Households Moving into Large Buildings (2010-2017)",
+      "methodology_notes": "The data is collected through surveys and reflects self-reported information from householders. It is important to note that the data is subject to sampling and non-sampling errors, and the definition of 'moved in' is based on the householder's response.",
+      "limitations": "The data does not account for changes in household composition or reasons for moving. It also does not capture the quality or affordability of the housing units. Additionally, the data is limited to the specified time frame and may not reflect current trends.",
+      "related_concepts": "Housing mobility, urbanization, rental market trends, housing density, demographic shifts",
+      "synthesis_method": "collaborative_consensus",
+      "confidence_score": 0.9802664518356323
+    },
+    "B25106_043E": {
+      "variable_id": "B25106_043E",
+      "enrichment_method": "domain_specialist_ensemble",
+      "participating_specialists": [
+        "housing_economist",
+        "geographic_analyst"
+      ],
+      "agreement_score": 0.9931555390357971,
+      "specialist_analyses": [
+        {
+          "plain_language_name": "Renter Households Earning $75,000+ Spending 20-29% on Housing",
+          "statistical_concept": "This variable measures the number of renter-occupied housing units where the household income is $75,000 or more, and the housing costs account for 20 to 29 percent of their income.",
+          "methodology_notes": "The data is derived from survey responses regarding household income and housing costs, typically collected through the American Community Survey (ACS). It involves calculating the percentage of income spent on housing costs, which includes rent and utilities.",
+          "interpretation_guidance": "This data point helps identify the proportion of higher-income renters who are spending a moderate share of their income on housing. It can indicate housing affordability and financial stability among this income group.",
+          "limitations": "The data may not capture all nuances of housing affordability, such as regional cost variations or the quality of housing. It also relies on self-reported income and cost data, which can be subject to inaccuracies.",
+          "related_concepts": "Housing affordability, cost burden, income distribution, rental market dynamics, housing quality",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a real estate market perspective, this variable is crucial for understanding the rental market's affordability for higher-income households. It can signal potential demand for mid-range rental properties and inform policy decisions on housing supply and affordability initiatives.",
+          "specialist_name": "housing_economist",
+          "specialist_role": "Housing and Real Estate Economist",
+          "analysis_cost": 0.00306475
+        },
+        {
+          "plain_language_name": "Renter Households Earning $75,000+ Spending 20-29% on Housing",
+          "statistical_concept": "This variable measures the estimated number of renter-occupied housing units where the household income is $75,000 or more, and the housing costs account for 20 to 29 percent of the household income.",
+          "methodology_notes": "The data is collected through surveys that ask respondents about their income and housing costs over the past 12 months. The percentage is calculated by dividing the total housing costs by the total household income and multiplying by 100. The spatial boundaries for this data are typically defined by census tracts, counties, or other geographic units.",
+          "interpretation_guidance": "This data helps identify the proportion of higher-income renters who spend a moderate portion of their income on housing. It can be used to assess housing affordability and economic pressure on renters within specific geographic areas.",
+          "limitations": "The data may not capture all nuances of housing affordability, such as variations in local cost of living or non-monetary housing benefits. Additionally, self-reported income and housing costs can introduce inaccuracies.",
+          "related_concepts": "Housing Affordability, Cost Burdened Households, Income Distribution, Geographic Disparities in Housing Costs",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a geographic and spatial analysis perspective, this variable is crucial for understanding the spatial distribution of housing affordability challenges among higher-income renters. It can highlight areas where even relatively affluent renters face significant housing costs, which may indicate broader economic or policy issues affecting housing markets.",
+          "specialist_name": "geographic_analyst",
+          "specialist_role": "Geographic and Spatial Analyst",
+          "analysis_cost": 0.00344175
+        }
+      ],
+      "timestamp": 1750978694.267352,
+      "statistical_concept": "This variable measures the number of renter-occupied housing units where the household income is $75,000 or more, and the housing costs account for 20 to 29 percent of their income.",
+      "plain_language_name": "Renter Households Earning $75,000+ Spending 20-29% on Housing",
+      "methodology_notes": "The data is derived from survey responses regarding household income and housing costs, typically collected through the American Community Survey (ACS). It involves calculating the percentage of income spent on housing costs, which includes rent and utilities.",
+      "limitations": "The data may not capture all nuances of housing affordability, such as regional cost variations or the quality of housing. It also relies on self-reported income and cost data, which can be subject to inaccuracies.",
+      "related_concepts": "Housing affordability, cost burden, income distribution, rental market dynamics, housing quality",
+      "synthesis_method": "collaborative_consensus",
+      "confidence_score": 0.9931555390357971
+    },
+    "B25033_003E": {
+      "variable_id": "B25033_003E",
+      "enrichment_method": "domain_specialist_ensemble",
+      "participating_specialists": [
+        "housing_economist",
+        "geographic_analyst"
+      ],
+      "agreement_score": 0.9804748296737671,
+      "specialist_analyses": [
+        {
+          "plain_language_name": "Number of Owner-Occupied Single-Family Homes",
+          "statistical_concept": "This variable measures the estimated total number of housing units that are owner-occupied and are either detached or attached single-family homes.",
+          "methodology_notes": "The data is typically collected through surveys and census counts, which classify housing units based on their structure type and occupancy status. Owner-occupied units are those where the owner lives in the home as their primary residence.",
+          "interpretation_guidance": "This data can be used to understand the prevalence of owner-occupied single-family homes within a given area. It is important to consider this in the context of overall housing stock and tenure patterns to assess housing market dynamics.",
+          "limitations": "The data may not capture recent changes in housing tenure or structure type due to time lags in data collection. Additionally, it may not account for informal housing arrangements or misclassifications in structure type.",
+          "related_concepts": "This variable is related to concepts such as housing tenure (owner vs. renter), housing unit types (single-family vs. multi-family), and housing market trends.",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a real estate market perspective, the prevalence of owner-occupied single-family homes is a key indicator of housing stability and investment patterns. It reflects consumer preferences for homeownership and can influence local housing policies and development strategies. Understanding this variable helps in assessing the demand for single-family homes and the potential for market growth or saturation.",
+          "specialist_name": "housing_economist",
+          "specialist_role": "Housing and Real Estate Economist",
+          "analysis_cost": 0.00333125
+        },
+        {
+          "plain_language_name": "Number of Owner-Occupied Single-Family Homes",
+          "statistical_concept": "This variable measures the estimated number of housing units that are both owner-occupied and classified as single-family homes, which can be either detached or attached.",
+          "methodology_notes": "The data is collected through surveys and census counts, focusing on housing units that are occupied by the owner. The classification into 'detached' or 'attached' refers to whether the housing unit shares walls with other units. The data is typically aggregated at various geographic levels, such as census tracts, counties, or states.",
+          "interpretation_guidance": "When interpreting this data, consider the geographic area of interest and the time period of the data collection. This variable provides insights into housing trends, such as the prevalence of single-family homes in a given area, which can be indicative of urban versus suburban development patterns.",
+          "limitations": "The data may not capture recent changes in housing status due to the time lag in data collection and reporting. Additionally, the definition of 'attached' versus 'detached' can vary slightly depending on local zoning laws and housing standards.",
+          "related_concepts": "This variable is related to concepts such as housing tenure, residential density, urbanization, and housing market trends. It also connects to demographic variables like household size and income levels.",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a geographic and spatial analysis perspective, this variable is crucial for understanding the spatial distribution of housing types and ownership patterns. It can inform urban planning and policy decisions, particularly in assessing the need for infrastructure and services in predominantly owner-occupied areas. Additionally, it can highlight areas of potential growth or decline in the housing market.",
+          "specialist_name": "geographic_analyst",
+          "specialist_role": "Geographic and Spatial Analyst",
+          "analysis_cost": 0.00381225
+        }
+      ],
+      "timestamp": 1750978706.051347,
+      "statistical_concept": "This variable measures the estimated total number of housing units that are owner-occupied and are either detached or attached single-family homes.",
+      "plain_language_name": "Number of Owner-Occupied Single-Family Homes",
+      "methodology_notes": "The data is typically collected through surveys and census counts, which classify housing units based on their structure type and occupancy status. Owner-occupied units are those where the owner lives in the home as their primary residence.",
+      "limitations": "The data may not capture recent changes in housing tenure or structure type due to time lags in data collection. Additionally, it may not account for informal housing arrangements or misclassifications in structure type.",
+      "related_concepts": "This variable is related to concepts such as housing tenure (owner vs. renter), housing unit types (single-family vs. multi-family), and housing market trends.",
+      "synthesis_method": "collaborative_consensus",
+      "confidence_score": 0.9804748296737671
+    },
+    "B25042_005E": {
+      "variable_id": "B25042_005E",
+      "enrichment_method": "domain_specialist_ensemble",
+      "participating_specialists": [
+        "housing_economist",
+        "geographic_analyst"
+      ],
+      "agreement_score": 1.000000238418579,
+      "specialist_analyses": [
+        {
+          "plain_language_name": "Number of Owner-Occupied Homes with 2 Bedrooms",
+          "statistical_concept": "This variable measures the estimated number of housing units that are owner-occupied and have exactly two bedrooms.",
+          "methodology_notes": "The data is typically collected through surveys or censuses, where respondents indicate the number of bedrooms in their owner-occupied homes. It is important to note that the definition of 'bedroom' can vary slightly depending on local regulations or survey guidelines.",
+          "interpretation_guidance": "This data can be used to understand the distribution of housing stock by size in a given area, particularly focusing on owner-occupied units. It can help identify trends in housing preferences and the availability of mid-sized homes in the real estate market.",
+          "limitations": "The data may not capture informal housing arrangements or misclassifications of room types. Additionally, it does not provide information on the quality or condition of the bedrooms, nor does it account for changes in occupancy status over time.",
+          "related_concepts": "This variable is related to broader concepts such as housing supply, housing demand, household size, and real estate market trends. It also connects to variables like rental occupancy, housing affordability, and vacancy rates.",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a real estate market perspective, the prevalence of two-bedroom owner-occupied homes can indicate a demand for smaller family units or downsizing trends among older homeowners. It may also reflect affordability constraints, where buyers opt for smaller homes due to budget limitations. Understanding this variable can help developers and policymakers tailor housing supply to meet the needs of the community.",
+          "specialist_name": "housing_economist",
+          "specialist_role": "Housing and Real Estate Economist",
+          "analysis_cost": 0.0035945
+        },
+        {
+          "plain_language_name": "Number of Owner-Occupied Homes with 2 Bedrooms",
+          "statistical_concept": "This variable measures the estimated number of housing units that are owner-occupied and have exactly two bedrooms.",
+          "methodology_notes": "The data is typically collected through surveys such as the American Community Survey (ACS), which samples a portion of the population to estimate housing characteristics. The estimates are subject to sampling variability and are often reported with margins of error.",
+          "interpretation_guidance": "This data point provides insight into the housing market and living conditions, specifically focusing on the prevalence of owner-occupied homes with two bedrooms. It can be used to understand housing trends, demand for certain types of housing, and demographic characteristics of homeowners.",
+          "limitations": "The estimates may not fully capture rapid changes in housing markets or account for informal housing arrangements. Additionally, the data is subject to sampling errors and may not be precise for small geographic areas or subpopulations.",
+          "related_concepts": "This variable is related to other housing characteristics such as 'Renter Occupied Units by Bedrooms', 'Total Housing Units', and 'Homeownership Rates'. It also connects to demographic variables like household size and income.",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a geographic and spatial analysis perspective, understanding the distribution of owner-occupied homes with two bedrooms can inform urban planning and policy decisions. It highlights areas with potential housing shortages or surpluses and can guide infrastructure development. Spatial patterns in this data can also reveal socio-economic disparities and influence zoning regulations.",
+          "specialist_name": "geographic_analyst",
+          "specialist_role": "Geographic and Spatial Analyst",
+          "analysis_cost": 0.0034255000000000006
+        }
+      ],
+      "timestamp": 1750978714.679831,
+      "statistical_concept": "This variable measures the estimated number of housing units that are owner-occupied and have exactly two bedrooms.",
+      "plain_language_name": "Number of Owner-Occupied Homes with 2 Bedrooms",
+      "methodology_notes": "The data is typically collected through surveys or censuses, where respondents indicate the number of bedrooms in their owner-occupied homes. It is important to note that the definition of 'bedroom' can vary slightly depending on local regulations or survey guidelines.",
+      "limitations": "The data may not capture informal housing arrangements or misclassifications of room types. Additionally, it does not provide information on the quality or condition of the bedrooms, nor does it account for changes in occupancy status over time.",
+      "related_concepts": "This variable is related to broader concepts such as housing supply, housing demand, household size, and real estate market trends. It also connects to variables like rental occupancy, housing affordability, and vacancy rates.",
+      "synthesis_method": "collaborative_consensus",
+      "confidence_score": 1.000000238418579
+    },
+    "B25117_004E": {
+      "variable_id": "B25117_004E",
+      "enrichment_method": "domain_specialist_ensemble",
+      "participating_specialists": [
+        "housing_economist",
+        "geographic_analyst"
+      ],
+      "agreement_score": 0.9349016547203064,
+      "specialist_analyses": [
+        {
+          "plain_language_name": "Owner-Occupied Homes Using Bottled, Tank, or LP Gas for Heating",
+          "statistical_concept": "This variable measures the estimated number of owner-occupied housing units that use bottled, tank, or liquefied petroleum (LP) gas as their primary source of heating fuel.",
+          "methodology_notes": "Data is typically collected through surveys where respondents indicate their primary heating fuel type. The focus is on owner-occupied units, which are homes where the owner lives in the property as their primary residence.",
+          "interpretation_guidance": "This data can be used to understand the prevalence of alternative heating fuels in owner-occupied homes, which may reflect regional availability, cost considerations, or environmental preferences. It can also indicate infrastructure development levels in different areas.",
+          "limitations": "The data may not capture secondary heating sources or changes in heating fuel usage over time. It also does not account for the efficiency or cost-effectiveness of the heating systems used.",
+          "related_concepts": "This variable is related to concepts such as energy consumption, housing quality, regional infrastructure, and environmental impact assessments.",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a real estate market perspective, the choice of heating fuel can influence property values and appeal, particularly in regions where certain fuels are more cost-effective or environmentally preferred. Understanding these patterns can help in assessing market trends and potential shifts in housing demand.",
+          "specialist_name": "housing_economist",
+          "specialist_role": "Housing and Real Estate Economist",
+          "analysis_cost": 0.00311675
+        },
+        {
+          "plain_language_name": "Owner-Occupied Homes Using Bottled, Tank, or LP Gas for Heating",
+          "statistical_concept": "This variable measures the estimated number of owner-occupied housing units that use bottled, tank, or LP gas as their primary source of heating.",
+          "methodology_notes": "The data is collected through surveys where respondents indicate the primary heating fuel used in their homes. The focus is on owner-occupied units, which are homes where the owner lives in the unit. The data is typically aggregated at various geographic levels, such as census tracts, counties, or states.",
+          "interpretation_guidance": "When interpreting this data, consider the geographic area and the prevalence of different heating options available. This variable can indicate regional preferences or availability of certain heating fuels. It is also useful for understanding energy consumption patterns and planning for energy infrastructure.",
+          "limitations": "The data may not capture secondary heating sources or changes in heating methods over time. Additionally, survey responses can be subject to inaccuracies or non-response bias. Geographic variations in the availability of bottled, tank, or LP gas can also affect the data.",
+          "related_concepts": "This variable is related to other concepts such as 'Tenure by House Heating Fuel,' 'Energy Consumption,' and 'Residential Energy Use.' It can also be connected to broader studies on housing characteristics and energy efficiency.",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a geographic and spatial analysis perspective, this variable can be crucial for understanding regional energy needs and planning for sustainable energy solutions. It can also highlight areas where alternative energy sources might be needed or where infrastructure improvements could enhance energy efficiency.",
+          "specialist_name": "geographic_analyst",
+          "specialist_role": "Geographic and Spatial Analyst",
+          "analysis_cost": 0.00367575
+        }
+      ],
+      "timestamp": 1750978722.755672,
+      "statistical_concept": "This variable measures the estimated number of owner-occupied housing units that use bottled, tank, or liquefied petroleum (LP) gas as their primary source of heating fuel.",
+      "plain_language_name": "Owner-Occupied Homes Using Bottled, Tank, or LP Gas for Heating",
+      "methodology_notes": "Data is typically collected through surveys where respondents indicate their primary heating fuel type. The focus is on owner-occupied units, which are homes where the owner lives in the property as their primary residence.",
+      "limitations": "The data may not capture secondary heating sources or changes in heating fuel usage over time. It also does not account for the efficiency or cost-effectiveness of the heating systems used.",
+      "related_concepts": "This variable is related to concepts such as energy consumption, housing quality, regional infrastructure, and environmental impact assessments.",
+      "synthesis_method": "collaborative_consensus",
+      "confidence_score": 0.9349016547203064
+    },
+    "B25123_010E": {
+      "variable_id": "B25123_010E",
+      "enrichment_method": "domain_specialist_ensemble",
+      "participating_specialists": [
+        "housing_economist",
+        "geographic_analyst"
+      ],
+      "agreement_score": 0.9334297776222229,
+      "specialist_analyses": [
+        {
+          "plain_language_name": "Renter-Occupied Units with Two Housing Conditions",
+          "statistical_concept": "This variable measures the number of renter-occupied housing units that are experiencing two specific physical or financial conditions, which may indicate issues related to housing quality or affordability.",
+          "methodology_notes": "The data is likely collected through surveys or administrative records, identifying housing units that meet two predefined conditions. These conditions could relate to physical aspects like structural integrity or financial aspects such as rent burden.",
+          "interpretation_guidance": "When interpreting this data, consider that it highlights the prevalence of housing units facing multiple challenges. This can be an indicator of housing stress or substandard living conditions among renters. It is important to understand what the 'two selected conditions' specifically refer to in order to draw accurate conclusions.",
+          "limitations": "The variable does not specify what the two conditions are, which limits the ability to fully understand the nature of the issues. Additionally, it does not provide information on the severity of these conditions or the demographic characteristics of the affected renters.",
+          "related_concepts": "This variable is related to concepts such as housing affordability, housing quality, rent burden, and housing tenure. It also connects to broader issues of socioeconomic status and urban planning.",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a real estate market perspective, this variable can be crucial for identifying areas where renters are most vulnerable to housing instability. It can inform policy decisions aimed at improving housing quality and affordability. Understanding the specific conditions can help target interventions more effectively, whether through policy changes, financial assistance, or housing development initiatives.",
+          "specialist_name": "housing_economist",
+          "specialist_role": "Housing and Real Estate Economist",
+          "analysis_cost": 0.003692
+        },
+        {
+          "plain_language_name": "Renter-Occupied Homes with Two Issues",
+          "statistical_concept": "This variable measures the number of renter-occupied housing units that have two specific physical or financial conditions that are considered suboptimal or problematic.",
+          "methodology_notes": "The data is collected through surveys where respondents identify issues related to their housing conditions. These conditions could include structural problems, inadequate facilities, or financial burdens like high rent relative to income.",
+          "interpretation_guidance": "When interpreting this data, consider the types of conditions that are most prevalent and how they might impact the quality of life for renters. This variable can indicate areas where housing assistance or policy intervention may be needed.",
+          "limitations": "The data may not capture all possible conditions affecting renters, and self-reported data can be subject to bias. Additionally, the definition of 'conditions' may vary, affecting comparability across different regions or time periods.",
+          "related_concepts": "This variable is related to concepts such as housing quality, affordability, and housing insecurity. It also connects to broader socioeconomic indicators like income levels and poverty rates.",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a geographic and spatial analysis perspective, understanding the distribution of renter-occupied homes with issues can help identify spatial patterns of housing inequality. This can inform urban planning and policy decisions aimed at improving housing conditions in specific areas.",
+          "specialist_name": "geographic_analyst",
+          "specialist_role": "Geographic and Spatial Analyst",
+          "analysis_cost": 0.003081
+        }
+      ],
+      "timestamp": 1750978730.0070012,
+      "statistical_concept": "This variable measures the number of renter-occupied housing units that are experiencing two specific physical or financial conditions, which may indicate issues related to housing quality or affordability.",
+      "plain_language_name": "Renter-Occupied Units with Two Housing Conditions",
+      "methodology_notes": "The data is likely collected through surveys or administrative records, identifying housing units that meet two predefined conditions. These conditions could relate to physical aspects like structural integrity or financial aspects such as rent burden.",
+      "limitations": "The variable does not specify what the two conditions are, which limits the ability to fully understand the nature of the issues. Additionally, it does not provide information on the severity of these conditions or the demographic characteristics of the affected renters.",
+      "related_concepts": "This variable is related to concepts such as housing affordability, housing quality, rent burden, and housing tenure. It also connects to broader issues of socioeconomic status and urban planning.",
+      "synthesis_method": "collaborative_consensus",
+      "confidence_score": 0.9334297776222229
+    },
+    "B25102_003E": {
+      "variable_id": "B25102_003E",
+      "enrichment_method": "domain_specialist_ensemble",
+      "participating_specialists": [
+        "housing_economist",
+        "geographic_analyst"
+      ],
+      "agreement_score": 0.9785752296447754,
+      "specialist_analyses": [
+        {
+          "plain_language_name": "Homeowners with Mortgages Paying Low Real Estate Taxes",
+          "statistical_concept": "This variable measures the number of homeowners who have a mortgage and pay less than $800 annually in real estate taxes.",
+          "methodology_notes": "The data is likely collected through surveys or administrative records, capturing the subset of homeowners with mortgages who report their real estate tax payments. It is important to ensure that the data accurately reflects the annual tax payments and that respondents understand the question to avoid misreporting.",
+          "interpretation_guidance": "This data can be used to understand the affordability of real estate taxes for homeowners with mortgages. A higher number in this category may indicate areas with lower property values or effective tax rates. It is crucial to consider regional variations in property tax laws and housing markets when interpreting this data.",
+          "limitations": "This variable does not account for homeowners without mortgages or those who pay more than $800 in real estate taxes. It also does not provide information on the reasons for low tax payments, such as tax exemptions or abatements. Additionally, it may not reflect recent changes in tax rates or property values.",
+          "related_concepts": "Property tax rates, housing affordability, mortgage status, regional housing market trends, tax exemptions and abatements.",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a real estate economist's perspective, this variable is crucial for assessing the burden of property taxes on homeowners with mortgages. It can provide insights into the economic conditions of specific regions, especially in areas where property taxes are a significant component of housing costs. Understanding this variable can help policymakers design targeted tax relief programs and assess the impact of property taxes on housing affordability.",
+          "specialist_name": "housing_economist",
+          "specialist_role": "Housing and Real Estate Economist",
+          "analysis_cost": 0.003926
+        },
+        {
+          "plain_language_name": "Homeowners with Mortgages Paying Less Than $800 in Real Estate Taxes",
+          "statistical_concept": "This variable measures the estimated number of homeowners who have a mortgage and pay less than $800 annually in real estate taxes.",
+          "methodology_notes": "The data is collected through surveys where respondents report their mortgage status and the amount they pay in real estate taxes. The estimates are derived from sample data and are subject to sampling variability.",
+          "interpretation_guidance": "This data can be used to understand the affordability of real estate taxes for homeowners with mortgages. It is important to consider the geographic area when interpreting this data, as real estate tax rates can vary significantly by location.",
+          "limitations": "The data may not capture all homeowners accurately due to non-response or misreporting. Additionally, the threshold of $800 may not reflect significant differences in tax burdens across different regions.",
+          "related_concepts": "This variable is related to concepts such as property tax rates, housing affordability, and mortgage burden. It can also be connected to broader economic indicators like income levels and cost of living.",
+          "confidence_score": 0.85,
+          "specialist_perspective": "From a geographic and spatial analysis perspective, this variable can be used to identify areas with relatively low real estate tax burdens for homeowners with mortgages. It can also highlight regional disparities in tax policies and their impact on housing affordability. Analysts should consider the spatial distribution of this variable in conjunction with other socioeconomic factors to gain a comprehensive understanding of housing and tax dynamics.",
+          "specialist_name": "geographic_analyst",
+          "specialist_role": "Geographic and Spatial Analyst",
+          "analysis_cost": 0.003549
+        }
+      ],
+      "timestamp": 1750978736.264058,
+      "statistical_concept": "This variable measures the number of homeowners who have a mortgage and pay less than $800 annually in real estate taxes.",
+      "plain_language_name": "Homeowners with Mortgages Paying Low Real Estate Taxes",
+      "methodology_notes": "The data is likely collected through surveys or administrative records, capturing the subset of homeowners with mortgages who report their real estate tax payments. It is important to ensure that the data accurately reflects the annual tax payments and that respondents understand the question to avoid misreporting.",
+      "limitations": "This variable does not account for homeowners without mortgages or those who pay more than $800 in real estate taxes. It also does not provide information on the reasons for low tax payments, such as tax exemptions or abatements. Additionally, it may not reflect recent changes in tax rates or property values.",
+      "related_concepts": "Property tax rates, housing affordability, mortgage status, regional housing market trends, tax exemptions and abatements.",
+      "synthesis_method": "collaborative_consensus",
+      "confidence_score": 0.9785752296447754
+    }
+  },
+  "processing_timestamp": 1750978736.2641191
+}

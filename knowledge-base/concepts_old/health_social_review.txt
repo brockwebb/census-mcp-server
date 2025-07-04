@@ -1,0 +1,291 @@
+# Health_Social Concepts - Review Queue (0.75-0.9 confidence)
+# Human review required - edit and mark as 'reviewed' when done
+
+## 1. Disability Rate (confidence: 0.85)
+ID: cendata:DisabilityRate
+Universe: Civilian noninstitutionalized population
+Stat Method: rate
+Tables: ['B18101']
+Definition: Percentage of population with a disability
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 2. Disability by Age (confidence: 0.80)
+ID: cendata:DisabilityByAge
+Universe: Civilian noninstitutionalized population
+Stat Method: count
+Tables: ['B18101']
+Definition: Disability status by age groups
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 3. Disability by Type (confidence: 0.75)
+ID: cendata:DisabilityByType
+Universe: Civilian noninstitutionalized population
+Stat Method: count
+Tables: ['B18102']
+Definition: Population by type of disability
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 4. Hearing Difficulty (confidence: 0.75)
+ID: cendata:HearingDifficulty
+Universe: Civilian noninstitutionalized population
+Stat Method: count
+Tables: ['B18102']
+Definition: Population with hearing difficulty
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 5. Vision Difficulty (confidence: 0.75)
+ID: cendata:VisionDifficulty
+Universe: Civilian noninstitutionalized population
+Stat Method: count
+Tables: ['B18102']
+Definition: Population with vision difficulty
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 6. Cognitive Difficulty (confidence: 0.75)
+ID: cendata:CognitiveDifficulty
+Universe: Civilian noninstitutionalized population 5 years and over
+Stat Method: count
+Tables: ['B18102']
+Definition: Population with cognitive difficulty
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 7. Ambulatory Difficulty (confidence: 0.75)
+ID: cendata:AmbulatoryDifficulty
+Universe: Civilian noninstitutionalized population 5 years and over
+Stat Method: count
+Tables: ['B18102']
+Definition: Population with ambulatory difficulty
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 8. Self-Care Difficulty (confidence: 0.75)
+ID: cendata:SelfCareDifficulty
+Universe: Civilian noninstitutionalized population 5 years and over
+Stat Method: count
+Tables: ['B18102']
+Definition: Population with self-care difficulty
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 9. Independent Living Difficulty (confidence: 0.75)
+ID: cendata:IndependentLivingDifficulty
+Universe: Civilian noninstitutionalized population 18 years and over
+Stat Method: count
+Tables: ['B18102']
+Definition: Population with independent living difficulty
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 10. Veteran Status (confidence: 0.85)
+ID: cendata:VeteranStatus
+Universe: Civilian population 18 years and over
+Stat Method: count
+Tables: ['B21001']
+Definition: Population who served in US Armed Forces
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 11. Veterans by Service Period (confidence: 0.80)
+ID: cendata:VeteransByPeriod
+Universe: Civilian veterans 18 years and over
+Stat Method: count
+Tables: ['B21002']
+Definition: Veterans by period of military service
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 12. Veteran Disability Status (confidence: 0.75)
+ID: cendata:VeteranDisability
+Universe: Civilian veterans 18 years and over
+Stat Method: rate
+Tables: ['B21007']
+Definition: Veterans with service-connected disability
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 13. SNAP Benefits (confidence: 0.85)
+ID: cendata:SNAPBenefits
+Universe: Households
+Stat Method: rate
+Tables: ['B22003']
+Definition: Households receiving Supplemental Nutrition Assistance
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 14. SSI Recipients (confidence: 0.80)
+ID: cendata:SSIRecipients
+Universe: Population
+Stat Method: count
+Tables: ['B19056']
+Definition: Recipients of Supplemental Security Income
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 15. Social Security Income (confidence: 0.85)
+ID: cendata:SocialSecurityIncome
+Universe: Households
+Stat Method: median
+Tables: ['B19055']
+Definition: Households with Social Security income
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 16. Retirement Income (confidence: 0.80)
+ID: cendata:RetirementIncome
+Universe: Households
+Stat Method: median
+Tables: ['B19057']
+Definition: Households with retirement income
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 17. Public Assistance Income (confidence: 0.80)
+ID: cendata:PublicAssistance
+Universe: Households
+Stat Method: count
+Tables: ['B19058']
+Definition: Households receiving public assistance income
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 18. Elderly Living Arrangements (confidence: 0.75)
+ID: cendata:ElderlyLivingArrangements
+Universe: Population 65 years and over
+Stat Method: count
+Tables: ['B09020']
+Definition: Living arrangements for elderly population
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 19. Elderly Living Alone (confidence: 0.75)
+ID: cendata:ElderlyLivingAlone
+Universe: Population 65 years and over
+Stat Method: rate
+Tables: ['B09020']
+Definition: Elderly persons living alone
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 20. Grandparents as Caregivers (confidence: 0.75)
+ID: cendata:Grandparents
+Universe: Population 30 years and over
+Stat Method: count
+Tables: ['B10051']
+Definition: Grandparents responsible for grandchildren
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 21. Single Parent Households (confidence: 0.85)
+ID: cendata:SingleParentHouseholds
+Universe: Family households with own children under 18
+Stat Method: rate
+Tables: ['B23008']
+Definition: Family households with single parent
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 22. Fertility Rate (confidence: 0.75)
+ID: cendata:FertilityRate
+Universe: Women 15 to 50 years
+Stat Method: rate
+Tables: ['B13016']
+Definition: Number of births per 1,000 women of childbearing age
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 23. Child Poverty Rate (confidence: 0.85)
+ID: cendata:ChildPoverty
+Universe: Population under 18 years for whom poverty status determined
+Stat Method: rate
+Tables: ['B17006']
+Definition: Poverty rate among children under 18
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 24. Elderly Poverty Rate (confidence: 0.85)
+ID: cendata:ElderlyPoverty
+Universe: Population 65 years and over for whom poverty status determined
+Stat Method: rate
+Tables: ['B17006']
+Definition: Poverty rate among elderly population
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 25. Medicaid Coverage (confidence: 0.85)
+ID: cendata:MedicaidCoverage
+Universe: Civilian noninstitutionalized population
+Stat Method: rate
+Tables: ['B27003']
+Definition: Population covered by Medicaid
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 26. Medicare Coverage (confidence: 0.85)
+ID: cendata:MedicareCoverage
+Universe: Civilian noninstitutionalized population
+Stat Method: rate
+Tables: ['B27003']
+Definition: Population covered by Medicare
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 27. Private Health Insurance (confidence: 0.85)
+ID: cendata:PrivateInsurance
+Universe: Civilian noninstitutionalized population
+Stat Method: rate
+Tables: ['B27003']
+Definition: Population with private health insurance
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 28. Tricare Coverage (confidence: 0.80)
+ID: cendata:TricareCoverage
+Universe: Civilian noninstitutionalized population
+Stat Method: rate
+Tables: ['B27003']
+Definition: Population covered by Tricare/military health care
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 29. VA Healthcare (confidence: 0.75)
+ID: cendata:VAHealthcare
+Universe: Civilian veterans
+Stat Method: rate
+Tables: ['B27003']
+Definition: Veterans using VA healthcare system
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 30. Healthcare Workers (confidence: 0.85)
+ID: cendata:HealthcareWorkers
+Universe: Civilian employed population 16 years and over
+Stat Method: count
+Tables: ['C24010']
+Definition: Population employed in healthcare occupations
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 31. Social Workers (confidence: 0.80)
+ID: cendata:SocialWorkers
+Universe: Civilian employed population 16 years and over
+Stat Method: count
+Tables: ['C24010']
+Definition: Population employed as social workers
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 32. Community Health Workers (confidence: 0.75)
+ID: cendata:CommunityHealthWorkers
+Universe: Civilian employed population 16 years and over
+Stat Method: count
+Tables: ['C24010']
+Definition: Population employed as community health workers
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+

@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "category": "specialized_populations",
+    "status": "auto_approved",
+    "concept_count": 1,
+    "confidence_threshold": "\u22650.9"
+  },
+  "concepts": [
+    {
+      "id": "cendata:ForeignBornPopulation",
+      "label": "Foreign-Born Population",
+      "bucket": "specialized_populations",
+      "universe": "Total population",
+      "stat_method": "count",
+      "census_tables": [
+        "B05001"
+      ],
+      "definition": "Population born outside the United States",
+      "source_page": 101,
+      "status": "auto",
+      "confidence": 0.9
+    }
+  ]
+}

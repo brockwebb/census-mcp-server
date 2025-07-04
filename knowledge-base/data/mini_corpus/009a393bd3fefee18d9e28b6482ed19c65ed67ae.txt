@@ -1,0 +1,1952 @@
+Disability, Employment, and  
+Benefit Receipt: 2021
+
+Current Population Reports
+
+By Zachary Scherer and Clayton M. Gumber
+
+P70-203
+
+April 2025
+
+INTRODUCTION
+
+According to estimates from the 2022 Survey of 
+Income and Program Participation (SIPP), over 30 
+million American adults aged 18 to 64 were living 
+with a disability.1, 2, 3, 4 For some of these individuals, 
+the nature or severity of their disability could affect 
+employment and other economic outcomes. Several 
+social safety net programs and other income sources 
+exist to support individuals whose health or disability 
+limit their potential employment, but eligibility require-
+ments for such programs vary. Perhaps as a result, 
+adults with a disability have lower income than their 
+counterparts without disability (Figure 1). This report 
+uses data from the 2022 SIPP to examine the inter-
+section between disability status, employment, and 
+participation in a variety of social support programs 
+in order to better understand this gap in income 
+between individuals with and without a disability.
+
+1 All references to “adults” in this report refer to “working-age”  
+
+civilian, noninstitutionalized adults aged 18 to 64.
+
+2 For additional estimates for employment and disability, refer to 
+the American Community Survey (ACS) at <https://data.census.gov/
+table?t=Disability&tid=ACSDT1Y2021.B18120>.
+
+3 “Disability” is defined using the standardized 6-question measure 
+
+used within the ACS, which captures functional difficulties in vision, 
+hearing, cognition, ambulation, self-care, and independent living. 
+National estimates of disability prevalence produced using SIPP data 
+may be higher than estimates from other federal surveys that use the 
+same disability measure. Refer to the “Limitations” section for more 
+information.
+
+4 The U.S. Census Bureau has reviewed this data product to 
+ensure appropriate access, use, and disclosure avoidance protection 
+of the confidential source data used to produce this product (Data 
+Management System [DMS] number: P-7516454; Disclosure Review 
+Board [DRB] approval number: CBDRB-FY24-SEHSD013-011).
+
+Figure 1.
+Distribution of Disability Status and Person-
+Level Median Income by Disability Status: 
+2021 
+(Adults aged 18 to 64)
+
+Distribution of Disability Status
+
+With a disability
+
+Without a disability
+
+19.0%
+
+81.0%
+
+Person-Level Median Income by Disability Status
+
+$39,140
+
+$18,000
+
+With a disability
+
+Without a disability
+
+Note: “Disability” refers to individuals reported to have vision, hearing, 
+cognitive, ambulatory, self-care, or independent living difficulty. The 
+bars represent the 90 percent conﬁdence interval around the 
+estimates. The U.S. Census Bureau has reviewed this data product to 
+ensure appropriate access, use, and disclosure avoidance protection of 
+the conﬁdential source data used to produce this product (Data 
+Management System [DMS] number: P-7516454; Disclosure Review 
+Board [DRB] approval number: CBDRB-FY24-SEHSD013-011).
+Source: U.S. Census Bureau, 2022 Survey of Income and Program 
+Participation.
+
+HIGHLIGHTS
+
+•  The population aged 18 to 64 
+
+with a disability was more likely 
+to be female, be older, have 
+lower educational attainment, 
+and have lower self-rated health 
+than the population without 
+disability.
+
+•  While many adults with a dis-
+
+ability were employed in 2021, 
+the employment rate among 
+those with a disability was sig-
+nificantly lower than the rate for 
+those without a disability: about 
+82 percent of people without a 
+disability were employed, com-
+pared to roughly 54 percent of 
+people with a disability.
+
+•  Workers with a disability were 
+
+more likely to be self-employed, 
+more likely to work nonstan-
+dard schedules, and more likely 
+to work part-time jobs than 
+their counterparts without a 
+disability.
+
+•  Roughly 32 percent of not 
+
+employed, working-age adults  
+with a disability received Social 
+Security because of a disabil-
+ity, while roughly 21 percent 
+received Supplemental Security 
+Income (SSI). Approximately 8 
+percent received some other 
+form of disability income. 
+
+•  About 30 percent of working-
+
+age adults with a disability who 
+were not employed did not 
+receive any benefits.
+
+•  Individuals with a disability were 
+more likely to participate in mul-
+tiple programs than their coun-
+terparts without a disability.5
+
+•  For adults who worked less than 
+full-time, year-round, median 
+personal income was signifi-
+cantly lower for those with a 
+disability than for those without 
+
+5 Program participation refers to receipt 
+
+of benefits from a variety of cash and 
+noncash sources, which may be formal or 
+informal and are discussed in greater detail 
+below.
+
+2 
+
+ABOUT THE SIPP
+
+The Survey of Income and Program Participation (SIPP) is a 
+nationally representative, longitudinal survey administered by the 
+U.S. Census Bureau that provides comprehensive information on 
+the dynamics of income, employment, household composition, 
+and government program participation. The SIPP is also a leading 
+source of data on economic well-being, family dynamics, education, 
+wealth, health insurance, child care, and food security. The SIPP 
+interviews individuals for several years and provides monthly data 
+about changes in household and family composition and economic 
+circumstances over time. Visit the SIPP website at <www.census.gov/
+sipp> for more information. 
+
+a disability, regardless of  
+program participation.
+
+WHAT IS A DISABILITY?
+
+Disability is a complex process 
+between individuals and their 
+environment.6 Broadly speaking, 
+individuals may experience a dis-
+ability if they have difficulty with 
+certain daily tasks due to a physi-
+cal, mental, or emotional condi-
+tion. Disability as a population 
+phenomenon is inherently diverse. 
+Some people may experience an 
+invisible disability, while for others 
+it may be more readily apparent. 
+Disabilities may also vary—both in 
+initial onset and expression over 
+time. Some disabilities are consid-
+ered only temporary conditions 
+with immediate short-term effects 
+on individuals’ health and well-
+being, while others may be more 
+permanent conditions with long-
+lasting effects. 
+
+Public policies may affect the 
+ability of individuals to participate 
+in the labor force or supplement 
+their income when a disability 
+inhibits work. For instance, some 
+laws seek to facilitate employ-
+ment by providing reasonable 
+
+6 For information on federal definitions of 
+
+disability, refer to New Editions Consulting, 
+Inc., “Federal Statutory Definitions of 
+Disability,” prepared for the Interagency 
+Committee on Disability Research, 2024, 
+<https://pfs2.acl.gov/strapib/assets/
+Federal_Statutory_Definitions_of_
+Disability_508_3ba4b711de.pdf>.
+
+accommodations to enable work 
+or by reducing physical barriers 
+that might impede work. Other 
+laws, such as the Americans with 
+Disabilities Act, legislate fairness 
+during the hiring process or on the 
+job by prohibiting discrimination 
+against individuals based on dis-
+ability. Meanwhile, there is also a 
+social safety net of programs avail-
+able to those in need. Notably for 
+those with a disability, some forms 
+of social welfare and other ben-
+efits require labor force engage-
+ment, and therefore may preclude 
+benefit receipt. Others require 
+that individuals have a condition 
+that prevents them from working 
+as one of the criteria for eligibility, 
+thereby facilitating benefit receipt. 
+
+Measures of disability in the SIPP 
+are based on individual reports of 
+functional difficulty, as opposed to 
+medical diagnoses.7 In this analysis, 
+disability is defined using the stan-
+dardized measure of six questions 
+used currently within the American 
+Community Survey (ACS). Using 
+this measure, individuals are con-
+sidered to have a disability if they 
+have vision, hearing, cognitive, 
+ambulatory, self-care, or indepen-
+dent living difficulty. All references 
+
+7 Individual reports may be self-reports 
+
+or proxy reports—that is, a report from 
+another person in the household aged 15 or 
+over. If disability reports were not obtained 
+from survey respondents, then answers were 
+statistically imputed.
+
+U.S. Census Bureau
+
+Table 1.
+Selected Demographic Characteristics by Disability Status of Adults Aged 18 to 64: 2021
+
+Total
+
+With a disability
+
+Without a disability
+
+Characteristics
+
+Median age (in years) . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Sex
+Female . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Male  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Race
+White alone . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Black or African American alone . . . . . . . . . . . . . . . . . .
+Asian alone . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+All other race groups and combinations  . . . . . . . . . . .
+
+Ethnicity
+Hispanic or Latino (of any race) . . . . . . . . . . . . . . . . . . .
+Not Hispanic or Latino (of any race) . . . . . . . . . . . . . . .
+
+Educational Attainment (Aged 25 and Over)
+Less than high school graduate . . . . . . . . . . . . . . . . . . .
+High school graduate, some college  
+
+or associate degree  . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Bachelor’s degree or more  . . . . . . . . . . . . . . . . . . . . . . .
+
+Number of Disabilities
+0 disabilities  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1 disability . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2 or more disabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Percent
+
+39.9
+
+50.8
+49.2
+
+75.5
+13.8
+7.0
+3.7
+
+19.3
+80.7
+
+8.5
+
+51.5
+40.0
+
+81.0
+10.5
+8.5
+
+Margin of 
+error¹ (±)
+
+0.1
+
+0.1
+0.1
+
+0.1
+0.1
+0.3
+0.2
+
+0.1
+0.1
+
+0.4
+
+0.8
+0.7
+
+0.5
+0.4
+0.4
+
+Percent
+
+45.9
+
+53.2
+46.8
+
+77.7
+15.0
+2.8
+4.5
+
+16.5
+83.5
+
+12.9
+
+64.3
+22.8
+
+X
+55.3
+44.7
+
+Margin of 
+error¹ (±)
+
+0.7
+
+1.1
+1.1
+
+1.3
+1.2
+0.4
+0.6
+
+1.0
+1.0
+
+1.0
+
+1.5
+1.4
+
+X
+1.4
+1.4
+
+Percent
+
+38.8
+
+50.3
+49.7
+
+75.0
+13.5
+8.0
+3.5
+
+20.0
+80.0
+
+7.4
+
+48.3
+44.2
+
+100
+X
+X
+
+Margin of 
+error¹ (±)
+
+0.2
+
+0.3
+0.3
+
+0.3
+0.3
+0.3
+0.3
+
+0.2
+0.2
+
+0.4
+
+0.9
+0.8
+
+X
+X
+X
+
+X Not applicable.
+¹ The margin of error, when added to or subtracted from the estimate, forms the 90 percent confidence interval.
+Note: “Disability” refers to individuals reported to have vision, hearing, cognitive, ambulatory, self-care, or independent living difficulty. The 
+U.S. Census Bureau has reviewed this data product to ensure appropriate access, use, and disclosure avoidance protection of the confidential 
+source data used to produce this product (Data Management System [DMS] number: P-7516454; Disclosure Review Board [DRB] approval num-
+ber: CBDRB-FY24-SEHSD013-011).
+
+Source: U.S. Census Bureau, 2022 Survey of Income and Program Participation.
+
+to “disability” throughout this 
+report rely on this definition. 
+
+Notably, measures of disability in 
+the SIPP are collected at the time 
+of interview (in this report, early 
+2022), while measures of employ-
+ment status and program receipt 
+are collected with reference to 
+the calendar year preceding the 
+interview (in this report, 2021). 
+Further details are available in the 
+“Limitations” section.
+
+The SIPP also collects information 
+on other concepts related to dis-
+ability, including (but not limited 
+to) whether respondents have a 
+work-limiting health condition; 
+whether they have difficulty find-
+ing a job or remaining employed 
+due to a physical, mental, or emo-
+tional problem; and whether they 
+are prevented from working due 
+to a physical, mental, or emotional 
+
+U.S. Census Bureau 
+
+problem. To avoid complicating 
+findings related to employment 
+and in the interest of maintain-
+ing consistency across Census 
+Bureau products, these concepts 
+are not included in the definition 
+of disability used throughout this 
+report.8
+
+WHO EXPERIENCES 
+DISABILITY?
+
+Table 1 shows how working-age 
+adults (aged 18 to 64) differed 
+across demographic characteris-
+tics by disability status. Among the 
+population living with a disability, 
+53.2 percent were women and 
+46.8 percent were men. Among 
+the population without a disabil-
+ity, the percentage of women and 
+men was not statistically different 
+(50.3 percent and 49.7 percent, 
+
+8 A cross-tabulation of disability by pres-
+
+ence of a work-limiting health condition is 
+included in Table 2.
+
+respectively). Select race and 
+ethnicity groups were also dispro-
+portionally represented among 
+those with a disability, including 
+White alone (77.7 percent of those 
+with a disability were White alone, 
+compared to 75.0 percent of those 
+without a disability), Black or 
+African American alone (15.0 per-
+cent with a disability compared to 
+13.5 percent without a disability), 
+and any other race group alone or 
+combination (4.5 percent with a 
+disability compared to 3.5 percent 
+without a disability).9
+
+9 Federal surveys now give respondents 
+the option of reporting more than one race. 
+Therefore, two basic ways of defining a race 
+group are possible. A group such as Asian 
+may be defined as those who reported 
+Asian and no other race (the race-alone 
+or single-race concept) or as those who 
+reported Asian regardless of whether they 
+also reported another race (the race-alone-
+or-in-combination concept). Table 1 shows 
+data using the first approach (race-alone). 
+People who identify as Hispanic may be any 
+race. Data in Table 1 for Hispanics overlap 
+with data for racial groups.
+
+3
+
+ 
+ 
+People with a disability tended to 
+be older than adults without a dis-
+ability; they also had lower educa-
+tional attainment. The median age 
+for working-age individuals with 
+a disability was 45.9 years, com-
+pared with 38.8 years for those 
+without a disability. Educational 
+attainment was lower among 
+adults with a disability compared 
+with their counterparts without a 
+disability. A higher percentage of 
+adults with a disability reported 
+not having a high school diploma 
+compared with those without a 
+disability (12.9 percent and 7.4 
+percent, respectively). 
+
+Additionally, people may experi-
+ence limitations in multiple func-
+tional domains. Among those with 
+a disability, 44.7 percent reported 
+having more than one type of 
+functional limitation. 
+
+Self-rated health, a conventional 
+measure using a single question 
+rating one’s overall health using 
+graded answer categories, has 
+been validated as an indicator of 
+health across a variety of popula-
+tions and shown to predict mor-
+bidity, health services use, and 
+mortality.10
+
+Figure 2 shows the relationship 
+between disability and self-rated 
+health among SIPP respondents.11 
+
+10 Refer to John Bond, Heather O. 
+
+Dickinson, Fiona Matthews, Carol Jagger, and 
+Carol Brayne, “Self-Rated Health Status as a 
+Predictor of Death, Function, and Cognitive 
+Impairment: A Longitudinal Cohort Study,” 
+European Journal of Aging, 3: 193–206, 
+2006. Refer also to Ellen L. Idler and Yael 
+Benyamini, “Self-Rated Health and Mortality: 
+A Review of Twenty-Seven Community 
+Studies,” Journal of Health and Social 
+Behavior, 38(1): 21–37, 1997.
+
+11 As with disability, health assessments 
+are not conducted by a doctor, but instead 
+are reported by the person or a proxy adult.
+
+Figure 2.
+Percentage of Adults by Self-Rated Health 
+and Disability Status: 2021
+(Adults aged 18 to 64)
+
+Excellent
+Very good
+Good
+Fair
+Poor
+
+27.7
+
+36.6
+
+27.9
+
+6.8
+
+1.0
+
+9.6
+
+18.1
+
+31.5
+
+27.7
+
+13.1
+
+24.3
+
+33.1
+
+28.6
+
+10.7
+
+Total
+
+3.3
+
+With a disability
+
+Without a disability
+
+Note: “Disability” refers to individuals reported to have vision, hearing, cognitive, 
+ambulatory, self-care, or independent living difficulty. The U.S. Census Bureau has reviewed 
+this data product to ensure appropriate access, use, and disclosure avoidance protection of 
+the conﬁdential source data used to produce this product (Data Management System 
+[DMS] number: P-7516454; Disclosure Review Board [DRB] approval number: 
+CBDRB-FY24-SEHSD013-011).
+Source: U.S. Census Bureau, 2022 Survey of Income and Program Participation.
+
+Overall, people with a disability 
+were in worse health than those 
+without a disability. Significantly 
+more individuals with any disability 
+were also reported to be in “poor” 
+health compared to those with no 
+disability. Likewise, a significantly 
+higher percentage of those with-
+out a disability reported “very 
+good” or “excellent” health.
+
+EMPLOYMENT AND 
+DISABILITY
+
+Table 2 demonstrates the relation-
+ship between work and health by 
+showing the percentage of adults 
+
+by employment and disability 
+status, as well as by the pres-
+ence or absence of work limita-
+tions.12 Among adults aged 18 to 
+64, employment was the norm. A 
+majority of adults (over 75 per-
+cent) were employed in at least 
+
+12 In this report, employment is measured 
+
+based on a respondent’s report of having a 
+job on job line 1 at any time during the 2021 
+calendar year. For more information on the 
+SIPP and its survey design, please refer to 
+the SIPP Users’ Guide at <www.census.gov/
+programs-surveys/sipp/guidance/users-
+guide.html>. 
+
+4 
+
+U.S. Census Bureau
+
+Table 2.
+Employment and Work Limitations by Disability Status of Adults Aged 18 to 64: 2021
+
+Characteristics
+
+Total
+
+With a disability
+
+Without a disability
+
+Percent
+
+Margin of 
+error¹ (±)
+
+Percent
+
+Margin of 
+error¹ (±)
+
+Percent
+
+Margin of 
+error¹ (±)
+
+Total  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+ .
+
+Employed  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ With a work-limiting health condition . . . . . .
+ No work-limiting health conditions . . . . . . . .
+Not employed . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ With a work-limiting health condition . . . . . .
+ No work-limiting health conditions . . . . . . . .
+
+100
+
+77.0
+4.5
+72.5
+23.0
+8.1
+14.9
+
+X
+
+0.5
+0.2
+0.5
+0.5
+0.4
+0.4
+
+19.0
+
+53.9
+15.7
+38.2
+46.1
+34.5
+11.6
+
+0.5
+
+1.6
+1.1
+1.5
+1.6
+1.6
+0.9
+
+81.0
+
+82.4
+1.9
+80.5
+17.6
+1.9
+15.7
+
+0.5
+
+0.5
+0.2
+0.5
+0.5
+0.2
+0.5
+
+X Not applicable.
+¹ The margin of error, when added to or subtracted from the estimate, forms the 90 percent confidence interval.
+Note: “Disability” refers to individuals reported to have vision, hearing, cognitive, ambulatory, self-care, or independent living difficulty. A 
+“work-limiting health condition” refers to a physical, mental, or other health condition that limits the kind or amount of work an individual can do. 
+The U.S. Census Bureau has reviewed this data product to ensure appropriate access, use, and disclosure avoidance protection of the confiden-
+tial source data used to produce this product (Data Management System [DMS] number: P-7516454; Disclosure Review Board [DRB] approval 
+number: CBDRB-FY24-SEHSD013-011).
+
+Source: U.S. Census Bureau, 2022 Survey of Income and Program Participation.
+
+one job. However, the employ-
+ment rate for the population with 
+a disability was significantly lower 
+than the rate for those without 
+a disability—about 54 percent 
+of people with a disability were 
+employed, compared with about 
+82 percent of people without a 
+disability. Individuals with a dis-
+ability were also more likely than 
+those without a disability to have 
+a health condition that limited the 
+amount or kind of work they were 
+able to do. Among the population 
+with a disability, about 16 percent 
+were workers with a work-limiting 
+health condition, while almost 35 
+percent had a work-limiting health 
+condition and did not work.
+
+The SIPP data also illustrate how 
+workers with a disability were 
+represented among a select class 
+of worker groups, or by the type 
+of their employer’s organization 
+(Figure 3). For instance, workers 
+with a disability were more likely 
+to be self-employed (about 12 per-
+cent) than those without disability 
+(about 10 percent). Conversely, 
+the likelihood of an individual’s 
+employment in a private business 
+or in government did not vary sig-
+nificantly by disability status. 
+
+Figure 3.
+Percentage of Workers by Class of Worker and 
+Disability Status: 2021
+(Employed adults aged 18 to 64)
+
+Total
+
+With a disability  Without a disability 
+
+76.5 75.2 76.7
+
+13.5 13.2 13.5
+
+11.6
+
+10.0
+
+9.7
+
+Government
+
+Private
+
+Self-employed
+
+Note: “Disability” refers to individuals reported to have vision, hearing, cognitive, 
+ambulatory, self-care, or independent living difficulty. The bars represent the 90 percent 
+conﬁdence interval around the estimates. The U.S. Census Bureau has reviewed this data 
+product to ensure appropriate access, use, and disclosure avoidance protection of the 
+conﬁdential source data used to produce this product (Data Management System [DMS] 
+number: P-7516454; Disclosure Review Board [DRB] approval number: 
+CBDRB-FY24-SEHSD013-011).
+Source: U.S. Census Bureau, 2022 Survey of Income and Program Participation.
+
+Studies indicate that self-
+employment may provide 
+individuals with a disability with 
+nonmonetary benefits such as 
+increased flexibility at work.13 Self-
+employment may also be attractive 
+
+13 Elena Gouskova, “Why Self-
+
+Employment Rates Are Higher Among 
+People With Work Limitations,” Journal of 
+Disability Policy Studies, 31(1): 15–25, 2020.
+
+to individuals with a disability 
+by allowing them to manage 
+their own hours or duties despite 
+physical or health limitations. 
+
+Figure 4 shows the percentage 
+of workers across 23 occupation 
+groups among populations with 
+any disability and no disability. 
+Among workers with a disability, 
+
+U.S. Census Bureau 
+
+5
+
+ 
+ 
+ 
+three of the top occupation groups 
+were office and administrative 
+support (12.6 percent), sales and 
+related (9.4 percent), and manage-
+ment (9.4 percent). 
+
+These data show how individuals 
+with a disability were more likely 
+to be concentrated in select jobs 
+based on the kind of work con-
+ducted compared to those without 
+a disability. For instance, work-
+ers with a disability were more 
+likely to be employed in office and 
+administrative support occupa-
+tions compared with those without 
+a disability (12.6 percent and 9.7  
+percent, respectively). Workers 
+with a disability were also about 
+2 percentage points more likely 
+to be employed in (1) building 
+and grounds cleaning and main-
+tenance and (2) material moving 
+occupations. 
+
+Conversely, workers with a disabil-
+ity were less likely to be employed 
+in select occupations compared 
+with workers without a disability. 
+Specifically, they were less likely 
+to work in healthcare practitio-
+ners and technical occupations 
+by about 2 percentage points. 
+While numerically a large number 
+of workers with a disability were 
+employed in management occupa-
+tions, an even greater proportion 
+of individuals without a disability 
+were employed in these same jobs. 
+In other words, management occu-
+pations were common jobs among 
+all workers but were more likely 
+to employ individuals without a 
+disability.
+
+Table 3 shows how selected job 
+characteristics varied by workers’ 
+disability status. Notable differ-
+ences between the populations 
+
+DISABILITY INCOME SOURCES
+
+A variety of programs exist that offer income directed toward the 
+population with a disability. Some of these are government transfer 
+programs. Social Security Disability Insurance (SSDI) is administered 
+by the Social Security Administration (SSA) and offers benefits if an 
+individual worked for a sufficient period, paid Social Security taxes, 
+and has a condition that meets the SSA’s definition of disability. 
+Individuals have a qualifying disability under SSDI if they (1) cannot 
+do work and engage in substantial gainful activity (SGA), (2) cannot 
+do work they did previously or adjust to other work, and (3) have a 
+condition that has lasted or is expected to last for at least 1 year or 
+to result in death.
+
+The Supplemental Security Income (SSI) program is also adminis-
+tered by the SSA and provides monthly payments to adults and chil-
+dren with a disability or blindness who have income and resources 
+below specific financial limits, as well as people aged 65 and over 
+without a disability who meet the financial qualifications.
+
+Individuals with a disability may also be eligible to receive workers’ 
+compensation and disability income from sources other than gov-
+ernment transfer programs, such as employer disability payments; 
+payments from a sickness, accident, or disability insurance policy; 
+or disability payments from a federal, state, or local government 
+pension.
+
+with and without a disability 
+include hours worked, part-time 
+or full-time employment status, 
+schedule arrangements, and type 
+of work arrangement. For example, 
+people with a disability worked 
+about 3 hours fewer each week 
+than those without a disability.
+
+A smaller percentage of workers 
+with a disability worked full-time, 
+year-round compared with work-
+ers without a disability—about 53 
+percent and 65 percent, respec-
+tively. These differences similarly 
+extended to whether workers 
+engaged in part-time or full-time 
+employment. Nearly 30 percent 
+of jobs held by workers with a dis-
+ability were part-time, or less than 
+
+35 hours per week. In comparison, 
+only 20 percent of the those with-
+out a disability worked part-time. 
+
+Schedules also differed between 
+workers by disability status. 
+Workers with a disability were 
+more likely to work nonstandard 
+schedules (either predictable or 
+unpredictable) than their counter-
+parts without a disability.14, 15
+
+14 Predictable, nonstandard work sched-
+ules include regular evening or night shifts, 
+rotating shifts, and split shifts. Unpredictable, 
+nonstandard work schedules include irregu-
+lar schedules or ones that change from day 
+to day.
+
+15 Additional cross-tabulations (not 
+shown) suggest self-employment further 
+affects the relationship between work 
+schedules and disability status such that 
+nonstandard work schedules were even more 
+common among self-employed workers with 
+a disability compared with those who were 
+not self-employed.
+
+6 
+
+U.S. Census Bureau
+
+Figure 4.
+Percentage of Workers Aged 18 to 64 by Occupation Group and Disability Status: 2021
+(Employed adults aged 18 to 64)
+
+Without a disability 
+With a disability
+Total
+
+Management
+
+Business and ﬁnancial operations
+
+Computer and mathematical
+
+Architecture and engineering
+
+Life, physical, and social science
+
+D
+
+Community and social service
+
+Legal
+
+D
+
+Educational instruction, and library
+
+Arts, design, entertainment, sports, and media
+
+Healthcare practitioners and technical
+
+Healthcare support
+
+Protective service
+
+Food preparation and serving related
+
+Building and grounds cleaning and maintenance
+
+Personal care and service
+
+Sales and related
+
+Office and administrative support
+
+Farming, ﬁshing, and forestry
+
+D
+
+Construction and extraction
+
+Installation, maintenance, and repair
+
+Production
+
+Transportation
+
+Material moving
+
+D = Suppressed for disclosure avoidance.
+Note: “Disability” refers to individuals reported to have vision, hearing, cognitive, ambulatory, self-care, or independent living difficulty. The 
+bars represent the 90 percent conﬁdence interval around the estimates. The U.S. Census Bureau has reviewed this data product to ensure 
+appropriate access, use, and disclosure avoidance protection of the conﬁdential source data used to produce this product (Data Management 
+System [DMS] number: P-7516454; Disclosure Review Board [DRB] approval number: CBDRB-FY24-SEHSD013-011).
+Source: U.S. Census Bureau, 2022 Survey of Income and Program Participation.
+
+Percent
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+U.S. Census Bureau 
+
+7
+
+Table 3.
+Select Job Characteristics for Workers by Disability Status: 2021
+(Employed adults aged 18 to 64)
+
+Characteristics
+
+Average hours worked (in hours) . . . . . .
+
+Part-Time or Full-Time Employment
+Full-time, year-round  . . . . . . . . . . . . . . . .
+Full-time, not year-round . . . . . . . . . . . . .
+Part-time, year-round . . . . . . . . . . . . . . . .
+Part-time, not year-round  . . . . . . . . . . . .
+
+Work Schedule
+Standard, predictable . . . . . . . . . . . . . . . .
+Nonstandard, predictable  . . . . . . . . . . . .
+Nonstandard, unpredictable . . . . . . . . . .
+Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Work Arrangement
+Onsite . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Home-based . . . . . . . . . . . . . . . . . . . . . . . .
+Mixed . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Total
+
+With a disability
+
+Without a disability
+
+Percent
+
+38.5
+
+63.7
+14.8
+13.6
+7.9
+
+76.3
+13.4
+9.2
+1.1
+
+73.2
+20.5
+6.3
+
+Margin of 
+error¹ (±)
+
+0.2
+
+0.7
+0.5
+0.5
+0.4
+
+0.6
+0.5
+0.5
+0.2
+
+0.7
+0.6
+0.3
+
+Percent
+
+36.4
+
+52.8
+17.7
+17.4
+12.1
+
+68.8
+17.5
+12.1
+1.6
+
+76.9
+18.8
+4.4
+
+Margin of 
+error¹ (±)
+
+0.5
+
+2.0
+1.4
+1.4
+1.1
+
+1.9
+1.6
+1.3
+0.4
+
+1.4
+1.3
+0.8
+
+Percent
+
+38.8
+
+65.3
+14.4
+13.0
+7.3
+
+77.5
+12.8
+8.8
+1.0
+
+72.6
+20.8
+6.5
+
+Margin of 
+error¹ (±)
+
+0.2
+
+0.8
+0.6
+0.5
+0.4
+
+0.6
+0.5
+0.5
+0.2
+
+0.7
+0.6
+0.4
+
+¹ The margin of error, when added to or subtracted from the estimate, forms the 90 percent confidence interval.
+Note: “Disability” refers to individuals reported to have vision, hearing, cognitive, ambulatory, self-care, or independent living difficulty. The 
+U.S. Census Bureau has reviewed this data product to ensure appropriate access, use, and disclosure avoidance protection of the confidential 
+source data used to produce this product (Data Management System [DMS] number: P-7516454; Disclosure Review Board [DRB] approval num-
+ber: CBDRB-FY24-SEHSD013-011).
+
+Source: U.S. Census Bureau, 2022 Survey of Income and Program Participation.
+
+Differences in type of work 
+arrangement (e.g., home-based, 
+mixed or “hybrid,” or in-person) 
+by disability status also suggest 
+that jobs for those with disability 
+may be less flexible than other 
+jobs. During the COVID-19 pan-
+demic, the prevalence of home-
+based work increased dramatically 
+among the broader population. 
+According to a recent Census 
+Bureau report, the number of 
+home-based workers almost 
+tripled between 2019 and 2021, 
+increasing from roughly 9 million 
+to 27.6 million workers.16 Yet com-
+pared with the population without 
+a disability, fewer workers with a 
+disability worked from home all or 
+part of the time in 2021. 
+
+16 Michael Burrows, Charlynn Burd, and 
+
+Brian McKenzie, “Home-Based Workers 
+and the COVID-19 Pandemic,” American 
+Community Survey Reports, ACS-52,  
+U.S. Census Bureau, Washington, DC, 2023.
+
+These findings remained consistent 
+even after excluding self-employed 
+workers. Research suggests that 
+these lower levels of home-based 
+work among people with a dis-
+ability may be due to the kinds of 
+jobs in which they were employed, 
+such as service occupations.17 More 
+workers with a disability may also 
+work in occupations with lower 
+expected growth rates for telework 
+eligibility.18 In other words, work-
+ers with a disability could be more 
+likely to work in jobs that require 
+onsite employment during a time 
+of rapidly expanding remote-work 
+options.
+
+17 Douglas Kruse, So Ri Park, Yana van der 
+
+Meulen Rodgers, and List Schur, “Disability 
+and Remote Work During the Pandemic With 
+Implications for Cancer Survivors,” Journal of 
+Cancer Survivorship, 16: 183–199, 2022.
+18 Lisa A. Schur, Mason Ameri, and 
+Douglas Kruse, “Telework After COVID: A 
+‘Silver Lining’ for Workers With Disabilities?” 
+Journal of Occupational Rehabilitation,  
+30: 521–536, 2020.
+
+OTHER INCOME SOURCES 
+FOR INDIVIDUALS WITH A 
+DISABILITY
+
+As reflected above, while many 
+adults aged 18 to 64 with a 
+disability work for pay, others are 
+unable to work due to a disability, 
+or have to work reduced hours due 
+to their condition. Such individuals 
+may rely on other sources of 
+income to make ends meet. Some 
+of the more common sources 
+of program income in which a 
+disability determines eligibility are 
+described in greater detail in the 
+box “Disability Income Sources.”
+
+Overall, roughly 45 percent of indi-
+viduals with a disability received 
+income or noncash benefits from 
+at least one source in 2021, com-
+pared with about 14 percent of 
+
+8 
+
+U.S. Census Bureau
+
+ 
+ 
+those without a disability (not 
+shown).19
+
+Roughly 32 percent of working-
+age adults with a disability who 
+were not employed in 2021 
+received Social Security because 
+of a disability, while roughly 21 
+percent received Supplemental 
+Security Income (SSI) and 2 
+percent received workers’ com-
+pensation payments (Figure 5).20 
+Approximately 8 percent received 
+some other form of disability 
+income.
+
+However, as these estimates indi-
+cate, many adults with a disability 
+who were not employed did not 
+receive benefits stemming from 
+their disability. Temporal differ-
+ences in survey measurement 
+(refer to the “Limitations” section) 
+may contribute to this outcome. 
+Individuals may also choose not 
+to apply for benefits or apply for 
+benefits and be denied—the SSA’s 
+rate of denied applications for 
+SSDI averaged 67 percent between 
+2010 and 2019.21 According to SSA 
+records, technical denials—denials 
+for nonmedical reasons—represent 
+the most common denial, which 
+may partially explain the gap 
+between the overall prevalence of 
+
+19 In this context, “benefit” refers to 
+receipt of Social Security; Supplemental 
+Security Income (SSI); Temporary Assistance 
+for Needy Families (TANF); Supplemental 
+Nutrition Assistance Program (SNAP); 
+General Assistance; Special Supplemental 
+Nutrition Program for Women, Infants, and 
+Children (WIC); unemployment compensa-
+tion; workers’ compensation; and other 
+disability income.
+
+20 The SIPP asks whether individuals 
+receive Social Security and the reason for 
+receipt. It does not explicitly ask about 
+receipt of Social Security Disability Insurance 
+(SSDI).
+
+21 For more information on SSDI denials, 
+
+refer to <www.ssa.gov/policy/docs/
+statcomps/di_asr/2020/di_asr20.pdf>.
+
+Figure 5.
+Receipt of Select Forms of Income Among Individuals 
+With Disability Who Were Not Employed: 2021
+(Adults aged 18 to 64)
+
+Percent
+
+Social Security Disability
+Income
+
+Supplemental Security
+Income
+
+Workers' compensation
+
+1.7
+
+Other disability income
+
+8.2
+
+31.8
+
+20.9
+
+Note: The SIPP asks about whether individuals received Social Security income and the 
+reason for receiving that income, with disability as a response option. It does not explicitly 
+ask about receipt of Social Security Disability Insurance. “Disability” refers to individuals 
+reported to have vision, hearing, cognitive, ambulatory, self-care, or independent living 
+difficulty. The lines represent the 90 percent conﬁdence interval around each estimate. The 
+U.S. Census Bureau has reviewed this data product to ensure appropriate access, use, and 
+disclosure avoidance protection of the conﬁdential source data used to produce this 
+product (Data Management System [DMS] number: P-7516454; Disclosure Review Board 
+[DRB] approval number: CBDRB-FY24-SEHSD013-011).
+Source: U.S. Census Bureau, 2022 Survey of Income and Program Participation.
+
+disability and the rate of receipt of 
+disability-related benefits.22
+
+Many working-age adults with a 
+disability receive other forms of 
+assistance that are not specifically 
+targeted toward those with a dis-
+ability but are instead intended to 
+alleviate economic hardship more 
+generally. For example, roughly 35 
+percent of adults with a disability 
+who were not employed in 2021 
+received SNAP, an in-kind form of 
+food support for low-income fami-
+lies that is among the largest social 
+safety net programs.
+
+22 A medical denial means that an appli-
+cant did not meet the medical criteria con-
+sistent with SSDI’s definition of a disability. 
+A technical denial means that an applicant 
+was denied SSDI for a nonmedical reason 
+(for example, paperwork errors, etc.). Refer 
+to the ”Limitations” section for additional 
+information regarding what can and cannot 
+be determined from SIPP data regarding 
+program uptake.
+
+OVERLAPPING RECEIPT
+
+Individuals with a disability were 
+also much more likely to receive 
+income from multiple programs in 
+2021 than their counterparts with-
+out a disability (Figure 6). Among 
+individuals without a disability, just 
+under 1 in 5 of those receiving at 
+least one form of program income, 
+received income from multiple 
+sources. By contrast, about 2 in 5 
+individuals with a disability, receiv-
+ing any program income, received 
+income from more than one source. 
+
+These differences are even more 
+dramatic when further broken 
+down by employment status. 
+About 32 percent of adults with a 
+disability who were not employed 
+received more than one form of 
+program income. By contrast, just 
+6 percent of adults with a disability 
+who were employed received mul-
+tiple forms of program income.
+
+U.S. Census Bureau 
+
+9
+
+Figure 6.
+Percentage Receiving a Given Number of Programs by Disability and Employment Status: 2021
+(Adults aged 18 to 64)
+
+No programs
+
+1 program
+
+2+ programs
+
+All
+
+55.4
+
+26.5
+
+18.1
+
+With 
+a disability 
+
+19.0
+
+Employed
+
+76.9
+
+17.0
+
+6.2
+
+Not employed
+
+30.3
+
+37.6
+
+32.1
+
+All
+
+Without 
+a disability 
+
+Employed
+
+81.0
+
+85.9
+
+88.9
+
+11.5
+
+2.5
+
+9.5
+
+1.6
+
+Not employed
+
+72.0
+
+21.1
+
+6.9
+
+Note: “Disability” refers to individuals reported to have vision, hearing, cognitive, ambulatory, self-care, or independent living difficulty. The 
+income sources reﬂected in this ﬁgure are Social Security (including Social Security Disability Insurance); General Assistance; Temporary 
+Assistance for Needy Families; Supplemental Nutrition Assistance Program; Supplemental Security Income; Special Supplemental Nutrition 
+Program for Women, Infants, and Children; unemployment compensation; worker's compensation; and disability income from a sickness, 
+accident, or disability insurance policy, employer disability payments, a pension from a company or union, a federal civil service pension, a state 
+government pension, a local government pension, U.S. military retirement, U.S. government railroad retirement, black lung beneﬁts, or another 
+source. The U.S. Census Bureau has reviewed this data product to ensure appropriate access, use, and disclosure avoidance protection of the 
+conﬁdential source data used to produce this product (Data Management System [DMS] number: P-7516454; Disclosure Review Board [DRB] 
+approval number: CBDRB-FY24-SEHSD013-011).
+Source: U.S. Census Bureau, 2022 Survey of Income and Program Participation.
+
+As results presented below reflect, 
+receiving income from multiple 
+programs does not necessarily 
+imply greater income. Rather, 
+these differences reflect the way in 
+which individuals with a disability, 
+and particularly those who are not 
+employed, often subsist by relying 
+on a combination of benefits from 
+multiple sources.
+
+DISABILITY, EMPLOYMENT, 
+PROGRAM PARTICIPATION, 
+AND INCOME
+
+Figure 7 ties together the findings 
+of this report by presenting the 
+interrelationship between employ-
+ment status, disability status, and 
+program participation with respect 
+to median personal income. Adults 
+aged 18 to 64 with a disability 
+who were employed full-time, 
+year-round had median personal 
+income of $50,000, compared 
+with median personal income of 
+$60,200 among full-time, year-
+round workers without a disability. 
+
+Among employed individuals with 
+a disability who were not full-time, 
+year-round workers, programs did 
+not act as a one-to-one replace-
+ment for income from employment: 
+median income among those with 
+a disability who were employed 
+less than full-time, year-round was 
+dramatically lower ($22,570 for 
+those with no program income and 
+$17,350 for those with program 
+income) than for those who were 
+employed full-time, year-round. 
+Additionally, for those with a dis-
+ability who were employed less 
+than full-time, year-round, median 
+income was lower than that of 
+those without a disability who 
+were employed less than full-time, 
+year-round regardless of program 
+participation—an indication of the 
+unique challenges faced by indi-
+viduals with a disability.23 
+
+23 The difference between the median 
+income of those without a disability and 
+employed less than full-time with program 
+income and those with a disability who were 
+employed less than full-time with no pro-
+gram income was not statistically significant.
+
+Individuals with a disability who 
+were not employed and received 
+program income had lower median 
+personal income ($10,490) than 
+their counterparts who were 
+employed, regardless of whether 
+that work was full-time or less than 
+full-time, year-round. Additionally, 
+among those with a disability who 
+were not employed, those with 
+income from more than one pro-
+gram had median personal income 
+($10,200) that did not differ sta-
+tistically from those with income 
+from just one program ($10,790), 
+reflecting the way in which indi-
+viduals may pool together income 
+from multiple programs in order to 
+help make ends meet.
+
+SUMMARY
+
+This report highlights the relation-
+ship between disability, employ-
+ment, and benefit receipt. The 
+majority of working-age adults 
+with a disability worked in 2021, 
+
+10 
+
+U.S. Census Bureau
+
+Figure 7.
+Person-Level Median Income by Employment Status, Disability Status, 
+and Program Participation: 2021
+(Adults aged 18 to 64)
+
+Without a disability
+
+With a disability
+
+$60,200
+
+19.0
+
+$50,000
+
+$26,610
+
+$22,570
+
+$21,970
+
+$17,350
+
+81.0
+
+$5,846
+
+$10,490
+
+Employed full-time,
+ year-round
+
+Not employed full-time,
+no programs
+
+Not employed full-time, 
+programs
+
+Not employed,
+programs
+
+Note: “Disability” refers to individuals reported to have vision, hearing, cognitive, ambulatory, self-care, or independent living difficulty. The 
+income sources reﬂected in this ﬁgure are: Social Security (including Social Security Disability Insurance); General Assistance; Temporary 
+Assistance for Needy Families; Supplemental Nutrition Assistance Program; Supplemental Security Income; Special Supplemental Nutrition 
+Program for Women, Infants, and Children; unemployment compensation; worker's compensation; and disability income from a sickness, 
+accident, or disability insurance policy, employer disability payments, a pension from a company or union, a federal civil service pension, a 
+state government pension, a local government pension, U.S. military retirement, U.S. government railroad retirement, black lung beneﬁts, or 
+another source. The lines represent the 90 percent conﬁdence interval around each estimate. The U.S. Census Bureau has reviewed this data 
+product to ensure appropriate access, use, and disclosure avoidance protection of the conﬁdential source data used to produce this product 
+(Data Management System [DMS] number: P-7516454; Disclosure Review Board [DRB] approval number: CBDRB-FY24-SEHSD013-011).
+Source: U.S. Census Bureau, 2022 Survey of Income and Program Participation.
+
+though they were more likely to 
+work in jobs that emphasized part-
+time or less than full-year employ-
+ment than those without a disabil-
+ity. Workers with a disability were 
+also more likely to hold nonstan-
+dard work schedules compared to 
+those without a disability. However, 
+overall employment rates were 
+lower for those with a disability 
+than for their counterparts with-
+out a disability. Those who did not 
+work, or who worked fewer hours, 
+due to a disability often received 
+assistance from other sources, 
+including cash and noncash ben-
+efits from government transfer 
+programs and other forms of dis-
+ability income. However, many of 
+those who were disabled and not 
+employed did not receive these 
+benefits. Those who did receive 
+benefits often combined benefits 
+from multiple sources.
+
+Median income for individuals 
+with a disability who worked less 
+than full-time, year-round was 
+lower than that of those who were 
+employed less than full-time, year-
+round and did not have a disability, 
+regardless of program participa-
+tion. These findings demonstrate 
+the complex interaction between 
+employment patterns and benefit 
+receipt and the unique challenges 
+faced by individuals with a disabil-
+ity in making ends meet. 
+
+LIMITATIONS
+
+A number of limitations should be 
+noted in interpreting the findings 
+presented in this report. First, 
+disability is a complex popula-
+tion phenomenon, and thus there 
+is no single universal definition 
+of “disability.” This report defines 
+disability based on a standard-
+ized disability question set that 
+is currently used in the ACS. This 
+
+measure defines disability based 
+on the presence of at least one 
+of these six functional limitations: 
+difficulty seeing; difficulty hear-
+ing; difficulty walking or climbing; 
+difficulty concentrating, remem-
+bering, or making decisions; dif-
+ficulty dressing or bathing; and/
+or difficulty doing errands alone. 
+Other concepts such as a “work-
+limiting health condition” capture 
+a different population and are only 
+referenced in conjunction with 
+the standardized disability ques-
+tion set in specific instances in 
+this report. It should also be noted 
+that specific governmental agen-
+cies such as the SSA use their own 
+eligibility-based definitions when 
+administering benefit programs.
+
+Given these varying definitions, 
+the SIPP cannot measure who is 
+eligible to participate in programs 
+such as SSDI. Those with a disabil-
+ity who are not receiving a given 
+
+U.S. Census Bureau 
+
+11
+
+Additional information on the SIPP 
+can be found at <www.census.gov/
+sipp/> (main SIPP website), <www.
+census.gov/programs-surveys/
+sipp/guidance/users-guide.html> 
+(SIPP Users’ Guides), and <www.
+census.gov/programs-surveys/
+sipp/tech-documentation/source-
+accuracy-statements.html> (SIPP 
+Source and Accuracy Statements).
+
+CONTACTS
+
+Additional information on the 
+statistics presented in this report 
+can be found by contacting the 
+SIPP Coordination and Outreach 
+Staff at <census.sipp@census.gov> 
+or 1-888-245-3076. 
+
+For further information on the 
+content of this report, contact: 
+Zachary Scherer <zachary.
+scherer@census.gov> or Clayton 
+Gumber <clayton.m.gumber@
+census.gov>.
+
+SUGGESTED CITATION
+
+Zachary Scherer and Clayton M. 
+Gumber, “Disability, Employment, 
+and Benefit Receipt,” Current 
+Population Reports, P70-203,  
+U.S. Census Bureau, Washington, 
+DC, 2025. 
+
+benefit may not be eligible for 
+the program because they do not 
+meet the program’s definition of 
+disability or because they do not 
+meet some other program require-
+ment. Alternatively, they may be 
+eligible to receive a benefit but 
+are not receiving it for any of a 
+number of reasons, including being 
+unaware that they are eligible, 
+facing administrative hurdles, or 
+opting not to participate. The SIPP 
+cannot distinguish among these 
+reasons, or between those who 
+are ineligible and those who are 
+eligible but do not receive a given 
+benefit. Furthermore, the SIPP 
+does not ask respondents directly 
+about receipt of SSDI. Rather, it 
+asks respondents if they received 
+Social Security and, if so, for what 
+reason, with “disability” as an 
+answer choice.
+
+Additionally, the 2022 SIPP was 
+administered during February 
+through June of 2022 to produce 
+a person-month dataset of ret-
+rospective measures of the prior 
+calendar year (2021). However, 
+questions on disability and self-
+rated health are conventionally 
+asked without reference to any 
+reference period, and thus are an 
+implicit measure of current dis-
+ability or health status at the time 
+of interview. While these point-
+in-time measures of health and 
+disability are reasonably reflective 
+of health and disability during the 
+prior calendar year (the reference 
+period for the work and program 
+participation data), some variation 
+between the two measures exists 
+and cannot be captured using the 
+SIPP data.
+
+National estimates of disability 
+prevalence and patterns over time 
+vary across surveys. For this rea-
+son, this report focuses on associa-
+tions between disability status and 
+other variables, rather than gener-
+ating estimates of the prevalence 
+of disability. Additional informa-
+tion can be found at <www.census.
+gov/programs-surveys/sipp/tech-
+documentation/user-notes/2021-
+usernotes/estim-disabilty-preval.
+html>.
+
+SOURCE AND ACCURACY 
+
+Statistics from surveys are subject 
+to sampling and nonsampling 
+error. All comparisons presented 
+in this report have taken 
+sampling error into account 
+and are significant at the 90 
+percent confidence level, unless 
+otherwise noted. This means the 
+90 percent confidence interval 
+for the difference between the 
+estimates being compared does 
+not include zero. Nonsampling 
+errors in surveys may be attributed 
+to a variety of sources, such as 
+how the survey was designed, how 
+respondents interpret questions, 
+how able and willing respondents 
+are to provide correct answers, 
+and how accurately the answers 
+are coded and classified.  
+To minimize these errors, the 
+Census Bureau employs quality 
+control procedures throughout the 
+production process, including the 
+overall design of surveys, wording 
+of questions, review of the work 
+of interviewers and coders, and 
+the statistical review of reports. 
+
+12 
+
+U.S. Census Bureau
+
+

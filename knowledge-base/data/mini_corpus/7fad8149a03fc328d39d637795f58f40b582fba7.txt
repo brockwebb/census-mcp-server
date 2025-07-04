@@ -1,0 +1,172 @@
+An ofﬁcial website of the United States government Here’s how you know
+
+Unfamiliar with the many ways you can obtain statistics from the American Community Survey (ACS)? Learn more about the too
+
+available to help you access current social, economic, housing, and demographic statistics for the nation's communities.
+
+Congressional Staffer
+
+Mariam, in Congressman Underwood's ofﬁce, needs updated information about the congressman's constituents with the latest
+
+congressional district boundaries. She would also like to post this information on the congressman's website to share with
+
+interested parties.
+
+Recommendation: My Congressional District
+
+Learn more about My Congressional District and link to the tool
+
+Tribal Planner
+
+Chava is a tribal planner looking for information about the people and housing in her tribal area to plan
+future improvements. She is working on a tight deadline, and needs a way to quickly access tribal statistics
+on a variety of topics.
+
+Recommendation: My Tribal Area
+
+Find out why and link to the tool
+
+Mayor
+
+Mayor Garcia is looking for key facts about the people and businesses in her town before heading to the statewide conference o
+mayors. She wants to be able to quickly compare facts from her town to other towns in her state.
+
+Recommendation: QuickFacts
+
+Find out why and link to the tool
+
+Emergency Planner
+
+Chief Ryan, a county emergency planner, needs an easy way to access selected statistics, such as language spoken at home,
+age of housing units, and vehicle availability, to help his community recover from disasters, natural hazards, and weather events
+
+Recommendation: OnTheMap for Emergency Management
+
+Learn more about OnTheMap for Emergency Management
+
+Is this page helpful?
+
+✕
+
+ Yes 
+
+ No
+
+Business Owner
+
+Faraj wants information about potential customers, similar businesses, and consumer spending to ﬁgure out where to locate his
+
+gas station. He's looking for key data that is relevant to small business owners, and he may decide to insert a report or map in a
+
+business plan for his investors.
+
+Recommendation: Census Business Builder
+
+Find out more about Census Business Builder
+
+Student
+
+Justin is a student preparing to give a presentation about his local community. He is searching for a credible report that contains
+
+high level statistics to describe the community and visual aids that can be used in the presentation.
+
+Recommendation: Narrative Proﬁles
+
+Learn more about Narrative Proﬁles
+
+Educator
+
+Jocelyn wants information about a variety of topics, such as language spoken at home, disability, and age, to help ﬁgure out wha
+kinds of services and staff they will need in her school district. She is also interested in seeing if these characteristics changed
+
+over time, and if these changes are statistically signiﬁcant. Jocelyn wants this high-level information in separate fact sheets on
+social, economic, demographic, and housing characteristics for her area.
+
+Recommendation: Data Proﬁles or Comparison Proﬁles (on data.census.gov)
+
+Learn more about Data Proﬁles and Comparison Proﬁles
+
+Veterans Coordinator
+
+Carlos is interested in veterans, including veterans status, period of service, employment status, and educational attainment, to
+help his organization provide information on Veterans Affairs medical services and job training programs. He would like the
+
+information on his topic in one table with numbers and percentages.
+
+Recommendation: Subject Tables (on data.census.gov)
+
+Find out more about the Subject Tables
+
+Market Analyst
+
+Is this page helpful?
+
+✕
+
+ Yes 
+
+ No
+
+Thomas wants in-depth information about topics such as income, educational attainment, and household size, for his report on
+where to locate a large retail store. He's looking for the most detailed information the ACS provides on these topics.
+
+Recommendation: Detailed Tables (on data.census.gov)
+
+Find out more about Detailed Tables
+
+Media
+
+Tyson, a reporter for a local newspaper, is looking for a visual way to show trends in his community. He has some topics in mind
+that will be of interest to his readers, and hopes to be able to use available maps directly in his news reports.
+
+Recommendation: Census Mapping Tools
+
+Find out why and link to the tools
+
+Health Administrator
+
+Benjamin wants to create his own tables of interest using Public Use Microdata Sample (PUMS) ﬁles, but he does not have acce
+
+to statistical software. He needs a free tool to create custom tabulations to plan for health care needs in his state.
+
+Recommendation: microdata access on data.census.gov
+
+Learn more about microdata access on data.census.gov
+
+Regional Planner
+
+Marisa wants to do regional planning analysis using Public Use Microdata Sample (PUMS) ﬁles, and she has expertise using
+statistical software. Marisa is an advanced data user who is comfortable working with untabulated records to do research project
+
+Recommendation: Public Use Microdata Sample (PUMS)
+
+Learn more about the Public Use Microdata Sample (PUMS)
+
+Developer
+
+Karen wants to create mobile apps and custom widgets for her customers across a variety of topics. She is an experienced
+programmer, but appreciates the support that can be found in a community of developers and a well-documented dataset.
+
+Recommendation: API
+
+Is this page helpful?
+
+✕
+
+ Yes 
+
+ No
+
+Find out more about the Application Programming Interface
+
+[https://acsdatacommunity.prb.org/]
+
+Is this page helpful?
+
+✕
+
+ Yes 
+
+ No
+
+

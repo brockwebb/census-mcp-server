@@ -1,0 +1,58 @@
+
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <title>Census Variable Spatial Topology Dashboard</title>
+            <style>
+                body { font-family: Arial, sans-serif; margin: 20px; }
+                .header { background-color: #2c3e50; color: white; padding: 20px; border-radius: 5px; }
+                .section { margin: 20px 0; padding: 15px; border: 1px solid #ddd; border-radius: 5px; }
+                .metric { display: inline-block; margin: 10px; padding: 10px; background-color: #ecf0f1; border-radius: 3px; }
+                .visualization-links { margin: 20px 0; }
+                .visualization-links a { display: inline-block; margin: 10px; padding: 10px 20px; background-color: #3498db; color: white; text-decoration: none; border-radius: 3px; }
+                .cluster-summary { margin: 10px 0; }
+            </style>
+        </head>
+        <body>
+            <div class="header">
+                <h1>Census Variable Spatial Topology Discovery</h1>
+                <p>Generated on 2025-06-28T08:09:39.863563</p>
+            </div>
+            
+            <div class="section">
+                <h2>Discovery Summary</h2>
+                <div class="metric">Total Variables: 8790</div>
+                <div class="metric">Clusters Discovered: 283</div>
+                <div class="metric">Noise Points: 564</div>
+                <div class="metric">Silhouette Score: 0.703</div>
+                <div class="metric">Avg Uncertainty: 0.099</div>
+            </div>
+            
+            <div class="section">
+                <h2>Interactive Visualizations</h2>
+                <div class="visualization-links">
+                    <a href="3d_topology_clusters.html">3D Clusters</a>
+                    <a href="3d_topology_uncertainty.html">Uncertainty Surface</a>
+                    <a href="3d_topology_categories.html">COOS Categories</a>
+                    <a href="3d_topology_families.html">Table Families</a>
+                    <a href="2d_topology_projections.html">2D Projections</a>
+                </div>
+            </div>
+            
+            <div class="section">
+                <h2>COOS Category Distribution</h2>
+                <table border='1' style='width:100%; border-collapse: collapse;'><tr><th>COOS Category</th><th>Variable Count</th><th>Percentage</th></tr><tr><td>uncategorized</td><td>7240</td><td>82.4%</td></tr><tr><td>economics</td><td>637</td><td>7.2%</td></tr><tr><td>core_demographics</td><td>417</td><td>4.7%</td></tr><tr><td>health_social</td><td>309</td><td>3.5%</td></tr><tr><td>education</td><td>76</td><td>0.9%</td></tr><tr><td>housing</td><td>75</td><td>0.9%</td></tr><tr><td>transportation</td><td>24</td><td>0.3%</td></tr><tr><td>specialized_populations</td><td>12</td><td>0.1%</td></tr></table>
+            </div>
+            
+            <div class="section">
+                <h2>Data Files</h2>
+                <ul>
+                    <li><strong>spatial_topology_coordinates.csv</strong> - Complete coordinate data with metadata</li>
+                    <li><strong>cluster_analysis.json</strong> - Detailed cluster characteristics</li>
+                    <li><strong>topology_metadata.json</strong> - Discovery parameters and summary</li>
+                    <li><strong>variable_embeddings.npy</strong> - Raw embeddings data</li>
+                </ul>
+            </div>
+        </body>
+        </html>
+        

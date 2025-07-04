@@ -1,0 +1,246 @@
+# Core_Demographics Concepts - Review Queue (0.75-0.9 confidence)
+# Human review required - edit and mark as 'reviewed' when done
+
+## 1. Race and Ethnicity (confidence: 0.85)
+ID: cendata:RaceEthnicity
+Universe: Total population
+Stat Method: count
+Tables: ['B02001', 'B03002']
+Definition: Racial and ethnic composition of the population
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 2. Family Households (confidence: 0.85)
+ID: cendata:FamilyHouseholds
+Universe: Households
+Stat Method: count
+Tables: ['B11001']
+Definition: Households with related individuals
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 3. Non-Family Households (confidence: 0.85)
+ID: cendata:NonFamilyHouseholds
+Universe: Households
+Stat Method: count
+Tables: ['B11001']
+Definition: Households without related individuals
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 4. Married Couple Households (confidence: 0.85)
+ID: cendata:MarriedCoupleHouseholds
+Universe: Households
+Stat Method: count
+Tables: ['B11001']
+Definition: Households with married couples
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 5. Single Parent Households (confidence: 0.80)
+ID: cendata:SingleParentHouseholds
+Universe: Households
+Stat Method: count
+Tables: ['B11001']
+Definition: Households with single parents and children
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 6. People Living Alone (confidence: 0.85)
+ID: cendata:LivingAlone
+Universe: Households
+Stat Method: count
+Tables: ['B11001']
+Definition: Individuals living in single-person households
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 7. Marital Status Distribution (confidence: 0.85)
+ID: cendata:MaritalStatus
+Universe: Population 15 years and over
+Stat Method: count
+Tables: ['B12001']
+Definition: Distribution of population by marital status
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 8. Citizenship Status (confidence: 0.80)
+ID: cendata:CitizenshipStatus
+Universe: Total population
+Stat Method: count
+Tables: ['B05001']
+Definition: Citizenship and naturalization status distribution
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 9. Veteran Status (confidence: 0.85)
+ID: cendata:VeteranStatus
+Universe: Civilian population 18 years and over
+Stat Method: count
+Tables: ['B21001']
+Definition: Military veteran status of civilian population
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 10. Disability Status (confidence: 0.80)
+ID: cendata:DisabilityStatus
+Universe: Civilian noninstitutionalized population
+Stat Method: count
+Tables: ['B18101']
+Definition: Population with disabilities by type
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 11. Language Spoken at Home (confidence: 0.85)
+ID: cendata:LanguageSpokenAtHome
+Universe: Population 5 years and over
+Stat Method: count
+Tables: ['B16001']
+Definition: Languages spoken at home distribution
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 12. English Language Proficiency (confidence: 0.80)
+ID: cendata:EnglishProficiency
+Universe: Population 5 years and over
+Stat Method: count
+Tables: ['B16004']
+Definition: Ability to speak English proficiency levels
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 13. Young Adults (25-34) (confidence: 0.85)
+ID: cendata:YoungAdults
+Universe: Total population
+Stat Method: count
+Tables: ['B01001']
+Definition: Population aged 25-34 years
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 14. Middle Aged (45-54) (confidence: 0.85)
+ID: cendata:MiddleAged
+Universe: Total population
+Stat Method: count
+Tables: ['B01001']
+Definition: Population aged 45-54 years
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 15. Children in Households (confidence: 0.80)
+ID: cendata:ChildrenInHouseholds
+Universe: Households
+Stat Method: count
+Tables: ['B11005']
+Definition: Presence and number of children in households
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 16. Multigenerational Households (confidence: 0.75)
+ID: cendata:MultigenerationalHouseholds
+Universe: Households
+Stat Method: count
+Tables: ['B11017']
+Definition: Households with three or more generations
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 17. Grandparents as Caregivers (confidence: 0.75)
+ID: cendata:GrandparentsAsCaregiver
+Universe: Population 30 years and over
+Stat Method: count
+Tables: ['B10051']
+Definition: Grandparents responsible for grandchildren
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 18. Unmarried Partner Households (confidence: 0.75)
+ID: cendata:UnmarriedPartners
+Universe: Households
+Stat Method: count
+Tables: ['B11009']
+Definition: Households with unmarried partners
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 19. Group Quarters Population (confidence: 0.80)
+ID: cendata:GroupQuartersPopulation
+Universe: Total population
+Stat Method: count
+Tables: ['B26001']
+Definition: Population living in group quarters
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 20. Institutionalized Population (confidence: 0.75)
+ID: cendata:InstitutionalizedPopulation
+Universe: Total population in group quarters
+Stat Method: count
+Tables: ['B26001']
+Definition: Population in institutional group quarters
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 21. Year of Entry for Foreign-Born (confidence: 0.75)
+ID: cendata:YearOfEntry
+Universe: Foreign-born population
+Stat Method: count
+Tables: ['B05005']
+Definition: Year foreign-born population entered the US
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 22. Geographic Mobility (confidence: 0.75)
+ID: cendata:MobilityStatus
+Universe: Population 1 year and over
+Stat Method: count
+Tables: ['B07003']
+Definition: Population mobility and migration patterns
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 23. Residence One Year Ago (confidence: 0.80)
+ID: cendata:ResidenceOneYearAgo
+Universe: Population 1 year and over
+Stat Method: count
+Tables: ['B07001']
+Definition: Geographic location of residence one year ago
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 24. Sex Ratio (confidence: 0.75)
+ID: cendata:SexRatio
+Universe: Total population
+Stat Method: ratio
+Tables: ['B01001']
+Definition: Ratio of males to females in population
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 25. Median Age by Gender (confidence: 0.80)
+ID: cendata:MedianAgeByGender
+Universe: Total population
+Stat Method: median
+Tables: ['B01002']
+Definition: Median age separately for males and females
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 26. Urban/Rural Classification (confidence: 0.80)
+ID: cendata:UrbanRuralClassification
+Universe: Total population
+Stat Method: count
+Tables: ['B01003']
+Definition: Population distribution by urban and rural areas
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 27. Households by Type and Size (confidence: 0.75)
+ID: cendata:HouseholdsByType
+Universe: Households
+Stat Method: count
+Tables: ['B11016']
+Definition: Detailed breakdown of household types and sizes
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+

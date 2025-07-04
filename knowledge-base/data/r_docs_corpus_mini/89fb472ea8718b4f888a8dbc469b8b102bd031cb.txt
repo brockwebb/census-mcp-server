@@ -1,0 +1,246 @@
+United States Census Bureau | An official website of the United States Government
+
+How Age and
+Poverty Level
+Impact Health
+Insurance
+Coverage
+
+While the Share of Uninsured
+Remained at About 8% in 2023,
+Rates Varied by Age and Poverty
+Level
+
+September 10, 2024
+Written by: Lisa Bunch, Halelujha Ketema, Katherine Keisler-Starkey
+
+The percentage of people without health insurance coverage in 2023 was 8%, not significantly higher than the 7.9% uninsured rate
+in 2022, according to a U.S. Census Bureau report released today.
+The report Health Insurance Coverage in the United States: 2023 [https://www.census.gov/library/publications/2024/demo/p60-
+284.html] , reveals health insurance coverage rates and type between 2022 and 2023 for children under age 19, working-age adults
+ages 19 to 64, and adults age 65 and older.
+
+About a quarter of working-age adults in poverty were uninsured each year between 2020
+and 2023.
+
+The family income-to-poverty ratio provides a measure of a family’s economic resources. This ratio compares family income to a
+poverty threshold based on the age and number of family members.
+People are classified as being in poverty if their family income is less than the poverty threshold. Family resources may determine
+the ability to afford private health insurance, and families below certain thresholds may qualify for public health insurance, such as
+Medicaid.
+
+Age may also factor into individuals’ access to health insurance coverage and type.
+Children under age 19 may have health coverage through a variety of sources, including a parent’s private plan or public programs
+like Medicaid or the Children’s Health Insurance Program (CHIP).
+
+Adults ages 19 to 64 generally have lower coverage rates than those under age 19 and adults age 65 and older. That’s because
+their coverage is often directly tied to employment. They do not qualify for programs intended for children and only qualify for
+public programs under specific medical or income-level circumstances.
+
+Health Insurance Coverage by Age and Income-to-Poverty Ratio
+From 2020 to 2023, the share of children under 19 and working-age adults ages 19 to 64 with health coverage differed depending
+on income and poverty levels.
+Among those who lived below the poverty level:
+
+Most children under 19 and working-age adults had public insurance. In each year, over three-quarters of children under 19
+and about half of working-age adults in poverty had public coverage.
+
+The uninsured rate of children under 19 in poverty ranged from 8.3% to 10.3% between 2020 and 2023.
+
+About a quarter of working-age adults in poverty were uninsured each year between 2020 and 2023.
+
+[/content/dam/Census/library/stories/2024/09/health-insurance-coverage/figure-1-health-insurance-coverage.jpg]
+
+[/content/dam/Census/library/stories/2024/09/health-insurance-coverage/figure-2-health-insurance-coverage.jpg]
+
+Among those living in families with incomes between 100% and 399% of poverty thresholds:
+
+More than half of children under 19 and working-age adults had private insurance.
+
+The percentage of children under 19 with public insurance rose from 42.3% in 2020 to 45% in 2023.
+
+About a quarter of working-age adults had public insurance from 2020 to 2023.
+
+The uninsured rate among children under 19 dipped between 2020 and 2022 from 7.0% to 6.1% and was 6.7% in 2023.
+
+The uninsured rate for working-age adults fell from 17.3% in 2020 to 15.2% in 2022, increasing to 16.1% in 2023.
+
+[/content/dam/Census/library/stories/2024/09/health-insurance-coverage/figure-3-health-insurance-coverage.jpg]
+
+[/content/dam/Census/library/stories/2024/09/health-insurance-coverage/figure-4-health-insurance-coverage.jpg]
+
+Among those in families with incomes in the highest income-to-poverty ratio group (at or above 400% of poverty):
+
+Over 90% of children under 19 and working-age adults had private insurance.
+
+The share of children under 19 with public insurance rose from 5.9% in 2020 to 6.8% in 2023.
+
+The share of working-age adults with public insurance rose from 5.2% in 2020 to 6% in 2023 while their uninsured rate fell
+from 4.5% to 4% during this period.
+
+[/content/dam/Census/library/stories/2024/09/health-insurance-coverage/figure-5-health-insurance-coverage.jpg]
+
+[/content/dam/Census/library/stories/2024/09/health-insurance-coverage/figure-6-health-insurance-coverage.jpg]
+
+Definitions and more information on confidentiality protection and sampling and nonsampling error are available in the technical
+documentation [/programs-surveys/cps/technical-documentation/complete.html] .
+
+All comparative statements in this article have undergone statistical testing and, unless otherwise noted, are statistically
+significant at the 10% significance level.
+
+Lisa Bunch and Halelujha Ketema are survey statisticians and Katherine Keisler-Starkey is an economist in the Census
+Bureau’s Health and Disability Statistics Branch.
+
+This article was filed under:
+
+Age [/library/stories.html?visual-list-fb55843e87:filters=Census:Topic/ThePopulation/Age]
+
+Data Services [/library/stories.html?visual-list-fb55843e87:filters=Census:Topic/census-operations/data-equity]
+
+Health [/library/stories.html?visual-list-fb55843e87:filters=Census:Topic/Health]
+
+Health Insurance [/library/stories.html?visual-list-fb55843e87:filters=Census:Topic/Health/health-insurance]
+
+Income and Poverty [/library/stories.html?visual-list-fb55843e87:filters=Census:Topic/Income-Poverty]
+
+Population [/library/stories.html?visual-list-fb55843e87:filters=Census:Topic/ThePopulation]
+
+Related Statistics
+
+America Counts: Stories About
+Health Insurance
+
+America Counts: Stories About
+Income & Poverty
+
+Explore various America Counts stories on the topic of
+health insurance.
+
+Explore various America Counts stories on the topic of
+income and poverty.
+
+[/topics/health/health-insurance/stories.html]
+
+[/topics/income-poverty/stories.html]
+
+Current Population Survey
+(CPS)
+
+The CPS is a monthly survey sponsored by the Bureau of
+Labor Statistics and conducted by the U.S. Census
+Bureau.
+[/programs-surveys/cps.html]
+
+Subscribe
+
+Our email newsletter is sent out on the day we publish a story. Get an alert directly in your inbox to read, share and blog
+about our newest stories.
+
+SIGN UP TODAY [HTTPS://…
+
+Contact our Public Information Office [/newsroom/about.html]  for media inquiries or interviews.
+
+Related America Counts Stories
+
+Income and Poverty
+
+Income and Poverty
+
+Median Household Income Increased in 2023 for
+First Time Since 2019
+
+Supplemental Poverty Measure Below Official
+Poverty Rate in 32 States
+
+September 10, 2024
+
+September 10, 2024
+
+Non-Hispanic White households were the only group with
+higher incomes in 2023. Asian household median income
+remained the highest among all groups.
+
+Unlike the official poverty rate, the Supplemental Poverty
+Measure accounts for government assistance to low-income
+families.
+
+[https://www.census.gov/library/stories/2024/09/household-
+income-race-hispanic.html]
+
+[https://www.census.gov/library/stories/2024/09/supplement
+al-poverty-measure-states.html]
+
+Income and Poverty
+
+Supplemental Poverty Measure Rose in 2023 for
+Second Consecutive Year
+
+September 10, 2024
+
+The SPM, which accounts for noncash government assistance,
+increased to 12.9% in 2023, higher than pre-pandemic levels.
+
+[https://www.census.gov/library/stories/2024/09/supplement
+al-poverty-measure.html]
+
+More stories
+
+Population
+
+Population
+
+States With High Median Ages May Not be as
+Uniformly Old as You Think
+
+An Aging Nation: U.S. Median Age Surpassed 39 in
+2024
+
+June 26, 2025
+
+June 26, 2025
+
+A state’s median age does not tell the whole story. Florida has
+the fifth highest median age yet also has counties younger
+than the national median.
+
+Median age rose in 85% of the nation’s 387 metro areas from
+2020 to 2024 and was higher than the national median of 39.1
+in almost half of metro areas.
+
+[https://www.census.gov/library/stories/2025/06/young-old-
+counties.html]
+
+[https://www.census.gov/library/stories/2025/06/metro-areas-
+median-age.html]
+
+Employment
+
+Housing
+
+Trends in Self-Employment Among Hispanic
+Workers
+
+Property Insurance Costs Can be High in Every U.S.
+Region
+
+June 18, 2025
+
+June 10, 2025
+
+Census Bureau data show that among younger and foreign-
+born workers, Hispanic workers are self-employed at higher
+rates than non-Hispanic workers.
+
+American Community Survey data show the price of property
+insurance varied widely across the nation, but every region had
+pockets of high cost.
+
+[https://www.census.gov/library/stories/2025/06/hispanic-
+self-employment.html]
+
+[https://www.census.gov/library/stories/2025/06/property-
+insurance.html]
+
+Page Last Revised - September 10, 2024
+
+

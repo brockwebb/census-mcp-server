@@ -1,0 +1,67 @@
+United States Census Bureau | An official website of the United States Government
+
+Improvements to the
+Hispanic Origin Question
+
+November 2021
+
+Beginning in 2020, the Census Bureau implemented changes to the Hispanic origin question based on
+
+extensive research and outreach over the past decade. For more information please see the 2010
+Census Race and Hispanic Origin Alternative Questionnaire Experiment [/programs-surveys/decennial-
+
+census/decade/2010/program-management/cpex/2010-cpex-211.html] and the 2015 National Content
+
+Test [/programs-surveys/decennial-census/decade/2020/planning-management/plan/final-
+
+analysis/2015nct-race-ethnicity-analysis.html] .
+
+Building upon our research over the past decade, we improved the Hispanic origin question design and
+
+updated our data processing and coding procedures for the 2020 ACS.
+
+Although the 2020 ACS Hispanic origin question included the same three detailed checkboxes (“Mexican,
+
+Mexican Am., Chicano,” “Puerto Rican,” “Cuban”), along with a “Yes, another Hispanic, Latino, or Spanish
+origin” checkbox that was included in the 2019 ACS, there were two important changes to the 2020 ACS
+
+Hispanic origin question:
+
+The instruction to “Print origin, for example” was revised to “Print, for example.”
+
+The example groups were revised from “Argentinean, Colombian, Dominican, Nicaraguan, Salvadoran, Spaniard, and so on.” to
+“Salvadoran, Dominican, Colombian, Guatemalan, Spaniard, Ecuadorian, etc.” in order to represent the largest Hispanic
+population groups and the geographic diversity of the Hispanic or Latino category, as defined by the U.S. Office of Management
+and Budget (OMB) guidelines [https://www.govinfo.gov/content/pkg/FR-1997-10-30/pdf/97-28653.pdf] .
+
+Additionally, improvements were made to the way write-in responses to the Hispanic origin question
+
+were processed and coded. The number of characters captured in each write-in area was increased from
+30 to 200. Instead of prioritizing multiple responses into only two codes, up to six detailed codes for
+
+each write-in area were coded.
+
+The improvements made to the 2020 ACS Hispanic origin question design, processing, and coding are
+
+similar to changes made in the 2020 Census, which are presented in the blog entitled, ‘Improvements to
+the 2020 Census Race and Hispanic Origin Question Designs, Data Processing, and Coding Procedures’
+
+[/newsroom/blogs/random-samplings/2021/08/improvements-to-2020-census-race-hispanic-origin-
+
+question-designs.html] .  
+
+Related Information
+
+PRESS RELEASE
+
+Census Bureau Announces Changes for 2020 ACS 1-Year Estimates [/newsroom/press-releases/2021/changes-2020-acs-1-
+year.html]
+
+PRESS KIT
+
+2020 American Community Survey 1-Year Experimental Data Release [/newsroom/press-kits/2021/impact-pandemic-2020-acs-1-
+year.html]
+
+Page Last Revised - November 23, 2021
+
+

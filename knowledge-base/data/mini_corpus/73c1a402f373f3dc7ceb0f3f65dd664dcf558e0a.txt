@@ -1,0 +1,3541 @@
+Trends in Veteran Disability Status and 
+Service-Connected Disability: 2008–2022
+American Community Survey Reports
+
+By Jonathan Vespa and Caitlin Carter
+
+ACS-58
+
+November 2024
+
+INTRODUCTION
+
+In 2022, over 13 percent of the U.S. population had a 
+disability.1 People with disabilities are more likely to 
+face challenges, such as limited access to health care 
+services and experience poorer health outcomes.2 
+They are also more likely to face economic chal-
+lenges such as unemployment and are at a higher risk 
+of living in poverty.3 Understanding the prevalence 
+of disability and the communities it affects is piv-
+otal to addressing these economic and public health 
+disparities. 
+
+Within the population of people with disabilities, veter-
+ans represent an important group, especially in terms 
+of public health and public policy. In 2022, of the 16.2 
+million American veterans in the United States, about 
+5.4 million received compensation benefits because 
+of a service-connected disability.4 In total, more than 
+$112 billion was spent in 2022 on veterans’ disability 
+compensation benefits.5 
+
+1 U.S. Census Bureau, “Table S1810: Disability Characteristics,” 2022, 
+
+<https://data.census.gov/table/ACSST1Y2022.S1810?q=disability>.
+2 Centers for Disease Control and Prevention (CDC), “Health 
+Equity for People With Disabilities,” National Center on Birth Defects 
+and Developmental Disability, 2022, <www.cdc.gov/ncbddd/
+humandevelopment/health-equity.html>.
+
+3 Bureau of Labor Statistics, “Persons With a Disability: Labor 
+Force Characteristics Summary, A01 Results,” USDL-23-0351, 2022, 
+<www.bls.gov/news.release/pdf/disabl.pdf>; U.S. Census Bureau, 
+“Table B18130: Age by Disability Status by Poverty Status,” 2022, 
+<https://data.census.gov/table/ACSDT1Y2022.B18130?q=poverty+and
++disability>.
+
+4 U.S. Census Bureau, “Table S2101: Veteran Status,” 2022, <https://
+
+data.census.gov/table/ACSST1Y2022.S2101?q=2022+veterans>.
+5 U.S. Department of Veterans Affairs, “Veterans Benefits 
+Administration Annual Benefits Report Fiscal Year 2022,” 2022, 
+<www.benefits.va.gov/REPORTS/abr/docs/2022-abr.pdf#>.
+
+Compared with people who never served in the  
+U.S. armed forces, veterans are more likely to have a 
+disability.6 In large part, veterans have higher disability 
+rates because they are older than the population in 
+general (about one-half of veterans are aged 65 and 
+over). Higher disability rates also stem from service-
+related injuries, as well as the physical and psycho-
+logical demands of military service. As the veteran 
+population ages and faces further age-related health 
+issues, examining the prevalence of disability is crucial 
+to delivering the benefits and services that veterans 
+need.
+
+This report investigates disability among veterans of 
+the U.S. armed forces and how they compare to the 
+broader nonveteran population.7 It focuses on dis-
+ability rates among post-9/11 veterans, i.e., those who 
+have served since September 2001. Post-9/11 veter-
+ans are the youngest cohort of veterans and more 
+recently have been at the forefront of veteran public 
+health research. This report uses annual data from the 
+American Community Survey (ACS), 2008 to 2019 and 
+2021 to 2022. The U.S. Census Bureau did not release 
+its standard 2020 ACS 1-year estimates because of 
+the impacts of the COVID-19 pandemic, so data from 
+
+6 J. A. Betancourt et al., “Exploring Health Outcomes for  
+U.S. Veterans Compared to Non-Veterans From 2003 to 2019,” 
+Healthcare, Basel, Switzerland, 9(5), May 18, 2021, p. 604, <https://
+pubmed.ncbi.nlm.nih.gov/34070037/>.
+
+7 The U.S. Census Bureau reviewed this report for unauthorized 
+disclosure of confidential information and has approved the disclosure 
+avoidance practices applied to this release (Data Management System 
+[DMS] number: P-7533841, Disclosure Review Board [DRB] approval 
+number: CBDRB-FY-24-POP001-0079).
+
+2020 were not included in this 
+analysis.8 Following an earlier 
+report, it looks at the prevalence 
+of service-connected disabilities 
+(SCD) among veterans as well as 
+ACS disabilities among both the 
+veteran and nonveteran popu-
+lation.9 Lastly, the report uses 
+statistical regression analysis to 
+examine whether veterans have 
+become increasingly likely to 
+report an SCD or ACS disability 
+over time, while accounting for 
+differences in the demographic 
+and socio economic composition 
+of the veteran population.10 
+
+Highlights 
+
+•  Service-connected disabilities 
+were more common in 2022 
+than in 2008. About 30 per-
+cent of veterans had a service-
+connected disability in 2022, up 
+from 15 percent in 2008 (Figure 
+2a).
+
+•  The share of veterans with 
+
+neither a service-connected 
+disability nor an ACS disability 
+was around one-half in 2022 (52 
+percent), down from two-thirds 
+in 2008 (65 percent) (Figure 3).
+
+•  After accounting for the demo-
+graphic and socioeconomic 
+characteristics of veterans,  
+post-9/11 veterans were more 
+likely to have a service- 
+connected disability in 2022. 
+They had a 31 percent chance 
+of having a service-connected 
+disability in 2022, up from an 18 
+percent chance in 2008 (Figure 
+5a).
+
+8 2020 ACS 1-year estimates, <www.
+census.gov/programs-surveys/acs/technical-
+documentation/table-and-geography-
+changes/2020/1-year.html>.
+
+9 K. Holder, “The Disability of Veterans,” 
+
+U.S. Census Bureau, Washington, DC, 
+2015, <www.census.gov/library/working-
+papers/2016/demo/Holder-2016-01.html>.
+
+10 For more information on how veteran 
+
+periods of service are defined, refer 
+to <https://www2.census.gov/topics/
+population/veterans/guidance/acs-topic-
+information-veterans.pdf>.
+
+Figure 1.
+Disability Questions on the American Community Survey
+
+Source: American Community Survey questionnaire,
+<www.census.gov/programs-surveys/acs/about/forms-and-instructions.html>.
+
+•  In 2022, post-9/11 veterans were 
+more likely to have a cognitive 
+disability (8.9 percent chance) 
+than other veterans (4.8 percent 
+chance) or nonveterans (3.8 
+percent chance), after account-
+ing for the demographic and 
+socioeconomic characteristics 
+of these groups (Figure 6a).
+
+•  Post-9/11 veterans were more 
+likely to report a high service-
+connected disability rating than 
+in the past. In 2022,  
+post-9/11 veterans with a 
+service- connected disability had 
+a 50 percent chance of report-
+ing a high service-connected 
+disability rating (i.e., a rating of 
+70 percent or greater), up from 
+27 percent in 2008 (Figure 7).
+
+MEASURING DISABILITY
+
+Disability is a complex experience 
+between individuals and their envi-
+ronment and can be measured in 
+many ways. The medical model of 
+
+disability views it in terms of medi-
+cal conditions that need treatment 
+or therapy. Alternatively, the social 
+model views disability more as a 
+relationship between individual 
+abilities and environmental and 
+societal conditions.11 This report 
+uses the ACS functional disability 
+measure. A person reporting “yes” 
+to one or more of the disability 
+questions (refer to Figure 1) is clas-
+sified as having a disability.
+
+In addition, we examine SCDs 
+among the veteran population. A 
+service-connected disability is an 
+injury, illness, or disease that was 
+incurred during or aggravated by 
+service in the military. ACS mea-
+sures service-connected disability 
+through individuals’ responses to 
+the SCD questions (Figure 1). A 
+
+11 M. Palmer and D. Harley, “Models and 
+Measurement in Disability: An International 
+Review,” Health Policy and Planning, (7), 
+2012, pp. 357–364, <https://academic.oup.
+com/heapol/article/27/5/357/749458>.
+
+2 
+
+U.S. Census Bureau
+
+Sample, Definitions, and Concepts
+
+Sample: This report includes civilian veterans and nonveterans 
+aged 18 and over who are living in the United States. Veterans are 
+individuals who have served on active duty in the past but are not 
+currently serving. Nonveterans have never served on active duty 
+in the U.S. armed forces. The report excludes active duty service 
+members.
+
+ACS disability: Disability estimates in this report come from the 
+American Community Survey (ACS). The ACS classifies individuals 
+as having a disability if they reported difficulty with specific func-
+tional activities. The ACS considers someone to have a disability if 
+the individual self-reports having a vision, hearing, cognitive, ambu-
+latory, self-care, or independent living difficulty. The ACS attempts 
+to measure six aspects of disability, which can be used together to 
+create an overall disability measure, or independently to examine 
+populations with specific disability types. 
+
+Hearing: Deafness or serious difficulty hearing. 
+
+Vision: Blindness or serious difficulty seeing even when wearing 
+glasses.
+
+Cognitive: Difficulty concentrating, remembering, or making deci-
+sions because of a physical, mental, or emotional condition. 
+
+Ambulatory: Serious difficulty walking or climbing stairs. 
+
+Self-care: Difficulty dressing or bathing.
+
+Independent living: Difficulty doing errands alone, such as visit-
+ing a doctor’s office or shopping, because of a physical, mental, or 
+emotional condition.
+
+Service-connected disability (SCD): A disability, disease, or injury 
+incurred or aggravated during military service. The U.S. Department 
+of Veterans Affairs (VA) may assign veterans a disability rating 
+based on the severity of a service-connected medical condition. 
+The rating is graduated from 0 percent to 100 percent (in incre-
+ments of 10 percent). The VA calculates the total service-connected 
+disability rating by combining evaluations of each disability rather 
+than adding the individual ratings together. This report counts vet-
+erans as having an SCD if they answer “yes” to the ACS question-
+naire item about having a service-connected disability rating. 
+
+Importantly, service-connected disabilities are reported indepen-
+dently of ACS disabilities, and a veteran may report one or both (or 
+neither). Information about service-connected disabilities on the 
+ACS come from self-reported survey responses, which differ from 
+estimates published by the VA that are based on administrative 
+records.
+
+High service-connected disability rating: A service-connected dis-
+ability rating of 70 percent or higher. This rating does not necessar-
+ily represent having a single serious disability, since the VA evalu-
+ates each service-connected disability rather than adding individual 
+ratings.
+
+person who reports having an SCD 
+is classified as having a service-
+connected disability. Only veterans 
+may have a service-connected dis-
+ability, while any respondent may 
+report an ACS disability. 
+
+In some instances, the disabilities 
+may overlap. A veteran may have 
+hearing loss because of an injury 
+while serving, so he or she reports 
+a hearing difficulty from among 
+the listed disabilities on the ACS. 
+Other times the disabilities may 
+be independent of military service 
+(e.g., an older veteran who has dif-
+ficulty walking because of his age). 
+One of the purposes of this report 
+is to investigate the distribution of 
+service-connected and ACS dis-
+abilities among veterans to better 
+understand how these different 
+definitions of disability relate to 
+one another.
+
+Another dimension of disabil-
+ity that the report examines is 
+service -connected disability rat-
+ings. The VA assigns these ratings 
+to veterans based on the severity 
+of their injuries, which veterans 
+may then self-report on the ACS.12 
+The rating is used to determine 
+eligibility for compensation as well 
+as other benefits and programs. 
+Service-connected disability rat-
+ings are provided in the form of a 
+graduated percentage, between 
+zero and 100 percent, which 
+represents how much a disability 
+affects a veteran’s overall health 
+and ability to function. This report 
+uses the service-connected dis-
+ability ratings that are reported 
+in the ACS. In addition, it classi-
+fies veterans with a rating of 70 
+percent or higher as having a high 
+SCD rating.
+
+12 For more information on how the VA 
+
+assigns disability ratings, refer to <www.
+va.gov/disability/about-disability-ratings/>.
+
+U.S. Census Bureau 
+
+3
+
+Figure 2a.
+Veteran Service-Connected and American Community Survey (ACS) 
+Disability Rates: 2008–2022
+(In percent, civilian veterans aged 18 and over)
+
+ACS disability 
+
+Service-connected disability
+
+29.5 29.6 30.0 30.2 30.0
+
+29.1
+
+30.6 30.6 30.6
+
+31.3
+
+29.5
+
+27.8
+
+26.7
+
+25.6
+
+24.2
+
+23.0
+
+21.7
+
+20.6
+
+19.5
+
+18.3
+
+26.0
+
+26.4 26.3
+
+26.9 27.4
+
+15.1
+
+14.9
+
+15.6
+
+16.9
+
+16.1
+
+2008
+
+2010
+
+2012
+
+2014
+
+2016
+
+2018
+
+2020
+
+2022
+
+Note: Estimates for 2020 were interpolated and may not match estimates from the 2020 ACS Experimental Data. For 
+information on conﬁdentiality protection, sampling error, nonsampling error, and deﬁnitions, refer to <www.census.gov/acs>.
+Source: U.S. Census Bureau, 2008 through 2019 and 2021 through 2022 American Community Survey 1-year estimates.
+
+DISABILITY PREVALENCE 
+AMONG VETERANS
+
+The Percentage of Veterans With 
+a Service-Connected Disability 
+Has Nearly Doubled Since 2008.
+
+Over the past decade, the percent-
+age of veterans with a service-
+connected disability has nearly 
+doubled, from 15.1 percent in 2008 
+to 29.5 percent in 2022—corre-
+sponding to 4.8 million veterans 
+in 2022. ACS disability rates have 
+remained more stable, rising from 
+26.0 percent to 31.3 percent across 
+the same period (Figure 2a). 
+
+Rates of ACS disability tend to be 
+higher among older age groups, 
+although this report found that 
+
+rates of SCD increased across 
+multiple age groups.13 Among 
+veterans under the age of 65, the 
+rate of service-connected disabil-
+ity increased from 16.9 percent 
+in 2008 to 34.5 percent in 2022 
+(Figure 2b). Among veterans aged 
+65 and over, the rate of service-
+connected disability increased 
+from 12.4 percent in 2008 to 24.4 
+percent in 2022 (Figure 2b). 
+
+ACS disability rates increased 
+slightly between 2008 and 2022, 
+though those aged 65 and over 
+
+13 U.S. Census Bureau, “Table S1810: 
+Disability Characteristics,” 2022, <https://
+data.census.gov/table/ACSST1Y2022.
+S1810?q=disability>; K. Holder, “The 
+Disability of Veterans,” U.S. Census Bureau, 
+Washington, DC, 2015.
+
+consistently had higher rates than 
+their 65 and under peers through-
+out this period. Among veterans 
+under the age of 65, ACS disability 
+rates increased from 16.7 percent 
+in 2008 to 20.3 percent in 2022 
+(Figure 2c). Among veterans aged 
+65 and over, the rate increased 
+from 39.9 percent in 2008 to 42.7 
+percent in 2022 (Figure 2c).
+
+Among veterans under the age of 
+45, service-connected disabilities 
+appear to be rising at a faster rate 
+than ACS disabilities. For younger 
+veterans, rates of SCD more than 
+doubled (from 16.1 percent to 
+39.4 percent) between 2008 and 
+2022 (Figure 2d). The percentage 
+of veterans under the age of 45 
+
+4 
+
+U.S. Census Bureau
+
+Figure 2b.
+Veteran Service-Connected Disability Rates by Age: 
+2008–2022
+(In percent, civilian veterans aged 18 and over)
+
+45
+
+40
+
+35
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+Aged 65 and over
+
+Under the age of 65
+
+2008
+
+2010
+
+2012
+
+2014
+
+2016
+
+2018
+
+2020
+
+2022
+
+Note: Estimates for 2020 were interpolated and may not match estimates from the 2020 
+American Community Survey Experimental Data. For information on conﬁdentiality 
+protection, sampling error, nonsampling error, and deﬁnitions, refer to 
+<www.census.gov/acs>.
+Source: U.S. Census Bureau, 2008 through 2019 and 2021 through 2022 American 
+Community Survey 1-year estimates.
+
+Figure 2c.
+Veteran American Community Survey (ACS) Disability 
+Rates by Age: 2008–2022
+(In percent, civilian veterans aged 18 and over)
+
+Aged 65 and over
+Under the age of 65
+
+2008
+
+2010
+
+2012
+
+2014
+
+2016
+
+2018
+
+2020
+
+2022
+
+45
+
+40
+
+35
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+Note: Estimates for 2020 were interpolated and may not match estimates from the 
+2020 ACS Experimental Data. For information on conﬁdentiality protection, sampling 
+error, nonsampling error, and deﬁnitions, refer to <www.census.gov/acs>.
+Source: U.S. Census Bureau, 2008 through 2019 and 2021 through 2022 American 
+Community Survey 1-year estimates.
+
+who reported an ACS disability 
+increased from 9.0 percent to 17.2 
+percent across the same period 
+(Figure 2d). 
+
+About One-Half of Veterans 
+Reported Having No Disability in 
+2022.
+
+Veterans with service-connected 
+disabilities may not necessarily 
+have ACS disabilities such as 
+hearing, ambulatory, or self-care 
+difficulties (refer to “Measuring 
+Disability”). Overall, most veterans 
+did not report either type of 
+disability. In 2008, 65.1 percent 
+of veterans did not report either 
+kind of disability (i.e., a service-
+connected or ACS-defined 
+disability). Over time, however, 
+this percentage has declined. By 
+2022, just over one-half of veterans 
+(51.8 percent) reported having no 
+disability at all (Figure 3). 
+
+Interestingly, service-connected 
+disabilities appear to be causing 
+the decline in the percentage of 
+veterans with no disability. The 
+prevalence of ACS-only disabilities 
+decreased slightly between 2008 
+and 2022, while the prevalence of 
+SCDs increased markedly (Figure 
+3). In 2008, 8.8 percent of veterans 
+had only a SCD. By 2022, this fig-
+ure had increased to about 17 per-
+cent, while the share of veterans 
+with both ACS and SCD doubled 
+(from 6.2 percent to 12.6 percent 
+across the same period). 
+
+Veterans Have Been Reporting 
+Higher Service-Connected 
+Disability Ratings Over Time.
+
+About one-half of veterans had 
+some kind of disability in 2022, 
+whether an ACS or service-
+connected disability (Figure 3). 
+Trends in Figure 3 suggest that 
+the increase in disability rates 
+overall among veterans is driven 
+by the increase in SCD rates 
+specifically. Another way to look 
+
+U.S. Census Bureau 
+
+5
+
+Figure 2d.
+Service-Connected and American Community Survey (ACS) Disability Rates 
+For Veterans Under the Age of 45: 2008–2022
+(In percent, civilian veterans aged 18 and over)
+
+37.8
+
+39.4
+
+Service-connected disability, under the age of 45
+
+ACS disability, under the age of 45
+
+36.1
+
+34.4
+
+31.6
+
+29.7
+
+27.8
+
+25.3
+
+23.6
+
+21.8
+
+19.5
+
+16.8
+
+17.4
+
+17.9
+
+16.1
+
+9.0
+
+9.2
+
+8.4
+
+9.0
+
+9.7
+
+11.0
+
+11.2
+
+12.5
+
+11.9
+
+13.1
+
+13.1
+
+14.4
+
+17.2
+
+16.1
+
+15.2
+
+2008
+
+2010
+
+2012
+
+2014
+
+2016
+
+2018
+
+2020
+
+2022
+
+Note: Estimates for 2020 were interpolated and may not match estimates from the 2020 ACS Experimental Data. For information on 
+conﬁdentiality protection, sampling error, nonsampling error, and deﬁnitions, refer to <www.census.gov/acs>.
+Source: U.S. Census Bureau, 2008 through 2019 and 2021 through 2022 American Community Survey 1-year estimates.
+
+at this increase is to examine 
+whether more veterans are report-
+ing high SCD ratings than in the 
+past. We classified veterans with 
+a self-reported rating of 70 per-
+cent or above as having a high 
+SCD rating (for more informa-
+tion on veteran disability ratings, 
+refer to “Measuring Disability” 
+and “Sample, Definitions, and 
+Concepts”). For comparison, we 
+also examined whether veterans 
+reported multiple ACS disabilities. 
+
+The percentage of veterans with a 
+high service-connected disability 
+rating increased nearly fivefold 
+(from 2.6 percent to 12.8 percent) 
+between 2008 and 2022 (Figure 
+4). Although more veterans 
+reported multiple ACS disabilities 
+
+than a high service-connected 
+disability rating, the change over 
+time for multiple ACS disabilities 
+was far less pronounced. Between 
+2008 and 2022, the percentage 
+of veterans with two or more ACS 
+disabilities increased from 12.5 to 
+15.3 percent.
+
+The prevalence of high service-
+connected disability ratings 
+depends on when a veteran 
+served. Previous research has indi-
+cated that high disability ratings 
+are most common among post-
+9/11 veterans. In 2018,  
+post-9/11 veterans reported the 
+largest percentage with a high 
+SCD rating (nearly 16 percent), 
+followed by Gulf War veterans (13.1 
+percent), and Vietnam veterans 
+
+(9.8 percent).14 The prevalence of 
+high SCD ratings among Korean 
+War and World War II veterans 
+was much lower, at 3.4 percent 
+and 3.7 percent, respectively (the 
+two estimates are not significantly 
+different from one another). 
+
+There are several reasons why we 
+observe higher SCD ratings among 
+more recent service periods, 
+including selection bias and policy 
+changes. First, only the healthi-
+est older veterans are still alive, 
+as those with severe disabilities 
+would have higher mortality rates, 
+
+14 J. Vespa, “Those Who Served: 
+
+America’s Veterans From World War II to 
+the War on Terror,” American Community 
+Survey Reports, ACS-43, U.S. Census Bureau, 
+Washington, DC, 2020, <www.census.
+gov/content/dam/Census/library/publica-
+tions/2020/demo/acs-43.pdf>.
+
+6 
+
+U.S. Census Bureau
+
+Figure 3.
+Veteran Disability Status: 2008 and 2022
+(In percent)
+
+2008
+
+2022
+
+65.1
+
+51.8
+
+19.8
+
+18.7
+
+16.9
+
+8.8
+
+12.6
+
+6.2
+
+No disability
+
+American Community
+Survey
+ disability only 
+
+Service-Connected
+Disability
+ only
+
+Both ACS and SCD
+disability  
+
+Note: For information on conﬁdentiality protection, sampling error, nonsampling error, and deﬁnitions, refer to <www.census.gov/acs>.
+Source: U.S. Census Bureau, 2008 and 2022 American Community Survey 1-year estimates.
+
+Most Common Service-Connected Disabilities
+
+According to the U.S. Department of Veterans Affairs, the ten most 
+prevalent service-connected disabilities in 2022 were:
+
+Tinnitus.
+1. 1.  Tinnitus.
+
+Limitation of flexion, knee.
+2. 2.  Limitation of flexion, knee.
+
+Hearing loss.
+3. 3.  Hearing loss.
+
+Post-traumatic stress disorder (PTSD).
+4. 4.  Post-traumatic stress disorder (PTSD).
+
+Lumbosacral or cervical strain.
+5. 5.  Lumbosacral or cervical strain.
+
+Paralysis of the sciatic nerve.
+6. 6.  Paralysis of the sciatic nerve.
+
+Scars, general.
+7. 7.  Scars, general.
+
+Limitation of motion of the ankle.
+8. 8.  Limitation of motion of the ankle.
+
+Limitation of motion of the arm.
+9. 9.  Limitation of motion of the arm.
+
+Migraine.
+10.  Migraine.
+10. 
+
+and the healthiest post-9/11 service 
+members may still be serving (and 
+thus not yet counted among the 
+population of veterans).15 Both 
+instances would represent selec-
+tivity in the veteran population. 
+Second, high ratings could reflect 
+a greater likelihood of injury or 
+illness while serving for post-9/11 
+veterans. And third, high ratings 
+may reflect changes in the VA’s 
+schedule of service-connected dis-
+abilities and how their ratings are 
+assessed (e.g., changes in eligibil-
+ity rules for post-traumatic stress 
+
+Source: U.S. Department of Veterans Affairs, “Annual Benefits 
+Report: Fiscal Year 2022,” Veterans Benefits Administration, 
+Washington, DC, 2022, <www.benefits.va.gov/REPORTS/abr/
+docs/2022-abr.pdf>.
+
+15 C. Maynard, K. Nelson, and S. Fihn, 
+
+“Disability Rating and 1-Year Mortality 
+Among Veterans With Service-Connected 
+Disability Conditions,” Public Health Report, 
+Volume 133, Issue 6, November 2018,  
+pp. 692–699, <https://pubmed.ncbi.nlm.nih.
+gov/30223760/>. 
+
+U.S. Census Bureau 
+
+7
+
+Figure 4.
+Veterans With Two or More American Community Survey (ACS) Disabilities or High 
+Service-Connected Disability (SCD) Rating: 2008–2022
+(In percent, civilian veterans aged 18 and over)
+
+14.2
+
+14.4
+
+14.6 14.8
+
+14.8 14.7
+
+15.1
+
+15.0
+
+15.0
+
+15.3
+
+12.8
+
+12.9
+
+12.5
+
+13.6
+
+13.2
+
+12.8
+
+11.5
+
+10.5
+
+9.6
+
+Two or more ACS 
+disabilities
+
+High SCD rating
+
+8.5
+
+7.7
+
+6.9
+
+6.2
+
+5.5
+
+4.9
+
+4.2
+
+3.8
+
+3.0
+
+3.2
+
+2.6
+
+2008
+
+2010
+
+2012
+
+2014
+
+2016
+
+2018
+
+2020
+
+2022
+
+Note: High SCD rating refers to a service-connected disability rating of 70 percent or higher. Estimates for 2020 were interpolated and 
+may not match estimates from the 2020 ACS Experimental Data. Data based on sample. For information on conﬁdentiality protection, 
+sampling error, nonsampling error, and deﬁnitions refer to <www.census.gov/acs>.
+Source: U.S. Census Bureau, 2008 through 2019 and 2021 through 2022 American Community Survey 1-year estimates.
+
+disorder, or PTSD).16 We will return 
+to this trend of higher service-
+connected disability ratings in 
+the last section of this report and 
+investigate whether post-9/11 vet-
+erans are more likely to have high 
+ratings, net of other important 
+demographic and socioeconomic 
+characteristics. 
+
+TYPES OF DISABILITY 
+AMONG VETERANS AND 
+NONVETERANS
+
+Although the number of non-
+veterans with an ACS disability far 
+
+16 K. Contreary, J. Tennant, and  
+Y. Ben-Shalom, “Impacts of the 2010 
+VA PTSD Rule Change on Veterans’ 
+Disability Compensation and Reported 
+Cognitive Disability,” Journal of 
+Disability Policy Studies, Volume 28, 
+Issue 3, 2017, pp. 141–149, <https://doi.
+org/10.1177/1044207317714747>.
+
+exceeds that of veterans with an 
+ACS disability (37.7 million versus 
+5.1 million, respectively), disability 
+rates are about twice as prevalent 
+among the veteran population 
+(Table 1). The most common type 
+of ACS disability among veterans 
+was ambulatory difficulty, followed 
+by hearing difficulty. About 16 
+percent of veterans reported either 
+one. Among nonveterans, the most 
+common ACS disability was also 
+ambulatory, but the second most 
+common was independent living. 
+About 8 percent of nonveterans 
+reported an ambulatory difficulty 
+and 6 percent reported an inde-
+pendent living difficulty. 
+
+The types of ACS disability among 
+veterans varied widely by their 
+period of military service, which is 
+
+a proxy for age.17 For example, over 
+two-thirds (69 percent) of veter-
+ans who served during the Korean 
+War reported an ACS disability. In 
+contrast, less than one-quarter of  
+Gulf War and post-9/11 veterans 
+(21 and 19 percent, respectively) 
+reported an ACS disability (Table 2).
+
+Looking at disability type, the pro-
+portion of post-9/11 veterans with 
+a cognitive disability was higher 
+than either Gulf War or Vietnam 
+veterans (Table 2). This suggests 
+that post-9/11 veterans may be 
+more likely to have cognitive dis-
+abilities than some groups of vet-
+erans. However, cognitive disability 
+is closely tied with a veteran’s age 
+
+17 Veterans may serve in multiple periods. 
+This report categorizes veterans in their most 
+recent period of service.
+
+8 
+
+U.S. Census Bureau
+
+Table 1.
+Prevalence of American Community Survey (ACS) Disabilities by Veteran Status: 2022
+(Numbers in thousands, civilian population aged 18 and over)
+
+Veteran
+
+Nonveteran
+
+Characteristic
+
+   Total. . . . . . . . . . . .
+Has an ACS disability  . . . . . .
+ Hearing . . . . . . . . . . . . . . . . .
+ Vision. . . . . . . . . . . . . . . . . . .
+ Ambulatory . . . . . . . . . . . . .
+ Cognitive  . . . . . . . . . . . . . . .
+ Self-care . . . . . . . . . . . . . . . .
+ Independent living . . . . . . .
+
+Number
+16,200
+5,072
+2,541
+768
+2,615
+1,528
+934
+1,601
+
+Standard 
+error
+43.1
+20.3
+16.2
+9.5
+14.6
+12.3
+9.0
+12.9
+
+Percent
+100.0
+31.3
+15.7
+4.7
+16.1
+9.4
+5.8
+9.9
+
+Standard 
+error
+X
+0.1
+0.1
+0.1
+0.1
+0.1
+0.1
+0.1
+
+Number
+243,400
+37,680
+9,553
+7,191
+19,470
+14,680
+7,732
+15,340
+
+Standard 
+error
+40.3
+74.1
+34.8
+36.3
+59.2
+46.2
+33.9
+45.7
+
+Percent
+100.0
+15.5
+3.9
+3.0
+8.0
+6.0
+3.2
+6.3
+
+Standard 
+error
+X
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+
+X Not applicable.
+Z Indicates a value of less than 0.0.
+Note: People can have more than one disability. As a result, estimates will not sum to the total. Data based on sample. For information on 
+
+confidentiality protection, sampling error, nonsampling error, and definitions refer to <www.census.gov/acs>.
+
+Source: U.S. Census Bureau, 2022 American Community Survey 1-year estimates.
+
+(as the trends in Table 2 suggest). 
+Age differences in veteran cohorts 
+must be accounted for to better 
+understand the likelihood of hav-
+ing a cognitive disability, an analy-
+sis that we will return to in the last 
+section of the report.
+
+Veterans With a Service-
+Connected Disability (SCD) Are 
+Twice as Likely to Have Cognitive 
+Difficulty Than Veterans Without 
+an SCD. 
+
+Although the ACS does not collect 
+information on the specific disabil-
+ity diagnoses, this report esti-
+mated general disability categories 
+among veterans with SCDs by 
+examining which ACS difficulties 
+they reported. In 2022, 42.7 per-
+cent of veterans with an SCD also 
+reported having at least one ACS 
+disability (Table 3). Among these 
+veterans, the most prevalent ACS 
+disability was hearing, followed by 
+ambulatory. 
+
+Across each of the six types of 
+ACS disabilities, veterans with an 
+SCD were more likely to report a 
+difficulty than veterans without 
+an SCD. In other words, all types 
+of disability measured by the ACS 
+were overrepresented among 
+veterans with an SCD (Table 3). 
+Interestingly, veterans with an SCD 
+
+were twice as likely to report cog-
+nitive difficulty as their peers who 
+did not have an SCD.
+
+REGRESSION ANALYSIS: 
+PREDICTING THE LIKELIHOOD 
+OF HAVING A SERVICE-
+CONNECTED DISABILITY 
+OVER TIME
+
+Veterans have higher ACS dis-
+ability rates than nonveterans, and 
+post-9/11 veterans have higher 
+rates of SCDs than other veteran 
+groups. Several different factors 
+likely underlie these trends. The 
+most obvious is age. The veteran 
+population is substantially older 
+than the American population in 
+general (median age of 65 versus 
+39).18 As a result, ACS disability 
+rates such as hearing or vision 
+difficulties may be higher among 
+veterans because they are much 
+older, on average, than the general 
+population. Even among veterans, 
+certain service cohorts may have 
+selective characteristics, such as 
+sex, education, or distinctive tours 
+
+18 For the median age of veterans, refer 
+to J. Vespa, “Those Who Served: America’s 
+Veterans From World War II to the War 
+on Terror,” American Community Survey 
+Reports, ACS-43, U.S. Census Bureau, 
+Washington, DC, 2020. For the median 
+age of the U.S. population, refer to “Table 
+S0101: Age and Sex,” U.S. Census Bureau, 
+Washington, DC, <https://data.census.gov/
+table/ACSST1Y2022.S0101>.
+
+of duty and service experiences, 
+that are linked to either ACS or 
+service-connected disabilities. 
+Another reason that veterans 
+may have higher disability rates is 
+because they were injured while 
+serving or that the physical and 
+mental stresses of training or com-
+bat took a toll on their health. 
+
+To try to account for these numer-
+ous factors, we used a type of 
+statistical analysis, logistic regres-
+sion, to test whether ACS and 
+service-connected disability rates 
+have significantly increased over 
+time while taking into account the 
+effect of other characteristics, such 
+as age. This ability is the chief ben-
+efit of regression analysis—that it 
+helps separate the effects of time 
+and period of service from other 
+factors that also affect disability. In 
+a sense, regression analysis lets us 
+compare veterans and nonveter-
+ans of the same age, sex, race, and 
+income (among other character-
+istics) so that veteran status is the 
+only measured difference between 
+them, thereby isolating the effect 
+that being a veteran has on disabil-
+ity prevalence. 
+
+To aid in interpreting the regres-
+sion analyses, this report presents 
+a series of predicted probabilities 
+in Figures 5 through 7. Predicted 
+
+U.S. Census Bureau 
+
+9
+
+Table 2.
+Prevalence of Service-Connected and American Community Survey (ACS) Disabilities  
+by Type and Service Cohorts: 2022
+(In percent, civilian veterans aged 18 and over)
+
+Characteristic
+
+All  
+veterans
+
+Post-9/11 Gulf War
+
+Peacetime 
+(1975 or 
+later)
+
+Vietnam 
+War
+
+Korean 
+War
+
+World 
+War II
+
+Peacetime 
+(before 
+1975)
+
+Has service-connected  
+
+disability  . . . . . . . . . . . . . . . . .
+
+Has ACS disability . . . . . . . . . .
+ Hearing . . . . . . . . . . . . . . . . . .
+ Vision. . . . . . . . . . . . . . . . . . . .
+ Ambulatory . . . . . . . . . . . . . .
+ Cognitive  . . . . . . . . . . . . . . . .
+ Self-care . . . . . . . . . . . . . . . . .
+ Independent living . . . . . . . .
+
+29.5
+
+31.3
+15.7
+4.7
+16.1
+9.4
+5.8
+9.9
+
+45.4
+
+19.1
+7.2
+2.1
+6.1
+9.7
+2.2
+5.3
+
+32.4
+
+21.0
+8.4
+3.0
+10.4
+7.4
+3.2
+5.6
+
+17.9
+
+26.2
+9.8
+4.5
+15.1
+7.8
+5.0
+7.6
+
+27.1
+
+39.1
+22.3
+6.0
+20.7
+8.8
+7.0
+10.9
+
+12.5
+
+68.6
+41.3
+12.9
+44.0
+20.0
+20.1
+35.4
+
+11.9
+
+83.1
+52.5
+19.1
+61.7
+27.9
+35.1
+56.3
+
+9.1
+
+52.7
+30.8
+8.3
+30.0
+12.6
+11.0
+19.6
+
+Note: Veterans can have more than one type of disability. As a result, estimates will not sum to the total. In addition, periods of service are not 
+
+mutually exclusive. Data based on sample. For information on confidentiality protection, sampling error, nonsampling error, and definitions, refer 
+to <www.census.gov/acs>.
+
+Source: U.S. Census Bureau, 2022 American Community Survey 1-year estimates.
+
+Table 3.
+American Community Survey (ACS) Disability Type by Service-Connected Disability Status: 2022
+(Numbers in thousands, civilian veterans aged 18 and over)
+
+Characteristic
+
+   Total veterans . .
+
+Has ACS disability . . . . . .
+ Hearing . . . . . . . . . . . . . .
+ Vision. . . . . . . . . . . . . . . .
+ Ambulatory . . . . . . . . . .
+ Cognitive  . . . . . . . . . . . .
+ Self-care . . . . . . . . . . . . .
+ Independent living . . . .
+
+Veterans, no service-connected disability
+
+Veterans, with service-connected disability
+
+Number
+11,420
+
+Standard 
+error
+36.8
+
+Percent
+100.0
+
+Standard 
+error
+X
+
+Number
+4,781
+
+Standard 
+error
+25.6
+
+Percent
+100.0
+
+Standard 
+error
+X
+
+3,029
+1,458
+503
+1,623
+803
+589
+1,018
+
+16.7
+10.8
+7.9
+12.7
+9.4
+7.0
+10.0
+
+26.5
+12.8
+4.4
+14.2
+7.0
+5.2
+8.9
+
+0.1
+0.1
+0.1
+0.1
+0.1
+0.1
+0.1
+
+2,043
+1,083
+265
+992
+725
+345
+583
+
+14.7
+11.6
+5.4
+8.3
+9.0
+5.3
+8.0
+
+42.7
+22.6
+5.5
+20.7
+15.2
+7.2
+12.2
+
+0.2
+0.2
+0.1
+0.2
+0.2
+0.1
+0.2
+
+X Not applicable.
+Note: People can have more than one disability. As a result, estimates will not sum to the total. Data based on sample. For information on 
+
+confidentiality protection, sampling error, nonsampling error, and definitions, refer to <www.census.gov/acs>.
+
+Source: U.S. Cenusu Bureau, 2022 American Community Survey 1-year estimates.
+
+probabilities are the likelihood or 
+chance that a veteran has a type 
+of disability (the full regression 
+results are presented in Appendix 
+B). They were calculated holding a 
+veteran’s demographic and socio-
+economic characteristics at their 
+mean level (i.e., the probabilities 
+reflect the chances of having an 
+ACS or service-connected disabil-
+ity for the average veteran).
+
+Regression Analysis Shows That 
+Service-Connected Disability 
+Rates Have Increased Significantly 
+Among Post-9/11 Veterans Since 
+2008.
+
+trend is that the rate of increase 
+was about one-and-one-half times 
+greater for post-9/11 veterans 
+than for veterans of other service 
+periods.
+
+On average, post-9/11 veterans had 
+a 31.3 percent chance of having 
+a service-connected disability in 
+2022, up from 17.7 percent in 2008. 
+In comparison, the probability for 
+other veterans increased more 
+slowly, from 11.1 to 21.0 percent, 
+across the same period (Figure 
+5a). Another way of looking at this 
+
+In contrast to the increasing 
+likelihood of having a service- 
+connected disability, the prob-
+ability of having a general ACS 
+disability did not change for 
+post-9/11 veterans between 2008 
+and 2022 (Figure 5b). Their overall 
+probability is significantly higher 
+than that of other veterans, which 
+
+10 
+
+U.S. Census Bureau
+
+is surprising. Other veterans are 
+much older than post-9/11 veter-
+ans, and a person’s age is a key 
+factor in developing disabilities 
+such as difficulty seeing, hearing, 
+or walking. Even when compared 
+with nonveterans, post-9/11 veter-
+ans were twice as likely to have an 
+ACS disability in 2022 (10.5 per-
+cent chance for nonveterans com-
+pared with 22.0 percent chance for 
+post-9/11 veterans). 
+
+Looking at the intersection of 
+SCDs and ACS disabilities, the 
+probability of veterans reporting 
+both types increased significantly 
+since 2008. A post-9/11 veteran 
+had about a 9 percent chance of 
+reporting both kinds of disability, 
+compared with about a 7 percent 
+chance for other veterans in 2022 
+(Figure 5c). 
+
+Taken together, the results in these 
+three figures (Figures 5a through 
+5c) show that post-9/11 veterans 
+were more likely to report an SCD 
+than other veterans and were more 
+likely to report an ACS disabil-
+ity than either other veterans or 
+no nveterans. Furthermore, post-
+9/11 veterans’ chances of reporting 
+a service-connected disability have 
+increased significantly over time.
+
+Regression Analysis Shows 
+That Post-9/11 Veterans Were 
+More Likely to Have a Cognitive 
+Disability Than the Broader 
+Population.
+
+Cognitive impairments are one 
+type of disability that respondents 
+can report on the ACS. Cognitive 
+disability includes difficulty con-
+centrating, remembering, or mak-
+ing decisions because of a physi-
+cal, mental, or emotional condition. 
+Do post-9/11 veterans have distinc-
+tive trends in reporting cognitive 
+disabilities? 
+
+They do. Post-9/11 veterans were 
+more likely to have a cognitive 
+
+disability than other veterans, even 
+after accounting for differences 
+in their demographic and socio-
+economic characteristics: an 8.9 
+percent chance compared with a 
+4.8 percent chance, respectively 
+(Figure 6a).
+
+Post-9/11 veterans may be more 
+likely to report a cognitive disabil-
+ity because this type of condition 
+has become more common among 
+younger groups of people over-
+all, regardless of military service. 
+Among the nonveteran population, 
+the chances of having a cognitive 
+disability have risen since 2008, 
+but those chances are significantly 
+lower than those for post-9/11 
+veterans—even after accounting 
+for age differences between these 
+groups. A nonveteran had a 3.8 
+percent chance of having a cogni-
+tive disability in 2022, compared 
+with an 8.9 percent chance for 
+post-9/11 veterans (Figure 6a). 
+
+Looking at the intersection of 
+service-connected and cogni-
+tive disabilities, regression results 
+show that the probability of having 
+a cognitive disability is highest 
+among veterans with an SCD. For 
+veterans who do not have an SCD, 
+the chances of having a cognitive 
+disability are significantly smaller 
+(Figure 6b). More importantly, the 
+regression results show that these 
+probabilities in 2022 were not sig-
+nificantly different than they were 
+in 2008.
+
+The Census Bureau does not col-
+lect information on specific types 
+of service-connected disability. It 
+is possible that cognitive impair-
+ment is a proxy for reporting post-
+traumatic stress disorder (PTSD) 
+and other major symptoms of 
+depression. Other researchers have 
+reported that rates of PTSD have 
+been rising over time, although it is 
+unclear whether post-9/11 veterans 
+
+are more likely to report it than 
+other veterans.19, 20 
+
+Regression Results Show That 
+Having High Service-Connected 
+Disability Ratings Was More Likely 
+in 2022 Than 2008. 
+
+As discussed earlier in the report, 
+more veterans are reporting high 
+SCD ratings than in the past. This 
+kind of rating represents one or 
+more injuries or conditions that 
+severely impair a veteran’s daily 
+life and activities. Since 2008, the 
+proportion of veterans with a high 
+service-connected disability rating 
+has increased from 2.6 percent to 
+12.8 percent in 2022 (Figure 4). 
+
+Regression results support this 
+conclusion. Among post-9/11 
+veterans with a service-connected 
+disability, the probability of having 
+a high disability rating increased 
+from 27.4 to 50.4 percent between 
+2008 and 2022 (Figure 7). In other 
+words, if post-9/11 veterans have 
+a service-connected disability, 
+there is a 1-in-2 chance that it will 
+be rated at 70 percent or higher. 
+These chances were higher than 
+those for other veterans, although 
+the probability for other veterans 
+increased significantly as well 
+(from 18.7 to 38.2 percent across 
+the same period).
+
+Possible Causes and Data 
+Limitations
+
+There are many reasons why post-
+9/11 veterans were more likely to 
+have an ACS disability and SCD 
+
+19 R. J. Glasser, Broken Bodies, Shattered 
+Minds: A Medical Odyssey from Vietnam to 
+Afghanistan, History Publishing Company, 
+Palisades, NY, 2011.
+
+20 T. L. Tanielian and L. H. Jaycox (eds), 
+
+Invisible Wounds of War: Psychological 
+and Cognitive Injuries, Their Consequences, 
+and Services to Assist Recovery, RAND 
+Corporation, Santa Monica, CA, 2008;  
+P. P. Schnurr, C. A. Lunney, M. J. Bovin, 
+and B. P. Marx, “Posttraumatic Stress 
+Disorder and Quality of Life: Extension of 
+Findings to Veterans of the Wars in Iraq and 
+Afghanistan,” Clinical Psychology Review, 29, 
+2009, pp. 727–735.
+
+U.S. Census Bureau 
+
+11
+
+Figure 5a.
+Predicted Probability of 
+Having a Service-Connected 
+Disability: 2008 and 2022
+(In percent)
+
+Post-9/11 veterans
+All other veterans
+
+31.3
+
+21.0
+
+17.7
+
+11.1
+
+Figure 5b.
+Predicted Probability of 
+Having an American 
+Community Survey Disability: 
+2008 and 2022
+(In percent)
+
+Figure 5c.
+Predicted Probability of 
+Having Both an American 
+Community Survey Disability 
+and Service-Connected 
+Disability: 2008 and 2022
+(In percent)
+
+Post-9/11 veterans
+All other veterans
+Nonveterans
+
+Post-9/11 veterans
+All other veterans
+
+22.1
+
+14.4
+
+10.5
+
+22.0
+
+14.4
+
+10.5
+
+5.5
+
+4.2
+
+8.5
+
+6.6
+
+2022
+
+2008
+
+2022
+
+2008
+
+2022
+
+2008
+
+Note: Data based on sample. For information on conﬁdentiality protection, sampling error, nonsampling error, and deﬁnitions refer 
+to <www.census.gov/acs>.
+Source: U.S. Census Bureau, 2008 and 2022 American Community Survey 1-year estimates. 
+
+than other veterans, and why these 
+chances have increased over time. 
+As prior research has noted,  
+post-9/11 veterans may be more 
+likely to experience an injury 
+during their service because of 
+distinctive tours of duty or ser-
+vice conditions that other veteran 
+cohorts did not experience.21 What 
+is more, medical advances have 
+made it more likely for veterans 
+to survive injuries that would have 
+
+21 Coinciding with the wars in Iraq and 
+Afghanistan, the number of veterans with 
+service-connected disabilities has increased 
+since 2001, after decades of remaining 
+relatively stable. Refer to M. Duggan, “The 
+Labor Market Effects of the VA’s Disability 
+Compensation Program,” Stanford University 
+Economic Policy Research, Stanford, 
+California, 2014.
+
+been fatal in prior decades.22 Both 
+reasons could explain why  
+post-9/11 veterans were more likely 
+to have a service connected or 
+ACS disability than other veterans. 
+
+These are not the only reasons, 
+however. One alternative may be 
+
+22 M. S. Goldberg, “Death and Injury 
+Rates of U.S. Military Personnel in Iraq,” 
+Military Medicine, 175(4), 2010, pp. 220–226. 
+Also refer to T. Regan, “Report: High 
+Survival Rate for U.S. Troops Wounded in 
+Iraq,” Christian Science Monitor,  
+November 29, 2004; D. Warden, “Military 
+TBI During the Iraq and Afghanistan Wars,” 
+Journal of Head Trauma Rehabilitation, 
+21(5), 2006, pp. 398–402; R. J. Glasser, 
+Broken Bodies, Shattered Minds: A Medical 
+Odyssey From Vietnam to Afghanistan, 
+History Publishing Company, Palisades, 
+NY, 2011; and Harvard University, “Ninety 
+Percent of U.S. Wounded Survive: In Iraq, 
+Firepower Increases, Deaths Decrease,” 
+Science Daily, 2005, <www.sciencedaily.com/
+releases/2005/01/050127234012.htm>.
+
+selection bias. Only the healthiest 
+and youngest veterans of older 
+service periods (such as World 
+War II, the Korean War, and the 
+Vietnam War) are still alive today. 
+The oldest individuals, and those 
+in the worst health, have already 
+passed away, which has left a 
+selective group of older veterans 
+who look healthier compared with 
+post-9/11 veterans. Similarly, the 
+youngest post-9/11 service mem-
+bers may still be serving on active 
+duty and therefore are not yet 
+counted among the veteran popu-
+lation (ACS classifies individuals as 
+veterans if they served in the past 
+but are not currently serving on 
+active duty). 
+
+12 
+
+U.S. Census Bureau
+
+Figure 6a.
+Predicted Probability of Having a Cognitive Disability: 
+2008 and 2022
+(In percent)
+
+Post-9/11 veterans
+
+All other veterans
+
+Nonveterans
+
+8.1
+
+4.4
+
+3.5
+
+8.9
+
+4.8
+
+3.8
+
+2008
+
+2022
+
+Note: Data based on sample. For information on conﬁdentiality protection, sampling 
+error, nonsampling error, and deﬁnitions, refer to <www.census.gov/acs>.
+Source: U.S. Census Bureau, 2008 and 2022 American Community Survey 1-year 
+estimates.
+
+Figure 6b.
+Predicted Probability of Having a Cognitive Disability by 
+Service-Connected Disability (SCD): 2008 and 2022
+(In percent)
+
+With SCD, post-9/11 veterans
+With SCD, all other veterans
+
+No SCD, post-9/11 veterans
+No SCD, all other veterans
+
+15.9
+
+10.4
+
+7.0
+
+4.4
+
+15.9
+
+10.4
+
+7.1
+
+4.5
+
+2008
+
+2022
+
+Note: Data based on sample. For information on conﬁdentiality protection, sampling 
+error, nonsampling error, and deﬁnitions, refer to <www.census.gov/acs>.
+Source: U.S. Census Bureau, 2008 and 2022 American Community Survey 1-year 
+estimates.
+
+More importantly, changes in 
+service-connected disabilities and 
+ratings are directly tied to how the 
+VA classifies and assigns ratings. 
+Such policy changes would sub-
+stantially alter service-connected 
+disability rates and ratings among 
+veterans. For example, classifi-
+cations for PTSD have changed 
+significantly over time.23 The impor-
+tance of these kinds of adjustments 
+and schedule changes cannot be 
+overstated because they directly 
+affect the number of veterans with 
+a service-connected disability and 
+which disability rating has been 
+assigned to those injuries and ill-
+nesses. The regression analyses 
+presented in this report do not 
+control for these kinds of policy 
+and schedule changes.
+
+SUMMARY
+
+This report examined two types 
+of disability rates among veter-
+ans, ACS-defined disabilities and 
+service-connected disabilities, and 
+explored whether their probability 
+of having either kind of disability 
+has increased over time. Compared 
+with 2008, veterans in 2022 were 
+more likely to have a service-
+connected disability and to have 
+a high SCD rating (i.e., an SCD 
+rating of 70 percent or higher). In 
+contrast, although the likelihood 
+of having an ACS disability has not 
+increased since 2008, veterans 
+remained significantly more likely 
+to have an ACS disability than 
+nonveterans.
+
+Regression analysis, which con-
+trolled for demographic and 
+socioeconomic differences among 
+the veteran population, supported 
+the conclusion that recent veterans 
+have become increasingly likely to 
+report a service-connected disabil-
+ity. This report found that post-9/11 
+
+23 F. D. Nidiffer and S. Leach, “To Hell and 
+
+Back: Evolution of Combat-Related Post 
+Traumatic Stress Disorder,” Developments in 
+Mental Health Law, 29, 2010, pp. 1–22.
+
+U.S. Census Bureau 
+
+13
+
+Figure 7.
+Predicted Probability of Having a High Service-Connected 
+Disability (SCD) Rating Among Veterans With an SCD: 
+2008 and 2022
+(In percent)
+
+Post-9/11 veterans
+
+All other veterans
+
+50.4
+
+38.2
+
+27.4
+
+18.7
+
+2008
+
+2022
+
+Note: High SCD refers to service-connected disability rating of 70 percent or higher. 
+Data based on sample. For information on conﬁdentiality protection, sampling error, 
+nonsampling error, and deﬁnitions, refer to <www.census.gov/acs>.
+Source: U.S. Census Bureau, 2008 and 2022 American Community Survey 1-year 
+estimates.
+
+veterans were more likely to have a 
+disability than both other veterans 
+and nonveterans on several dif-
+ferent levels: (1) to have a service-
+connected disability; (2) to have a 
+high service-connected disability 
+rating; (3) to have an ACS-defined 
+disability; and (4) to have a cogni-
+tive disability. For each of these 
+dimensions of disability, post-9/11 
+veterans were more likely to have 
+that kind of disability than other 
+groups of veterans. Additionally, 
+post-9/11 veterans’ chances of hav-
+ing these dimensions of disability 
+have all increased since 2008 
+(except for ACS disabilities, which 
+did not significantly change over 
+time).
+
+These findings come with impor-
+tant caveats. The regression analy-
+ses were limited by what could be 
+measured with ACS data. Other 
+characteristics may underlie the 
+link between post-9/11 veterans 
+
+and disability, such as length of 
+military service and repeated tours 
+of duty to war zones. Regression 
+analysis cannot show that military 
+service causes more injuries and 
+illnesses today. Medical technol-
+ogy allows veterans to survive 
+injuries that might have been fatal 
+in the past. And more importantly, 
+changes in service-connected 
+disabilities are directly tied to 
+adjustments in the VA’s ratings and 
+schedules. 
+
+We conclude that post-9/11 vet-
+erans were more likely to have a 
+service-connected disability than 
+other groups of veterans and that 
+the likelihood has significantly 
+increased since 2008. Post-9/11 
+veterans were more likely to have 
+a high SCD rating than they were 
+in 2008. This report highlights the 
+need to better understand how 
+the physical and psychological 
+demands of military service affect 
+
+the long-term health and well-
+being of veterans, as well as the 
+importance of examining multiple 
+dimensions of disability. 
+
+DATA, SOURCE, AND 
+ACCURACY 
+
+This report uses data from the 
+American Community Survey, 
+which is a nationwide survey 
+designed to provide timely and 
+reliable data every year on the 
+demographic, social, economic, 
+and housing characteristics of the 
+nation, states, counties, and other 
+localities. The survey has an annual 
+sample size of about 3.5 million 
+addresses across the United States 
+and Puerto Rico and includes both 
+housing units and group quarters. 
+The ACS is conducted in every 
+county throughout the nation. The 
+ACS 1-year data are released for 
+geographic areas with populations 
+of 65,000 or greater. The ACS 
+5-year data are released for all 
+geographic areas. For information 
+on the ACS sample design and 
+other topics, visit <www.census.
+gov/programs-surveys/acs/>. 
+
+Data in this report come from the 
+2008 through 2022 American 
+Community Survey (excluding 
+the 2020 ACS) and are subject to 
+sampling and nonsampling error. 
+Comparisons of estimates in the 
+report have taken sampling error 
+into account and are significant 
+at the 90 percent confidence 
+level or higher, unless otherwise 
+noted. Because of rounding, some 
+details may not sum to totals. 
+For information on sampling and 
+estimation methods, confidentiality 
+protection, and sampling and 
+non sampling errors, refer to the 
+“Accuracy of the Data” documents 
+for 2022 located at <www.census.
+gov/programs-surveys/acs/
+technical-documentation/code-
+lists.html>.
+
+14 
+
+U.S. Census Bureau
+
+APPENDIX A. METHODS AND DATA LIMITATIONS 
+
+This report used the American 
+Community Survey (ACS) 1-year 
+estimates from 2008 through 
+2019 and 2021 to 2022. The 
+target population included 
+U.S. veteran and nonveteran 
+civilians, aged 18 and over, 
+living in the United States. The 
+civilian population refers to 
+people living in households and 
+group quarters (except military 
+barracks) who are not on active 
+duty in the U.S. armed forces. 
+Therefore, the report excluded 
+active-duty service members. 
+For technical information on the 
+ACS, refer to <www.census.gov/
+programs-surveys/acs/technical-
+documentation.html>.
+
+To examine whether veterans 
+have become more likely to report 
+an ACS disability or service- 
+connected disability over time, 
+we used logistic regression analy-
+sis, which is a statistical tool that 
+helps calculate the effect that one 
+variable has on another. Because 
+numerous factors affect the likeli-
+hood of having a disability, regres-
+sion allows us to separate these 
+competing influences. For exam-
+ple, veterans of different service 
+periods vary in their demographic 
+and social characteristics—whether 
+age, sex, or income. Since these 
+characteristics are also associ-
+ated with a veteran’s likelihood of 
+reporting a disability, we want to 
+use regression analysis to calculate 
+the effects of time or post-9/11 
+military service net of a veteran’s 
+age, sex, or income.
+
+The regression results presented 
+in Appendix B show odds ratios, 
+which are the odds of having a dis-
+ability relative to a particular com-
+parison group (e.g., men versus 
+women). Odds ratios of “1” indicate 
+that the odds are the same for the 
+
+comparison groups. Odds ratios 
+“greater than 1” indicate higher 
+odds of reporting a disability, while 
+those “less than 1” indicate smaller 
+odds. Because of the statistical 
+power of the ACS sample, we only 
+report significance for estimates 
+that are at least “p < .001.” A sig-
+nificance level of “p < .001” means 
+a less than 1 in 1,000 chance that 
+an estimate is a random result. 
+
+The regression models included 
+the following variables as controls:
+
+•  Year: Linear or dichotomous 
+
+variable measuring the survey 
+year.
+
+•  Veteran status: Categorical vari-
+able indicating whether respon-
+dents were (0) not a veteran,  
+(1) a veteran who served prior 
+to September 2001, or (2) a vet-
+eran who served in 2001 or later. 
+Veterans are classified by their 
+most recent period of service.
+
+•  VA health care: Dichotomous 
+
+variable indicating whether the 
+veteran was enrolled for health 
+care through the Department of 
+Veterans Affairs.
+
+•  Sex: Dichotomous variable for 
+whether the respondent was  
+(0) female or (1) male.
+
+•  Age: Linear variable measuring 
+the respondent’s age in years.
+
+•  Race and Hispanic origin: 
+
+Categorical variable indicating 
+whether respondents were  
+(0) non-Hispanic White,  
+(1) non-Hispanic Black,  
+(2) Hispanic, or (3) non-Hispanic 
+Some Other Race.
+
+•  Group quarters: Dichotomous 
+variable measuring whether 
+respondents lived in (1) group 
+quarters, excluding military bar-
+racks, or (0) a household.
+
+•  Marital status: Dichotomous 
+variable measuring whether 
+respondents were (1) married 
+or (0) not married, including 
+divorced, separated, widowed, 
+and never married.
+
+•  Educational attainment: 
+
+Categorical variable measured 
+by the respondent’s highest 
+level of education: (0) high 
+school diploma or less, (1) some 
+college but no degree, (2) bach-
+elor’s degree or higher.
+
+•  Income-to-poverty ratio: A cat-
+
+egorical measure of respondents’ 
+income relative to the poverty 
+threshold, coded: (0) less than 
+150 percent, (1) 150 percent to 
+299 percent, (2) 300 percent to 
+499 percent, and (3) 500 per-
+cent or higher.
+
+•  Public assistance: A dichoto-
+mous measure of whether a 
+respondent received certain 
+government assistance pro-
+grams, coded as: (1) received 
+food stamps, public assistance 
+income, or Supplemental 
+Security Income, and (0) did not 
+receive any of these programs.
+
+To help interpret the regression 
+analyses, we reported predicted 
+probabilities in Figures 5 through 
+7, which are the chances, in terms 
+of a percentage, that a veteran 
+has an ACS or service-connected 
+disability (with 0 percent meaning 
+no chance and 100 percent mean-
+ing complete certainty). Predicted 
+probabilities were calculated 
+using the results of the logistic 
+regressions in Appendix B. They 
+were calculated while holding a 
+veteran’s demographic and socio-
+economic characteristics at their 
+mean level. In other words, the 
+predicted probabilities represent 
+the chance that the average vet-
+eran would report a disability. 
+
+U.S. Census Bureau 
+
+15
+
+There are several limitations to 
+the data presented in this report. 
+ACS estimates are based on self-
+reported survey responses and 
+are susceptible to response and 
+nonresponse bias. Furthermore, 
+because the data are self-reported, 
+estimates of service-connected 
+disability will not match those 
+published by the VA, which are 
+based on administrative records. 
+The ACS measurement of disabil-
+ity is not comprehensive. There 
+may be other types of disability 
+or a range of severity that are not 
+represented by the results in this 
+report. 
+
+Another limitation is the sampling 
+structure of the ACS. Ideally, we 
+would like to measure the dis-
+abilities of the same veterans every 
+year to observe how their health 
+changes over time. Even though 
+the ACS is collected annually, it 
+does not sample the same house-
+holds every year. Thus, the data 
+represent repeated cross-sections 
+of the veteran population, which 
+we use as a proxy for measuring 
+veteran health over time. 
+
+Last, regression analysis cannot 
+definitively identify cause and 
+effect. As discussed in the final 
+section of the report, there are 
+
+other possible explanations why 
+disability rates, especially service-
+connected ones, may be rising for 
+post-9/11 veterans. These include 
+unmeasured characteristics such 
+as length of service and tours of 
+duty, as well as various kinds of 
+reporting and sampling bias. They 
+also include changes in how the 
+VA classifies and scores SCDs, 
+which, as a result, directly affect 
+the prevalence of SCDs. The analy-
+sis does not account for this kind 
+of change.
+
+16 
+
+U.S. Census Bureau
+
+APPENDIX B. REGRESSION RESULTS
+
+Appendix Table B-1.
+Logistic Regression Predicting Likelihood of Service-Connected Disability: 2008–2019 and 
+2021–2022
+(Civilian veterans aged 18 or over)
+
+Characteristic
+
+Year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Period of service
+ Before September 2001 (reference) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ September 2001 or later. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Enrolled in Veterans Affairs health care . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Male . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Age (in years) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Race and Hispanic origin
+ White, non-Hispanic (reference)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ Black, non-Hispanic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ Hispanic  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ Some Other Race, non-Hispanic  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Lived in group quarters . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Married . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Education
+ Less than some college (reference). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ Some college. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ Bachelor’s degree or more  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Income-to-poverty ratio
+ Less than 150 percent (reference) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ 150 percent to 299 percent . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ 300 percent to 499 percent . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ 500 percent or more . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Received public assistance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Model 1
+
+Model 2
+
+Odds 
+ratio 
+
+*1.06
+
+X
+*2.39
+X
+X
+X
+
+X
+X
+X
+X
+X
+X
+
+X
+X
+X
+
+X
+X
+X
+X
+X
+
+Standard 
+error
+
+Odds 
+ratio
+
+Standard 
+error
+
+Z
+
+*1.04
+
+Z
+
+X
+0.008
+X
+X
+X
+
+X
+X
+X
+X
+X
+X
+
+X
+X
+X
+
+X
+X
+X
+X
+X
+
+X
+*2.09
+*8.24
+0.99 
+*0.99 
+
+X
+*1.58
+*1.24
+*1.19
+1.07
+*1.33
+
+X
+*1.40
+*1.35
+
+X
+*1.07
+*1.41
+*1.63
+1.01 
+
+X
+0.011
+0.027
+0.007
+Z
+
+X
+0.008
+0.010
+0.009
+0.030
+0.005
+
+X
+0.006
+0.005
+
+X
+0.007
+0.009
+0.011
+0.007
+
+* p < .001.
+X Not applicable.
+Z Indicates a value of less than 0.000.
+Source: U.S. Census Bureau, 2008 through 2019 and 2021 through 2022 American Community Survey 1-year estimates.
+
+U.S. Census Bureau 
+
+17
+
+Appendix Table B-2.
+Logistic Regression Predicting Likelihood of American Community Survey Disability:  
+2008 and 2022
+(Civilian adults aged 18 or over)
+
+Model 1
+
+Model 2
+
+Characteristic
+
+Year, 2022 (reference, 2008)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Odds 
+ratio 
+
+*1.13
+
+Standard 
+error
+
+0.003
+
+Odds 
+ratio 
+
+1.00 
+
+Veteran status
+   Not a veteran (reference) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+   Veteran, served before September 2001 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+   Veteran, served September 2001 or later. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Male . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Age (in years) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+X
+*2.54
+*1.08
+X
+X
+
+0.010
+0.013
+X
+X
+
+Race and Hispanic origin
+   White, non-Hispanic (reference). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+   Black, non-Hispanic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+   Hispanic  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+   Some Other Race, non-Hispanic. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Lived in group quarters . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Married   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Education
+   Less than some college (reference) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+   Some college . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+   Bachelor’s degree or more. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Income-to-poverty ratio
+   Less than 150 percent (reference)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+   150 percent to 299 percent . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+   300 percent to 499 percent  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+   500 percent or more . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Received public assistance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+* p < .001.
+X Not applicable.
+Z Indicates a value of less than 0.000.
+Source: U.S. Census Bureau, 2008 and 2022 American Community Surveys 1-year estimates.
+
+X
+X
+X
+X
+X
+X
+
+X
+X
+X
+
+X
+X
+X
+X
+X
+
+X
+X
+X
+X
+X
+X
+
+X
+X
+X
+
+X
+X
+X
+X
+X
+
+X
+*1.43
+*2.41
+*1.06
+*1.05
+
+X
+*0.87
+*0.89
+*0.72
+*4.14
+*0.65
+
+X
+*0.81
+*0.54
+
+X
+*0.77
+*0.62
+*0.48
+*3.20
+
+Standard 
+error
+
+0.003
+
+X
+0.007
+0.034
+0.003
+Z
+
+X
+0.005
+0.006
+0.004
+0.088
+0.002
+
+X
+0.003
+0.002
+
+X
+0.004
+0.003
+0.003
+0.014
+
+18 
+
+U.S. Census Bureau
+
+Appendix Table B-3.
+Logistic Regression Predicting Likelihood of Both Service-Connected  
+and American Community Survey Disability: 2008–2019 and 2021–2022
+(Civilian veterans aged 18 or over)
+
+Model 1
+
+Model 2
+
+Characteristic
+
+Odds 
+ ratio 
+
+Standard 
+error
+
+Year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+*1.06
+
+0.001
+
+Period of service
+ Before September 2001 (reference) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ September 2001 or later. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Enrolled for Veterans Affairs health care. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Male . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Age (in years) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+X
+1.01 
+X
+X
+X
+
+X
+0.007
+X
+X
+X
+
+Race and Hispanic origin
+ White, non-Hispanic (reference)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ Black, non-Hispanic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ Hispanic  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ Some Other Race, non-Hispanic  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Lived in group quarters . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Married . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Education
+ Less than some college (reference). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ Some college. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ Bachelor’s degree or more  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Income-to-poverty ratio
+ Less than 150 percent (reference) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ 150 percent to 299 percent . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ 300 percent to 499 percent . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ 500 percent or more . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Received public assistance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+X
+X
+X
+X
+X
+X
+
+X
+X
+X
+
+X
+X
+X
+X
+X
+
+X
+X
+X
+X
+X
+X
+
+X
+X
+X
+
+X
+X
+X
+X
+X
+
+Odds 
+ ratio
+
+*1.03 
+
+X
+*1.32 
+*8.43 
+*1.14 
+*1.01 
+
+X
+*1.22 
+*1.36 
+*1.22 
+*1.44 
+*1.13 
+
+X
+*1.23 
+*0.91 
+
+X
+1.00 
+*1.17 
+*1.05 
+*1.52 
+
+Standard 
+error
+
+0.001
+
+X
+0.012
+0.047
+0.010
+Z
+
+X
+0.009
+0.015
+0.011
+0.048
+0.005
+
+X
+0.007
+0.006
+
+X
+0.008
+0.009
+0.009
+0.011
+
+* p < .001.
+X Not applicable.
+Z Indicates a value of less than 0.000.
+Source: U.S. Census Bureau, 2008 through 2019 and 2021 through 2022 American Community Survey 1-year estimates.
+
+U.S. Census Bureau 
+
+19
+
+Appendix Table B-4.
+Logistic Regression Predicting Likelihood of Cognitive Disability: 2008 and 2022
+(Civilian adults aged 18 or over)
+
+Characteristic
+
+Year, 2022 (reference, 2008)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Model 1
+
+Model 2
+
+Odds 
+ ratio 
+
+*1.13 
+
+Standard 
+ error
+
+0.004
+
+Odds 
+ ratio 
+
+*1.10 
+
+Standard 
+error
+
+0.005
+
+Veteran status
+ Not a veteran (reference) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ Veteran, served before September 2001 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ Veteran, served September 2001 or later  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Male . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Age (in years) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+X
+*1.47 
+*1.37 
+X
+X
+
+X
+0.010
+0.023
+X
+X
+
+Race and Hispanic origin
+ White, non-Hispanic (reference)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ Black, non-Hispanic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ Hispanic  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ Some Other Race, non-Hispanic  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Lived in group quarters . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Married   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Education
+ Less than some college (reference). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ Some college. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ Bachelor’s degree or more  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Income-to-poverty ratio
+ Less than 150 percent (reference) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ 150 percent to 299 percent . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ 300 percent to 499 percent . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ 500 percent or more . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Received public assistance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+* p < .001.
+X Not applicable.
+Z Indicates a value of less than 0.000.
+Source: U.S. Census Bureau, 2008 and 2022 American Community Survey 1-year estimates.
+
+X
+X
+X
+X
+X
+X
+
+X
+X
+X
+
+X
+X
+X
+X
+X
+
+X
+X
+X
+X
+X
+X
+
+X
+X
+X
+
+X
+X
+X
+X
+X
+
+X
+*1.27 
+*2.45 
+*1.07 
+*1.02 
+
+X
+*0.78 
+*0.97 
+*0.66 
+*6.46 
+*0.52 
+
+X
+*0.71 
+*0.48 
+
+X
+*0.79 
+*0.64 
+*0.50 
+*3.25 
+
+X
+0.011
+0.047
+0.005
+Z
+
+X
+0.007
+0.009
+0.006
+0.145
+0.003
+
+X
+0.004
+0.004
+
+X
+0.005
+0.005
+0.005
+0.021
+
+20 
+
+U.S. Census Bureau
+
+Appendix Table B-5.
+Logistic Regression Predicting Likelihood of Cognitive Disability by Service-Connected 
+Disability: 2008–2019 and 2021–2022
+(Civilian veterans aged 18 or over)
+
+Characteristic
+
+Year  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Period of service
+ Before September 2001 (reference) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ September 2001 or later . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Has service-connected disability . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Enrolled for Veterans Affairs health care . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Male . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Age (in years). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+
+Race and Hispanic origin
+ White, non-Hispanic (reference) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ Black, non-Hispanic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ Hispanic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ Some Other Race, non-Hispanic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Lived in group quarters . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Married  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Education
+ Less than some college (reference) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ Some college . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ Bachelor’s degree or more . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Income-to-poverty ratio
+ Less than 150 percent (reference) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ 150 percent to 299 percent  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ 300 percent to 499 percent . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ 500 percent or more . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Received public assistance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Model 1
+
+Model 2
+
+Odds 
+ ratio
+
+*1.01 
+
+X
+*0.65 
+*2.47 
+X
+X
+X
+
+X
+X
+X
+X
+X
+X
+
+X
+X
+X
+
+X
+X
+X
+X
+X
+
+Standard 
+ error
+
+Odds 
+ ratio 
+
+Standard 
+ error
+
+0.001
+
+1.00 
+
+0.001
+
+X
+0.005
+0.012
+X
+X
+X
+
+X
+X
+X
+X
+X
+X
+
+X
+X
+X
+
+X
+X
+X
+X
+X
+
+X
+*1.63 
+*2.50 
+*1.47 
+*0.84 
+*1.03 
+
+X
+1.00 
+*1.32 
+*1.19 
+*4.27 
+*0.78 
+
+X
+*0.84 
+*0.66 
+
+X
+*0.76 
+*0.61 
+*0.43 
+*2.27 
+
+X
+0.016
+0.013
+0.007
+0.008
+Z
+
+X
+0.007
+0.012
+0.011
+0.116
+0.004
+
+X
+0.006
+0.005
+
+X
+0.005
+0.004
+0.003
+0.015
+
+* p < .001.
+X Not applicable.
+Z Indicates a value of less than 0.000.
+Source: U.S. Census Bureau, 2008 through 2019 and 2021 through 2022 American Community Survey 1-year estimates.
+
+U.S. Census Bureau 
+
+21
+
+Appendix Table B-6.
+Logistic Regression Predicting Likelihood of High Service-Connected Disability Rating: 2008–2019 
+and 2021–2022
+(Civilian veterans with a service-connected disability, aged 18 or over)
+
+Characteristic
+
+Year  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Model 1
+
+Model 2
+
+Odds 
+ ratio
+
+*1.08 
+
+Standard  
+error
+
+0.001
+
+Odds 
+ ratio 
+
+*1.07 
+
+Standard 
+ error
+
+0.001
+
+Period of service
+   Before September 2001 (reference) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+   September 2001 or later . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Enrolled for Veterans Affairs health care . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Male . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Age (in years). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+
+X
+*1.26 
+X
+X
+X
+
+X
+0.009
+X
+X
+X
+
+Race and Hispanic origin
+   White, non-Hispanic (reference) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+   Black, non-Hispanic  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+   Hispanic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+   Some Other Race, non-Hispanic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Lived in group quarters . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Married  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Education
+   Less than some college (reference)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+   Some college . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+   Bachelor’s degree or more . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Income-to-Poverty Ratio
+   Less than 150 percent (reference) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+   150 percent to 299 percent . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+   300 percent to 499 percent . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+   500 percent or more  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Received public assistance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+X
+X
+X
+X
+X
+X
+
+X
+X
+X
+
+X
+X
+X
+X
+X
+
+X
+X
+X
+X
+X
+X
+
+X
+X
+X
+
+X
+X
+X
+X
+X
+
+X
+*1.64 
+*2.74 
+*0.92 
+1.01 
+
+X
+*1.60 
+*1.31
+*1.37 
+*1.36 
+1.00
+
+X
+*0.89 
+*0.75 
+
+X
+1.00 
+*1.34 
+*1.30
+*1.16 
+
+X
+0.016
+0.021
+0.009
+Z
+
+X
+0.014
+0.019
+0.018
+0.076
+0.006
+
+X
+0.006
+0.006
+
+X
+0.012
+0.014
+0.016
+0.013
+
+* p < .001.
+X Not applicable.
+Z Indicates a value of less than 0.000.
+Source: U.S. Census Bureau, 2008 through 2019 and 2021 through 2022 American Community Survey 1-year estimates.
+
+22 
+
+U.S. Census Bureau
+
+APPENDIX C. STANDARD ERRORS
+
+Appendix Table C-1.
+Standard Errors for Prevalence of Service-Connected and American Community Survey (ACS) 
+Disabilities by Type and Service Cohorts: 2022
+(In percent, civilian veterans aged 18 or over)
+
+Characteristic
+
+All  
+veterans
+
+Post-9/11
+
+Peacetime 
+(1975 or 
+later)
+
+Gulf 
+War
+
+Vietnam 
+War
+
+Korean 
+War
+
+World 
+War II
+
+Peacetime 
+(before 
+1975)
+
+Has service-connected disability. . . . . . .
+
+Has ACS disability . . . . . . . . . . . . . . . . . . . .
+ Hearing . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ Vision. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ Ambulatory . . . . . . . . . . . . . . . . . . . . . . . .
+ Cognitive  . . . . . . . . . . . . . . . . . . . . . . . . . .
+ Self-care . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ Independent living . . . . . . . . . . . . . . . . . .
+
+0.1
+
+0.1
+0.1
+0.1
+0.1
+0.1
+0.1
+0.1
+
+0.3
+
+0.2
+0.1
+0.1
+0.1
+0.2
+0.1
+0.1
+
+0.3
+
+0.3
+0.2
+0.1
+0.2
+0.2
+0.1
+0.2
+
+0.2
+
+0.3
+0.2
+0.2
+0.2
+0.2
+0.1
+0.2
+
+0.2
+
+0.2
+0.2
+0.1
+0.1
+0.1
+0.1
+0.1
+
+0.4
+
+0.5
+0.7
+0.4
+0.6
+0.5
+0.5
+0.6
+
+0.9
+
+1.1
+1.4
+1.1
+1.4
+1.2
+1.2
+1.4
+
+0.3
+
+0.5
+0.4
+0.3
+0.5
+0.3
+0.3
+0.4
+
+Note: Veterans can have more than one type of disability. As a result, estimates will not sum to the total. In addition, periods of service are not 
+
+mutually exclusive. Data based on sample. For information on confidentiality protection, sampling error, nonsampling error, and definitions, refer 
+to <www.census.gov/acs>.
+
+Source: U.S. Cenusu Bureau, 2022 American Community Survey 1-year estimates.
+
+U.S. Census Bureau 
+
+23
+
+

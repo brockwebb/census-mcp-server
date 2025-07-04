@@ -1,0 +1,25 @@
+methods:
+  count:
+    census_tables: Total variables, _001 estimates
+    definition: Simple enumeration
+    use_cases: Population, housing units, establishments
+  mean:
+    census_tables: Some C-tables, derived calculations
+    definition: Arithmetic average
+    use_cases: Household size, rooms - symmetric distributions
+  median:
+    census_tables: Most B-tables provide medians
+    definition: 50th percentile value
+    use_cases: Income, home values, age - skewed distributions
+  percentage:
+    calculation: Category / total * 100
+    definition: Share of total expressed as percentage
+    use_cases: Educational attainment distribution
+  rate:
+    calculation: Detail variable / total variable * 100
+    definition: Numerator/denominator expressed as percentage
+    use_cases: Poverty rate, unemployment rate
+  ratio:
+    calculation: Variable A / Variable B
+    definition: Relationship between two quantities
+    use_cases: Sex ratio, dependency ratio

@@ -1,0 +1,286 @@
+# COOS Agent Framework Configuration
+# Configurable ensemble for Census variable enrichment
+
+version: "1.0"
+framework_name: "COOS Agent Framework"
+description: "Configurable Census Ontology and Operational Schema enrichment pipeline"
+
+# =============================================================================
+# PROCESSING STRATEGY CONFIGURATION
+# =============================================================================
+
+processing_strategies:
+  # Premium analysis for curated COOS concepts (~2000 variables)
+  coos_concepts:
+    enabled: true
+    description: "Multi-agent ensemble for high-value COOS taxonomy concepts"
+    target_variables: "coos_curated"
+    estimated_cost_per_variable: 0.006
+    quality_tier: "research_grade"
+    
+  # Cost-efficient coverage for remaining variables (~26000 variables)
+  bulk_variables:
+    enabled: true
+    description: "Single specialist for comprehensive coverage"
+    target_variables: "non_coos"
+    estimated_cost_per_variable: 0.001
+    quality_tier: "production_ready"
+
+# =============================================================================
+# AGENT DEFINITIONS
+# =============================================================================
+
+agents:
+  # Core foundation agent - always present for statistical methodology
+  census_specialist:
+    model: "gpt-4.1-mini"  # or "gpt-4.1-mini" for cost optimization
+    role: "Statistical Methodology Anchor"
+    expertise:
+      - "Survey design and sampling methodology"
+      - "Census Bureau data collection procedures"
+      - "Statistical limitations and margin of error"
+      - "Variable universe definitions"
+      - "Data quality assessment"
+    always_included: true
+    cost_tier: "premium"
+    
+  # Domain specialists - called based on table routing
+  demographics_specialist:
+    model: "gpt-4.1-mini"
+    role: "Population Demographics Expert"
+    expertise:
+      - "Age, race, ethnicity methodology"
+      - "Household and family composition"
+      - "Population distribution patterns"
+      - "Demographic change analysis"
+    table_families: ["B01", "B02", "B03", "B09", "B11", "B17"]
+    cost_tier: "standard"
+    
+  economics_specialist:
+    model: "gpt-4.1-mini"
+    role: "Economic Analysis Expert"
+    expertise:
+      - "Income distribution and inequality"
+      - "Employment and labor force dynamics"
+      - "Poverty measurement methodology"
+      - "Economic geography patterns"
+    table_families: ["B19", "B20", "B21", "B23", "B24", "B17"]
+    cost_tier: "standard"
+    
+  geographic_specialist:
+    model: "gpt-4.1-mini"
+    role: "Spatial and Geographic Expert"
+    expertise:
+      - "Place definitions and boundaries"
+      - "Geographic hierarchy relationships"
+      - "Spatial data limitations"
+      - "Urban/rural classifications"
+    table_families: ["B01", "B19", "B25", "B08"]  # Geographic context for most tables
+    cost_tier: "standard"
+    
+  # Specialized domain experts - called for specific table families only
+  transportation_specialist:
+    model: "gpt-4.1-mini"
+    role: "Transportation and Mobility Expert"
+    expertise:
+      - "Commuting patterns and journey to work"
+      - "Transportation mode choice"
+      - "Spatial connectivity analysis"
+      - "Mobility limitations and accessibility"
+    table_families: ["B08"]
+    cost_tier: "standard"
+    
+  housing_specialist:
+    model: "gpt-4.1-mini"
+    role: "Housing Economics Expert"
+    expertise:
+      - "Housing tenure and ownership patterns"
+      - "Housing costs and affordability"
+      - "Housing quality and conditions"
+      - "Residential mobility patterns"
+    table_families: ["B25", "B26"]
+    cost_tier: "standard"
+
+# =============================================================================
+# ROUTING CONFIGURATION
+# =============================================================================
+
+routing_rules:
+  # Table family to agent mapping - Census Specialist + 1 Domain Expert
+  table_routing:
+    "B01":  # Age and Sex
+      agents: ["census_specialist", "demographics_specialist"]
+      complexity: "medium"
+      
+    "B02":  # Race
+      agents: ["census_specialist", "demographics_specialist"]
+      complexity: "high"
+      
+    "B03":  # Hispanic or Latino Origin
+      agents: ["census_specialist", "demographics_specialist"]
+      complexity: "high"
+      
+    "B08":  # Journey to Work
+      agents: ["census_specialist", "transportation_specialist"]
+      complexity: "medium"
+      
+    "B09":  # Children and Relationship
+      agents: ["census_specialist", "demographics_specialist"]
+      complexity: "medium"
+      
+    "B11":  # Household Type
+      agents: ["census_specialist", "demographics_specialist"]
+      complexity: "medium"
+      
+    "B15":  # Educational Attainment
+      agents: ["census_specialist", "demographics_specialist"]
+      complexity: "medium"
+      
+    "B17":  # Poverty Status
+      agents: ["census_specialist", "economics_specialist"]
+      complexity: "high"
+      
+    "B19":  # Income
+      agents: ["census_specialist", "economics_specialist"]
+      complexity: "high"
+      
+    "B20":  # Earnings
+      agents: ["census_specialist", "economics_specialist"]
+      complexity: "medium"
+      
+    "B21":  # Veteran Status
+      agents: ["census_specialist", "demographics_specialist"]
+      complexity: "low"
+      
+    "B23":  # Employment Status
+      agents: ["census_specialist", "economics_specialist"]
+      complexity: "medium"
+      
+    "B24":  # Industry and Occupation
+      agents: ["census_specialist", "economics_specialist"]
+      complexity: "medium"
+      
+    "B25":  # Housing Characteristics
+      agents: ["census_specialist", "housing_specialist"]
+      complexity: "high"
+      
+    "B26":  # Group Quarters
+      agents: ["census_specialist", "housing_specialist"]
+      complexity: "medium"
+      
+    # Default routing for unspecified table families
+    "DEFAULT":
+      agents: ["census_specialist", "economics_specialist"]  # Economics as general fallback
+      complexity: "medium"
+
+  # Processing mode selection
+  mode_selection:
+    coos_concepts:
+      min_agents: 2
+      max_agents: 4
+      always_include: ["census_specialist"]
+      agreement_threshold: 0.4
+      
+    bulk_variables:
+      agents: ["census_specialist"]  # Single agent mode
+      agreement_threshold: null  # No consensus needed
+      
+# =============================================================================
+# QUALITY CONTROL CONFIGURATION
+# =============================================================================
+
+quality_control:
+  agreement_scoring:
+    enabled: true
+    method: "sentence_transformer"
+    model: "all-MiniLM-L6-v2"
+    threshold: 0.4  # High agreement threshold
+    
+  arbitration:
+    enabled: true
+    trigger_threshold: 0.4  # Below this agreement score
+    arbitrator_model: "claude-3-5-sonnet-20241022"
+    max_arbitration_rate: 0.05  # Fail if >5% need arbitration
+    
+  validation:
+    methodology_check: true
+    limitation_documentation: true
+    concept_consistency: true
+    
+# =============================================================================
+# COST OPTIMIZATION CONFIGURATION
+# =============================================================================
+
+cost_management:
+  target_costs:
+    coos_concepts: 0.006  # Per variable for ensemble
+    bulk_variables: 0.001  # Per variable for single agent
+    total_budget: 50.00   # Total budget cap
+    
+  model_pricing:  # Per 1M tokens
+    "gpt-4.1":
+      input: 2.50
+      output: 10.00
+    "gpt-4.1-mini":
+      input: 0.15
+      output: 0.60
+    "claude-3-5-sonnet-20241022":
+      input: 3.00
+      output: 15.00
+      
+  cost_tracking:
+    log_per_variable: true
+    alert_threshold: 0.8  # Alert at 80% of budget
+    auto_fallback: true   # Fall back to single agent if over budget
+
+# =============================================================================
+# RUNTIME CONFIGURATION
+# =============================================================================
+
+execution:
+  parallel_processing: true
+  max_concurrent_agents: 4
+  timeout_per_variable: 30  # seconds
+  retry_limit: 2
+  
+  output_format:
+    include_metadata: true
+    include_agreement_scores: true
+    include_cost_tracking: true
+    include_methodology_notes: true
+    
+logging:
+  level: "INFO"
+  log_file: "coos_enrichment.log"
+  include_agent_responses: false  # Set true for debugging
+  cost_tracking: true
+
+# =============================================================================
+# EXAMPLE USAGE CONFIGURATIONS
+# =============================================================================
+
+# Example: High-quality research mode (for COOS concepts)
+research_mode:
+  processing_strategy: "coos_concepts"
+  min_agents: 3
+  quality_tier: "research_grade"
+  cost_tolerance: "high"
+  
+# Example: Production efficiency mode (for bulk variables)
+production_mode:
+  processing_strategy: "bulk_variables"
+  agents: ["census_specialist"]
+  quality_tier: "production_ready"
+  cost_tolerance: "low"
+
+# Example: Custom hybrid mode
+hybrid_mode:
+  coos_variables:
+    processing_strategy: "coos_concepts"
+    estimated_variables: 2000
+    estimated_cost: 12.00
+  bulk_variables:
+    processing_strategy: "bulk_variables"
+    estimated_variables: 26000
+    estimated_cost: 26.00
+  total_estimated_cost: 38.00

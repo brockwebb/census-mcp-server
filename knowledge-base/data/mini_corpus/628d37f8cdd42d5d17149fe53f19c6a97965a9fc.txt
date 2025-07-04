@@ -1,0 +1,608 @@
+Getting Started With American Community Survey (ACS) 
+Data in R and Python
+April 13, 2022
+
+Amanda Klimek
+Supervisory Survey Statistician
+U.S. Census Bureau
+
+Corey Sparks
+Associate Professor of Demography
+University of Texas at San Antonio
+
+Slides available at:
+census.gov/data/academy/webinars/2022/getting-started-with-american-community-survey-data.html
+
+The American Community Survey
+Questions by Chat
+
+2
+
+The American Community Survey
+Overview
+
+• ACS Basics
+• Introduction to Open-Source and Application Programming Interfaces (APIs)
+• Open-Source and the ACS
+• Case Study
+• Resources for Learning More
+
+3
+
+The American Community Survey
+The Foundation
+
+The American Community Survey is on the leading edge of survey design, 
+continuous improvement, and data quality
+
+• The nation’s most current, reliable, and accessible data source for local 
+statistics on critical planning topics such as age, children, veterans, 
+commuting, education, income, and employment
+
+• Surveys 3.5 million addresses and informs over $675 billion of federal 
+
+government spending each year
+
+• Covers 40+ topics, supports over 300 evidence-based Federal government 
+
+uses, and produces 11 billion estimates each year
+• Typically provides three key annual data releases:
+
+• 1-year Estimates (for large populations, geographies of 65,000+ 
+
+population)
+
+• 1-year Supplemental Estimates (for small populations, geographies of 
+
+20,000+ population)
+
+• 5-year Estimates (for very small populations, geographies down to 
+
+Census Tracts and Block Groups)
+
+4
+
+The American Community Survey
+Availability of Data Products
+
+Estimated Population of 
+Geographic Area
+
+1-Year Estimates
+
+1-Year Supplemental 
+Estimates
+
+5-Year Estimates
+
+65,000 or more
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+20,000 to 64,999
+
+Less than 20,000
+
+Typical Release Date
+(Occurs in the calendar year 
+after data collection)
+
+September
+
+October
+
+December
+
+census.gov/programs-surveys/acs/news/data-releases.html
+
+5
+
+The American Community Survey
+Content Overview
+
+POPULATION
+
+HOUSING
+
+SOCIAL
+Ancestry
+Citizenship
+Citizen Voting Age Population
+Disability
+Educational Attainment
+Fertility
+Grandparents
+Language
+Marital Status
+Migration
+School Enrollment
+Veterans
+
+DEMOGRAPHIC
+Age
+Hispanic Origin
+Race
+Relationship
+Sex
+ECONOMIC
+Class of Worker 
+Commuting
+Employment Status
+Food Stamps (SNAP)
+Health Insurance
+Hours/Week, Weeks/Year
+Income
+Industry & Occupation
+
+Computer & Internet Use
+Costs (Mortgage, Rent, Taxes, 
+Insurance)
+Heating Fuel 
+Home Value
+Occupancy
+Plumbing/Kitchen Facilities
+Structure
+Tenure (Own/Rent)
+Utilities
+Vehicles
+Year Built/ Year Moved In
+
+6
+
+The American Community Survey
+Selected Census Geographic Concepts
+
+Zip Code 
+Tabulation 
+Areas
+
+Metropolitan and 
+Micropolitan Areas
+
+Urban Areas
+
+American Indian/      
+Alaska Native Areas/ 
+Hawaiian Home Lands
+
+Nation
+
+Regions
+
+States
+
+Congressional 
+Districts
+
+School 
+Districts
+
+Places
+
+Counties
+
+Public Use 
+Microdata 
+Areas 
+(PUMAs)
+
+Alaska 
+Native 
+Regional 
+Areas
+
+State 
+Legislative 
+Districts
+
+Census Tracts
+
+Block Groups
+
+census.gov/programs-surveys/acs/geography-acs.html
+
+7
+
+The American Community Survey
+data.census.gov
+
+census.gov/data/what-is-data-census-gov.html
+
+8
+
+The American Community Survey
+Tables and Profiles
+
+Tables
+
+Profiles
+
+Reputable
+Types in API
+
+• Detailed Tables (B or C)
+•
+
+Subject Tables (S)
+
+Types in API
+
+• Data Profiles (DP) - includes %
+• Comparison Profiles (CP) -
+
+includes statistical significance
+
+Description
+
+• Most detailed ACS statistics
+•
+
+Each table covers one primary 
+topic
+
+• May contain cross tabulations
+
+Description
+
+• Most common ACS statistics
+• Derived from tables
+•
+
+Each profile covers many topics
+
+census.gov/programs-surveys/acs/data/data-tables/table-ids-explained.html
+
+9
+
+The American Community Survey
+Table and Profile Numbering
+
+B06004APR
+
+• B=Data Product Type (Detailed Table)
+• 06=Subject (Place of Birth)
+• 004=Sequential Number (2 or 3 digits)
+• A=Race/Hispanic Origin (White Alone)
+• PR=For Puerto Rico Geographies Only
+
+census.gov/programs-surveys/acs/data/data-tables/table-ids-explained.html
+
+10
+
+The American Community Survey
+Visualizing ACS Variable Names
+
+B17001_002E
+
+B17001 = Table ID
+
+002 = Line number
+
+E = Estimate
+
+B17001_002M
+
+B17001 = Table ID
+
+002 = Line number
+
+M = Margin of Error
+
+data.census.gov/cedsci/table?q=b17001&hidePreview=true&tid=ACSDT1Y2018.B17001
+
+11
+
+The American Community Survey
+What is the Margin of Error (MOE)
+
+Definition: An MOE is a measure of the possible variation of the estimate around the population value
+
+• At a given confidence level, the estimate and actual population value will differ by no more than the MOE
+
+•
+
+90% confidence level is the Census standard and ACS MOEs are provided in the same unit as the estimate
+
+Example: How many males under age 5 live in WY?
+
+Lower bound = 19,649 - 310 = 19,339
+
+Upper bound = 19,649 + 310 = 19,959
+
+We are 90% confident the true number of males under 
+age 5 in Wyoming falls between 19,339 and 19,959
+
+12
+
+The American Community Survey
+Overview
+
+• ACS Basics
+• Introduction to Open-Source and APIs
+• Open-Source and the ACS
+• Case Study
+• Resources for Learning More
+
+13
+
+The American Community Survey
+What is Open-Source?
+
+• Source code is made freely available to the 
+
+public
+
+• Users can modify and share freely
+• R and Python
+
+14
+
+The American Community Survey
+What is an Application Programming Interface (API)?
+
+• Data Service which enables data providers to provide their data in a standardized way and 
+
+hosted from a Central location
+
+• Allows data users to have more direct access to data in order to conduct analyses
+
+• Gives software and web developers the ability to create and easily update custom 
+
+applications
+
+15
+
+The American Community Survey
+Google Maps API
+
+developers.google.com
+
+16
+
+The American Community Survey
+Twitter API
+
+developer.twitter.com
+
+17
+
+The American Community Survey
+Overview
+
+• ACS Basics
+• Introduction to Open-Source and APIs
+• Open-Source and the ACS
+• Case Study
+• Resources for Learning More
+
+18
+
+The American Community Survey
+Pennsylvania State Data Center
+
+https://pasdc.hbg.psu.edu/Data/PaSDCDashboards/ACSIncome/tabid/1922/Default.aspx
+
+19
+
+The American Community Survey
+Census Business Builder
+
+census.gov/data/data-tools/cbb.html
+
+20
+
+The American Community Survey
+ACS Data Visualizations
+
+census.gov/library/visualizations/interactive.html
+
+21
+
+The American Community Survey
+Programs and Surveys in the API
+
+Demographic Programs
+
+Economic (Business) Programs
+
+• American Community Survey
+
+• Annual Survey of Entrepreneurs and Annual Survey of Manufacturers
+
+• Decennial Census 
+
+• Decennial Census Self Response Rates
+
+• Health Insurance stats (from Current Population 
+Survey, Survey of Income Program Participation, 
+ACS, Small Area Health Insurance Estimates)
+
+•
+
+•
+
+•
+
+International Database 
+
+Population Estimates and Projections 
+
+Poverty stats (from CPS, Small Area Income & 
+Poverty Estimates)
+
+•
+
+•
+
+•
+
+•
+
+Business Dynamics Statistics
+
+County Business Patterns and Nonemployer Stats
+
+Economic Census and Economic Indicators
+
+International Trade
+
+• Quarterly Workforce Indicators
+
+•
+
+Survey of Business Owners
+
+Other Programs
+
+•
+
+The Planning Database
+
+census.gov/data/developers/data-sets.html
+
+22
+
+The American Community Survey
+ACS Data User Resources
+
+New resource page, Using American Community 
+Survey Data with Open-Source Software, is now 
+available.
+
+This webpage provides information on open-source 
+software packages that allow data users to access 
+and work with ACS data.
+
+census.gov/programs-surveys/acs/guidance/statistical-software.html
+
+23
+
+The American Community Survey
+Overview
+
+• ACS Basics
+• Introduction to Open-Source and APIs
+• Open-Source and the ACS
+• Case Study
+• Resources for Learning More
+
+24
+
+The American Community Survey
+Overview
+
+• ACS Basics
+• Introduction to Open-Source and APIs
+• Open-Source and the ACS
+• Case Study
+• Resources for Learning More
+
+25
+
+Data Dissemination and Training
+
+Census.gov/Academy
+
+ Bring our data experts to you.
+Request a free data training for your organization.
+
+ Receive our Data Gems.
+These short “how-to” videos are an easy and quick way to increase 
+your knowledge of Census data. Get them in your inbox! 
+
+ Get access to our Courses.
+You will learn-at-your-own-pace with these video-tutorials designed 
+for different skill levels.  
+
+ Interact with our instructors via Webinars.
+Learn about our data releases and tools while attending  these live 
+virtual classes. 
+
+Contact us:
+Census.askdata@census.gov
+1-844-ASK-DATA
+
+Share your ideas and feedback at 
+census.academy@census.gov
+
+The American Community Survey
+ACS Website
+
+census.gov/acs
+
+28
+
+The American Community Survey
+Census Bureau Developer’s Site
+
+census.gov/developers
+
+29
+
+The American Community Survey
+Data Tells Stories. Tell Us Yours!
+
+Your story
+
+Your data details
+
+Your outcome
+
+census.gov/acs/www/share-your-story
+
+30
+
+• Purpose: 
+
+• Improve understanding of the value and utility of ACS data. 
+• Promote information sharing among data users about key ACS data issues and 
+
+applications
+
+• Membership is free and open to all interested ACS data users
+• Webinars and special sessions at professional meetings planned
+• Users group website and online community 
+
+acsdatacommunity.prb.org
+
+31
+
+The American Community Survey
+For Further Information
+
+Email
+American Community Survey Office
+acso.users.support@census.gov
+
+Email Alerts 
+https://public.govdelivery.com/accounts/USCENS
+US/signup/12426
+
+Customer Service Center
+1-800-923-8282 or 301-763-INFO (4636)
+
+Social Media
+@uscensusbureau
+#ACSdata
+
+More information online:
+census.gov/acs
+
+Source Us
+U.S. Census Bureau’s [YYYY – YYYY] American 
+Community Survey
+[1/5]-year [estimates/statistics/data release]
+
+32
+
+

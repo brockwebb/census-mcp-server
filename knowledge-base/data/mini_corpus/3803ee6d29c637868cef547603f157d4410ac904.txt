@@ -1,0 +1,225 @@
+United States Census Bureau | An official website of the United States Government
+
+Understanding and Using
+American Community
+Survey Data: What All Data
+Users Need to Know
+
+September 2020
+
+Have you ever thought about how, or
+why, new roads, schools, after-school
+
+programs, or hospitals are placed in
+communities? What makes
+
+communities attractive to new
+businesses or tourists? Why there is
+no ATM or bike-share kiosk on a
+street corner? The answers often lie
+in the numbers—numbers that reflect
+
+what our communities look like, how
+our communities have changed, and
+how those changes impact our daily
+lives.
+
+The U.S. Census Bureau’s American
+Community Survey (ACS) is designed
+
+to answer these types of questions
+and to meet the needs of
+policymakers, business leaders,
+planners, and others nationwide who
+need good data to make informed
+decisions. The ACS provides a
+detailed portrait of the social,
+economic, housing, and
+demographic characteristics of
+America’s communities.
+
+[/conte
+nt/da
+m/Cen
+sus/lib
+rary/pu
+blicatio
+ns/202
+0/acs/
+acs_ge
+neral_h
+andbo
+ok_202
+0.pdf]
+
+Underst
+anding
+and
+Using
+America
+n
+Commu
+nity
+Survey
+Data:
+What All
+Data
+Users
+Need to
+Know
+[7.8 MB]
+
+American
+Communi
+ty Survey
+
+This handbook provides an overview of the ACS to help data users understand the basics of the survey, how the data
+can be used, how to judge the accuracy of ACS estimates, and how to access ACS data. It also includes some recent
+case studies that show how ACS data are being used to help address important policy and program issues. Links to
+additional ACS resources, including technical documentation for more advanced users, are included throughout the
+handbook.
+
+Download by Section
+
+1. Understanding the ACS: The Basics [<1.0
+MB]
+
+American Community Survey
+
+2. Geographic Areas Covered in the ACS [1.2
+MB]
+
+American Community Survey
+
+[/content/dam/Census/library/publications/2020/acs/acs_general_handbook_2020_ch01.pdf
+]
+
+[/content/dam/Census/library/publications/2020/acs/acs_general_handbook_2020_ch02.pd
+f]
+
+3. Understanding and Using ACS Single-Year and Multiyear
+Estimates [<1.0 MB]
+
+[/content/dam/Census/library/publications/2020/acs/acs_general_handboo
+k_2020_ch03.pdf]
+
+American Community Survey
+
+4. Making Comparisons with ACS Data [<1.0
+MB]
+
+American Community Survey
+
+[/content/dam/Census/library/publications/2020/acs/acs_general_handbook_2020_ch04.pd
+f]
+
+5. Accessing ACS Data [<1.0 MB]
+
+[/content/dam/Census/library/publications/2020/acs/acs_general_handbook_2020_ch05.pdf]
+
+American Community Survey
+
+6. Case Studies Using ACS Data [4.9 MB]
+
+[/content/dam/Census/library/publications/2020/acs/acs_general_handbook_2020_ch06.pdf]
+
+American Community Survey
+
+7. Understanding Error and Determining Statistical
+Significance [<1.0 MB]
+
+American Community Survey
+
+[/content/dam/Census/library/publications/2020/acs/acs_general_handbook_
+2020_ch07.pdf]
+
+8. Calculating Measures of Error for Derived Estimates
+[<1.0 MB]
+
+[/content/dam/Census/library/publications/2020/acs/acs_general_handbook_2020
+_ch08.pdf]
+
+American Community Survey
+
+9. Differences Between the ACS and the Decennial Census
+[<1.0 MB]
+
+[/content/dam/Census/library/publications/2020/acs/acs_general_handbook_20
+20_ch09.pdf]
+
+American Community Survey
+
+10. Using Dollar-Denominated Data [<1.0 MB]
+
+[/content/dam/Census/library/publications/2020/acs/acs_general_handbook_2020_ch10.pdf]
+
+American Community Survey
+
+11. Measures of Nonsampling Error [<1.0 MB]
+
+[/content/dam/Census/library/publications/2020/acs/acs_general_handbook_2020_ch11.pdf]
+
+American Community Survey
+
+12. Glossary [<1.0 MB]
+
+[/content/dam/Census/library/publications/2020/acs/acs_general_handbook_2020_ch12.pdf]
+
+American Community Survey
+
+Others in Series
+
+Publication
+
+What the Business Community
+Needs to Know
+
+October 2020
+
+This handbook helps business data users learn how to access
+and use ACS data and provide concrete examples of how ACS
+data can answer real-world questions.
+
+[/programs-surveys/acs/guidance/handbooks/business.html]
+
+Publication
+
+What ACS Summary File Data Users
+Need to Know
+
+October 2023
+
+This guide provides an overview of the ACS Summary File and
+how it can be used to access data on America’s communities.
+
+[/programs-surveys/acs/library/handbooks/summary-file.html]
+
+Publication
+
+What ACS Summary File Data Users
+Need to Know
+
+September 2021
+
+This guide provides an overview of the ACS Summary File and
+how it can be used to access data on America’s communities.
+
+[/programs-surveys/acs/guidance/handbooks/summary-file.html]
+
+VIEW ALL [/PROGRAMS-SURVEYS/ACS/LIBRARY/HANDBOOKS.HTML]
+
+Related Information
+
+VIDEO
+
+Population Reference Bureau: The American Community Survey [/library/video/2019/prb-acs.html]
+
+VIDEO
+
+Population Reference Bureau: Assessing ACS Reliability [/library/video/2019/prb-acs-reliability.html]
+
+American Community Survey Resources for General Users [/programs-surveys/acs/information-for/general.html]
+
+Page Last Revised - May 1, 2025
+
+

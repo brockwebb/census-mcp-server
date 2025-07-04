@@ -1,0 +1,38 @@
+United States Census Bureau | An official website of the United States Government
+
+Wealth of Households:
+2022
+
+November 2024
+Written by: Briana Sullivan and Shomik Ghosh
+Report Number: P70br-202
+
+Introduction
+
+Wealth is an important indicator of economic well-being that provides valuable insights into a household’s economic
+
+health. For example, during financial hardships, such as unemployment, illness, or divorce, wealth is a source of
+
+liquidity to pay expenses and bills. This brief uses the 2023 Survey of Income and Program Participation to examine
+
+household wealth in 2022.
+
+For additional detailed wealth data, refer to the National Wealth, Asset Ownership, & Debt of Households Detailed
+
+Tables [/data/tables/2022/demo/wealth/wealth-asset-ownership.html]  and State-Level Wealth, Asset Ownership, &
+
+Debt of Households Tables [/data/tables/2022/demo/wealth/state-wealth-asset-ownership.html] . These tables
+provide wealth and debt measures for a variety of demographic, social, and household characteristics, including
+information on home equity, retirement accounts, vehicle debt, credit card debt, and student loans.
+
+Wealth of Households: 2022 [< 1.0 MB][//www2.census.gov/library/publications/2024/demo/p70br-202.pdf]
+
+Related Information
+
+Wealth and Asset Ownership Publications [/topics/income-poverty/wealth/library/publications.html]
+
+Survey of Income and Program Participation Publications [/programs-surveys/sipp/library/publications.html]
+
+Page Last Revised - November 25, 2024
+
+

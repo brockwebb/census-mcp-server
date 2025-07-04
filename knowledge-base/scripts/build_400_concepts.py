@@ -3,28 +3,101 @@
 Build the definitive 400-concept taxonomy using:
 1. Official Census subject structure (subjects.json)
 2. Extracted official definitions (definitions_2023.json)
-3. Spock's layered coverage strategy (100 core + 150 extended + 150 special)
+3. Spock's systematic schema-first approach with confidence bucketing
+4. Category template files for systematic generation
 """
 
 import json
+import yaml
 from pathlib import Path
-from typing import Dict, List
+from typing import Dict, List, Optional
+from dataclasses import dataclass
+import argparse
+
+# Canonical schema - fail fast if any field is missing
+CONCEPT_SCHEMA = {
+    "id": str,           # cendata URI
+    "label": str,        # Median Household Income
+    "bucket": str,       # economic / social / demographic / housing
+    "universe": str,     # Households / Civilian Labor Force / Population
+    "stat_method": str,  # median / mean / rate / ratio / count
+    "census_tables": list, # ["B19013", "B19013A"]
+    "definition": str,   # verbatim from PDF
+    "source_page": int,  # page number from definitions PDF
+    "status": str,       # auto|reviewed|rejected
+    "confidence": float  # 0-1 from LLM
+}
+
+@dataclass
+class ConceptRecord:
+    """Validated concept record matching canonical schema"""
+    id: str
+    label: str
+    bucket: str
+    universe: str
+    stat_method: str
+    census_tables: List[str]
+    definition: str
+    source_page: int
+    status: str
+    confidence: float
+    
+    def to_dict(self) -> Dict:
+        return {
+            "id": self.id,
+            "label": self.label,
+            "bucket": self.bucket,
+            "universe": self.universe,
+            "stat_method": self.stat_method,
+            "census_tables": self.census_tables,
+            "definition": self.definition,
+            "source_page": self.source_page,
+            "status": self.status,
+            "confidence": self.confidence
+        }
+    
+    @classmethod
+    def validate(cls, concept_dict: Dict) -> 'ConceptRecord':
+        """Validate concept against canonical schema"""
+        
+        # Check all required fields exist
+        for field, expected_type in CONCEPT_SCHEMA.items():
+            if field not in concept_dict:
+                raise ValueError(f"Missing required field: {field}")
+            
+            value = concept_dict[field]
+            if not isinstance(value, expected_type):
+                raise TypeError(f"Field {field} must be {expected_type.__name__}, got {type(value).__name__}")
+        
+        # Validate specific field constraints
+        if concept_dict["confidence"] < 0 or concept_dict["confidence"] > 1:
+            raise ValueError("Confidence must be between 0 and 1")
+        
+        if concept_dict["status"] not in ["auto", "reviewed", "rejected"]:
+            raise ValueError("Status must be one of: auto, reviewed, rejected")
+        
+        return cls(**concept_dict)
 
 class ConceptTaxonomyBuilder:
-    """Build authoritative 400-concept taxonomy"""
+    """Build authoritative 400-concept taxonomy with schema validation"""
     
     def __init__(self):
         self.subjects = self._load_subjects()
         self.definitions = self._load_definitions()
+        self.universe_definitions = self._load_universe_definitions()
+        self.stat_method_definitions = self._load_stat_method_definitions()
+        self.category_templates = self._load_category_templates()
+        
         self.taxonomy = {
             "meta": {
                 "total_concepts": 400,
-                "strategy": "Spock's layered coverage: 100 core + 150 extended + 150 special",
-                "sources": ["Census subjects.json", "2023_ACSSubjectDefinitions.pdf", "75-concept validation"]
+                "strategy": "Spock's systematic schema-first approach",
+                "sources": ["Census subjects.json", "2023_ACSSubjectDefinitions.pdf", "90% success validation"],
+                "schema_version": "1.0"
             },
             "allocation": {
                 "core_demographics": 50,
-                "housing": 75, 
+                "housing": 75,
                 "economics": 75,
                 "education": 50,
                 "transportation": 25,
@@ -54,244 +127,440 @@ class ConceptTaxonomyBuilder:
             print("❌ definitions_2023.json not found - run extract_definitions.py first")
             return {}
     
-    def build_core_demographics(self) -> List[Dict]:
-        """50 core demographic concepts - must answer Demography 101"""
-        
-        concepts = []
-        
-        # Age & Sex (8 concepts)
-        age_sex_concepts = [
-            {"name": "MedianAge", "definition": "The median age of the total population", "priority": "core", "difficulty": "easy"},
-            {"name": "AgeDistribution", "definition": "Distribution of population across age groups", "priority": "core", "difficulty": "easy"},
-            {"name": "GenderComposition", "definition": "Distribution of population by sex/gender", "priority": "core", "difficulty": "easy"},
-            {"name": "SeniorPopulation", "definition": "Population aged 65 and older", "priority": "core", "difficulty": "easy"},
-            {"name": "ChildPopulation", "definition": "Population under 18 years of age", "priority": "core", "difficulty": "easy"},
-            {"name": "WorkingAgePopulation", "definition": "Population aged 18-64", "priority": "core", "difficulty": "easy"},
-            {"name": "YoungAdults", "definition": "Population aged 25-34", "priority": "extended", "difficulty": "easy"},
-            {"name": "MiddleAged", "definition": "Population aged 45-54", "priority": "extended", "difficulty": "easy"}
-        ]
-        concepts.extend(age_sex_concepts)
-        
-        # Race & Hispanic Origin (10 concepts)
-        race_concepts = [
-            {"name": "RaceEthnicity", "definition": "Racial and ethnic composition of the population", "priority": "core", "difficulty": "medium"},
-            {"name": "WhiteAlone", "definition": "Population identifying as White alone", "priority": "core", "difficulty": "easy"},
-            {"name": "BlackAlone", "definition": "Population identifying as Black or African American alone", "priority": "core", "difficulty": "easy"},
-            {"name": "HispanicLatino", "definition": "Population of Hispanic or Latino origin", "priority": "core", "difficulty": "easy"},
-            {"name": "AsianAlone", "definition": "Population identifying as Asian alone", "priority": "core", "difficulty": "easy"},
-            {"name": "NativeAmerican", "definition": "Population identifying as American Indian and Alaska Native", "priority": "extended", "difficulty": "easy"},
-            {"name": "PacificIslander", "definition": "Population identifying as Native Hawaiian and Other Pacific Islander", "priority": "extended", "difficulty": "easy"},
-            {"name": "TwoOrMoreRaces", "definition": "Population identifying as two or more races", "priority": "extended", "difficulty": "easy"},
-            {"name": "MinorityPopulation", "definition": "Total minority population (non-White alone)", "priority": "core", "difficulty": "medium"},
-            {"name": "DiversityIndex", "definition": "Measure of racial and ethnic diversity", "priority": "special", "difficulty": "hard"}
-        ]
-        concepts.extend(race_concepts)
-        
-        # Relationship & Household Structure (12 concepts)
-        household_concepts = [
-            {"name": "HouseholdSize", "definition": "Average number of people per household", "priority": "core", "difficulty": "easy"},
-            {"name": "HouseholdType", "definition": "Types of households (family, non-family, etc.)", "priority": "core", "difficulty": "easy"},
-            {"name": "FamilyHouseholds", "definition": "Households with related individuals", "priority": "core", "difficulty": "easy"},
-            {"name": "NonFamilyHouseholds", "definition": "Households without related individuals", "priority": "core", "difficulty": "easy"},
-            {"name": "MaritalStatus", "definition": "Distribution of population by marital status", "priority": "core", "difficulty": "easy"},
-            {"name": "MarriedCoupleHouseholds", "definition": "Households with married couples", "priority": "core", "difficulty": "easy"},
-            {"name": "SingleParentHouseholds", "definition": "Households with single parents and children", "priority": "core", "difficulty": "easy"},
-            {"name": "LivingAlone", "definition": "Individuals living in single-person households", "priority": "core", "difficulty": "easy"},
-            {"name": "ChildrenInHouseholds", "definition": "Presence and number of children in households", "priority": "core", "difficulty": "easy"},
-            {"name": "MultigenerationalHouseholds", "definition": "Households with three or more generations", "priority": "extended", "difficulty": "medium"},
-            {"name": "GrandparentsAsCaregiver", "definition": "Grandparents responsible for grandchildren", "priority": "extended", "difficulty": "medium"},
-            {"name": "UnmarriedPartners", "definition": "Households with unmarried partners", "priority": "extended", "difficulty": "medium"}
-        ]
-        concepts.extend(household_concepts)
-        
-        # Population & Migration (8 concepts)
-        population_concepts = [
-            {"name": "TotalPopulation", "definition": "Total population count", "priority": "core", "difficulty": "easy"},
-            {"name": "PopulationDensity", "definition": "Number of people per square mile", "priority": "core", "difficulty": "easy"},
-            {"name": "PopulationGrowth", "definition": "Change in population over time", "priority": "extended", "difficulty": "hard"},
-            {"name": "MigrationPatterns", "definition": "Population movement between areas", "priority": "extended", "difficulty": "hard"},
-            {"name": "ForeignBorn", "definition": "Population born outside the United States", "priority": "core", "difficulty": "easy"},
-            {"name": "NativeBorn", "definition": "Population born in the United States", "priority": "core", "difficulty": "easy"},
-            {"name": "YearOfEntry", "definition": "Year foreign-born population entered the US", "priority": "extended", "difficulty": "medium"},
-            {"name": "CitizenshipStatus", "definition": "Citizenship and naturalization status", "priority": "extended", "difficulty": "medium"}
-        ]
-        concepts.extend(population_concepts)
-        
-        # Group Quarters (2 concepts)
-        gq_concepts = [
-            {"name": "GroupQuartersPopulation", "definition": "Population living in group quarters", "priority": "extended", "difficulty": "medium"},
-            {"name": "InstitutionalizedPopulation", "definition": "Population in institutional group quarters", "priority": "special", "difficulty": "medium"}
-        ]
-        concepts.extend(gq_concepts)
-        
-        return concepts[:50]  # Return exactly 50 core demographic concepts
+    def _load_universe_definitions(self) -> Dict:
+        """Load canonical universe definitions"""
+        universe_path = Path("../official_sources/universe_definitions.yaml")
+        if universe_path.exists():
+            with open(universe_path) as f:
+                return yaml.safe_load(f)
+        else:
+            # Create default universe definitions
+            return self._create_default_universe_definitions()
     
-    def build_housing_concepts(self) -> List[Dict]:
-        """75 housing concepts - comprehensive housing analysis"""
-        
-        concepts = []
-        
-        # Basic Housing (15 concepts)
-        basic_housing = [
-            {"name": "HousingUnits", "definition": "Total number of housing units in an area", "priority": "core", "difficulty": "easy"},
-            {"name": "HousingTenure", "definition": "Whether housing units are owner-occupied or renter-occupied", "priority": "core", "difficulty": "easy"},
-            {"name": "HomeownershipRate", "definition": "Percentage of housing units that are owner-occupied", "priority": "core", "difficulty": "easy"},
-            {"name": "RenterOccupied", "definition": "Housing units occupied by renters", "priority": "core", "difficulty": "easy"},
-            {"name": "VacancyRate", "definition": "Percentage of housing units that are vacant", "priority": "core", "difficulty": "easy"},
-            {"name": "OccupancyStatus", "definition": "Whether housing units are occupied or vacant", "priority": "core", "difficulty": "easy"},
-            {"name": "HouseholdCrowding", "definition": "Housing units with more than one person per room", "priority": "extended", "difficulty": "medium"},
-            {"name": "OccupantsPerRoom", "definition": "Average number of occupants per room", "priority": "extended", "difficulty": "medium"},
-            {"name": "Bedrooms", "definition": "Number of bedrooms in housing units", "priority": "extended", "difficulty": "easy"},
-            {"name": "Rooms", "definition": "Total number of rooms in housing units", "priority": "extended", "difficulty": "easy"},
-            {"name": "UnitsInStructure", "definition": "Type of structure housing units are in", "priority": "extended", "difficulty": "medium"},
-            {"name": "MobileHomes", "definition": "Housing units that are mobile homes or trailers", "priority": "extended", "difficulty": "easy"},
-            {"name": "SingleFamilyHomes", "definition": "Housing units in single-family structures", "priority": "core", "difficulty": "easy"},
-            {"name": "MultifamilyHousing", "definition": "Housing units in buildings with multiple units", "priority": "extended", "difficulty": "medium"},
-            {"name": "ApartmentBuildings", "definition": "Housing units in apartment buildings", "priority": "extended", "difficulty": "medium"}
-        ]
-        concepts.extend(basic_housing)
-        
-        # Housing Costs (20 concepts)
-        cost_concepts = [
-            {"name": "MedianHomeValue", "definition": "Median value of owner-occupied housing units", "priority": "core", "difficulty": "easy"},
-            {"name": "MedianRent", "definition": "Median gross rent for renter-occupied housing units", "priority": "core", "difficulty": "easy"},
-            {"name": "HousingCosts", "definition": "Monthly housing costs for homeowners and renters", "priority": "core", "difficulty": "easy"},
-            {"name": "HousingCostBurden", "definition": "Percentage of income spent on housing costs", "priority": "core", "difficulty": "medium"},
-            {"name": "RentBurden", "definition": "Percentage of income spent on rent for renter households", "priority": "core", "difficulty": "medium"},
-            {"name": "SevereHousingCostBurden", "definition": "Households spending more than 50% of income on housing", "priority": "extended", "difficulty": "medium"},
-            {"name": "SelectedMonthlyOwnerCosts", "definition": "Total monthly costs for homeowners", "priority": "extended", "difficulty": "medium"},
-            {"name": "HouseholdMortgage", "definition": "Monthly mortgage payments and mortgage status", "priority": "extended", "difficulty": "medium"},
-            {"name": "MortgageStatus", "definition": "Whether housing units have a mortgage", "priority": "extended", "difficulty": "easy"},
-            {"name": "PropertyTaxes", "definition": "Annual property tax payments", "priority": "special", "difficulty": "medium"},
-            {"name": "HomeInsurance", "definition": "Annual homeowners insurance costs", "priority": "special", "difficulty": "medium"},
-            {"name": "UtilityCosts", "definition": "Monthly utility costs for housing", "priority": "extended", "difficulty": "medium"},
-            {"name": "AffordableHousing", "definition": "Housing affordable to low and moderate income households", "priority": "extended", "difficulty": "hard"},
-            {"name": "SubsidizedHousing", "definition": "Housing units receiving government assistance", "priority": "special", "difficulty": "hard"},
-            {"name": "HousingAffordabilityIndex", "definition": "Measure of housing affordability in an area", "priority": "special", "difficulty": "hard"},
-            {"name": "RentStabilized", "definition": "Rental units with rent stabilization or control", "priority": "special", "difficulty": "hard"},
-            {"name": "HousingVouchers", "definition": "Households receiving housing choice vouchers", "priority": "special", "difficulty": "medium"},
-            {"name": "FirstTimeBuyers", "definition": "Recent home purchases by first-time buyers", "priority": "special", "difficulty": "hard"},
-            {"name": "HousingEquity", "definition": "Homeowner equity in housing units", "priority": "special", "difficulty": "medium"},
-            {"name": "RentControlled", "definition": "Rental units under rent control programs", "priority": "special", "difficulty": "hard"}
-        ]
-        concepts.extend(cost_concepts)
-        
-        # Housing Quality & Conditions (25 concepts)
-        quality_concepts = [
-            {"name": "HousingAge", "definition": "Year housing units were built", "priority": "extended", "difficulty": "medium"},
-            {"name": "YearBuilt", "definition": "Construction period of housing structures", "priority": "extended", "difficulty": "medium"},
-            {"name": "YearMovedIn", "definition": "Year householder moved into current unit", "priority": "extended", "difficulty": "medium"},
-            {"name": "HousingCondition", "definition": "Physical condition and amenities of housing units", "priority": "extended", "difficulty": "medium"},
-            {"name": "PlumbingFacilities", "definition": "Availability of complete plumbing facilities", "priority": "extended", "difficulty": "medium"},
-            {"name": "KitchenFacilities", "definition": "Availability of complete kitchen facilities", "priority": "extended", "difficulty": "medium"},
-            {"name": "HeatingFuel", "definition": "Primary fuel used for heating housing units", "priority": "extended", "difficulty": "medium"},
-            {"name": "TelephoneService", "definition": "Availability of telephone service", "priority": "special", "difficulty": "easy"},
-            {"name": "InternetAccess", "definition": "Household access to internet services", "priority": "extended", "difficulty": "medium"},
-            {"name": "ComputerAccess", "definition": "Household access to computers", "priority": "extended", "difficulty": "medium"},
-            {"name": "AirConditioning", "definition": "Availability of air conditioning systems", "priority": "special", "difficulty": "medium"},
-            {"name": "WaterHeater", "definition": "Type of water heating system", "priority": "special", "difficulty": "medium"},
-            {"name": "Insulation", "definition": "Quality of housing insulation", "priority": "special", "difficulty": "hard"},
-            {"name": "WindowType", "definition": "Type and efficiency of windows", "priority": "special", "difficulty": "hard"},
-            {"name": "RoofCondition", "definition": "Condition of housing roof", "priority": "special", "difficulty": "hard"},
-            {"name": "ElectricalSystems", "definition": "Adequacy of electrical systems", "priority": "special", "difficulty": "hard"},
-            {"name": "AccessibilityFeatures", "definition": "Housing features for disabled residents", "priority": "special", "difficulty": "medium"},
-            {"name": "SafetyFeatures", "definition": "Housing safety equipment and features", "priority": "special", "difficulty": "medium"},
-            {"name": "EnergyEfficiency", "definition": "Energy efficiency of housing units", "priority": "special", "difficulty": "hard"},
-            {"name": "GreenBuilding", "definition": "Environmentally sustainable housing features", "priority": "special", "difficulty": "hard"},
-            {"name": "HistoricHousing", "definition": "Housing units in historic districts or landmarks", "priority": "special", "difficulty": "hard"},
-            {"name": "HousingViolations", "definition": "Housing code violations and maintenance issues", "priority": "special", "difficulty": "hard"},
-            {"name": "LeadPaint", "definition": "Presence of lead-based paint in housing", "priority": "special", "difficulty": "hard"},
-            {"name": "AsbestosPrecence", "definition": "Presence of asbestos in housing materials", "priority": "special", "difficulty": "hard"},
-            {"name": "FloodZone", "definition": "Housing located in flood-prone areas", "priority": "special", "difficulty": "medium"}
-        ]
-        concepts.extend(quality_concepts)
-        
-        # Housing Programs & Policy (15 concepts)
-        program_concepts = [
-            {"name": "PublicHousing", "definition": "Government-owned rental housing for low-income families", "priority": "special", "difficulty": "medium"},
-            {"name": "Section8Housing", "definition": "Housing units accepting Section 8 vouchers", "priority": "special", "difficulty": "medium"},
-            {"name": "LowIncomeHousingTax", "definition": "Housing financed through tax credit programs", "priority": "special", "difficulty": "hard"},
-            {"name": "AffordableHousingTrust", "definition": "Housing supported by affordable housing trust funds", "priority": "special", "difficulty": "hard"},
-            {"name": "HousingAuthority", "definition": "Housing managed by public housing authorities", "priority": "special", "difficulty": "medium"},
-            {"name": "CommunityLandTrust", "definition": "Housing in community land trust arrangements", "priority": "special", "difficulty": "hard"},
-            {"name": "HousingCooperatives", "definition": "Housing owned and managed cooperatively", "priority": "special", "difficulty": "medium"},
-            {"name": "CondominiumOwnership", "definition": "Housing owned as condominium units", "priority": "special", "difficulty": "medium"},
-            {"name": "ManufacturedHousing", "definition": "Factory-built housing units", "priority": "extended", "difficulty": "medium"},
-            {"name": "TinyHomes", "definition": "Very small housing units under 500 square feet", "priority": "special", "difficulty": "hard"},
-            {"name": "AccessoryDwellingUnits", "definition": "Secondary housing units on single-family properties", "priority": "special", "difficulty": "hard"},
-            {"name": "StudentHousing", "definition": "Housing designated for college students", "priority": "special", "difficulty": "medium"},
-            {"name": "SeniorHousing", "definition": "Housing designed for elderly residents", "priority": "special", "difficulty": "medium"},
-            {"name": "TransitionalHousing", "definition": "Temporary housing for homeless populations", "priority": "special", "difficulty": "hard"},
-            {"name": "SupportiveHousing", "definition": "Housing with support services for special populations", "priority": "special", "difficulty": "hard"}
-        ]
-        concepts.extend(program_concepts)
-        
-        return concepts
+    def _load_stat_method_definitions(self) -> Dict:
+        """Load canonical statistical method definitions"""
+        stat_path = Path("../official_sources/stat_method_definitions.yaml")
+        if stat_path.exists():
+            with open(stat_path) as f:
+                return yaml.safe_load(f)
+        else:
+            return self._create_default_stat_method_definitions()
     
-    def save_concept_category(self, concepts: List[Dict], category: str):
-        """Save concept category to JSON file"""
+    def _load_category_templates(self) -> Dict:
+        """Load category template files for concept generation"""
+        templates_dir = Path("../concept_templates")
+        if not templates_dir.exists():
+            print(f"❌ Category templates directory not found: {templates_dir}")
+            print("   Create template files for systematic concept generation")
+            return {}
         
-        # Create concepts directory
-        concepts_dir = Path("../concepts")
-        concepts_dir.mkdir(exist_ok=True)
+        templates = {}
+        for category_file in templates_dir.glob("*.json"):
+            category_name = category_file.stem
+            with open(category_file) as f:
+                templates[category_name] = json.load(f)
+            print(f"✅ Loaded {category_name} template: {len(templates[category_name].get('concepts', []))} concept templates")
         
-        # Add metadata
-        category_data = {
-            "meta": {
-                "category": category,
-                "concept_count": len(concepts),
-                "source": "Official Census subjects + ACS definitions + expert curation",
-                "validation_target": "85% LLM mapping success rate"
-            },
-            "concepts": concepts
+        return templates
+    
+    def _create_default_universe_definitions(self) -> Dict:
+        """Create canonical universe definitions file"""
+        universe_definitions = {
+            "universes": {
+                "Households": {
+                    "definition": "All occupied housing units",
+                    "excludes": "Group quarters population",
+                    "census_note": "Standard household universe for income, housing costs"
+                },
+                "Family households": {
+                    "definition": "Households with related individuals",
+                    "excludes": "Single-person households, unrelated individuals",
+                    "census_note": "Subset of households - use for family-specific measures"
+                },
+                "Population": {
+                    "definition": "All persons counted in census/survey",
+                    "includes": "Household and group quarters population",
+                    "census_note": "Total population universe"
+                },
+                "Civilian labor force": {
+                    "definition": "Civilians 16+ who are employed or actively seeking work",
+                    "excludes": "Military, institutionalized, not seeking work",
+                    "census_note": "Standard employment universe"
+                },
+                "Housing units": {
+                    "definition": "All residential structures intended for occupancy",
+                    "includes": "Occupied and vacant units",
+                    "census_note": "Physical housing stock universe"
+                },
+                "Workers": {
+                    "definition": "Employed civilians 16+ with work location data",
+                    "excludes": "Unemployed, military, work-from-home varies",
+                    "census_note": "Commuting and workplace universe"
+                },
+                "School-age population": {
+                    "definition": "Population 3-24 years old",
+                    "includes": "Enrolled and not enrolled",
+                    "census_note": "Education enrollment universe"
+                },
+                "Geographic entity": {
+                    "definition": "Census-defined geographic boundaries",
+                    "includes": "All official Census geographic levels",
+                    "census_note": "Administrative and statistical geography"
+                }
+            }
         }
         
         # Save to file
-        output_path = concepts_dir / f"{category}.json"
-        with open(output_path, 'w') as f:
-            json.dump(category_data, f, indent=2)
+        universe_path = Path("../official_sources/universe_definitions.yaml")
+        universe_path.parent.mkdir(exist_ok=True)
+        with open(universe_path, 'w') as f:
+            yaml.dump(universe_definitions, f, default_flow_style=False)
         
-        print(f"✅ Saved {len(concepts)} {category} concepts to {output_path}")
-        return output_path
+        print(f"✅ Created universe definitions: {universe_path}")
+        return universe_definitions
+    
+    def _create_default_stat_method_definitions(self) -> Dict:
+        """Create canonical statistical method definitions"""
+        stat_definitions = {
+            "methods": {
+                "median": {
+                    "definition": "50th percentile value",
+                    "use_cases": "Income, home values, age - skewed distributions",
+                    "census_tables": "Most B-tables provide medians"
+                },
+                "mean": {
+                    "definition": "Arithmetic average",
+                    "use_cases": "Household size, rooms - symmetric distributions",
+                    "census_tables": "Some C-tables, derived calculations"
+                },
+                "rate": {
+                    "definition": "Numerator/denominator expressed as percentage",
+                    "use_cases": "Poverty rate, unemployment rate",
+                    "calculation": "Detail variable / total variable * 100"
+                },
+                "ratio": {
+                    "definition": "Relationship between two quantities",
+                    "use_cases": "Sex ratio, dependency ratio",
+                    "calculation": "Variable A / Variable B"
+                },
+                "count": {
+                    "definition": "Simple enumeration",
+                    "use_cases": "Population, housing units, establishments",
+                    "census_tables": "Total variables, _001 estimates"
+                },
+                "percentage": {
+                    "definition": "Share of total expressed as percentage",
+                    "use_cases": "Educational attainment distribution",
+                    "calculation": "Category / total * 100"
+                }
+            }
+        }
+        
+        # Save to file
+        stat_path = Path("../official_sources/stat_method_definitions.yaml")
+        with open(stat_path, 'w') as f:
+            yaml.dump(stat_definitions, f, default_flow_style=False)
+        
+        print(f"✅ Created statistical method definitions: {stat_path}")
+        return stat_definitions
+    
+    def validate_concept_record(self, concept_dict: Dict) -> ConceptRecord:
+        """Validate and create concept record"""
+        return ConceptRecord.validate(concept_dict)
+    
+    def bucket_by_confidence(self, concepts: List[ConceptRecord], review_cap: int = 50) -> Dict:
+        """Bucket concepts by confidence level"""
+        
+        auto_concepts = []      # ≥0.9 confidence
+        review_queue = []       # 0.75-0.9 confidence
+        low_confidence = []     # <0.75 confidence
+        
+        for concept in concepts:
+            if concept.confidence >= 0.9:
+                concept.status = "auto"
+                auto_concepts.append(concept)
+            elif concept.confidence >= 0.75:
+                review_queue.append(concept)
+            else:
+                low_confidence.append(concept)
+        
+        # Respect review cap
+        if len(review_queue) > review_cap:
+            print(f"⚠️  Review queue ({len(review_queue)}) exceeds cap ({review_cap})")
+            print(f"   Keeping top {review_cap} by confidence")
+            review_queue = sorted(review_queue, key=lambda x: x.confidence, reverse=True)[:review_cap]
+        
+        return {
+            "auto": auto_concepts,
+            "review": review_queue,
+            "low_confidence": low_confidence
+        }
+    
+    def save_concept_buckets(self, bucketed_concepts: Dict, category: str):
+        """Save concept buckets to separate files"""
+        
+        concepts_dir = Path("../concepts")
+        concepts_dir.mkdir(exist_ok=True)
+        
+        # Save auto-approved concepts
+        auto_data = {
+            "meta": {
+                "category": category,
+                "status": "auto_approved",
+                "concept_count": len(bucketed_concepts["auto"]),
+                "confidence_threshold": "≥0.9"
+            },
+            "concepts": [c.to_dict() for c in bucketed_concepts["auto"]]
+        }
+        
+        auto_path = concepts_dir / f"{category}.json"
+        with open(auto_path, 'w') as f:
+            json.dump(auto_data, f, indent=2)
+        
+        print(f"✅ Saved {len(bucketed_concepts['auto'])} auto-approved {category} concepts")
+        
+        # Save review queue as readable text dump
+        if bucketed_concepts["review"]:
+            review_path = concepts_dir / f"{category}_review.txt"
+            with open(review_path, 'w') as f:
+                f.write(f"# {category.title()} Concepts - Review Queue (0.75-0.9 confidence)\n")
+                f.write(f"# Human review required - edit and mark as 'reviewed' when done\n\n")
+                
+                for i, concept in enumerate(bucketed_concepts["review"], 1):
+                    f.write(f"## {i}. {concept.label} (confidence: {concept.confidence:.2f})\n")
+                    f.write(f"ID: {concept.id}\n")
+                    f.write(f"Universe: {concept.universe}\n")
+                    f.write(f"Stat Method: {concept.stat_method}\n")
+                    f.write(f"Tables: {concept.census_tables}\n")
+                    f.write(f"Definition: {concept.definition}\n")
+                    f.write(f"Status: NEEDS_REVIEW\n")
+                    f.write("-" * 80 + "\n\n")
+            
+            print(f"📝 Saved {len(bucketed_concepts['review'])} concepts for review: {review_path}")
+        
+        # Save low confidence concepts for debugging
+        if bucketed_concepts["low_confidence"]:
+            low_path = concepts_dir / f"{category}_low_confidence.csv"
+            with open(low_path, 'w') as f:
+                f.write("label,confidence,universe,stat_method,definition\n")
+                for concept in bucketed_concepts["low_confidence"]:
+                    f.write(f'"{concept.label}",{concept.confidence},"{concept.universe}","{concept.stat_method}","{concept.definition[:100]}..."\n')
+            
+            print(f"⚠️  Saved {len(bucketed_concepts['low_confidence'])} low-confidence concepts: {low_path}")
+    
+    def generate_geography_turtle(self, geography_concepts: List[ConceptRecord]):
+        """Generate Turtle RDF for geography concepts"""
+        
+        turtle_content = """@prefix cendata: <https://raw.githubusercontent.com/yourrepo/census-mcp-server/main/ontology#> .
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:    <http://www.w3.org/2004/02/skos/core#> .
+
+# Official Census Geographic Hierarchy
+# Based on Standard Hierarchy of Census Geographic Entities
+
+# Level 0 - Root
+cendata:Nation a skos:Concept ;
+    rdfs:label "Nation" ;
+    rdfs:comment "Singleton United States root geography" .
+
+# Level 1 - Major divisions  
+cendata:Region a skos:Concept ;
+    rdfs:label "Census Region" ;
+    rdfs:comment "4 Census regions (Northeast, Midwest, South, West)" ;
+    skos:broader cendata:Nation .
+
+cendata:Division a skos:Concept ;
+    rdfs:label "Census Division" ;
+    rdfs:comment "9 divisions nested in regions" ;
+    skos:broader cendata:Region .
+
+cendata:State a skos:Concept ;
+    rdfs:label "State" ;
+    rdfs:comment "50 states + DC + PR" ;
+    skos:broader cendata:Nation .
+
+# Level 2 - County and equivalent
+cendata:County a skos:Concept ;
+    rdfs:label "County" ;
+    rdfs:comment "County or county equivalent" ;
+    skos:broader cendata:State .
+
+cendata:Place a skos:Concept ;
+    rdfs:label "Place" ;
+    rdfs:comment "Incorporated places and CDPs" ;
+    skos:broader cendata:State .
+
+# Level 3-5 - Small area
+cendata:CensusTract a skos:Concept ;
+    rdfs:label "Census Tract" ;
+    rdfs:comment "Small statistical subdivisions of counties" ;
+    skos:broader cendata:County .
+
+cendata:BlockGroup a skos:Concept ;
+    rdfs:label "Block Group" ;
+    rdfs:comment "Subdivisions of census tracts" ;
+    skos:broader cendata:CensusTract .
+
+cendata:CensusBlock a skos:Concept ;
+    rdfs:label "Census Block" ;
+    rdfs:comment "Atomic geography - smallest entity" ;
+    skos:broader cendata:BlockGroup .
+"""
+        
+        # Save Turtle file
+        ontology_dir = Path("../ontology")
+        ontology_dir.mkdir(exist_ok=True)
+        
+        turtle_path = ontology_dir / "census_geography.ttl"
+        with open(turtle_path, 'w') as f:
+            f.write(turtle_content)
+        
+        print(f"✅ Generated geography ontology: {turtle_path}")
+        print(f"🔗 {len(geography_concepts)} geographic concepts with hierarchical relationships")
+    
+    def build_concepts_from_template(self, category: str) -> List[ConceptRecord]:
+        """Build concepts from category template file"""
+        
+        if category not in self.category_templates:
+            print(f"❌ No template found for category: {category}")
+            return []
+        
+        template = self.category_templates[category]
+        concept_templates = template.get("concepts", [])
+        
+        validated_concepts = []
+        for concept_template in concept_templates:
+            try:
+                # Ensure all template concepts have proper schema
+                if "bucket" not in concept_template:
+                    concept_template["bucket"] = category
+                
+                validated_concept = ConceptRecord.validate(concept_template)
+                validated_concepts.append(validated_concept)
+            except (ValueError, TypeError) as e:
+                print(f"❌ Schema validation failed for {concept_template.get('label', 'unknown')}: {e}")
+        
+        return validated_concepts
+    
+    def build_all_categories(self, review_cap: int = 50) -> Dict[str, int]:
+        """Build all concept categories systematically"""
+        
+        results = {}
+        total_concepts = 0
+        
+        # Build each category from templates
+        for category in self.taxonomy["allocation"].keys():
+            target_count = self.taxonomy["allocation"][category]
+            
+            print(f"\n🔨 Building {category} concepts (target: {target_count})...")
+            
+            # Build from template
+            concepts = self.build_concepts_from_template(category)
+            
+            if not concepts:
+                print(f"⚠️  No concepts generated for {category} - check template file")
+                results[category] = 0
+                continue
+            
+            # Bucket by confidence
+            bucketed = self.bucket_by_confidence(concepts, review_cap)
+            
+            # Save to files
+            self.save_concept_buckets(bucketed, category)
+            
+            # Generate special outputs for geography
+            if category == "geography":
+                self.generate_geography_turtle(concepts)
+            
+            # Track results
+            category_total = len(bucketed["auto"]) + len(bucketed["review"]) + len(bucketed["low_confidence"])
+            results[category] = category_total
+            total_concepts += category_total
+            
+            print(f"📊 {category.title()} Summary:")
+            print(f"   • Auto-approved: {len(bucketed['auto'])} concepts")
+            print(f"   • Review queue: {len(bucketed['review'])} concepts")
+            print(f"   • Low confidence: {len(bucketed['low_confidence'])} concepts")
+            print(f"   • Total: {category_total} concepts")
+        
+        return results, total_concepts
 
 def main():
-    """Build the complete 400-concept taxonomy"""
+    """Build complete 400-concept taxonomy with systematic validation"""
+    
+    parser = argparse.ArgumentParser(description="Build 400-concept taxonomy")
+    parser.add_argument("--subjects", default="../official_sources/subjects.json")
+    parser.add_argument("--defs", default="../official_sources/definitions_2023.json")
+    parser.add_argument("--target", type=int, default=400)
+    parser.add_argument("--review_cap", type=int, default=50)
+    parser.add_argument("--category", choices=["all", "economics", "education", "health_social", "transportation", "geography", "specialized_populations", "core_demographics", "housing"], default="all")
+    
+    args = parser.parse_args()
     
     print("🏗️  Building 400-Concept Authoritative Taxonomy")
     print("=" * 60)
+    print(f"Target: {args.target} concepts")
+    print(f"Review cap: {args.review_cap} concepts")
+    print(f"Category: {args.category}")
     
     builder = ConceptTaxonomyBuilder()
     
-    # Check that we have the required source files
-    if not builder.subjects or not builder.definitions:
-        print("❌ Missing required source files")
-        print("   Run: extract_definitions.py")
-        print("   Create: ../official_sources/subjects.json")
+    # Validate schema and universe definitions are available
+    if not builder.universe_definitions or not builder.stat_method_definitions:
+        print("❌ Missing universe or statistical method definitions")
         return
     
-    print(f"📊 Loaded {len(builder.subjects)} official subject categories")
-    print(f"📚 Loaded {len(builder.definitions)} official definitions")
+    print(f"✅ Schema validation ready")
+    print(f"✅ {len(builder.universe_definitions['universes'])} universe definitions loaded")
+    print(f"✅ {len(builder.stat_method_definitions['methods'])} statistical methods loaded")
+    print(f"✅ {len(builder.category_templates)} category templates loaded")
     
-    # Build core demographics (50 concepts)
-    print(f"\n🔨 Building core demographics...")
-    core_demographics = builder.build_core_demographics()
-    builder.save_concept_category(core_demographics, "core_demographics")
+    # Build concepts
+    if args.category == "all":
+        print(f"\n🚀 Building ALL categories systematically...")
+        results, total_concepts = builder.build_all_categories(args.review_cap)
+        
+        print(f"\n📈 FINAL SUMMARY:")
+        print(f"=" * 40)
+        for category, count in results.items():
+            target = builder.taxonomy["allocation"][category]
+            status = "✅" if count >= target * 0.8 else "⚠️"
+            print(f"   {status} {category}: {count}/{target} concepts")
+        
+        print(f"\n🎯 TOTAL CONCEPTS: {total_concepts}")
+        print(f"🎯 TARGET: {args.target}")
+        
+        if total_concepts >= args.target:
+            print(f"🎉 SUCCESS! Generated {total_concepts} concepts (≥{args.target} target)")
+        else:
+            print(f"⚠️  Generated {total_concepts} concepts (<{args.target} target)")
+            print(f"   Check template files and run category-specific builds")
+        
+    else:
+        # Build single category
+        print(f"\n🔨 Building {args.category} concepts...")
+        concepts = builder.build_concepts_from_template(args.category)
+        
+        if concepts:
+            # Bucket by confidence
+            bucketed = builder.bucket_by_confidence(concepts, args.review_cap)
+            
+            # Save to files
+            builder.save_concept_buckets(bucketed, args.category)
+            
+            # Generate special outputs
+            if args.category == "geography":
+                builder.generate_geography_turtle(concepts)
+            
+            print(f"📊 {args.category.title()} Summary:")
+            print(f"   • Auto-approved: {len(bucketed['auto'])} concepts")
+            print(f"   • Review queue: {len(bucketed['review'])} concepts")
+            print(f"   • Low confidence: {len(bucketed['low_confidence'])} concepts")
+        else:
+            print(f"❌ No concepts generated for {args.category}")
     
-    # Build housing concepts (75 concepts)
-    print(f"\n🏠 Building housing concepts...")
-    housing_concepts = builder.build_housing_concepts()
-    builder.save_concept_category(housing_concepts, "housing")
-    
-    # Summary
-    total_built = len(core_demographics) + len(housing_concepts)
-    print(f"\n📈 Progress Summary:")
-    print(f"   • Core Demographics: {len(core_demographics)} concepts")
-    print(f"   • Housing: {len(housing_concepts)} concepts")
-    print(f"   • Total Built: {total_built}/400 concepts")
-    print(f"   • Remaining: {400 - total_built} concepts")
-    
-    print(f"\n🎯 Next: Build economics, education, health_social, transportation, geography, specialized concepts")
-    print(f"💡 Ready to test with proven 86.7% success rate methodology!")
+    print(f"\n💡 Next: Review medium-confidence concepts and run LLM validation")
+    print(f"🎯 Schema validation prevents universe/method drift issues")
 
 if __name__ == "__main__":
     main()

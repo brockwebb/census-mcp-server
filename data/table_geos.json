@@ -1,0 +1,7770 @@
+{
+  "B01001": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B01002": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B01003": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B02001": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B02003": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B02008": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B02009": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B02010": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B02011": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B02012": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B02013": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B02015": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B02016": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B02018": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B02019": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B02020": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B02021": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B03001": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B03002": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B03003": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B04004": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B04005": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B04006": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B04007": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B05001": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B05002": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B05003": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B05004": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B05005": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B05006": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B05007": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B05008": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B05009": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B05010": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B05011": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B05012": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B05013": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B05014": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B05015": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B06001": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B06002": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B06003": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B06004": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B06007": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B06008": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B06009": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B06010": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B06011": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B06012": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B07001": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B07002": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B07003": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B07004": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B07007": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B07008": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B07009": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B07010": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B07011": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B07012": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B07013": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B07101": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B07201": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B07202": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B07203": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B07204": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B07401": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B07402": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B07403": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B07404": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B07407": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B07408": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B07409": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B07410": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B07411": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B07412": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B07413": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08006": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08007": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08008": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08009": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08011": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08012": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08013": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08014": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08015": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08016": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08017": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08018": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08101": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08103": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08105": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08111": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08113": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08119": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08121": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08122": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08124": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08126": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08128": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08130": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08131": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08132": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08133": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08134": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08135": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08136": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08137": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08141": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08201": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08202": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08203": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08301": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08302": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08303": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08406": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08412": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08501": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08503": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08505": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08511": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08513": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08519": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08521": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08522": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08524": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08526": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08528": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08532": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08534": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08536": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08537": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08541": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08601": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08602": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08603": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B08604": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B09001": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B09002": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B09005": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B09010": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B09018": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B09019": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B09020": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B09021": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B10001": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B10002": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B10010": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B10050": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B10051": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B10052": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B10053": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B10054": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B10056": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B10057": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B10058": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B10059": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B10063": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B11001": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B11002": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B11003": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B11004": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B11005": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B11006": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B11007": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B11008": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B11009": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B11010": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B11011": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B11012": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B11013": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B11014": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B11015": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B11016": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B11017": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B12001": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B12002": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B12006": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B12007": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B12501": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B12502": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B12503": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B12504": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B12505": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B13002": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B13004": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B13008": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B13010": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B13012": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B13014": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B13015": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B13016": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B14001": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B14002": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B14003": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B14004": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B14005": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B14006": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B14007": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B15001": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B15002": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B15003": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B15010": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B15011": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B15012": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B15013": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B15014": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B16001": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B16002": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B16003": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B16004": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B16005": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B16006": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B16007": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B16008": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B16009": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B16010": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B17001": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B17002": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B17003": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B17004": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B17005": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B17006": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B17007": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B17008": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B17009": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B17010": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B17011": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B17012": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B17013": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B17014": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B17015": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B17016": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B17017": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B17018": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B17019": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B17020": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B17021": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B17022": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B17023": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B17024": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B17025": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B17026": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B17101": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B18101": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B18102": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B18103": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B18104": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B18105": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B18106": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B18107": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B18108": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B18120": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B18121": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B18130": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B18131": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B18135": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B18140": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19001": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19013": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19019": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19025": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19037": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19049": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19050": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19051": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19052": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19053": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19054": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19055": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19056": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19057": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19058": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19059": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19060": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19061": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19062": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19063": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19064": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19065": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19066": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19067": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19069": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19070": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19080": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19081": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19082": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19083": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19101": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19113": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19119": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19121": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19122": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19123": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19125": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19126": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19127": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19128": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19129": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19130": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19131": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19201": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19202": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19214": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19215": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19216": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19301": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19313": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19325": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B19326": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B20001": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B20002": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B20003": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B20004": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B20005": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B20017": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B20018": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B21001": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B21002": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B21003": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B21004": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B21005": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B21007": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B21100": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B22001": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B22002": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B22003": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B22005": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B22007": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B22008": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B22010": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B23001": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B23002": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B23003": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B23006": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B23007": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B23008": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B23009": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B23010": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B23013": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B23018": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B23020": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B23022": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B23024": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B23025": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B23026": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B23027": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B24010": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B24011": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B24012": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B24020": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B24021": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B24022": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B24030": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B24031": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B24032": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B24040": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B24041": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B24042": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B24050": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B24060": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B24070": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B24080": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B24081": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B24082": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B24090": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B24091": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B24092": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B24114": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B24115": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B24116": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B24121": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B24122": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B24123": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B24124": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B24125": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B24126": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B24134": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B24135": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B24136": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25001": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25002": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25003": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25004": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25005": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25006": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25007": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25008": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25009": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25010": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25011": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25012": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25013": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25014": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25015": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25016": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25017": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25018": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25019": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25020": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25021": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25022": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25024": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25026": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25027": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25031": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25032": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25033": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25034": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25035": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25036": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25037": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25038": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25039": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25040": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25041": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25042": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25043": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25044": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25045": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25046": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25047": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25048": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25049": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25050": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25051": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25052": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25053": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25054": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25055": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25056": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25057": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25058": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25059": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25060": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25061": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25062": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25063": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25064": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25065": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25066": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25067": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25068": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25069": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25070": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25071": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25072": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25074": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25075": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25076": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25077": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25078": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25079": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25080": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25081": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25082": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25083": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25085": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25086": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25087": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25088": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25089": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25090": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25091": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25092": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25093": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25094": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25095": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25096": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25097": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25098": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25099": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25100": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25101": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25102": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25103": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25104": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25105": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25106": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25107": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25108": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25109": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25110": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25111": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25112": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25113": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25114": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25115": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25116": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25117": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25118": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25119": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25120": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25121": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25122": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25123": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25124": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25125": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25126": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25127": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25128": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25129": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25130": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25131": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25132": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25133": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25134": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25135": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25136": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25137": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25138": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25139": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25140": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B25141": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B26001": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B26101": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B26102": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B26103": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B26104": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B26105": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B26106": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B26107": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B26108": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B26109": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B26110": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B26113": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B26114": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B26115": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B26117": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B26118": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B26119": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B26120": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B26201": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B26202": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B26203": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B26204": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B26205": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B26206": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B26207": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B26208": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B26209": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B26210": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B26211": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B26212": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B26213": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B26214": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B26215": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B26216": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B26217": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B26218": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B26219": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B26220": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B27001": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B27002": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B27003": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B27004": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B27005": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B27006": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B27007": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B27008": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B27009": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B27010": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B27011": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B27012": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B27013": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B27014": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B27015": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B27016": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B27017": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B27018": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B27019": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B27020": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B27021": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B27022": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B27023": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B28001": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B28002": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B28003": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B28004": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B28005": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B28006": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B28007": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B28008": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B28009": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B28010": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B28011": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B28012": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B29001": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B29002": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B29003": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B29004": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B98001": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B98002": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B98003": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B98011": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B98012": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B98013": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B98014": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B98021": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B98022": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B98031": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B98032": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99011": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99012": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99021": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99031": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99051": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99052": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99053": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99061": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99071": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99072": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99080": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99081": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99082": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99083": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99084": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99085": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99086": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99087": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99088": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99089": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99092": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99102": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99103": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99104": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99121": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99122": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99123": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99124": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99125": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99126": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99131": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99132": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99141": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99142": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99151": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99152": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99161": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99162": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99163": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99171": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99172": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99181": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99182": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99183": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99184": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99185": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99186": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99187": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99191": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99192": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99193": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99194": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99201": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99211": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99212": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99221": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99231": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99232": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99233": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99234": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99241": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99242": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99243": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99244": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99245": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99246": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99251": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99252": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99253": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99254": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99255": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99256": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99257": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99258": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99259": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99270": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99281": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99282": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "B99283": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C01001": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C02003": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C02015": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C02016": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C02020": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C03001": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C03002": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C04004": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C04005": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C04006": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C04007": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C05001": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C05002": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C05003": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C05005": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C05006": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C05009": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C05010": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C06001": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C06007": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C06008": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C06010": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C07001": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C07008": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C07201": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C07204": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C07401": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C08006": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C08016": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C08101": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C08111": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C08113": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C08119": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C08122": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C08124": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C08126": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C08128": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C08130": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C08132": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C08134": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C08136": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C08141": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C08301": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C08406": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C08501": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C08511": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C08513": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C08519": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C08522": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C08524": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C08526": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C08528": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C08532": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C08534": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C08536": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C08541": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C08601": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C09019": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C11005": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C11010": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C11013": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C11014": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C11016": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C14002": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C14003": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C14005": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C14007": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C15002": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C15003": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C15010": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C16001": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C16002": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C16003": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C16004": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C16005": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C16006": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C16007": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C16008": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C16009": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C16010": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C17001": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C17002": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C17003": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C17004": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C17006": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C17007": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C17009": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C17010": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C17012": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C17013": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C17014": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C17015": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C17016": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C17017": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C17018": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C17019": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C17021": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C17022": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C17023": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C17024": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C17025": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C17026": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C18101": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C18102": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C18103": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C18104": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C18105": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C18106": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C18107": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C18108": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C18120": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C18121": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C18130": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C18131": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C19131": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C19201": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C21001": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C21005": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C21007": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C21100": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C22001": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C23001": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C23002": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C23004": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C23007": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C23008": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C23022": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C24010": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C24020": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C24030": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C24040": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C24050": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C24060": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C24070": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C24080": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C24090": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C25004": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C25032": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C25033": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C25045": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C25055": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C25056": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C25068": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C25074": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C25075": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C25085": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C25093": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C25095": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C25121": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C25122": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C27001": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C27002": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C27003": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C27004": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C27005": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C27006": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C27007": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C27008": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C27009": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C27010": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C27012": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C27013": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C27014": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C27016": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C27017": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C27018": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "C27021": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "CP02": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "CP02PR": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "CP03": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "CP04": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "CP05": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "DP02": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "DP02PR": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "DP03": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "DP04": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "DP05": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "K20010": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "K20020": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "K20030": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "K20050": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "K20070": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "K20080": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "K20090": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "K20100": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "K20110": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "K20140": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "K20150": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "K20160": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "K20170": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "K20180": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "K20190": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "K20200": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "K20210": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "K20220": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "K20230": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "K20240": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "K20250": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "K20251": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "K20260": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "K20270": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "K20280": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "K20980": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S0101": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S0102": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S0102P": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S0103": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S0103P": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S0201": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S0201P": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S0501": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S0502": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S0502P": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S0503": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S0504": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S0505": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S0506": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S0601": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S0601P": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S0701": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S0701P": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S0702": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S0801": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S0802": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S0804": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S0901": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S0902": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S1001": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S1002": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S1101": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S1201": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S1251": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S1301": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S1401": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S1501": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S1502": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S1601": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S1602": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S1603": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S1701": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S1702": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S1703": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S1810": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S1811": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S1901": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S1902": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S1903": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S2001": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S2002": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S2101": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S2201": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S2301": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S2302": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S2303": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S2401": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S2402": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S2403": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S2404": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S2405": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S2406": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S2407": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S2408": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S2409": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S2411": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S2412": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S2413": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S2414": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S2418": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S2419": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S2501": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S2502": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S2503": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S2504": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S2506": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S2507": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S2601A": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S2601C": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S2602": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S2602P": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S2603": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S2701": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S2702": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S2702P": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S2703": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S2704": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S2713": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S2801": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S2802": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S2901": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S2902": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ],
+  "S9801": [
+    "us",
+    "state",
+    "county",
+    "place",
+    "tract",
+    "block_group"
+  ]
+}

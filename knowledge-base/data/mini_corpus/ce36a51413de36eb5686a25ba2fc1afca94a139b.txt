@@ -1,0 +1,212 @@
+United States Census Bureau | An official website of the United States Government
+
+Using 1-Year or 5-Year
+American Community
+Survey Data
+
+Access information on how to choose which dataset best suits your needs.
+
+Publication
+
+Understanding and Using ACS
+Data: What All Data Users Need
+to Know
+
+September 2020
+
+This handbook helps general data users learn how to
+access and use ACS data and provide concrete examples
+of how ACS data can answer real-world questions.
+
+[/programs-surveys/acs/guidance/handbooks/general.html]
+
+Distinguishing features of ACS 1-year, 1-year supplemental, 3-year, and
+5-year estimates
+
+1-year estimates
+
+1-year supplemental
+estimates
+
+3-year estimates*
+[/programs-
+surveys/acs/guidance/estima
+tes.html#par_textimage_0]
+
+5-year estimates
+
+12 months of collected data
+
+12 months of collected data Example: 2023 ACS
+
+36 months of collected data Example: 2011-2013
+
+60 months of collected data Example: 2019-
+
+Example: 2023 ACS 1-year
+
+1-year supplemental estimates Date collected
+
+ACS 3-year estimates Date collected between:
+
+2023 ACS 5-year estimates Date collected
+
+estimates Date collected between:
+
+between: January 1, 2023 and
+
+January 1, 2023 and
+
+December 31, 2023
+
+January 1, 2011 and
+
+December 31, 2013
+
+between: January 1, 2019 and
+
+December 31, 2023
+
+December 31, 2023
+
+Data for areas with populations of
+
+Data for areas with populations of 20,000+
+
+Data for areas with populations of 20,000+
+
+Data for all areas
+
+65,000+
+
+Smallest sample size
+
+Smallest sample size
+
+Larger sample size than 1-year
+
+Largest sample size
+
+Less reliable than 3-year or 5-year
+
+Less reliable than 5-year
+
+More reliable than 1-year; less reliable than 5-year
+
+Most reliable
+
+Most current data
+
+Most current data
+
+Less current than 1-year estimates; more current
+
+Least current
+
+than 5-year
+
+Annually released: 2005-present
+
+Annually released: 2014-present
+
+Annually released: 2007-2013
+
+Annually released: 2009-present
+
+Best used when
+
+Best used when
+
+Best used when
+
+Best used when
+
+Currency is more important than
+
+Currency is more important than precision
+
+More precise than 1-year, spans fewer years than
+
+Precision is more important than currency
+
+precision Analyzing large
+
+Analyzing smaller populations Examining
+
+5-year Analyzing smaller populations Examining
+
+Analyzing very small populations Examining
+
+populations
+
+smaller geographies because the standard 1-
+
+smaller geographies because the standard 1-year
+
+tracts and other smaller geographies because 1-
+
+year estimates are not available
+
+estimates are not available
+
+year estimates are not available
+
+*ACS 3-year estimates have been discontinued. The 2005-2007, 2006-2008, 2007-2009, 2008-2010,
+
+2009-2011, 2010-2012 and 2011-2013 ACS 3-year estimates will remain available to data users, but no
+
+new 3-year estimates will be produced. Every community in the nation will continue to receive a detailed
+
+statistical portrait of its social, economic, housing and demographic characteristics through 1-year and
+5-year ACS products.
+
+Related Information
+
+American Community Survey Data [/programs-surveys/acs/data.html]
+
+Sample ACS & PRCS Forms and Instructions [/acs-forms-and-instructions]
+
+Data Release Rules [/programs-surveys/acs/technical-documentation/data-suppression.html]
+
+You May Be Interested In
+
+Contact
+
+Updates
+
+Contact Us
+
+Email Updates
+
+Share Your ACS Data
+
+Story
+
+Learn how to contact
+
+Sign up to receive email
+
+Tell us your story about
+
+the American
+Community Survey if you
+
+updates about the
+American Community
+
+how you use data from
+the American
+
+[/programs-
+surveys/acs/contact.html]
+
+[/programs-
+surveys/acs/news/email-
+updates.html]
+
+[/programs-surveys/acs/share-
+your-acs-data-story.html]
+
+Page Last Revised - October 31, 2024
+
+

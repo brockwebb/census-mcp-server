@@ -1,0 +1,2371 @@
+Understanding and Using  
+American Community Survey Data
+What Federal Agencies Need to Know
+
+Issued March 2021
+
+Acknowledgments
+
+Linda A. Jacobsen, Vice President, U.S. Programs, Population Reference 
+Bureau (PRB), and Mark Mather, Associate Vice President, U.S. Programs, 
+PRB, drafted this handbook in partnership with the U.S. Census Bureau’s 
+American Community Survey Office. Other PRB staff who assisted in draft-
+ing and reviewing the handbook include Beth Jarosz, Lillian Kilduff, Kelvin 
+Pollard, and Paola Scommegna. 
+
+Some of the material in this handbook was adapted from the Census 
+Bureau’s 2008 publication, A Compass for Understanding and Using 
+American Community Survey Data: What Federal Agencies Need to Know, 
+drafted by Frederick J. Eggers.
+
+Nicole Scanniello, Gretchen Gooding, and Charles Gamble, Census Bureau, 
+contributed to the planning and review of the handbook series.
+
+The American Community Survey program is under the direction of Albert E. 
+Fontenot Jr., Associate Director for Decennial Census Programs, Deborah M. 
+Stempowski, Assistant Director for Decennial Census Programs, and Donna M. 
+Daily, Chief, American Community Survey Office.
+
+Other individuals from the Census Bureau who contributed to the review 
+and release of these handbooks include Eunha Choi, Gail Denby, Nathan 
+Ramsey, R. Chase Sawyer, Nicholas Spanos, Michael Starsinic, and G. Brian 
+Wilson.
+
+Faye E. Brock, Linda Chen, and Christine E. Geter provided publication 
+management, graphic design and composition, and editorial review for the 
+print and electronic media under the direction of Corey Beasley, Acting 
+Chief of the Graphic and Editorial Services Branch, Public Information Office.
+
+Understanding and Using  
+American Community Survey Data
+What Federal Agencies Need to Know
+
+Issued March 2021
+
+U.S. Department of Commerce 
+Wynn Coggins, 
+Acting Agency Head
+
+U.S. CENSUS BUREAU 
+Dr. Ron Jarmin, 
+Acting Director
+
+Suggested Citation
+
+  U.S. Census Bureau,  
+Understanding and Using  
+American Community Survey  
+Data: What Federal Agencies 
+Need to Know, U.S. Government 
+Publishing Office, Washington, DC, 
+2021.
+
+U.S. CENSUS BUREAU 
+Dr. Ron Jarmin, 
+Acting Director and
+Deputy Director and Chief Operating Officer
+
+Albert E. Fontenot Jr., 
+Associate Director for Decennial Census 
+Programs
+
+Deborah M. Stempowski, 
+Assistant Director for Decennial Census Programs
+
+Donna M. Daily, 
+Chief, American Community Survey Office
+
+Contents
+
+1. Topics Covered in the ACS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+
+2. How Federal Agencies Use ACS Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+
+3. How a Question Becomes Part of the ACS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+
+4. Considerations When Working With ACS Data  . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+
+5. Accessing ACS Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+
+6. Case Studies Using ACS Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+
+7. Additional Resources . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+
+Understanding and Using American Community Survey Data   iii 
+What Federal Agencies Need to Know   iii
+
+U.S. Census Bureau 
+This page is intentionally blank.
+
+UNDERSTANDING AND USING AMERICAN  
+COMMUNITY SURVEY DATA: 
+WHAT FEDERAL AGENCIES NEED TO KNOW 
+
+The American Community Survey (ACS) is the nation’s 
+premier source of detailed social, economic, housing, 
+and demographic characteristics for local communi-
+ties. The ACS is unique among U.S. household surveys 
+because of its size, breadth of measurement, provi-
+sion of annual estimates for small geographic areas, 
+and extensive use by a wide range of government 
+and nongovernmental organizations. The U.S. Census 
+Bureau estimates that 132 programs used census 
+data—including data from the ACS—to distribute more 
+than $675 billion in funds during fiscal year 2015.1 
+Federal agencies rely on the ACS to help them make 
+operational decisions, including managing and evaluat-
+ing programs, determining eligibility for programs, and 
+benchmarking other statistics.
+
+This handbook describes how analysts, program 
+administrators, and policymakers within federal agen-
+cies can use the ACS in carrying out the business of 
+their agencies.
+
+What Is the American Community 
+Survey?
+
+The ACS is a nationwide survey designed to provide 
+communities with reliable and timely social, economic, 
+housing, and demographic data every year. A sepa-
+rate annual survey, called the Puerto Rico Community 
+Survey (PRCS), collects similar data about the popu-
+lation and housing units in Puerto Rico. The Census 
+Bureau uses data collected in the ACS and the PRCS 
+to provide estimates on a broad range of population, 
+housing unit, and household characteristics for states, 
+counties, cities, school districts, congressional districts, 
+census tracts, block groups, and many other geo-
+graphic areas.
+
+The ACS has an annual sample size of about 3.5 million 
+addresses, with survey information collected nearly 
+every day of the year. Data are pooled across a calen-
+dar year to produce estimates for that year. As a result, 
+ACS estimates reflect data that have been collected 
+over a period of time rather than for a single point in 
+time as in the decennial census, which is conducted 
+every 10 years and provides population counts as of 
+April 1 of the census year.
+
+ACS 1-year estimates are data that have been col-
+lected over a 12-month period and are available for 
+geographic areas with at least 65,000 people. Starting 
+with the 2014 ACS, the Census Bureau is also produc-
+ing “1-year Supplemental Estimates”—simplified ver-
+sions of popular ACS tables for geographic areas with 
+at least 20,000 people. The Census Bureau combines 
+5 consecutive years of ACS data to produce multiyear 
+estimates for geographic areas with fewer than 65,000 
+residents. These 5-year estimates represent data col-
+lected over a period of 60 months.
+
+For more detailed information about the ACS—how 
+to judge the accuracy of ACS estimates, understand-
+ing multiyear estimates, knowing which geographic 
+areas are covered in the ACS, and how to access ACS 
+data on the Census Bureau’s Web site—see the Census 
+Bureau’s handbook on Understanding and Using 
+American Community Survey Data: What All Data Users 
+Need to Know.2
+
+1 U.S. Census Bureau, Uses of Census Bureau Data in Federal Funds 
+
+Distribution, 2017, <https://www2.census.gov/programs-surveys 
+/decennial/2020/program-management/working-papers 
+/Uses-of-Census-Bureau-Data-in-Federal-Funds-Distribution.pdf>.
+
+2 U.S. Census Bureau, Understanding and Using American 
+Community Survey Data: What All Data Users Need to Know,  
+<www.census.gov/programs-surveys/acs/guidance/handbooks 
+/general.html>.
+
+Understanding and Using American Community Survey Data   1 
+What Federal Agencies Need to Know   1
+
+U.S. Census Bureau1. TOPICS COVERED IN THE ACS
+
+The primary purpose of the American Community 
+Survey (ACS) is to help Congress determine funding 
+and policies for a wide variety of federal programs. 
+Because of this, the topics covered by the ACS are 
+diverse (see Table 1.1).
+
+•
+
+•
+
+•
+
+Examples of social characteristics include disabil-
+ity, educational attainment, language spoken at
+home, and veteran status.
+
+Examples of economic characteristics include
+employment status, health insurance, income, and
+earnings.
+
+Examples of housing characteristics include com-
+puter and Internet use, selected monthly owner
+costs, rent, and the year the structure was built.
+
+• Demographic characteristics include age, sex, race,
+Hispanic origin, and relationship to householder.
+
+TIP: The ACS was designed to provide estimates of 
+the characteristics of the population, not to provide 
+counts of the population in different geographic 
+areas or population subgroups. For basic counts of 
+the U.S. population by age, sex, race, and Hispanic 
+origin, visit the U.S. Census Bureau’s Population and 
+Housing Unit Estimates Web page.3 
+
+3 U.S. Census Bureau, Population and Housing Unit Estimates, 
+
+<www.census.gov/programs-surveys/popest.html>. 
+
+A good way to learn about the topics covered in the 
+ACS is to explore the information available through 
+the U.S. Census Bureau’s data.census.gov Web site.4 
+The Data Profiles in data.census.gov, which include the 
+most frequently requested social, economic, hous-
+ing, and demographic data, are useful for novice users 
+who want to explore the range of topics available.5 
+Copies of ACS questionnaires for different years are 
+also available on the Census Bureau’s Web site.6 For 
+more detailed information about the topics in the ACS, 
+see the section on Understanding the ACS: The Basics 
+in the Census Bureau’s handbook on Understanding 
+and Using American Community Survey Data: What All 
+Data Users Need to Know.7
+
+4 U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+5 U.S. Census Bureau, data.census.gov, Data Profiles, 
+
+<https://data.census.gov/cedsci/table?text=DP>. 
+
+6 U.S. Census Bureau, Questionnaire Archive, <www.census.gov 
+/programs-surveys/acs/methodology/questionnaire-archive.html>.
+7 U.S. Census Bureau, Understanding and Using American 
+Community Survey Data: What All Data Users Need to Know,  
+<www.census.gov/programs-surveys/acs/guidance/handbooks 
+/general.html>. 
+
+2   Understanding and Using American Community Survey Data 
+2   What Federal Agencies Need to Know
+
+U.S. Census Bureau  Table 1.1. Population and Housing Data Included in American Community Survey Data Products 
+
+Social Characteristics
+Ancestry
+Citizenship Status
+Citizen Voting-Age Population
+Disability Status1
+Educational Attainment
+Fertility
+Grandparents as Caregivers
+Language Spoken at Home
+Marital History2
+Marital Status
+Migration/Residence 1 Year Ago
+Period of Military Service
+Place of Birth
+School Enrollment
+Undergraduate Field of 
+
+Degree3
+
+Veteran Status2
+Year of Entry
+
+Economic Characteristics
+Class of Worker
+Commuting (Journey to Work)
+Employment Status
+Food Stamps/Supplemental 
+
+Nutrition Assistance Program 
+(SNAP)4
+
+Health Insurance Coverage2
+Income and Earnings
+Industry and Occupation
+Place of Work
+Poverty Status
+Work Status Last Year
+
+Housing Characteristics
+Computer and Internet Use5
+House Heating Fuel
+Kitchen Facilities
+Occupancy/Vacancy Status
+Occupants Per Room
+
+Plumbing Facilities6
+Rent
+Rooms/Bedrooms
+Selected Monthly Owner Costs
+Telephone Service Available
+Tenure (Owner/Renter)
+Units in Structure
+Value of Home
+Vehicles Available
+Year Householder Moved Into 
+
+Unit
+
+Year Structure Built
+
+Demographic Characteristics
+Age and Sex
+Group Quarters Population
+Hispanic or Latino Origin
+Race
+Relationship to Householder
+Total Population
+
+1 Questions on Disability Status were significantly revised in the 2008 survey to cause a break in series. 
+2 Marital History, Veterans’ Service-Connected Disability Status and Ratings, and Health Insurance Coverage were added in the 2008 survey. 
+3 Undergraduate Field of Degree was added in the 2009 survey. 
+4 Food Stamp Benefit amount was removed in 2008. 
+5 Computer and Internet Use was added to the 2013 survey. 
+6 One of the components of Plumbing Facilities, flush toilet, and Business or Medical Office on Property questions were removed in 2016.
+Source: U.S. Census Bureau. 
+
+Understanding and Using American Community Survey Data   3 
+What Federal Agencies Need to Know   3
+
+U.S. Census Bureau2. HOW FEDERAL AGENCIES USE ACS DATA
+
+As the successor to the decennial census long form, 
+response to the American Community Survey (ACS) 
+is required by law. The U.S. Census Bureau considers 
+the ACS to be a component of the decennial census 
+program; all the statutory language in Census Bureau 
+legislation that applies to the decennial census also 
+applies to the ACS. The Census Bureau is also bound 
+to protect responses to the ACS in the same way that 
+it protects responses to the decennial census.
+
+While the Census Bureau considers the ACS to be 
+part of the decennial census program, it is up to each 
+federal agency to interpret the agency’s legislation and 
+to decide how ACS data should be used. The Census 
+Bureau’s ACS Handbook of Questions and Current 
+Federal Uses provides an overview of why specific 
+questions on the ACS are asked, which estimates are 
+created from the answers to these questions, and how 
+federal agencies and other organizations use these 
+estimates.8 The Census Bureau has also developed a 
+series of interactive Web pages that explain why each 
+question is asked on the ACS. Each page shows the 
+question as it appears on the form and allows users to 
+explore some of the most popular statistics that come 
+from the question at the local level. The pages also 
+explain the origin of each question, privacy concerns, 
+and how the statistics are used to help communities.9
+
+Many laws require the use of ACS or decennial census 
+data as the basis for establishing program or grant 
+eligibility and for allocating federal program funds. For 
+example, ACS data on veteran status and period of 
+military service are used to allocate funds to states and 
+local areas for employment and job training programs 
+for veterans. Income data from the ACS are used to 
+determine poverty status, measure economic well-
+being, and assess the need for assistance.
+
+Many federal programs (including Low-Income Home 
+Energy Assistance, Community Development Block 
+Grant, Older Americans Act, Every Student Succeeds 
+Act, Head Start, and Women, Infants, and Children) use 
+ACS income data to allocate formula grants (see Box 
+2.1).
+
+Box 2.1. Low-Income Home Energy Assistance 
+Program (LIHEAP) 42 U.S. Code, 8629(a) & (b)
+(2), and 8622(11)
+
+Enacted as part of the Omnibus Budget 
+Reconciliation Act of 1981, the Low-Income 
+Home Energy Assistance Program (LIHEAP) is a 
+mandatory block grant program for the states.
+
+The mission of LIHEAP is to help low-income 
+households pay their home energy bills.
+
+Congress established the law’s block grant dis-
+tribution formula based on each state’s weather 
+and low-income population. The income 
+question on the ACS is essential to determin-
+ing the low-income population in each state. 
+Implementation of the LIHEAP program also 
+relies on data from other ACS questions, includ-
+ing age, sex, Hispanic origin, relationship, dis-
+ability status, units in structure, and occupants 
+per room. LIHEAP program administrators also 
+use data from the ACS question on selected 
+monthly owner costs to analyze current resi-
+dential energy supply and consumption and to 
+forecast future energy needs.
+
+ACS data are also used to monitor compliance with 
+federal laws. For example:
+
+• ACS data on age, housing, employment, and
+
+education are used to help the government and
+communities enforce laws, regulations, and policies
+against discrimination based on age such as the
+Age Discrimination in Employment Act.
+
+• Data on age, sex, race/ethnicity, labor force status,
+and work status last year are used to monitor com-
+pliance with the Civil Rights Act.
+
+• ACS data on housing characteristics, such as units
+
+in structure, kitchen and plumbing facilities, rent,
+tenure, and selected monthly owner costs, are
+used to implement and assess compliance with the
+National Affordable Housing Act.
+
+8 U.S. Census Bureau, American Community Survey (ACS) 
+
+Handbook of Questions and Current Federal Uses,<www.census.gov 
+/programs-surveys/acs/operations-and-administration/2014-content 
+-review/federal-uses.html>.
+
+9 U.S. Census Bureau, Questions on the Form and Why We Ask,
+<www.census.gov/acs/www/about/why-we-ask-each-question/>.
+
+The following four figures show a few examples of ACS 
+questions, and how federal agencies use the results 
+from these questions in program eligibility determina-
+tions, allocation of funds, and planning.
+
+4   Understanding and Using American Community Survey Data 
+4   What Federal Agencies Need to Know
+
+U.S. Census BureauFigure 2.1. Question on Race and Federal Uses of  
+                the Data 
+
+Figure 2.2. Question on Health Insurance and  
+                 Federal Uses of the Data 
+
+Source: U.S. Census Bureau, ACS Handbook of Questions and 
+Current Federal Uses, <www.census.gov/programs-surveys/acs 
+/operations-and-administration/2014-content-review/federal-uses 
+.html>.
+
+Examples of Federal Uses
+
+•  Required to identify vulnerable popula-
+
+tions that may be at disproportionate risk 
+of experiencing limitations in health care 
+access, poor health quality, and suboptimal 
+health outcomes.
+
+•  Required to enforce against discrimination 
+in education, employment, voting, financial 
+assistance, and housing.
+
+•  Used in many reporting and research tasks 
+to investigate whether there are race dif-
+ferences in education, employment, home 
+ownership, health, income and many other 
+areas of interest to policymakers.
+
+Source: U.S. Census Bureau, ACS Handbook of Questions and 
+Current Federal Uses, <www.census.gov/programs-surveys/acs 
+/operations-and-administration/2014-content-review/federal-uses 
+.html>.
+
+Examples of Federal Uses
+
+•  Required to identify vulnerable popula-
+
+tions that may be at disproportionate risk 
+of experiencing limitations in health care 
+access, poor health quality, and suboptimal 
+health outcomes.
+
+•  Used to project the demand for VA 
+extended health care services.
+
+•  Used to review and analyze the unmet 
+needs of people with disabilities and to 
+identify the characteristics of the target 
+service population.
+
+Understanding and Using American Community Survey Data   5 
+What Federal Agencies Need to Know   5
+
+U.S. Census BureauFigure 2.3. Question on Vehicles Available and  
+Federal Uses of the Data 
+
+Figure 2.4. Question on School Enrollment and  
+Federal Uses of the Data
+
+Source: U.S. Census Bureau, ACS Handbook of Questions and 
+Current Federal Uses, <www.census.gov/programs-surveys/acs 
+/operations-and-administration/2014-content-review/federal-uses 
+.html>.
+
+Examples of Federal Uses
+
+•
+
+•
+
+•
+
+Required in the enforcement responsibili-
+ties under the Voting Rights Act to deter-
+mine disparities in voter participation rates
+for analysis and for presentation in federal
+litigation.
+
+Required in mass transportation and metro-
+politan planning to ensure compliance with
+the Clean Air Act and implementing regula-
+tions, particularly with respect to coordina-
+tion and conformity.
+
+Used to summarize the conditions and per-
+formance of the nation’s highways, bridges,
+and transit.
+
+Source: U.S. Census Bureau, ACS Handbook of Questions and 
+Current Federal Uses, <www.census.gov/programs-surveys/acs 
+/operations-and-administration/2014-content-review/federal-uses 
+.html>.
+
+Examples of Federal Uses
+
+•
+
+•
+
+Used in the enforcement of nondiscrimina-
+tion in education by state and local gov-
+ernments, including ensuring appropriate
+action to assist English language learners in
+overcoming language barriers and monitor-
+ing desegregation.
+
+Used to allocate funds to states based on
+the number of adults beyond the age of
+compulsory school attendance without a
+secondary school diploma.
+
+6   Understanding and Using American Community Survey Data 
+6   What Federal Agencies Need to Know
+
+U.S. Census Bureau3. HOW A QUESTION BECOMES PART OF THE ACS
+
+How a Question Becomes Part of the 
+American Community Survey
+
+The U.S. Census Bureau must balance the information 
+growing, changing nation with respect for 
+needs of a 
+the privacy and time of the American public. Adding 
+a question or making a change to the American 
+Community Survey (ACS) involves extensive test-
+ing, review, and evaluation over a 5-year period. This 
+The U.S. Census Bureau must balance the information 
+ensures the change is necessary and will produce 
+needs of a growing, changing nation with respect for the 
+quality, useful information for the nation. The Census 
+privacy and time of the American public.
+Bureau requests authorization from the Office of 
+
+Adding a question or making a change to the American 
+Community Survey involves extensive testing, review, 
+and evaluation over a 5-year period. This ensures the 
+change is necessary and will produce quality, useful 
+information for the nation.
+
+Management and Budget (OMB) for any revisions to 
+the ACS questionnaire.
+
+Although the timing may vary depending on improve-
+ments in testing methods, availability of resources, and 
+urgency of the request, the process generally follows 
+the evaluation and testing timeline shown in Figure 3.1.
+Additionally in conjunction with the Department of 
+Commerce’s Office of Chief Counsel, the Census Bureau 
+does a periodic validation of the uses of all questions to 
+ensure there is a legal basis for them.
+
+August 2017
+
+Though the timing may vary depending on improvements 
+in testing methods, availability of resources, and urgency 
+of the request, the process generally follows the evalua-
+tion and testing timeline below:
+
+Figure 3.1. Timeline for Evaluating and Testing a Proposed New or Changed ACS Question
+
+Preliminary
+
+Year 1
+
+Year 2
+
+Year 3
+
+Year 4
+
+Year 5
+
+Implementation
+
+Step 1.
+A federal agency proposes a new or changed survey question
+
+Step 2.
+OMB and Census Bureau decide whether the change has merit
+
+Step 3.
+Create wording options
+
+Step 4.
+Test different ways to ask the question
+
+Step 5.
+Evaluate question performance in a field test
+
+Step 6.
+OMB solicits public comment; approves
+or rejects change
+
+Step 7. 
+Census Bureau
+implements the change 
+
+1.  A federal agency proposes a new or changed 
+
+Source: U.S. Census Bureau, How a Question Becomes Part of the American Community Survey, <www.census.gov 
+/content/dam/Census/library/visualizations/2017/comm/acs-questions.pdf>.
+
+survey question
+
+5.  Evaluate question performance in a field test
+
+The requesting agency must show that it needs frequent data at 
+small geographies, that no other sources of information are avail-
+able, and that its mission would be compromised if the question 
+was not added or changed.
+
+Census Bureau staff finalize the wording for the test, create instru-
+ments to field the test, develop the systems to process the data 
+collected, and conduct the test. Then, they tabulate and analyze the 
+results and provide them to the federal agency that requested the 
+change.
+
+2.  OMB and Census Bureau decide whether 
+
+the change has merit
+
+6.  Census Bureau solicits public comment; 
+
+approves or rejects change
+
+In consultation with federal agencies, the Office of Management 
+and Budget (OMB) and Census Bureau decide whether the request 
+merits further consideration.
+
+3.  Create wording options
+
+Subject matter experts identify ways to ask each question using 
+different words and phrases.
+
+4.  Test different ways to ask the question
+
+The Census Bureau conducts cognitive interviews to gauge which 
+wording is best understood and produces the most accurate 
+results.
+
+Subject matter experts review the cognitive testing results and 
+recommend the version for field testing.
+
+The Census Bureau and requesting federal agency review the 
+research results and decide whether to recommend implementation 
+of the new or changed survey question. The Census Bureau solicits 
+public comment through a Federal Register Notice to inform a final 
+decision in consultation with the OMB and the Interagency Council 
+on Statistical Policy Subcommittee on the ACS.
+
+Note: The Paperwork Reduction Act requires OMB approval of data collections that 
+would impose a burden on the American public. It also requires a public comment 
+period via the Federal Register.
+
+7.  Census Bureau implements the change
+
+If approved by the OMB, the Census Bureau prepares to implement 
+the change by updating systems, questionnaires, and materials. 
+Implementation takes effect at the start of a calendar year.
+
+For more information on the ACS, including the process for revising 
+and adding questions, see <www.census.gov/ACS>.
+
+Understanding and Using American Community Survey Data   7 
+What Federal Agencies Need to Know   7
+
+U.S. Census BureauEach step in the process is described in more detail 
+below:
+
+• A federal agency proposes a new or changed
+
+survey question.
+The requesting agency must show that it needs
+frequent data for small geographic areas, that no
+other sources of information are available, and that
+its mission would be compromised if the question
+was not added or changed.
+
+• OMB and Census Bureau decide whether the
+
+change has merit.
+In consultation with federal agencies, OMB and the
+Census Bureau decide whether the request merits
+further consideration.
+
+•
+
+•
+
+•
+
+•
+
+•
+
+Create wording options.
+Subject-matter experts identify ways to ask each
+question using different words and phrases.
+
+Test different ways to ask the question.
+The Census Bureau conducts cognitive interviews
+to gauge which wording is best understood and
+produces the most accurate results. Subject-
+matter experts review the cognitive testing results
+and recommend the version for field testing.
+
+Evaluate question performance in a field test.
+Census Bureau staff finalize the wording for the
+test, create instruments to field the test, develop
+the systems to process the data collected, and
+conduct the test. Then, they tabulate and analyze
+the results and provide them to the federal agency
+that requested the change.
+
+Census Bureau solicits public comment; approves
+or rejects change.
+The Census Bureau and requesting federal agency
+review the research results and decide whether
+to recommend implementation of the new or
+changed survey question. The Census Bureau
+solicits public comment through a Federal Register
+Notice to inform a final decision in consultation
+with the OMB and the Interagency Council on
+Statistical Policy Subcommittee on the ACS.
+
+Census Bureau implements the change.
+If approved by the OMB, the Census Bureau pre-
+pares to implement the change by updating sys-
+tems, questionnaires, and materials. Implementation
+takes effect at the start of a calendar year.
+
+Changes to ACS Questions
+
+Over time, questions have been added, revised, or 
+removed from the ACS questionnaire as shown in 
+Table 1.1. For example, in 2008 new questions on 
+marital history, health insurance coverage, and military 
+service-connected disability status were added to the 
+form, while the questions on disability were signifi-
+cantly revised. Because of the changes to the ques-
+tions, the ACS disability estimates for 2008 and later 
+years should not be compared with 2007 and prior 
+ACS disability estimates. The data from these new and 
+revised questions collected in 2008 were first available 
+in the ACS products released in 2009. A new question 
+on bachelor’s field of degree was added in 2009 with 
+data available in 2010. In 2013, three new questions on 
+computer ownership and Internet access were added 
+with data available in 2014.
+
+When a new question is added to the survey, 1-year 
+estimates are available the following year, but it takes 
+5 years to accumulate data for small geographic areas. 
+While ACS 1-year estimates of health insurance cover-
+age were first available in 2009, ACS 5-year estimates 
+of coverage (for 2008–2012) were first available in 2013.
+
+The Census Bureau conducts periodic reviews of the 
+ACS to consider any deletion or addition of questions. 
+In 2014, the Census Bureau conducted a compre-
+hensive assessment of the ACS program, including a 
+review of each ACS question. This ACS Content Review 
+sought to understand which federal programs use the 
+information collected by each question and assess how 
+the Census Bureau might reduce respondent burden.10 
+Based on this assessment, the questions on the pres-
+ence of a flush toilet and whether there is a business or 
+medical office on the property were removed from the 
+ACS beginning with the 2016 survey.
+
+10 U.S. Census Bureau, American Community Survey, 2014 Content 
+
+Review, <www.census.gov/programs- surveys/acs/operations-and 
+-administration/2014-content-review.html>.
+
+8   Understanding and Using American Community Survey Data 
+8   What Federal Agencies Need to Know
+
+U.S. Census Bureau4. CONSIDERATIONS WHEN WORKING WITH
+
+ACS DATA
+
+The greatest strength of the ACS is that it provides 
+access to estimates on an annual basis, but this also 
+results in an array of options that affect how data can 
+be used effectively by federal agencies.
+
+Many agencies require data for relatively small geo-
+graphic areas that must rely on ACS 5-year estimates. 
+Of the approximately 69,000 states, counties, cities, 
+towns, townships, villages, other minor civil divisions, 
+and census designated places, more than 90 percent 
+rely exclusively on 5-year estimates. About 8 percent 
+of these small geographic areas have populations 
+of 20,000 or more and receive 1-year Supplemental 
+Estimates.
+
+Among counties and county equivalents, 41 percent 
+rely on 5-year estimates exclusively, while 59 percent 
+receive 1-year Supplemental Estimates and 26 per-
+cent meet the 65,000-population threshold needed 
+to receive 1-year estimates.11 Data users interested in 
+ACS estimates for areas with populations of 65,000 
+or more have a choice between the 1-year and 5-year 
+data series.
+
+Which Data Should Be Used?
+
+The 1-year estimates for an area reflect the most 
+current data but they have larger margins of error 
+(MOEs)—indicating less reliability or precision—than 
+the 5-year estimates because they are based on a 
+smaller sample. The 5-year estimates for an area have 
+larger samples and smaller MOEs than the 1-year 
+estimates. However, they are less current because the 
+larger samples include data that were collected in ear-
+lier years. The main advantage of using multiyear esti-
+mates is the increased statistical reliability for smaller 
+geographic areas and small population groups.12
+
+11 Percentages include data for municipios in Puerto Rico. For 
+more information, see the Census Bureau’s ACS Web page on Areas 
+Published, available at <www.census.gov/programs-surveys/acs 
+/geography-acs/areas-published.html>. 
+
+12 U.S. Census Bureau, When to Use 1-year, 3-year, or 5-year 
+Estimates, <www.census.gov/programs- surveys/acs/guidance 
+/estimates.html>. 
+
+In the end, what makes the most sense is a matter of 
+judgment regarding the balance between the period 
+covered by an estimate and its level of reliability or 
+precision. The key is to strive to use the most reliable 
+estimates, where the period covered best suits the 
+question at hand.
+
+Using ACS Estimates as Building Blocks 
+for Larger Geographic Areas
+
+In some cases, data users will need to construct cus-
+tom ACS estimates by combining data across multiple 
+geographic areas or population subgroups, or it may 
+be necessary to derive a new percentage, proportion, 
+or ratio from published ACS data. One way to address 
+the issue of unreliable estimates for individual census 
+tracts or block groups is to aggregate geographic 
+areas, yielding larger samples and estimates that are 
+more reliable. In such cases, additional calculations are 
+needed to produce MOEs and standard errors, and to 
+conduct tests of statistical significance for the derived 
+estimates. For more information, see the section on 
+“Calculating Measures of Error for Derived Estimates” 
+in the Census Bureau’s handbook on Understanding 
+and Using American Community Survey Data: What All 
+Data Users Need to Know.13
+
+Measuring Change Over Time With ACS 
+Data
+
+Finally, there is the issue of how to use multiyear 
+characterizations of an area to measure change over 
+time. As the ACS program has moved forward, a whole 
+series of multiyear estimates for various time intervals 
+has become available. Data users now have access 
+to nonoverlapping ACS 5-year estimates that have 
+increased the value and utility of the data for monitor-
+ing trends in local communities. However, it is more 
+challenging to capture rapid change in areas where 
+only ACS 5-year estimates are available.
+
+13 U.S. Census Bureau, Understanding and Using American 
+Community Survey Data: What All Data Users Need to Know,  
+<www.census.gov/programs-surveys/acs/guidance/handbooks 
+/general.html>. 
+
+Understanding and Using American Community Survey Data   9 
+What Federal Agencies Need to Know   9
+
+U.S. Census BureauConsider the example of a natural disaster, like 
+Hurricane Harvey that caused major flooding in Texas 
+in 2018. Because data collection is ongoing, the ACS 
+can provide essential information about population 
+and housing characteristics in Texas both before and 
+after the storm. The 1-year ACS estimates are particu-
+larly useful in this case because they are based on data 
+from the past year. In contrast, 5-year estimates pro-
+vide less current information because they are based 
+on both data from the previous year and data that are 
+2 to 5 years old. For areas experiencing major changes 
+over a given time period, the 5-year estimates may be 
+quite different from the 1-year estimates for any of the 
+individual years.
+
+For more information about ACS multiyear estimates 
+and sampling error, see the sections on “Understanding 
+and Using ACS Single-Year and Multiyear Estimates” 
+and “Understanding Error and Determining Statistical 
+Significance” in the Census Bureau’s handbook on 
+Understanding and Using American Community Survey 
+Data: What All Data Users Need to Know.14
+
+14 U.S. Census Bureau, Understanding and Using American 
+Community Survey Data: What All Data Users Need to Know,  
+<www.census.gov/programs-surveys/acs/guidance/handbooks 
+/general.html>. 
+
+10   Understanding and Using American Community Survey Data 
+10   What Federal Agencies Need to Know
+
+U.S. Census Bureau5. ACCESSING ACS DATA
+
+Data.census.gov is the U.S. Census Bureau’s primary 
+tool for accessing population, housing, and economic 
+data from the American Community Survey (ACS), the 
+Puerto Rico Community Survey, the decennial census, 
+and many other Census Bureau data sets.15
+
+Data.census.gov provides access to ACS data for a 
+wide range of geographic areas, including states, cities, 
+counties, census tracts, and block groups. For more 
+information about data.census.gov, view the Census 
+Bureau’s data.census.gov Resources page.16
+
+More advanced users within federal agencies also 
+have several options to access ACS data that are more 
+detailed through the downloadable Summary File, 
+the Public Use Microdata Sample (PUMS) files, the 
+Census Bureau’s Application Programming Interface, or 
+through special tabulations of ACS data.17
+
+Special Tabulations of ACS Data
+
+Most of the data required by federal agencies are 
+accessible through published tables available through 
+data.census.gov.18 However, several federal agencies 
+require special tabulations of ACS data to obtain the 
+information they need. For example:
+
+•  The Census Transportation Planning Products 
+
+(CTPP) program produces special tabulations of 
+ACS data that have enhanced value for transporta-
+tion planning, analysis, and strategic direction.19
+
+•  The Equal Employment Opportunity (EEO) 
+
+Tabulation serves as the primary external bench-
+mark for comparing the race, ethnicity, and sex 
+composition of an organization’s internal work-
+force and the analogous external labor market, 
+within a specified geography and job category.20
+
+•  The ACS Special Tabulation on Aging serves as a 
+
+component in the allocation formulas for Older 
+Americans Act funding and for planning programs 
+and services for older adults.21
+
+15 U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+16 U.S. Census Bureau, data.census.gov Resources, <www.census.gov 
+
+/data/what-is-data-census-gov.html>. 
+
+17 U.S. Census Bureau, American Community Survey (ACS), 
+Summary File Data, <www.census.gov/programs-surveys/acs/data 
+/summary-file.html>; American Community Survey (ACS), PUMS Data, 
+<www.census.gov/programs-surveys/acs/microdata.html>; Developers, 
+<www.census.gov/developers/>. 
+
+18 U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+19 AASHTO, CTPP Program, <https://ctpp.transportation.org/>.
+20 U.S. Census Bureau, EEO Tabulation, <www.census.gov/topics 
+/employment/equal-employment-opportunity-tabulation/about.html>.
+21 Administration for Community Living, Aging, Independence, and 
+Disability (AGID) Program Data Portal, American Community Survey  
+(ACS) Special Tabulations, <https://agid.acl.gov/DataFiles/Special 
+Tabulations.aspx>.
+
+•  U.S. Department of Housing and Urban 
+
+Development’s Special Tabulations of Households 
+provide the most detailed data available for analy-
+sis of housing demand based on income and age 
+of householder. These data are used in allocation 
+formulas for rental assistance programs and evalu-
+ations of program applications and multifamily 
+mortgage insurance applications submitted to the 
+Federal Housing Administration.22
+
+The minimum cost of a custom tabulation by Census 
+Bureau staff is $3,000, and the minimum timeframe 
+for compiling the data is 8 weeks. The Census Bureau’s 
+Disclosure Review Board must review and approve all 
+requests before work is started. For more information, 
+see the Census Bureau’s Web page on Custom Tables.23
+
+Federal Statistical Research Data 
+Centers
+
+Federal agencies can also access ACS data through the 
+Federal Statistical Research Data Centers (FSRDCs)—
+partnerships between federal statistical agencies and 
+leading research institutions.24 FSRDCs are secure 
+facilities managed by the Census Bureau to provide 
+secure access to a range of restricted-use microdata, 
+including ACS microdata. Compared to the ACS PUMS, 
+which includes a representative subset of records 
+from the ACS sample, the restricted data files contain 
+many additional sample records along with additional 
+variables. Note that FSRDC projects must be designed 
+to produce model-based output. Only tabular output 
+supporting the model sample(s) may be released to 
+researchers.
+
+FSRDC researchers have access to computing capac-
+ity to handle large data sets and complex calculations. 
+Standard statistical, econometric, and programming 
+software, including R, Stata, SAS, MATLAB, and Gauss, 
+are available in a Linux environment. FSRDC research-
+ers can collaborate with other research data center 
+researchers across the United States through the 
+secure FSRDC computing environment.
+
+Data access via an FSRDC requires a proposal and 
+approval process including background checks on 
+researchers. The approval process, while straight-
+forward, can take several months. Inquiries about 
+
+22 U.S. Department of Housing and Urban Development, Office of 
+Policy Development and Research, Special Tabulations of Households, 
+<www.huduser.gov/portal/datasets/spectabs.html>. 
+
+23 U.S. Census Bureau, American Community Survey (ACS), Custom 
+
+Tables, <www.census.gov/programs-surveys/acs/data/custom-tables 
+.html>. 
+
+24 U.S. Census Bureau, Federal Statistical Research Data Centers, 
+
+<www.census.gov/fsrdc>. 
+
+Understanding and Using American Community Survey Data   11 
+What Federal Agencies Need to Know   11
+
+U.S. Census Bureauaccessing ACS or other restricted-use data can be 
+made through the ResearchDataGov application 
+portal.25
+
+The Census Bureau’s Center for Enterprise 
+Dissemination and the FSRDCs consider proposals 
+from qualified researchers in social science disciplines 
+consistent with the subject matter of the surveys and 
+censuses collected by the Census Bureau.26 Proposals 
+may be submitted at any time and must:
+
+•
+
+Provide benefit to Census Bureau programs.
+
+• Demonstrate scientific merit.
+
+•
+
+•
+
+•
+
+Require nonpublic data.
+
+Be feasible given the data.
+
+Pose no risk of disclosure.
+
+All FSRDC researchers must obtain Census Bureau 
+Special Sworn Status—passing a moderate-risk back-
+ground check and swearing to protect respondent con-
+fidentiality for life, facing significant financial and legal 
+penalties under Title 13 and Title 26 of the U.S. Code for 
+failure to do so.27
+
+When researchers need to remove aggregated output, 
+tables, or model coefficients from the secure environ-
+ment, the output must be reviewed to ensure the confi-
+dentiality of survey respondents and that the output is 
+consistent with the original proposal. Once the results 
+pass disclosure review, the approved aggregated data 
+are provided to the researcher or team outside of the 
+secure computing environment, usually via e-mail. The 
+researcher(s) can then produce reports, presentations, 
+and other products outside of the secure environment.
+
+25 The ResearchDataGov portal is a joint project between the 
+Census Bureau and the University of Michigan,<www.icpsr.umich.edu 
+/web/pages/appfed/index.html>. 
+
+26 U.S. Census Bureau, Federal Statistical Research Data Centers, 
+
+Apply for Access,<www.census.gov/programs-surveys/ces/data 
+/restricted-use-data/apply-for-access.html>. 
+
+Information about how to apply for FSRDC access is 
+available on the Census Bureau’s Web site.28
+
+Combining ACS Data With 
+Administrative Data
+
+Researchers at federal agencies with approved FSRDC 
+projects can link individual or housing unit records 
+from the ACS with administrative records based on 
+personal identifiers. For example, Census Bureau staff 
+linked the records of children in the ACS with records 
+from the Internal Revenue Service, Department of 
+Housing and Urban Development, Centers for Medicare 
+and Medicaid Services, Department of Health and 
+Human Services, and other sources to investigate the 
+undercount of young children in the decennial cen-
+sus.29 ACS records were linked to administrative data 
+using protected identification keys—anonymous identi-
+fiers that can be used to link records across different 
+data sets.
+
+The Census Bureau conducts a variety of research 
+projects that combine administrative records and 
+survey data to lower costs, increase efficiency, reduce 
+respondent burden, and improve data quality. Some 
+of these projects generate new social and economic 
+statistics—such as the Small Area Income and Poverty 
+Estimates Program.30 Other projects investigate ways 
+to use linked data to better measure family relation-
+ships, evaluate program participation, and improve 
+coverage of hard-to-reach populations.31
+
+More information is available through the FSRDC Web 
+site.32
+
+28 U.S. Census Bureau, Federal Statistical Research Data Centers, 
+
+Apply for Access, <www.census.gov/programs-surveys/ces/data 
+/restricted-use-data/apply-for-access.html>. 
+
+29 Leticia Fernandez, Rachel Shattuck, and James Noon, “The Use 
+
+of Administrative Records and the American Community Survey to 
+Study the Characteristics of Undercounted Young Children in the 2010 
+Census,” CARRA Working Paper Series, CARRA-WP-2018-05, 2018.
+
+30 U.S. Census Bureau, Small Area Income and Poverty Estimates 
+(SAIPE) Program, <www.census.gov/programs- surveys/saipe.html>.
+
+31 Amy O’Hara, Rachel M. Shattuck, and Robert M. Goerge, “Linking 
+
+Federal Surveys with Administrative Data to Improve Research on 
+Families,” The ANNALS of the American Academy of Political and 
+Social Science, Volume 669, Issue 1, 2016, pp. 63–74.
+
+27 U.S. Census Bureau, Privacy & Confidentiality, <www.census.gov 
+
+32 U.S. Census Bureau, Federal Statistical Research Data Centers, 
+
+/history/www/reference/privacy_confidentiality/>. 
+
+<www.census.gov/fsrdc>.
+
+12   Understanding and Using American Community Survey Data 
+12   What Federal Agencies Need to Know
+
+U.S. Census Bureau6. CASE STUDIES USING ACS DATA
+
+Case Study 1: Community Resilience Indicators 
+
+Skill Level: Novice/Intermediate 
+Subject: Assessing county characteristics that contribute to disaster resilience 
+Type of Analysis: Analysis of American Community Survey (ACS) indicators at the county level 
+Tools Used: Data.census.gov, mapping software
+
+As disasters continue to increase in frequency and cost, researchers have attempted to identify and quan-
+tify features that make communities more resilient to disasters. The Federal Emergency Management Agency 
+(FEMA) National Integration Center (NIC) Technical Assistance (TA) Branch asked Argonne National Laboratory 
+(Argonne) to review this body of research and provide a data-driven approach to prioritize locations for TA. 
+FEMA included project management, research support, peer-to-peer learning, in-person and distance learning, 
+coaching from subject-matter experts, and other topics as factors to be considered during the review.33
+
+Most of the data for this analysis came from the U.S. Census Bureau’s 2013–2017 ACS 5-year estimates. The pri-
+mary advantage of using the ACS 5-year estimates is the increased statistical reliability compared with the ACS 
+1-year estimates, especially for small geographic areas and small population subgroups. The 5-year data also 
+enabled Argonne to display maps that included estimates for every county in the country.
+
+Methods
+
+Argonne’s first step was to conduct a literature review to identify previous methods used to assess community 
+resilience. Argonne focused on county-level analyses that involved multiple hazards, had a predisaster focus, used 
+quantitative measures, and incorporated publicly available data and methods.
+
+Based on this review, Argonne selected 20 key indicators for their analysis, including 11 population-focused mea-
+sures and 9 community-focused measures:
+
+Population-Focused Indicators
+
+•  Educational Attainment
+
+•  Unemployment Rate
+
+•  Disability
+
+•  English Language Proficiency
+
+•  Home Ownership
+
+•  Mobility
+
+•  Age
+
+•  Household Income
+
+• 
+
+Income Inequality
+
+•  Health Insurance
+
+•  Single-Parent Household
+
+Community-Focused Indicators
+
+•  Connection to Civic and Social Organizations
+
+•  Hospital Capacity
+
+•  Medical Professional Capacity
+
+•  Affiliation With a Religion
+
+•  Presence of Mobile Homes
+
+33 U.S. Federal Emergency Management Agency and Argonne National Laboratory, “Community Resilience Indicator Analysis: County-Level 
+
+Analysis of Commonly Used Indicators From Peer-Reviewed Research,” 2019, <www.fema.gov/sites/default/files/2020-11/fema_community 
+-resilience-indicator-analysis.pdf>, 2020 update.
+
+Understanding and Using American Community Survey Data   13 
+What Federal Agencies Need to Know   13
+
+U.S. Census Bureau•
+
+•
+
+•
+
+•
+
+Public School Capacity
+
+Population Change
+
+Hotel/Motel Capacity
+
+Rental Property Capacity
+
+The percentage of people with disabilities was identified as one of the 20 key indicators of disaster resilience. 
+Here are steps to access disability estimates for every county in the country (including Puerto Rico):
+
+Navigate to <https://data.census.gov> and type “disability” into the search bar. Then click “Search”  
+(see Figure 6.1).
+
+Figure 6.1. Searching for Disability Tables in Data.census.gov 
+
+Source: U.S. Census Bureau, data.census.gov <https://data.census.gov>.
+
+14   Understanding and Using American Community Survey Data 
+14   What Federal Agencies Need to Know
+
+U.S. Census BureauClick on the first table on the results page: Table S1810: “Disability Characteristics” (see Figure 6.2).
+
+Figure 6.2. Selecting a Table in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov <https://data.census.gov>.
+
+Understanding and Using American Community Survey Data   15 
+What Federal Agencies Need to Know   15
+
+U.S. Census BureauThis will bring you to a preview of Table S1810 with the United States as the default geography. Select “Customize 
+Table” in the upper right corner (see Figure 6.3).
+
+Figure 6.3. Previewing and Customizing a Table in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov <https://data.census.gov>.
+
+To access data for all counties in the United States, first select the “Geographies” filter (see Figure 6.4).
+
+Figure 6.4. Selecting Geographic Areas Using the Geography Filter in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov <https://data.census.gov>.
+
+16   Understanding and Using American Community Survey Data 
+16   What Federal Agencies Need to Know
+
+U.S. Census BureauNext:
+
+•  Select “County.”
+
+•  Then check the box for “All counties in United States.” This selection will appear at the bottom of the page 
+
+next to “Selected Filters:”
+
+•  Click “Close” in the lower right corner (see Figure 6.5).
+
+Figure 6.5. Selecting All Counties in the United States in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov <https://data.census.gov>.
+
+This table is too large to display in the preview window, so select “Download Table” (see Figure 6.6).
+
+Figure 6.6. Downloading a Table in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov <https://data.census.gov>.
+
+Understanding and Using American Community Survey Data   17 
+What Federal Agencies Need to Know   17
+
+U.S. Census Bureau 
+For this case study, select the 2017 ACS 5-year data. After checking that the other default download specifica-
+tions in the “Download/Print/Share” window are correct, select “Download” again (see Figure 6.7).
+
+Figure 6.7. Using the Download/Print/Share Window in Data.census.gov
+
+
+
+
+
+
+
+The indicator, lower levels of English Language Proficiency, is positively correlated with
+Unemployment Rate (r = 0.50), lower levels of Educational Attainment (r = 0.43), and lower levels of
+Mobility (r = 0.34).
+
+The indicator Mobility (lack of access to a vehicle) is positively correlated with Unemployment Rate
+(r = 0.50) and Single-Parent Households (r = 0.50). It is negatively correlated with Home Ownership
+(r = −0.39).
+
+The indicator Age (adults over 65) is positively correlated with Home Ownership (r = 0.46) and
+Disability (r = 0.41).
+
+ Counties where the indicator Income Inequality is higher may also see a population with a greater
+
+Source: U.S. Census Bureau, data.census.gov <https://data.census.gov>.
+
+number of Single-Parent Households (r = 0.47), higher levels of Unemployment (r = 0.42), and lower
+levels of Mobility (r = 0.39). These counties may also have lower levels of Household Income
+(r = −0.43).
+
+Select “Download Now” after the file is prepared (see Figure 6.8).
+
+Figure 6.8. Downloading a Compressed (ZIP) File in Data.census.gov
+
+
+
+
+
+The indicator denoting lack of Health Insurance is positively correlated with lower levels of
+Educational Attainment (r = 0.48) and Presence of Mobile Homes (r = 0.40). It is negatively correlated
+with Medical Professional Capacity (r = −0.42).
+
+The indicator Single-Parent Households is positively correlated with higher levels of Unemployment
+Rate (r = 0.59), lower levels of Mobility (r = 0.50), and Educational Attainment (r = 0.46). It is
+negatively correlated with Household Income (r = −0.54) and Home Ownership (r = −0.35).
+
+
+
+The indicator Presence of Mobile Homes is positively correlated with Disability (r = 0.48),
+Educational Attainment (r = 0.46), and lack of Health Insurance (r = 0.40). It is negatively correlated
+with Household Income (r = −0.42) and Medical Professional Capacity (r = −0.40).
+
+County-level Maps
+The research team created national choropleth maps (Figure 1–Figure 20), with every county shaded based on 
+a five-color scale (Table 2). The scale uses cooler colors to indicate potentially higher relative levels of 
+resilience, with blue at the top of the scale followed by green, and warmer colors to indicate potentially lower 
+relative levels of resilience, with yellow in the middle of the scale, followed by orange, and red at the bottom. 
+Gray-colored counties indicate that no data were available for that indicator within the dataset used for that 
+indicator. These maps show areas of the country that have high or low relative data points for that specific 
+indicator.
+
+Source: U.S. Census Bureau, data.census.gov <https://data.census.gov>.
+
+This download yields a compressed folder with three 
+files: metadata, data, and table title. These data can be 
+used to access the percentage of the population with a 
+disability in each U.S. county. The research team cre-
+ated county-level choropleth maps for each key indica-
+tor. Counties were shaded based on a five-color scale 
+(see Figure 6.9). The scale used cooler colors to indicate 
+potentially higher relative levels of resilience, with blue 
+at the top of the scale, and warmer colors to indicate 
+potentially lower relative levels of resilience, with red at 
+the bottom.
+
+Figure 6.9. Color Scale for Choropleth Maps
+
+Table 2. Color Scale for Choropleth Maps
+
+Blue
+
+Green
+
+Yellow
+
+Orange 
+
+Red
+
+Potentially high 
+disaster resilience
+
+Potentially low 
+disaster resilience
+
+Source: U.S. Federal Emergency Management Agency and 
+Argonne National Laboratory, Community Resilience Indicator 
+Analysis, <www.fema.gov/sites/default/files/2020-11/fema 
+_community-resilience-indicator-analysis.pdf>, 2020 update.
+
+18   Understanding and Using American Community Survey Data 
+18   What Federal Agencies Need to Know
+
+CRIA 2019 
+
+11
+
+U.S. Census BureauFigure 6.10 shows a sample map of disaster resilience based on disability rates. The map shows relatively 
+high concentrations of disability in parts of Alabama, Arkansas, Kentucky, Mississippi, New Mexico, Oklahoma, 
+Oregon, Tennessee, Puerto Rico, and West Virginia.
+
+Figure 6.10. Percentage of the Population With a Disability by County
+
+Source: U.S. Federal Emergency Management Agency and Argonne National Laboratory, Community Resilience Indicator Analysis,  
+<www.fema.gov/sites/default/files/2020-11/fema_community-resilience-indicator-analysis.pdf>, 2020 update.
+
+Figure 3. Disability: Percent of the Population with a Disability
+
+2019
+
+Data Source: ACS 2013–2017 five-year estimates, Table S1810
+
+Binning Method: Jenks-Caspall Breaks
+
+National Average: 12.6 percent of the U.S. population has a disability.
+
+Findings: 
+
+Understanding and Using American Community Survey Data   19 
+What Federal Agencies Need to Know   19
+
+
+
+
+
+
+
+States with the highest concentrations of counties having more than 21.1 percent of the population 
+with a disability include Arkansas (49% of counties), West Virginia (42%), Kentucky (37%), and 
+
+New Mexico (33%).
+
+States where more than half their counties report 17.4 percent or more of their populations with a 
+
+disability include Arkansas (85% of counties), West Virginia, (78%), Tennessee (74%), Kentucky 
+
+(72%), Mississippi (65%), Alabama (60%), New Mexico (58%), Oklahoma (56%), and Oregon 
+
+(53%). 
+
+21.1 percent or greater.
+
+Forty-three of 78 counties in Puerto Rico reported populations with disabilities at a rate of 
+
+CRIA 2019 
+
+15
+
+U.S. Census BureauAggregated Commonly Used Community Resilience Indicator
+
+The research team developed a process to aggregate the county-level data from all 20 commonly used
+
+community resilience indicators to produce a choropleth map that shows relative resilience by county. The 
+
+process to create this final aggregated-data map included four steps:   
+
+1. The team oriented all of the datasets in the same direction (a higher number represents higher 
+
+resilience) by reversing the data for the indicators that were negatively correlated to resilience 
+
+(i.e., where higher numbers equaled less resilience). 22
+
+2. The research team then converted each county’s data point to a standardized score value based on how 
+
+many standard deviations above or below the indicator’s national mean it was. For example, Laramie 
+
+County in Wyoming has a standardized score value for the indicator, median Household Income, of 
+
+approximately 1.0, which means that this county’s median income of $62,879 is almost exactly one 
+
+standard deviation higher than the national average median income of $48,995. For datasets where 
+
+data for a specific county were missing, the mean for that indicator was used to ensure that the 
+
+aggregate value for the country was not increased or reduced by the missing data. Appendix F 
+
+provides the national mean for each indicator.  
+
+3. The team then averaged the 20 standardized score values for each county to create an aggregated 
+
+indicator by county. Because there is no validated weighting scheme for resilience indicators, the 
+
+research team did not weight individual indicators in developing the aggregated indicator.
+
+4. Finally, the team sorted the county-level aggregated indicator into five bins (Table 3). The research 
+
+team used the same color scale for the aggregated-data map (Figure 21) as for the individual indicator 
+maps (Figure 1–Figure 20), with blue indicating higher relative resilience levels and red indicating 
+lower relative resilience levels. Inclusion in the blue bin indicates that the county was far above the 
+national average (at least 1 standard deviation above the average). The next (green) bin indicates that 
+Next, the research team developed a method to aggregate county-level data from all 20 indicators and sort each 
+U.S. county into one of five bins. The research team used the same color scale for the aggregate maps as for the 
+the county fell within 1 standard deviation above the average. The yellow bin indicates that the county 
+individual indicator maps, with blue indicating higher relative resilience levels and red indicating lower relative 
+fell below, but very near the average (within 0.5 standard deviation). The orange bin indicates that the 
+resilience levels (see Figure 6.11). This aggregate map provides a data-driven basis for identifying areas where 
+county fell between 0.5 and 1 standard deviation below the average, and the final (red) bin indicates
+FEMA should offer community resilience Collaborative TA.
+that the county fell at least 1 standard deviation below the average. 
+
+Figure 6.11. Color Scale for Aggregated Resilience Indicators Map
+
+Table 3: Color Scale for Aggregate Data Map
+
+Blue
+
+Green
+
+Yellow
+
+Orange 
+
+Red
+
++1 standard deviation or more 
+above the average
+
+Above 0 but <+1.0 standard 
+deviation above average
+Below 0, but >−0.5 standard 
+deviation below average
+Between −0.5 and −1.0 standard 
+deviation below average
+−1.0 standard deviation or more 
+below the average
+
+Source: U.S. Federal Emergency Management Agency and Argonne National Laboratory, Community Resilience Indicator Analysis,  
+<www.fema.gov/sites/default/files/2020-11/fema_community-resilience-indicator-analysis.pdf>, 2020 update.
+
+Using these aggregated data, Argonne created an “Aggregated Commonly Used Community Resilience 
+Indicators” choropleth map (see Figure 6.12). This analysis identified 96 counties in the lowest bin that are fac-
+22  Indicators were changed to “% population under 65,” “% with HS diploma,” “% without a disability,” “% speaking English 
+ing the greatest challenges to resilience, with 63 of these counties in Puerto Rico. A total of 309 counties sorted 
+fluently,” “% with health insurance,” “% own a vehicle,” “% employed.” “% non-single family HH,” “% housing not mobile 
+into the next bin. Many counties in this category are also within Puerto Rico, while others are primarily within the 
+homes,” “reverse Gini index,” and “population stability.”
+southeast and southwest regions of the United States and in Alaska.
+
+CRIA 2019 
+
+33
+
+20   Understanding and Using American Community Survey Data 
+20   What Federal Agencies Need to Know
+
+U.S. Census Bureau                                                        
+Figure 6.12. Aggregated Commonly Used Resilience Indicators
+
+Source: U.S. Federal Emergency Management Agency and Argonne National Laboratory, Community Resilience Indicator Analysis,  
+<www.fema.gov/sites/default/files/2020-11/fema_community-resilience-indicator-analysis.pdf>, 2020 update.
+
+Figure 21. Aggregated Commonly Used Community Resilience Indicators
+
+2019
+
+Although this analysis was conducted for the FEMA NIC TA Branch, the findings have relevance for many FEMA 
+program areas, as well as for state, local, territorial, and tribal emergency managers and other partners. By 
+reviewing county data for these 20 indicators, emergency managers can gain insights for targeted outreach 
+strategies and for adapting emergency operations plans to community characteristics.
+
+All of the maps and data can be found within an interactive map viewer on FEMA’s geospatial portal at  
+<www.fema.gov/sites/default/files/2020-11/fema_community-resilience-indicator-analysis.pdf>, 2020 update.
+
+CRIA 2019 
+
+Understanding and Using American Community Survey Data   21 
+What Federal Agencies Need to Know   21
+34
+
+U.S. Census BureauCase Study #2: Exploring Social Determinants of Health Using ACS-CMS Linked Data
+
+Skill Level: Intermediate/Advanced 
+Subject: Social determinants of health 
+Type of Analysis: Linking administrative data to American Community Survey (ACS) data  
+Tools Used: Data.census.gov, Chronic Conditions Data Warehouse, spreadsheet, statistical software 
+Authors: Shondelle Wilson-Frederick, Statistician, Centers for Medicare & Medicaid Services; and Sharon R. Ennis, 
+Statistician, Department of Veterans Affairs
+
+The Centers for Medicare & Medicaid Services (CMS) is an operating division within the U.S. Department 
+of Health and Human Services. CMS oversees the two largest federal health care programs—Medicare and 
+Medicaid—as well as the Children’s Health Insurance Program and the exchanges. CMS programs will touch the 
+lives of over 145 million beneficiaries and consumers in FY 2020.34 
+
+The CMS Chronic Conditions Data Warehouse (CCW) is a research database designed to make Medicare, 
+Medicaid, Assessments, and Part D Prescription Drug Event data more readily available to support research 
+designed to improve the quality of care and reduce costs and utilization.35 The Medicare Master Beneficiary 
+Summary File (MBSF), which is stored in the CCW, includes Medicare enrollment status, demographic, and eligi-
+bility information for all beneficiaries. 
+
+While the MBSF can be used to study racial, ethnic, and geographic disparities among Medicare Fee-for-Service 
+(FFS) beneficiaries, data on the social determinants of health are limited. The MBSF contains individual level 
+characteristics; however, it does not include any personal identifiable information. The American Community 
+Survey (ACS) is a rich source of demographic, socioeconomic, and housing estimates that can be combined 
+with claims data by linking at the geographical level of ZIP codes to enhance our understanding of Medicare FFS 
+beneficiaries. This aggregated linked file can be analyzed to learn more about the social determinants of health 
+among Medicare FFS beneficiaries. 
+
+This case study summarizes the steps to compile and analyze data for one of the key ACS variables—language 
+spoken at home. Communication and language barriers are associated with structural and clinical challenges and 
+poorer health outcomes.36 Limited English proficiency may contribute to a lower quality of care, patient satisfac-
+tion, post-care adherence, patient safety, and lack of equity in the provision of healthcare.37 
+
+34  U.S. Department of Health and Human Services, Fiscal Year 2020: Centers for Medicare & Medicaid Services, Justification of Estimates for 
+
+Appropriations Committees, <www.cms.gov/files/document/fy2020-cms-congressional-justification-estimates-appropriations-committees.pdf>. 
+
+35 Centers for Medicare & Medicaid Services, “Chronic Conditions Warehouse,” <https://www2.ccwdata.org/web/guest/home/>.
+36 Centers for Medicare & Medicaid Services, Office of Minority Health, “Building an Organizational Response to Health Disparities: Guide to 
+
+Developing a Language Access Plan,” <www.cms.gov/About-CMS/Agency-Information/OMH/Downloads/Language-Access-Plan-508.pdf>.
+
+37 Kimberly Proctor, Shondelle M. Wilson-Frederick, and Samuel C. Haffer, “The Limited English Proficient Population: Describing Medicare, 
+
+Medicaid, and Dual Beneficiaries,” Health Equity, 2(1): 82–89, Baltimore, MD, 2018.
+
+22   Understanding and Using American Community Survey Data 
+22   What Federal Agencies Need to Know
+
+U.S. Census BureauTo access ACS data on language spoken at home:
+
+We start by navigating to <https://data.census.gov>. Since we already know which table we would like to 
+access, we type C16001 into the search bar and click the first result C16001: “Language Spoken at Home for the 
+Population 5 Years and Over” (See Figure 6.13).
+
+Figure 6.13. Searching for a Table in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+Select the desired survey year by clicking on the current “Product” selection. For the purposes of this case 
+study, we are using 2012–2016 ACS 5-year estimates. The product selection should read “2016 ACS 5-Year 
+Estimates Detailed Tables” (see Figure 6.14). Data.census.gov automatically defaults geography to the national 
+level unless otherwise specified. Since we would like to study Medicare beneficiaries across ZIP Code Tabulation 
+Areas (ZCTAs), we click on “Geos” to view the geography filters. ZCTAs are generalized areal representations of 
+United States Postal Service ZIP code service areas.
+
+Figure 6.14. Changing the Data Product Year and Selecting Geographic Areas Using the Geography Filter in  
+                  Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+Understanding and Using American Community Survey Data   23 
+What Federal Agencies Need to Know   23
+
+U.S. Census BureauNext:
+
+•  Turn on the “Show Summary Levels” toggle switch. 
+
+•  Select “860 – 5-Digit ZCTA.”
+
+•  Check the box for “All ZCTAs in the United States.” This selection will appear at the bottom of the page next 
+
+to “Selected Geographies.”
+
+•  Click “Close” in the bottom right corner (see Figure 6.15).
+
+Figure 6.15. Selecting All ZCTAs in the United States in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+24   Understanding and Using American Community Survey Data 
+24   What Federal Agencies Need to Know
+
+U.S. Census BureauTypically, the table would update to show the geographies selected. However, since there are over 33,000 
+ZCTAs in the United States, the table is too large to display. Therefore, we need to select “Download Table” 
+(See Figure 6.16). 
+
+Figure 6.16. Downloading a Table in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+For this case study, we select the 2016 ACS 5-year data. After making sure that the download specifications in 
+the “Download/Print/Share” window are correct, we select “Download” again (see Figure 6.17).
+
+Figure 6.17. Using the Download/Print/Share Window in Data.census.gov 
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+Understanding and Using American Community Survey Data   25 
+What Federal Agencies Need to Know   25
+
+U.S. Census BureauSelect “Download Now” after the file is prepared (see Figure 6.18).
+
+Figure 6.18. Downloading a Compressed (ZIP) File in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+A compressed folder that includes three files; metadata, data, and table title will be available. We, generally, can 
+use these data to combine beneficiary data with ACS data by ZCTA. To complete the analysis, we:
+
+•  Upload the ACS data to the CCW.
+
+• 
+
+Import the data as statistical software data sets.
+
+•  Recode the ACS variables and create percentages.
+
+•  Merge individual ACS data sets by ZCTA and sort by ZCTA.
+
+•  Merge Medicare beneficiary health information by a CMS unique identifier.
+
+•  Sort Medicare beneficiary data sets by ZCTA.
+
+•  Link the ACS and Medicare by ZCTA/ZIP code. 
+
+•  Omit all unmatched ZCTA/ZIP codes pairs or ZIP codes with less 10,000 ZIP codes.
+
+26   Understanding and Using American Community Survey Data 
+26   What Federal Agencies Need to Know
+
+U.S. Census BureauFindings/Summary of Case Study on Using ACS Data
+
+The combined ACS/MBSF results show that compared to all beneficiaries, a higher percentage of White and 
+Black Medicare beneficiaries resided in communities with a higher mean English-only speaking population, rela-
+tive to Asian, Native Hawaiian or Other Pacific Islander, and Hispanic beneficiaries (see Figure 6.19). By linking the 
+MBSF to the ACS, it was possible to examine the language needs for Medicare beneficiaries. This analysis would 
+not have been possible by using the MBSF only. 
+
+Figure 6.19. Percentage of Medicare Beneficiaries in ZIP Codes That Speak English Only (Mean)
+
+Note: A/NHOPI = Asian/Native Hawaiian and Other Pacific Islander. AIAN = American Indian/Alaska Native. 
+Source: Authors’ analysis of data from the U.S. Census Bureau, American Community Survey; and Centers for Medicare and Medicaid Services.
+
+CMS provides free publicly accessible resources in 18 languages to help people make informed health care 
+decisions and be active partners in their health care and the health care of their families.38 Additionally, the 
+CMS Office of Minority Health has designed several initiatives to eliminate disparities in health care quality and 
+access, so that all CMS beneficiaries can achieve their highest level of health.39 To learn more about CMS’ equity 
+resources to assist with understanding the communication needs of diverse populations of Medicare beneficia-
+ries, please visit <www.cms.gov/About-CMS/Agency-Information/OMH/research-and-data/information-products 
+/issue-briefs>.
+
+Linking the MBSF with the ACS strengthened the utility of CMS administrative data to explore how social deter-
+minants of health may contribute to racial, ethnic, and geographic disparities. These study findings highlight the 
+diversity of the Medicare population and supports identification of appropriate targets to develop effective inter-
+ventions aimed at promoting equity for all Americans.
+
+38 Centers for Medicare & Medicaid Services, “Resources by Language,” <www.cms.gov/About-CMS/Agency-Information/OMH/resource-center 
+
+/resources-by-language>.
+
+39 Centers for Medicare & Medicaid Services, “Equity Initiatives,” <www.cms.gov/About-CMS/Agency-Information/OMH/equity-initiatives>.
+
+Understanding and Using American Community Survey Data   27 
+What Federal Agencies Need to Know   27
+
+U.S. Census BureauCase Study #3: Learning More About HUD-Assisted Households Through Data 
+Linkage
+
+Skill Level: Advanced 
+Subject: Analyzing characteristics of households receiving U.S. Department of Housing and Urban Development 
+rental assistance with American Community Survey (ACS) data 
+Type of Analysis: Administrative record linkage and analysis using ACS data  
+Tool Used: Statistical software 
+Authors: Shawn Bucholtz, Federal Housing Finance Agency (formerly U.S. Department of Housing and Urban 
+Development); Emily Molfino, U.S. Census Bureau; and Quentin Brummet, National Opinion Research Center 
+(NORC) at the University of Chicago 
+
+The U.S. Department of Housing and Urban Development (HUD) administers several rental assistance programs 
+that help low-income households afford their rental units, including those housing seniors, disabled persons, 
+and veterans. The largest of these programs is the Housing Choice Voucher (HCV) program with approximately 
+2.3 million households receiving rental assistance. The second largest of these programs is project-based rental 
+assistance (PBRA) with approximately 1.3 million households receiving rental assistance, while the third largest 
+program, Public Housing (PH), currently provides housing for approximately 950,000 households. These three 
+programs, as well as a myriad of much smaller HUD programs, provide rental assistance for more than 4.6 million 
+households, or about 3.8 percent of all households in the United States. 
+
+To administer rental assistance programs in a manner consistent with statutory, regulatory, and program-specific 
+requirements, HUD must collect information from the beneficiaries. However, like many federal programs, HUD’s 
+data collection is generally limited only to the information necessary to implement the program. This short-
+coming limits HUD’s ability to fully monitor ongoing program performance or evaluate longer-term program 
+effects. As a result, evaluating program effects often requires additional surveys, which are expensive.   
+
+This shortcoming in the ability to evaluate programmatic impact is also well known to policymakers and mem-
+bers of research and advocacy communities. It is partially addressed by the Foundations for Evidence-Based 
+Policymaking Act of 2019, which requires agencies to develop written evaluation plans and establish evaluation 
+officers. One promising method for low-cost evaluation of program performance and effects is linking adminis-
+trative records to data from existing surveys, like the U.S. Census Bureau’s American Community Survey (ACS). 
+The ACS contains a wealth of household and demographic information that is not currently collected by HUD 
+including:
+
+•  Type of occupation and commuting mode.
+
+•  Veteran status.
+
+•  Health insurance status.
+
+•  Expanded racial categories and household relationship types.
+
+• 
+
+Internet access.
+
+Linking ACS data to HUD-assisted housing units and households allows HUD to gain insights that would other-
+wise not be possible with current rental assistance administrative records, potentially leading to more robust 
+program evaluation. For example, the HUD/ACS linked data set can be used to create summary statistics of char-
+acteristics of the HUD-assisted housing units or households present in the ACS sample, such as the percentage of 
+HUD-assisted housing units that have high-speed Internet—a characteristic available in the ACS.
+
+In this case study, we describe how we linked HUD–assisted housing unit and household administrative records to 
+ACS housing unit records to identify ACS households receiving HUD rental assistance.
+
+Access to the ACS/HUD linked data is available to researchers through a Federal Statistical Research Data 
+Center, after obtaining Special Sworn Status and approval for their project.40 
+
+40 U.S. Census Bureau, Federal Statistical Research Data Centers, <www.census.gov/fsrdc>. 
+
+28   Understanding and Using American Community Survey Data 
+28   What Federal Agencies Need to Know
+
+U.S. Census BureauRecord Linkage Process
+
+HUD-assisted housing units were first linked to ACS housing units based on housing unit addresses using the 
+Census Bureau’s Master Address File (MAF), which is the source of addresses for the ACS, other Census Bureau 
+demographic surveys, and the decennial census. Then, HUD-assisted housing units were linked to ACS units if a 
+household member (person) within the ACS household roster matched a person in a HUD-assisted household 
+roster. We refer to this roster-based linking process as “Protected Identification Key (PIK) matching.” Any ACS 
+housing unit that linked to a HUD administrative record by either a MAF match or PIK match was considered a 
+HUD-assisted housing unit. A complete description of the record linkage process, as well as potential problems 
+with the linkage process, is available in Bucholtz, Molfino, and Brummet’s technical report.41
+
+Record Linkage Quality Assessment 
+
+Table 6.1 shows the number of ACS records linked to a HUD administrative record by the type of link. Although 
+not the subject of this article, we speculate that the downward trend in the total number of ACS records linked to 
+a HUD administrative record reflects a general downward trend in response rates for HUD-assisted households.
+The authors have observed a similar trend in another household survey, the American Housing Survey.42 
+
+  Table 6.1. Breakdown of HUD/ACS Links Made by Address (MAF) and Person (PIK)
+
+Breakdown
+
+Year
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+MAF-matched 
+
+PIO-matched
+
+Count . . . . . . . . . .
+
+60,000
+
+63,500
+
+55,500
+
+58,000
+
+57,000
+
+54,500
+
+51,500
+
+Percent . . . . . . . . .
+
+81.6
+
+81.9
+
+82.2
+
+82.9
+
+82.6
+
+83.8
+
+84.4
+
+Count . . . . . . . . . .
+
+13,500
+
+14,000
+
+12,000
+
+12,000
+
+12,000
+
+10,500
+
+9,500
+
+Percent . . . . . . . . .
+
+18.4
+
+18.1
+
+17.8
+
+17.1
+
+17.4
+
+16.2
+
+15.6
+
+Total
+
+Count . . . . . . . . . .
+
+73,500
+
+77,500
+
+67,500
+
+70,000
+
+69,000
+
+65,000
+
+61,000
+
+Notes: MAF = Master Address File. PIK = Protected Identification Key. Numbers are rounded to comply with U.S. Census Bureau disclosure 
+guidelines.
+Source: Authors’ analysis of American Community Survey (ACS) and U.S. Department of Housing and Urban Development (HUD) data.
+
+To determine whether the linking process performed well, we compared the “prelinking” count of HUD rental 
+assistance administrative records with the “post-linking” ACS weighted estimate of ACS housing units identified 
+as HUD-assisted. All else being equal, if the linking process performs well, the post-link ACS weighted estimate of 
+HUD-assisted units should be very similar to the prelink known record count.
+
+Table 6.2 below presents linking quality metrics for 2015 through 2017. The table shows that HUD provided the 
+Census Bureau with 4.74 million rental assistance administrative records and housing unit records in 2017. When 
+these records were linked to ACS housing units, the weighted estimate of HUD-assisted housing units was 4.62 
+million, or 97.3 percent of the real total. Across all years of the data linkage (2011–2017), the ACS-weighted 
+estimate of HUD-assisted housing units ranges from 97.0 to 99.4 percent. There is some variation in linkage rate 
+across the three categories of HUD programs, however, with the PBRA program consistently performing worse 
+than PH or HCV. Reasons for this difference are explored in the technical report, but are generally due to varia-
+tions in the quality of HUD addresses.
+
+41 Shawn Bucholtz, Emily Molfino, and Quentin Brummet, “Identifying Subsidized Housing Units Within the American Community Survey 
+Through Administrative Record Linkage: A Technical Report,” U.S. Department of Housing and Urban Development, Washington, DC, 2020, 
+<www.huduser.gov/portal/publications/Identifying-Subsidized-Housing-Units.html>. 
+
+42 Based on unpublished analysis of 2015, 2017, and 2019 American Housing Survey internal use files.
+
+Understanding and Using American Community Survey Data   29 
+What Federal Agencies Need to Know   29
+
+U.S. Census BureauGiven the results in Table 6.2, it’s reasonable to conclude that the linking process performed well enough to 
+ensure that the ACS housing units flagged as HUD-assisted units are a representative cross-section of all pos-
+sible ACS housing units that are truly HUD-assisted units. In statistical terms, although there are false negatives 
+(positives), they appear to be limited in quantity, and we feel their omission (inclusion) should not result in biased 
+estimates of housing or household characteristics of HUD-assisted households. Regardless of the extent to which 
+our linking process introduced any bias, a method for overcoming this bias is described in the technical report.43 
+
+  Table 6.2. Results of HUD/ACS Administrative Linking
+
+All
+
+PH
+
+HCV
+
+PBRA
+
+2015
+
+2016
+
+2017
+
+HUD records provided to Census . . . . . . . . . . . . . . . . . . . . . . . .
+ACS estimate of HUD-assisted households . . . . . . . . . . . . . . .
+ACS estimate as share of HUD records . . . . . . . . . . . . . . . . . . .
+ACS 90 percent margin of error . . . . . . . . . . . . . . . . . . . . . . . . .
+
+HUD records provided to Census . . . . . . . . . . . . . . . . . . . . . . . .
+ACS estimate of HUD-assisted households . . . . . . . . . . . . . . .
+ACS estimate as share of HUD records . . . . . . . . . . . . . . . . . . .
+ACS 90 percent margin of error . . . . . . . . . . . . . . . . . . . . . . . . .
+
+HUD records provided to Census . . . . . . . . . . . . . . . . . . . . . . . .
+ACS estimate of HUD-assisted households . . . . . . . . . . . . . . .
+ACS estimate as share of HUD records . . . . . . . . . . . . . . . . . . .
+ACS 90 percent margin of error . . . . . . . . . . . . . . . . . . . . . . . . .
+
+4,757,000
+4,678,000
+98.3%
+0.7%
+
+4,760,000
+4,623,000
+97.1%
+0.7%
+
+4,744,000
+4,615,000
+97.3%
+0.80%
+
+998,200
+1,021,000
+102.3%
+1.4%
+
+1,014,000
+1,001,000
+98.7%
+1.5%
+
+977,100
+979,700
+100.3%
+1.50%
+
+2,265,000
+2,256,000
+99.6%
+1.2%
+
+2,300,000
+2,248,000
+97.7%
+1.1%
+
+2,313,000
+2,268,000
+98.1%
+1.10%
+
+1,494,000
+1,400,000
+93.7%
+1.3%
+
+1,446,000
+1,374,000
+95.0%
+1.1%
+
+1,453,000
+1,367,000
+94.1%
+1.30%
+
+Note: ACS = American Community Survey. HCV = Housing Choice Voucher program. PBRA = project-based rental assistance. PH = public 
+housing.
+Source: Authors’ analysis of American Community Survey (ACS) and U.S. Department of Housing and Urban Development (HUD) data.
+
+Uses of the Linked Data
+
+In this section, we illustrate two uses of the linked data to produce estimates that are otherwise not feasible to 
+derive using HUD rental assistance administrative records alone.
+
+On HUD forms 50058 and 50059, current and prospective HUD-assisted renters supply a host of demographic 
+information including age, sex, race, and ethnicity. Consistent with federal guidelines governing the collection 
+of race and ethnicity data, HUD collects race information using five standard categories: White, Black or African 
+American, Asian, American Indian or Alaska Native, and Native Hawaiian or Other Pacific Islander. ACS follows 
+the same federal guidelines but expands the number of categories for Asians from one to six detailed Asian race 
+categories and offers respondents a write-in option.44
+
+The linked HUD/ACS data can be used to estimate the number of HUD-assisted householders reporting their race 
+as Asian by detailed Asian race category. Table 6.3 presents these results from the 2013–2017 ACS 5-year data. 
+The results reveal significant variation within the Asian race groups in the share of households receiving HUD 
+assistance relative to those eligible for HUD assistance. While it is beyond the scope of this case study to explain 
+these differences further, this analysis illustrates the potential value of the data linkage for better understanding 
+who is served by HUD rental assistance programs.
+
+43 Shawn Bucholtz, Emily Molfino, and Quentin Brummet, “Identifying Subsidized Housing Units Within the American Community Survey 
+Through Administrative Record Linkage: A Technical Report,” U.S. Department of Housing and Urban Development, Washington, DC, 2020, 
+<www.huduser.gov/portal/publications/Identifying-Subsidized-Housing-Units.html>. 
+
+44 At the time of this analysis, the ACS questionnaire included write-in fields for “Other Asian,” “Other Pacific Islander,” and “Some other race.” 
+
+Starting with the 2020 ACS questionnaire, there are now write-in fields for “White” and “Black or African American.” For more information, see 
+<www.census.gov/programs-surveys/acs/methodology/questionnaire-archive.html>. 
+
+30   Understanding and Using American Community Survey Data 
+30   What Federal Agencies Need to Know
+
+U.S. Census Bureau Table 6.3. Detailed Asian Race for HUD-Assisted Households: 2013–2017
+
+Householder race
+
+Asian Indian  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Cambodian . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Chinese  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Filipino . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Hmong . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Japanese . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Korean . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Laotian . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Other Asian or Two Groups . . . . . . . . . . . . . . . . . . . . . . . .
+Vietnamese . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+HUD-assisted  
+households
+
+5,973
+5,480
+53,810
+12,340
+4,515
+3,117
+24,000
+2,289
+9,879
+32,370
+
+  Source: Authors’ analysis of 2013–2017 American Community Survey, 5-Year Estimates.
+
+Households  
+eligible  
+for HUD  
+assistance
+
+Share of eligible  
+households receiving 
+ HUD assistance  
+(in percent)
+
+105,533
+16,640
+259,710
+82,330
+14,389
+34,187
+116,480
+9,847
+116,379
+89,910
+
+6
+33
+21
+15
+31
+9
+21
+23
+8
+36
+
+As another example, HUD and the U.S. Department of Veterans Affairs (VA) partner to implement the VA 
+Supportive Housing (VASH) program, which provides housing vouchers to homeless veterans. As of 2017, the 
+HUD-VASH program provided housing to nearly 88,000 households with a veteran.45 HUD leaders long sus-
+pected that other HUD rental assistance programs provided housing to many additional veterans that were not 
+part of the VASH program. As is the case with detailed race and ethnicity data, however, HUD forms 50058 and 
+50059 do not collect information on veteran’s status.
+
+The linked HUD/ACS data can be used to estimate the number of HUD-assisted households with a veteran to 
+inform this program. Table 6.4 below presents these results by year from the ACS 1-year estimates for 2011 
+through 2017. The results reveal that HUD is serving between 285,000 and 324,000 households with a veteran.
+
+ Table 6.4. Number of HUD-Assisted Households With  
+                  Veterans by Year: 2011–2017
+
+Year
+
+2011 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2012 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2013 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2014 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2015 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2016 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2017 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+HUD-assisted  
+households  
+with a veteran
+
+302,000
+314,200
+289,900
+288,200
+286,000
+285,600
+291,900
+
+Source: Author’s analysis of 2011–2017 American Community Surveys, 1-Year 
+Estimates.
+
+Conclusion
+
+Using a multifaceted approach, we have linked administrative data from HUD’s rental housing assistance pro-
+grams to ACS housing units for years 2011 through 2017. In each year of the ACS, we identify 61,000 to 78,000 
+ACS households as being HUD-assisted. Our analysis of the data linkage quality suggests that false-positive links 
+and false-negative links are minimal, enabling high-quality analysis of the linked data. By linking the two data 
+sources, we can learn more about HUD-assisted households without having to conduct an expensive, one-off 
+survey. In the future, this work will continue, and we plan to link HUD administrative records to future years of the 
+ACS as they become available.
+
+Our goal with this project was to develop the linkage process and build the linked data sets so researchers at 
+HUD and elsewhere can further explore the data. 
+
+45 Ann Elizabeth Montgomery and Meagan Cusack, “HUD-VASH Exit Study: Final Report,” U.S. Department of Housing and Urban 
+
+Development, Washington, DC, 2017, <www.huduser.gov/portal/publications/HUD-VASH-Exit-Study.html>. 
+
+Understanding and Using American Community Survey Data   31 
+What Federal Agencies Need to Know   31
+
+U.S. Census Bureau7. ADDITIONAL RESOURCES
+
+U.S. Census Bureau, What Is the American Community 
+Survey? 
+<www.census.gov/programs-surveys/acs/about.html> 
+
+U.S. Census Bureau, Geography and ACS  
+<www.census.gov/programs-surveys/acs/geography 
+-acs.html>
+
+U.S. Census Bureau, Understanding and Using 
+American Community Survey Data: What All Data 
+Users Need to Know 
+<www.census.gov/programs-surveys/acs/guidance 
+/handbooks/general.html>
+
+U.S. Census Bureau, American Community Survey, 
+2014 Content Review 
+<www.census.gov/programs-surveys/acs/operations 
+-and-administration/2014-content-review.html>
+
+U.S. Census Bureau, Questions on the Form and Why 
+We Ask 
+<www.census.gov/acs/www/about/why-we-ask-each 
+-question/>
+
+U.S. Census Bureau, ACS Handbook of Questions and 
+Current Federal Uses 
+<www.census.gov/programs-surveys/acs/operations 
+-and-administration/2014-content-review/federal 
+-uses.html>
+
+U.S. Census Bureau, Library, Uses of Census Bureau 
+Data in Federal Funds Distribution 
+<www.census.gov/library/working-papers/2017 
+/decennial/census-data-federal-funds.html>
+
+U.S. Census Bureau, ACS Data Releases 
+<www.census.gov/programs-surveys/acs/news/data 
+-releases.html>
+
+U.S. Census Bureau, ACS Data Tables and Tools  
+<www.census.gov/acs/www/data/data-tables 
+-and-tools/>
+
+U.S. Census Bureau, Census Business Builder (CBB)  
+<www.census.gov/data/data-tools/cbb.html>
+
+U.S. Census Bureau, Data.census.gov Resources 
+<www.census.gov/data/what-is-data-census-gov.html>
+
+U.S. Census Bureau, State Data Center (SDC) Program  
+<www.census.gov/about/partners/sdc.html>
+
+U.S. Census Bureau, American Community Survey 
+(ACS), Custom Tables 
+<www.census.gov/programs-surveys/acs/data/custom 
+-tables.html>
+
+U.S. Census Bureau, Federal Statistical Research Data 
+Centers 
+<www.census.gov/fsrdc>
+
+U.S. Census Bureau, Center for Economic Studies 
+(CES), Apply for Access 
+<www.census.gov/programs-surveys/ces/data 
+/restricted-use-data/apply-for-access.html>
+
+ACS Online Community 
+<https://acsdatacommunity.prb.org/>
+
+32   Understanding and Using American Community Survey Data 
+32   What Federal Agencies Need to Know
+
+U.S. Census Bureau

@@ -1,0 +1,121 @@
+United States Census Bureau | An official website of the United States Government
+
+Item Allocation Rates
+Definitions
+
+1. What is item nonresponse?
+
+Missing data for a particular question or item is called item nonresponse. It occurs when a respondent
+fails to provide an answer to a required item. The ACS also considers invalid answers as item
+
+nonresponse.
+
+2. How does the ACS correct for item nonresponse?
+
+The Census Bureau uses imputation methods that either use rules to determine acceptable answers or
+use answers from similar housing units or people who provided the item information. The first of these
+
+two methods is known as assignment, while the second is referred to as allocation.
+
+Assignment involves logical imputation where a response to one question implies the value for a missing
+
+response to another question. For example, school grade or level attending can often be used to assign a
+value to highest degree or level of school completed.
+
+Allocation, on the other hand, involves using statistical procedures, such as within-household or nearest
+
+neighbor matrices populated by donors, to impute for missing values.
+
+3. Why is it important to measure item nonresponse?
+
+So that data users can judge the completeness of the data in which the survey estimates are based.
+
+Final estimates can be adversely impacted when item nonresponse is high and bias can be introduced if
+
+the characteristics of the nonrespondents differ from those reported by respondents. Item nonresponse
+
+and unit nonresponse both contribute to potential bias in the estimates.
+
+4. How does the ACS measure item nonresponse?
+
+Item nonresponse is measured through the calculation of allocation rates which are published with the
+
+survey estimates. The Census Bureau calculates measures of item nonresponse for two distinct
+
+universes. Data.census.gov includes allocation tables specific to the tabulation universes. This Quality
+Measures Web page includes allocation rates for the universe that was eligible for editing and
+
+imputation. In some instances these will be the same, but in many instances they will differ. For example,
+
+we edit and impute data collected for educational attainment for the total population 3 years and over, so
+
+that is the universe referenced to calculate the allocation rates shown on the Quality Measures Web
+page. However, the tables for educational attainment in data.census.gov are restricted to the population
+
+age 25+ and therefore the imputation tables on data.census.gov are restricted to this universe. The
+
+specific universe associated with each of these Quality Measures are shown in the tables, displayed
+
+below the title of each item.
+
+5. Why did item nonresponse increase between 2012 and 2013?
+
+The majority of the increase in item nonresponse rates between 2012 and 2013 was due to the cessation
+
+of part of the Failed Edit Follow Up operation in late 2012.  Incomplete mail forms were no longer sent for
+follow up, which increased the amount of item nonresponse.  For more information, see the User Note
+
+[https://www.census.gov/programs-surveys/acs/technical-documentation/user-notes/2013-07.html] .
+
+6. How are item allocation rates calculated?
+
+Allocation rate for item A (state x, year y) =
+
+Related Information
+
+Share Your ACS Data Story [/programs-surveys/acs/share-your-acs-data-story.html]
+
+Contact Us [/programs-surveys/acs/contact.html]
+
+You May Be Interested In
+
+Contact
+
+Updates
+
+Contact Us
+
+Email Updates
+
+Share Your ACS Data
+
+Story
+
+Learn how to contact
+
+Sign up to receive email
+
+Tell us your story about
+
+the American
+Community Survey if you
+
+updates about the
+American Community
+
+how you use data from
+the American
+
+[/programs-
+surveys/acs/contact.html]
+
+[/programs-
+surveys/acs/news/email-
+updates.html]
+
+[/programs-surveys/acs/share-
+your-acs-data-story.html]
+
+Page Last Revised - January 21, 2022
+
+

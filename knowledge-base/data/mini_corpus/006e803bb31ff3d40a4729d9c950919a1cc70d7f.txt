@@ -1,0 +1,1024 @@
+American Community Survey 
+
+Worked Examples for Approximating Standard Errors 
+Using American Community Survey Data 
+
+INTRODUCTION 
+
+This document provides how to approximate standard errors and margins of error when 
+aggregating American Community Survey (ACS) estimates (either by combining geographies, 
+characteristics, or both).  Previously this information was provided in the ACS and PRCS 
+Accuracy of the Data documentation.   
+
+To access to the Accuracy of the Data documents visit: 
+https://www.census.gov/programs-surveys/acs/technical-documentation/code-lists.html. 
+
+Page 1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Table of Contents 
+
+INTRODUCTION ......................................................................................................................... 1 
+SUCCESSIVE DIFFERENCE REPLICATION VARIANCE .............................................. 2 
+WORKED EXAMPLES ............................................................................................................... 3 
+Converting Margin of Error to the Standard Error.......................................................................... 3 
+Example 1 – Calculating the Standard Error from the Margin of Error ............................................ 4 
+Sums and Differences of Direct Standard Errors ............................................................................ 4 
+Example 2 – Calculating the Standard Error of a Sum or a Difference ............................................ 5 
+Proportions/Percents .................................................................................................................... 6 
+Example 3 – Calculating the Standard Error of a Proportion/Percent ............................................. 6 
+Ratios............................................................................................................................................ 7 
+Example 4 – Calculating the Standard Error of a Ratio ................................................................... 7 
+Percent Change ............................................................................................................................. 8 
+Products ....................................................................................................................................... 8 
+Example 5 – Calculating the Standard Error of a Product ............................................................... 8 
+TESTING FOR SIGNIFICANT DIFFERENCES ................................................................... 9 
+Calculating a Z-score Statistic ........................................................................................................ 9 
+Issues with Using Overlapping Confidence Intervals for Statistical Testing ..................................... 9 
+Statistical Testing Tool ................................................................................................................ 10 
+
+ISSUES WITH APPROXIMATING THE STANDARD ERROR OF LINEAR 
+COMBINATIONS OF MULTIPLE ESTIMATES ............................................................... 11 
+
+SUCCESSIVE DIFFERENCE REPLICATION VARIANCE 
+
+The ACS published 90% confidence level margins of error along with the estimates.  The 
+margin of error is derived from the variance.  In most cases, the variance is calculated using a 
+replicate-based methodology known as successive difference replication (SDR) that takes into 
+account the sample design and estimation procedures.   
+
+The SDR formula is: 
+
+Here, X0 is the estimate calculated using the production weight and 
+using the rth replicate weight.  The standard error is the square root of the variance.  The 90th 
+percent margin of error is 1.645 times the standard error. 
+
+r is the estimate calculated 
+
+X
+
+Margin of Error (90% confidence level) = 1.645 x Standard Error = 1.645 x 
+
+Page 2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Additional information on the formation of the replicate weights, may be found in Chapter 12 of 
+the Design and Methodology documentation at:  
+https://www.census.gov/programs-surveys/acs/methodology/design-and-methodology.html. 
+
+Excluding the base weights, replicate weights are allowed to be negative in order to avoid 
+underestimating the margin of error.  Exceptions include: 
+
+1.  The estimate of the number or proportion of people, households, families, or housing 
+
+units in a geographic area with a specific characteristic is zero.  A special procedure is 
+used to estimate the standard error. 
+
+2.  There are either no sample observations available to compute an estimate or standard 
+error of a median, an aggregate, a proportion, or some other ratio, or there are too few 
+sample observations to compute a stable estimate of the standard error.  The estimate is 
+represented in the tables by “-” and the margin of error by “**” (two asterisks).   
+
+3.  The estimate of a median falls in the lower open-ended interval or upper open-ended 
+
+interval of a distribution.  If the median occurs in the lowest interval, then a “-” follows 
+the estimate, and if the median occurs in the upper interval, then a “+” follows the 
+estimate.  In both cases, the margin of error is represented in the tables by “***” (three 
+asterisks).   
+
+WORKED EXAMPLES 
+
+The following sections provide the equations that are used to approximate the standard error 
+when aggregating ACS estimates across geographies or characteristics.  Note that these 
+methods are approximations and do not include the covariance. 
+
+Note:  Data users do not need to convert the MOEs obtained from data.census.gov to SEs 
+before using these formulas.  Instead, simply replace the SEs in the formulas with the 
+appropriate MOEs.   
+
+If you multiply both sides of any of the SE formula below by 1.645, and then distribute the 
+1.645 appropriately within the square root, all of the SEs may be converted to MOEs. 
+
+Converting Margin of Error to the Standard Error 
+
+The ACS uses a 90 percent confidence level for the margin of error.  Some older estimates 
+may show the 90 percent confidence bounds, instead. 
+
+The margin of error is the maximum difference between the estimate and the upper and lower 
+confidence bounds.  Most tables on data.census.gov containing 2005 or later ACS data display 
+Page 3 
+
+ 
+ 
+the MOE. Use the MOE to calculate the SE (dropping the “+/-” from the displayed value first) 
+as: 
+
+Standard Error = Margin of Error / Z 
+
+Here, Z = 1.645 for ACS data published in 2006 to the present.   
+Users of 2005 and earlier ACS data should use Z= 1.65 
+
+If confidence bounds are provided instead (as with most ACS data products for 2004 and 
+earlier), calculate the margin of error first before calculating the standard error: 
+
+Margin of Error = max (upper bound - estimate, estimate - lower bound) 
+
+Example 1 – Calculating the Standard Error from the Margin of Error 
+
+The estimated number of males, never married is 47,194,876 as found on summary table 
+B12001 (Sex by Marital Status for the Population 15 Years and Over) for the United States 
+for 2017.  The margin of error is 89,037.  Recall that: 
+
+Standard Error = Margin of Error / 1.645 
+
+Calculating the standard error using the margin of error, we have: 
+
+SE(47,194,876) = 89,037 / 1.645 = 54,126 
+
+Sums and Differences of Direct Standard Errors 
+
+ Estimates of standard errors displayed in tables are for individual estimates.  Additional 
+calculations are required to estimate the standard errors for sums of or the differences between 
+two or more sample estimates. 
+
+The standard error of the sum or difference of two sample estimates is the square root of the 
+sum of the two individual standard errors squared plus a covariance term.  That is, for 
+standard errors SE(X1) and SE(X2) of estimates X1 and X2: 
+
+(1)  
+
+The covariance measures the interactions between two estimates.  Currently the covariance 
+terms are not available.  The other approximation formula provided in this document also do 
+not take into account any covariance.  
+
+Page 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For calculating the SE for sums or differences of estimates, data users should therefore use the 
+following approximation:  
+
+(2)  
+
+However, it should be noted that this approximation will underestimate or overestimate the 
+standard error if the two estimates interact in either a positive or a negative way.   
+
+The approximation formula (2) can be expanded to more than two estimates by adding in the 
+individual standard errors squared inside the radical.  As the number of estimates involved in 
+the sum or difference increases, the results of the approximation become increasingly different 
+from the standard error derived directly from the ACS microdata.  Care should be taken to 
+work with the fewest number of estimates as possible.  If there are estimates involved in the 
+sum that are controlled, then the approximate standard error can be increasingly different.   
+
+At the end of this document examples are provided to demonstrate issues associated with 
+approximating the standard errors when summing many estimates together. 
+
+Example 2 – Calculating the Standard Error of a Sum or a Difference 
+
+For this example, we are interested in the total number of people who have never been 
+married.  From Example 1, we know the number of males, never married is 47,194,876.  From 
+summary table B12001 we have the number of females, never married is 41,142,530 with a 
+margin of error of 84,363.  Therefore, the estimated number of people who have never been 
+married is 47,194,876 + 41,142,530 = 88,337,406.   
+
+To calculate the approximate standard error of this sum, we need the standard errors of the 
+two estimates in the sum.  We calculated the standard error for the number of males never 
+married in Example 1 as 54,126.  The standard error for the number of females never married 
+is calculated using the margin of error: 
+
+SE(41,142,530) = 84,363 / 1.645 = 51,284 
+
+Using formula (2) for the approximate standard error of a sum or difference we have: 
+
+ Caution:  This method will underestimate or overestimate the standard error if the two 
+estimates interact in either a positive or a negative way. 
+
+To calculate the lower and upper bounds of the 90 percent confidence interval around 
+88,337,406 using the standard error, simply multiply 74,563 by 1.645, then add and subtract 
+
+Page 5 
+
+ 
+ 
+ 
+  
+ 
+the product from 88,337,406.  Thus, the 90 percent confidence interval for this estimate is 
+[88,337,406 - 1.645(74,563)] to [88,337,406 + 1.645(74,563)] or 88,460,062 to 88,214,750. 
+
+Proportions/Percents  
+
+A proportion (or percent), is a special case of a ratio where the numerator is a subset of the 
+denominator.  If P = X / Y then the standard error of this proportion is approximated as: 
+
+(3)  
+
+Note that P ranges from 0 to 1.  For a percent that ranges from 0% to 100%, multiply P by 
+100%.  That is, PCT = 100% x P (where P is the proportion and PCT is its corresponding 
+percent). 
+
+To find the SE(PCT) simply multiply SE(P) by 100%.  That is: 
+
+SE(PCT) = 100% * SE(P). 
+
+Note the difference between the formulas to approximate the standard error for proportions (3) 
+and ratios (4 – see below) - the plus sign in the proportion formula has been replaced with a 
+minus sign in the ratio formula.  If the value under the radical for the SE of a percent is 
+negative, use the ratio standard error formula instead. 
+
+Example 3 – Calculating the Standard Error of a Proportion/Percent 
+
+We are interested in the percentage of females who have never been married to the number of 
+people who have never been married.  The number of females, never married is 41,142,530 
+and the number of people who have never been married is 88,337,406.  To calculate the 
+approximate standard error of this percent, we need the standard errors of the two estimates in 
+the percent.  
+
+From Example 2, we know that the approximate standard error for the number of females 
+never married is 51,284 and the approximate standard error for the number of people never 
+married calculated is 74,563. 
+
+The estimate is: 
+
+(41,142,530 / 88,337,406) * 100% = 46.57% 
+
+Therefore, using formula (4) for the approximate standard error of a proportion or percent, we 
+have: 
+
+Page 6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ To calculate the lower and upper bounds of the 90 percent confidence interval around 46.57 
+using the standard error, simply multiply 0.04 by 1.645, then add and subtract the product 
+from 46.57.  Thus the 90 percent confidence interval for this estimate is:  
+
+[46.57 - 1.645(0.04)] to [46.57 + 1.645(0.04)], or 46.50% to 46.64%. 
+
+Ratios  
+
+The formula for a ratio where the numerator is not a subset of the denominator is similar to 
+the one for proportions and percents.  The standard error of a ratio is approximated as:  
+
+(4)  
+
+This formula is the same as the one for proportions except there is a plus sign in the difference 
+under the square root sign, instead of a minus sign. 
+
+Example 4 – Calculating the Standard Error of a Ratio 
+
+We are interested in the ratio of the number of unmarried males to the number of unmarried 
+females.  From Examples 1 and 2, we know that the estimate for the number of unmarried 
+men is 47,194,876 with a standard error of 54,126, and the estimate for the number of 
+unmarried women is 41,142,530 with a standard error of 51,284. 
+
+The estimate of the ratio is:  
+
+47,194,876 / 41,142,530 = 1.147. 
+
+Using formula (3) for the approximate standard error of this ratio, we have: 
+
+ The 90 percent margin of error for this estimate would be 0.002 multiplied by 1.645, or about 
+0.003.  The 90 percent lower and upper 90 percent confidence bounds would then be [1.147 – 
+1.645(0.002)] to [1.147 + 1.645(0.002)], or 1.144 and 1.150. 
+
+Page 7 
+
+ 
+ 
+ 
+ 
+  
+ 
+Percent Change  
+
+Data users may be interested in calculating a percentage change from one time period to 
+another, where the more current estimate is compared to an older estimate.  For example, the 
+percent change of the current year compared to the prior year.  Let the current estimate be 
+called X and the earlier estimate be called Y.  Then the standard error for the percent change 
+is equivalent to the SE for a percent.  This is due to properties of the SE, where the SE of a 
+constant is zero. 
+
+(5) 
+
+As a caveat, this formula does not take into account the correlation when calculating 
+overlapping time periods. 
+
+Products  
+
+For a product of two estimates - for example, deriving a proportion’s numerator by 
+multiplying the proportion by its denominator - the standard error can be approximated as: 
+
+(6) 
+
+Example 5 – Calculating the Standard Error of a Product 
+
+We are interested in the number of single unit detached owner-occupied housing units.  The 
+number of owner-occupied housing units is 75,022,569 with a margin of error of 227,992, as 
+found in subject table S2504 (Physical Housing Characteristics for Occupied Housing Units) 
+for 2017, and the percent of single unit detached owner-occupied housing units (called “1, 
+detached” in the subject table) is 82.5% (0.825) with a margin of error of 0.1 (0.001).   
+
+Therefore, the number of 1-unit detached owner-occupied housing units is: 
+
+75,022,569 * 0.825 = 61,893,619. 
+
+Calculating the standard error for the estimates using the margin of error we have: 
+
+SE(75,022,569) = 227,992 / 1.645 = 138,597 
+
+and 
+
+SE(0.825) = 0.001 / 1.645 = 0.0006079 
+
+Page 8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Using formula (6), the approximate standard error for number of 1-unit detached owner-
+occupied housing units is: 
+
+To calculate the lower and upper bounds of the 90 percent confidence interval around 
+61,893,619 using the standard error, simply multiply 123,102 by 1.645, then add and subtract 
+the product from 61,893,619.  Thus the 90 percent confidence interval for this estimate is 
+[61,893,619 - 1.645(123,102)] to [61,893,619 + 1.645(123,102)] or 61,691,116 to 62,096,122. 
+
+TESTING FOR SIGNIFICANT DIFFERENCES 
+
+Users may conduct a statistical test to see if the difference between an ACS estimate and any 
+other chosen estimate is statistically significant at a given confidence level.  “Statistically 
+significant” means that it is not likely that the difference between estimates is due to random 
+chance alone.   
+
+Calculating a Z-score Statistic 
+
+To perform statistical significance testing, first calculate a Z statistic from the two estimates 
+(Est1 and Est2) and their respective standard errors (SE1 and SE2): 
+
+(7) 
+
+If Z > 1.645 or Z < -1.645, then the difference can be said to be statistically significant at the 
+90 percent confidence level.1   
+
+Any pair of estimates can be compared using this method, including ACS estimates from the 
+current year, ACS estimates from a previous year, Decennial Census counts, estimates from 
+other Census Bureau surveys, and estimates from other sources.  Not all estimates have 
+sampling error (for example, Decennial Census counts do not, for example), but when 
+possible, standard errors should be used to produce the most accurate test result. 
+
+Issues with Using Overlapping Confidence Intervals for Statistical Testing 
+
+Users are also cautioned to not rely on looking at whether confidence intervals for two 
+estimates overlap in order to determine statistical significance.  There are circumstances 
+
+1 The ACS Accuracy of the Data document in 2005 used a Z statistic of +/-1.65.  Data users should use +/-1.65 
+for estimates published in 2005 or earlier.   
+
+Page 9 
+
+ 
+  
+ 
+ 
+ 
+ 
+where comparing confidence intervals will not give the correct test result.  If two confidence 
+intervals do not overlap, then the estimates will be significantly different (i.e. the significance 
+test will always agree).  However, if two confidence intervals do overlap, then the estimates 
+may or may not be significantly different.  The Z calculation shown above is recommended in 
+all cases.   
+
+The following example illustrates why using the overlapping confidence bounds rule of thumb 
+as a substitute for a statistical test is not recommended. 
+
+Let: X1 = 6.0 with SE1 = 0.5 and X2 = 5.0 with SE2 = 0.2. 
+
+The Lower Bound for X1 = 6.0 - 0.5 * 1.645 = 5.2 while the Upper Bound for X2 = 5.0 + 0.2 * 
+1.645 = 5.3.  The confidence bounds overlap, so, the rule of thumb would indicate that the 
+estimates are not significantly different at the 90% level. 
+
+However, if we apply the statistical significance test we obtain: 
+
+Z = 1.857 > 1.645 which means that the estimates are significant (at the 90% level).   
+
+All statistical testing in ACS data products is based on the 90 percent confidence level.  Users 
+should understand that testing for estimates published in the Comparison Profiles uses the 
+unrounded estimates and standard errors, and it may not be possible to replicate test results 
+using the published, rounded estimates and margins of error. 
+
+Statistical Testing Tool 
+
+Users completing statistical testing may be interested in using the ACS Statistical Testing 
+Tool.  This automated tool allows users to input pairs and groups of estimates for comparison.  
+For more information on the Statistical Testing Tool, visit https://www.census.gov/programs-
+surveys/acs/guidance/statistical-testing-tool.html.   
+
+Page 10 
+
+ 
+ 
+ISSUES WITH APPROXIMATING THE STANDARD ERROR 
+OF LINEAR COMBINATIONS OF MULTIPLE ESTIMATES 
+
+The following examples demonstrate how approximated standard errors of sums can differ 
+from those derived and published with ACS microdata. 
+
+Example A 
+
+Suppose we are interested in the total number of males with income below the poverty level in 
+the past 12 months for the state of Wyoming.  We want to find the estimate using both state 
+and PUMA level estimates.  Part of the collapsed table C17001 is displayed in Table A below.   
+
+Table A:  Excerpt from C17001: Poverty Status in the Past 12 Months by Sex by Age (2009) 
+
+Characteristic 
+
+WY 
+Est. 
+
+WY 
+MOE 
+
+PUMA 
+00100 
+Est. 
+
+8,479 
+
+1,874 
+
+5,264 
+
+23,001  3,309 
+
+Male 
+Under 18 Years 
+Old 
+18 to 64 Years 
+Old 
+65 Years and 
+Older 
+Source: 2009 American Community Survey 
+
+12,976  2,076 
+
+2,041 
+
+3,004 
+
+1,546 
+
+500 
+
+219 
+
+PUMA 
+00100 
+MOE 
+1,624 
+
+PUMA 
+00200 
+Est. 
+
+6,508 
+
+PUMA 
+00200 
+MOE 
+
+1,395 
+
+920 
+
+2,222 
+
+1,049 
+
+3,725 
+
+237 
+
+561 
+
+778 
+
+935 
+
+286 
+
+PUMA 
+00300 
+Est. 
+
+4,364 
+
+1,999 
+
+2,050 
+
+315 
+
+PUMA 
+00300 
+MOE 
+
+1,026 
+
+PUMA 
+00400 
+Est. 
+
+6,865 
+
+PUMA 
+00400 
+MOE 
+
+1,909 
+
+750 
+
+635 
+
+173 
+
+2,217 
+
+1,192 
+
+4,197 
+
+1,134 
+
+451 
+
+302 
+
+First, sum the three state-level male age group estimates for Wyoming: 
+
+Estimate(Male) = 8,479 + 12,976 + 1,546 = 23,001. 
+
+The approximation for the standard error for the summed state-level age groups is: 
+
+Next, sum the four PUMA estimates for males: 
+
+Estimate(Male) = 5,264 + 6,508 + 4,364 + 6,865 = 23,001. 
+
+Page 11 
+
+ 
+ 
+The approximation for the standard error of the summed PUMA level estimates is: 
+
+Finally, we will sum up all three age groups for all four PUMAs to obtain a third estimate of 
+males: 
+
+Estimate(Male) = 2,041 + 2,222 + … + 451 = 23,001 
+
+The approximated standard error for the summed age-group PUMA level estimates: 
+
+We also know that the standard error using the published MOE is 3,309 /1.645 = 2,011.6.   
+
+In this instance, all of the approximations under-estimate the published standard error and 
+should be used with caution. 
+
+Example B 
+
+Suppose we wish to estimate the total number of males at the national level using age 
+and citizenship status.  The relevant data from table B05003 is displayed in Table B 
+below. 
+
+Table B:  Excerpt from B05003:  Sex by Age by Citizenship Status (2009) 
+
+Characteristic 
+
+Male 
+   Under 18 Years 
+      Native 
+      Foreign Born 
+         Naturalized U.S. Citizen 
+         Not a U.S. Citizen 
+   18 Years and Older 
+      Native 
+      Foreign Born 
+         Naturalized U.S. Citizen 
+         Not a U.S. Citizen 
+
+Source: 2009 American Community Survey 
+
+Estimate 
+151,375,321 
+38,146,514 
+36,747,407 
+1,399,107 
+268,445 
+1,130,662 
+113,228,807 
+95,384,433 
+17,844,374 
+7,507,308 
+10,337,066 
+
+MOE 
+27,279 
+24,365 
+31,397 
+20,177 
+10,289 
+20,228 
+23,525 
+70,210 
+59,750 
+39,658 
+65,533 
+
+Page 12 
+
+ 
+  
+ 
+ 
+ 
+The estimate and its MOE that we are interested in are actually published.  However, if they 
+were not available in the tables, we could find calculate them. To find the estimate for the 
+number of males, we would sum the number of males under 18 and over 18: 
+
+Estimate(Male) = 38,146,514 + 113,228,807 = 151,375,321 
+
+The approximated standard error is: 
+
+Another method would be to add up the estimates for the three subcategories (Native, and the 
+two subcategories for Foreign Born: Naturalized U.S. Citizen, and Not a U.S. Citizen), for 
+males under and over 18 years of age.   
+
+From these six estimates we find: 
+
+Estimate(Male) = 36,747,407 + 268,445 + 1,130,662 + 95,384,433 + 7,507,308 + 10,337,066 
+= 151,375,321 
+
+With an approximated standard error of: 
+
+ We know that the standard error using the published margin of error is 27,279 / 1.645 = 
+16,583.0.   
+
+With a quick glance, we can see that the ratio of the standard error of the first method to the 
+published-based standard error yields 1.24, an over-estimate of roughly 24%, whereas the 
+second method yields a ratio of 4.07 or an over-estimate of 307%.  This is an example of what 
+could happen to the approximate SE when the sum involves a controlled estimate.  In this 
+case, the controlled estimate is sex by age. 
+
+Example C 
+
+Suppose we are interested in the total number of people aged 65 or older.  Table C shows 
+some of the estimates at the national level from table B01001 (the estimates in gray were 
+derived for the purpose of this example only). 
+
+Page 13 
+
+ 
+ 
+ 
+    Table C: Estimates from Table B01001: Sex by Age (2009) 
+
+Age Category 
+
+65 and 66 years old 
+67 to 69 years old 
+70 to 74 years old 
+75 to 79 years old 
+80 to 84 years old 
+85 years and older 
+Total 
+
+Estimate, 
+Male 
+
+MOE, 
+Male 
+
+Estimate, 
+Female 
+
+MOE, 
+Female 
+
+2,492,871 
+3,029,709 
+4,088,428 
+3,168,175 
+2,258,021 
+1,743,971 
+16,781,175 
+
+20,194 
+18,280 
+21,588 
+19,097 
+17,716 
+17,991 
+NA 
+
+2,803,516 
+3,483,447 
+4,927,666 
+4,204,401 
+3,538,869 
+3,767,574 
+22,725,473 
+
+23,327 
+24,287 
+26,867 
+23,024 
+25,423 
+19,294 
+NA 
+
+Total 
+
+5,296,387 
+6,513,156 
+9,016,094 
+7,372,576 
+5,796,890 
+5,511,545 
+39,506,648 
+
+Estimated 
+MOE, 
+Total 
+
+30,854 
+30,398 
+34,466 
+29,913 
+30,987 
+26,381 
+74,932 
+
+Source: 2009 American Community Survey 
+
+To begin we find the total number of people aged 65 and over by adding the totals for males 
+and females: 
+
+16,781,175 + 22,725,542 = 39,506,717 
+
+An alternate method would be to sum males and female for each age category. We could then 
+use the MOEs for the age category estimates to approximate the standard error for the total 
+number of people over 65.   
+
+With this method, we calculate for the number of people aged 65 or older to be 39,506,648. 
+We approximate the standard error as: 
+
+… etc.  … 
+
+For this example, the estimate and its MOE are published in table B09017.  As such, we know 
+that the total number of people aged 65 or older is 39,506,648 with a margin of error of 
+20,689.   
+
+Therefore the published-based standard error is: 
+
+SE(39,506,648) = 20,689 / 1.645 = 12,577 
+
+Page 14 
+
+ 
+ 
+ 
+ 
+ 
+The approximated standard error, calculated using six derived age group estimates, yields an 
+approximated standard error roughly 3.6 times larger than the published-based standard error. 
+As a note, there are two additional ways to approximate the standard error of people aged 65 
+and over in addition to the way used above.  The first is to find the published MOEs for the 
+males age 65 and older and of females aged 65 and older separately and combine them to find 
+the approximate standard error of the total.  The second is to use all twelve of the published 
+estimates together (all estimates from the male age categories and female age categories) to 
+create the SE for people aged 65 and older.  In this particular example, the results from all 
+three ways are the same; the same approximation for the SE is obtained regardless of the 
+method.  This result differs from that found in Example A. 
+
+Example D 
+
+This example gives an alternative to the methodology of Example C.  Here, we derive the 
+estimate and its corresponding SE by summing the estimates for the ages less than 65 years 
+old and subtracting them from the estimate for the total population.  Due to the large number 
+of estimates, Table D does not show all of the age groups.  Again, the estimates in shaded part 
+of the table were derived for the purposes of this example and cannot be found in table 
+B01001. 
+
+Table D: Estimates from Table B01001: Sex by Age (2009) 
+
+Age Category 
+
+Estimate, 
+Male 
+
+MOE, 
+Male 
+
+Estimate, 
+Female 
+
+MOE, 
+Female 
+
+Total 
+
+Estimated 
+MOE, 
+Total 
+
+Total Population 
+
+151,375,321 
+
+27,279 
+
+155,631,235 
+
+27,280 
+
+307,006,556 
+
+38,579 
+
+15,661 
+43,555 
+40,051 
+… 
+25,636 
+
+10,853,263 
+10,273,948 
+10,532,166 
+… 
+4,282,178 
+
+Under 5 years  
+5 to 9 years old 
+10 to 14 years old 
+… 
+62 to 64 years old 
+Total for Age 0 to 
+64 years old 
+Total for Age 65 
+years and older  
+Source: 2009 American Community Survey 
+
+134,594,146 
+
+16,781,175 
+
+117,166 
+
+120,300 
+
+10,355,944 
+9,850,065 
+9,985,327 
+… 
+4,669,376 
+
+14,707 
+42,194 
+39,921 
+… 
+28,769 
+
+21,209,207 
+20,124,013 
+20,517,493 
+
+21,484 
+60,641 
+56,549 
+
+8,951,554 
+
+38,534 
+
+132,905,762 
+
+117,637 
+
+267,499,908 
+
+166,031 
+
+22,725,473 
+
+120,758 
+
+39,506,648 
+
+170,454 
+
+To find an estimate for the number of people age 65 and older, subtract the population 
+between the ages of zero and 64 years old from the total population: 
+
+Number of people aged 65 and older:  
+
+307,006,556 – 267,499,908 = 39,506,648. 
+
+The SE approximation uses the same methodology as in part C.  First, sum male and female 
+estimates across each age category, then approximate the MOEs: 
+
+Page 15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The SE for the total number of people aged 65 and older is: 
+
+… etc.  … 
+
+Again, as in Example C, the estimate and its MOE are we published in B09017.  The total 
+number of people aged 65 or older is 39,506,648 with a margin of error of 20,689.  Therefore 
+the standard error is: 
+
+SE(39,506,648) = 20,689 / 1.645 = 12,577 
+
+The approximated standard error using the thirteen derived age group estimates yields a 
+standard error roughly 8.2 times larger than the actual SE. 
+
+Additional Resources 
+
+Data users can mitigate the problems shown in examples A through D by utilizing a collapsed 
+version of a detailed table.  Using these tables, if available, may reduce the number of 
+estimates used in the approximation.   
+
+There are is also the annual Supplemental Tables published for the 1-year data.  Supplemental 
+tables begin with a table ID of K20.  They may be found in data.census.gov or by going here: 
+https://www.census.gov/acs/www/data/data-tables-and-tools/supplemental-tables/.  In 
+addition, for the 5-year data, detailed tables are published with replicate estimates in the 
+Variance Replicate Estimate (VRE) tables.  The VRE tables and documentation may be found 
+here:  https://www.census.gov/programs-surveys/acs/data/variance-tables.html.  The 
+documentation on that page which provides examples on how to use replicate estimates to 
+calculate SEs and MOEs. 
+
+These issues may also be avoided by creating estimates and SEs using the Public Use 
+Microdata Sample (PUMS) files.  More information on the PUMS file may be found here: 
+https://www.census.gov/programs-surveys/acs/microdata.html.  In addition, there is an online 
+tool to use PUMS.  It may be found here: https://data.census.gov/mdat/. 
+
+Page 16 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Another option for data users is to request a custom tabulation, a fee-based service offered 
+under certain conditions by the Census Bureau.  For more information regarding custom 
+tabulations, visit: https://www.census.gov/programs-surveys/acs/data/custom-tables.html. 
+
+Page 17 
+
+ 
+ 
+

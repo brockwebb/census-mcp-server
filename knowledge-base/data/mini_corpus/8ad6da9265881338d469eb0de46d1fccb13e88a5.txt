@@ -1,0 +1,2728 @@
+
+
+ 
+ 
+
+     
+:root {
+  --fontStack-monospace: "Monaspace Neon", ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace !important;
+}
+ 
+
+
+
+
+   
+     
+   
+   
+   
+   
+   
+   
+
+  
+
+                
+
+
+     
+     
+     
+     
+   
+ 
+
+  
+
+
+   {"locale":"en","featureFlags":["alternate_user_config_repo","api_insights_show_missing_data_banner","appearance_settings","attestations_filtering","attestations_sorting","billingplatform_copilot_premium_sku","client_version_header","codespaces_prebuild_region_target_update","contact_requests_implicit_opt_in","contentful_lp_copilot_extensions","contentful_lp_flex_features","contentful_lp_footnotes","copilot_chat_attach_images","copilot_chat_attach_multiple_images","copilot_chat_attachments","copilot_chat_custom_instructions","copilot_chat_disable_model_picker_while_streaming","copilot_chat_opening_thread_switch","copilot_chat_repo_custom_instructions_preview","copilot_chat_vision_in_claude","copilot_chat_vision_skip_thread_create","copilot_chat_wholearea_dd","copilot_custom_copilots_feature_preview","copilot_dotcom_chat_file_upload","copilot_duplicate_thread","copilot_free_to_paid_telem","copilot_ftp_settings_upgrade","copilot_ftp_upgrade_to_pro_from_models","copilot_ftp_your_copilot_settings","copilot_immersive_structured_model_picker","copilot_new_conversation_starters","copilot_new_immersive_references_ui","copilot_no_floating_button","copilot_paste_text_files","copilot_premium_request_quotas","copilot_read_shared_conversation","copilot_share_active_subthread","copilot_showcase_icebreakers","copilot_spaces_support_forks","copilot_task_oriented_assistive_prompts","copilot_workbench_iterate_panel","copilot_workbench_preview_analytics","copilot_workbench_refresh_on_wsod","custom_copilots_128k_window","custom_copilots_capi_mode","custom_copilots_issues_prs","direct_to_salesforce","dnd_no_touch_device_check","dotcom_chat_client_side_skills","failbot_report_error_react_apps_on_page","ghost_pilot_confidence_truncation_25","ghost_pilot_confidence_truncation_40","insert_before_patch","issues_catch_non_json_graphql_response","issues_preserve_tokens_in_urls","issues_react_blur_item_picker_on_close","issues_react_bots_timeline_pagination","issues_react_create_milestone","issues_react_include_bots_in_pickers","issues_react_prohibit_title_fallback","issues_react_remove_placeholders","issues_tab_counter_updates","kb_semantic_api_migration","lifecycle_label_name_updates","link_contact_sales_swp_marketo","marketing_pages_search_explore_provider","memex_mwl_filter_field_delimiter","memex_roadmap_drag_style","nonreporting_relay_graphql_status_codes","primer_primitives_experimental","primer_react_select_panel_with_modern_action_list","remove_child_patch","repository_suggester_elastic_search","sample_network_conn_type","scheduled_reminders_updated_limits","site_homepage_contentful","site_msbuild_hide_integrations","site_msbuild_launch","site_msbuild_webgl_hero","spark_commit_on_default_branch","swp_enterprise_contact_form","use_copilot_avatar","use_paginated_org_picker_cost_center_form","use_paginated_repo_picker_cost_center_form","viewscreen_sandbox"],"login":"brockwebb"} 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+   Census American Community Survey Data Users 
+
+
+
+   
+   
+   
+   
+
+    
+   
+
+
+      
+
+
+     
+
+
+   
+  
+
+   
+   
+
+     
+
+    
+
+   
+
+  
+
+
+
+
+     
+
+   
+
+     
+
+    
+
+       
+
+       
+
+     
+     
+     
+
+           
+          
+  
+
+
+       
+       
+
+
+       
+
+
+       
+       
+       
+
+         
+
+
+   
+   
+   
+   
+
+   
+
+
+
+       
+
+
+     
+
+
+   
+
+   
+
+   
+   
+
+   
+   
+   
+
+ 
+ 
+
+
+   
+
+   
+
+   
+     
+      
+
+
+
+     
+       Skip to content 
+
+       
+      
+       
+      
+        
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+
+ 
+  
+   {"props":{"docsUrl":"https://docs.github.com/get-started/accessibility/keyboard-shortcuts"}} 
+    
+ 
+
+
+
+
+      
+
+          
+
+               
+   Navigation Menu 
+
+
+    
+
+     
+       
+         
+             
+   
+  
+          
+      
+ 
+ 
+
+ 
+   
+     
+   
+     
+       
+        Global navigation
+       
+             
+       
+         
+      
+ 
+  
+     
+     
+        
+      
+  
+     
+   
+  
+ 
+       
+              
+         
+  
+   
+     
+        
+          
+ 
+    
+    
+     
+         
+           
+      
+ 
+         
+      
+         
+          Home
+       
+ 
+  
+ 
+
+        
+          
+ 
+    
+    
+     
+         
+           
+        
+ 
+         
+      
+         
+          Issues
+       
+ 
+  
+ 
+
+        
+          
+ 
+    
+    
+     
+         
+           
+      
+ 
+         
+      
+         
+          Pull requests
+       
+ 
+  
+ 
+
+        
+          
+ 
+    
+    
+     
+         
+           
+      
+ 
+         
+      
+         
+          Projects
+       
+ 
+  
+ 
+
+        
+          
+ 
+    
+    
+     
+         
+           
+      
+ 
+         
+      
+         
+          Discussions
+       
+ 
+  
+ 
+
+        
+          
+ 
+    
+    
+     
+         
+           
+        
+ 
+         
+      
+         
+          Codespaces
+       
+ 
+  
+ 
+
+        
+          
+ 
+    
+    
+     
+         
+           
+        
+ 
+         
+      
+         
+          Copilot
+       
+ 
+  
+ 
+
+        
+            
+        
+          
+ 
+    
+    
+     
+         
+           
+      
+ 
+         
+      
+         
+          Explore
+       
+ 
+  
+ 
+
+        
+          
+ 
+    
+    
+     
+         
+           
+      
+ 
+         
+      
+         
+          Marketplace
+       
+ 
+  
+ 
+
+    
+ 
+
+         
+           
+   
+     
+     
+      Loading 
+ 
+ 
+ 
+        
+
+
+              © 2025 GitHub, Inc. 
+
+       
+           About 
+           Blog 
+           Terms 
+           Privacy 
+           Security 
+           Status 
+
+  
+ 
+       
+      
+  
+
+
+   
+     
+   
+     
+      
+
+               Uh oh!
+ 
+                There was an error while loading.  Please reload this page . 
+ 
+
+    
+    
+  
+         
+
+         
+           
+      
+ 
+         
+
+           
+   
+     
+      
+ 
+     
+       
+         
+          Census-ACS
+         
+
+ 
+       
+   
+     / 
+     
+       
+     
+   
+ 
+
+     
+
+       
+         
+   
+        
+      
+ 
+  Show more breadcrumb items 
+
+
+ 
+   
+    
+                  
+   
+     
+         
+    
+    
+     
+      
+         
+          Census-ACS
+       
+ 
+  
+ 
+     
+  
+
+
+ 
+      
+     
+ 
+   
+   
+     / 
+     
+       
+     
+   
+ 
+
+
+       
+ 
+
+     
+   
+ 
+
+       
+       
+           
+              
+
+
+ 
+   
+      
+             
+             
+      
+ 
+           
+
+
+ 
+   
+     
+       
+         
+      
+ 
+       
+
+                 
+             
+               
+                  Type  /  to search
+               
+             
+           
+
+     
+
+
+   
+ 
+
+     
+
+    
+ 
+   
+       Search code, repositories, users, issues, pull requests... 
+     
+      
+                    
+              -->   
+   
+     
+       
+        Search
+       
+       
+           
+             
+      
+ 
+           
+         
+            
+           
+              
+             
+           
+         
+           Clear 
+              
+      
+ 
+ 
+
+       
+       
+   
+      
+ 
+ 
+
+ 
+   
+      
+ 
+ 
+
+ 
+   
+      
+ 
+ 
+
+ 
+   
+      
+ 
+ 
+
+ 
+   
+      
+ 
+ 
+
+ 
+   
+      
+ 
+ 
+
+ 
+   
+      
+ 
+ 
+
+ 
+   
+      
+ 
+ 
+
+ 
+   
+      
+ 
+ 
+
+ 
+   
+      
+ 
+ 
+
+ 
+   
+      
+ 
+ 
+
+ 
+   
+      
+ 
+ 
+
+ 
+   
+        
+ 
+ 
+
+ 
+   
+      
+ 
+ 
+
+ 
+   
+      
+ 
+ 
+
+ 
+   
+      
+ 
+ 
+
+ 
+   
+      
+ 
+ 
+
+ 
+   
+        
+ 
+ 
+
+ 
+   
+      
+ 
+ 
+
+ 
+   
+      
+ 
+ 
+
+ 
+   
+      
+ 
+ 
+
+ 
+   
+      
+ 
+ 
+
+ 
+   
+      
+ 
+ 
+
+ 
+   
+      
+ 
+ 
+
+ 
+   
+      
+ 
+ 
+
+ 
+   
+      
+ 
+ 
+
+ 
+   
+        
+ 
+ 
+
+ 
+   
+      
+ 
+ 
+
+ 
+   
+      
+ 
+ 
+
+ 
+   
+        
+ 
+ 
+
+ 
+   
+      
+ 
+ 
+
+ 
+   
+      
+ 
+ 
+
+ 
+   
+      
+ 
+ 
+
+ 
+   
+      
+ 
+ 
+
+         
+                  
+         
+       
+         
+           
+      
+ 
+         
+          
+      
+      
+  
+           
+             Search syntax tips               
+                  
+     Give feedback 
+   
+ 
+           
+         
+ 
+
+     
+  
+   
+    
+   
+    
+ 
+   
+     
+   
+     
+       
+        Provide feedback
+       
+        
+     
+     
+        
+      
+  
+     
+   
+  
+ 
+       
+                     -->    
+           We read every piece of feedback, and take your input very seriously. 
+            
+           
+           Include my email address so I can be contacted 
+  
+       
+                      Cancel
+ 
+               Submit feedback
+ 
+ 
+  
+
+     
+    
+ 
+   
+     
+   
+     
+       
+        Saved searches
+       
+         Use saved searches to filter your results more quickly 
+     
+     
+        
+      
+  
+     
+   
+  
+ 
+       
+                   
+
+         
+            -->    
+            
+
+           
+
+           
+             Name 
+             
+               
+               
+             
+           
+
+           
+             Query 
+             
+           
+
+           
+            To see all available qualifiers, see our  documentation .
+           
+          
+
+         
+            
+         
+
+ 
+       
+                      Cancel
+ 
+               Create saved search
+ 
+ 
+  
+     
+   
+    
+
+
+           
+
+        
+           
+   
+          
+        
+ 
+  Chat with Copilot 
+
+     
+        
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+       
+       
+  
+   
+     
+   
+     
+      
+
+               Uh oh!
+ 
+                There was an error while loading.  Please reload this page . 
+ 
+
+    
+    
+ 
+     
+   
+   
+        
+      
+ 
+  Open Copilot… 
+
+     
+        
+ 
+ 
+
+ 
+  
+   {"props":{}} 
+    
+ 
+
+     
+   
+ 
+
+
+         
+              
+          
+       
+         
+      
+ 
+       
+      
+      
+  
+   
+  Create new... 
+
+       
+          
+  
+  
+ 
+ 
+
+ 
+  
+   {"props":{"createRepo":true,"importRepo":true,"codespaces":true,"spark":false,"gist":true,"createOrg":true,"createProject":false,"createProjectUrl":"/brockwebb?tab=projects","createLegacyProject":false,"createIssue":false,"org":null,"owner":null,"repo":null}} 
+    
+ 
+
+       
+     
+
+
+                
+        
+ 
+  Your issues 
+
+                
+      
+ 
+  Your pull requests 
+
+         
+
+           
+        
+      
+ 
+ 
+
+     Notifications 
+ 
+
+         
+           
+   
+  
+     
+      
+       
+   
+ 
+   
+      
+  
+ 
+ 
+
+ 
+  
+   {"props":{"owner":{"login":"brockwebb","name":"Brock Webb","avatarUrl":"https://avatars.githubusercontent.com/u/7815312?v=4"},"drawerId":"global-user-nav-drawer","lazyLoadItemDataFetchUrl":"/_side-panels/user.json","canAddAccount":true,"addAccountPath":"/login?add_account=1\u0026return_to=https%3A%2F%2Fgithub.com%2FCensus-ACS","switchAccountPath":"/switch_account","loginAccountPath":"/login?add_account=1","projectsPath":"/brockwebb?tab=projects","gistsUrl":"https://gist.github.com/mine","docsUrl":"https://docs.github.com","yourEnterpriseUrl":null,"enterpriseSettingsUrl":null,"supportUrl":"https://support.github.com","showAccountSwitcher":true,"showCopilot":true,"showEnterprises":true,"showEnterprise":false,"showGists":true,"showOrganizations":true,"showSponsors":true,"showUpgrade":true,"showFeaturesPreviews":true,"showEnterpriseSettings":false,"createMenuProps":{"createRepo":true,"importRepo":true,"codespaces":true,"spark":false,"gist":true,"createOrg":true,"createProject":false,"createProjectUrl":"/brockwebb?tab=projects","createLegacyProject":false,"createIssue":false,"org":null,"owner":null,"repo":null}}} 
+    
+ 
+
+   
+ 
+
+
+   
+     
+   
+     
+      
+
+               Uh oh!
+ 
+                There was an error while loading.  Please reload this page . 
+ 
+
+    
+    
+  
+         
+
+         
+            
+ 
+
+ 
+
+         
+       
+     
+
+
+    
+         
+           
+
+   
+       
+   
+     
+      
+ 
+       Overview 
+      
+  
+       
+   
+     
+      
+ 
+       Repositories 
+      
+  
+       
+   
+     
+      
+ 
+       Projects 
+      
+  
+       
+   
+     
+      
+ 
+       Packages 
+      
+  
+       
+   
+     
+      
+ 
+       People 
+      
+  
+ 
+              
+   
+        
+      
+ 
+  Additional navigation options 
+
+
+ 
+   
+    
+                  
+   
+     
+         
+    
+    
+     
+         
+           
+      
+ 
+         
+      
+         
+          Overview
+       
+ 
+  
+ 
+         
+    
+    
+     
+         
+           
+      
+ 
+         
+      
+         
+          Repositories
+       
+ 
+  
+ 
+         
+    
+    
+     
+         
+           
+      
+ 
+         
+      
+         
+          Projects
+       
+ 
+  
+ 
+         
+    
+    
+     
+         
+           
+      
+ 
+         
+      
+         
+          Packages
+       
+ 
+  
+ 
+         
+    
+    
+     
+         
+           
+      
+ 
+         
+      
+         
+          People
+       
+ 
+  
+ 
+     
+  
+
+
+ 
+      
+     
+  
+ 
+          
+         
+ 
+
+
+       
+  
+         
+      
+ 
+         You signed in with another tab or window.  Reload  to refresh your session. 
+         You signed out in another tab or window.  Reload  to refresh your session. 
+         You switched accounts on another tab or window.  Reload  to refresh your session. 
+
+        
+      
+ 
+  Dismiss alert 
+
+
+  
+ 
+        
+          
+     
+
+    
+
+
+
+
+
+
+
+
+     
+
+
+
+
+   
+    
+ 
+   
+     
+       
+      
+ 
+     
+     
+      
+       {{ message }} 
+
+     
+   
+ 
+   
+ 
+
+
+    
+    
+    
+
+
+
+
+
+
+   
+       
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+
+  
+
+ 
+     
+  
+   
+     
+   
+     
+      
+
+               Uh oh!
+ 
+                There was an error while loading.  Please reload this page . 
+ 
+
+    
+    
+ 
+   
+    
+    
+
+
+
+
+     
+         
+           
+         
+       
+         
+          Census American Community Survey Data Users
+         
+
+            A GitHub page to share repositories of code developed by data users for working with ACS data.  
+
+         
+
+           
+           
+
+         
+
+         
+             
+                 
+                   
+      
+ 
+                   
+                     45 
+                    followers
+                  
+                 
+                   
+      
+ 
+                   https://www.census.gov/programs-surveys/acs/ 
+                 
+                   
+                      Facebook    
+                     uscensusbureau 
+                   
+                   
+                      X    
+                     @uscensusbureau 
+                   
+                   
+                      LinkedIn 
+ 
+  
+ 
+ 
+                     company/us-census-bureau 
+                   
+                   
+                      YouTube 
+  
+ 
+                     user/uscensusbureau 
+                   
+                 
+                   
+      
+ 
+                   acso.users.support@census.gov 
+                 
+
+             
+         
+       
+
+       
+
+
+          
+   
+          -->    
+         
+ 
+        -->    
+       
+    
+
+       
+     
+   
+
+  
+
+ 
+
+
+   
+
+
+     
+
+            
+          
+
+       
+   
+    
+   
+
+  
+  
+  
+
+     
+
+   
+        Popular repositories
+
+     
+   
+     
+     
+      Loading 
+ 
+      
+   
+
+     
+
+     
+       
+         
+           
+               
+                tidycensus
+                   tidycensus               
+                 Public 
+             
+           
+
+             
+              Forked from  walkerke/tidycensus 
+             
+
+           
+            Load US Census boundary and attribute data as 'tidyverse' and 'sf'-ready data frames in R
+           
+
+           
+               
+    
+   R 
+ 
+
+               
+                 
+      
+ 
+                4
+               
+           
+         
+       
+     
+
+     
+       
+         
+           
+               
+                census
+                   census               
+                 Public 
+             
+           
+
+             
+              Forked from  datamade/census 
+             
+
+           
+            A Python wrapper for the US Census API. 
+           
+
+           
+               
+    
+   Python 
+ 
+
+               
+                 
+      
+ 
+                4
+               
+           
+         
+       
+     
+
+     
+       
+         
+           
+               
+                cenpy
+                   cenpy               
+                 Public 
+             
+           
+
+             
+              Forked from  cenpy-devs/cenpy 
+             
+
+           
+            Explore and download data from Census APIs
+           
+
+           
+               
+    
+   Python 
+ 
+
+               
+                 
+      
+ 
+                3
+               
+               
+                 
+      
+ 
+                1
+               
+           
+         
+       
+     
+
+     
+       
+         
+           
+               
+                tigris
+                   tigris               
+                 Public 
+             
+           
+
+             
+              Forked from  walkerke/tigris 
+             
+
+           
+            Download and use Census TIGER/Line shapefiles in R
+           
+
+           
+               
+    
+   R 
+ 
+
+               
+                 
+      
+ 
+                2
+               
+           
+         
+       
+     
+
+     
+       
+         
+           
+               
+                censusapi
+                   censusapi               
+                 Public 
+             
+           
+
+             
+              Forked from  hrecht/censusapi 
+             
+
+           
+            R package to retrieve U.S. Census data and metadata via API
+           
+
+           
+               
+    
+   R 
+ 
+
+               
+                 
+      
+ 
+                2
+               
+           
+         
+       
+     
+
+     
+       
+         
+           
+               
+                censusdis
+                   censusdis               
+                 Public 
+             
+           
+
+             
+              Forked from  censusdis/censusdis 
+             
+
+           
+            censusdis is a package for discovering, loading, analyzing, and computing diversity, integration, and segregation metrics to U.S. Census demographic data. It is designed to be intuitive and Pythoni…
+           
+
+           
+               
+    
+   Python 
+ 
+
+               
+                 
+      
+ 
+                1
+               
+           
+         
+       
+     
+ 
+
+ 
+
+
+     
+   
+       
+         
+      
+ 
+        Repositories
+       
+       
+         
+              -->   
+             
+               
+                 
+                 
+      
+ 
+                 
+   
+     
+     
+      Loading 
+ 
+               
+               
+                 
+                          Type 
+                      
+                    
+                     
+                       
+                         Select type 
+                          
+      
+  
+                       
+                       
+                           
+                             
+                             
+      
+ 
+                             All 
+                           
+                           
+                             
+                             
+      
+ 
+                             Public 
+                           
+                           
+                             
+                             
+      
+ 
+                             Sources 
+                           
+                           
+                             
+                             
+      
+ 
+                             Forks 
+                           
+                           
+                             
+                             
+      
+ 
+                             Archived 
+                           
+                           
+                             
+                             
+      
+ 
+                             Mirrors 
+                           
+                           
+                             
+                             
+      
+ 
+                             Templates 
+                           
+                       
+                     
+                   
+                 
+
+                   
+                            Language 
+                        
+                      
+                       
+                         
+                           Select language 
+                            
+      
+  
+                         
+                         
+                           
+                             
+                             
+      
+ 
+                             All 
+                           
+                             
+                               
+                               
+      
+ 
+                               Clojure 
+                             
+                             
+                               
+                               
+      
+ 
+                               Python 
+                             
+                             
+                               
+                               
+      
+ 
+                               R 
+                             
+                             
+                               
+                               
+      
+ 
+                               Stata 
+                             
+                         
+                       
+                     
+                   
+
+                 
+                          Sort 
+                      
+                    
+                     
+                       
+                         Select order 
+                          
+      
+  
+                       
+                       
+                         
+                           
+                           
+      
+ 
+                           Last updated 
+                         
+                         
+                           
+                           
+      
+ 
+                           Name 
+                         
+                         
+                           
+                           
+      
+ 
+                           Stars 
+                         
+                       
+                     
+                   
+                 
+                 
+                 
+               
+             
+ 
+         
+       
+       
+        
+       
+     Showing 8 of 8 repositories 
+     
+  
+  
+     
+                    
+  
+     
+       
+         citysdk 
+         
+          Public
+ 
+           
+            Forked from
+             uscensusbureau/citysdk  
+           
+            Convenient JavaScript utilities for working with Census APIs: Statistics, Cartographic GeoJSON, lat/lng -> FIPS, and other niceties (written in ClojureScript)
+  
+         
+           
+  
+
+   
+     
+   
+     
+      
+
+               Uh oh!
+ 
+                There was an error while loading.  Please reload this page . 
+ 
+
+    
+    
+      Census-ACS/citysdk’s past year of commit activity  
+ 
+     
+
+         
+    
+   Clojure 
+ 
+
+
+         
+           
+      
+ 0
+ 
+         
+           
+      
+ MIT
+ 
+          
+      
+ 
+          193 
+        
+        
+ 
+        0 
+
+        
+      
+ 
+        0 
+       
+          Updated  Mar 25, 2024 
+   
+ 
+                    
+  
+     
+       
+         censusapi 
+         
+          Public
+ 
+           
+            Forked from
+             hrecht/censusapi  
+           
+            R package to retrieve U.S. Census data and metadata via API
+  
+         
+           
+  
+
+   
+     
+   
+     
+      
+
+               Uh oh!
+ 
+                There was an error while loading.  Please reload this page . 
+ 
+
+    
+    
+      Census-ACS/censusapi’s past year of commit activity  
+ 
+     
+
+         
+    
+   R 
+ 
+
+
+          
+      
+ 
+          2 
+
+          
+      
+ 
+          33 
+        
+        
+ 
+        0 
+
+        
+      
+ 
+        0 
+       
+          Updated  Mar 25, 2024 
+   
+ 
+                    
+  
+     
+       
+         tigris 
+         
+          Public
+ 
+           
+            Forked from
+             walkerke/tigris  
+           
+            Download and use Census TIGER/Line shapefiles in R
+  
+         
+           
+  
+
+   
+     
+   
+     
+      
+
+               Uh oh!
+ 
+                There was an error while loading.  Please reload this page . 
+ 
+
+    
+    
+      Census-ACS/tigris’s past year of commit activity  
+ 
+     
+
+         
+    
+   R 
+ 
+
+
+          
+      
+ 
+          2 
+
+          
+      
+ 
+          46 
+        
+        
+ 
+        0 
+
+        
+      
+ 
+        0 
+       
+          Updated  Mar 25, 2024 
+   
+ 
+                    
+  
+     
+       
+         census 
+         
+          Public
+ 
+           
+            Forked from
+             datamade/census  
+           
+            A Python wrapper for the US Census API. 
+  
+         
+           
+  
+
+   
+     
+   
+     
+      
+
+               Uh oh!
+ 
+                There was an error while loading.  Please reload this page . 
+ 
+
+    
+    
+      Census-ACS/census’s past year of commit activity  
+ 
+     
+
+         
+    
+   Python 
+ 
+
+
+          
+      
+ 
+          4 
+         
+           
+      
+ BSD-3-Clause
+ 
+          
+      
+ 
+          152 
+        
+        
+ 
+        0 
+
+        
+      
+ 
+        0 
+       
+          Updated  Mar 25, 2024 
+   
+ 
+                    
+  
+     
+       
+         tidycensus 
+         
+          Public
+ 
+           
+            Forked from
+             walkerke/tidycensus  
+           
+            Load US Census boundary and attribute data as 'tidyverse' and 'sf'-ready data frames in R
+  
+         
+           
+  
+
+   
+     
+   
+     
+      
+
+               Uh oh!
+ 
+                There was an error while loading.  Please reload this page . 
+ 
+
+    
+    
+      Census-ACS/tidycensus’s past year of commit activity  
+ 
+     
+
+         
+    
+   R 
+ 
+
+
+          
+      
+ 
+          4 
+
+          
+      
+ 
+          98 
+        
+        
+ 
+        0 
+
+        
+      
+ 
+        0 
+       
+          Updated  Mar 25, 2024 
+   
+ 
+                    
+  
+     
+       
+         censusdis 
+         
+          Public
+ 
+           
+            Forked from
+             censusdis/censusdis  
+           
+            censusdis is a package for discovering, loading, analyzing, and computing diversity, integration, and segregation metrics to U.S. Census demographic data. It is designed to be intuitive and Pythonic, but give users access to the full collection of data and maps the U.S. Census publishes via their APIs. 
+  
+         
+           
+  
+
+   
+     
+   
+     
+      
+
+               Uh oh!
+ 
+                There was an error while loading.  Please reload this page . 
+ 
+
+    
+    
+      Census-ACS/censusdis’s past year of commit activity  
+ 
+     
+
+         
+    
+   Python 
+ 
+
+
+          
+      
+ 
+          1 
+
+          
+      
+ 
+          20 
+        
+        
+ 
+        0 
+
+        
+      
+ 
+        0 
+       
+          Updated  Mar 24, 2024 
+   
+ 
+                    
+  
+     
+       
+         getcensus 
+         
+          Public
+ 
+           
+            Forked from
+             CenterOnBudget/getcensus  
+           
+            Load American Community Survey data from the U.S. Census Bureau API into Stata
+  
+         
+           
+  
+
+   
+     
+   
+     
+      
+
+               Uh oh!
+ 
+                There was an error while loading.  Please reload this page . 
+ 
+
+    
+    
+      Census-ACS/getcensus’s past year of commit activity  
+ 
+     
+
+         
+    
+   Stata 
+ 
+
+
+         
+           
+      
+ 0
+ 
+         
+           
+      
+ MIT
+ 
+          
+      
+ 
+          3 
+        
+        
+ 
+        0 
+
+        
+      
+ 
+        0 
+       
+          Updated  Mar 21, 2024 
+   
+ 
+                    
+  
+     
+       
+         cenpy 
+         
+          Public
+ 
+           
+            Forked from
+             cenpy-devs/cenpy  
+           
+            Explore and download data from Census APIs
+  
+         
+           
+  
+
+   
+     
+   
+     
+      
+
+               Uh oh!
+ 
+                There was an error while loading.  Please reload this page . 
+ 
+
+    
+    
+      Census-ACS/cenpy’s past year of commit activity  
+ 
+     
+
+         
+    
+   Python 
+ 
+
+
+          
+      
+ 
+          3 
+
+          
+      
+ 
+          45 
+        
+        
+ 
+        0 
+
+        
+      
+ 
+        0 
+       
+          Updated  Dec 8, 2022 
+   
+ 
+   
+  
+
+
+       
+   
+ 
+ 
+
+    
+
+
+
+         
+ 
+
+              
+             
+   
+   
+ 
+
+ 
+  
+ 
+
+
+
+
+
+ 
+     
+     
+       People 
+     
+     
+      This organization has no public members. You must be a member to see who’s a part of this organization.
+     
+   
+
+ 
+
+  
+
+ 
+  
+   
+     
+       Top languages 
+       Loading… 
+     
+   
+
+   
+     
+   
+     
+      
+
+               Uh oh!
+ 
+                There was an error while loading.  Please reload this page . 
+ 
+
+    
+    
+ 
+ 
+  
+   
+     
+       Most used topics 
+       Loading… 
+     
+   
+
+   
+     
+   
+     
+      
+
+               Uh oh!
+ 
+                There was an error while loading.  Please reload this page . 
+ 
+
+    
+    
+ 
+
+   
+     
+        Report abuse
+     
+   
+
+         
+ 
+  
+ 
+
+       
+   
+
+           
+   Footer 
+
+  
+
+
+   
+     
+       
+         
+      
+ 
+ 
+       
+        © 2025 GitHub, Inc.
+       
+     
+
+     
+       Footer navigation 
+
+       
+
+           
+             Terms 
+           
+
+           
+             Privacy 
+           
+
+           
+             Security 
+           
+
+           
+             Status 
+           
+
+           
+             Docs 
+           
+
+           
+             Contact 
+           
+
+           
+   
+     
+       Manage cookies
+     
+   
+ 
+
+ 
+   
+     
+      Do not share my personal information
+     
+   
+ 
+
+       
+     
+   
+ 
+
+
+
+      
+
+
+
+   
+     
+      
+ 
+     
+       
+      
+ 
+     
+    You can’t perform that action at this time.
+   
+
+     
+   
+      
+     
+       
+         
+      
+ 
+       
+        
+     
+   
+ 
+
+     
+   
+   
+ 
+
+     
+   
+     
+       
+        
+ 
+       
+      
+ 
+     
+   
+ 
+ 
+   
+     
+       
+        
+ 
+       
+      
+ 
+     
+   
+ 
+
+
+     
+      .user-mention[href$="/brockwebb"] {
+        color: var(--color-user-mention-fg);
+        background-color: var(--bgColor-attention-muted, var(--color-attention-subtle));
+        border-radius: 2px;
+        margin-left: -2px;
+        margin-right: -2px;
+      }
+      .user-mention[href$="/brockwebb"]:before,
+      .user-mention[href$="/brockwebb"]:after {
+        content: '';
+        display: inline-block;
+        width: 2px;
+      }
+     
+
+
+     
+      
+      
+   
+ 

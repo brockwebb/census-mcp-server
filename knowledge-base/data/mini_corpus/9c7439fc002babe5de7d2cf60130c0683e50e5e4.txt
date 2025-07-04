@@ -1,0 +1,47 @@
+United States Census Bureau | An official website of the United States Government
+
+Population Controls for the
+2023 ACS
+
+September 2024
+
+The American Community Survey (ACS) makes use of the Population Estimates Program’s (PEP) official population
+
+estimates as survey controls in order to improve the ACS estimates for those characteristics which overlap with the
+
+PEP. This results in ACS estimates being equal or similar to the PEP estimates for total population as well as having
+
+similar age, sex, Hispanic, and non-Hispanic by race distributions. In addition, the ACS estimates for the total group
+
+quarters population are equal to the PEP estimates at the state and national level.
+
+The 2023 ACS data products will use the Vintage 2023 “Blended Base” population estimates
+
+[https://www2.census.gov/programs-surveys/popest/technical-documentation/methodology/2020-2023/2023-est-
+
+relnotes.pdf] that incorporate the 2020 Census, Vintage 2020 population estimates, and 2020 Demographic Analysis
+
+(DA) estimates. In general, these estimates can be described as follows: resident, household, and group quarters (GQ)
+
+population totals are derived from the 2020 Census; national age and sex detail is drawn from the 2020 DA; race detail
+comes from the Vintage 2020 population estimates; and Hispanic origin detail generally comes from the 2020
+
+Census.
+
+Related Information
+
+USER NOTES
+
+Population Controls for the 2022 ACS [/programs-surveys/acs/technical-documentation/user-notes/2023-06.html]
+
+USER NOTES
+
+Population Controls for the 2021 ACS [/programs-surveys/acs/technical-documentation/user-notes/2022-10.html]
+
+USER NOTES
+
+Population Controls for the 2020 ACS [/programs-surveys/acs/technical-documentation/user-notes/2021-01.html]
+
+Page Last Revised - September 11, 2024
+
+

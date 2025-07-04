@@ -1,0 +1,52 @@
+United States Census Bureau | An official website of the United States Government
+
+Modification to the 5-Year
+Estimation Methodology
+Containing Data Collected
+in 2020
+
+March 2022
+
+Due to issues with the nonresponse bias present in the American Community Survey (ACS) data
+
+collected in 2020 [/library/working-papers/2021/acs/2021_CensusBureau_01.html] , the 2016–2020 ACS
+5-year housing unit weighting was modified to enhance our ability to mitigate that bias. Our revised
+
+methodology incorporated the entropy-balance weighting (EBW) methodology [/library/working-
+
+papers/2021/acs/2021_Rothbaum_01.html] used to produce the 2020 ACS 1-year experimental data
+
+products [/programs-surveys/acs/data/experimental-data.html] into our standard production
+methodology. The goal was to leverage the EBW to reduce the bias in the 2020 portion of the 5-year data
+
+while keeping our standard methodology as intact as possible to support producing estimates for all of
+
+our standard 5-year geographic areas.
+
+To accomplish this integration, we devised a modified set of steps in the estimation methodology to
+partially process the four years of data from 2016–2019 using our standard methods before combining
+
+those data with the 2020 data that had been processed using the EBW methodology. Once the years
+
+2016–2020 were pooled together, we applied population and housing unit control totals, derived from
+
+estimates produced by the Population Estimates Program, as we normally do.
+
+This modification will be applied to subsequent 5-year estimates that include data collected in 2020.
+
+For additional details, view the 2016–2020 ACS 5-year Accuracy of the Data [/programs-
+
+surveys/acs/technical-documentation/code-lists/2020.html] document and Modifications to the Entropy
+
+Balance Weighting for the 2016-2020 ACS 5-Year Release [/programs-surveys/acs/technical-
+documentation/user-notes/2022-06.html] .
+
+Related Information
+
+PRESS KIT
+
+American Community Survey 2016-2020 5-Year Data Release [/newsroom/press-kits/2021/acs-5-year.html]
+
+Page Last Revised - May 3, 2022
+
+

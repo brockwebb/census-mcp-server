@@ -1,0 +1,163 @@
+United States Census Bureau | An official website of the United States Government
+
+Using the American
+Community Survey
+Summary File: What Data
+Users Need to Know
+
+October 2023
+
+The American Community Survey
+(ACS) Table-Based Summary File is
+
+less complex and improves ease of
+use. This format groups estimates
+
+and margins of error into one file by
+table ID for all Detailed Tables and all
+geographies available. Data users
+with programming skills and access
+to statistical software can use the
+
+Summary File to download and
+analyze ACS data for a wide range of
+geographic areas.
+
+This guide provides an overview of
+the ACS Table-Based Summary File
+and how it can be used to access
+
+data on America’s communities.
+Data users using the original
+Sequence-Based Summary File
+format can find this documentation
+and handbook on the ACS Summary
+File Sequence-Based Format
+[/programs-
+surveys/acs/data/summary-
+file/sequence-based.html]  webpage.
+
+Download by Section
+
+[/content
+/dam/Ce
+nsus/libr
+ary/publi
+cations/
+2023/ac
+s/acs_ta
+ble_base
+d_summ
+ary_file_
+handboo
+k.pdf]
+
+Using
+the
+Ameri
+can
+Comm
+unity
+Survey
+Table-
+Based
+Summ
+ary
+File
+[8.4
+MB]
+
+Americ
+an
+Commu
+nity
+Survey
+
+Introduction [<1.0 MB]
+
+[/content/dam/Census/library/publications/2023/acs/acs_table_based_summary_file_handbook_intro.pdf]
+
+American Community Survey
+
+1. Overview of the ACS Summary File [1.1
+MB]
+
+American Community Survey
+
+[/content/dam/Census/library/publications/2023/acs/acs_table_based_summary_file_handbook_c
+h01.pdf]
+
+2. How to Use the ACS Table-Based Summary File
+[3.5 MB]
+
+[/content/dam/Census/library/publications/2023/acs/acs_table_based_summary_file_han
+dbook_ch02.pdf]
+
+American Community Survey
+
+3. Tools and Resources for the ACS Summary File
+[<1.0 MB]
+
+[/content/dam/Census/library/publications/2023/acs/acs_table_based_summary_file_han
+dbook_ch03.pdf]
+
+American Community Survey
+
+Others in Series
+
+Publication
+
+What Users of Data for Amer.
+Indians and Alaska Natives Need to
+Know
+
+March 2021
+
+This handbook helps users of data for AIAN learn how to
+access and use ACS data and provide concrete examples of
+how ACS data can answer real-world questions.
+
+[/programs-surveys/acs/guidance/handbooks/aian.html]
+
+Publication
+
+What the Business Community
+Needs to Know
+
+October 2020
+
+This handbook helps business data users learn how to access
+and use ACS data and provide concrete examples of how ACS
+data can answer real-world questions.
+
+[/programs-surveys/acs/guidance/handbooks/business.html]
+
+Publication
+
+Understanding and Using ACS Data:
+What All Data Users Need to Know
+
+September 2020
+
+This handbook helps general data users learn how to access
+and use ACS data and provide concrete examples of how ACS
+data can answer real-world questions.
+
+[/programs-surveys/acs/guidance/handbooks/general.html]
+
+VIEW ALL [/PROGRAMS-SURVEYS/ACS/LIBRARY/HANDBOOKS.HTML]
+
+Related Information
+
+ACS Summary File Sequence-Based Format [/acs-summary-file]
+
+ACS Summary File Table-Based Format [/updates-acs-summary-file]
+
+WEBINAR
+
+Using the American Community Survey Summary File [/data/academy/webinars/2022/using-the-american-community-survey-
+summary-file.html]
+
+Page Last Revised - May 1, 2025
+
+

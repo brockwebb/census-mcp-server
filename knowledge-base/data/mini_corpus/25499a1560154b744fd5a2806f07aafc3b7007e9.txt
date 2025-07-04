@@ -1,0 +1,83 @@
+United States Census Bureau | An official website of the United States Government
+
+Improvements to the Race
+Question
+
+November 2021
+
+Beginning in 2020, the Census Bureau implemented changes to the Race question based on extensive
+
+research and outreach over the past decade. For more information please see the 2010 Census Race and
+Hispanic Origin Alternative Questionnaire Experiment [/programs-surveys/decennial-
+
+census/decade/2010/program-management/cpex/2010-cpex-211.html] and the 2015 National Content
+
+Test [/programs-surveys/decennial-census/decade/2020/planning-management/plan/final-
+
+analysis/2015nct-race-ethnicity-analysis.html] .
+
+Based on research and positive feedback from communities over the past decade, dedicated write-in
+
+response areas and examples were added for the “White” racial category and the “Black or African
+
+American” racial category.
+
+Six example groups were provided for each of the "White," "Black or African American," and "American
+Indian or Alaska Native" racial categories. These examples were selected as they represent the largest
+
+population groups within each of the geographically diverse population groups of each category, as
+
+defined by the 1997 OMB Standards.
+
+The detailed Asian and Native Hawaiian and Other Pacific Islander checkboxes were reordered by
+population size. 
+
+The checkbox category “Guamanian or Chamorro” was changed to “Chamorro” based on research and
+
+positive feedback from stakeholders.
+
+The write-in instructions for the "Some Other Race" category were updated to better solicit detailed
+reporting. The 2019 ACS form included the instruction to "Print race," the instruction used in the 2020
+
+ACS was updated to "Print race or origin” to correspond with the overall question instruction to “Mark (X)
+
+one or more boxes AND print origins.” 
+
+Additionally, improvements were made to the way write-in responses to the race question were
+processed and coded. The number of characters captured in each write-in area was increased from 30 to
+
+200. Instead of prioritizing multiple responses into only two codes, up to six detailed codes for each
+
+write-in area were coded.
+
+Beginning in 2020, any data comparisons to prior race estimates should be made with caution, taking
+into account the improvements we have made to the race question and the ways we code what people
+
+tell us. However, please note that the Census Bureau does not recommend data users compare the 2020
+
+1-year experimental ACS estimates with our standard ACS estimates.
+
+The improvements made to the 2020 ACS race question design, processing, and coding are similar to
+changes made in the 2020 Census, which are presented in the blog entitled, ‘Improvements to the 2020
+
+Census Race and Hispanic Origin Question Designs, Data Processing, and Coding Procedures’
+
+[/newsroom/blogs/random-samplings/2021/08/improvements-to-2020-census-race-hispanic-origin-
+
+question-designs.html] .  
+
+Related Information
+
+PRESS RELEASE
+
+Census Bureau Announces Changes for 2020 ACS 1-Year Estimates [/newsroom/press-releases/2021/changes-2020-acs-1-
+year.html]
+
+PRESS KIT
+
+2020 American Community Survey 1-Year Experimental Data Release [/newsroom/press-kits/2021/impact-pandemic-2020-acs-1-
+year.html]
+
+Page Last Revised - November 24, 2021
+
+

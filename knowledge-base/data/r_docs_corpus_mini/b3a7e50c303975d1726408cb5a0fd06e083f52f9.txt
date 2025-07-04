@@ -1,0 +1,40 @@
+United States Census Bureau | An official website of the United States Government
+
+Trends in Veteran Disability
+Status and Service-
+Connected Disability: 2008-
+2022
+
+November 06, 2024
+Written by: Jonathan Vespa and Caitlin Carter
+Report Number: ACS-58
+
+This report investigates disability among veterans of the U.S. armed forces and how they compare to the broader
+
+nonveteran population. It focuses on disability rates among post-9/11 veterans, that is, those who have served since
+
+September 2001. Post-9/11 veterans are the youngest cohort of veterans and more recently have been at the forefront
+
+of veteran public health research. 
+
+This report uses annual data from the American Community Survey (ACS), 2008 to 2019 and 2021 to 2022. The
+Census Bureau did not release its standard 2020 ACS 1-year estimates because of the impacts of the COVID-19
+pandemic, so data from 2020 were not included in this analysis. 
+
+Following an earlier report, it looks at the prevalence of service-connected disabilities (SCD) among veterans as well
+as ACS-defined disabilities among both the veteran and nonveteran population. Last, the report uses statistical
+regression analysis to examine whether veterans have become increasingly likely to report an SCD or ACS disability
+over time, while accounting for differences in the demographic and socioeconomic composition of the veteran
+population.
+
+Trends in Veteran Disability Status [< 1.0 MB][//www2.census.gov/library/publications/2024/demo/acs-58.pdf]
+
+Related Information
+
+Veterans Publications [/topics/population/veterans/library/publications.html]
+
+ACS Publications and Working Papers [/programs-surveys/acs/library/publications-and-working-papers.html]
+
+Page Last Revised - October 28, 2024
+
+

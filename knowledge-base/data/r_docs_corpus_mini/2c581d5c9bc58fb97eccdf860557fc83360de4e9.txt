@@ -1,0 +1,410 @@
+An ofﬁcial website of the United States government Here’s how you know
+
+Select Nation/State
+
+     Go
+
+Download Sample Size [sample_size_excel.php?Location=United States] 
+[sample_size_excel.php?Location=United States]
+
+United States
+
+Initial Addresses and Sample Selected and Final Interviews
+
+Housing Units
+
+Group Quarters People
+
+Initial
+Addresses
+Selected
+
+Final
+Interviews
+
+Initial
+Sample
+Selected
+
+Final
+Actual
+Interviews
+
+Final
+Synthetic
+Interviews
+[#note1]
+
+3,544,357
+
+3,538,392
+
+3,538,442
+
+2,872,402
+
+3,544,301
+
+3,544,000
+
+3,526,808
+
+3,527,047
+
+3,540,307
+
+3,540,532
+
+3,551,227
+
+3,539,552
+
+3,272,520
+
+2,899,676
+
+2,897,256
+
+2,894,711
+
+2,886,453
+
+2,885,384
+
+2,922,656
+
+838,293
+
+828,590
+
+742,409
+
+858,058
+
+890,698
+
+1,978,704
+
+1,980,550
+
+1,950,832
+
+1,406,935
+
+2,059,945
+
+2,143,000
+
+2,145,639
+
+2,229,872
+
+2,305,707
+
+2,322,722
+
+2,208,513
+
+2,375,715
+
+2,128,104
+
+1,917,799
+
+1,917,748
+
+1,931,955
+
+1,937,659
+
+1,968,362
+
+1,924,527
+
+568,966
+
+572,447
+
+512,768
+
+601,875
+
+587,519
+
+152,993
+
+150,169
+
+140,036
+
+96,955
+
+167,187
+
+166,000
+
+168,590
+
+206,415
+
+206,630
+
+207,403
+
+207,410
+
+208,551
+
+204,553
+
+197,045
+
+198,808
+
+186,862
+
+187,012
+
+189,641
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+129,481
+
+144,7
+
+124,846
+
+150,1
+
+119,144
+
+122,8
+
+80,030
+
+147,6
+
+150,305
+
+150,000
+
+128,4
+
+133,0
+
+157,721
+
+133,5
+
+160,572
+
+131,9
+
+161,865
+
+134,2
+
+165,116
+
+129,9
+
+163,663
+
+154,182
+
+135,7
+
+137,0
+
+148,486
+
+150,0
+
+144,948
+
+146,716
+
+145,974
+
+142,468
+
+145,311
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+Year
+
+2023
+
+2022
+
+2021
+
+2020
+
+ & [#note2020]
+
+2019
+
+ % [#note2019]
+
+2018
+
+ + [#note2018]
+
+2017
+
+ ^ [#note2017]
+
+2016
+
+2015
+
+2014
+
+2013
+
+ * [#note2013]
+
+2012
+
+2011
+
+2010
+
+2009
+
+2008
+
+2007
+
+2006
+
+2005
+
+2004
+
+2003
+
+2002
+
+2001
+
+2000
+
+#
+
+ Synthetic interviews were part of an effort to improve American Community Survey estimates of the group quarters population
+for substate areas. Synthetic interviews were created by imputing the characteristics of interviewed group quarters persons into
+group quarters facilities that were not in sample that year or period. Final actual interviews are the interviews obtained from
+sampled group quarters residents. For more information, read the ACS Group Quarters Small Area Estimation
+[https://www.census.gov/programs-surveys/acs/technical-documentation/user-notes/2011-01.html] user note.
+
+&
+
+ The effects of the pandemic on ACS activities in 2020 resulted in a lower number of addresses in sample as well as fewer
+
+interviews than a typical year. For more information, see the Analytic Report [https://www.census.gov/library/working-
+papers/2021/acs/2021_CensusBureau_01.html] . Additionally for 2020, a small number of vacant housing unit addresses that h
+
+Is this page helpful?
+
+✕
+
+ Yes 
+
+ No
+
+ 
+   
+been originally coded as non-interviews were converted to vacant units through a modeling process in order to improve ACS
+
+estimates. These were included as interviews in these counts. For more information, see the user note
+
+[https://www.census.gov/programs-surveys/acs/technical-documentation/user-notes/2021-05.html] .
+
+%
+
+ In 2019, noise injection replaced rounding as our method to reduce disclosure risk for interview counts. As part of that review,
+
+we determined that the sample counts did not require protection. For more information, see User Note
+
+[https://www.census.gov/programs-surveys/acs/technical-documentation/user-notes/2020-05.html] .
+
++
+
+ Sample and interview counts were rounded for 2018 to help reduce disclosure risk.
+
+^
+
+ Hurricanes caused a disruption of data collection activities from September through December of 2017 in Puerto Rico. The
+
+sample that was affected by this interruption in data collection has been omitted from the 2017 Puerto Rico sample and interview
+
+counts. For more information, see User Note. [https://www.census.gov/programs-surveys/acs/technical-documentation/user-
+
+notes/2018-02.html]
+
+*
+
+ As a result of the 2013 government shutdown, the ACS did not have a second mailing, a telephone followup, nor a person
+
+followup operation for the 2013 October panel. Only respondents from the ﬁrst mailing (Internet in the United States, paper
+questionnaire in Puerto Rico) contribute to the overall response for this panel. This caused a drop in the number of Final
+
+Interviews (housing units) for the 2013 sample year.
+
+[https://acsdatacommunity.prb.org/]
+
+Is this page helpful?
+
+✕
+
+ Yes 
+
+ No
+
+

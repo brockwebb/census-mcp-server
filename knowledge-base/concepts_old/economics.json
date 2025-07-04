@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "category": "economics",
+    "status": "auto_approved",
+    "concept_count": 8,
+    "confidence_threshold": "\u22650.9"
+  },
+  "concepts": [
+    {
+      "id": "cendata:MedianHouseholdIncome",
+      "label": "Median Household Income",
+      "bucket": "economics",
+      "universe": "Households",
+      "stat_method": "median",
+      "census_tables": [
+        "B19013"
+      ],
+      "definition": "The median income of households in the past 12 months (in inflation-adjusted dollars)",
+      "source_page": 45,
+      "status": "auto",
+      "confidence": 0.95
+    },
+    {
+      "id": "cendata:MeanHouseholdIncome",
+      "label": "Mean Household Income",
+      "bucket": "economics",
+      "universe": "Households",
+      "stat_method": "mean",
+      "census_tables": [
+        "B19025"
+      ],
+      "definition": "The average (arithmetic mean) income of households in the past 12 months",
+      "source_page": 45,
+      "status": "auto",
+      "confidence": 0.9
+    },
+    {
+      "id": "cendata:PovertyRate",
+      "label": "Poverty Rate",
+      "bucket": "economics",
+      "universe": "Population for whom poverty status is determined",
+      "stat_method": "rate",
+      "census_tables": [
+        "B17001"
+      ],
+      "definition": "Percentage of people whose income in the past 12 months was below the poverty threshold",
+      "source_page": 52,
+      "status": "auto",
+      "confidence": 0.95
+    },
+    {
+      "id": "cendata:UnemploymentRate",
+      "label": "Unemployment Rate",
+      "bucket": "economics",
+      "universe": "Civilian labor force 16 years and over",
+      "stat_method": "rate",
+      "census_tables": [
+        "B23025"
+      ],
+      "definition": "Percentage of the civilian labor force that is unemployed",
+      "source_page": 78,
+      "status": "auto",
+      "confidence": 0.9
+    },
+    {
+      "id": "cendata:MedianFamilyIncome",
+      "label": "Median Family Income",
+      "bucket": "economics",
+      "universe": "Families",
+      "stat_method": "median",
+      "census_tables": [
+        "B19113"
+      ],
+      "definition": "The median income of families in the past 12 months (in inflation-adjusted dollars)",
+      "source_page": 45,
+      "status": "auto",
+      "confidence": 0.9
+    },
+    {
+      "id": "cendata:PerCapitaIncome",
+      "label": "Per Capita Income",
+      "bucket": "economics",
+      "universe": "Total population",
+      "stat_method": "mean",
+      "census_tables": [
+        "B19301"
+      ],
+      "definition": "Mean income computed for every man, woman, and child in a particular group",
+      "source_page": 45,
+      "status": "auto",
+      "confidence": 0.9
+    },
+    {
+      "id": "cendata:ChildPoverty",
+      "label": "Child Poverty Rate",
+      "bucket": "economics",
+      "universe": "Population under 18 years for whom poverty status is determined",
+      "stat_method": "rate",
+      "census_tables": [
+        "B17001"
+      ],
+      "definition": "Percentage of children under 18 years with income below poverty level",
+      "source_page": 52,
+      "status": "auto",
+      "confidence": 0.9
+    },
+    {
+      "id": "cendata:CommuteTime",
+      "label": "Mean Commute Time",
+      "bucket": "economics",
+      "universe": "Workers 16 years and over who did not work at home",
+      "stat_method": "mean",
+      "census_tables": [
+        "B08013"
+      ],
+      "definition": "Mean travel time to work for workers",
+      "source_page": 91,
+      "status": "auto",
+      "confidence": 0.9
+    }
+  ]
+}

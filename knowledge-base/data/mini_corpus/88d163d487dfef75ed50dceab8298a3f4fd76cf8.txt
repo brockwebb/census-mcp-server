@@ -1,0 +1,158 @@
+United States Census Bureau | An official website of the United States Government
+
+Using the Census Data API
+With the American
+Community Survey: What
+Data Users Need to Know
+
+[/conten
+t/dam/C
+ensus/li
+brary/pu
+blicatio
+ns/2020
+/acs/ac
+s_api_h
+andboo
+k_2020.
+pdf]
+
+Using
+the
+Census
+Data
+API
+With
+the
+Americ
+an
+Comm
+unity
+Survey
+[6.6
+MB]
+
+America
+n
+Commu
+nity
+Survey
+
+February 2020
+
+An API, or “Application Programming
+Interface,” is a tool that programmers
+
+can use to access data more
+efficiently. It reduces the need for
+
+data storage and provides software
+developers, data scientists, and
+others with a set of standard
+commands to easily access
+statistics that can be incorporated
+
+into their programs and applications.
+
+This guide provides an overview of
+the Census Data API and how it can
+be used to access data from the U.S.
+Census Bureau’s American
+Community Survey (ACS), a source
+
+of up-to-date statistics on the social,
+economic, housing, and
+demographic characteristics of
+America’s communities.
+
+The guide is intended for software
+developers and researchers who
+want to access ACS data to create
+mobile- or Web-based apps, as well
+as nonprogrammers who want to
+create simple queries to access ACS
+data through an Internet browser.
+
+More detailed instructions on how to
+use the Census Data API are
+available in the Census
+Bureau’s Census Data API User
+Guide
+[/data/developers/guidance/api-
+user-guide.html] .
+
+Download by Section
+
+1. Overview of the Census Data API [<1.0 MB]
+
+[/content/dam/Census/library/publications/2020/acs/acs_api_handbook_2020_ch01.pdf]
+
+American Community Survey
+
+2. Working with the Census Data API [3.2 MB]
+
+[/content/dam/Census/library/publications/2020/acs/acs_api_handbook_2020_ch02.pdf]
+
+American Community Survey
+
+3. Additional Resources [<1.0 MB]
+
+[/content/dam/Census/library/publications/2020/acs/acs_api_handbook_2020_ch03.pdf]
+
+American Community Survey
+
+Others in Series
+
+Publication
+
+What Researchers Need to Know
+
+April 2020
+
+This handbook helps researchers learn more about estimates
+for geographic areas, how to access data products, sampling
+error, and more.
+
+[/programs-surveys/acs/library/handbooks/researchers.html]
+
+Publication
+
+What State and Local Government
+Users Need to Know
+
+August 2020
+
+This handbook helps data users from state and local
+governments learn about ACS data and provides examples of
+how ACS data can answer real-world questions.
+
+[/programs-surveys/acs/guidance/handbooks/state-local.html]
+
+Publication
+
+What ACS Public Use Microdata
+Sample File Users Need to Know
+
+February 2021
+
+This guide helps data users learn how to access PUMS files,
+create PUMS tables, and measure accuracy and margins of
+error.
+
+[/programs-surveys/acs/guidance/handbooks/pums.html]
+
+VIEW ALL [/PROGRAMS-SURVEYS/ACS/LIBRARY/HANDBOOKS.HTML]
+
+Related Information
+
+Developers [/developers/]
+
+Census Data API User Guide [/data/developers/guidance/api-user-guide.html]
+
+WEBINAR
+
+Using the Census API with the American Community Survey [/data/academy/webinars/2019/api-acs.html]
+
+Page Last Revised - October 7, 2024
+
+

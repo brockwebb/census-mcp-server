@@ -1,0 +1,453 @@
+# Economics Concepts - Review Queue (0.75-0.9 confidence)
+# Human review required - edit and mark as 'reviewed' when done
+
+## 1. Labor Force Participation Rate (confidence: 0.85)
+ID: cendata:LaborForceParticipationRate
+Universe: Population 16 years and over
+Stat Method: rate
+Tables: ['B23025']
+Definition: Percentage of the population 16 years and over that is in the civilian labor force
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 2. Employment Population Ratio (confidence: 0.85)
+ID: cendata:EmploymentPopulationRatio
+Universe: Population 16 years and over
+Stat Method: rate
+Tables: ['B23025']
+Definition: Percentage of the population 16 years and over that is employed
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 3. Median Earnings (confidence: 0.85)
+ID: cendata:MedianEarnings
+Universe: Population 16 years and over with earnings
+Stat Method: median
+Tables: ['B20002']
+Definition: The median earnings in the past 12 months for workers
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 4. Median Earnings for Males (confidence: 0.85)
+ID: cendata:MedianEarningsMale
+Universe: Male population 16 years and over with earnings
+Stat Method: median
+Tables: ['B20002']
+Definition: The median earnings in the past 12 months for male workers
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 5. Median Earnings for Females (confidence: 0.85)
+ID: cendata:MedianEarningsFemale
+Universe: Female population 16 years and over with earnings
+Stat Method: median
+Tables: ['B20002']
+Definition: The median earnings in the past 12 months for female workers
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 6. Employment by Industry (confidence: 0.85)
+ID: cendata:EmploymentByIndustry
+Universe: Civilian employed population 16 years and over
+Stat Method: count
+Tables: ['C24050']
+Definition: Distribution of employed workers across industry categories
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 7. Employment by Occupation (confidence: 0.85)
+ID: cendata:EmploymentByOccupation
+Universe: Civilian employed population 16 years and over
+Stat Method: count
+Tables: ['C24010']
+Definition: Distribution of employed workers across occupation categories
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 8. Workers by Class of Worker (confidence: 0.85)
+ID: cendata:WorkersByClass
+Universe: Civilian employed population 16 years and over
+Stat Method: count
+Tables: ['C24060']
+Definition: Distribution of workers by class of worker (private, government, self-employed)
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 9. Full-Time Workers (confidence: 0.85)
+ID: cendata:FullTimeWorkers
+Universe: Civilian employed population 16 years and over
+Stat Method: count
+Tables: ['B23001']
+Definition: Workers usually working 35 or more hours per week
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 10. Part-Time Workers (confidence: 0.85)
+ID: cendata:PartTimeWorkers
+Universe: Civilian employed population 16 years and over
+Stat Method: count
+Tables: ['B23001']
+Definition: Workers usually working less than 35 hours per week
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 11. Poverty by Age Group (confidence: 0.85)
+ID: cendata:PovertyByAge
+Universe: Population for whom poverty status is determined
+Stat Method: rate
+Tables: ['B17001']
+Definition: Poverty rates by age groups
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 12. Senior Poverty Rate (confidence: 0.85)
+ID: cendata:SeniorPoverty
+Universe: Population 65 years and over for whom poverty status is determined
+Stat Method: rate
+Tables: ['B17001']
+Definition: Percentage of people 65 years and over with income below poverty level
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 13. Family Poverty Rate (confidence: 0.85)
+ID: cendata:PovertyByFamily
+Universe: Families for whom poverty status is determined
+Stat Method: rate
+Tables: ['B17010']
+Definition: Percentage of families with income below poverty level
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 14. Wages and Salaries (confidence: 0.85)
+ID: cendata:WagesAndSalaries
+Universe: Households with wage and salary income
+Stat Method: median
+Tables: ['B19051']
+Definition: Wage and salary income from employment
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 15. Real Median Household Income (confidence: 0.85)
+ID: cendata:MedianHouseholdIncomeInflationAdjusted
+Universe: Households
+Stat Method: median
+Tables: ['B19013']
+Definition: Median household income adjusted for inflation to constant dollars
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 16. Gender Pay Gap (confidence: 0.80)
+ID: cendata:GenderPayGap
+Universe: Population 16 years and over with earnings
+Stat Method: ratio
+Tables: ['B20002']
+Definition: Ratio of female to male median earnings
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 17. Management Occupations (confidence: 0.80)
+ID: cendata:ManagementOccupations
+Universe: Civilian employed population 16 years and over
+Stat Method: count
+Tables: ['C24010']
+Definition: Workers employed in management, business, science, and arts occupations
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 18. Service Occupations (confidence: 0.80)
+ID: cendata:ServiceOccupations
+Universe: Civilian employed population 16 years and over
+Stat Method: count
+Tables: ['C24010']
+Definition: Workers employed in service occupations
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 19. Sales and Office Occupations (confidence: 0.80)
+ID: cendata:SalesOfficeOccupations
+Universe: Civilian employed population 16 years and over
+Stat Method: count
+Tables: ['C24010']
+Definition: Workers employed in sales and office occupations
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 20. Production, Transportation, and Material Moving Occupations (confidence: 0.80)
+ID: cendata:ProductionOccupations
+Universe: Civilian employed population 16 years and over
+Stat Method: count
+Tables: ['C24010']
+Definition: Workers employed in production, transportation, and material moving occupations
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 21. Self-Employed Workers (confidence: 0.80)
+ID: cendata:SelfEmployed
+Universe: Civilian employed population 16 years and over
+Stat Method: count
+Tables: ['C24060']
+Definition: Workers who are self-employed in own not incorporated business
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 22. Government Workers (confidence: 0.80)
+ID: cendata:GovernmentWorkers
+Universe: Civilian employed population 16 years and over
+Stat Method: count
+Tables: ['C24060']
+Definition: Workers employed by federal, state, or local government
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 23. Private Sector Workers (confidence: 0.80)
+ID: cendata:PrivateSectorWorkers
+Universe: Civilian employed population 16 years and over
+Stat Method: count
+Tables: ['C24060']
+Definition: Workers employed by private for-profit companies
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 24. Income by Household Size (confidence: 0.80)
+ID: cendata:IncomeByHouseholdSize
+Universe: Households
+Stat Method: median
+Tables: ['B19019']
+Definition: Median household income by number of persons in household
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 25. Income by Age of Householder (confidence: 0.80)
+ID: cendata:IncomeByAge
+Universe: Households
+Stat Method: median
+Tables: ['B19049']
+Definition: Median household income by age of householder
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 26. Income by Educational Attainment (confidence: 0.80)
+ID: cendata:IncomeByEducation
+Universe: Population 25 years and over with income
+Stat Method: median
+Tables: ['B20004']
+Definition: Median earnings by educational attainment
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 27. Deep Poverty Rate (confidence: 0.80)
+ID: cendata:DeepPoverty
+Universe: Population for whom poverty status is determined
+Stat Method: rate
+Tables: ['B17002']
+Definition: Percentage of people with income below 50% of poverty threshold
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 28. Near Poverty Rate (150% of poverty) (confidence: 0.80)
+ID: cendata:NearPoverty
+Universe: Population for whom poverty status is determined
+Stat Method: rate
+Tables: ['C17002']
+Definition: Percentage of people with income below 150% of poverty threshold
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 29. Low Income Rate (200% of poverty) (confidence: 0.80)
+ID: cendata:LowIncomeRate
+Universe: Population for whom poverty status is determined
+Stat Method: rate
+Tables: ['C17002']
+Definition: Percentage of people with income below 200% of poverty threshold
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 30. Social Security Income (confidence: 0.80)
+ID: cendata:SocialSecurityIncome
+Universe: Households with Social Security income
+Stat Method: median
+Tables: ['B19055']
+Definition: Social Security income from retirement, survivors, and disability benefits
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 31. SNAP/Food Stamp Benefits (confidence: 0.80)
+ID: cendata:SNAPBenefits
+Universe: Households receiving SNAP benefits
+Stat Method: count
+Tables: ['B22003']
+Definition: Households receiving Supplemental Nutrition Assistance Program benefits
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 32. Self-Employment Income (confidence: 0.80)
+ID: cendata:SelfEmploymentIncome
+Universe: Households with self-employment income
+Stat Method: median
+Tables: ['B19052']
+Definition: Net income from self-employment including business and farm income
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 33. Agriculture, Forestry, Fishing and Hunting (confidence: 0.80)
+ID: cendata:IndustryAgriculture
+Universe: Civilian employed population 16 years and over
+Stat Method: count
+Tables: ['C24050']
+Definition: Workers employed in agriculture, forestry, fishing and hunting industry
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 34. Construction Industry (confidence: 0.80)
+ID: cendata:IndustryConstruction
+Universe: Civilian employed population 16 years and over
+Stat Method: count
+Tables: ['C24050']
+Definition: Workers employed in construction industry
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 35. Manufacturing Industry (confidence: 0.80)
+ID: cendata:IndustryManufacturing
+Universe: Civilian employed population 16 years and over
+Stat Method: count
+Tables: ['C24050']
+Definition: Workers employed in manufacturing industry
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 36. Retail Trade Industry (confidence: 0.80)
+ID: cendata:IndustryRetailTrade
+Universe: Civilian employed population 16 years and over
+Stat Method: count
+Tables: ['C24050']
+Definition: Workers employed in retail trade industry
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 37. Healthcare and Social Assistance Industry (confidence: 0.80)
+ID: cendata:IndustryHealthcare
+Universe: Civilian employed population 16 years and over
+Stat Method: count
+Tables: ['C24050']
+Definition: Workers employed in healthcare and social assistance industry
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 38. Educational Services Industry (confidence: 0.80)
+ID: cendata:IndustryEducation
+Universe: Civilian employed population 16 years and over
+Stat Method: count
+Tables: ['C24050']
+Definition: Workers employed in educational services industry
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 39. Finance and Insurance Industry (confidence: 0.80)
+ID: cendata:IndustryFinance
+Universe: Civilian employed population 16 years and over
+Stat Method: count
+Tables: ['C24050']
+Definition: Workers employed in finance and insurance industry
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 40. Public Administration Industry (confidence: 0.80)
+ID: cendata:IndustryGovernment
+Universe: Civilian employed population 16 years and over
+Stat Method: count
+Tables: ['C24050']
+Definition: Workers employed in public administration industry
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 41. Accommodation and Food Services Industry (confidence: 0.80)
+ID: cendata:IndustryAccommodationFood
+Universe: Civilian employed population 16 years and over
+Stat Method: count
+Tables: ['C24050']
+Definition: Workers employed in accommodation and food services industry
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 42. Earnings by Education Level (confidence: 0.80)
+ID: cendata:EarningsByEducationLevel
+Universe: Population 25 years and over with earnings
+Stat Method: median
+Tables: ['B20004']
+Definition: Median earnings by detailed educational attainment levels
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 43. Teacher Median Earnings (confidence: 0.75)
+ID: cendata:TeacherSalary
+Universe: Educational instruction workers with earnings
+Stat Method: median
+Tables: ['B24122']
+Definition: Median earnings for workers in educational instruction and library occupations
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 44. Nurse Median Earnings (confidence: 0.75)
+ID: cendata:NurseSalary
+Universe: Healthcare practitioners with earnings
+Stat Method: median
+Tables: ['B24122']
+Definition: Median earnings for workers in healthcare practitioner occupations
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 45. Engineer Median Earnings (confidence: 0.75)
+ID: cendata:EngineerSalary
+Universe: Architecture and engineering workers with earnings
+Stat Method: median
+Tables: ['B24122']
+Definition: Median earnings for workers in architecture and engineering occupations
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 46. Work From Home (confidence: 0.75)
+ID: cendata:WorkFromHome
+Universe: Workers 16 years and over
+Stat Method: count
+Tables: ['B08301']
+Definition: Workers who primarily work from home
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 47. Multiple Job Holders (confidence: 0.75)
+ID: cendata:MultipleJobs
+Universe: Civilian employed population 16 years and over
+Stat Method: count
+Tables: ['B23022']
+Definition: Workers who hold multiple jobs
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 48. Weeks Worked Per Year (confidence: 0.75)
+ID: cendata:WeeksWorkedPerYear
+Universe: Population 16 years and over
+Stat Method: count
+Tables: ['B23022']
+Definition: Distribution of workers by number of weeks worked in the past 12 months
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 49. Income by Race and Ethnicity (confidence: 0.75)
+ID: cendata:IncomeByRace
+Universe: Households
+Stat Method: median
+Tables: ['B19013A', 'B19013B', 'B19013C', 'B19013D', 'B19013E', 'B19013F', 'B19013G', 'B19013H', 'B19013I']
+Definition: Median household income by race and Hispanic or Latino origin
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 50. Poverty by Race and Ethnicity (confidence: 0.75)
+ID: cendata:PovertyByRace
+Universe: Population for whom poverty status is determined
+Stat Method: rate
+Tables: ['B17001A', 'B17001B', 'B17001C', 'B17001D', 'B17001E', 'B17001F', 'B17001G', 'B17001H', 'B17001I']
+Definition: Poverty rates by race and Hispanic or Latino origin
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+

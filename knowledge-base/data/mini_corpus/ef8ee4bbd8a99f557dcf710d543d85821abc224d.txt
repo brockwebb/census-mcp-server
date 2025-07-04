@@ -1,0 +1,76 @@
+United States Census Bureau | An official website of the United States Government
+
+2016 American Community
+Survey Content Test:
+Journey to Work
+
+September 07, 2017
+Written by: Brian McKenzie
+
+ From February to June of 2016, the U.S. Census Bureau conducted the 2016 American Community
+
+Survey (ACS) Content Test, a field test of new and revised content. The primary objective was to test
+whether changes to question wording, response categories, and definitions of underlying constructs
+
+improve the quality of data collected. Both new and revised versions of existing questions were tested to
+
+determine if they could provide data of sufficient quality compared to a control version as measured by a
+
+series of metrics including item missing data rates, response distributions, comparisons with
+benchmarks, and response error. The results of this test will be used to help determine the future ACS
+
+content and to assess the expected data quality of revised questions and new questions added to the
+
+ACS.
+
+This report describes the results of the test for revised versions of the Mode of Commute and Time of
+Departure for Work questions.
+
+Others in Series
+
+Working Paper
+
+2016 American Community Survey
+Content Test: Class of Worker
+
+October 12, 2017
+
+Results from the 2016 ACS Content Test of the questions about
+Class of Worker and Employer Name.
+
+[/library/working-papers/2017/acs/2017_Martinez_01.html]
+
+Working Paper
+
+2022 American Community Survey
+Content Test Evaluation Report:
+Unit-Level Response
+
+October 2023
+
+Results from the 2022 ACS Content Test report for the unit-level
+response analysis.
+
+[/library/working-papers/2023/acs/2023_Spiers_01.html]
+
+Working Paper
+
+2016 American Community Survey
+Content Test: Weeks Worked
+
+September 08, 2017
+
+Results from the 2016 ACS Content Test of the question about
+Weeks Worked
+
+[/library/working-papers/2017/acs/2017_Smith_01.html]
+
+Related Information
+
+Content Changes [/programs-surveys/acs/methodology/content-test.html]
+
+ACS Publications and Working Papers [/programs-surveys/acs/library/publications-and-working-papers.html]
+
+Page Last Revised - October 8, 2021
+
+

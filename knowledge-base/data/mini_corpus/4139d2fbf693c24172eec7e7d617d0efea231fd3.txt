@@ -1,0 +1,140 @@
+United States Census Bureau | An official website of the United States Government
+
+The Emergency and
+Transitional Shelter
+Population: 2020
+
+October 31, 2024
+Report Number: C2020SR-01
+Written by: William Koerber, Erik Schmidt, and Steven Wilson
+
+Introduction
+
+This report is the third by the U.S. Census Bureau focusing on the population in emergency and transitional shelters
+and their demographic characteristics.  Special reports were written after the 2000 and 2010 Censuses were
+
+conducted.  The 2020 report is formatted similarly to the 2010 report for easier comparison. According to the 2020
+
+Census, there were 188,889 people in emergency and transitional shelters in the United States. This amounted to 2.3
+
+percent of the 8.2 million people counted in group quarters (GQs) in the 2020 Census.
+
+Emergency and transitional shelter data were collected as part of service-based enumeration (SBE) during the 2020
+Census Group Quarters operations. The 2020 SBE provided an opportunity for people without conventional housing or
+people experiencing homelessness to be included in the census by enumerating them at places where they received
+
+services or at preidentified outdoor locations. In addition to emergency and transitional shelters, people were
+enumerated at soup kitchens, regularly scheduled food vans, and targeted nonsheltered outdoor locations (e.g.,
+people staying outside in certain preidentified places like encampments under bridges or in parking lots).
+
+The Emergency and Transitional Shelter Population: 2020 [<1.0
+MB]
+
+[https://www2.census.gov/library/publications/decennial/2020/c2020sr-
+01.pdf]
+
+Others in Series
+
+Publication
+
+Disclosure Avoidance and the 2020
+Census: How SafeTab-H Works
+
+August 01, 2024
+
+This brief describes how differential privacy works and how it is
+applied to the 2020 Census Detailed DHC-B.
+
+[/library/publications/2024/dec/c2020br-11.html]
+
+Publication
+
+Disclosure Avoidance and the
+Supplemental DHC: How PHSafe
+Works
+
+September 19, 2024
+
+This brief describes how differential privacy works and how it is
+applied to the 2020 Census Supplemental DHC File.
+
+[/library/publications/2024/dec/c2020br-12.html]
+
+Publication
+
+Disability Status: 2000
+
+March 01, 2003
+
+This report presents Census 2000 data on the disability status
+of people aged 5 and older in the civilian noninstitutionalized
+population for the United States.
+
+[/library/publications/2003/dec/c2kbr-17.html]
+
+VIEW ALL [/LIBRARY/PUBLICATIONS/TIME-SERIES/P60.HTML]
+
+Related Information
+
+Decennial Census of Population and Housing Publications [/programs-surveys/decennial-census/library/publications.html]
+
+You May Be Interested In
+
+America Counts Story
+
+America Counts Story
+
+America Counts: Stories
+
+New Census Tool
+
+About Income & Poverty
+
+Provides Child Poverty
+Rates in All School
+
+National Poverty in
+
+America Awareness
+Month: Measuring
+
+Districts
+
+Poverty
+
+Explore various America
+
+The 2019 SAIPE School
+
+The Census Bureau’s
+
+Counts stories on the
+topic of income and
+
+poverty.
+
+[/topics/income-
+poverty/stories.html]
+
+District Profiles data
+visualization provides
+
+demographic and
+
+2020 Supplemental
+Poverty Measure rate
+
+was 2.3 percentage
+
+[/library/stories/2021/10/census-
+tool-provides-access-to-child-
+poverty-rates-every-united-states-
+school-district.html]
+
+[/library/stories/2022/01/nationa
+l-poverty-in-america-awareness-
+month-measuring-poverty.html]
+
+Page Last Revised - October 31, 2024
+
+

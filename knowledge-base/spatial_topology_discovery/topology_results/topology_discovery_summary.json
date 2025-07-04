@@ -1,0 +1,832 @@
+{
+  "total_variables": 948,
+  "spatial_dimensions": 3,
+  "discovered_clusters": 21,
+  "noise_points": 38,
+  "silhouette_score": 0.6686949133872986,
+  "topology_quality": "excellent",
+  "cluster_analysis": {
+    "cluster_0": {
+      "size": 18,
+      "table_families": {
+        "B99": 18
+      },
+      "concepts": {
+        "Allocation of Poverty Status in the Past 12 Months for Families": 4,
+        "Allocation of Poverty Status in the Past 12 Months for Unrelated Individuals": 4,
+        "Allocation of Earnings in the Past 12 Months for the Population 16 Years and Over - Percent of Earnings Allocated": 2,
+        "Allocation of Family Income in the Past 12 Months -- Percent of Income Allocated": 2,
+        "Allocation of Individuals' Income in the Past 12 Months for the Population 15 Years and Over - Percent of Income Allocated": 2
+      },
+      "complexity_distribution": {
+        "calculated_rate": 18
+      },
+      "survey_distribution": {
+        "acs5": 11,
+        "acs1": 7
+      },
+      "avg_agreement": 0.5790810775946056,
+      "avg_confidence": 0.7650000000000001,
+      "sample_variables": [
+        {
+          "variable_id": "B99201_003E",
+          "label": "Estimate!!Percent of earnings allocated --!!Dollar value of zero allocated"
+        },
+        {
+          "variable_id": "B99201_002E",
+          "label": "Estimate!!Percent of earnings allocated --!!No earnings allocated"
+        },
+        {
+          "variable_id": "B99193_003E",
+          "label": "Estimate!!Percent of income allocated --!!Dollar value of zero allocated"
+        }
+      ]
+    },
+    "cluster_1": {
+      "size": 105,
+      "table_families": {
+        "B25": 102,
+        "C25": 1,
+        "B07": 1,
+        "B99": 1
+      },
+      "concepts": {
+        "Tenure by Household Size by Units in Structure": 6,
+        "Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) by Gross Rent": 5,
+        "Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) by Value": 4,
+        "Household Income by Gross Rent as a Percentage of Household Income in the Past 12 Months": 3,
+        "Tenure by Age of Householder by Year Householder Moved Into Unit": 3
+      },
+      "complexity_distribution": {
+        "simple_count": 71,
+        "unknown": 16,
+        "statistical_measure": 16,
+        "calculated_rate": 2
+      },
+      "survey_distribution": {
+        "acs1": 56,
+        "acs5": 49
+      },
+      "avg_agreement": 0.5926354806723237,
+      "avg_confidence": 0.7529142857142856,
+      "sample_variables": [
+        {
+          "variable_id": "B25124_043E",
+          "label": "Estimate!!Total:!!Renter occupied:!!1-person household:!!20 to 49"
+        },
+        {
+          "variable_id": "B25011_021E",
+          "label": "Estimate!!Total:!!Owner occupied:!!Nonfamily households:!!Householder living alone:!!Householder 65 years and over"
+        },
+        {
+          "variable_id": "B25074_049E",
+          "label": "Estimate!!Total:!!$75,000 to $99,999:!!20.0 to 24.9 percent"
+        }
+      ]
+    },
+    "cluster_2": {
+      "size": 67,
+      "table_families": {
+        "B19": 62,
+        "B06": 2,
+        "B29": 1,
+        "B25": 1,
+        "B17": 1
+      },
+      "concepts": {
+        "Aggregate Family Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) by Family Type by Age of Householder": 5,
+        "Aggregate Family Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) by Number of Workers in Family": 3,
+        "Age of Householder by Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (Hispanic or Latino Householder)": 3,
+        "Age of Householder by Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (Some Other Race Alone Householder)": 3,
+        "Age of Householder by Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (White Alone, Not Hispanic or Latino Householder)": 2
+      },
+      "complexity_distribution": {
+        "simple_count": 29,
+        "unknown": 18,
+        "statistical_measure": 18,
+        "calculated_rate": 2
+      },
+      "survey_distribution": {
+        "acs5": 39,
+        "acs1": 28
+      },
+      "avg_agreement": 0.5652828568563278,
+      "avg_confidence": 0.7382686567164178,
+      "sample_variables": [
+        {
+          "variable_id": "B19101A_013E",
+          "label": "Estimate!!Total:!!$75,000 to $99,999"
+        },
+        {
+          "variable_id": "B19001H_008E",
+          "label": "Estimate!!Total:!!$35,000 to $39,999"
+        },
+        {
+          "variable_id": "B19082_006E",
+          "label": "Estimate!!Top 5 Percent"
+        }
+      ]
+    },
+    "cluster_3": {
+      "size": 10,
+      "table_families": {
+        "B26": 10
+      },
+      "concepts": {
+        "Group Quarters Type (5 Types) by Receipt of Food Stamps/SNAP in the Past 12 Months": 5,
+        "Group Quarters Type (3 Types) by Receipt of Food Stamps/SNAP in the Past 12 Months": 5
+      },
+      "complexity_distribution": {
+        "unknown": 10
+      },
+      "survey_distribution": {
+        "acs1": 6,
+        "acs5": 4
+      },
+      "avg_agreement": 0.5378844603129795,
+      "avg_confidence": 0.7022999999999999,
+      "sample_variables": [
+        {
+          "variable_id": "B26220_006E",
+          "label": "Estimate!!Group quarters population:!!Institutionalized group quarters population:!!Did not receive Food Stamps/SNAP in the past 12 months"
+        },
+        {
+          "variable_id": "B26220_011E",
+          "label": "Estimate!!Group quarters population:!!Institutionalized group quarters population:!!Nursing facilities/skilled nursing facilities:!!Received Food Stamps/SNAP in the past 12 months"
+        },
+        {
+          "variable_id": "B26220_001E",
+          "label": "Estimate!!Group quarters population:"
+        }
+      ]
+    },
+    "cluster_4": {
+      "size": 19,
+      "table_families": {
+        "B98": 19
+      },
+      "concepts": {
+        "Group Quarters Population Response and Nonresponse Rates With Reasons for Noninterviews": 10,
+        "Housing Unit Response and Nonresponse Rates With Reasons for Noninterviews": 9
+      },
+      "complexity_distribution": {
+        "calculated_rate": 19
+      },
+      "survey_distribution": {
+        "acs5": 12,
+        "acs1": 7
+      },
+      "avg_agreement": 0.577204786915528,
+      "avg_confidence": 0.7405263157894737,
+      "sample_variables": [
+        {
+          "variable_id": "B98022_005E",
+          "label": "Estimate!!Nonresponse Rate:!!Resident Temporarily Absent"
+        },
+        {
+          "variable_id": "B98022_001E",
+          "label": "Estimate!!Response Rate"
+        },
+        {
+          "variable_id": "B98021_006E",
+          "label": "Estimate!!Nonresponse Rate:!!Temporarily Absent"
+        }
+      ]
+    },
+    "cluster_5": {
+      "size": 19,
+      "table_families": {
+        "B16": 9,
+        "B06": 4,
+        "B26": 3,
+        "C08": 1,
+        "B08": 1
+      },
+      "concepts": {
+        "Place of Birth by Language Spoken at Home and Ability to Speak English in the United States": 3,
+        "Group Quarters Type (5 Types) by Language Spoken at Home by Ability to Speak English": 3,
+        "Citizenship Status by Age by Language Spoken at Home and Ability to Speak English for the Population 5 Years and Over": 2,
+        "Means of Transportation to Work by Language Spoken at Home and Ability to Speak English for Workplace Geography": 2,
+        "Language Spoken at Home by Ability to Speak English for the Population 5 Years and Over": 2
+      },
+      "complexity_distribution": {
+        "simple_count": 19
+      },
+      "survey_distribution": {
+        "acs5": 10,
+        "acs1": 9
+      },
+      "avg_agreement": 0.5638064774982913,
+      "avg_confidence": 0.7621578947368421,
+      "sample_variables": [
+        {
+          "variable_id": "B06007_030E",
+          "label": "Estimate!!Total:!!Native; born outside the United States:!!Speak other languages:"
+        },
+        {
+          "variable_id": "B26213_005E",
+          "label": "Estimate!!Total:!!Speak Language other than English:!!Speak English less than \"very well\""
+        },
+        {
+          "variable_id": "B16008_003E",
+          "label": "Estimate!!Total:!!Native population:!!5 to 17 years:"
+        }
+      ]
+    },
+    "cluster_6": {
+      "size": 77,
+      "table_families": {
+        "B08": 60,
+        "C08": 16,
+        "B25": 1
+      },
+      "concepts": {
+        "Means of Transportation to Work by Industry for Workplace Geography": 6,
+        "Means of Transportation to Work by Industry": 6,
+        "Means of Transportation to Work by Time of Departure to Go to Work": 4,
+        "Aggregate Travel Time to Work (in Minutes) of Workers by Time of Departure to Go to Work": 4,
+        "Sex of Workers by Means of Transportation to Work for Workplace Geography": 3
+      },
+      "complexity_distribution": {
+        "simple_count": 66,
+        "unknown": 11
+      },
+      "survey_distribution": {
+        "acs1": 54,
+        "acs5": 23
+      },
+      "avg_agreement": 0.5569465220826012,
+      "avg_confidence": 0.7465714285714286,
+      "sample_variables": [
+        {
+          "variable_id": "B08006_007E",
+          "label": "Estimate!!Total:!!Car, truck, or van:!!Carpooled:!!In 4-or-more-person carpool"
+        },
+        {
+          "variable_id": "C08301_008E",
+          "label": "Estimate!!Total:!!Public transportation (excluding taxicab)"
+        },
+        {
+          "variable_id": "B08601_012E",
+          "label": "Estimate!!Total:!!Public transportation (excluding taxicab):!!Subway or elevated rail"
+        }
+      ]
+    },
+    "cluster_7": {
+      "size": 49,
+      "table_families": {
+        "B26": 49
+      },
+      "concepts": {
+        "Group Quarters Type (5 Types) by Sex by Age": 9,
+        "Group Quarters Type (3 Types) by Sex by Age": 4,
+        "Group Quarters Type (5 Types) by Sex With Earnings in the Past 12 Months": 3,
+        "Group Quarters Type (5 Types) by Occupation": 3,
+        "Group Quarters Type (5 Types) by Age by Disability Status": 3
+      },
+      "complexity_distribution": {
+        "simple_count": 48,
+        "unknown": 1
+      },
+      "survey_distribution": {
+        "acs1": 27,
+        "acs5": 22
+      },
+      "avg_agreement": 0.5324402588727523,
+      "avg_confidence": 0.7011428571428572,
+      "sample_variables": [
+        {
+          "variable_id": "B26201_077E",
+          "label": "Estimate!!Total:!!Group quarters population:!!Institutionalized group quarters population:!!85 years and over"
+        },
+        {
+          "variable_id": "B26114_018E",
+          "label": "Estimate!!Total:!!Group quarters population:!!Institutionalized group quarters population:!!Adult correctional facilities:!!Not in labor force"
+        },
+        {
+          "variable_id": "B26217_023E",
+          "label": "Estimate!!Total:!!Group quarters population:!!Noninstitutionalized group quarters population:!!College/university student housing:!!Male"
+        }
+      ]
+    },
+    "cluster_8": {
+      "size": 250,
+      "table_families": {
+        "B24": 228,
+        "C24": 18,
+        "B08": 2,
+        "B23": 1,
+        "B99": 1
+      },
+      "concepts": {
+        "Detailed Occupation for the Full-Time, Year-Round Civilian Employed Female Population 16 Years and Over": 23,
+        "Detailed Occupation for the Civilian Employed Female Population 16 Years and Over": 20,
+        "Detailed Occupation for the Civilian Employed Male Population 16 Years and Over": 19,
+        "Detailed Occupation for the Full-Time, Year-Round Civilian Employed Male Population 16 Years and Over": 15,
+        "Detailed Occupation for the Civilian Employed Population 16 Years and Over": 15
+      },
+      "complexity_distribution": {
+        "simple_count": 219,
+        "unknown": 23,
+        "calculated_rate": 8
+      },
+      "survey_distribution": {
+        "acs1": 145,
+        "acs5": 105
+      },
+      "avg_agreement": 0.5831460137949671,
+      "avg_confidence": 0.75402,
+      "sample_variables": [
+        {
+          "variable_id": "C24050_009E",
+          "label": "Estimate!!Total:!!Finance and insurance, and real estate, and rental and leasing"
+        },
+        {
+          "variable_id": "B24010_214E",
+          "label": "Estimate!!Total:!!Female:!!Management, business, science, and arts occupations (0010:3550):!!Healthcare practitioners and technical occupations (3000:3550):!!Health technologists and technicians (3300:3545)"
+        },
+        {
+          "variable_id": "B24122_423E",
+          "label": "Estimate!!Total:!!Hazardous materials removal workers"
+        }
+      ]
+    },
+    "cluster_9": {
+      "size": 22,
+      "table_families": {
+        "B20": 21,
+        "B19": 1
+      },
+      "concepts": {
+        "Sex by Work Experience in the Past 12 Months by Earnings in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) for the Population 16 Years and Over": 4,
+        "Sex by Work Experience in the Past 12 Months by Earnings in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) for the Population 16 Years and Over (Native Hawaiian and Other Pacific Islander Alone)": 3,
+        "Sex by Work Experience in the Past 12 Months by Earnings in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) for the Population 16 Years and Over (White Alone, Not Hispanic or Latino)": 2,
+        "Sex by Work Experience in the Past 12 Months by Earnings in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) for the Population 16 Years and Over (Hispanic or Latino)": 2,
+        "Median Earnings in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) by Sex for the Population 16 Years and Over With Earnings in the Past 12 Months": 2
+      },
+      "complexity_distribution": {
+        "simple_count": 19,
+        "statistical_measure": 2,
+        "unknown": 1
+      },
+      "survey_distribution": {
+        "acs1": 17,
+        "acs5": 5
+      },
+      "avg_agreement": 0.5446260112562737,
+      "avg_confidence": 0.6966818181818183,
+      "sample_variables": [
+        {
+          "variable_id": "B20005_069E",
+          "label": "Estimate!!Total:!!Female:!!Worked full-time, year-round in the past 12 months:!!With earnings:!!$55,000 to $64,999"
+        },
+        {
+          "variable_id": "B20005E_078E",
+          "label": "Estimate!!Total:!!Female:!!Other:!!With earnings:!!$5,000 to $7,499"
+        },
+        {
+          "variable_id": "B20017E_007E",
+          "label": "Estimate!!Median earnings in the past 12 months (in 2023 inflation-adjusted dollars) --!!Total:!!Female --!!Total!!Other"
+        }
+      ]
+    },
+    "cluster_10": {
+      "size": 15,
+      "table_families": {
+        "B20": 15
+      },
+      "concepts": {
+        "Sex by Work Experience in the Past 12 Months by Earnings in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) for the Population 16 Years and Over (Two or More Races)": 3,
+        "Sex by Work Experience in the Past 12 Months by Earnings in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) for the Population 16 Years and Over (White Alone)": 3,
+        "Sex by Work Experience in the Past 12 Months by Earnings in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) for the Population 16 Years and Over (Asian Alone)": 2,
+        "Sex by Work Experience in the Past 12 Months by Earnings in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) for the Population 16 Years and Over (White Alone, Not Hispanic or Latino)": 1,
+        "Sex by Earnings in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months": 1
+      },
+      "complexity_distribution": {
+        "simple_count": 15
+      },
+      "survey_distribution": {
+        "acs5": 10,
+        "acs1": 5
+      },
+      "avg_agreement": 0.5133656061717442,
+      "avg_confidence": 0.6905999999999998,
+      "sample_variables": [
+        {
+          "variable_id": "B20005G_076E",
+          "label": "Estimate!!Total:!!Female:!!Other:!!With earnings:!!$1 to $2,499 or loss"
+        },
+        {
+          "variable_id": "B20005H_092E",
+          "label": "Estimate!!Total:!!Female:!!Other:!!With earnings:!!$55,000 to $64,999"
+        },
+        {
+          "variable_id": "B20005A_065E",
+          "label": "Estimate!!Total:!!Female:!!Worked full-time, year-round in the past 12 months:!!With earnings:!!$35,000 to $39,999"
+        }
+      ]
+    },
+    "cluster_11": {
+      "size": 26,
+      "table_families": {
+        "B15": 7,
+        "B14": 6,
+        "C15": 5,
+        "B28": 3,
+        "B99": 1
+      },
+      "concepts": {
+        "Sex by Age by Educational Attainment for the Population 18 Years and Over": 3,
+        "Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over": 2,
+        "Field of Bachelor's Degree for First Major for the Population 25 Years and Over (Asian Alone)": 2,
+        "Sex by Educational Attainment for the Population 25 Years and Over (Some Other Race Alone)": 2,
+        "Allocation of Household Internet Subscription Type": 1
+      },
+      "complexity_distribution": {
+        "simple_count": 25,
+        "unknown": 1
+      },
+      "survey_distribution": {
+        "acs1": 13,
+        "acs5": 13
+      },
+      "avg_agreement": 0.5820029277395415,
+      "avg_confidence": 0.7163461538461539,
+      "sample_variables": [
+        {
+          "variable_id": "B99283_003E",
+          "label": "Estimate!!Total:!!Allocated:!!Broadband such as cable, fiberoptic, or DSL, satellite, and other service"
+        },
+        {
+          "variable_id": "B15001_035E",
+          "label": "Estimate!!Total:!!Male:!!65 years and over:"
+        },
+        {
+          "variable_id": "B14007D_008E",
+          "label": "Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 4"
+        }
+      ]
+    },
+    "cluster_12": {
+      "size": 14,
+      "table_families": {
+        "B17": 13,
+        "B10": 1
+      },
+      "concepts": {
+        "Poverty Status in the Past 12 Months of Families by Family Type by Presence of Related Children Under 18 Years by Age of Related Children (Some Other Race Alone Householder)": 2,
+        "Poverty Status in the Past 12 Months of Families by Family Type by Presence of Related Children Under 18 Years by Age of Related Children (Asian Alone Householder)": 2,
+        "Poverty Status in the Past 12 Months by Household Type by Age of Householder": 2,
+        "Poverty Status in the Past 12 Months of Families by Household Type by Number of Own Children Under 18 Years": 2,
+        "Poverty Status in the Past 12 Months of Families by Household Type by Number of Related Children Under 18 Years": 2
+      },
+      "complexity_distribution": {
+        "simple_count": 13,
+        "statistical_measure": 1
+      },
+      "survey_distribution": {
+        "acs1": 8,
+        "acs5": 6
+      },
+      "avg_agreement": 0.5845372750807781,
+      "avg_confidence": 0.7379999999999998,
+      "sample_variables": [
+        {
+          "variable_id": "B17010F_028E",
+          "label": "Estimate!!Total:!!Income in the past 12 months at or above poverty level:!!Married-couple family:!!No related children of the householder under 18 years"
+        },
+        {
+          "variable_id": "B17010D_038E",
+          "label": "Estimate!!Total:!!Income in the past 12 months at or above poverty level:!!Other family:!!Female householder, no spouse present:!!With related children of the householder under 18 years:!!Under 5 years only"
+        },
+        {
+          "variable_id": "B17010H_012E",
+          "label": "Estimate!!Total:!!Income in the past 12 months below poverty level:!!Other family:!!Male householder, no spouse present:!!With related children of the householder under 18 years:!!Under 5 years only"
+        }
+      ]
+    },
+    "cluster_13": {
+      "size": 51,
+      "table_families": {
+        "B17": 43,
+        "B11": 3,
+        "B23": 3,
+        "B25": 1,
+        "C19": 1
+      },
+      "concepts": {
+        "Age by Ratio of Income to Poverty Level in the Past 12 Months": 6,
+        "Poverty Status in the Past 12 Months by Age (White Alone, Not Hispanic or Latino)": 4,
+        "Ratio of Income to Poverty Level in the Past 12 Months of Families by Family Type by Presence of Related Children Under 18 Years by Age of Related Children": 3,
+        "Poverty Status in the Past 12 Months by Age (American Indian and Alaska Native Alone)": 2,
+        "Poverty Status in the Past 12 Months by Sex by Age (Asian Alone)": 2
+      },
+      "complexity_distribution": {
+        "simple_count": 51
+      },
+      "survey_distribution": {
+        "acs1": 26,
+        "acs5": 25
+      },
+      "avg_agreement": 0.589039009792798,
+      "avg_confidence": 0.7584705882352941,
+      "sample_variables": [
+        {
+          "variable_id": "B17020C_005E",
+          "label": "Estimate!!Total:!!Income in the past 12 months below poverty level:!!12 to 17 years"
+        },
+        {
+          "variable_id": "B11006_014E",
+          "label": "Estimate!!Total:!!Households with no people 60 years and over:!!Family households:!!Other family:!!Female householder, no spouse present"
+        },
+        {
+          "variable_id": "B17020H_002E",
+          "label": "Estimate!!Total:!!Income in the past 12 months below poverty level:"
+        }
+      ]
+    },
+    "cluster_14": {
+      "size": 44,
+      "table_families": {
+        "B07": 17,
+        "B05": 16,
+        "B06": 9,
+        "C05": 2
+      },
+      "concepts": {
+        "Geographical Mobility in the Past Year by Age for Residence 1 Year Ago in Puerto Rico": 6,
+        "Place of Birth for the Foreign-Born Population in the United States": 5,
+        "Place of Birth by Year of Entry by Citizenship Status for the Foreign-Born Population": 4,
+        "Geographical Mobility in the Past Year by Age for Current Residence in Puerto Rico": 3,
+        "Place of Birth by Age in Puerto Rico": 3
+      },
+      "complexity_distribution": {
+        "simple_count": 44
+      },
+      "survey_distribution": {
+        "acs5": 26,
+        "acs1": 18
+      },
+      "avg_agreement": 0.5645692921691127,
+      "avg_confidence": 0.7427045454545455,
+      "sample_variables": [
+        {
+          "variable_id": "B05005PR_011E",
+          "label": "Estimate!!Total:!!Entered 2000 to 2009:!!Foreign-born:!!Not a U.S. citizen"
+        },
+        {
+          "variable_id": "B05007_054E",
+          "label": "Estimate!!Total:!!Latin America:!!Central America:"
+        },
+        {
+          "variable_id": "B05006_053E",
+          "label": "Estimate!!Total:!!Asia:!!Eastern Asia:!!Japan"
+        }
+      ]
+    },
+    "cluster_15": {
+      "size": 18,
+      "table_families": {
+        "B07": 13,
+        "B06": 2,
+        "C07": 2,
+        "COU": 1
+      },
+      "concepts": {
+        "Geographical Mobility in the Past Year by Age for Current Residence in the United States": 3,
+        "Geographical Mobility in the Past Year by Age for Residence 1 Year Ago in the United States": 2,
+        "Geographical Mobility in the Past Year by Marital Status for Current Residence in the United States": 2,
+        "Place of Birth by Age in the United States": 2,
+        "Geographical Mobility in the Past Year by Tenure for Residence 1 Year Ago in the United States": 2
+      },
+      "complexity_distribution": {
+        "simple_count": 17,
+        "unknown": 1
+      },
+      "survey_distribution": {
+        "acs1": 14,
+        "acs5": 4
+      },
+      "avg_agreement": 0.562565334855564,
+      "avg_confidence": 0.77,
+      "sample_variables": [
+        {
+          "variable_id": "B07401_077E",
+          "label": "Estimate!!Total living in area 1 year ago:!!Moved to different state:!!60 to 64 years"
+        },
+        {
+          "variable_id": "B07001_085E",
+          "label": "Estimate!!Total:!!Moved from abroad:!!20 to 24 years"
+        },
+        {
+          "variable_id": "B07004I_005E",
+          "label": "Estimate!!Total:!!Moved from different state"
+        }
+      ]
+    },
+    "cluster_16": {
+      "size": 18,
+      "table_families": {
+        "B12": 15,
+        "B13": 2,
+        "B99": 1
+      },
+      "concepts": {
+        "Sex by Marital Status by Age for the Population 15 Years and Over": 2,
+        "Median Age at First Marriage (Black or African American Alone)": 2,
+        "Median Age at First Marriage (Hispanic or Latino)": 2,
+        "Median Age at First Marriage (American Indian and Alaska Native Alone)": 2,
+        "Sex by Marital Status for the Population 15 Years and Over (Asian Alone)": 1
+      },
+      "complexity_distribution": {
+        "statistical_measure": 11,
+        "simple_count": 7
+      },
+      "survey_distribution": {
+        "acs5": 10,
+        "acs1": 8
+      },
+      "avg_agreement": 0.5567215281961456,
+      "avg_confidence": 0.7615000000000001,
+      "sample_variables": [
+        {
+          "variable_id": "B12002_152E",
+          "label": "Estimate!!Total:!!Female:!!Now married:!!Married, spouse absent:!!Other:!!50 to 54 years"
+        },
+        {
+          "variable_id": "B12002D_009E",
+          "label": "Estimate!!Total:!!Female:!!Never married"
+        },
+        {
+          "variable_id": "B99126_001E",
+          "label": "Estimate!!Total:"
+        }
+      ]
+    },
+    "cluster_17": {
+      "size": 14,
+      "table_families": {
+        "B18": 12,
+        "C18": 1,
+        "B99": 1
+      },
+      "concepts": {
+        "Age by Disability Status (Hispanic or Latino)": 3,
+        "Age by Disability Status by Health Insurance Coverage Status": 2,
+        "Sex by Age by Ambulatory Difficulty": 2,
+        "Age by Disability Status (American Indian and Alaska Native Alone)": 1,
+        "Sex by Age by Vision Difficulty": 1
+      },
+      "complexity_distribution": {
+        "simple_count": 14
+      },
+      "survey_distribution": {
+        "acs5": 8,
+        "acs1": 6
+      },
+      "avg_agreement": 0.5887384360907028,
+      "avg_confidence": 0.7630714285714287,
+      "sample_variables": [
+        {
+          "variable_id": "B18135_031E",
+          "label": "Estimate!!Total:!!65 years and over:!!No disability:!!With health insurance coverage:"
+        },
+        {
+          "variable_id": "B18101I_010E",
+          "label": "Estimate!!Total:!!65 years and over:!!No disability"
+        },
+        {
+          "variable_id": "B18101C_009E",
+          "label": "Estimate!!Total:!!65 years and over:!!With a disability"
+        }
+      ]
+    },
+    "cluster_18": {
+      "size": 25,
+      "table_families": {
+        "B27": 17,
+        "C27": 6,
+        "B99": 2
+      },
+      "concepts": {
+        "Public Health Insurance Status by Sex by Age": 3,
+        "Health Insurance Coverage Status and Type by Citizenship Status": 2,
+        "TRICARE/Military Health Coverage by Sex by Age": 2,
+        "Health Insurance Coverage Status and Type by Age by Educational Attainment": 2,
+        "Medicare Coverage by Sex by Age": 2
+      },
+      "complexity_distribution": {
+        "simple_count": 25
+      },
+      "survey_distribution": {
+        "acs1": 20,
+        "acs5": 5
+      },
+      "avg_agreement": 0.5817007640021188,
+      "avg_confidence": 0.7639199999999999,
+      "sample_variables": [
+        {
+          "variable_id": "B27020_001E",
+          "label": "Estimate!!Total:"
+        },
+        {
+          "variable_id": "C27005_021E",
+          "label": "Estimate!!Total:!!Female:!!65 years and over:!!No direct-purchase health insurance"
+        },
+        {
+          "variable_id": "C27001I_006E",
+          "label": "Estimate!!Total:!!19 to 64 years:!!With health insurance coverage"
+        }
+      ]
+    },
+    "cluster_19": {
+      "size": 28,
+      "table_families": {
+        "B01": 18,
+        "B05": 4,
+        "B04": 2,
+        "C23": 1,
+        "C01": 1
+      },
+      "concepts": {
+        "Sex by Age by Nativity and Citizenship Status (Native Hawaiian and Other Pacific Islander Alone)": 3,
+        "Median Age by Sex (Native Hawaiian and Other Pacific Islander Alone)": 2,
+        "Median Age by Sex (White Alone)": 2,
+        "Median Age by Sex (Some Other Race Alone)": 2,
+        "Median Age by Sex (Two or More Races)": 2
+      },
+      "complexity_distribution": {
+        "simple_count": 17,
+        "statistical_measure": 11
+      },
+      "survey_distribution": {
+        "acs1": 15,
+        "acs5": 13
+      },
+      "avg_agreement": 0.5363082177207178,
+      "avg_confidence": 0.7309285714285715,
+      "sample_variables": [
+        {
+          "variable_id": "B05003E_017E",
+          "label": "Estimate!!Total:!!Female:!!Under 18 years:!!Foreign-born:!!Naturalized U.S. citizen"
+        },
+        {
+          "variable_id": "B01001A_006E",
+          "label": "Estimate!!Total:!!Male:!!15 to 17 years"
+        },
+        {
+          "variable_id": "B01002E_002E",
+          "label": "Estimate!!Median age --!!Male"
+        }
+      ]
+    },
+    "cluster_20": {
+      "size": 21,
+      "table_families": {
+        "B23": 14,
+        "C23": 4,
+        "B12": 2,
+        "B99": 1
+      },
+      "concepts": {
+        "Sex by Age by Employment Status for the Population 16 Years and Over": 4,
+        "Sex by Age by Employment Status for the Population 16 Years and Over (Some Other Race Alone)": 3,
+        "Sex by Age by Employment Status for the Population 16 Years and Over (Black or African American Alone)": 3,
+        "Sex by Age by Employment Status for the Population 16 Years and Over (White Alone)": 3,
+        "Sex by Age by Employment Status for the Population 16 Years and Over (White Alone, Not Hispanic or Latino)": 2
+      },
+      "complexity_distribution": {
+        "simple_count": 21
+      },
+      "survey_distribution": {
+        "acs1": 17,
+        "acs5": 4
+      },
+      "avg_agreement": 0.5758043156026984,
+      "avg_confidence": 0.7611428571428573,
+      "sample_variables": [
+        {
+          "variable_id": "B23026_028E",
+          "label": "Estimate!!Total:!!Female:!!Worked in the past 12 months:!!Usually worked 35 or more hours per week:"
+        },
+        {
+          "variable_id": "B23002F_024E",
+          "label": "Estimate!!Total:!!Male:!!55 to 64 years:"
+        },
+        {
+          "variable_id": "B23001_117E",
+          "label": "Estimate!!Total:!!Female:!!30 to 34 years:"
+        }
+      ]
+    }
+  },
+  "files_generated": [
+    "spatial_topology_coordinates.csv",
+    "topology_metadata.json",
+    "cluster_analysis.json",
+    "3d_topology_clusters.html",
+    "3d_topology_uncertainty.html",
+    "3d_topology_families.html",
+    "2d_topology_projections.html"
+  ]
+}

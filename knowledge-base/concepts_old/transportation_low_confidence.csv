@@ -1,0 +1,9 @@
+label,confidence,universe,stat_method,definition
+"Commute Distance",0.7,"Workers 16 years and over who did not work at home","mean","Mean distance traveled to work..."
+"Transportation Costs",0.65,"Households","median","Household spending on transportation..."
+"Public Transit Access",0.7,"Households","rate","Households with access to public transportation..."
+"Transportation for Disabled",0.7,"Workers 16 years and over with disability","count","Transportation modes used by workers with disabilities..."
+"Rural Transportation Patterns",0.7,"Workers in rural areas","count","Transportation modes in rural areas..."
+"Journey-to-Work Flows",0.7,"Workers 16 years and over","count","Geographic patterns of work commuting..."
+"Sustainable Transportation",0.65,"Workers 16 years and over","rate","Use of environmentally sustainable transportation..."
+"Transportation Equity",0.6,"Workers by income and race","composite","Access to transportation options across demographic groups..."

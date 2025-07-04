@@ -1,0 +1,147 @@
+United States Census Bureau | An official website of the United States Government
+
+ZIP Code Tabulation Areas
+(ZCTAs)
+
+ZIP Code Tabulation Areas or ZCTAs (pronounced zik-tahs) are a geographic product of the U.S. Census
+
+Bureau created to allow mapping, display, and geographic analyses of the United States Postal Service
+(USPS) Zone Improvement Plan (ZIP) Codes dataset.
+
+ZIP Codes versus ZCTAs
+
+First introduced in 1963, ZIP Code is a trademark of the USPS created to coordinate mail handling and
+
+delivery. The USPS assigns ZIP Code ranges to regional post offices, which in turn assign ZIP Codes to
+
+delivery routes. Each delivery route is composed of street networks, and/or individual units with high mail
+volumes, such as high-rise buildings or individual business locations. Within the Census Bureau’s
+
+MAF/TIGER System, ZIP Codes are stored as one component of discrete addresses tied to delivery
+
+points, including specific housing unit locations. The result is a point-based dataset unsuitable for
+
+mapping and many analysis applications.
+
+ZCTAs are generalized areal representations of the geographic extent and distribution of the point-based
+
+ZIP Codes built using 2020 Census tabulation blocks. The Census Bureau is restricted by Title 13 from
+
+releasing individual housing unit addresses or location information to the public, so point-based ZIP
+
+Code data are unsuitable for distribution and publication. However, by aggregating the points and
+extrapolating them to a polygonal-based unit (census tabulation blocks), disclosure concerns can be
+
+addressed and “geographic subtraction [#_ftn1] *” is prevented.
+
+[#_ftnref1] * “Geographic subtraction” is the comparison of data for overlapping geographic areas to
+
+identify the location and characteristics of individual respondents and housing units. This can
+inadvertently result in data disclosure and is a major concern for geography representing a relatively
+
+small area (below county level) or geography with low counts of population or housing units.
+
+Summary of 2020 ZCTA Delineation Methodology
+
+Each assigned 2020 Census tabulation block is part of one distinct 2020 ZCTA.
+
+All 2020 ZCTA Codes are current valid USPS ZIP Codes (as of January 1, 2020).
+
+Not all valid ZIP Codes are represented by a 2020 ZCTA.
+
+For tabulation blocks that contain housing units, the ZCTA represents the ZIP Code associated with the most addresses in that
+block.
+
+All inhabited areas have 2020 ZCTA coverage.
+
+2020 ZCTA coverage includes zero population blocks that are enclosed within a ZCTA, located along the fringes of a ZCTA, or
+form a small gap between ZCTAs.
+
+Uninhabited areas (land and water areas) over two square miles are potentially left unassigned from 2020 ZCTA coverage.
+
+2020 ZCTAs may form noncontiguous areas (e.g., islands or enclaves).
+
+A 2020 ZCTA may represent a single institutional or corporate delivery point address.
+
+2020 ZCTAs may represent mixed mail delivery (non-unique), firm or organization-specific (unique), or post office box-only (PO
+Box) ZIP Codes.
+
+All 2020 ZCTA boundaries are 2020 Census tabulation block boundaries.
+
+Comparison of 2020 Census ZCTAs to 2010 Census ZCTAs
+
+The delineation methodology used for the 2020 Census ZCTAs are identical to those used for the 2010
+
+Census ZCTA delineation.
+
+Definitions & Reference Products
+
+Glossary
+
+The glossary defines terms for geographic programs and
+products.
+
+[/programs-surveys/geography/about/glossary.html]
+
+Geographic Products available for ZCTAs
+
+2020 ZCTA TIGER/Line
+Shapefiles
+
+Download the 2020 ZCTA TIGER/Line shapefiles.
+
+[https://www.census.gov/cgi-bin/geo/shapefiles/index.php?
+year=2020&layergroup=ZIP%20Code%20Tabulation%20Areas]
+
+Cartographic Boundary Files
+
+View the newest available cartographic boundary files in
+shapefiles, geodatabase, and Keyhole Markup Language
+(KML) formats.
+
+[/geographies/mapping-files/time-series/geo/cartographic-
+boundary.html]
+
+2020 ZCTA Relationship Files
+
+Gazetteer Files
+
+Download the 2020 ZCTA Relationship Files.
+
+[https://www.census.gov/geographies/reference-files/time-
+series/geo/relationship-files.2020.html]
+
+View all the available Gazetteer files from the Geography
+Program.
+
+[/geographies/reference-files/time-series/geo/gazetteer-files.html]
+
+Statistical Data available for ZCTAs
+
+Statistical data for ZCTAs are available from:
+
+2020 Census
+
+2010 Census
+
+Census 2000
+
+Access data through data.census.gov [http://data.census.gov] .
+
+ZIP Code Resources
+
+The Census Bureau offers a few statistical products by ZIP Code through our economic surveys. These
+
+data are available through data.census.gov [https://data.census.gov/cedsci/all?q=zip%20code] .
+
+Please contact the US Postal Service [https://www.usps.com] for additional information about ZIP
+
+codes.
+
+Related Information
+
+Geographies [/programs-surveys/geography/geographies.html]
+
+Page Last Revised - August 10, 2023
+
+

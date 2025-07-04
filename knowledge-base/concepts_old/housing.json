@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "category": "housing",
+    "status": "auto_approved",
+    "concept_count": 7,
+    "confidence_threshold": "\u22650.9"
+  },
+  "concepts": [
+    {
+      "id": "cendata:MedianHomeValue",
+      "label": "Median Home Value",
+      "bucket": "housing",
+      "universe": "Owner-occupied housing units",
+      "stat_method": "median",
+      "census_tables": [
+        "B25077"
+      ],
+      "definition": "Median value of owner-occupied housing units",
+      "source_page": 89,
+      "status": "auto",
+      "confidence": 0.95
+    },
+    {
+      "id": "cendata:MedianRent",
+      "label": "Median Gross Rent",
+      "bucket": "housing",
+      "universe": "Renter-occupied housing units paying cash rent",
+      "stat_method": "median",
+      "census_tables": [
+        "B25064"
+      ],
+      "definition": "Median gross rent paid by renter-occupied housing units",
+      "source_page": 91,
+      "status": "auto",
+      "confidence": 0.95
+    },
+    {
+      "id": "cendata:HousingTenure",
+      "label": "Housing Tenure",
+      "bucket": "housing",
+      "universe": "Occupied housing units",
+      "stat_method": "count",
+      "census_tables": [
+        "B25003"
+      ],
+      "definition": "Owner-occupied versus renter-occupied housing units",
+      "source_page": 88,
+      "status": "auto",
+      "confidence": 0.95
+    },
+    {
+      "id": "cendata:HomeownershipRate",
+      "label": "Homeownership Rate",
+      "bucket": "housing",
+      "universe": "Occupied housing units",
+      "stat_method": "rate",
+      "census_tables": [
+        "B25003"
+      ],
+      "definition": "Percentage of occupied housing units that are owner-occupied",
+      "source_page": 88,
+      "status": "auto",
+      "confidence": 0.9
+    },
+    {
+      "id": "cendata:HousingUnits",
+      "label": "Total Housing Units",
+      "bucket": "housing",
+      "universe": "Housing units",
+      "stat_method": "count",
+      "census_tables": [
+        "B25001"
+      ],
+      "definition": "Total number of housing units in area",
+      "source_page": 88,
+      "status": "auto",
+      "confidence": 0.95
+    },
+    {
+      "id": "cendata:OccupiedHousingUnits",
+      "label": "Occupied Housing Units",
+      "bucket": "housing",
+      "universe": "Housing units",
+      "stat_method": "count",
+      "census_tables": [
+        "B25002"
+      ],
+      "definition": "Number of housing units with residents",
+      "source_page": 88,
+      "status": "auto",
+      "confidence": 0.9
+    },
+    {
+      "id": "cendata:HouseholdSize",
+      "label": "Average Household Size",
+      "bucket": "housing",
+      "universe": "Occupied housing units",
+      "stat_method": "mean",
+      "census_tables": [
+        "B25010"
+      ],
+      "definition": "Average number of people per occupied housing unit",
+      "source_page": 88,
+      "status": "auto",
+      "confidence": 0.9
+    }
+  ]
+}

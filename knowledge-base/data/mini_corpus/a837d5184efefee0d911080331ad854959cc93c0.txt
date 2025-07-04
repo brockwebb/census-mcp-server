@@ -1,0 +1,1848 @@
+United States Census Bureau | An official website of the United States Government
+
+Comparing 2023 American
+Community Survey Data
+
+Learn more about comparing:
+2023 ACS 1-year estimates with: [/programs-surveys/acs/guidance/comparing-acs-data/2023.html#1yr]
+
+2022 ACS 1-year estimates
+
+2020 Census
+
+2010 Census
+
+2019-2023 ACS 5-year estimates with: [/programs-surveys/acs/guidance/comparing-acs-data/2023.html#5yr]
+
+2014-2018 ACS 5-year estimates
+
+When comparing ACS estimates with other ACS estimates, there are several points to consider:
+
+Change in geographic boundaries - The geographic boundaries for the 2023 ACS 1-year estimates represent the boundaries as
+of January 1, 2023. Data users should be aware of changes in geographic boundaries when making comparisons. To learn
+more about geographic boundaries and notable changes for 2023, check out the Geography Boundaries by Year [/programs-
+surveys/acs/geography-acs/geography-boundaries-by-year.html]  and Geography Changes [/programs-surveys/acs/technical-
+documentation/table-and-geography-changes/2023/geography-changes.html] webpages, respectively. For more information on
+geographic concepts used in the ACS, visit Geography and the ACS [/programs-surveys/acs/geography-acs.html] .
+
+Change in the questionnaire or coding - The list below provides details by subject for major questionnaire or coding changes.
+
+For guidance on issues with specific geographies or methodological changes, visit the Errata Notes [/programs-
+surveys/acs/technical-documentation/errata.html]  and User Notes [/programs-surveys/acs/technical-documentation/user-
+notes.html]  pages.
+
+Comparing 2023 ACS 1-Year Estimates
+
+EXPAND ALL
+
+COLLAPSE ALL
+
+ﬓ Age, Sex (01)
+
+Age
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+Compare
+
+2023 ACS with 2010 Census
+
+Use Caution. The population continually ages—people enter into older age groups while babies fill the youngest
+age group. This means that a completely different set of people make up each age group from one time period to
+the next. Since populations occasionally experience booms/increases (for example, the postwar Baby Boom from
+1946-1964) and busts/decreases in births, deaths, or migration, one should not necessarily expect that the
+population in an age group in the 2010 Census should be similar in size or proportion to the population in the
+same age group in different data year(s). For example, Baby Boomers were ages 46 to 64 in the 2010 Census
+while they were ages 59 to 77 in the 2023 1-year ACS, and ages 55 to 77 in the 2019-2023 5-year period. So,
+because Baby Boomers continue to age over time, the age groups 65 to 69 and 70 to 74 would show considerable
+increase in population when comparing 2010 Census data with subsequent single year or multiyear ACS data.
+
+Sex
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+Compare
+
+2023 ACS with 2010 Census
+
+Compare 
+
+Top of Section [#accordion-container-accordion-84654f9197]
+
+ﬓ Race (02)
+
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare 
+
+2023 ACS with 2020 Census
+
+Compare. Differences between the 2023 ACS and Census 2020 may be the result of demographic changes,
+
+processing, or methodological differences in the population estimates used as ACS controls. For more
+information, see the ACS Race User Note: Improvements to the Race Question [/programs-surveys/acs/technical-
+
+documentation/user-notes/2021-03.html] .
+
+2023 ACS with 2010 Census
+
+Use caution. Differences between 2023 ACS and 2010 Census  may be the result of demographic changes,
+
+and/or differences in question wording (the ACS question on race was revised in 2020 to make it consistent with
+
+the 2020 Census race question), processing, coding updates, or methodological differences in the population
+estimates used as controls.  For more information, see the ACS Race User Note: Improvements to the Race
+
+Question [/programs-surveys/acs/technical-documentation/user-notes/2021-03.html] .
+
+Top of Section [#accordion-container-accordion-84654f9197]
+
+ﬓ Hispanic or Latino Origin (03)
+
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Use caution. Differences between 2023 ACS and 2022 ACS may be the result of demographic changes, and/or
+differences in question wording (the ACS question on Hispanic origin was revised in 2020 to make it consistent
+
+with the 2020 Census Hispanic origin), processing, coding updates, or methodological differences in the
+population estimates used as controls. For more information, see the ACS Hispanic Origin User
+
+Note:  Improvements to the Hispanic origin question [/programs-surveys/acs/technical-documentation/user-
+notes/2021-08.html] .
+
+2023 ACS with 2020 Census
+
+Compare. Differences between the 2023 ACS and Census 2020 may be the result of demographic changes,
+
+processing, or methodological differences in the population estimates used as ACS controls. For more
+information, see the ACS Hispanic Origin User Note:  Improvements to the Hispanic origin question [/programs-
+
+surveys/acs/technical-documentation/user-notes/2021-08.html] .
+
+2023 ACS with 2010 Census
+
+Use caution. Differences between 2023 ACS and 2010 Census may be the result of demographic changes, and/or
+differences in question wording (the ACS question on Hispanic origin was revised in 2020 to make it consistent
+
+with the 2020 Census Hispanic origin question), processing, coding updates, or methodological differences in the
+population estimates used as controls. For more information, see the ACS Hispanic Origin User
+
+Note:  Improvements to the Hispanic origin question [/programs-surveys/acs/technical-documentation/user-
+notes/2021-08.html] .
+
+Top of Section [#accordion-container-accordion-84654f9197]
+
+ﬓ Ancestry (04)
+
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+ The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Top of Section [#accordion-container-accordion-84654f9197]
+
+ﬓ Citizenship Status, Year of Entry, Foreign-Born Place of Birth (05)
+
+Citizenship Status
+
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Nativity
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Year of Entry
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census 
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Top of Section [#accordion-container-accordion-84654f9197]
+
+ﬓ Place of Birth (06)
+
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Top of Section [#accordion-container-accordion-84654f9197]
+
+ﬓ Migration, Residence 1 Year Ago (07)
+
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Do Not Compare or Use Caution. A data processing error was present in the 2022 ACS 1-year data on Migration,
+Residence 1 Year Ago among respondents who reported moving within the state of Connecticut or from the state
+
+of Connecticut to another state or Puerto Rico. For Connecticut as a state of current or previous residence, users
+should not compare 2023 1-year and 2022 1-year estimates of detailed mover categories. For other states and
+Puerto Rico, users should use caution when comparing 2023 1-year and 2022 1-year estimates of detailed mover
+categories. Estimates of total movers, non-movers, and movers from abroad can be compared. For more
+
+information, see this Errata Note: Data Processing Error for Migration Originating in Connecticut in 2022 ACS
+[/programs-surveys/acs/technical-documentation/errata/143.html] .
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Top of Section [#accordion-container-accordion-84654f9197]
+
+ﬓ Commuting (Journey to Work), Place of Work (08)
+
+Means of Transportation to Work
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Place of Work
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Private Vehicle Occupancy
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Time Leaving Home
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Travel Time to Work
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Top of Section [#accordion-container-accordion-84654f9197]
+
+ﬓ Relationship to Householder (09)
+
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare 
+
+2023 ACS with 2020 Census
+
+Use caution. Both the ACS and the 2020 Census used a joint age, sex, and relationship edit. However, the ACS edit
+also incorporated marital status information into the editing process, while the 2020 Census did not. Differences
+in weighting schemes between the census and the ACS could produce inconsistencies in comparisons. 
+
+2023 ACS with 2010 Census
+
+Use caution. The ACS used a joint age, sex, and relationship edit and 2010 Census did not. The ACS also has a
+category for foster children which is not in the 2010 Census. Additionally, the ACS includes separate answer
+
+categories for opposite-sex and same-sex spouses and unmarried partners and does not include a roomer or
+boarder category.  Differences in weighting schemes between the census and the ACS could produce
+inconsistencies in comparisons.
+
+Top of Section [#accordion-container-accordion-84654f9197]
+
+ﬓ Grandparents and Grandchildren Characteristics (10)
+
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Top of Section [#accordion-container-accordion-84654f9197]
+
+ﬓ Household Type, Family Type (11)
+
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare 
+
+2023 ACS with 2020 Census
+
+Use caution. Both the ACS and the 2020 Census used a joint age, sex, and relationship edit. However, the ACS edit
+also incorporated marital status information into the editing process, while Census 2020 did not. These edits are
+
+used to determine categories of family and household types.  Differences in weighting schemes between the
+
+census and the ACS could produce inconsistencies in comparisons. 
+
+2023 ACS with 2010 Census
+
+Use caution. The ACS used a joint age, sex, and relationship edit and 2010 Census did not. The ACS also has a
+category for foster children, which is not in the 2010 Census. Additionally, the ACS includes separate answer
+categories for opposite-sex and same-sex spouses and unmarried partners and does not include a roomer or
+boarder category.  Differences in weighting schemes between the census and the ACS could produce
+inconsistencies in comparisons.
+
+Top of Section [#accordion-container-accordion-84654f9197]
+
+ﬓ Marital Status, Marital History (12)
+
+Marital Status
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare 
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Marital History
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Top of Section [#accordion-container-accordion-84654f9197]
+
+ﬓ Fertility (13)
+
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Top of Section [#accordion-container-accordion-84654f9197]
+
+ﬓ School Enrollment (14)
+
+Type of School & School Enrollment
+2023 ACS 1-Year with 2022 ACS 1-Year 
+
+Compare
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Top of Section [#accordion-container-accordion-84654f9197]
+
+ﬓ Educational Attainment, Undergraduate Field of Degree (15)
+
+Educational Attainment
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Undergraduate Field of Degree
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Top of Section [#accordion-container-accordion-84654f9197]
+
+ﬓ Language Spoken at Home (16)
+
+Ability to Speak English
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Language Spoken at Home
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Top of Section [#accordion-container-accordion-84654f9197]
+
+ﬓ Poverty Status (17)
+
+Poverty Status of Families and People in Families
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Use caution. As ACS data are collected every month of the year, reference months in a calendar year overlap with
+the reference months in the preceding calendar year. Hence, comparing the 2023 ACS 1-year with the 2022 ACS
+1-year estimates is not an exact comparison of the economic conditions in 2023 with those in 2022. For a
+
+discussion of this and related issues, see Hogan, Howard, "Measuring Population Change Using the American
+Community Survey," Applied Demography in the 21st Century, Steven H. Murdock and David A. Swanson eds.,
+Springer Netherlands, 2008. For specific questions and answers about sources of poverty data, see Questions
+and Answers about Sources of Poverty Data [http://www2.census.gov/programs-
+
+surveys/acs/methodology/QA_SourcesOfPovertyData.pdf] .
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census 
+
+The question was not asked in the 2010 Census.
+
+Poverty Status of All People in the Poverty Universe
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Use caution. As ACS data are collected every month of the year,  reference months in a calendar year overlap with
+the reference months in the preceding calendar year. Hence, comparing the 2023 ACS 1-year with the 2022 ACS
+
+1-year estimates is not an exact comparison of the economic conditions in 2023 with those in 2022. For a
+discussion of this and related issues, see Hogan, Howard, "Measuring Population Change Using the American
+Community Survey," Applied Demography in the 21st Century, Steven H. Murdock and David A. Swanson eds.,
+Springer Netherlands, 2008. For specific questions and answers about sources of poverty data, see Questions
+and Answers about Sources of Poverty Data [http://www2.census.gov/programs-
+surveys/acs/methodology/QA_SourcesOfPovertyData.pdf] .
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Top of Section [#accordion-container-accordion-84654f9197]
+
+ﬓ Disability Status (18)
+
+Hearing, Vision Difficulty
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Cognitive, Ambulatory, Self-Care Difficulty
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Independent Living Difficulty
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Top of Section [#accordion-container-accordion-84654f9197]
+
+ﬓ Income (19)
+
+Household Income, Household Income by Source, Family Income, Nonfamily Household Income,
+Income for Individuals
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Use caution. As ACS data are collected every month of the year, adjacent years will have some reference months
+in common. Hence, comparing the 2023 ACS 1-year with the 2022 ACS 1-year estimates is not an exact
+comparison of the economic conditions in 2023 with those in 2022. For a discussion of this and related issues,
+see Hogan, Howard, “Measuring Population Change Using the American Community Survey,” Applied
+
+st
+
+Demography in the 21  Century, Steven H. Murdock and David A. Swanson eds., Springer Netherlands, 2008. The
+Census Bureau recommends using R-CPI-U-RS adjustment factors published annually by the Bureau of Labor
+Statistics (BLS) to adjust 2022 median, mean, and per capita income dollar amounts to 2023 dollars by
+multiplying the 2022 dollar amounts by the R-CPI-U-RS factor of 1.04125145.
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Top of Section [#accordion-container-accordion-84654f9197]
+
+ﬓ Earnings (20)
+
+Earnings (individuals)
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Use caution. As ACS data are collected every month of the year, adjacent years will have some reference months
+in common. Hence, comparing the 2023 ACS 1-year with the 2022 ACS 1-year estimates is not an exact
+comparison of the economic conditions in 2023 with those in 2022. For a discussion of this and related issues,
+see Hogan, Howard, "Measuring Population Change Using the American Community Survey," Applied Demography
+in the 21st Century, Steven H. Murdock and David A. Swanson eds., Springer Netherlands, 2008. The Census
+Bureau recommends using R-CPI-U-RS adjustment factors published annually by the Bureau of Labor Statistics
+(BLS) to adjust 2022 median, mean, and per capita income dollar amounts to 2023 dollars by multiplying the 2022
+
+dollar amounts by the R-CPI-U-RS factor of 1.04125145. 
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census 
+
+The question was not asked in the 2010 Census.
+
+Top of Section [#accordion-container-accordion-84654f9197]
+
+ﬓ Veteran Status, Period of Military Service (21)
+
+Veteran Status
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Period of Military Service
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Service-Connected Disability Status and Ratings
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Top of Section [#accordion-container-accordion-84654f9197]
+
+ﬓ Food Stamps, Supplemental Nutrition Assistance Program (SNAP) (22)
+
+Food Stamp, SNAP Benefit
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Top of Section [#accordion-container-accordion-84654f9197]
+
+ﬓ Employment Status, Work Status Last Year (23)
+
+Employment Status
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Hours Worked
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Weeks Worked
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare. Beginning in data year 2019, respondents to the Weeks Worked question provided an integer value for
+
+the number of weeks worked.  For data years 2008 through 2018, respondents selected a category corresponding
+to the number of weeks worked.
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Top of Section [#accordion-container-accordion-84654f9197]
+
+ﬓ Class of Worker, Industry, and Occupation (24)
+
+Class of Worker
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare 
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Industry
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Use Caution. The North American Industry Classification System (NAICS) was revised in 2022. The 2022 NAICS
+revision was used to create the 2022 Census Industry Code List, which was first applied to the 2023 1-year ACS.
+
+For the 2022 Census Industry Code List, a total of 38 codes were deleted and 33 codes added. In addition to code
+changes, there were also 89 industry description changes and updates. For a summary of 2022 code changes
+
+and a Census 2017 to 2022 industry crosswalk, please visit the Industry and Occupation page
+[/topics/employment/industry-occupation/guidance.html] .
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Occupation
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare 
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Top of Section [#accordion-container-accordion-84654f9197]
+
+ﬓ Housing Characteristics (25)
+
+Bedrooms
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Contract, Gross, and Asking Rent
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Cost of Utilities
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Gross Rent as a Percentage of Household Income
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+House Heating Fuel
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Kitchen Facilities
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Mortgage Status
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+Use caution. The question was not asked in the 2020 Census; however, mortgage status can be obtained from the
+tenure question (owned with a mortgage or loan, including home equity loans; or owned free and clear, without a
+
+mortgage or loan).
+
+2023 ACS with 2010 Census
+
+Use caution. The question was not asked in the 2010 Census; however, mortgage status can be obtained from the
+tenure question (owned with a mortgage or loan, including home equity loans; or owned free and clear, without a
+
+mortgage or loan). 
+
+Occupants per Room
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Owner Costs as a Percentage of Household Income
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Plumbing Facilities
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Real Estate Taxes
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Rooms
+
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Selected Monthly Owner Costs
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Telephone Service
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare 
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Tenure
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+Compare
+
+2023 ACS with 2010 Census 
+
+Compare
+
+Units in Structure
+2023 ACS 1-Year with 2022 ACS 1-Year 
+
+Compare
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Vacancy Status
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+Do Not Compare. Because the ACS and the Decennial Census differ in their design and data collection methods,
+
+users should note that estimates of vacancy rates may also differ. For more information on vacancy rates
+between the ACS and Census, see Comparing 2010 American Community Survey 1-Year Estimates of Occupancy
+
+Status, Vacancy Status, and Household Size with the 2010 Census - Preliminary Results [/library/working-
+
+papers/2011/acs/2011_Griffin_03.html] . 
+
+2023 ACS with 2010 Census
+
+Do Not Compare. Because the ACS and the Decennial Census differ in their design and data collection methods,
+users should note that estimates of vacancy rates may also differ. For more information on vacancy rates
+
+between the ACS and Census, see Comparing 2010 American Community Survey 1-Year Estimates of Occupancy
+
+Status, Vacancy Status, and Household Size with the 2010 Census - Preliminary Results [/library/working-
+papers/2011/acs/2011_Griffin_03.html] .
+
+Value of Property
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Vehicles Available
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census 
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Year Moved In
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Year Structure Built
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census 
+
+The question was not asked in the 2010 Census.
+
+Top of Section [#accordion-container-accordion-84654f9197]
+
+ﬓ Group Quarters (26)
+
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+Use caution. The total group quarters (GQ) population in the ACS may not be comparable with Census 2020
+because there are some Census 2020 GQ types that were out of scope in the ACS such as maritime/merchant
+
+vessels, soup kitchens, regularly scheduled mobile food vans, and shelters for victims of natural disasters. The
+exclusion of these GQ types from the ACS may result in a small bias in some ACS estimates to the extent that the
+
+excluded population is different from the included population. 
+
+2023 ACS with 2010 Census
+
+Use caution. The total group quarters (GQ) population in the ACS may not be comparable with the 2010 Census. 
+
+The ACS does not include all the GQ types that are found in the decennial census such as maritime/merchant
+vessels, soup kitchens, regularly scheduled mobile food vans, and shelters for victims of natural disasters. The
+
+exclusion of these GQ types from the ACS may result in a small bias in some ACS estimates to the extent that the
+excluded population is different from the included population.
+
+Top of Section [#accordion-container-accordion-84654f9197]
+
+ﬓ Health Insurance Coverage (27)
+
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Top of Section [#accordion-container-accordion-84654f9197]
+
+ﬓ Computer and Internet Use (28)
+
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Top of Section [#accordion-container-accordion-84654f9197]
+
+ﬓ Citizen, Voting-Age Population (29)
+
+2023 ACS 1-Year with 2022 ACS 1-Year
+
+Compare
+
+2023 ACS with 2020 Census
+
+The question was not asked in the 2020 Census.
+
+2023 ACS with 2010 Census
+
+The question was not asked in the 2010 Census.
+
+Top of Section [#accordion-container-accordion-84654f9197]
+
+* Each subject area is listed with its 2-digit code identifier. This code corresponds to the second and third characters
+
+of the ACS table number. For example, Table B08303 - Travel Time to Work has the second and third digits of "08"
+
+which corresponds to the subject Journey to Work; Workers; and Commuting.
+
+Comparing 2019-2023 ACS 5-Year Estimates
+
+Specifically, when comparing the 2019-2023 ACS 5-year estimates with other non-overlapping ACS 5-year estimates,
+
+there are several points to consider:
+
+Changes to the population controls – The 2019-2023 ACS 5-year estimates use population controls that are informed by the
+2020 Census. For guidance regarding the population controls for this data release, refer to Population Controls for the 2023
+ACS [/programs-surveys/acs/technical-documentation/user-notes/2024-02.html] . For more information about how the
+population estimates are used as controls for the ACS, visit the 2019-2023 ACS Multiyear Accuracy of the Data [/programs-
+surveys/acs/technical-documentation/code-lists/2023.html] document.
+
+Data users should use caution when comparing ACS 5-year estimates that include 2020 with other ACS 5-year data.
+
+There are multiple challenges to interpreting comparisons, including:
+
+Changes to the weighting methodology implemented to address the nonresponse bias issues in the 2020 data, see
+Modification to the 5-Year Estimation Methodology Containing Data Collected in 2020 [/programs-surveys/acs/technical-
+documentation/user-notes/2022-03.html] .
+
+Actual changes within the population and our ability to capture those changes.
+
+Tendency of multiyear estimates to smooth out sudden changes, see Period Estimates in the American Community Survey
+[/newsroom/blogs/random-samplings/2022/03/period-estimates-american-community-survey.html] .
+
+EXPAND ALL
+
+COLLAPSE ALL
+
+ﬓ Age, Sex (01)
+
+Age
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year 
+
+Compare
+
+Sex
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year 
+
+Compare
+
+Top of Section [#accordion-container-accordion-fc96528315]
+
+ﬓ Race (02)
+
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year 
+
+Use caution.  Differences between the 2014-2018 ACS 5-year estimates and 2019-2023 ACS 5-year estimates
+may be the result of demographic changes and/or differences in question wording, race reporting, or coding
+
+updates.  For more information, visit the ACS Race User Note: Improvements to the Race Question [/programs-
+surveys/acs/technical-documentation/user-notes/2021-03.html] .
+
+Top of Section [#accordion-container-accordion-fc96528315]
+
+ﬓ Hispanic or Latino Origin (03)
+
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Use caution. Differences between the 2014-2018 ACS 5-year estimates and 2019-2023 ACS 5-year estimates may
+
+be the result of demographic changes and/or differences in question wording, Hispanic origin reporting, or coding
+updates.  For more information, visit the ACS Hispanic Origin User Note:  Improvements to the Hispanic origin
+
+question [/programs-surveys/acs/technical-documentation/user-notes/2021-08.html] .
+
+Top of Section [#accordion-container-accordion-fc96528315]
+
+ﬓ Ancestry (04)
+
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare
+
+Top of Section [#accordion-container-accordion-fc96528315]
+
+ﬓ Citizenship Status, Year of Entry, Foreign-Born Place of Birth (05)
+
+Citizenship Status
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Use caution. Methodological changes to citizenship edits may have affected citizenship data for those born in
+American Samoa. Users should be aware of these changes when using 2018 data or multi-year data containing
+
+data from 2018. For more information, see: American Samoa Citizenship User Note [/programs-
+
+surveys/acs/technical-documentation/user-notes/2019-01.html] .
+
+Nativity
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Use caution. Methodological changes to citizenship edits may have affected citizenship data for those born in
+
+American Samoa. Users should be aware of these changes when using 2018 data or multi-year data containing
+data from 2018. For more information, see: American Samoa Citizenship User Note [/programs-
+
+surveys/acs/technical-documentation/user-notes/2019-01.html] .
+
+Year of Entry
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Use caution. Methodological changes to citizenship edits may have affected citizenship data for those born in
+American Samoa. Users should be aware of these changes when using 2018 data or multi-year data containing
+
+data from 2018. For more information, see: American Samoa Citizenship User Note [/programs-
+surveys/acs/technical-documentation/user-notes/2019-01.html] .
+
+Top of Section [#accordion-container-accordion-fc96528315]
+
+ﬓ Place of Birth (06)
+
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare
+
+Top of Section [#accordion-container-accordion-fc96528315]
+
+ﬓ Migration, Residence 1 Year Ago (07)
+
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare. After the release of the 2022 American Community Survey (ACS) data products, an error was identified
+
+in the the Migration, Residence 1 Year Ago data. Revised data for 2022 were used to create the 2019-2023 ACS 5-
+year estimates, so estimates can be compared to those from the 2014-2018 5-year period. For more information,
+
+see: Data Processing Error for Migration Originating in Connecticut in 2022 ACS [/programs-
+surveys/acs/technical-documentation/errata/143.html] .
+
+Top of Section [#accordion-container-accordion-fc96528315]
+
+ﬓ Commuting (Journey to Work), Place of Work (08)
+
+Means of Transportation to Work
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare. Beginning in 2019, the Census Bureau implemented changes to selected means of transportation
+categories based on results of the 2016 American Community Survey (ACS) Content Test [/library/working-
+
+papers/2017/acs/2017_McKenzie_01.html] . While the category labels have changed, the categories are
+considered comparable. Please refer to the 2019 Changes to the Means of Transportation Question Data User
+
+Note [/programs-surveys/acs/technical-documentation/user-notes/2020-03.html] for comparability guidance.
+
+Place of Work
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare
+
+Private Vehicle Occupancy
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare
+
+Time Leaving Home
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare
+
+Travel Time to Work
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare
+
+Top of Section [#accordion-container-accordion-fc96528315]
+
+ﬓ Relationship to Householder (09)
+
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Use caution. The 2019-2023 ACS 5-year estimates contained expanded “husband/wife” and “unmarried partner”
+
+categories that included separate categories for opposite-sex and same-sex couples. Additionally, the “roomer or
+boarder” category was removed. For additional information regarding changes to the Relationship to Householder
+
+item, please see the Same-Sex Couples [/topics/families/same-sex-couples.html]  page. Further, the 2019-2023
+ACS 5-year estimates used a joint age, sex, and relationship edit, while the 2014-2018 ACS 5-year estimates used
+
+a joint relationship/marital status edit.
+
+Top of Section [#accordion-container-accordion-fc96528315]
+
+ﬓ Grandparents and Grandchildren Characteristics (10)
+
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare
+
+Top of Section [#accordion-container-accordion-fc96528315]
+
+ﬓ Household Type, Family Type (11)
+
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare
+
+Top of Section [#accordion-container-accordion-fc96528315]
+
+ﬓ Marital Status, Marital History (12)
+
+Marital Status
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Use caution. The 2019-2023 ACS 5-year estimates used a separate marital status edit, while the 2014-2018 ACS
+5-year estimates used a joint relationship/marital status edit.
+
+Marital History
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Use caution. The 2019-2023 ACS 5-year estimates used a separate marital status edit, while the 2014-2018 ACS
+
+5-year estimates used a joint relationship/marital status edit.
+
+Top of Section [#accordion-container-accordion-fc96528315]
+
+ﬓ Fertility (13)
+
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare
+
+Top of Section [#accordion-container-accordion-fc96528315]
+
+ﬓ School Enrollment (14)
+
+Type of School & School Enrollment
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare
+
+Top of Section [#accordion-container-accordion-fc96528315]
+
+ﬓ Educational Attainment, Undergraduate Field of Degree (15)
+
+Educational Attainment
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare
+
+Undergraduate Field of Degree
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare
+
+Top of Section [#accordion-container-accordion-fc96528315]
+
+ﬓ Language Spoken at Home (16)
+
+Ability to Speak English
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare
+
+Language Spoken at Home
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Use caution.  Some languages need additional steps for comparison. Please refer to the 2016 Language Data
+
+User Note [/programs-surveys/acs/technical-documentation/user-notes/2017-02.html]  for comparability
+
+guidance.
+
+Top of Section [#accordion-container-accordion-fc96528315]
+
+ﬓ Poverty Status (17)
+
+Poverty Status of Families and People in Families
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Use caution. As ACS data are collected every month of the year, reference months in a calendar year overlap with
+
+the reference months in the preceding calendar year. Hence, comparing the 2023 ACS 5-year with the 2018 ACS
+
+5-year estimates is not an exact comparison of the economic conditions in 2019-2023 with those in 2014-2018.
+For a discussion of this and related issues, see Hogan, Howard, "Measuring Population Change Using the
+
+American Community Survey," Applied Demography in the 21st Century, Steven H. Murdock and David A. Swanson
+
+eds., Springer Netherlands, 2008. For specific questions and answers about sources of poverty data, 
+
+see Questions and Answers about Sources of Poverty Data [http://www2.census.gov/programs-
+surveys/acs/methodology/QA_SourcesOfPovertyData.pdf] .
+
+Poverty Status of All People in the Poverty Universe
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Use caution. As ACS data are collected every month of the year, reference months in a calendar year overlap with
+
+the reference months in the preceding calendar year. Hence, comparing the 2023 ACS 5-year with the 2018 ACS
+
+5-year estimates is not an exact comparison of the economic conditions in 2019-2023 with those in 2014-2018.
+
+For a discussion of this and related issues, see Hogan, Howard, "Measuring Population Change Using the
+
+American Community Survey," Applied Demography in the 21st Century, Steven H. Murdock and David A. Swanson
+eds., Springer Netherlands, 2008. For specific questions and answers about sources of poverty data,
+
+see Questions and Answers about Sources of Poverty Data [http://www2.census.gov/programs-
+
+surveys/acs/methodology/QA_SourcesOfPovertyData.pdf] .
+
+Top of Section [#accordion-container-accordion-fc96528315]
+
+ﬓ Disability Status (18)
+
+Hearing, Vision Difficulty
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare
+
+Cognitive, Ambulatory, Self-Care Difficulty
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare
+
+Independent Living Difficulty
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare
+
+Top of Section [#accordion-container-accordion-fc96528315]
+
+ﬓ Income (19)
+
+Household Income, Household Income by Source, Family Income, Nonfamily Household Income,
+Income for Individuals
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Use caution. To accurately assess changes in income over time, an adjustment for inflation is required.
+
+-Estimates in the 2014-2018 ACS 5-year data set are inflation-adjusted to 2018 dollars.
+
+-Estimates in the 2019-2023 ACS 5-year data set are inflation-adjusted to 2023 dollars.
+
+The Census Bureau uses the Bureau of Labor Statistics' (BLS) Consumer Price Index Retroactive Series (R-CPI-U-
+
+RS, [https://www.bls.gov/cpi/research-series/r-cpi-u-rs-home.htm]  R-CPI-U-RS formerly the CPI-U-RS
+[https://www.bls.gov/cpi/notices/2019/renaming-data-series.htm] ) to adjust for inflation. The annual average R-
+
+CPI-U-RS for 2023 (449.3) is divided by the same for 2018 (369.1) to determine the multiplier to inflation-adjust
+
+2018 dollars to 2023 dollars. Accordingly, dollar value estimates from the 2014-2018 file should be multiplied by
+
+1.21728529 to convert 2018 dollars to 2023 dollars. The exception is the Comparative Economic Characteristics
+Profile (CP03) where all income and earnings dollar values are presented in 2023 inflation-adjusted dollars. For
+
+more information on comparing multiyear estimates from two different time periods, refer to Chapter 10
+
+[/content/dam/Census/library/publications/2020/acs/acs_general_handbook_2020_ch10.pdf]   of the ACS
+
+Handbook  Understanding and Using American Community Survey Data: What All Data Users Need to Know
+
+[/programs-surveys/acs/library/handbooks/general.html] .
+
+Top of Section [#accordion-container-accordion-fc96528315]
+
+ﬓ Earnings (20)
+
+Earnings (individuals)
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Use caution. To accurately assess changes in income over time, an adjustment for inflation is required. Refer to
+
+Income (19) above for guidance regarding inflation-adjusting dollar value estimates.
+
+Top of Section [#accordion-container-accordion-fc96528315]
+
+ﬓ Veteran Status, Period of Military Service (21)
+
+Veteran Status
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare
+
+Period of Military Service
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare
+
+Service-Connected Disability Status and Ratings
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare
+
+Top of Section [#accordion-container-accordion-fc96528315]
+
+ﬓ Food Stamps, Supplemental Nutrition Assistance Program (SNAP) (22)
+
+Food Stamp, SNAP Benefit
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare
+
+Top of Section [#accordion-container-accordion-fc96528315]
+
+ﬓ Employment Status, Work Status Last Year (23)
+
+Employment Status
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare
+
+Hours Worked
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare
+
+Weeks Worked
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare. Beginning in data year 2019, respondents to the Weeks Worked question provided an integer value for
+the number of weeks worked.  For data years 2008 through 2018, respondents selected a category corresponding
+
+to the number of weeks worked.
+
+Top of Section [#accordion-container-accordion-fc96528315]
+
+ﬓ Class of Worker, Industry, and Occupation (24)
+
+Class of Worker
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare
+
+Industry
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Use caution. The ACS industry data for the years 2019 to 2022 were coded based on the 2017 revision of the
+
+North American Industry Classification System (NAICS) codes. The 2023 ACS industry data are based on the
+
+2022 revision of the NAICS codes. Because of the NAICS revisions and Census industry code changes, we
+
+recommend using caution when comparing 2019-2023 industry data with 2014-2018 industry data. For more
+
+information on Census industry code changes, please visit the Industry and Occupation website
+[/topics/employment/industry-occupation.html] .
+
+Occupation
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Do not compare. The Census occupation codes for 2019 and later data years used in the ACS are based on the
+
+2018 revision of the Standard Occupational Classification (SOC). Occupation data for the years 2014 to 2018 was
+
+coded based on the 2010 revision of the SOC. There were significant changes to the Census occupation codes as
+
+a result of the 2018 SOC revisions. Therefore, the 2014-2018 and 2019-2023 occupation data are not comparable.
+For more information on the Census occupation code changes, please visit the Industry and Occupation website
+
+[/topics/employment/industry-occupation.html] .
+
+Top of Section [#accordion-container-accordion-fc96528315]
+
+ﬓ Housing Characteristics (25)
+
+Bedrooms
+
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare
+
+Contract, Gross, and Asking Rent
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare
+
+Cost of Utilities
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare
+
+Gross Rent as a Percentage of Household Income
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare
+
+House Heating Fuel
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare
+
+Kitchen Facilities
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare
+
+Mortgage Status
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Use Caution. In 2020, changes were made to allow those listed without a primary mortgage to have a home
+
+equity loan. In previous years, anyone with a home equity loan would have been categorized as having a primary
+
+mortgage. 
+
+Occupants per Room
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare
+
+Owner Costs as a Percentage of Household Income
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare
+
+Plumbing Facilities
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare
+
+Real Estate Taxes
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare
+
+Rooms
+
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare
+
+Selected Monthly Owner Costs
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare
+
+Telephone Service
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Use caution. Beginning in 2019 the telephone service question was revised in its structure and wording as a result
+of findings from the 2016 ACS Content Test. For more information on this change, see the following ACS User
+
+Note [/programs-surveys/acs/technical-documentation/user-notes/2020-04.html] . In general, these changes led
+
+to an increase in households with telephone service in the 2019-2023 period compared to the 2014-2018 period.
+
+Tenure
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare
+
+Units in Structure
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare
+
+Vacancy Status
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare
+
+Value of Property
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Use caution. Beginning in 2022, reported home value collected on the American Community Survey (ACS) were
+
+presented in current year dollars. This adjustment used the Retroactive Consumer Price Index Research Series (R-
+CPI-U-RS), formerly known as the CPI-U-RS, which is used to adjust all other dollar-denominated estimates in the
+
+ACS. This change brings the home value data in line with how all other dollar-denominated housing and income
+
+items are adjusted to real (i.e., constant) dollars. For more information, see the ACS Home Value User Note
+
+[/programs-surveys/acs/technical-documentation/user-notes/2023-07.html] .
+
+Vehicles Available
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare
+
+Year Moved In
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare
+
+Year Structure Built
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare
+
+Top of Section [#accordion-container-accordion-fc96528315]
+
+ﬓ Group Quarters (26)
+
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare
+
+Top of Section [#accordion-container-accordion-fc96528315]
+
+ﬓ Health Insurance Coverage (27)
+
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Compare
+
+Top of Section [#accordion-container-accordion-fc96528315]
+
+ﬓ Computer and Internet Use (28)
+
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year
+
+Use caution. Changes in 2016 to question wording and the response options resulted in changed response
+
+patterns in the data. More detailed information about these changes is available in the 2016 American
+Community Survey Content Test Report for Computer and Internet Use [/library/working-
+
+papers/2017/acs/2017_Lewis_01.html]  or the User Note [/programs-surveys/acs/technical-documentation/user-
+
+notes/2017-03.html]  regarding changes to the 2016 questions.
+
+Top of Section [#accordion-container-accordion-fc96528315]
+
+ﬓ Citizen, Voting-Age Population (29)
+
+2019-2023 ACS 5-Year with 2014-2018 ACS 5-Year 
+
+Compare
+
+Top of Section [#accordion-container-accordion-fc96528315]
+
+Related Information
+
+User Notes [/programs-surveys/acs/technical-documentation/user-notes.html]
+
+Errata Notes [/programs-surveys/acs/technical-documentation/errata.html]
+
+Contact Us [/programs-surveys/acs/contact.html]
+
+You May Be Interested In
+
+Contact
+
+Updates
+
+Contact Us
+
+Email Updates
+
+Share Your ACS Data
+
+Story
+
+Learn how to contact
+the American
+
+Sign up to receive email
+updates about the
+
+Tell us your story about
+how you use data from
+
+Community Survey if you
+
+American Community
+
+the American
+
+[/programs-
+
+[/programs-
+surveys/acs/contact.html]
+
+surveys/acs/news/email-
+updates.html]
+
+[/programs-surveys/acs/share-
+your-acs-data-story.html]
+
+Page Last Revised - February 6, 2025
+
+

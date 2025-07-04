@@ -1,0 +1,363 @@
+United States Census Bureau | An official website of the United States Government
+
+Poverty in the United
+States: 2023
+
+September 10, 2024
+Written by: EMILY A. SHRIDER
+Report Number: P60-283
+
+Introduction
+
+This report provides estimates of two measures of poverty: the official poverty measure and the Supplemental Poverty
+
+Measure (SPM). The official poverty measure, produced since the 1960s, defines poverty by comparing pretax money
+
+income to a national poverty threshold adjusted by family composition. The SPM, first released in 2011 and produced
+
+in collaboration with the Bureau of Labor Statistics (BLS), extends the official poverty measure by accounting for
+
+several government programs that are designed to assist low-income families but are not included in official poverty
+
+measure calculations. The SPM also accounts for geographic variation in housing expenses when calculating poverty
+thresholds and includes federal and state taxes, work expenses, and medical expenses.
+
+This report presents estimates using the official poverty measure and the SPM for calendar year 2023. The estimates
+contained in the report are based on information collected in the 2024 and earlier Current Population Survey Annual
+Social and Economic Supplements (CPS ASEC) conducted by the Census Bureau. 
+
+Poverty in the United States: 2023 [< 1.0 MB][//www2.census.gov/library/publications/2024/demo/p60-283.pdf]
+
+Highlights
+
+Official Poverty Measure:
+
+In 2023, the official poverty rate fell 0.4 percentage points to 11.1 percent. There were 36.8 million people in poverty in 2023,
+not statistically different from 2022 (Figure 1 and Table A-1).
+
+Between 2022 and 2023, the official poverty rate decreased for White and non-Hispanic White individuals; women; 18- to 64-
+year-olds; unrelated individuals; all workers; less than full-time, year-round workers; and those with some college. The only
+group to experience a statistically significant increase in their official poverty rate was the Two or More Races population
+(Figure 2 and Tables A-1 and A-2).
+
+Supplemental Poverty Measure
+
+The SPM rate in 2023 was 12.9 percent, an increase of 0.5 percentage points from 2022 (Figure 6 and Table B-3).
+
+The SPM child poverty rate increased 1.3 percentage points to 13.7 percent in 2023 (Figure 4 and Table B-3).
+
+Social Security continues to be the largest anti-poverty program, moving 27.6 million individuals out of SPM poverty in 2023
+(Figure 10 and Table B-7).
+
+Differences in Poverty Measures
+
+The share of the population with resources below 50 percent of their poverty threshold was higher using the official poverty
+measure with a consistent universe (5.2 percent) than when using the SPM (4.4 percent) (Figure 9 and Table B-5).
+
+In 2023, most of the groups discussed in this report had higher SPM rates than official poverty rates with a consistent universe
+(Figure 7 and Table B-4). 
+
+Tables
+
+Official Poverty Measure
+
+Poverty Thresholds: 2023 [<1.0
+MB]
+
+[//www2.census.gov/programs-surveys/cps/tables/time-series/historical-poverty-
+thresholds/thresh23.xlsx]
+
+Table A-1. People in Poverty by Selected Characteristics: 2022
+and 2023 [<1.0 MB]
+
+[//www2.census.gov/programs-
+surveys/demo/tables/p60/283/tableA1_pov_characteristics.xlsx]
+
+Table A-2. Families and People in Poverty by Type of Family: 2022
+and 2023 [<1.0 MB]
+
+[//www2.census.gov/programs-
+surveys/demo/tables/p60/283/tableA2_pov_by_family_type.xlsx]
+
+Table A-3. Poverty Status of People by Age, Race, and Hispanic
+Origin: 1959 to 2023 [<1.0 MB]
+
+[//www2.census.gov/programs-
+surveys/demo/tables/p60/283/tableA3_hist_pov_by_all_and_age.xlsx]
+
+HSTPOV2. Poverty Status of People by Family Relationship, Race, and
+Hispanic Origin: 1959 to 2023 [<1.0 MB]
+
+[//www2.census.gov/programs-surveys/cps/tables/time-
+series/historical-poverty-people/hstpov2.xlsx]
+
+HSTPOV4. Poverty Status of Families by Type of Family, Presence of Related
+Children, Race, and Hispanic Origin: 1959 to 2023 [<1.0 MB]
+
+[//www2.census.gov/programs-surveys/cps/tables/time-
+series/historical-poverty-people/hstpov4.xlsx]
+
+People With Income Below Specified Ratios of Their Poverty Thresholds by
+Selected Characteristics: 2023 [<1.0 MB]
+
+[//www2.census.gov/programs-
+surveys/demo/tables/p60/283/Income-to-Poverty-Ratios.xlsx]
+
+Impact on Poverty of Alternative Resource Measures by Age: 1981 to
+2023 [<1.0 MB]
+
+[//www2.census.gov/programs-surveys/demo/tables/p60/283/Impact-
+on-Poverty.xlsx]
+
+Interrelationships of Three-Year Average State Poverty Rates: 2020
+– 2023 [<1.0 MB]
+
+[//www2.census.gov/programs-
+surveys/demo/tables/p60/283/poverty_state_grid_table.xlsx]
+
+Supplemental Poverty Measure
+
+Table B-1. Two-Adult, Two-Child Poverty Thresholds: 2022 and
+2023 [<1.0MB]
+
+[//www2.census.gov/programs-surveys/demo/tables/p60/283/tableB-
+1_SPMthresh.xlsx]
+
+Table B-2. Number and Percentage of People in Poverty Using the Supplemental Poverty
+Measure by Age, Race, and Hispanic Origin: 2009 to 2023 [< 1.0 MB]
+
+[//www2.census.gov/programs-
+surveys/demo/tables/p60/283/tableB-2.xlsx]
+
+Table B-3. Number and Percentage of People in Poverty Using the Supplemental
+Poverty Measure: 2022 and 2023 [< 1.0 MB]
+
+[//www2.census.gov/programs-
+surveys/demo/tables/p60/283/tableB-3.xlsx]
+
+Table B-4. Number and Percentage of People in Poverty by Different Poverty
+Measures: 2023 [<1.0 MB]
+
+[//www2.census.gov/programs-
+surveys/demo/tables/p60/283/tableB-4.xlsx]
+
+Table B-5. Percentage of People by Ratio of Income/Resources to Poverty
+Threshold: 2022 and 2023 [<1.0 MB]
+
+[//www2.census.gov/programs-
+surveys/demo/tables/p60/283/tableB-5.xlsx]
+
+Table B-6. Effect of Individual Elements on Supplemental Poverty Measure Rates:
+2022 and 2023 [<1.0 MB]
+
+[//www2.census.gov/programs-
+surveys/demo/tables/p60/283/tableB-6.xlsx]
+
+Table B-7. Effect of Individual Elements on the Number of Individuals in Poverty Using the
+Supplemental Poverty Measure: 2022 and 2023 [<1.0 MB]
+
+[//www2.census.gov/programs-
+surveys/demo/tables/p60/283/tableB-7.xlsx]
+
+Number and Percentage of People in Poverty by State and Different Poverty Measures
+Using 3- Year Average: 2021, 2022, and 2023 [<1.0 MB]
+
+Number and Percentage of People in Poverty by Age, State, and Different Poverty
+Measures Using 3-Year Average: 2021, 2022, and 2023 [<1.0 MB]
+
+[//www2.census.gov/programs-
+surveys/demo/tables/p60/283/spm_opm_state.xlsx
+]
+
+[//www2.census.gov/programs-
+surveys/demo/tables/p60/283/spm_opm_state_by_a
+ge.xlsx]
+
+Official+ Poverty Rates by Age: 2009 to 2023 [<1.0 MB][//www2.census.gov/programs-surveys/demo/tables/p60/283/hist_offplus.xlsx]
+
+SPM Thresholds by Metro Area: 2023 [<1.0 MB][//www2.census.gov/programs-surveys/demo/tables/p60/283/SPM-pov-threshold-2023.xlsx]
+
+Figures
+
+Official Poverty Measure:
+
+Figure 1. Number in Poverty and Poverty Rate Using the Official Poverty
+Measure: 1959 to 2023 [<1.0 MB]
+
+[/content/dam/Census/library/visualizations/2024/demo/p
+60-283/figure1.pdf]
+
+Figure 2. People in Poverty Using the Official Poverty Measure: 2022 to
+2023 [<1.0 MB]
+
+[/content/dam/Census/library/visualizations/2024/demo/p60-
+283/figure2.pdf]
+
+Figure 3. Distribution of Total Population and Poverty by Race and Hispanic Origin Using
+the Official Poverty Measure: 2023 [<1.0 MB]
+
+[/content/dam/Census/library/visualizations/2024/
+demo/p60-283/figure3.pdf]
+
+Supplemental Poverty Measure:
+
+Figure 4. Change in Percentage of People in Poverty Using the Supplemental Poverty
+Measure: 2022 to 2023 [<1.0 MB]
+
+[/content/dam/Census/library/visualizations/2024/dem
+o/p60-283/figure4.pdf]
+
+Figure 5. Child Supplemental Poverty Rates by Race and Hispanic Origin:
+2009 to 2023 [<1.0 MB]
+
+[/content/dam/Census/library/visualizations/2024/demo/p60-
+283/figure5.pdf]
+
+Figure 6. Poverty Rates Using the Official+ and Supplemental Poverty Measures:
+2009 to 2023 [<1.0 MB]
+
+[/content/dam/Census/library/visualizations/2024/demo/p6
+0-283/figure6.pdf]
+
+Figure 7. Percentage of People in Poverty by Different Poverty Measures:
+2023 [<1.0 MB]
+
+[/content/dam/Census/library/visualizations/2024/demo/p60-
+283/figure7.pdf]
+
+Figure 8. Poverty Rates Using the Official+ and Supplemental Poverty Measures by
+Age Group: 2009 to 2023 [<1.0 MB]
+
+[/content/dam/Census/library/visualizations/2024/dem
+o/p60-283/figure8.pdf]
+
+Figure 9. Distribution of People by Income-to-Poverty Ratios and Age:
+2023 [<1.0 MB]
+
+[/content/dam/Census/library/visualizations/2024/demo/p60-
+283/figure9.pdf]
+
+Figure 10. Change in Number of People in Supplemental Poverty After Including
+Each Element: 2023 [<1.0 MB]
+
+[/content/dam/Census/library/visualizations/2024/demo/
+p60-283/figure10.pdf]
+
+Source Information
+
+For information on confidentiality protection, sampling error, nonsampling error, and definitions,
+
+see https://www2.census.gov/programs-surveys/cps/techdocs/cpsmar24.pdf [https://www2.census.gov/programs-
+surveys/cps/techdocs/cpsmar24.pdf] .
+
+The Census Bureau has reviewed this data product to ensure appropriate access, use, and disclosure avoidance
+
+protection of the confidential source data used to produce this product. (Data Management System [DMS] number: P-
+
+7534374, Disclosure Review Board [DRB] approval number: CBDRB-FY24-0435).
+
+Others in Series
+
+Publication
+
+Health Insurance Coverage in the
+United States: 2022
+
+September 12, 2023
+
+This report presents data on health insurance coverage in the
+United States in 2022 based on information collected in the
+2023 CPS ASEC.
+
+[/library/publications/2023/demo/p60-281.html]
+
+Publication
+
+Income in the United States: 2023
+
+September 10, 2024
+
+This report presents data on income, earnings, & income
+inequality in the United States based on information collected in
+the 2024 and earlier CPS ASEC.
+
+[/library/publications/2024/demo/p60-282.html]
+
+Publication
+
+Health Insurance Coverage in the
+United States: 2023
+
+September 10, 2024
+
+This report presents data on health insurance coverage in the
+United States in 2023 based on information collected in the
+2024 CPS ASEC.
+
+[/library/publications/2024/demo/p60-284.html]
+
+VIEW ALL [/LIBRARY/PUBLICATIONS/TIME-SERIES/P60.HTML]
+
+Related Information
+
+Supplemental Poverty Measure [/topics/income-poverty/supplemental-poverty-measure.html]
+
+Income & Poverty Publications [/topics/income-poverty/library/publications.html]
+
+Income & Poverty Data Tables [/topics/income-poverty/data/tables.html]
+
+You May Be Interested In
+
+America Counts Story
+
+America Counts Story
+
+America Counts: Stories
+
+New Census Tool
+
+About Income & Poverty
+
+Provides Child Poverty
+Rates in All School
+Districts
+
+National Poverty in
+
+America Awareness
+Month: Measuring
+Poverty
+
+Explore various America
+
+The 2019 SAIPE School
+
+The Census Bureau’s
+
+Counts stories on the
+topic of income and
+poverty.
+
+[/topics/income-
+poverty/stories.html]
+
+District Profiles data
+visualization provides
+demographic and
+
+2020 Supplemental
+Poverty Measure rate
+was 2.3 percentage
+
+[/library/stories/2021/10/census-
+tool-provides-access-to-child-
+poverty-rates-every-united-states-
+school-district.html]
+
+[/library/stories/2022/01/nationa
+l-poverty-in-america-awareness-
+month-measuring-poverty.html]
+
+Page Last Revised - September 3, 2024
+
+

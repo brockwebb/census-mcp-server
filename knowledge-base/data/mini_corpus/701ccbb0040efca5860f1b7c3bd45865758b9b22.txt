@@ -1,0 +1,128 @@
+An ofﬁcial website of the United States government Here’s how you know
+
+(cid:0)
+
+   BACK TO TOPICS PAGE [/ACS/WWW/ABOUT/WHY-WE-ASK-EACH-QUES…
+
+We ask questions about home heating fuel to create statistics
+
+about home energy use.
+
+These data are used in government programs that analyze
+
+community air quality and energy needs. Federal agencies use
+
+these statistics to forecast future energy demand, analyze the
+
+fuels available to community residents, and plan and fund
+
+programs that help low-income residents afford to heat their
+
+homes.
+
+Your privacy concerns
+
+We use your conﬁdential survey answers to create statistics like those in the results below and in the full tables that contain all th
+
+data—no one is able to ﬁgure out your survey answers from the statistics we produce. The Census Bureau is legally bound to
+
+strict conﬁdentiality requirements. Individual records are not shared with anyone, including federal agencies and law enforcemen
+
+entities. By law, the Census Bureau cannot share respondents' answers with anyone, including companies, other federal agenci
+
+and law enforcement.
+
+Question as it appears on the form
+
+We ask one question about fuel used to better understand how people heat their homes.
+
+(cid:0)
+
+   VIEW QUESTION
+
+Results from this question
+
+The results from this question are compiled to provide communities with important statistics about housing
+characteristics. You can see some of these published statistics here for the nation, states, and your community.
+
+United States
+
+Occupied Housing Units Using Utility Gas for Heating
+
+46.8 percent [https://data.census.gov/table/ACSDP5Y2023.DP04]
+
+Source: Latest ACS 5-Year Estimates
+
+Data Proﬁles/Housing Characteristics [https://data.census.gov/table/ACSDP5Y2023.DP04]
+
+Occupied Housing Units Using Electricity for Heating
+
+40.8 percent [https://data.census.gov/table/ACSDP5Y2023.DP04]
+
+Source: Latest ACS 5-Year Estimates
+Data Proﬁles/Housing Characteristics [https://data.census.gov/table/ACSDP5Y2023.DP04]
+
+Occupied Housing Units Using Solar Energy for Heating
+
+0.3 percent [https://data.census.gov/table/ACSDP5Y2023.DP04]
+
+Source: Latest ACS 5-Year Estimates
+
+Data Proﬁles/Housing Characteristics [https://data.census.gov/table/ACSDP5Y2023.DP04]
+
+Is this page helpful?
+
+✕
+
+ Yes 
+
+ No
+
+Home heating fuel data help communities:
+
+Provide Assistance With Utilities
+
+We want to know more about which fuel is used to heat homes in combination with the cost of those fuels and the characteristics
+
+of the low-income households that need assistance with their utilities. This information helps communities enroll eligible
+
+households in assistance programs like the Low Income Home Energy Assistance Program and qualify for grants to fund
+
+assistance. These data are also used to evaluate whether these programs beneﬁt eligible households.
+
+Estimate Future Energy Demand
+
+Information on the current users of certain heating systems and the kinds of systems used in new homes helps communities
+
+predict future demand for fuels and the future costs of systems in use in a community. For example, the Department of Energy
+
+uses these data to project demand over the next 30 years, assessing the energy needs of the U.S. economy in a domestic and
+
+international context.
+
+Measure Environmental Impacts
+
+Communities with older heating systems may have lower air quality at times when they are in high use. Home heating fuel data
+
+are used to develop an inventory of the national aggregate emissions of each greenhouse gas and to research and report on the
+relationships among different development patterns (including housing and travel information) and public health and pollution
+
+(Clean Air Act, Clean Water Act).
+
+History of home heating fuel question
+
+The home heating fuel question originated with the 1940 Census. It was transferred to the ACS in 2005 when it replaced the
+
+decennial census long form.
+
+[https://acsdatacommunity.prb.org/]
+
+Is this page helpful?
+
+✕
+
+ Yes 
+
+ No
+
+

@@ -1,0 +1,1078 @@
+{
+  "meta": {
+    "category": "economics",
+    "target_count": 75,
+    "source": "Official Census Economic Characteristics + Subject Definitions 2023",
+    "confidence_distribution": "High - core economics covered in B19-B24 table series",
+    "strategic_note": "Covers 4-64 power law golden variables (income, employment, poverty) plus comprehensive economic analysis",
+    "validation_target": "85% LLM mapping success rate"
+  },
+  "concepts": [
+    {
+      "id": "cendata:MedianHouseholdIncome",
+      "label": "Median Household Income",
+      "bucket": "economics",
+      "universe": "Households",
+      "stat_method": "median",
+      "census_tables": [
+        "B19013"
+      ],
+      "definition": "The median income of households in the past 12 months (in inflation-adjusted dollars)",
+      "source_page": 45,
+      "status": "auto",
+      "confidence": 0.95
+    },
+    {
+      "id": "cendata:MeanHouseholdIncome",
+      "label": "Mean Household Income",
+      "bucket": "economics",
+      "universe": "Households",
+      "stat_method": "mean",
+      "census_tables": [
+        "B19025"
+      ],
+      "definition": "The average (arithmetic mean) income of households in the past 12 months",
+      "source_page": 45,
+      "status": "auto",
+      "confidence": 0.9
+    },
+    {
+      "id": "cendata:PovertyRate",
+      "label": "Poverty Rate",
+      "bucket": "economics",
+      "universe": "Population for whom poverty status is determined",
+      "stat_method": "rate",
+      "census_tables": [
+        "B17001"
+      ],
+      "definition": "Percentage of people whose income in the past 12 months was below the poverty threshold",
+      "source_page": 52,
+      "status": "auto",
+      "confidence": 0.95
+    },
+    {
+      "id": "cendata:UnemploymentRate",
+      "label": "Unemployment Rate",
+      "bucket": "economics",
+      "universe": "Civilian labor force 16 years and over",
+      "stat_method": "rate",
+      "census_tables": [
+        "B23025"
+      ],
+      "definition": "Percentage of the civilian labor force that is unemployed",
+      "source_page": 78,
+      "status": "auto",
+      "confidence": 0.9
+    },
+    {
+      "id": "cendata:LaborForceParticipationRate",
+      "label": "Labor Force Participation Rate",
+      "bucket": "economics",
+      "universe": "Population 16 years and over",
+      "stat_method": "rate",
+      "census_tables": [
+        "B23025"
+      ],
+      "definition": "Percentage of the population 16 years and over that is in the civilian labor force",
+      "source_page": 78,
+      "status": "auto",
+      "confidence": 0.85
+    },
+    {
+      "id": "cendata:EmploymentPopulationRatio",
+      "label": "Employment Population Ratio",
+      "bucket": "economics",
+      "universe": "Population 16 years and over",
+      "stat_method": "rate",
+      "census_tables": [
+        "B23025"
+      ],
+      "definition": "Percentage of the population 16 years and over that is employed",
+      "source_page": 78,
+      "status": "auto",
+      "confidence": 0.85
+    },
+    {
+      "id": "cendata:MedianFamilyIncome",
+      "label": "Median Family Income",
+      "bucket": "economics",
+      "universe": "Families",
+      "stat_method": "median",
+      "census_tables": [
+        "B19113"
+      ],
+      "definition": "The median income of families in the past 12 months (in inflation-adjusted dollars)",
+      "source_page": 45,
+      "status": "auto",
+      "confidence": 0.9
+    },
+    {
+      "id": "cendata:PerCapitaIncome",
+      "label": "Per Capita Income",
+      "bucket": "economics",
+      "universe": "Total population",
+      "stat_method": "mean",
+      "census_tables": [
+        "B19301"
+      ],
+      "definition": "Mean income computed for every man, woman, and child in a particular group",
+      "source_page": 45,
+      "status": "auto",
+      "confidence": 0.9
+    },
+    {
+      "id": "cendata:MedianEarnings",
+      "label": "Median Earnings",
+      "bucket": "economics",
+      "universe": "Population 16 years and over with earnings",
+      "stat_method": "median",
+      "census_tables": [
+        "B20002"
+      ],
+      "definition": "The median earnings in the past 12 months for workers",
+      "source_page": 56,
+      "status": "auto",
+      "confidence": 0.85
+    },
+    {
+      "id": "cendata:MedianEarningsMale",
+      "label": "Median Earnings for Males",
+      "bucket": "economics",
+      "universe": "Male population 16 years and over with earnings",
+      "stat_method": "median",
+      "census_tables": [
+        "B20002"
+      ],
+      "definition": "The median earnings in the past 12 months for male workers",
+      "source_page": 56,
+      "status": "auto",
+      "confidence": 0.85
+    },
+    {
+      "id": "cendata:MedianEarningsFemale",
+      "label": "Median Earnings for Females",
+      "bucket": "economics",
+      "universe": "Female population 16 years and over with earnings",
+      "stat_method": "median",
+      "census_tables": [
+        "B20002"
+      ],
+      "definition": "The median earnings in the past 12 months for female workers",
+      "source_page": 56,
+      "status": "auto",
+      "confidence": 0.85
+    },
+    {
+      "id": "cendata:GenderPayGap",
+      "label": "Gender Pay Gap",
+      "bucket": "economics",
+      "universe": "Population 16 years and over with earnings",
+      "stat_method": "ratio",
+      "census_tables": [
+        "B20002"
+      ],
+      "definition": "Ratio of female to male median earnings",
+      "source_page": 56,
+      "status": "auto",
+      "confidence": 0.8
+    },
+    {
+      "id": "cendata:EmploymentByIndustry",
+      "label": "Employment by Industry",
+      "bucket": "economics",
+      "universe": "Civilian employed population 16 years and over",
+      "stat_method": "count",
+      "census_tables": [
+        "C24050"
+      ],
+      "definition": "Distribution of employed workers across industry categories",
+      "source_page": 82,
+      "status": "auto",
+      "confidence": 0.85
+    },
+    {
+      "id": "cendata:EmploymentByOccupation",
+      "label": "Employment by Occupation",
+      "bucket": "economics",
+      "universe": "Civilian employed population 16 years and over",
+      "stat_method": "count",
+      "census_tables": [
+        "C24010"
+      ],
+      "definition": "Distribution of employed workers across occupation categories",
+      "source_page": 82,
+      "status": "auto",
+      "confidence": 0.85
+    },
+    {
+      "id": "cendata:ManagementOccupations",
+      "label": "Management Occupations",
+      "bucket": "economics",
+      "universe": "Civilian employed population 16 years and over",
+      "stat_method": "count",
+      "census_tables": [
+        "C24010"
+      ],
+      "definition": "Workers employed in management, business, science, and arts occupations",
+      "source_page": 82,
+      "status": "auto",
+      "confidence": 0.8
+    },
+    {
+      "id": "cendata:ServiceOccupations",
+      "label": "Service Occupations",
+      "bucket": "economics",
+      "universe": "Civilian employed population 16 years and over",
+      "stat_method": "count",
+      "census_tables": [
+        "C24010"
+      ],
+      "definition": "Workers employed in service occupations",
+      "source_page": 82,
+      "status": "auto",
+      "confidence": 0.8
+    },
+    {
+      "id": "cendata:SalesOfficeOccupations",
+      "label": "Sales and Office Occupations",
+      "bucket": "economics",
+      "universe": "Civilian employed population 16 years and over",
+      "stat_method": "count",
+      "census_tables": [
+        "C24010"
+      ],
+      "definition": "Workers employed in sales and office occupations",
+      "source_page": 82,
+      "status": "auto",
+      "confidence": 0.8
+    },
+    {
+      "id": "cendata:ProductionOccupations",
+      "label": "Production, Transportation, and Material Moving Occupations",
+      "bucket": "economics",
+      "universe": "Civilian employed population 16 years and over",
+      "stat_method": "count",
+      "census_tables": [
+        "C24010"
+      ],
+      "definition": "Workers employed in production, transportation, and material moving occupations",
+      "source_page": 82,
+      "status": "auto",
+      "confidence": 0.8
+    },
+    {
+      "id": "cendata:TeacherSalary",
+      "label": "Teacher Median Earnings",
+      "bucket": "economics",
+      "universe": "Educational instruction workers with earnings",
+      "stat_method": "median",
+      "census_tables": [
+        "B24122"
+      ],
+      "definition": "Median earnings for workers in educational instruction and library occupations",
+      "source_page": 82,
+      "status": "auto",
+      "confidence": 0.75
+    },
+    {
+      "id": "cendata:NurseSalary",
+      "label": "Nurse Median Earnings",
+      "bucket": "economics",
+      "universe": "Healthcare practitioners with earnings",
+      "stat_method": "median",
+      "census_tables": [
+        "B24122"
+      ],
+      "definition": "Median earnings for workers in healthcare practitioner occupations",
+      "source_page": 82,
+      "status": "auto",
+      "confidence": 0.75
+    },
+    {
+      "id": "cendata:EngineerSalary",
+      "label": "Engineer Median Earnings",
+      "bucket": "economics",
+      "universe": "Architecture and engineering workers with earnings",
+      "stat_method": "median",
+      "census_tables": [
+        "B24122"
+      ],
+      "definition": "Median earnings for workers in architecture and engineering occupations",
+      "source_page": 82,
+      "status": "auto",
+      "confidence": 0.75
+    },
+    {
+      "id": "cendata:WorkersByClass",
+      "label": "Workers by Class of Worker",
+      "bucket": "economics",
+      "universe": "Civilian employed population 16 years and over",
+      "stat_method": "count",
+      "census_tables": [
+        "C24060"
+      ],
+      "definition": "Distribution of workers by class of worker (private, government, self-employed)",
+      "source_page": 82,
+      "status": "auto",
+      "confidence": 0.85
+    },
+    {
+      "id": "cendata:SelfEmployed",
+      "label": "Self-Employed Workers",
+      "bucket": "economics",
+      "universe": "Civilian employed population 16 years and over",
+      "stat_method": "count",
+      "census_tables": [
+        "C24060"
+      ],
+      "definition": "Workers who are self-employed in own not incorporated business",
+      "source_page": 82,
+      "status": "auto",
+      "confidence": 0.8
+    },
+    {
+      "id": "cendata:GovernmentWorkers",
+      "label": "Government Workers",
+      "bucket": "economics",
+      "universe": "Civilian employed population 16 years and over",
+      "stat_method": "count",
+      "census_tables": [
+        "C24060"
+      ],
+      "definition": "Workers employed by federal, state, or local government",
+      "source_page": 82,
+      "status": "auto",
+      "confidence": 0.8
+    },
+    {
+      "id": "cendata:PrivateSectorWorkers",
+      "label": "Private Sector Workers",
+      "bucket": "economics",
+      "universe": "Civilian employed population 16 years and over",
+      "stat_method": "count",
+      "census_tables": [
+        "C24060"
+      ],
+      "definition": "Workers employed by private for-profit companies",
+      "source_page": 82,
+      "status": "auto",
+      "confidence": 0.8
+    },
+    {
+      "id": "cendata:WorkFromHome",
+      "label": "Work From Home",
+      "bucket": "economics",
+      "universe": "Workers 16 years and over",
+      "stat_method": "count",
+      "census_tables": [
+        "B08301"
+      ],
+      "definition": "Workers who primarily work from home",
+      "source_page": 91,
+      "status": "auto",
+      "confidence": 0.75
+    },
+    {
+      "id": "cendata:FullTimeWorkers",
+      "label": "Full-Time Workers",
+      "bucket": "economics",
+      "universe": "Civilian employed population 16 years and over",
+      "stat_method": "count",
+      "census_tables": [
+        "B23001"
+      ],
+      "definition": "Workers usually working 35 or more hours per week",
+      "source_page": 78,
+      "status": "auto",
+      "confidence": 0.85
+    },
+    {
+      "id": "cendata:PartTimeWorkers",
+      "label": "Part-Time Workers",
+      "bucket": "economics",
+      "universe": "Civilian employed population 16 years and over",
+      "stat_method": "count",
+      "census_tables": [
+        "B23001"
+      ],
+      "definition": "Workers usually working less than 35 hours per week",
+      "source_page": 78,
+      "status": "auto",
+      "confidence": 0.85
+    },
+    {
+      "id": "cendata:MultipleJobs",
+      "label": "Multiple Job Holders",
+      "bucket": "economics",
+      "universe": "Civilian employed population 16 years and over",
+      "stat_method": "count",
+      "census_tables": [
+        "B23022"
+      ],
+      "definition": "Workers who hold multiple jobs",
+      "source_page": 78,
+      "status": "auto",
+      "confidence": 0.75
+    },
+    {
+      "id": "cendata:WeeksWorkedPerYear",
+      "label": "Weeks Worked Per Year",
+      "bucket": "economics",
+      "universe": "Population 16 years and over",
+      "stat_method": "count",
+      "census_tables": [
+        "B23022"
+      ],
+      "definition": "Distribution of workers by number of weeks worked in the past 12 months",
+      "source_page": 78,
+      "status": "auto",
+      "confidence": 0.75
+    },
+    {
+      "id": "cendata:IncomeByHouseholdSize",
+      "label": "Income by Household Size",
+      "bucket": "economics",
+      "universe": "Households",
+      "stat_method": "median",
+      "census_tables": [
+        "B19019"
+      ],
+      "definition": "Median household income by number of persons in household",
+      "source_page": 45,
+      "status": "auto",
+      "confidence": 0.8
+    },
+    {
+      "id": "cendata:IncomeByAge",
+      "label": "Income by Age of Householder",
+      "bucket": "economics",
+      "universe": "Households",
+      "stat_method": "median",
+      "census_tables": [
+        "B19049"
+      ],
+      "definition": "Median household income by age of householder",
+      "source_page": 45,
+      "status": "auto",
+      "confidence": 0.8
+    },
+    {
+      "id": "cendata:IncomeByEducation",
+      "label": "Income by Educational Attainment",
+      "bucket": "economics",
+      "universe": "Population 25 years and over with income",
+      "stat_method": "median",
+      "census_tables": [
+        "B20004"
+      ],
+      "definition": "Median earnings by educational attainment",
+      "source_page": 56,
+      "status": "auto",
+      "confidence": 0.8
+    },
+    {
+      "id": "cendata:IncomeByRace",
+      "label": "Income by Race and Ethnicity",
+      "bucket": "economics",
+      "universe": "Households",
+      "stat_method": "median",
+      "census_tables": [
+        "B19013A",
+        "B19013B",
+        "B19013C",
+        "B19013D",
+        "B19013E",
+        "B19013F",
+        "B19013G",
+        "B19013H",
+        "B19013I"
+      ],
+      "definition": "Median household income by race and Hispanic or Latino origin",
+      "source_page": 45,
+      "status": "auto",
+      "confidence": 0.75
+    },
+    {
+      "id": "cendata:PovertyByAge",
+      "label": "Poverty by Age Group",
+      "bucket": "economics",
+      "universe": "Population for whom poverty status is determined",
+      "stat_method": "rate",
+      "census_tables": [
+        "B17001"
+      ],
+      "definition": "Poverty rates by age groups",
+      "source_page": 52,
+      "status": "auto",
+      "confidence": 0.85
+    },
+    {
+      "id": "cendata:ChildPoverty",
+      "label": "Child Poverty Rate",
+      "bucket": "economics",
+      "universe": "Population under 18 years for whom poverty status is determined",
+      "stat_method": "rate",
+      "census_tables": [
+        "B17001"
+      ],
+      "definition": "Percentage of children under 18 years with income below poverty level",
+      "source_page": 52,
+      "status": "auto",
+      "confidence": 0.9
+    },
+    {
+      "id": "cendata:SeniorPoverty",
+      "label": "Senior Poverty Rate",
+      "bucket": "economics",
+      "universe": "Population 65 years and over for whom poverty status is determined",
+      "stat_method": "rate",
+      "census_tables": [
+        "B17001"
+      ],
+      "definition": "Percentage of people 65 years and over with income below poverty level",
+      "source_page": 52,
+      "status": "auto",
+      "confidence": 0.85
+    },
+    {
+      "id": "cendata:PovertyByFamily",
+      "label": "Family Poverty Rate",
+      "bucket": "economics",
+      "universe": "Families for whom poverty status is determined",
+      "stat_method": "rate",
+      "census_tables": [
+        "B17010"
+      ],
+      "definition": "Percentage of families with income below poverty level",
+      "source_page": 52,
+      "status": "auto",
+      "confidence": 0.85
+    },
+    {
+      "id": "cendata:PovertyByRace",
+      "label": "Poverty by Race and Ethnicity",
+      "bucket": "economics",
+      "universe": "Population for whom poverty status is determined",
+      "stat_method": "rate",
+      "census_tables": [
+        "B17001A",
+        "B17001B",
+        "B17001C",
+        "B17001D",
+        "B17001E",
+        "B17001F",
+        "B17001G",
+        "B17001H",
+        "B17001I"
+      ],
+      "definition": "Poverty rates by race and Hispanic or Latino origin",
+      "source_page": 52,
+      "status": "auto",
+      "confidence": 0.75
+    },
+    {
+      "id": "cendata:DeepPoverty",
+      "label": "Deep Poverty Rate",
+      "bucket": "economics",
+      "universe": "Population for whom poverty status is determined",
+      "stat_method": "rate",
+      "census_tables": [
+        "B17002"
+      ],
+      "definition": "Percentage of people with income below 50% of poverty threshold",
+      "source_page": 52,
+      "status": "auto",
+      "confidence": 0.8
+    },
+    {
+      "id": "cendata:NearPoverty",
+      "label": "Near Poverty Rate (150% of poverty)",
+      "bucket": "economics",
+      "universe": "Population for whom poverty status is determined",
+      "stat_method": "rate",
+      "census_tables": [
+        "C17002"
+      ],
+      "definition": "Percentage of people with income below 150% of poverty threshold",
+      "source_page": 52,
+      "status": "auto",
+      "confidence": 0.8
+    },
+    {
+      "id": "cendata:LowIncomeRate",
+      "label": "Low Income Rate (200% of poverty)",
+      "bucket": "economics",
+      "universe": "Population for whom poverty status is determined",
+      "stat_method": "rate",
+      "census_tables": [
+        "C17002"
+      ],
+      "definition": "Percentage of people with income below 200% of poverty threshold",
+      "source_page": 52,
+      "status": "auto",
+      "confidence": 0.8
+    },
+    {
+      "id": "cendata:IncomeInequality",
+      "label": "Income Inequality (Gini Index)",
+      "bucket": "economics",
+      "universe": "Households",
+      "stat_method": "ratio",
+      "census_tables": [
+        "B19083"
+      ],
+      "definition": "Gini coefficient measuring income inequality",
+      "source_page": 45,
+      "status": "auto",
+      "confidence": 0.7
+    },
+    {
+      "id": "cendata:RetirementIncome",
+      "label": "Retirement Income",
+      "bucket": "economics",
+      "universe": "Households with retirement income",
+      "stat_method": "median",
+      "census_tables": [
+        "B19059"
+      ],
+      "definition": "Retirement income including pensions, IRA distributions, and 401k distributions",
+      "source_page": 45,
+      "status": "auto",
+      "confidence": 0.75
+    },
+    {
+      "id": "cendata:SocialSecurityIncome",
+      "label": "Social Security Income",
+      "bucket": "economics",
+      "universe": "Households with Social Security income",
+      "stat_method": "median",
+      "census_tables": [
+        "B19055"
+      ],
+      "definition": "Social Security income from retirement, survivors, and disability benefits",
+      "source_page": 45,
+      "status": "auto",
+      "confidence": 0.8
+    },
+    {
+      "id": "cendata:SupplementalSecurityIncome",
+      "label": "Supplemental Security Income (SSI)",
+      "bucket": "economics",
+      "universe": "Households with SSI",
+      "stat_method": "median",
+      "census_tables": [
+        "B19056"
+      ],
+      "definition": "Supplemental Security Income for aged, blind, and disabled",
+      "source_page": 45,
+      "status": "auto",
+      "confidence": 0.75
+    },
+    {
+      "id": "cendata:SNAPBenefits",
+      "label": "SNAP/Food Stamp Benefits",
+      "bucket": "economics",
+      "universe": "Households receiving SNAP benefits",
+      "stat_method": "count",
+      "census_tables": [
+        "B22003"
+      ],
+      "definition": "Households receiving Supplemental Nutrition Assistance Program benefits",
+      "source_page": 45,
+      "status": "auto",
+      "confidence": 0.8
+    },
+    {
+      "id": "cendata:PublicAssistanceIncome",
+      "label": "Public Assistance Income",
+      "bucket": "economics",
+      "universe": "Households with public assistance income",
+      "stat_method": "median",
+      "census_tables": [
+        "B19057"
+      ],
+      "definition": "Cash public assistance income including TANF",
+      "source_page": 45,
+      "status": "auto",
+      "confidence": 0.75
+    },
+    {
+      "id": "cendata:UnemploymentCompensation",
+      "label": "Unemployment Compensation",
+      "bucket": "economics",
+      "universe": "Households with unemployment compensation",
+      "stat_method": "median",
+      "census_tables": [
+        "B19054"
+      ],
+      "definition": "Unemployment compensation benefits received",
+      "source_page": 45,
+      "status": "auto",
+      "confidence": 0.75
+    },
+    {
+      "id": "cendata:DisabilityBenefits",
+      "label": "Disability Benefits",
+      "bucket": "economics",
+      "universe": "Population with disability benefits",
+      "stat_method": "count",
+      "census_tables": [
+        "B18131"
+      ],
+      "definition": "People receiving disability benefits from government programs",
+      "source_page": 45,
+      "status": "auto",
+      "confidence": 0.75
+    },
+    {
+      "id": "cendata:WagesAndSalaries",
+      "label": "Wages and Salaries",
+      "bucket": "economics",
+      "universe": "Households with wage and salary income",
+      "stat_method": "median",
+      "census_tables": [
+        "B19051"
+      ],
+      "definition": "Wage and salary income from employment",
+      "source_page": 45,
+      "status": "auto",
+      "confidence": 0.85
+    },
+    {
+      "id": "cendata:SelfEmploymentIncome",
+      "label": "Self-Employment Income",
+      "bucket": "economics",
+      "universe": "Households with self-employment income",
+      "stat_method": "median",
+      "census_tables": [
+        "B19052"
+      ],
+      "definition": "Net income from self-employment including business and farm income",
+      "source_page": 45,
+      "status": "auto",
+      "confidence": 0.8
+    },
+    {
+      "id": "cendata:InterestDividendsRentalIncome",
+      "label": "Interest, Dividends, and Rental Income",
+      "bucket": "economics",
+      "universe": "Households with interest, dividends, or rental income",
+      "stat_method": "median",
+      "census_tables": [
+        "B19053"
+      ],
+      "definition": "Income from interest, dividends, net rental income, royalties, and estates",
+      "source_page": 45,
+      "status": "auto",
+      "confidence": 0.75
+    },
+    {
+      "id": "cendata:IndustryAgriculture",
+      "label": "Agriculture, Forestry, Fishing and Hunting",
+      "bucket": "economics",
+      "universe": "Civilian employed population 16 years and over",
+      "stat_method": "count",
+      "census_tables": [
+        "C24050"
+      ],
+      "definition": "Workers employed in agriculture, forestry, fishing and hunting industry",
+      "source_page": 82,
+      "status": "auto",
+      "confidence": 0.8
+    },
+    {
+      "id": "cendata:IndustryConstruction",
+      "label": "Construction Industry",
+      "bucket": "economics",
+      "universe": "Civilian employed population 16 years and over",
+      "stat_method": "count",
+      "census_tables": [
+        "C24050"
+      ],
+      "definition": "Workers employed in construction industry",
+      "source_page": 82,
+      "status": "auto",
+      "confidence": 0.8
+    },
+    {
+      "id": "cendata:IndustryManufacturing",
+      "label": "Manufacturing Industry",
+      "bucket": "economics",
+      "universe": "Civilian employed population 16 years and over",
+      "stat_method": "count",
+      "census_tables": [
+        "C24050"
+      ],
+      "definition": "Workers employed in manufacturing industry",
+      "source_page": 82,
+      "status": "auto",
+      "confidence": 0.8
+    },
+    {
+      "id": "cendata:IndustryRetailTrade",
+      "label": "Retail Trade Industry",
+      "bucket": "economics",
+      "universe": "Civilian employed population 16 years and over",
+      "stat_method": "count",
+      "census_tables": [
+        "C24050"
+      ],
+      "definition": "Workers employed in retail trade industry",
+      "source_page": 82,
+      "status": "auto",
+      "confidence": 0.8
+    },
+    {
+      "id": "cendata:IndustryHealthcare",
+      "label": "Healthcare and Social Assistance Industry",
+      "bucket": "economics",
+      "universe": "Civilian employed population 16 years and over",
+      "stat_method": "count",
+      "census_tables": [
+        "C24050"
+      ],
+      "definition": "Workers employed in healthcare and social assistance industry",
+      "source_page": 82,
+      "status": "auto",
+      "confidence": 0.8
+    },
+    {
+      "id": "cendata:IndustryEducation",
+      "label": "Educational Services Industry",
+      "bucket": "economics",
+      "universe": "Civilian employed population 16 years and over",
+      "stat_method": "count",
+      "census_tables": [
+        "C24050"
+      ],
+      "definition": "Workers employed in educational services industry",
+      "source_page": 82,
+      "status": "auto",
+      "confidence": 0.8
+    },
+    {
+      "id": "cendata:IndustryFinance",
+      "label": "Finance and Insurance Industry",
+      "bucket": "economics",
+      "universe": "Civilian employed population 16 years and over",
+      "stat_method": "count",
+      "census_tables": [
+        "C24050"
+      ],
+      "definition": "Workers employed in finance and insurance industry",
+      "source_page": 82,
+      "status": "auto",
+      "confidence": 0.8
+    },
+    {
+      "id": "cendata:IndustryTechnology",
+      "label": "Information Technology Industry",
+      "bucket": "economics",
+      "universe": "Civilian employed population 16 years and over",
+      "stat_method": "count",
+      "census_tables": [
+        "C24050"
+      ],
+      "definition": "Workers employed in information industry including technology",
+      "source_page": 82,
+      "status": "auto",
+      "confidence": 0.75
+    },
+    {
+      "id": "cendata:IndustryGovernment",
+      "label": "Public Administration Industry",
+      "bucket": "economics",
+      "universe": "Civilian employed population 16 years and over",
+      "stat_method": "count",
+      "census_tables": [
+        "C24050"
+      ],
+      "definition": "Workers employed in public administration industry",
+      "source_page": 82,
+      "status": "auto",
+      "confidence": 0.8
+    },
+    {
+      "id": "cendata:IndustryAccommodationFood",
+      "label": "Accommodation and Food Services Industry",
+      "bucket": "economics",
+      "universe": "Civilian employed population 16 years and over",
+      "stat_method": "count",
+      "census_tables": [
+        "C24050"
+      ],
+      "definition": "Workers employed in accommodation and food services industry",
+      "source_page": 82,
+      "status": "auto",
+      "confidence": 0.8
+    },
+    {
+      "id": "cendata:CommuteTime",
+      "label": "Mean Commute Time",
+      "bucket": "economics",
+      "universe": "Workers 16 years and over who did not work at home",
+      "stat_method": "mean",
+      "census_tables": [
+        "B08013"
+      ],
+      "definition": "Mean travel time to work for workers",
+      "source_page": 91,
+      "status": "auto",
+      "confidence": 0.9
+    },
+    {
+      "id": "cendata:WorkingPoverty",
+      "label": "Working Poverty Rate",
+      "bucket": "economics",
+      "universe": "Population 16 years and over in labor force for whom poverty status is determined",
+      "stat_method": "rate",
+      "census_tables": [
+        "B17005"
+      ],
+      "definition": "Percentage of people in the labor force with income below poverty level",
+      "source_page": 52,
+      "status": "auto",
+      "confidence": 0.75
+    },
+    {
+      "id": "cendata:MedianHouseholdIncomeInflationAdjusted",
+      "label": "Real Median Household Income",
+      "bucket": "economics",
+      "universe": "Households",
+      "stat_method": "median",
+      "census_tables": [
+        "B19013"
+      ],
+      "definition": "Median household income adjusted for inflation to constant dollars",
+      "source_page": 45,
+      "status": "auto",
+      "confidence": 0.85
+    },
+    {
+      "id": "cendata:EarningsByEducationLevel",
+      "label": "Earnings by Education Level",
+      "bucket": "economics",
+      "universe": "Population 25 years and over with earnings",
+      "stat_method": "median",
+      "census_tables": [
+        "B20004"
+      ],
+      "definition": "Median earnings by detailed educational attainment levels",
+      "source_page": 56,
+      "status": "auto",
+      "confidence": 0.8
+    },
+    {
+      "id": "cendata:CollegeGraduateEarnings",
+      "label": "College Graduate Earnings Premium",
+      "bucket": "economics",
+      "universe": "Population 25 years and over with earnings",
+      "stat_method": "ratio",
+      "census_tables": [
+        "B20004"
+      ],
+      "definition": "Earnings advantage of bachelor's degree holders over high school graduates",
+      "source_page": 56,
+      "status": "auto",
+      "confidence": 0.75
+    },
+    {
+      "id": "cendata:LongTermUnemployment",
+      "label": "Long-Term Unemployment",
+      "bucket": "economics",
+      "universe": "Civilian labor force 16 years and over",
+      "stat_method": "count",
+      "census_tables": [
+        "B23025"
+      ],
+      "definition": "Workers unemployed for 27 weeks or longer",
+      "source_page": 78,
+      "status": "auto",
+      "confidence": 0.7
+    },
+    {
+      "id": "cendata:DiscouragedWorkers",
+      "label": "Discouraged Workers",
+      "bucket": "economics",
+      "universe": "Population 16 years and over not in labor force",
+      "stat_method": "count",
+      "census_tables": [
+        "B23022"
+      ],
+      "definition": "People not in labor force who want to work but have given up looking",
+      "source_page": 78,
+      "status": "auto",
+      "confidence": 0.7
+    },
+    {
+      "id": "cendata:UnderemploymentRate",
+      "label": "Underemployment Rate",
+      "bucket": "economics",
+      "universe": "Civilian labor force 16 years and over",
+      "stat_method": "rate",
+      "census_tables": [
+        "B23001"
+      ],
+      "definition": "Workers employed part-time for economic reasons plus unemployed",
+      "source_page": 78,
+      "status": "auto",
+      "confidence": 0.65
+    },
+    {
+      "id": "cendata:EconomicMobility",
+      "label": "Economic Mobility Index",
+      "bucket": "economics",
+      "universe": "Households",
+      "stat_method": "ratio",
+      "census_tables": [
+        "B19081"
+      ],
+      "definition": "Measure of income movement between quintiles over time",
+      "source_page": 45,
+      "status": "auto",
+      "confidence": 0.6
+    },
+    {
+      "id": "cendata:MinimumWageWorkers",
+      "label": "Minimum Wage Workers",
+      "bucket": "economics",
+      "universe": "Population 16 years and over with earnings",
+      "stat_method": "count",
+      "census_tables": [
+        "B20005A"
+      ],
+      "definition": "Workers earning at or below federal minimum wage",
+      "source_page": 56,
+      "status": "auto",
+      "confidence": 0.65
+    },
+    {
+      "id": "cendata:ExecutiveManagerialEarnings",
+      "label": "Executive and Managerial Earnings",
+      "bucket": "economics",
+      "universe": "Management occupations workers with earnings",
+      "stat_method": "median",
+      "census_tables": [
+        "B24122"
+      ],
+      "definition": "Median earnings for workers in executive, administrative, and managerial occupations",
+      "source_page": 82,
+      "status": "auto",
+      "confidence": 0.75
+    },
+    {
+      "id": "cendata:TipWageEarnings",
+      "label": "Service Worker Earnings (Tip-Based)",
+      "bucket": "economics",
+      "universe": "Food service workers with earnings",
+      "stat_method": "median",
+      "census_tables": [
+        "B24122"
+      ],
+      "definition": "Median earnings for workers in food service occupations",
+      "source_page": 82,
+      "status": "auto",
+      "confidence": 0.7
+    }
+  ]
+}

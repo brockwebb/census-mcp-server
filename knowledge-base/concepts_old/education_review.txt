@@ -1,0 +1,219 @@
+# Education Concepts - Review Queue (0.75-0.9 confidence)
+# Human review required - edit and mark as 'reviewed' when done
+
+## 1. School Enrollment (confidence: 0.85)
+ID: cendata:SchoolEnrollment
+Universe: Population 3 years and over
+Stat Method: count
+Tables: ['B14001']
+Definition: Number of people enrolled in educational institutions
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 2. Preschool Enrollment (confidence: 0.80)
+ID: cendata:PreschoolEnrollment
+Universe: Population 3 and 4 years
+Stat Method: count
+Tables: ['B14003']
+Definition: Children ages 3-4 enrolled in preschool programs
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 3. Elementary School Enrollment (confidence: 0.85)
+ID: cendata:ElementaryEnrollment
+Universe: Population 5 to 9 years
+Stat Method: count
+Tables: ['B14001']
+Definition: Children enrolled in elementary school (grades K-5)
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 4. Middle School Enrollment (confidence: 0.85)
+ID: cendata:MiddleSchoolEnrollment
+Universe: Population 10 to 14 years
+Stat Method: count
+Tables: ['B14001']
+Definition: Students enrolled in middle school (grades 6-8)
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 5. High School Enrollment (confidence: 0.85)
+ID: cendata:HighSchoolEnrollment
+Universe: Population 15 to 17 years
+Stat Method: count
+Tables: ['B14001']
+Definition: Students enrolled in high school (grades 9-12)
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 6. Graduate School Enrollment (confidence: 0.85)
+ID: cendata:GraduateSchoolEnrollment
+Universe: Population 25 years and over
+Stat Method: count
+Tables: ['B14004']
+Definition: Students enrolled in graduate or professional school
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 7. Public School Enrollment (confidence: 0.85)
+ID: cendata:PublicSchoolEnrollment
+Universe: Enrolled population 3 years and over
+Stat Method: count
+Tables: ['B14002']
+Definition: Students enrolled in public educational institutions
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 8. Private School Enrollment (confidence: 0.85)
+ID: cendata:PrivateSchoolEnrollment
+Universe: Enrolled population 3 years and over
+Stat Method: count
+Tables: ['B14002']
+Definition: Students enrolled in private educational institutions
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 9. Some College Education (confidence: 0.85)
+ID: cendata:SomeCollege
+Universe: Population 25 years and over
+Stat Method: count
+Tables: ['B15003']
+Definition: Population with some college but no degree
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 10. Professional Degree Attainment (confidence: 0.85)
+ID: cendata:ProfessionalDegree
+Universe: Population 25 years and over
+Stat Method: count
+Tables: ['B15003']
+Definition: Population with professional degree (JD, MD, etc.)
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 11. Doctorate Degree Attainment (confidence: 0.85)
+ID: cendata:DoctorateDegree
+Universe: Population 25 years and over
+Stat Method: count
+Tables: ['B15003']
+Definition: Population with doctorate degree
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 12. Field of Bachelor's Degree (confidence: 0.80)
+ID: cendata:FieldOfBachelorsDegree
+Universe: Population 25 years and over with bachelor's degree
+Stat Method: count
+Tables: ['B15012']
+Definition: Distribution of bachelor's degrees by field of study
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 13. STEM Degree Attainment (confidence: 0.75)
+ID: cendata:STEMDegrees
+Universe: Population 25 years and over with bachelor's degree
+Stat Method: count
+Tables: ['B15012']
+Definition: Population with degrees in Science, Technology, Engineering, Mathematics
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 14. Educational Attainment by Age (confidence: 0.80)
+ID: cendata:EducationByAge
+Universe: Population 25 years and over
+Stat Method: count
+Tables: ['B15001']
+Definition: Educational attainment cross-tabulated by age groups
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 15. Educational Attainment by Gender (confidence: 0.85)
+ID: cendata:EducationByGender
+Universe: Population 25 years and over
+Stat Method: count
+Tables: ['B15002']
+Definition: Educational attainment cross-tabulated by sex
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 16. Educational Attainment by Race (confidence: 0.75)
+ID: cendata:EducationByRace
+Universe: Population 25 years and over
+Stat Method: count
+Tables: ['B15002A', 'B15002B', 'B15002C']
+Definition: Educational attainment by race and Hispanic origin
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 17. Teacher Population (confidence: 0.85)
+ID: cendata:TeacherPopulation
+Universe: Civilian employed population 16 years and over
+Stat Method: count
+Tables: ['C24010']
+Definition: Number of people employed as teachers
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 18. Education Administrators (confidence: 0.75)
+ID: cendata:EducationAdministrators
+Universe: Civilian employed population 16 years and over
+Stat Method: count
+Tables: ['C24010']
+Definition: Number of people employed in education administration
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 19. Childcare Workers (confidence: 0.75)
+ID: cendata:ChildcareWorkers
+Universe: Civilian employed population 16 years and over
+Stat Method: count
+Tables: ['C24010']
+Definition: Number of people employed in childcare services
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 20. Library Workers (confidence: 0.75)
+ID: cendata:LibraryWorkers
+Universe: Civilian employed population 16 years and over
+Stat Method: count
+Tables: ['C24010']
+Definition: Number of people employed in library services
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 21. Poverty by Educational Attainment (confidence: 0.85)
+ID: cendata:EducationPoverty
+Universe: Population 25 years and over for whom poverty status determined
+Stat Method: rate
+Tables: ['B17003']
+Definition: Poverty rate by educational attainment level
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 22. Employment by Educational Attainment (confidence: 0.85)
+ID: cendata:EducationEmployment
+Universe: Civilian labor force 25 years and over
+Stat Method: rate
+Tables: ['B23006']
+Definition: Employment rate by educational attainment level
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 23. Parental Educational Attainment (confidence: 0.75)
+ID: cendata:ParentalEducation
+Universe: Related children under 18 years
+Stat Method: count
+Tables: ['B15003']
+Definition: Educational attainment of parents with children under 18
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 24. School Graduation Rate (confidence: 0.85)
+ID: cendata:GraduationRate
+Universe: Population 18 to 24 years
+Stat Method: rate
+Tables: ['B15003']
+Definition: Percentage completing high school or equivalent
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+

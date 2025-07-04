@@ -1,0 +1,1420 @@
+Birth Cohort Geographic Mobility in the 
+United States: 2005–2023
+American Community Survey Reports
+
+By Justin V. Palarino
+
+ACS-60
+
+April 2025
+
+INTRODUCTION
+
+A population’s composition and distribution are 
+directly affected by geographic mobility, sometimes 
+referred to as migration. Geographic mobility is the 
+movement of people from one place to another. Rates 
+of geographic mobility vary by key demographic, 
+socioeconomic, and temporal factors. Importantly, 
+changes in geographic mobility do not happen uni-
+formly across all population groups.1, 2 
+
+A large and growing body of research tells us that age, 
+calendar year, and birth cohort play essential roles in 
+understanding a population at any one point in time.3 
+Of particular interest is the birth cohort—groups of 
+people who were born in the same timeframe. These 
+people pass through life together and experience 
+key historical events at similar ages. Birth cohorts are 
+often informally referred to as “generations.”
+
+This brief uses American Community Survey (ACS) 
+1-year data from 2005 to 2023 and examines all 
+people 1 year or older and who were born after the 
+year 1927. ACS respondents from these data years are 
+assigned to one of six commonly recognized birth 
+
+1 The U.S. Census Bureau has reviewed this data product to 
+
+ensure appropriate access, use, and disclosure avoidance protection 
+of the confidential source data used to produce this product (Data 
+Management System [DMS] number: P-7533841, Disclosure Review 
+Board [DRB] approval number: CBDRB-FY25-POP001-0034).
+
+2 K. Kerns-D’Amore, B. McKenzie, and L. S. Locklear, “Migration 
+in the United States: 2006 to 2019,” American Community Survey 
+Reports, 2023, <www.census.gov/content/dam/Census/library/
+publications/2023/acs/acs-53.pdf>.
+
+cohorts based on their reported year of birth  
+(Figure 1):4, 5, 6, 7 
+
+•  The Silent Generation (birth years from 1928 to 
+
+1945). 
+
+•  The Baby Boomer Generation (birth years from 
+
+1946 to 1964).
+
+•  Generation X (birth years from 1965 to 1980).
+
+•  The Millennial Generation (birth years from 1981 to 
+
+1996).
+
+•  Generation Z (birth years from 1997 to 2012).
+
+•  Generation Alpha (birth years from 2013 onward).
+
+Because each birth cohort has a nonoverlapping 
+birth year range, each cohort occupies a unique age 
+range in any given year.8 In 2005, only those in the 
+Silent Generation were of retirement age (65 years 
+and older). By 2011, the oldest of the Baby Boomers 
+
+4 Beginning in 2006, ACS data for 2005 were released for 
+geographic areas with populations of 65,000 and greater. For 
+information on the ACS sample design and other topics, visit  
+<www.census.gov/acs/>.
+
+5 The COVID-19 pandemic posed challenges to collecting ACS 
+
+data in 2020 and, as a result, the ACS experienced high rates of 
+nonresponse. To address these concerns, the Census Bureau released 
+“experimental” estimates for the 2020 ACS 1-year data. For this 
+reason, 2020 ACS 1-year estimates are not included in these analyses. 
+For more information, refer to <www.census.gov/programs-surveys/
+acs/technical-documentation/user-notes/2021-02.html>.
+
+6 Birth year ranges for these birth cohorts come from Pew 
+
+Research at <www.pewresearch.org/short-reads/2019/01/17/
+where-millennials-end-and-generation-z-begins/>.
+
+7 The U.S. Census Bureau does not have official definitions for 
+these birth cohorts. The birth year ranges for each birth cohort may 
+vary slightly across Census Bureau products. The use of these catego-
+ries does not imply that this is the preferred method of presenting or 
+analyzing data. 
+
+3 Y. Yang and K. C. Land, Age-Period-Cohort Analysis New Models, 
+
+8 For a description of age ranges by year and birth cohort, refer to 
+
+Methods, and Empirical Applications, CRC Press, 2013.
+
+Appendix Table 1.
+
+Figure 1.
+Year of Birth Ranges by Birth Cohort
+(Population aged 1 and older living in the United States, excluding Puerto Rico)
+
+ Generation Alpha
+
+Generation Z
+
+Millennial Generation
+
+Generation X
+
+Post-
+2012
+
+1997–2012
+
+1981–1996
+
+1965–1980
+
+Baby Boomer Generation
+
+1946–1964
+
+Silent Generation
+
+1928–1945
+
+1925
+
+1935
+
+1945
+
+1955
+
+1965
+
+1975
+Birth year
+
+1985
+
+1995
+
+2005
+
+2015
+
+Source: M. Dimock, “Deﬁning generations: Where Millennials end and Generation Z begins,” Pew Research Center, Short Reads, 
+2019, <www.pewresearch.org/short-reads/2019/01/17/where-millennials-end-and-generation-z-begins/>.
+
+were of retirement age. Inversely, 
+the Millennial Generation was split 
+between childhood (under 18 years 
+old) and adulthood until the year 
+2014, when the youngest millennial 
+turned 18. The following year, 2015, 
+the oldest members of Generation 
+Z entered adulthood. 
+
+Variation within cohorts illuminates 
+potential differences in geographic 
+mobility. For instance, those 
+under 18 years old typically do not 
+have the ability to autonomously 
+migrate, and therefore rely on 
+parental decisions to move. Once 
+18 years old, many new adults will 
+move out of their parents’ resi-
+dence, some to university dormito-
+ries and others elsewhere. Adults 
+between 25 and 64 years old tend 
+to be finished with their educa-
+tion and may move for reasons like 
+employment or changes in marital 
+status. Those 65 years and older 
+have decidedly different mobility. 
+Some are ending their professional 
+careers and have newfound free-
+dom to relocate if they so choose. 
+
+What Is the American Community Survey?
+
+The American Community Survey (ACS) is a nationwide survey 
+designed to provide communities with reliable and timely 
+demographic, social, economic, and housing data for the nation, 
+states, congressional districts, counties, places, and other localities 
+every year. It has an annual sample size of about 3.5 million 
+addresses across the United States and Puerto Rico and includes 
+both housing units and group quarters (e.g., nursing homes and 
+prisons). The ACS is conducted in every county throughout the 
+nation and in every municipio in Puerto Rico, where it is called 
+the Puerto Rico Community Survey. Beginning in 2006, ACS data 
+for 2005 were released for geographic areas with populations of 
+65,000 and greater. For information on the ACS sample design and 
+other topics, visit <www.census.gov/programs-surveys/acs/>.
+
+MEASURING GEOGRAPHIC 
+MOBILITY IN THE ACS
+
+This report uses ACS 1-year data to 
+examine the relationship between 
+geographic mobility and birth 
+cohort in the United States. The 
+U.S. Census Bureau conducts the 
+ACS annually to gather information 
+about the socioeconomic, housing, 
+and demographic characteristics 
+
+of communities across the United 
+States.9 The ACS asks whether 
+people 1 year or older lived in 
+their current residence at this time 
+last year (Figure 2). If they report 
+that they lived at their current 
+residence last year, they were non-
+movers. Those who report living 
+
+9 Estimates for Puerto Rico are not 
+included in the national estimates provided 
+in this report.
+
+2 
+
+U.S. Census Bureau
+
+in a different residence last year 
+were movers, or those who were 
+geographically mobile. These 
+movers are then asked to report 
+their prior residence. 
+
+COMPOSITION OF  
+U.S. POPULATION BY  
+BIRTH COHORT OVER TIME
+
+As time passes, the birth cohort 
+composition of the popula-
+tion will necessarily change 
+(Figure 3). New cohorts are born 
+and grow, while older cohorts 
+shrink. Between 2005 and 2023, 
+the Silent Generation (those 
+born between 1928 and 1945) 
+decreased from 13.5 percent of 
+the U.S. population to 5.3 percent. 
+Baby Boomers (born between 
+1946 and 1964) declined from 
+28.8 percent of the population in 
+2005 to 21.0 percent in 2023. On 
+the other end of the cohort spec-
+trum, Generation Z (born between 
+1997 and 2012) occupied only 11.0 
+percent of the total population in 
+2005 and reached 21.0 percent by 
+2023. 
+
+GEOGRAPHIC MOBILITY BY 
+BIRTH COHORT
+
+At first glance, there was clear 
+variation in geographic mobility 
+across birth cohorts (Figure 4). 
+Older cohorts (Silent Generation 
+and Baby Boomers) tended to 
+be less geographically mobile 
+than younger cohorts (Millennials, 
+Generation Z, and Generation 
+Alpha). Between 2005 and 2021, 
+the Silent Generation had lower 
+mobility rates than any other 
+birth cohort, with their lowest rate 
+coming in at 5.3 percent in 2009. 
+Baby Boomers had mobility rates 
+just above the Silent Generation 
+in these years, and in 2022 and 
+2023 they had lower mobility rates. 
+Based on these two examples, 
+much is to be learned by examin-
+ing mobility rates both between 
+and within birth cohorts.
+
+Figure 2.
+Question on Geographic Mobility From the 2023 
+American Community Survey
+
+Note: For more information, refer to 
+<www.census.gov/programs-surveys/acs/methodology/questionnaire-archive.html>. 
+Source: U.S. Census Bureau, 2023 American Community Survey.
+
+The Silent Generation appears 
+to be relatively stationary com-
+pared to all other cohorts across 
+nearly every data year. In 2005, 6.5 
+percent of the Silent Generation 
+(born between 1928 and 1945) had 
+moved in the last year. By 2010, 
+that rate fell to 5.4 percent. In 
+2023, when their ages ranged from 
+78 to 95 years old, 6.4 percent of 
+the Silent Generation had moved 
+in the last calendar year. Like the 
+Silent Generation, Baby Boomers 
+maintained relatively low mobility 
+rates across all data years. Only 
+two data years, 2005 and 2006, 
+showed mover rates that exceeded 
+10 percent. From 2007 onward, 
+
+fewer than 10 percent of Baby 
+Boomers moved in any given year, 
+and, by 2023, 5.8 percent of the 
+Baby Boomers had moved in the 
+last year. Potential explanations 
+for the trends observed in these 
+cohorts relate to the age of the 
+population and, perhaps, home-
+ownership. Public ACS tables show 
+that older members of the popula-
+tion move at lower rates than their 
+younger peers.10 This is particularly 
+
+10 U.S. Census Bureau, “Geographic 
+Mobility by Selected Characteristics in the 
+United States,” American Community Survey 
+1-year estimates, Subject Tables, Table 
+S0701, 2023, <https://data.census.gov/table/
+ACSST1Y2023.S0701?q=s0701>, accessed on 
+October 24, 2024.
+
+U.S. Census Bureau 
+
+3
+
+Figure 3.
+Percentage of U.S. Population by Birth Cohort and Year: 2005–2023
+(Population aged 1 and older and born after 1927 living in the United States,
+excluding Puerto Rico)
+
+Percent
+
+100
+
+90
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+Generation Alpha: Post-2012
+Generation Z: 1997–2012
+Millennials: 1981–1996
+Generation X: 1965–1980 
+Baby Boomers: 1946–1964
+Silent Generation: 1928–1945
+
+100
+
+90
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+Data year
+
+1 In data year 2014, there is one case in which year of birth is 1997 and age is 18 or older. For consistency, this case is excluded from analyses. 
+2 In data year 2015, there are 16 cases in which year of birth is 1996 and age is less than 18, but all of these cases have a response date in 
+November or December of 2014 with a date of birth being after the response date. For consistency, these 16 cases are excluded from 
+analyses.
+3 The COVID-19 pandemic posed challenges to collecting ACS data in 2020 and, as a result, the ACS experienced high rates of nonresponse. 
+To address these concerns, the Census Bureau released “experimental” estimates for the 2020 ACS 1-year data. 
+For this reason, 2020 ACS 1-year estimates are not included in these analyses. For more information, visit 
+<www.census.gov/programs-surveys/acs/technical-documentation/user-notes/2021-02.html>. 
+Note: For more information on the ACS, visit <www.census.gov/acs>.
+Source: U.S. Census Bureau, 2005–2019 and 2021–2023 American Community Survey 1-year estimates. 
+
+Figure 4.
+Geographic Mobility by Birth Cohort and Year: 2005–2023
+(Population aged 1 and older and born after 1927 living in the 
+United States, excluding Puerto Rico)
+
+Percent movers
+
+Generation Alpha: Post-2012
+Generation Z: 1997–2012
+Millennials: 1981–1996
+Generation X: 1965–1980
+Baby Boomers: 1946–1964
+Silent Generation: 1928–1945
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+Data year
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+20201
+
+2021
+
+2022
+
+2023
+
+1 The COVID-19 pandemic posed challenges to collecting ACS data in 2020 and, as a result, the ACS experienced high rates of 
+nonresponse. To address these concerns, the Census Bureau released “experimental” estimates for the 2020 ACS 1-year data. For 
+this reason, 2020 ACS 1-year estimates are not included in these analyses. For more information, visit 
+<www.census.gov/programs-surveys/acs/technical-documentation/user-notes/2021-02.html>.
+Note: For more information on the ACS, visit <http://www.census.gov/acs>.
+Source: U.S. Census Bureau, 2005–2019 and 2021–2023 American Community Surveys 1-year estimates.
+
+4 
+
+U.S. Census Bureau
+
+evident among those aged 65 
+years and older. Older age groups 
+also show higher homeownership 
+rates, which may correspond with 
+less geographic mobility. Those 
+between the ages of 55 and 64, 65 
+and 74, and 75 to 84 all maintained 
+homeownership rates above 70 
+percent in both the 2010 and 2020 
+Censuses.11 
+
+In 2005, 23.9 percent of 
+Generation X had moved in the last 
+calendar year, the highest rate for 
+this cohort for the entire period. 
+The mobility rates for Generation X 
+declined every calendar year, and 
+by 2023 rested at 8.3 percent.
+
+The most geographically mobile 
+birth cohort between 2006 
+and 2022 was Millennials (born 
+between 1981 and 1996). In 2006, 
+when Millennials’ ages ranged 
+from 10 to 25, 23.6 percent moved 
+in the last year. In 2014, that rate 
+increased to 27.1 percent, the 
+highest mobility rate for any birth 
+cohort between 2005 and 2023. 
+The years 2005 and 2023 were 
+the only points in which mover 
+rates for Millennials fell below 
+Generation X and then Generation 
+Z, respectively. The final year of 
+this period marked the lowest 
+mobility rate for Millennials at 16.7 
+percent.
+
+Generation Z, the youngest gen-
+eration to have a mover rate in 
+every data year in the period, dis-
+played mover rates that appeared 
+as an inversion of Millennials’. 
+Rather than increasing between 
+2005 and 2014, the mover rates for 
+Generation Z generally declined. In 
+2005, when Generation Z ranged 
+from ages 1 to 9, 20.6 percent 
+moved in the last year. That year 
+marked the highest mover rate of 
+the period. By 2014, 14.8 percent 
+
+11 M. Cromwell and C. Mazur, “Housing 
+Characteristics: 2020,” 2020 Census Briefs, 
+2023, <https://www2.census.gov/library/
+publications/decennial/2020/census-briefs/
+c2020br-09.pdf>.
+
+of Generation Z had moved in the 
+last year. Interestingly, Generation 
+Z was the only cohort to expe-
+rience increasing geographic 
+mobility between 2019 (the year 
+immediately preceding the COVID-
+19 pandemic) and 2023. Between 
+2021 and 2023, the mover rates for 
+Generation Z increased from 16.6 
+percent to 18.3 percent. 
+
+Generation Alpha (those born 
+after 2012) entered the universe 
+of movers in 2014 with a mover 
+rate of 21.8 percent.12 This cohort’s 
+mover rate declined each year 
+between 2014 and 2023, when it 
+reached 12.4 percent. Generation 
+X and Generation Alpha are the 
+only birth cohorts to experience 
+annual declines for each year in 
+the universe.
+
+BIRTH COHORT GEOGRAPHIC 
+MOBILITY BY AGE GROUPS
+
+The benefit of examining 
+geographic mobility by birth 
+cohort is that the data allow for 
+disaggregation. It is possible 
+to break out birth cohorts into 
+meaningful age groups to better 
+understand mobility across the 
+life course. Four important age 
+groups are 1- to 17-year-olds 
+(i.e., childhood/adolescence), 
+18- to 24-year-olds (i.e., young 
+adulthood, college-age), 25- to 
+64-year-olds (i.e., adulthood, 
+working-age), and 65 years old 
+and older (i.e., retirement-age). 
+
+Aged 1 to 17
+
+Geographic mobility among those 
+aged 1 to 17 is typically not an 
+autonomous decision. Because 
+these people are children or ado-
+lescents, their mobility reflects that 
+of their guardians. As such, this 
+group is unique when compared 
+to the other three age groups. 
+Geographic mobility rates for 1- to 
+
+12 Movers, as defined in the ACS, must be 
+
+1 year old or over. 
+
+17-year-olds generally fell below 
+about 22.0 percent (Figure 5). 
+
+Millennials fell into this age group 
+between the years 2005 and 2014. 
+Child Millennials had lower geo-
+graphic mobility rates in every year 
+they were in universe than the total 
+Millennial population (Figure 4). 
+For example, in 2010, Millennials 
+between the ages of 1 and 17 had a 
+mover rate of 12.3 percent (Figure 
+5), while the total Millennial mover 
+rate that year was 26.1 percent 
+(Figure 4).
+
+Between 2005 and 2014, all of 
+Generation Z fell between 1 and 
+17 years old, meaning that the 
+geographic mobility rate for this 
+age group matches the total 
+Generation Z geographic mobil-
+ity rate in these years. Between 
+survey years 2015 and 2023, 
+the geographic mobility rate for 
+Generation Z was lower in the 1 
+to 17 age group (Figure 5) than 
+the Generation Z total (Figure 
+4). Interestingly, child Generation 
+Z maintained higher geographic 
+mobility rates than child Millennials 
+between 2005 and 2014. 
+
+All of Generation Alpha, who 
+entered the universe of potential 
+movers in 2014, were between the 
+ages of 1 and 17 during the period. 
+As such, this age group’s mover 
+rate does not differ from that of 
+the total Generation Alpha. 
+
+Aged 18 to 24
+
+18- to 24-year-olds represent the 
+early stages of adulthood and 
+college-age individuals. In this age 
+group, many people leave their 
+childhood home and relocate to 
+attend college or university or to 
+establish their own households. 
+Millennials at ages 18 to 24 had 
+higher geographic mobility rates 
+(Figure 6) than the total Millennial 
+estimates in each survey year of 
+ACS data (Figures 4). In 2021, the 
+
+U.S. Census Bureau 
+
+5
+
+Figure 5.
+Geographic Mobility by Birth Cohort and Year for 1- to 17-Year-Olds: 2005–2023
+(Population aged 1 and older and born after 1981 living in the United States, excluding Puerto Rico)
+
+Percent movers
+
+Generation Alpha: Post-2012
+Generation Z: 1997–2012
+Millennials: 1981–1996
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+20141
+Data year
+
+20152
+
+2016
+
+2017
+
+2018
+
+2019
+
+20203
+
+2021
+
+2022
+
+2023
+
+1 In data year 2014, there is one case in which year of birth is 1997 and age is 18 or older. For consistency, this case is excluded from analyses.
+2 In data year 2015, there are 16 cases in which year of birth is 1996 and age is less than 18, but all of these cases have a response 
+date in November or December of 2014 with a date of birth being after the response date. For consistency, these 16 cases are 
+excluded from analyses.
+3 The COVID-19 pandemic posed challenges to collecting ACS data in 2020 and, as a result, the ACS experienced high rates of nonresponse. 
+To address these concerns, the Census Bureau released “experimental” estimates for the 2020 ACS 1-year data. 
+For this reason, 2020 ACS 1-year estimates are not included in these analyses. For more information, visit 
+<www.census.gov/programs-surveys/acs/technical-documentation/user-notes/2021-02.html>.
+Note: For more information on the ACS, visit <www.census.gov/acs>.
+Source: U.S. Census Bureau, 2005–2019 and 2021–2023 American Community Survey 1-year estimates. 
+
+final year that Millennials fell into 
+this age group, the total geo-
+graphic mobility rate for Millennials 
+aged 18 to 24 was 27.8 percent and 
+the geographic mobility rate for all 
+Millennials was 19.9 percent. 
+
+Generation Z at ages 18 to 24 also 
+had higher mover rates than the 
+total Generation Z geographic 
+mobility rate between 2015 and 
+2023 (Figure 4). In 2023, 26.6 
+percent of Generation Z between 
+18 to 24 years old moved in the last 
+year (Figure 6), and 18.3 percent 
+of all Generation Z did the same 
+(Figure 4).
+
+Aged 25 to 64 
+
+The age group of 25- to 64-year-
+olds reflects working-age adults. 
+People in this group often have 
+completed their educations, if they 
+
+attended post-high school educa-
+tion, and entered the workforce. 
+The oldest Millennials in the 25 to 
+64 age category were between the 
+ages of 25 and 41 for this period. 
+Millennials in this age group 
+largely maintained higher mover 
+rates than the total Millennial 
+mover rates found in Figure 4. In 
+survey year 2006, 36.4 percent 
+of Millennials 24 to 64 years old 
+moved in the last year, the highest 
+geographic mobility rate of any 
+birth cohort at any age (Figure 7). 
+In other words, over one-third of 
+Millennials aged 25 to 64 moved in 
+the last year in this survey year.13
+
+Generation X fell entirely within 
+the 25- to 64-year-olds age group 
+between survey years 2006 and 
+
+13 The oldest Millennials in 2023 were 42 
+
+years old.
+
+2023, so their working-age mobil-
+ity rate was the same as their 
+overall mobility rate.
+
+For the years 2005 to 2023, Baby 
+Boomers in the 25 to 64 age cat-
+egory were between the ages of 41 
+and 64. Between 2005 and 2012, 
+the geographic mobility rates for 
+Baby Boomers 25 to 64 years old 
+were not different than the total 
+Baby Boomer rates (Figure 4). 
+From 2013 onward, Baby Boomers 
+aged 25 to 64 had higher geo-
+graphic mobility than all Baby 
+Boomers. For instance, in 2023, 6.5 
+percent of Baby Boomers aged 25 
+to 64 (Figure 7) and 5.8 percent 
+of all Baby Boomers (Figure 4) 
+moved in the last year, respectively. 
+
+People in the Silent Generation 
+for the 25 to 64 age category fell 
+between the ages of 59 and 64 for 
+
+6 
+
+U.S. Census Bureau
+
+Figure 6.
+Geographic Mobility by Birth Cohort and Year for 18- to 24-Year-Olds: 2005–2023
+(Population aged 1 and older and born after 1965 living in the United States, excluding Puerto Rico)
+
+Percent movers
+
+Generation Z: 1997–2012
+Millennials: 1981–1996
+Generation X: 1965–1980 
+
+40
+
+35
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+Data year
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+20201
+
+2021
+
+2022
+
+2023
+
+1 The COVID-19 pandemic posed challenges to collecting ACS data in 2020 and, as a result, the ACS experienced high rates of 
+nonresponse. To address these concerns, the Census Bureau released “experimental” estimates for the 2020 ACS 1-year data. For 
+this reason, 2020 ACS 1-year estimates are not included in these analyses. For more information, visit 
+<www.census.gov/programs-surveys/acs/technical-documentation/user-notes/2021-02.html>.
+Note: For more information on the ACS, visit <www.census.gov/acs>.
+Source: U.S. Census Bureau, 2005–2019 and 2021–2023 American Community Survey 1-year estimates.
+
+the years 2005 to 2010. The Silent 
+Generation maintained higher 
+mover rates for each year between 
+2005 and 2010 for respondents 25 
+to 64 years old relative to the total 
+Silent Generation. These are the 
+only data years where the Silent 
+Generation fell into this age group.
+
+Survey year 2022 marked the 
+first year Generation Z entered 
+the 25 to 64 age group. In 2022 
+and 2023, Generation Z in this 
+age group were aged 25 or 26. In 
+both 2022 and 2023, Generation 
+Z in this age group had higher 
+geographic mobility than the total 
+Generation Z.
+
+Aged 65 and Older
+
+Age 65 typically reflects retirement 
+in the United States. At this stage 
+of life, many end their professional 
+careers or shift to part-time work. 
+This allows for greater flexibility 
+in terms of geographic mobility. 
+
+Those in oldest ends of this age 
+range may also encounter new 
+barriers to geographic mobility in 
+the form of illness or disability. The 
+only birth cohorts in this age range 
+were the Silent Generation and the 
+Baby Boomer Generation.
+
+Baby Boomers aged 65 and older 
+had lower geographic mobil-
+ity rates than Baby Boomers as 
+a whole. In 2023, 5.3 percent of 
+Baby Boomers aged 65 and older 
+(Figure 8) moved in the previous 
+year, compared to 5.8 percent of 
+all Baby Boomers (Figure 4). 
+
+The Silent Generation 65 years 
+and older had lower geographic 
+mobility rates than the total Silent 
+Generation between 2005 and 
+2008 and, by 2009, they were 
+essentially the same. By 2011, all 
+members of the Silent Generation 
+were 65 years and older, mean-
+ing that their geographic mobility 
+
+rates did not differ from that of the 
+total Silent Generation.
+
+SUMMARY
+
+Time is an essential component in 
+understanding geographic mobil-
+ity. As the ACS 1-year data show, 
+changes in geographic mobility are 
+not uniform over time. Across most 
+survey years in the ACS 1-year 
+data, the Millennial Generation had 
+the highest geographic mobility 
+rates compared to all other birth 
+cohorts. These higher rates per-
+sisted even with overall declines in 
+geographic mobility from 2015 to 
+2022. The Silent Generation and 
+Baby Boomers experienced low 
+and relatively stable geographic 
+mobility rates across the period. 
+Between survey years 2021 and 
+2023, the first 3 years of ACS 
+1-year data available following the 
+onset of the COVID-19 pandemic, 
+only Generation Z saw increased 
+geographic mobility. 
+
+U.S. Census Bureau 
+
+7
+
+Figure 7.
+Geographic Mobility by Birth Cohort and Year for 25- to 64-Year-Olds: 2005–2023
+(Population aged 1 and older and born after 1927 living in the United States, excluding Puerto Rico)
+
+Percent movers
+
+Generation Z: 1997–2012
+Millennials: 1981–1996
+Generation X: 1965–1980 
+Baby Boomers: 1946–1964
+Silent Generation: 1928–1945
+
+40
+
+35
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+Data year
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+20201
+
+2021
+
+2022
+
+2023
+
+1 The COVID-19 pandemic posed challenges to collecting ACS data in 2020 and, as a result, the ACS experienced high rates of 
+nonresponse. To address these concerns, the Census Bureau released “experimental” estimates for the 2020 ACS 1-year data. For 
+this reason, 2020 ACS 1-year estimates are not included in these analyses. For more information, visit 
+<www.census.gov/programs-surveys/acs/technical-documentation/user-notes/2021-02.html>.
+Note: For more information on the ACS, visit <www.census.gov/acs>.
+Source: U.S. Census Bureau, 2005–2019 and 2021–2023 American Community Survey 1-year estimates.
+
+Figure 8.
+Percentage of Movers by Birth Cohort and Year for Those Aged 65 and Older: 2005–2023
+(Population aged 1 and older and born after 1927 living in the United States, excluding Puerto Rico)
+
+Percent movers
+
+Baby Boomers: 1946–1964
+Silent Generation: 1928–1945
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+20141
+Data year
+
+20152
+
+2016
+
+2017
+
+2018
+
+2019
+
+20203
+
+2021
+
+2022
+
+2023
+
+1 In data year 2014, there is one case in which year of birth is 1997 and age is 18 or older. For consistency, this case is excluded from analyses.
+2 In data year 2015, there are 16 cases in which year of birth is 1996 and age is less than 18, but all of these cases have a response 
+date in November or December of 2014 with a date of birth being after the response date. For consistency, these 16 cases are 
+excluded from analyses.
+3 The COVID-19 pandemic posed challenges to collecting ACS data in 2020 and, as a result, the ACS experienced high rates of nonresponse. 
+To address these concerns, the Census Bureau released “experimental” estimates for the 2020 ACS 1-year data. For this reason, 2020 ACS 
+1-year estimates are not included in these analyses. For more information, visit 
+<www.census.gov/programs-surveys/acs/technical-documentation/user-notes/2021-02.html>.
+Note: For more information on the ACS, visit <www.census.gov/acs>.
+Source: U.S. Census Bureau, 2006–2019 and 2021–2023 American Community Survey 1-year estimates.
+
+8 
+
+U.S. Census Bureau
+
+Disaggregating birth cohorts by 
+age group shows that geographic 
+mobility rates differed even 
+within birth cohorts. College-age 
+Millennials and Generation Z had 
+higher geographic mobility rates 
+than their respective total birth 
+cohort estimates. Baby Boomers 
+had lower geographic mobility for 
+those 65 years and older than all 
+Baby Boomers. This report only 
+begins to shed light on the com-
+plex nature of geographic mobil-
+ity and highlights some of the key 
+characteristics associated with its 
+variability.
+
+SOURCE AND ACCURACY
+
+The data presented in this report 
+are based on American Community 
+Survey (ACS) samples interviewed 
+from January 1 through December 
+31 for each of the years between 
+2005 and 2019 and each of the 
+years between 2021 and 2023. 
+The estimates based on these 
+samples describe the average 
+values of person, household, and 
+housing unit characteristics over 
+this period of collection. Sampling 
+error is the uncertainty between 
+an estimate based on a sample 
+and the corresponding value 
+that would be obtained if the 
+estimate were based on the entire 
+population (as from a census). 
+Measures of sampling error are 
+
+provided in the form of margins 
+of error for all estimates included 
+in this report. All comparative 
+statements in this report have 
+undergone statistical testing at the 
+90 percent confidence level, unless 
+otherwise noted. In addition to 
+sampling error, nonsampling error 
+may be introduced during any 
+of the operations used to collect 
+and process survey data, such as 
+editing, reviewing, or keying data 
+from questionnaires. For more 
+information on sampling and 
+estimation methods, confidentiality 
+protection, and sampling and 
+nonsampling errors, refer to the 
+2023 ACS Accuracy of the Data 
+document at <www.census.gov/
+programs-surveys/acs/technical-
+documentation.html>.
+
+U.S. Census Bureau 
+
+9
+
+Appendix Table 1.
+Age Ranges for Each Birth Cohort by Data Year
+(Population aged 1 or older and born after 1927 living in the United States, excluding Puerto Rico)
+
+Data year
+
+2005 . . . . . . . . . . . . .
+2006 . . . . . . . . . . . . .
+2007 . . . . . . . . . . . . .
+2008 . . . . . . . . . . . . .
+2009 . . . . . . . . . . . . .
+2010 . . . . . . . . . . . . .
+2011 . . . . . . . . . . . . .
+2012 . . . . . . . . . . . . .
+2013 . . . . . . . . . . . . .
+2014 . . . . . . . . . . . . .
+2015 . . . . . . . . . . . . .
+2016 . . . . . . . . . . . . .
+2017 . . . . . . . . . . . . .
+2018 . . . . . . . . . . . . .
+2019 . . . . . . . . . . . . .
+2020 . . . . . . . . . . . . .
+2021 . . . . . . . . . . . . .
+2022 . . . . . . . . . . . . .
+2023 . . . . . . . . . . . . .
+
+Silent  
+Generation: 
+1928–1945
+
+Baby Boomers: 
+1946–1964
+
+Generation X: 
+1965–1980
+
+Millennials: 
+1981–1996
+
+Generation Z: 
+1997–2012
+
+Generation 
+Alpha:  
+Post-2012
+
+59–76
+60–77
+61–78
+62–79
+63–80
+64–81
+65–82
+66–83
+67–84
+68–85
+69–86
+70–87
+71–88
+72–89
+73–90
+X
+75–92
+76–93
+77–94
+
+40–58
+41–59
+42–60
+43–61
+44–62
+45–63
+46–64
+47–65
+48–66
+49–67
+50–68
+51–69
+52–70
+53–71
+54–72
+X
+56–74
+57–75
+58–76
+
+24–39
+25–40
+26–41
+27–42
+28–43
+29–44
+30–45
+31–46
+32–47
+33–48
+34–49
+35–50
+36–51
+37–52
+38–53
+X
+40–55
+41–56
+42–57
+
+8–23
+9–24
+10–25
+11–26
+12–27
+13–28
+14–29
+15–30
+16–31
+17–32
+18–33
+19–34
+20–35
+21–36
+22–37
+X
+24–39
+25–40
+26–41
+
+1–7
+1–8
+1–9
+1–10
+1–11
+1–12
+1–13
+1–14
+1–15
+1–16
+2–17
+3–18
+4–19
+5–20
+6–21
+X
+8–23
+9–24
+10–25
+
+N
+N
+N
+N
+N
+N
+N
+N
+N
+1
+1–2
+1–3
+1–4
+1–5
+1–6
+X
+1–8
+1–9
+1–10
+
+N Not available. Generation Alpha entered the universe of movers in 2014.
+X Not applicable. The COVID-19 pandemic posed challenges to collecting ACS data in 2020 and, as a result, the ACS experienced high rates 
+of nonresponse. To address these concerns, the Census Bureau released “experimental” estimates for the 2020 ACS 1-year data. For this reason, 
+2020 ACS 1-year estimates are not included in these analyses. For more information, visit <www.census.gov/programs-surveys/acs/technical-
+documentation/user-notes/2021-02.html>.
+
+Note: For more information on the ACS, visit <www.census.gov/acs>.
+Source: U.S. Census Bureau, 2006–2019 and 2021–2023 American Community Survey 1-year estimates.
+
+10 
+
+U.S. Census Bureau
+
+

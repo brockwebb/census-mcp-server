@@ -1,0 +1,57 @@
+# Geography Concepts - Review Queue (0.75-0.9 confidence)
+# Human review required - edit and mark as 'reviewed' when done
+
+## 1. Voting District (confidence: 0.85)
+ID: cendata:VotingDistrict
+Universe: Geographic entity
+Stat Method: count
+Tables: ['geographic_summary']
+Definition: Voting tabulation districts and precincts
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 2. Subminor Civil Division (confidence: 0.80)
+ID: cendata:SubminorDivision
+Universe: Geographic entity
+Stat Method: count
+Tables: ['geographic_summary']
+Definition: Subdivisions of minor civil divisions (limited states)
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 3. Traffic Analysis Zone (confidence: 0.80)
+ID: cendata:TAZ
+Universe: Geographic entity
+Stat Method: count
+Tables: ['geographic_summary']
+Definition: MPO transportation modeling units
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 4. Urban Growth Area (confidence: 0.75)
+ID: cendata:UrbanGrowthArea
+Universe: Geographic entity
+Stat Method: count
+Tables: ['geographic_summary']
+Definition: Washington state-specific growth management areas
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 5. Off-Reservation Trust Land (confidence: 0.85)
+ID: cendata:TrustLand
+Universe: Geographic entity
+Stat Method: count
+Tables: ['geographic_summary']
+Definition: Trust lands associated with reservations but not contiguous
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 6. Tribal Census Tract (confidence: 0.85)
+ID: cendata:TribalTract
+Universe: Geographic entity
+Stat Method: count
+Tables: ['geographic_summary']
+Definition: Census tracts within American Indian reservations
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+

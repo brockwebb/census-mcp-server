@@ -1,0 +1,168 @@
+United States Census Bureau | An official website of the United States Government
+
+Understanding and Using
+the American Community
+Survey Public Use
+Microdata Sample Files:
+What Data Users Need to
+Know
+
+February 2021
+
+The U.S. Census Bureau produces a
+large number of data profiles, tables,
+maps, and other products based on
+American Community Survey (ACS)
+
+data. Even this abundance of
+pretabulated estimates and data
+products cannot meet the needs of
+every data user. The Census Bureau’s
+ACS Public Use Microdata Sample
+(PUMS) files enable data users to
+create custom estimates and tables,
+free of charge, that are not available
+through pretabulated ACS data
+products.
+
+This guide provides an overview of
+the ACS PUMS files and how they
+can be used to access data about
+America’s communities.
+
+Download by Section
+
+[/conte
+nt/da
+m/Cen
+sus/lib
+rary/pu
+blicatio
+ns/202
+1/acs/
+acs_pu
+ms_ha
+ndboo
+k_2021
+.pdf]
+
+Underst
+anding
+and
+Using
+the
+America
+n
+Commu
+nity
+Survey
+Public
+Use
+Microda
+ta
+Sample
+Files
+[4.7 MB]
+
+Report
+
+1. ACS PUMS Files: The Basics [<1.0 MB]
+
+[/content/dam/Census/library/publications/2021/acs/acs_pums_handbook_2021_ch01.pdf]
+
+American Community Survey
+
+2. Public Use Microdata Areas [<1.0 MB]
+
+[/content/dam/Census/library/publications/2021/acs/acs_pums_handbook_2021_ch02.pdf]
+
+American Community Survey
+
+3. Accessing ACS PUMS Data [<1.0 MB]
+
+[/content/dam/Census/library/publications/2021/acs/acs_pums_handbook_2021_ch03.pdf]
+
+American Community Survey
+
+4. Preparing ACS PUMS Data Files for Analysis [<1.0
+MB]
+
+[/content/dam/Census/library/publications/2021/acs/acs_pums_handbook_2021_ch0
+4.pdf]
+
+American Community Survey
+
+5. Data Quality in the ACS PUMS [<1.0 MB]
+
+[/content/dam/Census/library/publications/2021/acs/acs_pums_handbook_2021_ch05.pdf]
+
+American Community Survey
+
+6. Additional Resources [<1.0 MB][/content/dam/Census/library/publications/2021/acs/acs_pums_handbook_2021_ch06.pdf]
+
+American Community Survey
+
+Appendix A: Linking Household Members Together
+[<1.0 MB]
+
+[/content/dam/Census/library/publications/2021/acs/acs_pums_handbook_2021_app
+endix_a.pdf]
+
+American Community Survey
+
+Others in Series
+
+Publication
+
+What State and Local Government
+Users Need to Know
+
+August 2020
+
+This handbook helps data users from state and local
+governments learn about ACS data and provides examples of
+how ACS data can answer real-world questions.
+
+[/programs-surveys/acs/guidance/handbooks/state-local.html]
+
+Publication
+
+Geography and the American
+Community Survey
+
+February 2020
+
+This guide provides an overview of geographic areas for which
+ACS data are available, special considerations in working with
+spatial data, and more.
+
+[/programs-surveys/acs/library/handbooks/geography.html]
+
+Publication
+
+What Congress Needs to Know
+
+June 2020
+
+This handbook helps congressional staff use ACS data to
+respond to constituent inquiries, draft floor/press statements,
+conduct legislative research, and more.
+
+[/programs-surveys/acs/guidance/handbooks/congress.html]
+
+VIEW ALL [/PROGRAMS-SURVEYS/ACS/LIBRARY/HANDBOOKS.HTML]
+
+Related Information
+
+PUMS Data [/programs-surveys/acs/microdata/access.html]
+
+PUMS Documentation [/programs-surveys/acs/microdata/documentation.html]
+
+WEBINAR
+
+Introduction to the American Community Survey Public Use Microdata Sample (PUMS) Files
+[/data/academy/webinars/2020/introduction-to-american-community-survey-public-use-microdata-sample-pums-files.html]
+
+Page Last Revised - October 7, 2024
+
+

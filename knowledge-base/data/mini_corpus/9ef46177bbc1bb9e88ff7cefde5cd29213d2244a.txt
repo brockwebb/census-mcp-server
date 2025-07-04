@@ -1,0 +1,259 @@
+United States Census Bureau | An official website of the United States Government
+
+Period Estimates in the
+American Community
+Survey
+
+March 10, 2022
+Written by: David Raglin
+
+Estimated reading time: 8 minutes
+
+The American Community Survey [/programs-surveys/acs/about.html] (ACS) helps local officials,
+community leaders, and businesses understand the social, housing, economic and demographic
+
+changes taking place in their communities. Every decision-maker needs information to help them make
+
+informed decisions about their communities and businesses. The ACS is the premier source for detailed
+
+information about our nation and the data are used to support these data driven decisions.
+
+On March 17, we will release the latest round of ACS estimates — the 2016-2020 5-year estimates, which
+
+were delayed due to the COVID-19 pandemic [https://www.census.gov/newsroom/press-kits/2021/acs-
+
+5-year.html] . We know many people will be curious what the ACS estimates can tell us about impacts
+
+from the pandemic.
+
+However, it’s first important to recognize that ACS estimates are period estimates and to understand
+
+what that means for interpreting them. The ACS has an annual sample size of about 3.5 million
+
+addresses with survey information collected nearly every day of the year. Data are combined across time
+
+periods to produce estimates. This blog explains period estimates and how to interpret them.
+
+What are period estimates?
+
+Period estimates are produced by combining data collected across a specified period. The ACS is an
+
+ongoing survey that collects responses every day of the year. Those responses are combined over a
+
+single year to produce 1-year estimates and over 5 years to create 5-year estimates. Figure 1 illustrates
+
+the time periods for each.
+
+[/content/dam/Census/newsroom/blogs/2022/rs-period-estimates-in-
+the-acs/figure1.jpg]
+
+Unlike the census, which asks people to answer questions in reference to the specific date of April 1 of
+
+the census year, the ACS uses the date of the response as a reference date. Since the ACS does not use
+
+a single reference date and data are collected throughout the year, the ACS consolidates all the data
+
+collected in a calendar year or 5 calendar years to create estimates. The ACS estimates do not represent
+a fixed date, but rather the characteristics over an entire data collection period. For that reason, we call
+
+these “period estimates.”
+
+What periods does the ACS use to produce estimates?
+
+The ACS estimates do not represent a specific point in time during the collection period, but rather a
+
+pooling of the data collected during the entire period. For 1-year estimates, the ACS uses data collected
+in that calendar year — January 1 through December 31. Similarly, the 5-year estimates use data
+
+collected over a 5-year period. For example, the 2016-2020 5-year estimates will use ACS data collected
+
+from January 1, 2016, through December 31, 2020.
+
+Although people often refer to the 5-year estimates as  an “average” of the five 1-year estimates, that is
+not correct. The U.S. Census Bureau does not take five separate 1-year estimates, add them up, and
+
+divide them by five to get a 5-year estimate. Rather, the data for the 5 years are pooled together, weighted
+
+and processed as a whole dataset to take advantage of the larger number of records. The 5-year
+
+estimate can equate to the midpoint of the time series in certain specific cases but is not always the
+case.
+
+When conditions in the country are generally stable throughout the period, the ACS estimates are
+
+relatively easy to interpret. On the other hand, if conditions drastically changed during the collection
+
+period, data users need to take that into consideration when interpreting the estimate. For example, the
+upcoming 5-year estimates include data collected before the COVID-19 pandemic started, during the
+
+pandemic when much of the country was shut down, as well as the latter part of 2020 when the country
+
+began opening up. These changing conditions are important to consider when using an estimate that
+
+includes 2020 data.
+
+What is a “rolling 5-year period?”
+
+The ACS releases a new 5-year period estimate each year. We call it a “rolling 5-year period” because
+
+each year the data for the oldest year in the 5-year period gets dropped, and the data for the newest year
+
+are included. Figure 2a illustrates this.
+
+[/content/dam/Census/newsroom/blogs/2022/rs-period-estimates-in-
+the-acs/figure2a.jpg]
+
+The 2015-2019 5-year estimates and the 2016-2020 5-year estimates both use data collected in 2016,
+
+2017, 2018 and 2019. Thus, the difference between the 2015-2019 and 2016-2020 ACS 5-year estimates
+
+is largely driven by the differences between dropping off 2015 and adding 2020.
+
+How should users compare 5-year estimates?
+
+The Census Bureau strongly recommends against comparing estimates in overlapping 5-year periods
+
+since much of the data in each estimate are the same.
+
+Instead, the Census Bureau encourages data users to compare 5-year estimates that don’t have any
+
+overlapping years of data. Figure 2b shows that the 2011-2015 5-year estimates can be compared to
+2016-2020 5-year estimates since those periods do not overlap.
+
+[/content/dam/Census/newsroom/blogs/2022/rs-period-estimates-in-
+the-acs/figure2b.jpg]
+
+It may be tempting to compare data from overlapping 5-year periods, but such a comparison does not
+
+measure what a data user is typically seeking. The difference between the overlapping 5-year estimates
+in essence is measuring the difference between the nonoverlapping portions. For example, a comparison
+
+of the 2015-2019 and 2016-2020 5-year estimates does not measure change between 2019 and 2020,
+
+which the user may be interested in knowing. Only when comparing nonoverlapping periods can a user
+
+say that the difference between the estimates represents a measure of the change over time between
+two distinct periods.
+
+To demontrate this, Figure 3a shows a ficticious example. The blue dots show
+
+the 1-year estimates moving up steadily before making a big leap then
+
+dropping and climbing again.
+
+[/content/dam/Census/newsroo
+m/blogs/2022/rs-period-
+estimates-in-the-acs/figure3a.jpg]
+
+Figure 3b shows the 5-year estimates for the same topic. You may notice that
+
+despite the 1-year estimates having a drop from 2015 to 2016, the 5-year
+
+estimates steadily climb for each 5-year period.
+
+[/content/dam/Census/newsroo
+m/blogs/2022/rs-period-
+estimates-in-the-acs/figure3b.jpg]
+
+In this example, the 5-year estimates increase for each period because in all cases the estimate for the
+
+year added is greater than the estimate for the year dropped. For example, the 2011-2015 period uses
+
+data from 2011 while the 2012-2016 period uses data from 2016. The estimate for 2016 was higher than
+
+the 2011 estimate, which influenced the overall estimates for the two overlapping periods.
+
+This example illustrates that there can be changes in the 1-year data that are not evident in the 5-year
+
+data. As a result, it can be misleading to compare overlapping 5-year periods. In this example, comparing
+
+the overlapping periods may suggest that there was a consistent upward trend over the decade.
+
+However, this comparison fails to show that 2016 actually showed a decrease from 2015 and the slope
+of the upward increase is greater in the 1-year estimates than the 5-year estimates.
+
+For a better picture of change over time, we recommend only comparing nonoverlapping periods. In this
+
+example, data users can compare the 2015-2019 5-year estimate to the 2010-2014 5-year estimate, since
+
+the periods do not overlap, and conclude that the estimate has gone up over the two 5-year periods.
+
+Are any of the data adjusted to take into account when they are collected
+during the period?
+
+Yes, a special adjustment is made for dollar value responses, such as income and utility costs, because
+
+of general price-level increases or decreases. Dollar value responses in January are not directly
+
+comparable to those collected in December since the value of the dollar changed during this period.
+
+Therefore, the Consumer Price Index (specifically the R-CPI-U-RS) is used to adjust the data for inflation.
+
+Annual values like income are adjusted, based on the month the data were collected, to the CPI for
+
+January-December of the last year in the period, and monthly values like utility costs are adjusted to the
+
+CPI for December of the last year. The only dollar value that is not adjusted for inflation is home value.
+
+Summary and Conclusions
+
+The ACS estimates are based on data collected over a period of time and refer to that period, as opposed
+to the Decennial Census, which is a snapshot as of April 1. Both the 1-year and 5-year estimates are
+
+period estimates. When using the ACS 1-year or 5-year estimates, data users should consider the extent
+
+of change in their topic of interest over the period when intrepreting the period estimates.
+
+Since the 5-year data represent a longer timeline, they are not likely to capture abrupt changes. A
+particular example is the 2016-2020 ACS 5-year data. The vast majority of the data used to create the
+
+2016-2020 5-year estimates include the years before the pandemic; therefore, the ACS is not able to
+
+measure the full impact of the pandemic on communities during 2020.
+
+As the examples above show, trends in the 1-year data do not necessarily show up in the trends of
+overlapping 5-year datasets. When examining the 2016-2020 ACS 5-year estimates to determine their
+
+suitability, use caution when comparing those estimates to the 2015-2019 5-year estimates. The
+
+difference between the 2015-2019 and 2016-2020 5-year estimates is not just the addition of the 2020
+
+data, but the subtraction of the data collected in 2015. Although it is tempting to compare data from the
+overlapping 5-year periods to gain insights into the effects of the pandemic, such a comparison does not
+
+accurately measure change since much of the same data were used in both 5-year estimates.
+
+Data from the ACS are a powerful tool to help people understand the country down to the smallest levels.
+
+Understanding what the period estimates entail is essential for interpreting their results and using the
+
+ACS data more effectively. More information is available on the ACS webpage
+[https://www.census.gov/programs-surveys/acs] .
+
+This article was filed under:
+
+American Community Survey (ACS) [/newsroom/blogs/random-samplings.html?text-list-cfab77f3a8:filters=Census:Program/demo-survey/acs]
+
+Previous
+
+Upcoming 2020 Census Coverage Estimates
+[https://www.census.gov/newsroom/blogs/random-
+samplings/2022/03/upcoming-2020-census-coverage-estimates.html]
+
+Our Commitment to Quality: A Revised American Community Survey Estimation Methodology in
+
+the Complexity of a Pandemic
+[https://www.census.gov/newsroom/blogs/random-
+samplings/2022/03/acs-5year-estimation-methodology.html]
+
+Next
+
+Related Information
+
+PRESS KIT
+
+American Community Survey 2016-2020 5-Year Data Release [/newsroom/press-kits/2021/acs-5-year.html]
+
+Page Last Revised - December 14, 2022
+
+

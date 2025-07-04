@@ -1,0 +1,365 @@
+United States Census Bureau | An official website of the United States Government
+
+Geography Boundaries by
+Year
+
+Vintage of Geographic Areas for ACS Estimates
+
+The ACS typically publishes estimates using the latest available geographic boundaries (also known as "vintages").
+
+For ACS 5-year estimates, use the last year of the estimate period to determine the vintage. For example, the following
+
+datasets use the same vintages of geographic boundaries:
+
+2023 ACS 1-year estimates
+
+2019-2023 ACS 5-year estimates
+
+To learn more about geographic concepts used in the ACS, check out our geographic handbook Geography and the
+American Community Survey: What Data Users Need to Know [/programs-
+
+surveys/acs/guidance/handbooks/geography.html] .
+
+2023
+
+On this page
+
+Vintage of Geographic Areas for ACS Estimates [#vintage-of-geographic-areas-for-acs-estimates]
+
+2023 [#2023]
+
+Legal Areas [#legal-areas]
+
+Statistical Areas [#statistical-areas]
+
+You May Be Interested In [#you-may-be-interested-in]
+
+Legal Areas
+
+Legally defined geographic areas used in the ACS are updated on an annual basis from a variety of programs,
+including: the Boundary and Annexation Survey (BAS) [/programs-surveys/bas.html] , the Redistricting Data Program
+[/programs-surveys/decennial-census/about/rdo.html]  and the School District Review Program [/programs-
+surveys/sdrp.html] . 
+
+Summary Level
+
+Geographic Area
+
+Vintage of Geographic Area for 2023 ACS Estimate Year
+
+040 
+
+050
+
+County Subdivision
+
+067
+
+Place
+
+160
+
+State and State Equivalent
+
+January 1, 2023
+
+County or equivalent (Alaska boroughs, Louisana parishes, Puerto Rico municipios,
+
+January 1, 2023
+
+independent cities)
+
+Township, Minor Civil Division (MCD)/Barrio and Barrio-Pueblo
+
+January 1, 2023
+
+Incorporated Place
+
+January 1, 2023
+
+American Indian/Alaska Native/Hawaiian Home Land
+
+230
+
+Alaska Native Regional Corporations (ANRCs)
+
+250/252/254
+
+Federal American Indian Reservation (federal AIR)
+
+250/252
+
+251
+
+250/254
+
+State American Indian Reservation (state AIR)
+
+American Indian Tribal Subdivision, federal AIR
+
+Hawaiian Home Land (HHL)
+
+January 1, 2023
+
+January 1, 2023
+
+January 1, 2023
+
+January 1, 2023
+
+January 1, 2023
+
+Other Legal Areas
+
+500
+
+610/620
+
+Congressional District, Delegate District DC, Resident Commissioner District PR
+
+118th Congress of the United States
+
+/1 [#CDfootnote]
+
+State Legislative Districts (Upper and Lower Chambers)
+
+2022 Legislative Session Year
+
+/1 [#CDfootnote]
+
+950/960/970
+
+School District (Elementary, Secondary, Unified)
+
+170
+
+Consolidated City
+
+Statistical Areas
+
+January 1, 2023
+
+January 1, 2023
+
+For statistical areas, boundary changes are mostly associated with updates from each decennial census. Statistical
+
+areas are designed to have stable boundaries over time.
+
+Summary Level
+
+Geographic Area
+
+Vintage of Geographic Area for 2023 ACS Estimate Year
+
+050
+
+County Equivalent (Census Areas in Alaska)
+
+January 1, 2023
+
+County Subdivision
+
+060
+
+Place
+
+160
+
+Census County Division (CCD)
+
+January 1, 2023
+
+Census Designated Place (CDP)/Zona Urbana and Comunidad
+
+Janaury 1, 2023
+
+American Indian/Alaska Native/Hawaiian Home Land
+
+250/252
+
+250/252
+
+250/252
+
+251
+
+256
+
+258
+
+Tribal Designated Statistical Area (TDSA)
+
+State Designated Tribal Statistical Area (SDTSA)
+
+Oklahoma Tribal Statistical Area (OTSA)
+
+American Indian Tribal Subdivision (within OTSA)
+
+Tribal Tract
+
+Tribal Block Group
+
+2020 Census
+
+2020 Census
+
+2020 Census
+
+2020 Census
+
+2020 Census
+
+/2 [#StatGEOfootnote]
+
+2020 Census
+
+/2 [#StatGEOfootnote]
+
+250/252
+
+Alaska Native Village Statistical Area (ANVSA)
+
+2020 Census
+
+Other Statistical Areas
+
+310
+
+312
+
+400
+
+140
+
+150
+
+795
+
+860
+
+Metropolitan Statistical Area/Micropolitan Statistical Area
+
+July 21, 2023
+
+/3 [#CBSAfootnote] /4 [#CBSAfootnote2]
+
+Metropolitan Statistical Area/Micropolitan Statistical Area - Principal City
+
+July 21, 2023
+
+/3 [#CBSAfootnote] /4 [#CBSAfootnote2]
+
+Urban Area
+
+Census Tract
+
+Census Block Group
+
+Public Use Microdata Area (PUMA)
+
+5-digit ZIP Code Tabulation Area (ZCTA)
+
+2020 Census
+
+2020 Census
+
+/2 [#StatGEOfootnote]
+
+2020 Census
+
+/2 [#StatGEOfootnote]
+
+2020 Census
+
+2020 Census
+
+/1
+
+The U.S. Census Bureau collects congressional and state legislative districts every two years through the
+
+Redistricting Data Program. Typically, new geography products are generated only when changes to congressional or
+
+state legislative districts are reported between sessions. For more information see: Redistricting Data Program
+[/programs-surveys/decennial-census/about/rdo.html] .
+
+/2
+
+Changes to the boundaries of legal areas may cause complementary changes to the boundaries of selected
+
+statistical areas.
+
+/3
+
+While the American Community Survey (ACS) data generally reflect the Office of Management and Budget (OMB)
+definitions of metropolitan and micropolitan statistical areas; in certain instances, the names, codes, and boundaries
+
+of the principal cities shown in ACS tables may differ from the OMB definitions due to differences in the effective
+dates of the geographic entities.
+
+/4
+
+The 2023 ACS data products for Core Based Statistical Areas (CBSAs), also referred to as Metropolitan and
+Micropolitan Statistical Areas, are based on post-2020 Census revised delineations published by the Office of
+
+Management and Budget (OMB) on July 21, 2023 (OMB Bulletin No. 23-01 [https://www.whitehouse.gov/wp-
+content/uploads/2023/07/OMB-Bulletin-23-01.pdf] ). For more information see: Metropolitan and Micropolitan
+
+[/programs-surveys/metro-micro.html] .
+
+* NECTA Geographies have been discontinued starting with the 2023 ACS data release.  For more information visit
+2023 Geography Changes [/programs-surveys/acs/technical-documentation/table-and-geography-
+
+changes/2023/geography-changes.html] .
+
+Related Information
+
+American Community Survey Data [/programs-surveys/acs/data.html]
+
+Table & Geography Changes [/programs-surveys/acs/technical-documentation/table-and-geography-changes.html]
+
+USER NOTES
+
+Change to County-Equivalents in the State of Connecticut for 2022 ACS [/programs-surveys/acs/technical-documentation/user-
+notes/2023-01.html]
+
+You May Be Interested In
+
+Contact
+
+Updates
+
+Contact Us
+
+Email Updates
+
+Share Your ACS Data
+Story
+
+Learn how to contact
+the American
+
+Sign up to receive email
+updates about the
+
+Tell us your story about
+how you use data from
+
+Community Survey if you
+
+American Community
+
+the American
+
+[/programs-
+surveys/acs/contact.html]
+
+[/programs-
+surveys/acs/news/email-
+updates.html]
+
+[/programs-surveys/acs/share-
+your-acs-data-story.html]
+
+Page Last Revised - August 28, 2024
+
+

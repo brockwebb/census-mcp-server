@@ -1,0 +1,2129 @@
+Understanding and Using  
+American Community Survey Data
+What Users of Data for Rural Areas Need to Know
+
+Issued October 2020
+
+Acknowledgments
+
+Linda A. Jacobsen, Vice President, U.S. Programs, Population Reference 
+Bureau (PRB), and Mark Mather, Associate Vice President, U.S. Programs, 
+PRB, drafted this handbook in partnership with the U.S. Census Bureau’s 
+American Community Survey Office. Other PRB staff who assisted in 
+drafting and reviewing the handbook include: Lillian Kilduff, Kelvin Pollard, 
+and Paola Scommegna. 
+
+American Community Survey data users who provided feedback and case 
+studies for this handbook include: Susan Brower, John Cromartie, Lillie 
+Greiman, Jason R. Jurjevich, and Keith Wiley.
+
+Nicole Scanniello and Gretchen Gooding, Census Bureau, contributed to the 
+planning and review of this handbook. 
+
+The American Community Survey program is under the direction of Albert E. 
+Fontenot Jr., Associate Director for Decennial Census Programs, Deborah M. 
+Stempowski, Assistant Director for Decennial Census Programs, and Donna M. 
+Daily, Chief, American Community Survey Office.
+
+Other individuals from the Census Bureau who contributed to the review 
+and release of these handbooks include: Joshua Comenetz, Ashley Edwards, 
+James Fitzsimmons, Doug Hill, Paul Mackun, Michael Ratcliffe, Michael 
+Starsinic, Janice Valdisera, and Ellen Wilson. 
+
+Faye Brock, Linda Chen, and Christine Geter provided publication 
+management, graphic design and composition, and editorial review for print 
+and electronic media under the direction of Janet Sweeney, Chief of the 
+Graphic and Editorial Services Branch, Public Information Office.
+
+Understanding and Using  
+American Community Survey Data
+What Users of Data for Rural Areas Need to Know
+
+Issued October 2020
+
+U.S. Department of Commerce 
+Wilbur Ross, 
+Secretary
+
+Karen Dunn Kelley,  
+Deputy Secretary 
+
+U.S. CENSUS BUREAU 
+Steven Dillingham, 
+Director
+
+Suggested Citation
+
+  U.S. Census Bureau,  
+Understanding and Using  
+American Community Survey  
+Data: What Users of Data  
+for Rural Areas Need to Know,  
+U.S. Government Publishing Office, 
+Washington, DC, 2020.
+
+U.S. CENSUS BUREAU 
+Steven Dillingham, 
+Director
+
+Ron Jarmin, 
+Deputy Director and Chief Operating Officer
+
+Albert E. Fontenot Jr., 
+Associate Director for Decennial Census Programs
+
+Deborah M. Stempowski, 
+Assistant Director for Decennial Census Programs
+
+Donna M. Daily, 
+Chief, American Community Survey Office
+
+Contents
+
+1. Defining “Rural” Areas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .2
+
+2. Considerations When Working With ACS Data  . . . . . . . . . . . . . . . . . . . . . . . . . .7
+
+3. Accessing ACS Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+
+4. Case Studies for Rural Areas  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+
+5. Additional Resources . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+
+Understanding and Using American Community Survey Data   iii 
+What Users of Data for Rural Areas Need to Know    iii
+
+U.S. Census Bureau 
+This page is intentionally blank.
+
+UNDERSTANDING AND USING AMERICAN  
+COMMUNITY SURVEY DATA: 
+WHAT USERS OF DATA FOR RURAL AREAS 
+NEED TO KNOW 
+
+Suppose a state office on aging wants to gauge 
+the potential need for a “healthy aging” initiative 
+in rural communities. Or an entrepreneur in a small 
+Midwestern town is interested in opening an auto 
+parts business but needs to know more about local 
+commuting patterns and how they have changed over 
+time. Or a local government official wants informa-
+tion about the number of vacant housing units in a 
+sparsely populated county. 
+
+Where would they go to find the necessary 
+information?
+
+The U.S. Census Bureau’s American Community 
+Survey (ACS) is designed to answer these types of 
+questions and meet the needs of policymakers, busi-
+ness leaders, planners, and others who need good 
+data to make informed decisions. The ACS provides 
+a detailed portrait of the social, economic, housing, 
+and demographic characteristics of America’s com-
+munities—including the characteristics of people and 
+households in rural areas. 
+
+This guide provides an overview of what data users 
+need to know about working with ACS data for rural 
+areas. For example:
+
+•  How is “rural” defined and what levels of geogra-
+
+phy are available to study population and housing 
+issues in rural areas? 
+
+•  Most ACS estimates for rural communities are 
+
+based on data that have been pooled over a 
+5-year period. What are the implications for mea-
+suring trends in rural areas over time? 
+
+•  Working with data for rural areas can also present 
+challenges in terms of the reliability of the data. 
+What strategies can people use to produce reli-
+able estimates for their communities? 
+
+•  Where can data users access ACS estimates for 
+
+rural areas?
+
+•  How are different communities using ACS data for 
+
+decision-making in rural America? 
+
+This guide also includes some recent case studies that 
+show how ACS data are being used to help address 
+important policy and program issues in rural America. 
+
+What Is the ACS?
+
+The ACS is a nationwide survey designed to provide 
+communities with reliable and timely social, economic, 
+housing, and demographic data every year. A sepa-
+rate annual survey, called the Puerto Rico Community 
+Survey (PRCS), collects similar data about the popu-
+lation and housing units in Puerto Rico. The Census 
+Bureau uses data collected in the ACS and the PRCS 
+to provide estimates on a broad range of popula-
+tion, housing unit, and household characteristics for 
+states, counties, cities, school districts, congressional 
+districts, census tracts, block groups, and many other 
+geographic areas.
+
+The ACS has an annual sample size of about 3.5 mil-
+lion addresses, with survey information collected 
+nearly every day of the year. Data are pooled across 
+a calendar year to produce estimates for that year. As 
+a result, ACS estimates reflect data that have been 
+collected over a period of time rather than for a single 
+point in time as in the decennial census, which is con-
+ducted every 10 years and provides population counts 
+as of April 1 of the census year.
+
+ACS 1-year estimates are data that have been col-
+lected over a 12-month period and are available 
+for geographic areas with at least 65,000 people. 
+Starting with the 2014 ACS, the Census Bureau is also 
+producing “1-year Supplemental Estimates”—simpli-
+fied versions of popular ACS tables—for geographic 
+areas with at least 20,000 people. The Census Bureau 
+combines 5 consecutive years of ACS data to produce 
+multiyear estimates for geographic areas with fewer 
+than 65,000 residents. These 5-year estimates repre-
+sent data collected over a period of 60 months. 
+
+For more detailed information about the ACS—how 
+to judge the accuracy of ACS estimates, understand-
+ing multiyear estimates, knowing which geographic 
+areas are covered in the ACS, and how to access ACS 
+data on the Census Bureau’s Web site—see the Census 
+Bureau’s handbook on Understanding and Using 
+American Community Survey Data: What All Data 
+Users Need to Know.1 
+
+1 U.S. Census Bureau, Understanding and Using American 
+Community Survey Data: What All Data Users Need to Know,  
+<www.census.gov/programs-surveys/acs/guidance/handbooks 
+/general.html>.
+
+Understanding and Using American Community Survey Data   1 
+What Users of Data for Rural Areas Need to Know    1
+
+U.S. Census Bureau1. DEFINING “RURAL” AREAS 
+
+What does it mean for an area to be classified as 
+“rural?” 
+
+Federal agencies, researchers, and other analysts use 
+two main classification systems to define rural areas: 
+(1) the U.S. Census Bureau’s urban and rural defini-
+tions, and (2) the Office of Management and Budget’s 
+(OMB’s) Metropolitan and Micropolitan Statistical Area 
+standards. 
+
+TIP: Some analysts use the OMB standards to classify 
+areas outside of metropolitan statistical areas as “non-
+metropolitan.” But nonmetropolitan is not synonymous 
+with rural and was not designed for that purpose. 
+
+This section describes these two classification systems 
+and how they relate to each other, so that American 
+Community Survey (ACS) data users can choose the 
+appropriate geographic areas for their analysis.
+
+Rural/Urban Areas
+
+The Census Bureau does not actually define “rural.” 
+Rather, rural areas include all geographic areas that 
+are not classified as urban. Data from the ACS indi-
+cate that about 63 million people, or 19 percent of the 
+population, lived in rural areas of the United States in 
+2018. Although less than one-fifth of the U.S. popula-
+tion lives in rural areas, these areas encompass about 
+97 percent of the total land area in the United States. 
+Figure 1.1 shows a sample image of rural areas in Texas.
+
+Geographic areas that are not rural are, by definition, 
+urban. The Census Bureau defines “urban areas” as 
+either: 
+
+•  Urbanized areas, which contain 50,000 or more 
+
+people.
+
+•  Urban clusters, which have at least 2,500 people 
+
+but fewer than 50,000 residents. 
+
+Figure 1.1.  Rural Areas in Texas: 2018
+
+Source: U.S. Census Bureau.
+
+2   Understanding and Using American Community Survey Data 
+2   What Users of Data for Rural Areas Need to Know
+
+U.S. Census BureauBoth urbanized areas and urban clusters are delin-
+eated primarily on the basis of population density—or 
+the extent to which areas are built-up and densely 
+settled. The Census Bureau also uses land use/land 
+cover and distance criteria in assessing whether to 
+include territory in an urban area. 
+
+The Census Bureau defines urban areas after each 
+decennial census. After the 2010 Census, the Census 
+Bureau delineated 3,573 urban areas nationwide, 
+including 486 urbanized areas and 3,087 urban clus-
+ters. About 264 million people, or 81 percent of the 
+population, lived in urban areas in 2018, according to 
+ACS data. Figure 1.2 shows a sample image of urban-
+ized areas and urban clusters in Pennsylvania.
+
+The Census Bureau’s data.census.gov Web site 
+includes ACS estimates for rural and urban portions 
+of the nation, regions, divisions, each of the 50 states, 
+and Puerto Rico. Information about how to access 
+
+estimates for urban/rural areas is included in the sec-
+tion on “Accessing ACS Data.”
+
+TIP:  While  the  Census  Bureau  releases  ACS  data  for 
+urban  and  rural  areas  each  year,  the  boundaries  for 
+urban areas are delineated based on decennial census 
+results and do not change through the decade. Given 
+that urban and rural area definitions are not updated 
+between censuses, data for urban and rural areas from 
+the ACS (and other sources) do not necessarily reflect 
+the results of ongoing urbanization. 
+
+As the decade progresses, data for rural areas from 
+the ACS may include densely settled population that 
+will be defined as urban in the next round of delinea-
+tions. For more information about urban/rural area 
+definitions, see the Census Bureau’s brief on Defining 
+Rural.2 
+
+2 Michael Ratcliffe, Charlynn Burd, Kelly Holder, and Alison Fields, 
+
+Defining Rural at the U.S. Census Bureau, ACSGEO-1, 2016,  
+<www.census.gov/library/publications/2016/acs/acsgeo-1.html>.
+
+Figure 1.2.  Urban Areas in Pennsylvania: 2018
+
+Source: U.S. Census Bureau.
+
+Understanding and Using American Community Survey Data   3 
+What Users of Data for Rural Areas Need to Know    3
+
+U.S. Census BureauOther federal agencies and programs use different 
+classification systems to define rural and urban areas 
+(see Box 1.1). For example, the U.S. Department of 
+Agriculture’s Economic Research Service (ERS) uses 
+Rural-Urban Commuting Area (RUCA) codes to clas-
+sify census tracts based on measures of population 
+density, urbanization, and commuting patterns. The 
+Census Bureau does not publish ACS estimates based 
+on these RUCA codes, but data users could merge 
+tract-level ACS estimates with the ERS codes to com-
+pare population and housing patterns across rural and 
+urban communities. 
+
+Office of Management and Budget 
+(OMB) Delineations
+
+OMB designates counties as metropolitan or  
+micropolitan—collectively known as core-based statis-
+tical areas. Counties that do not fall into either of these 
+categories are classified as being “outside metropoli-
+tan and micropolitan statistical areas.” 
+
+OMB delineates metropolitan statistical areas as 
+agglomerations of one or more counties (or county 
+equivalents) that contain at least one urbanized area 
+of at least 50,000 people. Metropolitan statistical 
+areas include the county or counties containing the 
+core urbanized area, as well as adjacent counties that, 
+through commuting patterns, are highly integrated 
+
+economically and socially with the central county.3 
+Dallas-Fort Worth-Arlington, Texas, is an example of a 
+metropolitan statistical area.
+
+Beginning in 2003, OMB also delineated “micropolitan” 
+statistical areas. Micropolitan statistical areas consist 
+of at least one urban cluster of at least 10,000 but 
+fewer than 50,000 residents. Like metropolitan sta-
+tistical areas, micropolitan statistical areas consist of 
+the county or counties containing the core area, plus 
+adjacent counties integrated socially and economically 
+with that main county through commuting patterns.4 
+Del Rio, Texas, is an example of a micropolitan statisti-
+cal area.
+
+The August 2017 OMB classification includes 383 
+metropolitan statistical areas and 550 micropolitan 
+statistical areas (excluding Puerto Rico). Collectively, 
+these areas accounted for 94 percent of the U.S. 
+population in 2018, according to ACS data. They also 
+make up about 48 percent of the total land area in 
+the United States. Figure 1.3 shows a sample image of 
+counties classified as metropolitan, micropolitan, and 
+
+3 U.S. Office of Management and Budget, Bulletin No. 17-01, Revised 
+
+Delineations of Metropolitan Statistical Areas, Micropolitan Statistical 
+Areas, and Combined Statistical Areas, and Guidance on Uses of the 
+Delineations of These Areas, <www.census.gov/programs-surveys 
+/metro-micro/about/omb-bulletins.html>.
+
+4 U.S. Office of Management and Budget, Bulletin No. 17-01, Revised 
+
+Delineations of Metropolitan Statistical Areas, Micropolitan Statistical 
+Areas, and Combined Statistical Areas, and Guidance on Uses of the 
+Delineations of These Areas, <www.census.gov/programs-surveys 
+/metro-micro/about/omb-bulletins.html>.
+
+Box 1.1. How Federal Agencies Define Rural and Urban Areas
+
+Federal agencies do not have a standard definition 
+of “rural.” Definitions differ in terms of minimum 
+population thresholds that are applied to distin-
+guish urban areas from rural areas (for instance, 
+fewer than 2,500 people, 5,000 people, or 10,000 
+people) and different geographic building blocks 
+(census blocks, census tracts, ZIP Code Tabulation 
+Areas, places, or counties). 
+
+In some classifications, “rural” represents one 
+category among many—as in the U.S. Department 
+of Agriculture’s Rural-Urban Commuting Areas 
+or the National Center for Education Statistics’ 
+School Locale Codes. In other classifications, rural 
+is one of two categories, the other is “urban.” In 
+both multilevel and two-level (“dichotomous”) 
+classifications, rural may be simply a residual cat-
+egory—that is, whatever is left over after the other 
+categories are defined. 
+
+Rural (and urban) definitions may also differ in 
+terms of the kinds of areas or landscapes they rep-
+resent. Some definitions are based on political or 
+
+administrative units; for example, a city or town of 
+fewer than 10,000 people may be defined as rural. 
+Other definitions, like the Census Bureau’s urban 
+and rural classification, may refer to settlement 
+patterns that are based on measures of population 
+density. 
+
+Finally, definitions may refer to social and eco-
+nomic relationships, often defined based on a 
+measure of interaction between an urban cen-
+ter and surrounding territory. The Office of 
+Management and Budget’s Metropolitan and 
+Micropolitan Statistical Areas classification, 
+described below, is an example of this type of 
+classification. 
+
+The U.S. Department of Agriculture’s Economic 
+Research Service offers a variety of materials to 
+help data users navigate these various definitions 
+on its Rural Classifications Web page.*
+
+* U.S. Department of Agriculture, Rural Classifications: 
+
+Overview, <www.ers.usda.gov/topics/rural-economy-population 
+/rural-classifications/>.
+
+4   Understanding and Using American Community Survey Data 
+4   What Users of Data for Rural Areas Need to Know
+
+U.S. Census Bureauoutside metropolitan and micropolitan statistical areas 
+in Oregon. There are only three states—Delaware, New 
+Jersey, and Rhode Island—where all the counties are 
+classified as metropolitan. The District of Columbia is 
+also entirely metropolitan.
+
+Some demographers, economists, and other research-
+ers classify counties that are outside of metropolitan 
+statistical areas (those in the micropolitan statistical 
+area and “outside metropolitan and micropolitan sta-
+tistical areas” categories) as “rural” or “nonmetropoli-
+tan.” Researchers often use these terms interchange-
+ably in their work on rural America because so much 
+data for local areas are only available at the county 
+level. The ERS report series, Rural America at a Glance, 
+provides a good example of research on social, eco-
+nomic, and demographic trends in rural America based 
+on county-level data.5 
+
+not equate to an urban-rural classification; many coun-
+ties included in metropolitan and micropolitan statisti-
+cal areas, as well as those outside these areas, con-
+tain both urban and rural territory and populations.”6 
+Confusion over these concepts can lead to difficulties 
+in analysis and program implementation. 
+
+Many counties classified as metropolitan include rural 
+territory, while many counties outside of metropoli-
+tan and micropolitan statistical areas contain urban 
+clusters. Rural areas within metropolitan counties 
+encompass a wide variety of landscapes and settle-
+ment patterns—from sparsely populated desert lands 
+within large metropolitan counties in the Southwest to 
+small-town landscapes and “large-lot” (one-, three-, or 
+five-acre) housing subdivisions on the fringes of large 
+metropolitan statistical areas.
+
+However, OMB notes that the county-based “metro-
+politan and micropolitan statistical area standards do 
+
+5 John Cromartie, “Rural America at a Glance, 2017 Edition,” 2017, 
+
+<www.ers.usda.gov/publications/pub-details/?pubid=85739>. 
+
+6 U.S. Office of Management and Budget, Bulletin No. 17-01, Revised 
+
+Delineations of Metropolitan Statistical Areas, Micropolitan Statistical 
+Areas, and Combined Statistical Areas, and Guidance on Uses of the 
+Delineations of These Areas, <www.census.gov/programs-surveys 
+/metro-micro/about/omb-bulletins.html>. 
+
+Figure 1.3.  Metropolitan Counties, Micropolitan Counties, and Counties Outside of  
+                 Metropolitan and Micropolitan Statistical Areas in Oregon: 2017
+
+Source: U.S. Office of Management and Budget, August 2017 delineations.
+
+Understanding and Using American Community Survey Data   5 
+What Users of Data for Rural Areas Need to Know    5
+
+U.S. Census BureauFigure 1.4 shows an image of urban areas (shown in 
+dark grey) in the Dallas-Fort Worth-Arlington, Texas 
+Metropolitan Statistical Area. While large portions of 
+Dallas, Tarrant, Collin, Denton, and Rockwall Counties 
+are classified as urban, the surrounding counties are 
+predominantly rural (areas shown in blue). Thus, it 
+would not be appropriate to classify population and 
+territory in Wise County—a predominantly rural county 
+on the fringe of a metropolitan statistical area—as 
+“urban.” The challenges posed by metropolitan coun-
+ties that include rural territory are not new, and 
+researchers have proposed various ways of modify-
+ing classifications—as through the U.S. Department of 
+Agriculture’s RUCA codes—to subdivide counties into 
+urban and rural components.
+
+TIP: Because OMB’s classifications are county-based, 
+they are well suited for the ACS, which provides social, 
+economic,  housing,  and  demographic  estimates  for 
+every county in the nation. 
+
+statistical areas, and areas outside of metropolitan and 
+micropolitan statistical areas is included in the section 
+on “Accessing ACS data.”
+
+OMB reviews, and if warranted, revises the standards 
+for delineating metropolitan and micropolitan statisti-
+cal areas every 10 years, before each decennial census. 
+Between censuses, the delineations are updated to 
+reflect the Census Bureau’s latest population esti-
+mates, resulting in changes in the portions of the 
+United States identified as metropolitan, micropolitan, 
+and outside of metropolitan and micropolitan statisti-
+cal areas. Data users analyzing long-term trends with 
+ACS or decennial census data need to be aware of 
+these changes and adjust their analyses and interpre-
+tations accordingly. Current and historical delineations 
+of metropolitan statistical areas and micropolitan sta-
+tistical areas are available through the Census Bureau’s 
+Delineation Files.7 
+
+Information about how to access ACS estimates 
+for metropolitan statistical areas, micropolitan 
+
+7 U.S. Census Bureau, Delineation Files <www.census.gov 
+/geographies/reference-files/time-series/demo/metro-micro 
+/delineation-files.html>.
+
+Figure 1.4.  Urban and Rural Areas in the Dallas-Fort Worth-Arlington, Texas Metropolitan  
+                 Statistical Area
+
+Source: U.S. Census Bureau, U.S. Office of Management and Budget, August 2017 delineations.
+
+6   Understanding and Using American Community Survey Data 
+6   What Users of Data for Rural Areas Need to Know
+
+U.S. Census Bureau2. CONSIDERATIONS WHEN WORKING WITH ACS 
+DATA
+
+Considerations When Working With 
+ACS Data
+
+Rural and other sparsely populated areas have 
+unique characteristics that can lead to challenges fo
+American Community Survey (ACS) data users. 
+
+r 
+
+Many micropolitan counties and counties outside 
+of metropolitan and micropolitan statistical areas 
+do not meet the 65,000-population threshold 
+
+required for ACS 1-year estimates. In 2018, 114 out 
+of 661 micropolitan counties (17.2 percent) and only 
+3 out of 1,321 counties outside of metropolitan and 
+micropolitan statistical areas (0.2 percent) received 
+1-year estimates (see Table 2.1). By contrast, roughly 
+three in five (58.2 percent) metropolitan counties 
+received 1-year estimates. ACS 5-year estimates are 
+available for all counties, regardless of population size 
+or OMB classification. 
+
+Table 2.1. Availability of ACS Estimates for Counties in Metropolitan Statistical Areas, Micropolitan Statistical  
+              Areas, and Counties Outside of Metropolitan/Micropolitan Statistical Areas
+
+All U.S. counties
+
+Counties inside 
+metropolitan statistical 
+areas 
+
+Counties inside 
+micropolitan statistical 
+areas
+
+Counties outside 
+metropolitan and 
+micropolitan statistical 
+areas
+
+Number
+
+Percent
+
+Number
+
+Percent
+
+Number
+
+Percent
+
+Number
+
+Percent
+
+3,220
+
+100.0
+
+1,238
+
+100.0
+
+661
+
+100.0
+
+1,321
+
+100.0
+
+1,910
+
+838
+
+59.3
+
+26.0
+
+1,050
+
+721
+
+84.8
+
+58.2
+
+548
+
+114
+
+82.9
+
+17.2
+
+312
+
+23.6
+
+3
+
+0.2
+
+5-year estimates available . . .
+1-year Supplemental 
+estimates available (20,000+ 
+population) . . . . . . . . . . . . . . .
+
+1-year estimates available 
+(65,000+ population) . . . . . .
+
+Note: Data include Puerto Rico.
+Source: U.S. Census Bureau, 2018 American Community Survey, Tables B01003 and K200101, <https://data.census.gov>; and August 2017 Delin-
+eation Files for core-based statistical areas, <www.census.gov/geographies/reference-files/time-series/demo/metro-micro/delineation-files 
+.html>.
+
+Most county subdivisions (such as townships, other 
+types of minor civil divisions, and census county divi-
+sions) and places (cities and towns) also rely on 5-year 
+estimates. As Table 2.2 shows, 97 percent of the nearly 
+
+37,000 county subdivisions only receive 5-year esti-
+mates annually, as do 92 percent of the almost 30,000 
+incorporated and census designated places.
+
+Table 2.2.  Availability of ACS Estimates for County Subdivisions and Places
+
+5-year estimates available . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+1-year Supplemental estimates available  
+(20,000+ population)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+1-year estimates available (65,000+ population) . . . . . . . . . . . . . .
+
+County subdivisions 
+(townships and other minor civil 
+divisions)
+
+Places 
+(incorporated places and 
+census designated places)
+
+Number
+
+36,630 
+
+1,186
+
+226
+
+Percent
+
+100.0 
+
+3.2
+
+0.6
+
+Number
+
+29,573
+
+2,323
+
+630
+
+Percent
+
+100.0 
+
+7.9
+
+2.1
+
+Note: Data include Puerto Rico.
+Source: U.S. Census Bureau, Areas Published, <www.census.gov/programs-surveys/acs/geography-acs/areas-published.html>.
+
+Understanding and Using American Community Survey Data   7 
+What Users of Data for Rural Areas Need to Know    7
+
+U.S. Census BureauACS 5-year estimates require some considerations that 
+1-year estimates do not. For example, multiyear esti-
+mates released in consecutive years consist mostly of 
+overlapping shared data. For example, ACS estimates 
+from 2013–2017 and 2014–2018 share sample data for 
+the years 2014, 2015, 2016, and 2017. As a result, it is 
+best for users to work with nonoverlapping estimates 
+(for example, comparing 2009–2013 estimates with 
+those from the 2014–2018 period) to assess change 
+over time in rural communities.
+
+Five-year estimates also provide less current informa-
+tion because they are based on both data from the 
+previous year and data that are 2 to 5 years old. For 
+rural areas undergoing minimal change, using the “less 
+current” multiyear estimates may not have a sub-
+stantial influence on the estimates. However, in areas 
+experiencing major changes over a given time period, 
+the multiyear estimates may be quite different from the 
+single-year estimates for any of the individual years. 
+
+ACS estimates have a degree of uncertainty associ-
+ated with them, called sampling error, because they are 
+based on a sample. In general, the larger the sample, 
+the smaller the level of sampling error. Rural commu-
+nities tend to have smaller samples than large cities, 
+so the “margin of error”—a measure of the precision 
+of an estimate at a given level of confidence—likely 
+will be larger for rural areas. The U.S. Census Bureau 
+
+provides margins of error at the 90 percent level of 
+confidence for each published ACS estimate. (For 
+more information about sampling error, see the section 
+on “Understanding Error and Determining Statistical 
+Significance” in the Census Bureau’s handbook on 
+Understanding and Using American Community Survey 
+Data: What All Data Users Need to Know.8 )
+
+Suppose a data user is interested in homeownership 
+rates for Pike and Martin Counties in eastern Kentucky. 
+While both 1-year Supplemental and 5-year estimates 
+are available for Pike County (population 58,000), only 
+ACS 5-year estimates are available for Martin County 
+(population 11,000).9 As Table 2.3 shows, the margin 
+of error for the percentage of owner-occupied units in 
+2014–2018 was 1.8 in Pike County but was more than 
+twice that in Martin County (5.2). By comparison, the 
+margin of error for the homeownership rate was just 
+0.5 for Jefferson County, Kentucky, which had a popu-
+lation of more than 750,000. 
+
+Yet, there are strategies that data users can use to 
+improve estimates for rural areas—either by combining 
+
+8 U.S. Census Bureau, Understanding and Using American 
+Community Survey Data: What All Data Users Need to Know,  
+<www.census.gov/programs-surveys/acs/guidance/handbooks 
+/general.html>.
+
+9 U.S. Census Bureau, Population Division, 2018 Population 
+
+Estimates. The estimated 2018 population for Pike County was listed 
+as 58,402, while Martin County’s estimated 2018 population stood at 
+11,323.
+
+  Table 2.3.  Percentage of Owner-Occupied Housing Units in Pike, Martin, and Jefferson Counties in Kentucky:  
+                  2014–2018
+
+Pike County,  
+Kentucky
+
+Martin County, 
+Kentucky
+
+Jefferson County, 
+Kentucky
+
+Estimate  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Margin of error (+/-) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+72.6
+
+1.8
+
+72.3
+
+5.2
+
+61.7
+
+0.5
+
+Confidence interval (90% level) . . . . . . . . . . . . . . . . . . . .
+
+70.8 to 74.4 
+
+67.1 to 77.5
+
+61.2 to 62.2
+
+Source: U.S. Census Bureau, 2014–2018 American Community Survey, 5-Year Estimates, Table DP04, <https://data.census.gov>.
+
+8   Understanding and Using American Community Survey Data 
+8   What Users of Data for Rural Areas Need to Know
+
+U.S. Census Bureaudata across geographic areas or by consolidating 
+data for population subgroups. For example, Table 
+2.4 shows homeownership levels in the five-county 
+Big Sandy Area Development District in eastern 
+Kentucky—a region that includes Pike and Martin 
+
+Counties from the previous example (also see Figure 
+3.4 for an image of the area). As Table 2.4 shows, the 
+margin of error for the five-county area (1.3) is lower 
+than the error margins for any of the five individual 
+counties (ranging from 1.8 to 5.2).
+
+Table 2.4.  Percentage of Owner-Occupied Housing Units in Big Sandy Area Development District, Kentucky: 
+                2014–2018
+
+Floyd County . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Johnson County  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Magoffin County . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Martin County  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Pike County  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Combined five-county area (Big Sandy Area)  . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Estimate
+
+Margin of error 
+(+/-)
+
+70.4
+
+72.3
+
+71.2
+
+72.3
+
+72.6
+
+71.9
+
+2.3
+
+3.3
+
+3.8
+
+5.2
+
+1.8
+
+1.3
+
+Source: U.S. Census Bureau, 2014–2018 American Community Survey, 5-Year Estimates, Table DP04, <https://data.census.gov>.
+
+When producing such custom estimates by combining 
+data across geographic areas, the user must calcu-
+late the associated margins of error for those new 
+estimates, as described in the section on “Calculating 
+Measures of Error for Derived Estimates” in the Census 
+Bureau’s handbook on Understanding and Using 
+
+American Community Survey Data: What All Data 
+Users Need to Know.10
+
+10 U.S. Census Bureau, Understanding and Using American 
+Community Survey Data: What All Data Users Need to Know,  
+<www.census.gov/programs-surveys/acs/guidance/handbooks 
+/general.html>. 
+
+Understanding and Using American Community Survey Data   9 
+What Users of Data for Rural Areas Need to Know    9
+
+U.S. Census BureauSpecial Considerations for Areas With 
+Large Seasonal Populations 
+
+TIP: The fact that the ACS collects data throughout the 
+calendar  year  and  counts  residents  at  their  “current 
+residence” (provided their stay exceeds, or will exceed, 
+2 months) can present additional challenges for rural 
+(and  other)  communities  that  have  large  seasonal  
+populations—in  particular,  college  towns  and  resort 
+areas. Users need to exercise caution when analyzing 
+data for such areas—especially when looking at esti-
+mates for such characteristics as housing vacancy or 
+income/poverty status. 
+
+For example, Appalachian State University is located 
+in Boone, North Carolina—a town of about 20,000 
+people.11 As Table 2.5 shows, Boone’s poverty rate for 
+people aged 3 and over was approximately 56 percent 
+in 2014–2018—more than four times the national aver-
+age. A closer look, however, shows that about eight 
+in 10 poor people in Boone were enrolled in college, 
+graduate, or professional school. Removing the uni-
+versity student population reduces the town’s pov-
+erty rate to less than 24 percent—much closer to the 
+national average.
+
+11 U.S. Census Bureau, Population Division, 2018 Population 
+Estimates. The town of Boone is part of the Boone, North Carolina 
+Micropolitan Statistical Area. 
+
+  Table 2.5.  Poverty Status of People Aged 3 and Over in Boone, North Carolina, and the United States 
+                 by School Enrollment Status: 2014–2018
+
+All people aged 3 and over for whom poverty status is 
+determined . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+ Number below poverty level . . . . . . . . . . . . . . . . . . . . . . . .
+
+ Percent below poverty level . . . . . . . . . . . . . . . . . . . . . . . .
+
+People (aged 3 and over) enrolled in college, graduate, or 
+professional school . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+ Number below poverty level . . . . . . . . . . . . . . . . . . . . . . . .
+
+ Percent below poverty level . . . . . . . . . . . . . . . . . . . . . . . .
+
+People (aged 3 and over) NOT enrolled in college, 
+
+graduate, or professional school . . . . . . . . . . . . . . . . . . . . .
+
+ Number below poverty level . . . . . . . . . . . . . . . . . . . . . . . .
+
+ Percent below poverty level . . . . . . . . . . . . . . . . . . . . . . . .
+
+Boone, North Carolina
+
+United States
+
+Estimate
+
+Margin of error 
+(+/-)
+
+Estimate
+
+Margin of error 
+(+/-)
+
+13,154
+
+376
+
+303,463,789
+
+19,661
+
+7,363
+
+56.0
+
+6,852
+
+5,855
+
+85.4
+
+6,302
+
+1,508
+
+23.9
+
+513
+
+41,756,137
+
+259,564
+
+3.6
+
+13.8
+
+0.1
+
+601
+
+19,769,916
+
+58,240
+
+531
+
+4,259,802
+
+19,121
+
+2.0
+
+21.5
+
+0.1
+
+593
+
+283,693,873
+
+198,706
+
+356
+
+37,496,335
+
+162,730
+
+5.2
+
+13.2
+
+0.1
+
+Source: U.S. Census Bureau, 2014–2018 American Community Survey, 5-Year Estimates, Table B14006, <https://data.census.gov>. 
+
+10   Understanding and Using American Community Survey Data 
+10   What Users of Data for Rural Areas Need to Know
+
+U.S. Census BureauNantucket County, Massachusetts (population 11,198 
+in 2018), provides another example.12 ACS 5-year data 
+for 2014–2018 show that 69.5 percent of Nantucket’s 
+housing was vacant, compared with just 12.2 percent 
+of housing nationwide (see Table 2.6). Further exami-
+nation, however, reveals that more than 90 percent of 
+
+12 U.S. Census Bureau, Population Division, Vintage 2019 Population 
+
+Estimates. 
+
+Nantucket’s vacant units were designated for seasonal 
+or occasional use, reflecting the county’s status as a 
+vacation hub. Nationwide, almost one-third (32.8 per-
+cent) of vacant units were designated for such use. As 
+in the previous example, it is important to pay atten-
+tion to the circumstances of small geographic areas 
+when using ACS data.
+
+  Table 2.6.  Vacancy Status of Housing Units in Nantucket County, Massachusetts, and the United States: 
+                 2014–2018 
+
+Nantucket County, Massachusetts
+
+United States
+
+Estimate
+
+Margin of error 
+(+/-)
+
+Estimate
+
+Margin of error 
+(+/-)
+
+Total housing units . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+12,191
+
+60
+
+136,384,292
+
+6,639
+
+ Number of vacant housing units  . . . . . . . . . . . . . . . . . . . .
+
+ Percentage of all housing units that are vacant . . . . . . .
+ Number of vacant housing units designated for  
+ seasonal, recreational, or occasional use . . . . . . . . .
+
+ Percentage of vacant housing units designated for  
+ seasonal, recreational, or occasional use  . . . . . . . . .
+
+8,469
+
+69.5
+
+7,677
+
+90.6
+
+246
+
+16,654,164
+
+226,286
+
+2.0
+
+267
+
+1.7
+
+12.2
+
+0.2
+
+5,465,886
+
+40,538
+
+32.8
+
+0.5
+
+Source: U.S. Census Bureau, 2014–2018 American Community Survey, 5-Year Estimates, Tables DP04 and B25004, <https://data.census.gov>.
+
+Understanding and Using American Community Survey Data   11 
+What Users of Data for Rural Areas Need to Know    11
+
+U.S. Census Bureau3. ACCESSING ACS DATA
+
+Data.census.gov is the U.S. Census Bureau’s primary 
+tool for accessing population, housing, and economic 
+data from the American Community Survey (ACS), 
+the decennial census, and many other Census Bureau 
+data sets.13 Data.census.gov provides access to ACS 
+data for a wide range of geographic areas including 
+states, cities, counties, American Indian and Alaska 
+Native areas, census tracts, and block groups. Data 
+users interested in accessing data for these geo-
+graphic areas are encouraged to refer to the section 
+on “Accessing ACS Data” in the Census Bureau’s 
+handbook on Understanding and Using American 
+Community Survey Data: What All Data Users Need to 
+Know.14 
+
+through the “Geographic Components” option in 
+data.census.gov. A geographic component is the por-
+tion of a geographic area that meets certain criteria 
+such as "in a metropolitan statistical area" or "in a 
+rural area." Geographic components are available for 
+the nation, regions, divisions, and for each of the 50 
+states, the District of Columbia, and Puerto Rico.
+
+ACS data are tabulated for 15 different geographic 
+components, including urban, rural, in metropoli-
+tan statistical area, in micropolitan statistical area, 
+in metropolitan or micropolitan statistical area, not 
+in metropolitan or micropolitan statistical area, and 
+several others.
+
+Data users can access pretabulated data for urban/
+rural areas as well as metropolitan statistical areas, 
+micropolitan statistical areas, and areas outside 
+of metropolitan and micropolitan statistical areas 
+
+In the example below, we use the geographic compo-
+nents in data.census.gov to compare the median value 
+of owner-occupied housing in urban and rural areas in 
+Alabama in 2018.15 
+
+13 U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+14 U.S. Census Bureau, Understanding and Using American 
+Community Survey Data: What All Data Users Need to Know,  
+<www.census.gov/programs-surveys/acs/guidance/handbooks 
+/general.html>.
+
+15 For more tips on how to select geographic components and for 
+quick links for collections of geographies (e.g., rural areas for all states 
+in the United States), visit the "How do I select geographic compo-
+nents such as urban/rural FAQ" at <https://ask.census.gov/prweb 
+/PRServletCustom?pyActivity=pyMobileSnapStart&ArticleID=KCP 
+-5943>.
+
+12   Understanding and Using American Community Survey Data 
+12   What Users of Data for Rural Areas Need to Know
+
+U.S. Census BureauTo select a geographic component:
+
+•  Click on “Advanced Search” under the search bar. This brings you to the Advanced Search window (see 
+
+Figures 3.1 and 3.2).
+
+Figure 3.1.  Starting an Advanced Search in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+Figure 3.2.  Starting an Advanced Search in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>. 
+
+Understanding and Using American Community Survey Data   13 
+What Users of Data for Rural Areas Need to Know    13
+
+U.S. Census Bureau•  Click on “Surveys” to display a list of available data products. Then, select “ACS 1-Year Estimates Detailed 
+Tables” (see Figure 3.3). By selecting the survey first, it's easier to select the geography later because  
+data.census.gov will only display the geographic components available for the selected survey.
+
+Figure 3.3.  Selecting a Survey in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+14   Understanding and Using American Community Survey Data 
+14   What Users of Data for Rural Areas Need to Know
+
+U.S. Census Bureau•  To find information for rural and urban areas, select the “Geography” filter and click “State.” Then turn on 
+the “Show Geographic Components” toggle switch and scroll to select “Alabama,” “Alabama - Rural,” and 
+“Alabama - Urban.” 
+
+•  Verify that your survey and geography selections appear in the “Selected Filters” at the bottom of the win-
+
+dow (see Figure 3.4).
+
+Figure 3.4.  Selecting Geographic Components in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>. 
+
+Understanding and Using American Community Survey Data   15 
+What Users of Data for Rural Areas Need to Know    15
+
+U.S. Census Bureau•  For this example, we already know the desired table ID: Table B25077: “Median Value (Dollars).”
+
+•  Type “B25077” into the first text box directly under the Advanced Search heading. Then click “Search” in the 
+
+lower right corner (see Figure 3.5). 
+
+Figure 3.5.  Selecting Tables in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>. 
+
+16   Understanding and Using American Community Survey Data 
+16   What Users of Data for Rural Areas Need to Know
+
+U.S. Census Bureau•  Click on the table title corresponding to Table B25077 and select it to view the results.
+
+•  The results indicate that in Alabama, the median value of owner-occupied housing units in 2018 was higher in 
+
+urban areas ($157,500) than rural areas ($131,800) (see Figure 3.6).
+
+Figure 3.6.  Viewing Results in Data.census.gov 
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+However, data users need to conduct a test to determine whether this difference is statistically significant. The 
+Census Bureau’s Statistical Testing Tool consists of an Excel spreadsheet that will automatically calculate statisti-
+cal significance when data users are comparing two ACS estimates or multiple estimates. The results are calcu-
+lated automatically. In this example, the result “Yes” indicates that the median household income estimates are 
+statistically different (see Figure 3.7).
+
+Figure 3.7.  Conducting a Statistical Significance Test 
+
+Source: U.S. Census Bureau, American Community Survey (ACS), Statistical Testing Tool, <www.census.gov/programs-surveys/acs 
+/guidance/statistical-testing-tool.html>.
+
+Understanding and Using American Community Survey Data   17 
+What Users of Data for Rural Areas Need to Know    17
+
+U.S. Census BureauPublic Use Microdata Areas 
+Data users interested in custom ACS estimates for 
+rural areas often use the Census Bureau’s Public Use 
+Microdata Sample (PUMS) files, which contain a sam-
+ple of individual records of people and households 
+that responded to the survey (stripped of all identify-
+ing information). In general, the PUMS files are more 
+difficult to work with than published tables from data.
+census.gov because data users need to use a statisti-
+cal package to access the data. Also, the responsibility 
+for producing estimates from PUMS and judging their 
+statistical significance is up to the user.
+
+The main advantage of the PUMS files is that they 
+permit analysis of specific population groups and 
+custom variables that are not available through the 
+pretabulated tables in data.census.gov. For example, 
+PUMS data users could compare the poverty status of 
+veterans and nonveterans by level of education, which 
+is not available in the Census Bureau’s published 
+tables.
+
+PUMS data are available for regions, divisions, states, 
+and Public Use Microdata Areas, or PUMAs—geographic 
+areas with a minimum population of 100,000. In addi-
+tion to the 100,000-population threshold, PUMAs are 
+constructed based on census tract or county bound-
+aries.16 PUMAs do not cross state lines. PUMAs are 
+updated after each decennial census.
+
+16 U.S. Census Bureau, Geography, Public Use Microdata Areas 
+(PUMAs), <www.census.gov/programs-surveys/geography/guidance 
+/geo-areas/pumas.html>.
+
+TIP: PUMAs are especially useful for looking at char-
+acteristics in rural areas because, unlike many of the 
+geographic units in these areas (such as small towns), 
+PUMAs all surpass the 65,000-population threshold 
+that is needed to provide ACS 1-year estimates.
+
+Counties with populations greater than 200,000 are 
+generally subdivided into multiple PUMAs, while less 
+populous counties are grouped with adjacent coun-
+ties to form PUMAs. On the other hand, because of 
+the requirement that each PUMA encompass at least 
+100,000 people, few are predominantly rural. (For 
+more information about ACS population thresholds, 
+see the section on “Considerations When Working 
+With ACS Data”).
+
+Figure 3.8 shows an example of a PUMA consisting 
+of five adjacent counties in eastern Kentucky that 
+comprise the Big Sandy Area Development District 
+(Kentucky PUMA 01100). In this case, all of the coun-
+ties making up the PUMA are outside of metropolitan 
+and micropolitan statistical areas, but other PUMAs 
+may be located entirely within metropolitan statistical 
+areas, or include combinations of metropolitan coun-
+ties, micropolitan counties, and counties outside of 
+metropolitan and micropolitan statistical areas.
+
+Figure 3.8.  Big Sandy Area Development District (Kentucky PUMA 01100)
+
+Source: U.S. Census Bureau.
+
+18   Understanding and Using American Community Survey Data 
+18   What Users of Data for Rural Areas Need to Know
+
+U.S. Census BureauData users can visualize PUMAs online using the Census Bureau’s TIGERweb application.17 
+
+•  Go to the TIGERweb Web site at <https://tigerweb.geo.census.gov/tigerweb/>.
+
+•  Use the Zoom In feature on the map—by clicking on the individual plus sign or using the slide bar—to display 
+
+a geographic area of interest.
+
+•  Then use the “Layers” menu to select “2010 Census Public Use Microdata Areas.” Figure 3.9 shows a 
+TIGERweb map of PUMA boundaries in portions of Utah and other states in the Mountain West.
+
+For more information about using TIGERweb, see the Census Bureau’s TIGERweb User Guide.18
+
+17 U.S. Census Bureau, Geography Division, TIGERweb, <https://tigerweb.geo.census.gov/tigerweb/>. 
+18 U.S. Census Bureau, TIGERweb User Guide, <https://tigerweb.geo.census.gov/tigerwebmain/TIGERweb_User_Guide.pdf>.
+
+Figure 3.9.  Map of PUMAs in Portions of Utah, Nevada, Idaho, and Wyoming
+
+Source: U.S. Census Bureau, TIGERweb, <https://tigerweb.geo.census.gov/tigerweb/>.
+
+Understanding and Using American Community Survey Data   19 
+What Users of Data for Rural Areas Need to Know    19
+
+U.S. Census BureauUser-Defined Areas
+
+Beyond the standard legal and statistical geographic 
+entities created by the Census Bureau, there are 
+instances where analysts might want to show data 
+for a custom, user-defined geographic area. For 
+example, many states have regional planning commis-
+sions designed to foster cooperation among contigu-
+ous counties with similar needs. Figure 3.10 shows 
+an image of the Eastern Upper Peninsula Regional 
+Planning and Development Commission, 1 of 14 
+regional agencies in Michigan that serves the needs 
+of the three easternmost counties of the state’s Upper 
+Peninsula (Luce, Chippewa, and Mackinac Counties).
+
+Examples of multistate agencies with similar aims are 
+the Appalachian Regional Commission, consisting of 
+more than 400 counties in 13 states, and the Delta 
+Regional Authority, which serves the needs of resi-
+dents of 252 counties in 8 states.19
+
+19 Appalachian Regional Commission, <http://arc.gov>; and Delta 
+
+Regional Authority, <http://dra.gov>.
+
+When aggregating ACS estimates across different 
+geographic areas or population subgroups, data users 
+should avoid combining ACS single-year estimates 
+with ACS 5-year estimates. That is, 1-year estimates 
+should only be combined with other 1-year estimates, 
+and 5-year estimates should only be combined with 
+other 5-year estimates. When such derived estimates 
+are generated, the user must also calculate the associ-
+ated margins of error. For more information about 
+creating ACS estimates for custom geographic areas, 
+see the section on “Calculating Measures of Error for 
+Derived Estimates” in the Census Bureau’s handbook 
+on Understanding and Using American Community 
+Survey Data: What All Data Users Need to Know.20
+
+20 U.S. Census Bureau, Understanding and Using American 
+Community Survey Data: What All Data Users Need to Know,  
+<www.census.gov/programs-surveys/acs/guidance/handbooks 
+/general.html>.
+
+Figure 3.10.  Eastern Upper Peninsula Regional Planning and Development Commission, Michigan
+
+Source: Eastern Upper Peninsula Regional Planning and Development Commission.
+
+20   Understanding and Using American Community Survey Data 
+20   What Users of Data for Rural Areas Need to Know
+
+U.S. Census Bureau4. CASE STUDIES FOR RURAL AREAS
+
+Today, the American Community Survey (ACS) puts up-to-date information about important social issues at the 
+fingertips of people who need it, including local government officials and planners, program directors and man-
+agers, businesses, federal policymakers, researchers, nongovernmental organizations, journalists, teachers and 
+students, and the public.
+
+Here are some examples of how ACS data are being used for decision-making:
+
+•  The Kaiser Family Foundation published a 2017 issue brief examining how changes to Medicaid coverage 
+
+would affect health care access of rural residents.21 
+
+•  Researchers used ACS data to assess the availability of services in rural areas with aging populations.22 
+
+•  The U.S. Department of Veterans Affairs used ACS data to examine the characteristics of the veteran popula-
+
+tion in rural areas.23 
+
+•  The Appalachian Regional Commission (ARC) uses ACS data to assess the status of both metropolitan and 
+
+nonmetropolitan (in micropolitan statistical areas or outside metropolitan and micropolitan statistical areas) 
+counties in the Appalachian Region on a host of social and economic measures, which in turn enables the 
+ARC to develop strategies to improve conditions in Appalachia.24 
+
+•  U.S. News and World Report used ACS 5-year data (2011–2015) to show that disability rates were noticeably 
+
+higher outside of metropolitan statistical areas than within them.25 
+
+The case studies below provide some more detailed examples of how ACS data are being used to highlight 
+issues in rural (and other) areas.
+
+21 Julia Foutz et al., “The Role of Medicaid in Rural America,” 2017, <www.kff.org/medicaid/issue-brief/the-role-of-medicaid-in-rural-america/>. 
+22 Brian C. Thiede et al., “Access to Services Diminishes in Rural America as Populations Age,” Brief No. 04-16, December 2016, <https://w3001 
+
+.apl.wisc.edu/b04_16>.
+
+23 National Center for Veterans Analysis and Statistics, U.S. Department of Veterans Affairs, “Characteristics of Rural Veterans: 2014,” August 
+
+2016, <www.va.gov/vetdata/docs/SpecialReports/Rural_Veterans_ACS2014_FINAL.pdf>.
+
+24 The Appalachian Regional Commission, “The Appalachian Region: A Data Overview from the 2014-2018 American Community Survey,” June 
+
+2020, <www.arc.gov/report/the-appalachian-region-a-data-overview-from-the-2014-2018-american-community-survey/>.
+
+25 Brian Thiede et al., “The Divide Between Rural and Urban America, in 6 Charts,” U.S. News and World Report, March 20, 2017, 
+<www.usnews.com/news/national-news/articles/2017-03-20/6-charts-that-illustrate-the-divide-between-rural-and-urban-america>.
+
+Understanding and Using American Community Survey Data   21 
+What Users of Data for Rural Areas Need to Know    21
+
+U.S. Census BureauCase Study #1: RTC: Rural Disability Counts Data Finder
+
+Skill Level: Introductory/Intermediate 
+Subject: Disability 
+Type of Analysis: Comparison of American Community Survey (ACS) data across counties 
+Tools Used: Data.census.gov, spreadsheets, computer programing tools 
+Author: Lillie Greiman, Project Director/Research Associate, RTC: RURAL
+
+The RTC: Rural at the University of Montana is a research and training center, funded by the National Institute 
+on Disability, Independent Living and Rehabilitation Research (NIDILRR) to improve the ability of people 
+with disabilities to engage in rural community living.26 We conduct research across the focus areas of health, 
+employment, and independent living. Our work has led to the development of health promotion programs, 
+disability and employment policy and support, and education for providers who serve people with disabilities.
+
+We developed the Disability Counts data lookup tool to provide accessible data about disability in rural areas 
+and communities across the nation.27 This site uses data from the ACS matched with information about rural 
+definitions to provide a one-stop shop for downloading disability data for every county across the United States 
+and Puerto Rico.
+
+We pull a range of disability data tables from the ACS 5-year estimates (using data.census.gov) to feed the data 
+lookup tool. (Due to the small population size of many rural counties, we must use ACS 5-year estimates for 
+our analysis.) In addition, we bring in county-level classifications from the Office of Management and Budget's 
+(OMB’s) metropolitan statistical area designations. These designations classify counties as metropolitan or 
+micropolitan (classified as core-based statistical areas), or outside of metropolitan and micropolitan statistical 
+areas. Table 4.1 shows the data.census.gov tables we use to produce the county-level estimates. 
+
+  Table 4.1.  List of Disability Tables Downloaded From Data.census.gov
+
+  Variable
+
+Table
+
+Data set
+
+Disability estimates and rates
+
+S1810: General Disability Characteristics
+
+ACS 5-year estimates
+
+Disability types
+
+S1810: General Disability Characteristics
+
+ACS 5-year estimates
+
+Disability and poverty
+
+C18130: Age by Disability by Poverty Status
+
+ACS 5-year estimates
+
+Veterans with disabilities
+
+C21007: Age by Veteran, Poverty and Disability Status
+
+ACS 5-year estimates
+
+Disability and employment
+
+C18120: Employment by Disability Status
+
+ACS 5-year estimates
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>. 
+
+26 University of Montana, RTC: Rural, <http://rtc.ruralinstitute.umt.edu/>. 
+27 University of Montana, Disability Counts: Disability Data Lookup, <http://rtc.ruralinstitute.umt.edu/geography/>. 
+
+22   Understanding and Using American Community Survey Data 
+22   What Users of Data for Rural Areas Need to Know
+
+U.S. Census BureauTo build the data look-up tool, we first download data from data.census.gov using the Advanced Search option.
+
+Step 1. Use the data.census.gov “Advanced Search” option, as follows:
+
+•  Go to the data.census.gov Web site at <https://data.census.gov>.
+
+•  Select “Advanced Search” below the search bar (see Figure 4.1).
+
+Figure 4.1.  Selecting Advanced Search in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+Understanding and Using American Community Survey Data   23 
+What Users of Data for Rural Areas Need to Know    23
+
+U.S. Census BureauStep 2. Select your data set
+
+In order to ensure that you are accessing the most current data, you must first specify the data set.
+
+•  Select “Surveys” in the navigation pane on the left side of the screen to display a list of available surveys.
+
+•  Select “ACS 5-Year Estimates Subject Tables.” This survey should appear in the “Selected Filters” at the 
+
+bottom of the page (see Figure 4.2).
+
+Figure 4.2.  Selecting a Survey in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+24   Understanding and Using American Community Survey Data 
+24   What Users of Data for Rural Areas Need to Know
+
+U.S. Census BureauStep 3. Select disability topic
+
+•  Select “Topics” in the navigation pane on the left side of the screen. Then click on “Health” and “Disability” 
+
+(see Figure 4.3).
+
+Figure 4.3.  Selecting a Topic in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+Understanding and Using American Community Survey Data   25 
+What Users of Data for Rural Areas Need to Know    25
+
+U.S. Census BureauStep 4. Select geographic areas
+
+This is where you specify that you want county-level data.
+
+•  Select “Geography” in the navigation pane on the left side of the screen to display a list of available 
+
+geographies.
+
+•  Then, select “County” and “All counties in United States.” This geographic selection should appear in the 
+
+“Selected Filters” at the bottom of the page. Then, click “Search” in the lower right corner (see Figure 4.4).
+
+Figure 4.4.  Selecting Geographic Areas in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>. 
+
+26   Understanding and Using American Community Survey Data 
+26   What Users of Data for Rural Areas Need to Know
+
+U.S. Census BureauStep 5. Select your data table(s)
+
+Now that you have specified all the relevant parameters for the data, you can download the specific data 
+table(s) that meet(s) your needs.
+
+•  Click "TABLES" in the upper left corner.
+
+•  For standard disability data breakdowns, Table S1810: "Disability Characteristics” should suffice.
+
+o  This table will likely be the first to appear in the list of data tables.
+
+o  This table provides disability data broken down by age, sex, disability type, and race.
+
+• 
+
+ Select “Download Table” under the message that the “table is too large to display” (see Figure 4.5).
+
+Figure 4.5.  Downloading a Table in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>. 
+
+Understanding and Using American Community Survey Data   27 
+What Users of Data for Rural Areas Need to Know    27
+
+U.S. Census Bureau•  Use the Download Tables window to check the box for the 2017 ACS 5-year data (the most recent data 
+
+available at the time of this analysis) (see Figure 4.6). 
+
+•  Select “CSV” as the file type and click “Download.” CSV files are compatible with spreadsheet programs 
+
+such as Microsoft Excel.
+
+Figure 4.6.  Selecting the Survey Year and File Type in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>. 
+
+For the Disability Counts data lookup tool, we downloaded the data listed in Table 4.1. In many of the ACS tables 
+we download, disability data are disaggregated by various categories (for example, data for veterans with dis-
+abilities are available by age and poverty status) and only the counts are reported. Therefore, for some variables 
+(veterans, poverty, and employment) we needed to calculate our own rates. We did these calculations in Excel 
+by summing across the appropriate categories and then calculating rates for our variables of interest (poverty, 
+veteran status, and employment).
+
+We did not recalculate margins of error for these variables. However, margins of error are a concern for disability 
+estimates. Counties with small populations often have large margins of error associated with disability estimates. 
+This can make the resulting estimates and rate calculations less reliable. We include this as a disclaimer on the 
+site and link to a more detailed report we have compiled on the issue of margins of error and county-level dis-
+ability data.
+
+28   Understanding and Using American Community Survey Data 
+28   What Users of Data for Rural Areas Need to Know
+
+U.S. Census BureauAfter we compiled our master data sheet, including all the relevant disability data estimates, rates, and rural 
+indicators, we worked with our programmer to create a data lookup platform where users can identify states and 
+counties of interest (see Figure 4.7). The resulting customized table is downloadable into a CSV file.
+
+Figure 4.7.  Disability Counts Data Lookup Tool
+
+Source: University of Montana, Disability Counts: Disability Data Lookup, <http://rtc.ruralinstitute.umt.edu/geography/>.
+
+This tool provides two main benefits to data users. First, like data.census.gov, it is screen reader accessible, 
+meaning that someone who is blind or visually impaired can access the information using specialized technol-
+ogy. Second, the disability data presented have already been distilled into key variables of interest for disability 
+service providers. The data provided help local service organizations—like Centers for Independent Living— 
+advocate for the needs of people with disabilities at both the local and national level.
+
+Understanding and Using American Community Survey Data   29 
+What Users of Data for Rural Areas Need to Know    29
+
+U.S. Census BureauCase Study #2: Determining Eligibility for Grants in Rural Oregon
+
+Skill Level: Intermediate/Advanced 
+Subject: Place-level socioeconomic data and accompanying statistical error 
+Type of Analysis: Analysis of place-level American Community Survey (ACS) data, including margins of error 
+and calculating coefficients of variation 
+Tools Used: Data.census.gov, spreadsheet  
+Author: Jason R. Jurjevich, University of Arizona (formerly at Portland State University)
+
+For mayors and community leaders of communities across rural America, attracting retail and other forms of 
+economic development is often challenging. In addition to having small populations spread across vast land-
+scapes, inadequate and/or nonexistent infrastructure—water, sewer, telecommunications, and transportation—are 
+often key obstacles. In northern Klamath County, Oregon, residents of two neighboring communities, Gilchrist 
+and Crescent, were interested in securing grant and loan funding from the U.S. Department of Agriculture 
+(USDA) Rural Development to build water and sewer infrastructure to secure a small grocery store. Residents of 
+both communities were traveling up to 25 miles to La Pine, Oregon—the closest place for groceries.
+
+To promote and facilitate economic development in rural communities, USDA Rural Development offers a 
+number of grants and loans, including the Water and Waste Disposal Loan and Grant Program. In Oregon, com-
+munities are eligible for these grants and loans if their maximum median annual household income (MHI) was 
+$35,000 or less. USDA Rural Development determines eligibility for grants and loans based on ACS 5-year esti-
+mates; however, this approach does not consider the accompanying margins of error.
+
+In late 2014, a resident from Gilchrist contacted our office at Portland State University, asking about the reli-
+ability of income estimates from the ACS. They wanted to know if they would be eligible to receive USDA Rural 
+Development funds for their project.
+
+Gilchrist and Crescent, two neighboring communities of a few hundred individuals, are wholly contained in 
+Census Tract 9701. Because these places are small unincorporated areas, the census tract is the smallest unit 
+available for conducting geographic analysis. Given that residents of Gilchrist and Crescent often commute 
+to the closest incorporated city—La Pine, Oregon—for basic necessities, La Pine is included for comparison 
+purposes.
+
+30   Understanding and Using American Community Survey Data 
+30   What Users of Data for Rural Areas Need to Know
+
+U.S. Census BureauDownloading ACS Data 
+
+To download MHI data, use the data.census.gov Advanced Search tool, as follows:
+
+•  Go to the data.census.gov Web site at <https://data.census.gov/> and click on “Advanced Search” under the 
+
+search bar. 
+
+•  Start with the “Geography” filter and scroll to select “Place” as the geography. Then scroll to select “Oregon” 
+
+from the “Within (State)” filter. Next, scroll to select “La Pine city, Oregon.”
+
+• 
+
+“La Pine city” should appear as a selected filter at the bottom of the screen (see Figure 4.8).
+
+Figure 4.8.  Selecting a Geography (Place) in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>. 
+
+Understanding and Using American Community Survey Data   31 
+What Users of Data for Rural Areas Need to Know    31
+
+U.S. Census Bureau•  Using the same “Geography” filter, scroll to select “Tract” (see Figure 4.9). 
+
+•  Then select “Oregon,” “Klamath County, Oregon,” and “Census Tract 9701, Klamath County, Oregon.”
+
+Figure 4.9.  Selecting a Geography (Census Tract) in Data.census.gov
+
+• 
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>. 
+
+32   Understanding and Using American Community Survey Data 
+32   What Users of Data for Rural Areas Need to Know
+
+U.S. Census Bureau 
+•  Next, select “Surveys” and “ACS 5-Year Estimates Detailed Tables” (see Figure 4.10).
+
+Figure 4.10.  Selecting a Data Set in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+Understanding and Using American Community Survey Data   33 
+What Users of Data for Rural Areas Need to Know    33
+
+U.S. Census Bureau•  To download the MHI, type “B19013” in the table ID search bar. This is the table corresponding to “Median 
+
+Household Income in the Past 12 Months.” Then, click “Search” in the lower right corner (see Figure 4.11).
+
+Figure 4.11.  Selecting a Table in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+According to ACS 5-year data, the MHIs were $37,028 (±6,447) and $27,388 (±$6,725) for Census Tract 9701 and 
+La Pine during the 2006–2010 period, respectively (see Figure 4.12). To qualify for grant funding from the USDA, 
+communities cannot have MHI figures greater than $35,000 (not considering margins of error), so communities 
+in Census Tract 9701 (i.e., Gilchrist and Crescent) were declared ineligible.28
+
+Figure 4.12.  Median Household Income Estimates for Census Tract 9701 and La Pine City, Oregon:  
+                  2006–2010
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+28 If there is reason to believe that ACS data do not provide an accurate representation of MHI, the community can conduct their own income 
+
+survey. However, the cost for conducting an income survey is borne by the community. 
+
+34   Understanding and Using American Community Survey Data 
+34   What Users of Data for Rural Areas Need to Know
+
+U.S. Census BureauAssessing ACS Data Reliability
+
+Correctly interpreting the ACS estimates for Census Tract 9701 and La Pine requires adding and subtracting the 
+margins of error to/from the estimate to calculate upper and lower confidence intervals. This means the actual 
+income figure for Census Tract 9701 is between $30,581 ($37,028 - $6,447) and $43,475 ($37,028 + $6,447), while 
+the range for La Pine is $20,663 ($27,388 - $6,725) and $34,113 ($27,388 + $6,725). ACS estimates are reported 
+at 90 percent statistical confidence, which means there is a 10 percent chance that the actual income figure lies 
+outside of this range.
+
+To determine whether or not an ACS estimate is reliable, the U.S. Census Bureau recommends calculating the 
+coefficient of variation (CV) statistic. The CV is a relative measure of uncertainty and expresses uncertainty as a 
+percentage of the census estimate. To calculate the CV, the first step involves calculating the standard error (SE), 
+which is the margin of error divided by 1.645 (column F in Figure 4.13). The final step, dividing the SE value by the 
+estimate and expressing the value as a percentage, yields the CV statistic (column G in Figure 4.13).
+
+Figure 4.13.   Data.census.gov (Table B19013) Standard Error and Coefficient of Variation  
+                   Calculations, 2006–2010 5-Year Estimates
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+Lower CV values indicate greater reliability. A 2014 report from Esri (a company that provides GIS mapping 
+software) proposes that CV values smaller than 12 percent indicate a high degree of reliability, values between 12 
+percent and 40 percent indicate moderate reliability, and CVs greater than 40 percent indicate low reliability.29 
+Based on these guidelines, the MHI estimate for Census Tract 9701—with a CV of 11 percent—is reliable, while the 
+estimate for La Pine (CV of 15 percent) is moderately reliable.
+
+The principal reason for the difference in reliability between the two estimates is because statistical uncertainty 
+is magnified for smaller geographic areas (for example, census tracts), subpopulations (e.g., poverty rate for 
+children), and for cross-tabulations (e.g., race/ethnicity by income level). In this example, the City of La Pine is a 
+smaller geographic area than the census tract and contains a smaller population. According to the 2006–2010 
+ACS 5-year data, the estimated population is 3,082 (±476) and 1,679 (±675) for Census Tract 9701 and La Pine, 
+respectively.
+
+This example shows some of the challenges in working with any data—from the ACS or other surveys—that are 
+derived from a sample of the population. In this case, residents of Gilchrist, Crescent, and La Pine were not able 
+to use ACS estimates to demonstrate eligibility for a USDA Rural Development grant or loan. But as the only 
+source of detailed social, economic, housing, and demographic data for small communities, the ACS is the best 
+place to start for determining program eligibility.
+
+29 Esri, American Community Survey (ACS), Understanding Margin of Error, <https://doc.arcgis.com/en/esri-demographics/data/acs 
+
+.htm#ESRI_SECTION1_805FF6F174ED48059E26696F0A440571>. 
+
+Understanding and Using American Community Survey Data   35 
+What Users of Data for Rural Areas Need to Know    35
+
+U.S. Census BureauCase Study #3: Minnesota State Demographic Center Analysis of the Age 
+Distribution of Residents in Rural and Urban Areas
+
+Skill Level: Advanced 
+Subject: Age Distribution, Rural-Urban Geographic Areas 
+Type of Analysis: Making comparisons across geographic areas and creating custom geographic areas from 
+census tracts 
+Tools Used: Variance Replicate Tables, spreadsheet, Statistical Testing Tool 
+Author: Susan Brower, State Demographer of Minnesota
+
+Susan is the State Demographer of Minnesota. She wants to study how the age distribution of residents differs 
+across geographic regions of the state. To do this, she uses a rural-urban typology that corresponds to the char-
+acteristics of individual census tracts.
+
+Susan uses Rural-Urban Commuting Area (RUCA) classification codes developed by the U.S. Department of 
+Agriculture’s (USDA) Economic Research Service (ERS) to examine economic characteristics of Minnesota resi-
+dents living in a range of settings—from remote, rural areas to dense, urban cities. RUCA codes classify census 
+tracts using measures of population density, urbanization, and commuting patterns. She aggregates characteris-
+tics of residents across the state based on the RUCA code of the census tract in which they live. (More informa-
+tion about RUCA codes can be found on the ERS Web site.)30 
+
+Census tracts are roughly equivalent to neighborhoods. They contain between 2,500 and 8,000 people per tract. 
+Since detailed American Community Survey (ACS) 1-year estimates are only available for geographic areas with at 
+least 65,000 residents, Susan uses ACS 5-year estimates, which she downloads from <https://data.census.gov>.31 
+There are approximately 1,300 census tracts in Minnesota. Susan aggregates these tracts into four RUCA-based 
+areas—Rural, Small Town, Large Town, and Urban.
+
+Susan also estimates how much uncertainty is associated with the new Rural, Small Town, Large Town, and 
+Urban estimates she has created. The U.S. Census Bureau provides a number of formulas that can be used to 
+estimate uncertainty—margins of error—for estimates that are aggregated from smaller geographic components. 
+However, the Census Bureau cautions against using these formulas when the number of geographic components 
+is greater than four. 
+
+Because she wants to aggregate a large number of census tracts together into her four geographic regions, she 
+uses the Variance Replicate Tables that are made available on the Census Bureau’s site for selected ACS data 
+tables.32 Using these tables allows her to calculate new margins of error for her estimates. Susan begins her 
+analysis by reviewing the Documentation for the ACS Variance Replicate Tables.33 She selects the 2015 data page 
+because she has chosen to analyze data from the 2011–2015 ACS 5-year data set. These were the most current 
+data available at the time of the analysis. The 2015 page has the information that she needs to find the most 
+appropriate data table for her analysis and to calculate new margins of error for her custom geographic areas.
+
+30 U.S. Department of Agriculture, Economic Research Service, “Rural-Urban Commuting Area Codes,” <www.ers.usda.gov/data-products 
+
+/rural-urban-commuting-area-codes/>.
+
+31 Starting with the 2014 ACS, the Census Bureau is also producing “1-year Supplemental Estimates”—simplified versions of popular ACS 
+
+tables—for geographic areas with at least 20,000 people.
+
+32 U.S. Census Bureau, American Community Survey, Variance Replicate Tables, <www.census.gov/programs-surveys/acs/data 
+
+/variance-tables.html>.
+
+33 U.S. Census Bureau, American Community Survey, Variance Replicate Tables Documentation, <www.census.gov/programs-surveys 
+
+/acs/technical-documentation/variance-tables.html>.
+
+36   Understanding and Using American Community Survey Data 
+36   What Users of Data for Rural Areas Need to Know
+
+U.S. Census Bureau•  On the Variance Replicate Tables Documentation Web page, she first looks at the spreadsheet of Table Shells 
+to select a table that contains age distribution data—preferably by 5-year age groups. She finds that table 
+B01001 “SEX BY AGE” meets her needs. She then checks the 2011–2015 Variance Replicate Estimates Table 
+and Geography List and sees that table B01001 is available at the census tract level. On the second page 
+of the same spreadsheet, Susan sees that the geographic summary level code for census tracts is 140 (see 
+Figure 4.14). This is important when she is looking to locate the data file she needs.
+
+Figure 4.14.  2011–2015 Variance Replicate Estimates Table and Geography List
+
+Source: U.S. Census Bureau, American Community Survey, Variance Replicate Tables Documentation, <www.census.gov/programs 
+-surveys/acs/technical-documentation/variance-tables.2015.html>.
+
+Understanding and Using American Community Survey Data   37 
+What Users of Data for Rural Areas Need to Know    37
+
+U.S. Census Bureau•  From the Variance Replicate Tables Web page, Susan clicks on the 2011–2015 “5-year Variance Estimate 
+
+Tables” link (see Figure 4.15). This takes her to a series of subfolders with names corresponding to the sum-
+mary level of the data files they contain. Susan chooses folder 140, since this is the folder that contains vari-
+ance tables at the census tract summary level. In this folder, she finds several zipped CSV files with names 
+corresponding to the table number that she is looking for—B01001. She chooses table “B01001_27.csv.gz” 
+because she knows that 27 is the FIPS code for Minnesota. She downloads this file, unzips it, and sees that it 
+contains age data for all census tracts within her state.
+
+Figure 4.15.  Accessing the Variance Replicate Tables
+
+Source: U.S. Census Bureau, American Community Survey, Variance Replicate Tables Documentation, <www.census.gov 
+/programs-surveys/acs/technical-documentation/variance-tables.2015.html>.
+
+•  Susan decides to use SPSS (statistical software) to aggregate and analyze the data. After some light editin
+
+g 
+
+of the CSV file to meet SPSS requirements, she imports the data into SPSS and saves it.
+
+•  Next, she creates a second SPSS data file that contains GEOID and RUCA codes. Susan merges the two 
+SPSS files matching on GEOID as the unique census tract identifier. Now she has all the information she 
+needs to create new custom RUCA geographies in one file.
+
+•  Susan analyzes the age data for a collapsed version of the RUCA codes. The USDA publishes ten primary 
+RUCA codes that delineate census tracts.34 She recodes the ten categories into four: “Urban” for RUCA 
+codes 1-3, “Large Town” for codes 4-6, “Small Town” for codes 7-9, and “Rural” for code 10.
+
+34 U.S. Department of Agriculture, Economic Research Service, Rural-Urban Commuting Area Codes, <www.ers.usda.gov/data-products 
+
+/rural-urban-commuting-area-codes.aspx>.
+
+38   Understanding and Using American Community Survey Data 
+38   What Users of Data for Rural Areas Need to Know
+
+U.S. Census Bureau•  She uses the aggregate command in SPSS to sum  
+
+age-sex estimates across census tracts within each  
+of the four RUCA codes. This yields a new estimate  
+for each age-sex category for Urban, Large Town, 
+Small Town, and Rural areas. Susan exports the  
+data into an Excel file (see Figure 4.16).
+
+•  She consults the 2011–2015 Variance Replicate  
+
+Tables Documentation and follows the Census Bureau’s 
+guidance on calculating margins of error using the 
+variance replicate estimates (see Figure 4.17).35 
+
+Figure 4.16.  Aggregated Estimates by Rural- 
+                   Urban Category
+
+Source: Author’s analysis of data from the U.S. Census Bureau, 
+2011–2015 American Community Survey. 
+
+Figure 4.17.  Guidance on Calculating the Margin of Error Using Successive Differences Replicate  
+                  Methodology (Excerpt From Documentation)
+
+Source: U.S. Census Bureau, American Community Survey, Variance Replicate Tables Documentation, <www.census.gov 
+/programs-surveys/acs/technical-documentation/variance-tables.2015.html>.
+
+35 U.S. Census Bureau, American Community Survey, Variance Replicate Tables Documentation,<www.census.gov/programs-surveys/acs 
+
+/technical-documentation/variance-tables.2015.html>.
+
+Understanding and Using American Community Survey Data   39 
+What Users of Data for Rural Areas Need to Know    39
+
+U.S. Census Bureau•  She uses the aggregate command to sum the newly computed variables (i.e., the variance replicate esti-
+
+mates) across all census tracts within her four rural-urban groups. Then she sums across some of the age-sex 
+categories (men and women, aged 65 and older) so that she has the ability to compare differences across 
+geographic regions in the older adult population. Finally, she sums across the 80 variance replicate estimates 
+and multiplies that total by 4/80.
+
+•  Next, Susan creates two new variables for each of her age-sex categories: the standard error (equal to the 
+square root of the variance) and the margin of error at the 90 percent confidence level (equal to the stan-
+dard error times 1.645) and exports them into Excel. She now has the calculated variance, standard error, and 
+margin of error that correspond to each age group and sex by the four rural-urban geographic areas (see 
+Figure 4.18).
+
+Figure 4.18.  Example of Calculations in SPSS
+
+Source: Author’s analysis of data from the U.S. Census Bureau, 2011–2015 American Community Survey.
+
+•  Susan then calculates the percent of adults aged 65 and older in each of the four geographic areas and uses 
+
+the Variance Replicate Tables Documentation to calculate margins of error for these percentages.
+
+40   Understanding and Using American Community Survey Data 
+40   What Users of Data for Rural Areas Need to Know
+
+U.S. Census Bureau•  Finally, Susan compiles the new estimates and margins of error into a single table in Excel and examines the 
+differences in age distributions across RUCA regions. She notes that the rural areas of the state have the old-
+est age distribution. Twenty-one percent of all rural residents are aged 65 and older, compared with just 12 
+percent of urban residents (see Figures 4.19 and 4.20).
+
+Figure 4.19.  Aggregated Estimates of Population by Age and Rural-Urban Area
+
+Source: Author’s analysis of data from the U.S. Census Bureau, 2011–2015 American Community Survey.
+
+Figure 4.20.  Percentage of Population Aged 65 and Older by Rural-Urban Area (With Confidence  
+                   Intervals), Minnesota: 2011–2015
+
+Source: Author’s analysis of data from the U.S. Census Bureau, 2011–2015 American Community Survey.
+
+Understanding and Using American Community Survey Data   41 
+What Users of Data for Rural Areas Need to Know    41
+
+U.S. Census Bureau•  Susan then tests whether the observed differences in the percent aged 65 and older across geographic areas 
+are statistically significant. She pastes the estimates and their associated margins of error into the Census 
+Bureau’s Statistical Testing Tool and finds that all of the differences across geographic areas are significant at 
+the 99 percent confidence level.36 She uses this information to convey her confidence that rural areas of the 
+state have a significantly higher share of older adults than urban areas. She notes that as an area becomes 
+more rural, the share of the older adult population in that area grows (see Figure 4.21).
+
+Figure 4.21.  Testing for Significant Difference Using Statistical Testing Tool
+
+Source: U.S. Census Bureau, American Community Survey, Statistical Testing Tool, <www.census.gov/programs-surveys/acs 
+/guidance/statistical-testing-tool.html>.
+
+Susan uses this analysis to help her convey age differences of the residents of rural, small town, large town, and 
+urban areas in reports that her office produces for state policymakers. While she does not always report the 
+numeric results of statistical tests, knowing which differences are significant helps her know which differences 
+she can highlight in her narrative. Conversely, knowing which differences are not statistically significant helps 
+her know which differences she should downplay in her reporting. An example of a report that was informed by 
+this type of analysis is Greater Minnesota: Refined and Revisited.37 (This report was produced using 2010–2014 
+ACS 5-year estimates, and so the data are somewhat different, but the results are consistent with the results 
+described here.) This report has been used by policymakers working on rural health care initiatives, on Equal 
+Employment Opportunity activities, and by legislators working to create policies that align with current eco-
+nomic conditions in different areas of the state.
+
+36 U.S. Census Bureau, American Community Survey, Statistical Testing Tool, <www.census.gov/programs-surveys/acs/guidance 
+
+/statistical-testing-tool.html>.
+
+37 Minnesota State Demographic Center, Greater Minnesota: Refined and Revisited, <https://mn.gov/admin/demography/reports-resources 
+
+/greater-mn-refined-and-revisited.jsp>.
+
+42   Understanding and Using American Community Survey Data 
+42   What Users of Data for Rural Areas Need to Know
+
+U.S. Census Bureau5. ADDITIONAL RESOURCES
+
+U.S. Census Bureau, What Is the American 
+Community Survey? 
+<www.census.gov/programs-surveys/acs/about.html>
+
+U.S. Census Bureau, Urban and Rural  
+<www.census.gov/programs-surveys/geography 
+/about/glossary.html#par_textimage_29>
+
+U.S. Census Bureau, Understanding and Using 
+American Community Survey Data: What All Data 
+Users Need to Know 
+<www.census.gov/programs-surveys/acs/guidance 
+/handbooks/general.html>
+
+Alison Fields, Kelly Ann Holder, and Charlynn Burd, 
+“Life Off the Highway: A Snapshot of Rural America” 
+(Dec. 8, 2016) 
+<www.census.gov/newsroom/blogs/random 
+-samplings/2016/12/life_off_the_highway.html>
+
+U.S. Census Bureau, ACS Data Releases 
+<www.census.gov/programs-surveys/acs/news/data 
+-releases.html>
+
+U.S. Census Bureau, Geography and the ACS  
+<www.census.gov/programs-surveys/acs/geography 
+-acs.html>
+
+U.S. Census Bureau, ACS Data Tables and Tools  
+<www.census.gov/acs/www/data/data-tables-and 
+-tools/>
+
+U.S. Census Bureau, Data.census.gov Resources  
+<www.census.gov/data/what-is-data-census-gov 
+.html>
+
+U.S. Census Bureau, State Data Center (SDC) 
+Program  
+<www.census.gov/about/partners/sdc.html> 
+
+Michael Ratcliffe, Charlynn Burd, Kelly Holder, and 
+Alison Fields, “Defining Rural at the U.S. Census 
+Bureau,” American Community Survey and 
+Geography Brief ACSGEO-1 (December 2016) 
+<www.census.gov/content/dam/Census/library 
+/publications/2016/acs/acsgeo-1.pdf>
+
+U.S. Department of Agriculture, Rural Classifications: 
+Overview 
+<www.ers.usda.gov/topics/rural-economy-population 
+/rural-classifications/>
+
+ACS Online Community 
+<https://acsdatacommunity.prb.org/>
+
+Understanding and Using American Community Survey Data   43 
+What Users of Data for Rural Areas Need to Know    43
+
+U.S. Census Bureau

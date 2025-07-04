@@ -1,0 +1,40 @@
+United States Census Bureau | An official website of the United States Government
+
+Home Value Estimates in
+Current Dollars
+
+September 2023
+
+Starting with the 2022 data releases, reported home value collected on the American Community Survey (ACS) will be
+
+presented in current year dollars. This adjustment will use the Retroactive Consumer Price Index Research Series (R-
+
+CPI-U-RS), formerly known as the CPI-U-RS, which is used to adjust all other dollar-denominated estimates in the ACS.
+
+This change will bring the home value data in line with how all other dollar-denominated housing and income items
+
+are adjusted to real (i.e., constant) dollars.
+
+For the 2022 ACS 1-year estimates, this change will impact how estimates for home value are presented in the CP04
+
+tables. The data populating the prior periods (2021, 2019, and 2018) will be adjusted to 2022 dollars. Additionally, the
+
+medians will be adjusted in a similar method as other dollar-based medians, as described in the following user note:
+
+Modification to Calculations of Inflation-Adjusted Dollar-Based Medians in Comparison Profiles [/programs-
+
+surveys/acs/technical-documentation/user-notes/2022-08.html] .
+
+For the 5-year estimates, the four prior years (2021, 2020, 2019, and 2018) will be adjusted to the current year’s dollars
+when creating the 2018-2022 ACS 5-year estimate. This change will impact the CP04 table and the following Detailed
+Tables:
+
+B25075-B25083 (including B25077A-I), B25085, B25096, B25097, B25100, B25107-B25110, and B25121
+
+Users should use caution when comparing 2018-2022 ACS 5-year estimates from the tables listed above to their prior
+period estimates, as the differences will represent changes in reported home values as well as inter-year R-CPI-U-RS
+adjustments.
+
+Page Last Revised - September 6, 2023
+
+

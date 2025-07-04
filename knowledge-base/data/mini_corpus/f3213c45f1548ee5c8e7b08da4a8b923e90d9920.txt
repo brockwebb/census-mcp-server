@@ -1,0 +1,87 @@
+United States Census Bureau | An official website of the United States Government
+
+Change to Citizenship Edits
+for People Born in
+American Samoa
+
+September 2019
+
+The Immigration and Nationality Act of 1952 legislates that people born in American Samoa are non-
+
+citizen U.S. nationals unless at least one of their parents were U.S. citizens. While the American
+Community Survey (ACS) is not collected in American Samoa, individuals from American Samoa who are
+
+living in stateside U.S. or Puerto Rico may be included in data collection for the ACS or Puerto Rico
+
+Community Survey (PRCS). The wording of the citizenship question and response categories for
+
+stateside decennial and ACS forms have not historically included explicit instructions for non-citizen U.S.
+nationals.
+
+Internal data edit and processing procedures for citizenship in the decennial census and ACS/PRCS have
+
+always classified respondents who reported being born in American Samoa as U.S. citizens under the
+second response category “Yes, born in Puerto Rico, Guam, the U.S. Virgin Islands, or Northern
+
+Marianas." Consistent with these procedures, the help text for the ACS was amended in 2011 to add the
+
+instruction: "[a]lthough not listed, if the person was born in American Samoa, mark 'Yes, born in Puerto
+
+Rico, Guam, the U.S. Virgin Islands, or Northern Marianas' box."  The ACS Subject Definitions document
+also was modified to add that "People born in American Samoa, although not explicitly listed, are
+
+included in the second response category."
+
+For 2018, it was decided that including U.S. nationals under the second response category in the
+citizenship question was not sufficiently supported by the specific wording of the question, as the
+
+question does not address the status of U.S. nationals. For this reason, edit and processing procedures
+
+have been modified to no longer assign individuals reporting their place of birth as American Samoa into
+
+the second response category for citizenship, and instructions for respondents will not include explicit
+directions as to which citizenship category to indicate. Valid citizenship categories for respondents from
+
+American Samoa are now “Yes, born abroad of U.S. citizen parent or parents,” “Yes, U.S. citizen by
+
+naturalization,” or “No, not a U.S. citizen.” Researchers should note that this change may result in
+
+significant differences between the 2017 and 2018 citizenship distribution among those reporting their
+place of birth as American Samoa. Users should also note that pre-2018 data will not have edited
+
+assignments retroactively modified to reflect these changes.
+
+Others in Series
+
+User Notes
+
+Changes to ACS Group Quarters
+Small Area Estimation
+
+September 2012
+
+[/programs-surveys/acs/technical-documentation/user-notes/2011-
+01.html]
+
+User Notes
+
+2013 Language Estimates
+
+September 2014
+
+[/programs-surveys/acs/technical-documentation/user-notes/2013-
+06.html]
+
+User Notes
+
+Changes to Occupation, Industry, &
+Class of Worker Editing Procedures
+
+September 2015
+
+[/programs-surveys/acs/technical-documentation/user-notes/2015-
+01.html]
+
+Page Last Revised - October 28, 2021
+
+

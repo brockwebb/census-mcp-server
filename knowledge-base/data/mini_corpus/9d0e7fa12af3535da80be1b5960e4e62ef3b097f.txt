@@ -1,0 +1,841 @@
+Comparing 2010 American Community Survey 1-Year 
+Estimates of Occupancy Status, Vacancy Status, and 
+Household Size with the 2010 Census - Preliminary 
+Results  
+
+12/20/11 
+
+OBJECTIVE 
+The 2010 Census and the American Community Survey (ACS) both measure occupancy status, vacancy 
+status, and household size.  This report will:  
+
+(1)  document comparisons of published information on these measures from the 2010 ACS with the 
+
+2010 Census  
+
+(2)  discuss the design and methodology differences of  the ACS and the 2010 Census that likely  
+
+contribute to the observed measurement differences   
+
+We will highlight where differences exist and identify possible explanations for the differences.  These 
+differences do not necessarily imply errors exist in either the ACS or the 2010 Census results.  To the 
+extent interviewers and enumerators misclassified housing units, this report will not try to determine if 
+the ACS or the Census was more correct.   
+
+BACKGROUND 
+Both  the  decennial  census  and  the  ACS  provide  information  to  meet  the  nation’s  legal  and 
+programmatic  needs.    The  different  purposes  and  relative  sizes  of  these  two  data  collection  efforts 
+guided the methodologies used to collect and process data. We expected these differences in methods 
+could result in differences in the published results. 
+
+The 2010 Census enumerated the nation’s entire population as required by the Constitution.  The results 
+are  used  for  apportionment,  redistricting,  and  to  support  important  legislation.    Securing  a  complete 
+count of the U.S. population is the primary goal of the decennial census and it is designed to produce 
+this count and ensure key information can be produced by the legal deadlines.  While the 2010 Census 
+benefitted  from  the  publicity  and  perceived  importance  of  a  decennial  census,  its  design  had  to 
+accommodate  a  tremendous  workload  and  tight  operational  scheduling  constraints.  To  produce 
+accurate  and  fair  census  counts,  a  single  reference  date  had  to  be  used.    The  2010  Census  results 
+therefore attempt to describe the population and housing (including the vacancy rate) on April 1, 2010.   
+
+The  Census  Bureau,  in meeting  its  Constitutional  mandate,  is  committed  to  achieving  a  complete 
+enumeration.  Given this goal and the large number of temporary staff that must be hired to conduct 
+the  enumeration,  the  Census  Bureau  has  chosen  to  use  special  coverage  improvement  procedures, 
+including  a  follow  up  on  housing  units  classified  as  vacant.  The  Census  Bureau  has  found  these 
+procedures  improve  both  the  completeness  of  the  housing  unit  inventory  and  the  count  of  the 
+population.  
+
+The  ACS  is  designed  to  collect  detailed  data  to  measure  the  nation’s  population  and  housing 
+characteristics in a survey setting. The primary goal of the ACS is to provide survey estimates every year 
+1 
+
+ 
+ 
+instead of once a decade -- giving communities the current information they need between censuses to 
+plan  investments  and  services.  Information  from  the  survey  helps  determine  how  to  distribute  more 
+than $400 billion in federal and state  funds each year.   The  ACS estimates  the nation’s  characteristics 
+over the course of a year, requiring responses be collected continuously with a floating reference date 
+based  on  the  date  of  interview.    The  2010  ACS  1-year  estimates  therefore  describe  population  and 
+housing characteristics (including vacancy rates) throughout calendar year 2010, not as of any specific 
+day in 2010.   
+
+Although  coverage  of  the  entire  population  is  critical  in  a  census,  many  additional  efforts  used  in  a 
+census to improve coverage are impractical and cost prohibitive in a survey like the ACS.  The need for 
+such procedures may also be less important in a survey setting with more experienced staff.   
+
+INTRODUCTION 
+The national-level differences in the 2010 ACS 1-year estimates of total occupied housing units and total 
+vacant housing units relative to the 2010 Census are statistically significant.1  These differences resulted 
+in  the  2010  ACS  1-year  gross  vacancy  rate  being  about  1.7  percentage  points  higher  than  the  gross 
+vacancy rate of the 2010 Census.2  See Table 1 for a summary of these comparisons. 
+
+Table 1.  Comparison of 2010 ACS 1-Year and 2010 Census Housing Unit Occupancy Status and Average 
+Household Size – U.S. Total 
+
+Total Housing Units 
+Total Occupied Housing Units 
+Total Vacant Housing Units 
+Gross Vacancy Rate 
+Total Population in Housing Units 
+Average household size 
+
+2010 Census  
+
+131,704,730 
+116,716,292 
+14,988,438 
+11.4 
+300,758,215 
+2.58 
+
+2010 ACS 1-Year 
+Estimate 
+131,791,065 
+114,567,419 
+17,223,646 
+13.1 
+301,362,366 
+2.63 
+
+2010 ACS Margin 
+of Error (+/-) 
+5,741 
+163,249 
+167,247 
+0.1 
+(X) 
+0.01 
+
+Difference  
+(ACS - Census) 
+86,335 
+-2,148,873 
+2,235,208 
+1.7 
+604,151 
+0.05 
+
+Every  year  the  Census  Bureau  uses  the  most  recent  housing  unit  and  population  estimates  from  the 
+Population Estimates Program (PEP) as survey controls to improve the quality of the ACS estimates.3  In 
+2010 the total housing unit and total population estimates from the PEP were based on the 2010 Census 
+results.  Therefore, the 2010 ACS 1-year estimates of total housing units and total population are similar 
+to  the  2010  Census  counts  of  total  housing  units  and  total  population.  However,  the  PEP  does  not 
+provide estimates of total households so, unlike the estimate of total housing units, the proportion of 
+ACS housing units classified as either occupied or vacant is determined by ACS survey interview results.   
+
+1  Statistical  significance  means  that  there  is  statistical  evidence  that  a  true  difference  exists  within  the  full 
+population, and that the observed difference is unlikely to have occurred by chance due to sampling.  All statistical 
+tests in this paper use a 90 percent level of confidence. The numbers of occupied and vacant housing units from 
+the 2010 Census are based on a complete enumeration and therefore they do not include any sampling error.  The 
+2010 ACS estimates are based on a sample and any comparisons with the 2010 Census must therefore account for 
+sampling variability in the ACS estimates.   
+2 The gross vacancy rate is the proportion of the total housing inventory that is vacant.  
+3  The  use  of  survey  controls  is  standard  practice  in  household  surveys  and  has  been  shown  to  reduce  sampling 
+variability and improve survey coverage.  During the processing of the survey, the population and housing weights 
+are adjusted so that they will sum to the survey control totals. 
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+                                                           
+ 
+As  a  result  of  the  difference  in  vacant  housing  units,  a  corresponding  difference  of  slightly  over  2.1 
+million fewer 2010 ACS occupied housing units or households exists.  The combined effect of fewer 2010 
+ACS  total  households  and  similar  2010  ACS  estimated  total  population  means  the  2010  ACS  1-year 
+estimate of average household size is greater than the 2010 Census average household size.   
+
+Looking at vacant housing units by type of vacancy allows us to better understand these differences (see 
+Table 2.)  Comparing 2010 ACS and 2010 Census types of vacant housing units shows, with the exception 
+of vacant housing units classified as “for sale only,” all other differences between the 2010 Census and 
+the 2010 ACS were statistically significant.  Note a large proportion of the vacant housing units in both 
+the  2010  ACS  and  the  2010  Census  are  classified  as  “other  vacant”  or  “for  seasonal,  recreational,  or 
+occasional use.” “Other vacant” units include all vacant housing units that are not “for sale or sold”, “for 
+rent  or  rented”,  “for  migrant  workers”,  or  “for  seasonal,  recreational,  or  occasional  use."  Based  on 
+interviewer debriefings most of these “other vacant housing units” are units neither for sale nor for rent.  
+They may be recent foreclosures, housing units owners or renters have “walked away from”, or housing 
+units where the owners have not yet determined if they plan to sell or rent. 
+
+We  see  some of the  greatest differences  in  the seasonal and the “other” vacant  categories. The 2010 
+ACS  estimated  approximately  0.5  million  more  seasonal,  recreational,  occasional-use  vacant  housing 
+units and about 1.6 million more “other vacant” housing units than the 2010 Census.   
+
+2010 Census  
+
+Table 2.  Comparison of 2010 ACS 1-Year and 2010 Census Vacancy Status – U.S. Total 
+2010 ACS Margin 
+of Error (+/-) 
+44,663 
+17,510 
+34,885 
+15,083 
+56,603 
+
+2010 ACS 
+ 1-Year Estimates 
+3,587,148 
+610,827 
+1,929,351 
+610,798 
+5,153,003 
+
+4,137,567 
+206,825 
+1,896,796 
+421,032 
+4,649,298 
+
+ For rent 
+ Rented, not occupied 
+ For sale only 
+ Sold, not occupied 
+For seasonal, recreational, or 
+occasional use 
+For migrant workers 
+Other vacant 
+
+24,161 
+3,652,759 
+
+31,607 
+5,300,912 
+
+3,768 
+67,127 
+
+7,446 
+1,648,153 
+
+Difference  
+(ACS - Census) 
+-550,419 
+404,002 
+32,555 
+189,766 
+503,705 
+
+METHODOLOGY AND SELECTED RESULTS 
+We established a working group within the Census Bureau to determine the set of factors most likely to 
+explain these observed differences.  To assess the scope and define the issue our initial review included 
+a comparison of gross vacancy rates and vacancy status at state and sub-state levels.   
+
+We found the national-level results do not hold for every state (see Figure 1.)  In some states the 2010 
+ACS  and  the  2010  Census  gross  vacancy  rates  are  not  statistically  different,  while  in  other  states  the 
+differences  are  statistically  significant  and  quite  large.    The  2010  ACS  and  2010  Census  gross  vacancy 
+rate  differences  were  not  statistically  significant  in  Minnesota,  Vermont,  Iowa,  Utah,  Wisconsin, 
+Nebraska,  North  Dakota,  and  New  Hampshire.    In  all  other  states  the  differences  were  statistically 
+significant with some of the greatest observed differences in the District of Columbia, Florida, Delaware, 
+Alabama, New Mexico, Mississippi, and Georgia.   
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Minnesota 
+Vermont 
+Iowa 
+Utah 
+
+Wisconsin 
+
+Nebraska 
+North Dakota 
+Idaho 
+Washington 
+New Hampshire 
+Colorado 
+Oregon 
+
+Connecticut 
+Kansas 
+Massachusetts 
+Missouri 
+South Dakota 
+Alaska 
+Indiana 
+New Jersey 
+California 
+Maryland 
+
+Michigan 
+Montana 
+New York 
+Nevada 
+Pennsylvania 
+Ohio 
+Illinois 
+
+Maine 
+United States 
+Wyoming 
+Arizona 
+Oklahoma 
+
+North Carolina 
+Kentucky 
+Hawaii 
+South Carolina 
+Tennessee 
+Virginia 
+Texas 
+
+Louisiana 
+
+Rhode Island 
+West Virginia 
+Arkansas 
+Georgia 
+
+Mississippi 
+New Mexico 
+Alabama 
+
+Delaware 
+Puerto Rico 
+
+Florida 
+
+District of Columbia 
+
+-1.0% 
+
+0.0% 
+
+1.0% 
+
+2.0% 
+
+3.0% 
+
+4.0% 
+
+5.0% 
+
+6.0% 
+
+Percentage Point Difference in Gross Vacancy Rate (ACS - Census) 
+
+Figure 1.  Comparison of 2010 ACS 1-Year and 2010 Census Gross Vacancy Rates– State Level  
+
+The national finding that these differences were driven by a greater number of “other vacants” holds for 
+many states but this is not true in every state.  Alabama, Illinois, Ohio, Pennsylvania, Nebraska, and the 
+District of Columbia have some of the greatest differences in the percentages of housing units classified 
+as “other vacant.”  Some of the largest differences in the percentages of “for seasonal, recreational, or 
+occasional use” were observed in New Mexico, Florida, North Dakota, and Nevada.   
+
+These results suggest different scenarios contribute to the 2010 ACS and the 2010 Census gross vacancy 
+rate  differences.    Different  environments  for  interviewing  (e.g.,  challenges  in  seasonal  areas  and  in 
+inner-city,  hard-to-count  areas)  could  also  influence  how  interviewers  and  enumerators  ultimately 
+classify  a  housing  unit.    This  observed  variability  in  the  levels  and  types  of  differences  support  later 
+findings that these differences do not appear to be due to systematic variations in how the ACS and the 
+2010 Census defined occupied versus vacant housing units.  
+
+Differences in gross vacancy rates are concentrated in the  South Region and in states with the lowest 
+levels  of  mail  response  in  both  the  2010  ACS  and  the  2010  Census.    The  classifications  of  occupied 
+housing  units  in  these  areas  rely  much  more  on  interviewers  and  enumerators  as  opposed  to  self 
+response  which  tends  to  be  more  accurate.    The  “hardest-to-survey”  areas  tend  to  have  the  largest 
+differences in gross vacancy rates between the ACS and the 2010 Census. 
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+To  help  assess  if  the  2010  ACS  results  were  reasonable  we  conducted  a  demographic  analysis  of 
+historical trends in vacancy rates from the ACS, the Census, and the Housing Vacancy Survey (HVS).  The 
+HVS is the official source of information on vacant housing units and has been conducted since 1985 for 
+the U.S. Department of Housing and Urban Development.4  Figure 2 compares the gross vacancy rates 
+for these three different measures over the 1990 to 2010 period.   
+
+Some consistent patterns are clear.  All measures (the ACS, HVS and Census) show an appreciable rise in 
+the vacancy rate from 2000 to 2010. Figure 2 demonstrates the ACS gross vacancy rate was higher than 
+the  Census  gross  vacancy rate  in  2000  (9.6  versus  9.0)  as well  as 2010  (13.1  versus  11.4),  though  the 
+difference is wider in 2010.  Likewise, the ACS estimates are consistently below the HVS across the time 
+series from 2000 to 2010. These systematic differences between the sets of estimates are attributable in 
+large part to the way the ACS, HVS, and the Census interview occupied and vacant housing units.5   
+
+Percent 
+
+HVS 
+
+Census 
+
+ACS 
+
+11.3  11.2 11.0 10.9  11.0 11.2  11.5  11.6  11.7 11.9  11.6 11.9 12.0 
+9.6  9.7  10.0 
+
+10.1 
+
+9.0 
+
+13.8 
+
+12.6  12.8 12.7 13.0 
+11.6 
+
+12.1 
+
+10.3  10.4 10.8 
+
+14.4  14.5 14.3 
+
+12.4 12.6 
+
+13.1 
+
+11.4 
+
+18 
+
+16 
+
+14 
+
+12 
+
+10 
+
+8 
+
+6 
+
+4 
+
+2 
+
+0 
+
+1990  1991  1992  1993  1994  1995  1996  1997  1998  1999  2000  2001  2002  2003  2004  2005  2006  2007  2008  2009  2010 
+Year 
+Figure 2.  Gross Vacancy Rates Since 1990 by Data Source: Decennial Census, Housing Vacancy Survey 
+(HVS), and ACS 1-Year Estimates 
+
+To  rule  out  the  possibility  that  2010  Census  and  ACS  staff  may  have  used  different  concepts  or 
+definitions  when  classifying  housing  units  as  occupied  versus  vacant,  we  conducted  a  detailed  review 
+and comparison of the written procedures and training materials provided to ACS field representatives 
+and census enumerators.  We also conducted a structured set of debriefing calls with current ACS field 
+representatives from four regional offices,  including staff who had worked on the 2010 Census.  While 
+we identified a few minor issues and the need to clarify a few procedures, we concluded the  ACS and 
+2010 Census definitions and methods used to determine if a housing unit was occupied versus vacant 
+were essentially the same.  We expect to release a detailed summary of these findings in early 2012. 
+
+4 Information about the HVS can be found at http://www.census.gov/hhes/www/housing/hvs/hvs.html. 
+5 A fact sheet with comparisons of the ACS and HVS design and methods can be found at 
+http://www.census.gov/hhes/www/housing/vacanciesfactsheet.html. 
+
+5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+                                                           
+  
+     
+                                                                                                                             
+ 
+  
+To  better  understand  if  specific  methods  used  in  the  2010  Census  and  the  2010  ACS  contributed  to 
+these differences, we obtained summary data from 2010 Census operational assessments and accessed 
+ACS  operational  data.    We  plan  to  issue  summaries  of  the  methods  and  findings  from  each  of  these 
+assessments in early 2012. 
+
+We reviewed the following 2010 Census operational assessments and research: 
+
+1.  Results from the  2010 Census Nonresponse  Follow  up (NRFU) operation and the 2010  Census 
+Vacant Delete Check (to assess if the conversion rates of vacant and deleted units to occupied 
+units could be attributed to this coverage improvement operation). 
+
+2.  2010 Census qualitative and ethnographic research (to better understand enumerator behavior 
+
+during NRFU). 
+
+3.  Tabulations of count imputation (to understand the possible impact of incomplete information 
+
+on housing status, occupancy status, and household size). 
+
+4.  Results from the 2010 Census duplicate study (to assess if some census occupied units could be 
+
+duplicated households that moved between April 1st and when they were enumerated). 
+
+We also reviewed or produced the following ACS operational data: 
+
+1.  Gross vacancy rates by mode of data collection (to understand how often 2010 ACS vacant units 
+
+were interviewed without an in-person visit).  
+
+2.  Reinterview data (to assess the quality of vacant classifications by ACS field representatives). 
+3.  Vacancy rates by month (sample panel) and by main versus supplemental sample (to assess the 
+impact of ACS year round data collection and determine if vacancy rates increased over time). 
+4.  Master  Address  File  changes  during the time  period  for selecting  the  main and  supplemental 
+ACS samples and changes after ACS sample selection that reflect 2010 Census findings (to assess 
+the differences in the 2010 Census and the 2010 ACS housing unit frames). 
+
+5.  ACS  gross  vacancy  rates  at  various  stages  of  ACS  weighting  and  estimation  (to  assess  the 
+
+possible effects of weighting on the estimates). 
+
+We  also  conducted  a  detailed  match  study  comparing  the  specific  2010  Census  and  2010  ACS 
+classifications for all 2010 ACS sample addresses.  We added operational data from the 2010 Census and 
+the ACS to the match study results to identify the characteristics of the ACS and 2010 Census housing 
+units  with  classification  differences.  This  analysis  includes  looking  at the mode  and  timing  of  ACS  and 
+Census interviews.  In addition, this study allows us to identify the Local Census Offices (LCOs) with the 
+greatest  differences  in  gross  vacancy  rates  along  with  some  LCO  characteristics  such  as  participation 
+rates, proxy rates, and hard-to-count scores.  We also reviewed information on areas with high levels of 
+seasonal (not year-round) housing.  We are producing detailed reports summarizing this research. 
+
+FINDINGS 
+We believe the following factors explain the 2010 ACS and the 2010 Census differences in occupied and 
+vacant housing unit classifications.  We observed differences in 2000 ACS and Census 2000 occupancy 
+status and some of the same factors identified in 2000 were likely contributors this decade as well (U.S. 
+Census Bureau, 2004). 
+
+  Different reference periods, residence rules, and interview periods 
+  Different address frames 
+  2010 Census coverage improvement procedures  
+  Problems finding knowledgeable respondents and determining occupancy status 
+
+6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Different Reference Periods, Residence Rules, and Interview Periods 
+
+Reference Periods 
+The  2010  ACS  1-year  estimates  do  not  measure  characteristics  for  the  same  time  frame  as  the  2010 
+Census.    Although  implementation  may  be  imperfect,  census  data  collection  procedures  direct 
+enumerators  to  classify  the  vacant  status  of  addresses  as  of  April  1  and  not  as  of  the  day  they  are 
+enumerated.  In contrast, the ACS conducts interviews throughout the year and directs interviewers to 
+collect  information  based  on  the  day  each  sample  unit  is  interviewed.    The  ACS  reference  date  for 
+occupancy  status  is  therefore  the  full  year  -  January  1,  2010  through  December  31,  2010.    When  the 
+Census  Bureau  produces  annual  ACS  estimates  of  gross  vacancy,  they  describe  the  vacancy  rate 
+throughout the full calendar year.  
+
+In some parts of the country vacancy rates vary across the year and a vacancy rate as of April 1 may not 
+be the same as an annual average vacancy rate.  We do not believe this difference in reference period 
+was a major contributor to the overall gross vacancy rate difference.  The 2010 ACS gross vacancy rates 
+measured throughout the year were stable.   
+
+Residence Rules 
+The  ACS  and  the  Census  impose  different  residence  rules  to  determine  if  a  specific  housing  unit  is 
+occupied  or  vacant.  The  ACS  uses  a  concept  of  “current  residence”  given  the  monthly  samples 
+distributed throughout the year, rather than the census concept of “usual residence” as of April 1st.  The 
+ACS will classify a unit as occupied if someone staying in the unit has stayed or plans to stay there for 
+more than two months. The 2010 Census classified a unit as occupied if it was a person’s usual place of 
+residence, meaning the place where they live or stay most of the time.   
+
+Unlike the Census, the ACS allows temporary residents to be interviewed. Therefore, housing units that 
+are  correctly  classified  as  vacant  under  the  Census usual  residence  rule  may  be  correctly  classified  as 
+occupied  in  the  ACS.    This  difference  in  residence  rules  was  expected  to  result  in  fewer  ACS  housing 
+units  being  classified  as  vacant.    While  this  is  the  opposite  direction  of  the  observed  national-level 
+difference,  we  did  find  evidence  that  areas  with  high  concentrations  of  seasonal  housing  were  more 
+likely to have ACS gross vacancy rates that were similar to, or lower than, the 2010 Census. The different 
+residence rules do not appear to explain the higher gross vacancy rates in other areas.  
+
+Interview Periods 
+The  ACS  and  the  2010  Census  interview  periods  can  also  influence  the  occupancy  classification  of  an 
+address.   The  ACS  uses  a 3-month  interview  period for  all  sample  addresses.   In  the  first  two months 
+attempts are made to collect data by mail and telephone with personal visit contact made in the third 
+month.  Vacant housing units are almost always identified in this third month and therefore the address 
+has  an  opportunity  to  change  status  between  month  1  and  month  3.    Theoretically  this  3-month 
+interview  period  should  depress  the  true  vacancy  rate  (Fronczek  and  Savage,  1998.)    The  April  1st 
+reference  date  should  eliminate  the  impact  of  an  interview  period  in  the  2010  Census.    However,  if 
+census  enumerators  classify  units  as  of  the  date  of  interview,  rather  than  the  reference  date,  similar 
+effects would be expected since nonresponse follow up for the census (when vacants are enumerated) 
+occurs several months after Census Day. 
+
+Problems  can  arise  when  implementing  reference  periods  and  residence  rules.  In  the  2010  Census, 
+vacant  housing  units  were  enumerated  in  either  Nonresponse  Follow  up  or  the  Vacant  Delete  Check 
+7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+which was at least two months after census day.  This enumeration of the Census Day reference date 
+can  make  the  classification  of  vacant  units  problematic,  especially  for  movers.    Interviewers  and 
+respondents in both the ACS and the 2010 Census can also misunderstand or misapply residence rules 
+and reference periods which can lead to errors in unit classification. 
+
+Different Address Frames 
+The address frame used to select the sample for the 2010 ACS differs in important ways from the 2010 
+Census address frame. We did not draw the 2010 ACS sample from the list of 2010 Census addresses.  
+The  ACS  sample  is  always  selected  from  the  most  up  to  date  information  about  the  housing  unit 
+addresses across the nation at the time of sample selection.  The ACS selects a main sample of addresses 
+each summer.  We supplement and adjust that sample early in the calendar year to reflect updates to 
+the MAF.   
+
+In  preparation  for  the  2010  Census  many  changes  were  made  to  the  address  list  in  2009  and  2010.  
+Given the timing of many of those changes, the frame for the 2010 ACS did not reflect some the housing 
+unit  addresses  that  were  added  to,  and  dropped  from,  the  2010  Census  frame.    For  example,  we 
+selected  the  2010  ACS  main  sample  during  August  and  September  2009  while  2010  Census  address 
+canvassing operations were still underway and the MAF did not reflect the results of the 2010 Census 
+address  canvassing  operation.    This  was  the  address  frame  for  the  January  through  April  ACS  sample 
+panels.    The  updated  frame  used  to  select  the  supplemental  sample  of  housing  unit  addresses  and 
+adjust the main sample for deleted housing units was based on the MAF as of February 2010.  At that 
+point  the  MAF  reflected  the  results  of  the  2010  Census  address  canvassing  operation.  Therefore  the 
+address frame for the May through December sample panels was quite different.  None of the 2010 ACS 
+sample panels benefitted from the full 2010 Census enumeration of housing units. 
+
+In  addition,  by  design  the  ACS  does  not  include  some  2010  Census  categories  of  housing  units.  
+Specifically, the ACS never includes transitory units at transitory locations such as tents and boats.  They 
+are not a part of the address frame. However, if census enumerators found individuals at these locations 
+they enumerated  these  transitory units  as occupied housing units.  Enumerators never classified  these 
+locations as 2010 Census vacant housing units so their inclusion reduced the 2010 Census vacancy rate.6  
+
+2010 Census Coverage Improvement Procedures  
+To  ensure  a  complete  population  count,  the  2010  Census  included  special  methods  to  review  and 
+confirm the status of housing units  initially  classified  as vacant.   We include  this review  in the  Census 
+because  research  has  shown  some  level  of  misclassification  can  occur  in  these  initial  census 
+enumerations that can be reduced given a second contact.  
+
+In  pretests  conducted  prior  to  the  1970  Census,  the  Census  Bureau  found  occupied  housing  units 
+incorrectly  classified  as  vacant  to  be  a  significant  factor  in  the  population  undercount  (U.S.  Census 
+Bureau,  1974).    The  1970  Census  included  a  National  Vacancy  Check  for  a  sample  of  addresses  and 
+detected a misclassification rate  of 11.4  percent among units initially  classified as nonseasonal vacant 
+(U.S. Census Bureau, 1974).  Starting in the 1980 Census, a comprehensive review of all units classified 
+as vacant was added as a coverage improvement mechanism. In 1980 this check converted about 10.1 
+percent  of  initially  classified  vacant  units  to  occupied  units  and  found  that  after  all  coverage 
+
+6 The number of occupied housing units resulting from transitory locations in the 2010 Census was very small. 
+
+8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                           
+improvement  efforts,  about  0.9  percent  of  all  occupied  housing  units  were  over  enumerated  (U.S. 
+Census Bureau, 1985.)   
+
+The 1990 and 2000 censuses used similar methods with similar findings – improvements in population 
+coverage could be achieved with some added level of duplication, over enumeration.  Census evaluation 
+studies each decade support the decision to include this follow up operation in the 2010 Census.   The 
+2010 Census Vacant Delete Check reviewed the status of some housing units that had been classified as 
+either  vacant  or  deletes  in  Nonresponse  Follow  up.   This  operation  converted about  6  percent  of  the 
+housing units initially classified as vacant to occupied (Heimel et al, 2011).   
+
+No equivalent review of the status of all ACS vacant housing units occurs although the ACS subjects a 
+small sample of vacant interviews to a reinterview procedure.  We designed this reinterview operation 
+to  monitor  interviewer  performance  and  identify  interviewers  who  may  need  additional  training.  In 
+2010 this ACS reinterview found about 2 percent of the vacant housing unit classifications should have 
+been  classified  as  either  occupied  housing  units,  temporarily  occupied  housing  units,  or  as 
+noninterviews.     
+
+Problems Finding Knowledgeable Respondents and Determining Occupancy 
+Status 
+The 2010 Census and ACS interviewers faced a difficult task. Despite common procedures, differences in 
+interpretation of what is an occupied housing unit can occur, especially in hard to count areas and, in 
+general,  in  areas  experiencing  large  numbers  of  foreclosures.    It  is  challenging  to  determine  the 
+occupancy status of a unit in some areas when no household members can be contacted and neighbors 
+are unwilling to provide information. Classifications can differ based on who can be contacted, what can 
+be observed from outside the housing unit, the efforts and approaches taken to resolve cases, and the 
+experience of interviewing staff in dealing with uncooperative households.   
+
+These  challenges  can  also  lead  to  interviewer  errors  when  they  make  assumptions  based  on  limited 
+information.  The ACS and the 2010 Census found similar numbers of housing units classified as “vacant 
+for sale only.”  This may be the easiest type of vacant to identify.  In contrast, units classified as “other 
+vacants” had large differences and tend to be the harder cases to resolve.  
+
+We analyzed state-level data on 2010 Census mail participation rates and percentage point differences 
+in  gross  vacancy  rates  (see  Figure  3.)  States  with  the  highest  2010  Census  mail  participation  rates 
+(Wisconsin,  Minnesota,  and  Iowa)  had  some  of  the  lowest  differences  in  gross  vacancy  rates.  Future 
+research will explore measures of respondent cooperation at lower geographic levels.   
+
+Our focus groups with field representatives found that when no one was available to confirm the status 
+of a unit, when after repeated efforts no one answered the door, and when no obvious clues existed to 
+flag the case as occupied versus vacant, they had problems determining if a unit was occupied or vacant.  
+As  noted  earlier,  in  many  instances  the  vacancy  status  of  “other  vacant”  was  associated  with 
+foreclosures.  We believe the risk of inconsistent assessments increased when the occupancy status of a 
+housing unit was not obvious and knowledgeable respondents were not available. 
+
+This is not  a new problem.   This challenge  confronts every survey and census.  In her review of gross 
+vacancy rates  in decennial censuses, Love  (2001) noted, “the vacant  housing unit count  is obviously a 
+very volatile statistic - identifying places where no one is living has always been problematic.” 
+
+9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+90 
+
+80 
+
+70 
+
+60 
+
+50 
+
+40 
+
+30 
+
+20 
+
+10 
+
+0 
+
+)
+0
+1
+-
+4
+1
+-
+4
+f
+o
+s
+a
+(
+e
+t
+a
+R
+n
+o
+i
+t
+a
+p
+i
+c
+i
+t
+r
+a
+P
+
+l
+i
+
+a
+M
+
+s
+u
+s
+n
+e
+C
+0
+1
+0
+2
+
+-1.0 
+
+0.0 
+
+1.0 
+
+2.0 
+
+3.0 
+
+4.0 
+
+5.0 
+
+6.0 
+
+Percentage Point Difference In Gross Vacancy Rate 
+
+Figure 3.  Relationship of 2010 Census Mail Participation Rates and Percentage Point Differences in ACS 
+and Census Gross Vacancy Rates 
+
+CONCLUSIONS AND NEXT STEPS 
+At this time, despite observed differences, we have confidence in the information on occupancy status 
+and vacancy status released from the 2010 Census and the 2010 ACS.  Our review to better understand 
+those differences did not reveal any systematic errors or implementation issues.   While this document 
+does not include the detailed methods or results used in our analysis, we are producing those reports 
+and plan to release them over the next few months.  They will provide greater detail for data users with 
+a keener interest in this issue.   
+
+ACKNOWLEDGEMENTS 
+The primary author of this summary is Deborah Griffin.  Significant contributions to the research, 
+analysis, discussion, and conclusions were made by Omolola Anderson, Larry Bates, Fern Bradshaw, 
+Sandra Clark, Charles Coleman, Art Cresce, Hilda Dimmock, James Dinwiddie, Samantha Fish, James 
+Hartman, Steve Hefter, Sarah Heimel, Todd Hughes, Geoffrey Jackson, Gail Leithauser,  Susan Love, 
+Darlene Monaco, Alfredo Navarro, David Raglin, Greg Robinson, Nicole Scanniello, Annetta Clark Smith, 
+Reenie Wagner, Ellen Wilson, and Jeanne Woodward. 
+
+10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REFERENCES 
+
+Heimel,  S.,  Jackson,  G.,  Winder,  S.  and  Walker,  S.  (2011).    2010  Census  Nonresponse  Follow  Up 
+Operations Assessment 
+
+Love, S. 2001. Analysis of the Census 2000 Vacancy Rates: Report No. 1. Internal Memorandum for D. 
+Weinberg. 
+
+U.S. Census Bureau. 1974.  Census of Population and Housing: 1970.  Evaluation and Research Program 
+PHC (E) – 6.  Effect of Special Procedures to Improve Coverage in the 1970 Census.   
+
+U.S. Census Bureau. 1985.  1980 Census of Population and Housing.  Evaluation and Research reports. 
+PHC80-E.  The Coverage of Housing in the 1980 Census.   
+
+U.S. Census Bureau (2004). Meeting 21st Century Demographic Data Needs—Implementing the American 
+Community Survey.  Report 4:  Comparing General Demographic and Housing Characteristics with Census 
+2000.  <http://www.census.gov/acs/www/library/by_series/implementing_the_acs/> 
+
+11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

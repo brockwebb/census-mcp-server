@@ -1,0 +1,185 @@
+United States Census Bureau | An official website of the United States Government
+
+Understanding and Using
+American Community
+Survey Data: What Federal
+Agencies Need to Know
+
+March 2021
+
+The American Community Survey
+(ACS) is the nation’s premier source
+
+of detailed social, economic,
+housing, and demographic
+
+characteristics for local
+communities. The ACS is unique
+among U.S. household surveys
+because of its size, breadth of
+measurement, provision of annual
+
+estimates for small geographic
+areas, and extensive use by a wide
+range of government and
+nongovernmental organizations. The
+U.S. Census Bureau estimates that
+132 programs used census data—
+including data from the ACS—to
+distribute more than $675 billion in
+funds during fiscal year 2015. 
+Federal agencies rely on the ACS to
+help them make operational
+decisions, including managing and
+evaluating programs, determining
+
+eligibility for programs, and
+benchmarking other statistics.
+
+This handbook describes how
+analysts, program administrators,
+and policymakers within federal
+agencies can use the ACS in carrying
+
+out the business of their agencies.
+
+[/conte
+nt/da
+m/Cen
+sus/lib
+rary/pu
+blicati
+ons/20
+20/acs
+/ACS_
+Federa
+l_Hand
+book_2
+021.pd
+f]
+
+Underst
+anding
+and
+Using
+America
+n
+Commu
+nity
+Survey
+Data:
+What
+Federal
+Agencie
+s Need
+to Know
+[7.2 MB]
+
+American
+Communi
+ty Survey
+
+Download by Section
+1. Topics Covered in the ACS [<1.0 MB]
+
+American Community Survey
+
+[/content/dam/Census/library/publications/2020/acs/acs_federal_handbook_2020_ch01.pdf]
+
+2. How Federal Agencies Use ACS Data [<1.0
+MB]
+
+American Community Survey
+
+[/content/dam/Census/library/publications/2020/acs/acs_federal_handbook_2020_ch02.pd
+f]
+
+3. How A Question Becomes Part of the ACS [<1.0
+MB]
+
+[/content/dam/Census/library/publications/2020/acs/acs_federal_handbook_2020_ch03
+.pdf]
+
+American Community Survey
+
+4. Considerations When Working with ACS Data [<1.0
+MB]
+
+[/content/dam/Census/library/publications/2020/acs/acs_federal_handbook_2020_ch
+04.pdf]
+
+American Community Survey
+
+5. Accessing ACS Data [<1.0 MB]
+
+[/content/dam/Census/library/publications/2020/acs/acs_federal_handbook_2020_ch05.pdf]
+
+American Community Survey
+
+6. Case Studies Using ACS Data [3.2 MB]
+
+[/content/dam/Census/library/publications/2020/acs/acs_federal_handbook_2021_ch06.pdf]
+
+American Community Survey
+
+7. Additional Resources [<1.0 MB]
+
+[/content/dam/Census/library/publications/2020/acs/acs_federal_handbook_2021_ch07.pdf]
+
+American Community Survey
+
+Others in Series
+
+Publication
+
+What ACS Public Use Microdata
+Sample File Users Need to Know
+
+February 2021
+
+This guide helps data users learn how to access PUMS files,
+create PUMS tables, and measure accuracy and margins of
+error.
+
+[/programs-surveys/acs/guidance/handbooks/pums.html]
+
+Publication
+
+What Congress Needs to Know
+
+June 2020
+
+This handbook helps congressional staff use ACS data to
+respond to constituent inquiries, draft floor/press statements,
+conduct legislative research, and more.
+
+[/programs-surveys/acs/guidance/handbooks/congress.html]
+
+Publication
+
+What the Business Community
+Needs to Know
+
+October 2020
+
+This handbook helps business data users learn how to access
+and use ACS data and provide concrete examples of how ACS
+data can answer real-world questions.
+
+[/programs-surveys/acs/guidance/handbooks/business.html]
+
+VIEW ALL [/PROGRAMS-SURVEYS/ACS/LIBRARY/HANDBOOKS.HTML]
+
+Related Information
+
+FLYER
+
+ACS Overview Flyer [/programs-surveys/acs/library/flyers/acs-overview.html]
+
+VISUALIZATION
+
+How a Question Becomes Part of the American Community Survey [/library/visualizations/2017/comm/acs-questions.html]
+
+Page Last Revised - May 1, 2025
+
+

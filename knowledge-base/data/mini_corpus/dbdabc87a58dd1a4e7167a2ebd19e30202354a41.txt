@@ -1,0 +1,184 @@
+United States Census Bureau | An official website of the United States Government
+
+Understanding and Using
+Puerto Rico Community
+Survey Data: What All Data
+Users Need to Know
+
+April 2020
+
+Suppose a mayor wants to know if a
+job training initiative has reduced the
+
+level of unemployment in a
+municipio. A business owner in San
+
+Juan wants information about the
+changing characteristics of
+workers and their commuting
+patterns. A public health agency is
+interested in identifying vulnerable
+
+populations that may need
+evacuation assistance during an
+emergency. Where could they go for
+this information?
+
+The U.S. Census Bureau’s Puerto
+Rico Community Survey (PRCS) is
+
+designed to meet the needs of
+policymakers, business leaders,
+planners, and others who need good
+data to make informed decisions.
+The PRCS is part of the Census
+Bureau’s American
+Community Survey (ACS) program,
+providing a detailed portrait of the
+social, economic, housing, and
+demographic characteristics of
+communities throughout Puerto
+Rico.
+
+[/cont
+ent/da
+m/Cen
+sus/lib
+rary/p
+ublicat
+ions/2
+020/a
+cs/acs
+_prcs_
+handb
+ook_2
+020.pd
+f]
+
+Underst
+anding
+and
+Using
+Puerto
+Rico
+Commu
+nity
+Survey
+Data:
+What All
+Data
+Users
+Need to
+Know
+[10.8
+MB]
+
+American
+Communi
+ty Survey
+
+This guide provides an overview of what data users need to know about working with PRCS data—particularly how the
+PRCS differs from the ACS and the major geographic areas for which PRCS data are available. It also includes some
+recent case studies that show how PRCS data are being used to help address important policy and program issues in
+Puerto Rico.
+
+Download by Section
+
+1. Understanding the PRCS: The Basics [<1.0 MB]
+
+[/content/dam/Census/library/publications/2020/acs/acs_prcs_handbook_2020_ch01.pdf]
+
+American Community Survey
+
+2. How is the PRCS Different from the ACS? [<1.0
+MB]
+
+[/content/dam/Census/library/publications/2020/acs/acs_prcs_handbook_2020_ch02.p
+df]
+
+American Community Survey
+
+3. Geographic Areas Covered in the PRCS [<1.0
+MB]
+
+[/content/dam/Census/library/publications/2020/acs/acs_prcs_handbook_2020_ch03.pd
+f]
+
+American Community Survey
+
+4. Accessing PRCS Data [<1.0 MB]
+
+[/content/dam/Census/library/publications/2020/acs/acs_prcs_handbook_2020_ch04.pdf]
+
+American Community Survey
+
+5. Case Studies Using PRCS Data [1.4 MB]
+
+[/content/dam/Census/library/publications/2020/acs/acs_prcs_handbook_2020_ch05.pdf]
+
+American Community Survey
+
+6. Additional Resources [<1.0 MB]
+
+[/content/dam/Census/library/publications/2020/acs/acs_prcs_handbook_2020_ch06.pdf]
+
+American Community Survey
+
+ACS vs. PRCS
+
+Others in Series
+
+Publication
+
+What State and Local Government
+Users Need to Know
+
+August 2020
+
+This handbook helps data users from state and local
+governments learn about ACS data and provides examples of
+how ACS data can answer real-world questions.
+
+[/programs-surveys/acs/guidance/handbooks/state-local.html]
+
+Publication
+
+Geography and the American
+Community Survey
+
+February 2020
+
+This guide provides an overview of geographic areas for which
+ACS data are available, special considerations in working with
+spatial data, and more.
+
+[/programs-surveys/acs/library/handbooks/geography.html]
+
+Publication
+
+What ACS Public Use Microdata
+Sample File Users Need to Know
+
+February 2021
+
+This guide helps data users learn how to access PUMS files,
+create PUMS tables, and measure accuracy and margins of
+error.
+
+[/programs-surveys/acs/guidance/handbooks/pums.html]
+
+Related Information
+
+VIEW ALL [/PROGRAMS-SURVEYS/ACS/LIBRARY/HANDBOOKS.HTML]
+
+About the Puerto Rico Community Survey [/prcs]
+
+FLYER
+
+A Comparison of the ACS and the Puerto Rico Community Survey [/acs-vs-prcs-flyer]
+
+American Community Survey Resources for Puerto Rico [/programs-surveys/acs/information-for/puerto-rico.html]
+
+Page Last Revised - May 1, 2025
+
+

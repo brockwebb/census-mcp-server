@@ -1,0 +1,647 @@
+1-person household
+10 to less than 25 percent of total income for household allocated
+100 percent of total income for household allocated
+2-or-more person household
+2-or-more-person household
+2-person household
+25 to less than 50 percent of total income for household allocated
+3-person household
+4-or-more-person household
+4-person household
+5-or-more person household
+5-person household
+50 to less than 100 percent of total income for household allocated
+6-person household
+7-or-more person household
+Administration of environmental quality, and housing programs, urban planning and community development
+Age by Presence of a Computer and Types of Internet Subscription in Household
+Age of Householder by Gross Rent as a Percentage of Household Income in the Past 12 Months
+Age of Householder by Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars)
+Age of Householder by Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (American Indian and Alaska Native Alone Householder)
+Age of Householder by Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (Asian Alone Householder)
+Age of Householder by Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (Black or African American Alone Householder)
+Age of Householder by Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (Hispanic or Latino Householder)
+Age of Householder by Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (Native Hawaiian and Other Pacific Islander Alone Householder)
+Age of Householder by Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (Some Other Race Alone Householder)
+Age of Householder by Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (Two or More Races Householder)
+Age of Householder by Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (White Alone Householder)
+Age of Householder by Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (White Alone, Not Hispanic or Latino Householder)
+Age of Householder by Selected Monthly Owner Costs as a Percentage of Household Income in the Past 12 Months
+Aggregate Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars)
+Aggregate Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (American Indian and Alaska Native Alone Householder)
+Aggregate Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (Asian Alone Householder)
+Aggregate Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (Black or African American Alone Householder)
+Aggregate Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (Hispanic or Latino Householder)
+Aggregate Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (Native Hawaiian and Other Pacific Islander Alone Householder)
+Aggregate Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (Some Other Race Alone Householder)
+Aggregate Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (Two or More Races Householder)
+Aggregate Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (White Alone Householder)
+Aggregate Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (White Alone, Not Hispanic or Latino Householder)
+Aggregate Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) by Age of Householder
+Aggregate Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) by Tenure and Mortgage Status
+Aggregate Nonfamily Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars)
+Aggregate Nonfamily Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) by Sex of Householder by Living Alone by Age of Householder
+Aggregate Travel Time to Work (in Minutes) of Workers by Means of Transportation to Work for Workplace Geography
+Aggregate Travel Time to Work (in Minutes) of Workers by Place of Work--State and County Level
+Aggregate household income in the past 12 months (in 2023 inflation-adjusted dollars)
+Aggregate nonfamily household income in the past 12 months (in 2023 inflation-adjusted dollars)
+Allocation of Household Computer Type
+Allocation of Household Income in the Past 12 Months - Percent of Income Allocated
+Allocation of Household Internet Access
+Allocation of Household Internet Subscription Type
+Allocation of Means of Transportation to Work for Workplace Geography
+Allocation of Nonfamily Household Income in the Past 12 Months -- Percent of Income Allocated
+Allocation of Residence 1 Year Ago for the Population 1 Year and Over
+Allocation of Time Arriving at Work From Home for Workplace Geography
+Allocation of Travel Time to Work for Workplace Geography
+Allocation of Vehicles Available for Workers for Workplace Geography
+American Indian Area (Off-Reservation Trust Land Only)-Tribal Census Tract
+American Indian Area (Off-Reservation Trust Land Only)-Tribal Census Tract-Tribal Block Group
+American Indian Area (Reservation Only)-Tribal Census Tract
+American Indian Area (Reservation Only)-Tribal Census Tract-Tribal Block Group
+American Indian Area-Tribal Census Tract
+American Indian Area-Tribal Census Tract-Tribal Block Group
+American Indian Reservation and Trust Land-State
+American Indian and Alaska Native alone population 1 year and over in the United States
+American Indian and Alaska Native alone population in the United States
+Asian alone population 1 year and over in the United States
+Asian alone population in the United States
+At least one person in household 60 years or over
+Average  household size
+Average Household Size of Occupied Housing Units by Tenure
+Average Household Size of Occupied Housing Units by Tenure (American Indian and Alaska Native Alone Householder)
+Average Household Size of Occupied Housing Units by Tenure (Asian Alone Householder)
+Average Household Size of Occupied Housing Units by Tenure (Black or African American Alone Householder)
+Average Household Size of Occupied Housing Units by Tenure (Hispanic or Latino Householder)
+Average Household Size of Occupied Housing Units by Tenure (Native Hawaiian and Other Pacific Islander Alone Householder)
+Average Household Size of Occupied Housing Units by Tenure (Some Other Race Alone Householder)
+Average Household Size of Occupied Housing Units by Tenure (Two or More Races Householder)
+Average Household Size of Occupied Housing Units by Tenure (White Alone Householder)
+Average Household Size of Occupied Housing Units by Tenure (White Alone, Not Hispanic or Latino Householder)
+Average household size
+Average household size --
+Average household size of owner-occupied unit
+Average household size of renter-occupied unit
+Average number of workers per household
+Black or African American alone population 1 year and over in the United States
+Black or African American alone population in the United States
+Born in Puerto Rico or the United States
+Born in United States
+Born in other state in the United States
+Born in other state of the United States
+Born in state of residence
+Born in the United States
+Born outside the United States
+COMPARATIVE SOCIAL CHARACTERISTICS IN THE UNITED STATES
+Characteristics of the Group Quarters Population in the United States
+Citizenship Status in the United States
+Civilian household population 16 years and over
+Cohabiting couple household
+Combined Statistical Area-Metropolitan Statistical Area
+Combined Statistical Area-State
+Comparative Social Characteristics in the United States
+Computers in Household
+Current residence
+Detailed Household Language by Household Limited English Speaking Status
+Different House in Puerto Rico or the United States
+Different Metropolitan Statistical Area
+Different Micropolitan Statistical Area
+Different address in Puerto Rico or the United States
+Different address in the United States
+Different county
+Different county (same state)
+Different house in Puerto Rico or the United States
+Different house in United States 1 year ago
+Different house in the United States
+Different state
+Educational Attainment by Presence of a Computer and Types of Internet Subscription in Household
+Female householder  no spouse present  family household
+GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)
+GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS
+Geographic Mobility by Selected Characteristics in the United States
+Geographical Mobility in the Past Year (American Indian and Alaska Native Alone) for Current Residence in Puerto Rico
+Geographical Mobility in the Past Year (American Indian and Alaska Native Alone) for Current Residence in the United States
+Geographical Mobility in the Past Year (American Indian and Alaska Native Alone) for Residence 1 Year Ago in Puerto Rico
+Geographical Mobility in the Past Year (American Indian and Alaska Native Alone) for Residence 1 Year Ago in the United States
+Geographical Mobility in the Past Year (Asian Alone) for Current Residence in Puerto Rico
+Geographical Mobility in the Past Year (Asian Alone) for Current Residence in the United States
+Geographical Mobility in the Past Year (Asian Alone) for Residence 1 Year Ago in Puerto Rico
+Geographical Mobility in the Past Year (Asian Alone) for Residence 1 Year Ago in the United States
+Geographical Mobility in the Past Year (Black or African American Alone) for Current Residence in Puerto Rico
+Geographical Mobility in the Past Year (Black or African American Alone) for Current Residence in the United States
+Geographical Mobility in the Past Year (Black or African American Alone) for Residence 1 Year Ago in Puerto Rico
+Geographical Mobility in the Past Year (Black or African American Alone) for Residence 1 Year Ago in the United States
+Geographical Mobility in the Past Year (Hispanic or Latino) for Current Residence in Puerto Rico
+Geographical Mobility in the Past Year (Hispanic or Latino) for Current Residence in the United States
+Geographical Mobility in the Past Year (Hispanic or Latino) for Residence 1 Year Ago in Puerto Rico
+Geographical Mobility in the Past Year (Hispanic or Latino) for Residence 1 Year Ago in the United States
+Geographical Mobility in the Past Year (Native Hawaiian and Other Pacific Islander Alone) for Current Residence in Puerto Rico
+Geographical Mobility in the Past Year (Native Hawaiian and Other Pacific Islander Alone) for Current Residence in the United States
+Geographical Mobility in the Past Year (Native Hawaiian and Other Pacific Islander Alone) for Residence 1 Year Ago in Puerto Rico
+Geographical Mobility in the Past Year (Native Hawaiian and Other Pacific Islander Alone) for Residence 1 Year Ago in the United States
+Geographical Mobility in the Past Year (Some Other Race Alone) for Current Residence in Puerto Rico
+Geographical Mobility in the Past Year (Some Other Race Alone) for Current Residence in the United States
+Geographical Mobility in the Past Year (Some Other Race Alone) for Residence 1 Year Ago in Puerto Rico
+Geographical Mobility in the Past Year (Some Other Race Alone) for Residence 1 Year Ago in the United States
+Geographical Mobility in the Past Year (Two or More Races) for Current Residence in Puerto Rico
+Geographical Mobility in the Past Year (Two or More Races) for Current Residence in the United States
+Geographical Mobility in the Past Year (Two or More Races) for Residence 1 Year Ago in Puerto Rico
+Geographical Mobility in the Past Year (Two or More Races) for Residence 1 Year Ago in the United States
+Geographical Mobility in the Past Year (White Alone) for Current Residence in Puerto Rico
+Geographical Mobility in the Past Year (White Alone) for Current Residence in the United States
+Geographical Mobility in the Past Year (White Alone) for Residence 1 Year Ago in Puerto Rico
+Geographical Mobility in the Past Year (White Alone) for Residence 1 Year Ago in the United States
+Geographical Mobility in the Past Year (White Alone, Not Hispanic or Latino) for Current Residence in Puerto Rico
+Geographical Mobility in the Past Year (White Alone, Not Hispanic or Latino) for Current Residence in the United States
+Geographical Mobility in the Past Year (White Alone, Not Hispanic or Latino) for Residence 1 Year Ago in Puerto Rico
+Geographical Mobility in the Past Year (White Alone, Not Hispanic or Latino) for Residence 1 Year Ago in the United States
+Geographical Mobility in the Past Year by Age for Current Residence in Puerto Rico
+Geographical Mobility in the Past Year by Age for Current Residence in the United States
+Geographical Mobility in the Past Year by Age for Residence 1 Year Ago in Puerto Rico
+Geographical Mobility in the Past Year by Age for Residence 1 Year Ago in the United States
+Geographical Mobility in the Past Year by Citizenship Status for Current Residence in Puerto Rico
+Geographical Mobility in the Past Year by Citizenship Status for Current Residence in the United States
+Geographical Mobility in the Past Year by Citizenship Status for Residence 1 Year Ago in Puerto Rico
+Geographical Mobility in the Past Year by Citizenship Status for Residence 1 Year Ago in the United States
+Geographical Mobility in the Past Year by Educational Attainment for Current Residence in Puerto Rico
+Geographical Mobility in the Past Year by Educational Attainment for Current Residence in the United States
+Geographical Mobility in the Past Year by Educational Attainment for Residence 1 Year Ago in Puerto Rico
+Geographical Mobility in the Past Year by Educational Attainment for Residence 1 Year Ago in the United States
+Geographical Mobility in the Past Year by Individual Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) for Current Residence in Puerto Rico
+Geographical Mobility in the Past Year by Individual Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) for Current Residence in the United States
+Geographical Mobility in the Past Year by Individual Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) for Residence 1 Year Ago in Puerto Rico
+Geographical Mobility in the Past Year by Individual Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) for Residence 1 Year Ago in the United States
+Geographical Mobility in the Past Year by Marital Status for Current Residence in Puerto Rico
+Geographical Mobility in the Past Year by Marital Status for Current Residence in the United States
+Geographical Mobility in the Past Year by Marital Status for Residence 1 Year Ago in Puerto Rico
+Geographical Mobility in the Past Year by Marital Status for Residence 1 Year Ago in the United States
+Geographical Mobility in the Past Year by Poverty Status in the Past 12 Months for Current Residence in Puerto Rico
+Geographical Mobility in the Past Year by Poverty Status in the Past 12 Months for Current Residence in the United States
+Geographical Mobility in the Past Year by Poverty Status in the Past 12 Months for Residence 1 Year Ago in Puerto Rico
+Geographical Mobility in the Past Year by Poverty Status in the Past 12 Months for Residence 1 Year Ago in the United States
+Geographical Mobility in the Past Year by Sex for Current Residence in Puerto Rico
+Geographical Mobility in the Past Year by Sex for Current Residence in the United States
+Geographical Mobility in the Past Year by Sex for Residence 1 Year Ago in Puerto Rico
+Geographical Mobility in the Past Year by Sex for Residence 1 Year Ago in the United States
+Geographical Mobility in the Past Year by Tenure for Current Residence in Puerto Rico
+Geographical Mobility in the Past Year by Tenure for Current Residence in the United States
+Geographical Mobility in the Past Year by Tenure for Residence 1 Year Ago in Puerto Rico
+Geographical Mobility in the Past Year by Tenure for Residence 1 Year Ago in the United States
+Geographical Mobility in the Past Year for Current Residence--Metropolitan Statistical Area Level in Puerto Rico
+Geographical Mobility in the Past Year for Current Residence--Metropolitan Statistical Area Level in the United States
+Geographical Mobility in the Past Year for Current Residence--Micropolitan Statistical Area Level in Puerto Rico
+Geographical Mobility in the Past Year for Current Residence--Micropolitan Statistical Area Level in the United States
+Geographical Mobility in the Past Year for Current Residence--Not Metropolitan or Micropolitan Statistical Area Level in Puerto Rico
+Geographical Mobility in the Past Year for Current Residence--Not Metropolitan or Micropolitan Statistical Area Level in the United States
+Geographical Mobility in the Past Year for Current Residence--State, County and Place Level in Puerto Rico
+Geographical Mobility in the Past Year for Current Residence--State, County and Place Level in the United States
+Geographical Mobility in the Past Year in the United States
+Gross Rent as a Percentage of Household Income in the Past 12 Months
+Group Quarters Type (3 Types) by Geographical Mobility in the Past Year for Current Residence in Puerto Rico
+Group Quarters Type (3 Types) by Geographical Mobility in the Past Year for Current Residence in the United States
+Group Quarters Type (5 Types) by Geographical Mobility in the Past Year for Current Residence in the United States
+HOUSEHOLD INCOME
+HOUSEHOLD INCOME (IN 2023 INFLATION ADJUSTED DOLLARS)
+HOUSEHOLD INCOME (IN 2023 INFLATION-ADJUSTED DOLLARS)
+HOUSEHOLD INCOME BY AGE OF HOUSEHOLDER
+HOUSEHOLD INCOME BY RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER
+HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)
+HOUSEHOLD SIZE
+HOUSEHOLD TYPE
+HOUSEHOLD TYPE (INCLUDING LIVING ALONE) AND AGE OF HOUSEHOLDER
+Hawaiian Home Land-State
+Hawaiian Home Land-State-County
+Hawaiian Home Land-State-Place
+Health Insurance Coverage Status and Type by Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars)
+Hispanic or Latino population 1 year and over in the United States
+Hispanic or Latino population in the United States
+Household Income $15,000 to $24,999
+Household Income Quintile Upper Limits
+Household Income by Gross Rent as a Percentage of Household Income in the Past 12 Months
+Household Income by Selected Monthly Owner Costs as a Percentage of Household Income in the Past 12 Months
+Household Income in the Last 12 Months (in 2023 Inflation-Adjusted Dollars) by Presence and Type of Internet Subscription in Household
+Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars)
+Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (American Indian and Alaska Native Alone Householder)
+Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (Asian Alone Householder)
+Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (Black or African American Alone Householder)
+Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (Hispanic or Latino Householder)
+Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (Native Hawaiian and Other Pacific Islander Alone Householder)
+Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (Some Other Race Alone Householder)
+Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (Two or More Races Householder)
+Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (White Alone Householder)
+Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (White Alone, Not Hispanic or Latino Householder)
+Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) by Gross Rent
+Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) by Value
+Household Language
+Household Language by Household Limited English Speaking Status
+Household Size by Number of Workers in Household
+Household Size by Vehicles Available
+Household Type
+Household Type (Including Living Alone)
+Household Type (Including Living Alone) (American Indian and Alaska Native Alone)
+Household Type (Including Living Alone) (Asian Alone)
+Household Type (Including Living Alone) (Black or African American Alone)
+Household Type (Including Living Alone) (Hispanic or Latino)
+Household Type (Including Living Alone) (Native Hawaiian and Other Pacific Islander Alone)
+Household Type (Including Living Alone) (Some Other Race Alone)
+Household Type (Including Living Alone) (Two or More Races)
+Household Type (Including Living Alone) (White Alone)
+Household Type (Including Living Alone) (White Alone, Not Hispanic or Latino)
+Household Type (Including Living Alone) by Relationship
+Household Type by Household Size
+Household Type by Relatives and Nonrelatives for Population in Households
+Household Type by Relatives and Nonrelatives for Population in Households (American Indian and Alaska Native Alone)
+Household Type by Relatives and Nonrelatives for Population in Households (Asian Alone)
+Household Type by Relatives and Nonrelatives for Population in Households (Black or African American Alone)
+Household Type by Relatives and Nonrelatives for Population in Households (Hispanic or Latino)
+Household Type by Relatives and Nonrelatives for Population in Households (Native Hawaiian and Other Pacific Islander Alone)
+Household Type by Relatives and Nonrelatives for Population in Households (Some Other Race Alone)
+Household Type by Relatives and Nonrelatives for Population in Households (Two or More Races)
+Household Type by Relatives and Nonrelatives for Population in Households (White Alone)
+Household Type by Relatives and Nonrelatives for Population in Households (White Alone, Not Hispanic or Latino)
+Household Type by Units in Structure
+Household Type for Children Under 18 Years in Households (Excluding Householders, Spouses, and Unmarried Partners)
+Household appliance manufacturing
+Household appliances and electrical and electronic goods merchant wholesalers
+Household appliances and electrical and electronic goods merchant wholesalers (4195)
+Household did not receive Food Stamps
+Household income in the past 12 months
+Household income in the past 12 months (in 2023 inflation-adjusted dollars) --
+Household income the past 12 months (in 2023 inflation-adjusted dollars) --
+Household population
+Household population 25 years and over
+Household received Food Stamps
+Household with grandparent not responsible for own grandchildren under 18 years
+Household with grandparent responsible for own grandchildren under 18 years
+Household with grandparents living with grandchildren
+Household without grandparents living with grandchildren
+Households by Presence of People 60 Years and Over by Household Type
+Households by Presence of People 65 Years and Over, Household Size and Household Type
+Households by Presence of People Under 18 Years by Household Type
+Housing Costs as a Percentage of Household Income in the Past 12 Months
+Housing Costs as a Percentage of Household Income in the Past 12 Months (American Indian and Alaska Native Alone Householder)
+Housing Costs as a Percentage of Household Income in the Past 12 Months (Asian Alone Householder)
+Housing Costs as a Percentage of Household Income in the Past 12 Months (Black Alone Householder)
+Housing Costs as a Percentage of Household Income in the Past 12 Months (Hispanic or Latino Householder)
+Housing Costs as a Percentage of Household Income in the Past 12 Months (Native Hawaiian and Other Pacific Islander Alone Householder)
+Housing Costs as a Percentage of Household Income in the Past 12 Months (Some Other Race Alone Householder)
+Housing Costs as a Percentage of Household Income in the Past 12 Months (Two or More Races Householder)
+Housing Costs as a Percentage of Household Income in the Past 12 Months (White Alone Householder)
+Housing Costs as a Percentage of Household Income in the Past 12 Months (White Alone, Not Hispanic or Latino Householder)
+In Metropolitan Statistical Area
+In Metropolitan Statistical Area-In Principal City
+In Metropolitan Statistical Area-Not In Principal City
+In Metropolitan or Micropolitan Statistical Area
+In Micropolitan Statistical Area
+In Micropolitan Statistical Area-In Principal City
+In Micropolitan Statistical Area-Not In Principal City
+In female householder  no spouse present  family household
+In male householder  no spouse present  family household
+In married-couple family household
+In the United States
+Internet Subscriptions in Household
+Labor Force Status by Presence of a Computer and Types of Internet Subscription in Household
+Limited English speaking household
+Living in 12 selected states
+Living in household with Supplemental Security Income (SSI), cash public assistance income, or Food Stamps
+Living in household with no Supplemental Security Income (SSI), cash public assistance income, or Food Stamps
+Living in the 12 selected states
+Local  state  and federal government workers
+Local, state, and federal government workers
+MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS
+Male householder  no spouse present  family household
+Married-couple family household
+Married-couple household
+Mean Household Income of Quintiles
+Mean household income (dollars)
+Means of Transportation to Work by Age for Workplace Geography
+Means of Transportation to Work by Citizenship Status for Workplace Geography
+Means of Transportation to Work by Class of Worker for Workplace Geography
+Means of Transportation to Work by Industry for Workplace Geography
+Means of Transportation to Work by Language Spoken at Home and Ability to Speak English for Workplace Geography
+Means of Transportation to Work by Occupation for Workplace Geography
+Means of Transportation to Work by Place of Work--State and County Level
+Means of Transportation to Work by Poverty Status in the Past 12 Months for Workplace Geography
+Means of Transportation to Work by Selected Characteristics for Workplace Geography
+Means of Transportation to Work by Tenure for Workplace Geography
+Means of Transportation to Work by Time Arriving at Work for Workplace Geography
+Means of Transportation to Work by Travel Time to Work for Workplace Geography
+Means of Transportation to Work by Vehicles Available for Workplace Geography
+Means of Transportation to Work by Workers' Earnings in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) for Workplace Geography
+Means of Transportation to Work for Workplace Geography
+Means of Transportation to Work for Workplace Geography (American Indian and Alaska Native Alone)
+Means of Transportation to Work for Workplace Geography (Asian Alone)
+Means of Transportation to Work for Workplace Geography (Black or African American Alone)
+Means of Transportation to Work for Workplace Geography (Hispanic or Latino)
+Means of Transportation to Work for Workplace Geography (Native Hawaiian and Other Pacific Islander Alone)
+Means of Transportation to Work for Workplace Geography (Some Other Race Alone)
+Means of Transportation to Work for Workplace Geography (Two or More Races)
+Means of Transportation to Work for Workplace Geography (White Alone)
+Means of Transportation to Work for Workplace Geography (White Alone, Not Hispanic or Latino)
+Median Age by Geographical Mobility in the Past Year for Current Residence in Puerto Rico
+Median Age by Geographical Mobility in the Past Year for Current Residence in the United States
+Median Age by Geographical Mobility in the Past Year for Residence 1 Year Ago in Puerto Rico
+Median Age by Geographical Mobility in the Past Year for Residence 1 Year Ago in the United States
+Median Age by Means of Transportation to Work for Workplace Geography
+Median Age by Place of Birth in the United States
+Median Earnings in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) by Means of Transportation to Work for Workplace Geography
+Median Gross Rent as a Percentage of Household Income in the Past 12 Months (Dollars)
+Median Household Income for Households With a Citizen, Voting-Age Householder (in 2023 Inflation-Adjusted Dollars)
+Median Household Income for Households with a Citizen, Voting-Age Householder
+Median Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars)
+Median Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (American Indian and Alaska Native Alone Householder)
+Median Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (Asian Alone Householder)
+Median Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (Black or African American Alone Householder)
+Median Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (Hispanic or Latino Householder)
+Median Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (Native Hawaiian and Other Pacific Islander Alone Householder)
+Median Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (Some Other Race Alone Householder)
+Median Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (Two or More Races Householder)
+Median Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (White Alone Householder)
+Median Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (White Alone, Not Hispanic or Latino Householder)
+Median Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) by Age of Householder
+Median Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) by Household Size
+Median Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) by Receipt of Food Stamps
+Median Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) by Tenure
+Median Household income (dollars)
+Median Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) by Geographical Mobility in the Past Year for Current Residence in Puerto Rico
+Median Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) by Geographical Mobility in the Past Year for Current Residence in the United States
+Median Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) by Geographical Mobility in the Past Year for Residence 1 Year Ago in Puerto Rico
+Median Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) by Geographical Mobility in the Past Year for Residence 1 Year Ago in the United States
+Median Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) by Place of Birth in the United States
+Median Nonfamily Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars)
+Median Nonfamily Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (American Indian and Alaska Native Alone Householder)
+Median Nonfamily Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (Asian Alone Householder)
+Median Nonfamily Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (Black or African American Alone Householder)
+Median Nonfamily Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (Hispanic or Latino Householder)
+Median Nonfamily Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (Native Hawaiian and Other Pacific Islander Alone Householder)
+Median Nonfamily Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (Some Other Race Alone Householder)
+Median Nonfamily Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (Two or More Races Householder)
+Median Nonfamily Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (White Alone Householder)
+Median Nonfamily Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (White Alone, Not Hispanic or Latino Householder)
+Median Nonfamily Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) by Sex of Householder by Living Alone by Age of Householder
+Median Selected Monthly Owner Costs as a Percentage of Household Income in the Past 12 Months
+Median coefficient of variation across tracts
+Median gross rent as a percentage of household income
+Median household income (dollars)
+Median household income --
+Median household income for units with a mortgage
+Median household income for units without a mortgage
+Median household income in the past 12 months (in 2023 inflation-adjusted dollars)
+Median household income in the past 12 months (in 2023 inflation-adjusted dollars) --
+Median household income in the past 12 months (in 2023 inflation-adjusted dollars)--
+Median household income of householders
+Median nonfamily household income in the past 12 months (in 2023 inflation-adjusted dollars)
+Median nonfamily household income in the past 12 months (in 2023 inflation-adjusted dollars) --
+Median selected monthly owner costs as a percentage of household income in the past 12 months --
+Metropolitan Statistical Area
+Metropolitan Statistical Area-Metropolitan Division
+Metropolitan Statistical Area-Metropolitan Division-State
+Metropolitan Statistical Area-Metropolitan Division-State-County
+Micropolitan (310)
+Micropolitan Statistical Area
+Micropolitan Statistical Area-County
+Micropolitan Statistical Area-Principal City
+Micropolitan Statistical Area-State
+Micropolitan Statistical Area-State-County
+Micropolitan Statistical Area-State-Principal City
+More than 0 to less than 10 percent of total income for household allocated
+Mortgage Status by Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars)
+Mortgage Status by Median Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars)
+Mortgage Status by Monthly Housing Costs as a Percentage of Household Income in the Past 12 Months
+Mortgage Status by Ratio of Value to Household Income in the Past 12 Months
+Mortgage Status by Selected Monthly Owner Costs as a Percentage of Household Income in the Past 12 Months
+Moved from different county within same state
+Moved from different state
+Moved from remainder of Metropolitan Statistical Area
+Moved from remainder of Micropolitan Statistical Area
+Moved from the United States
+Moved to different county within same state
+Moved to different state
+Moved to the United States
+Moved within same county
+Movers Between Regions in the United States
+Movers between regions by region of residence 1 year ago
+Movers to different state
+Movers within same state
+Native Hawaiian and other Pacific Islander alone population 1 year and over in the United States
+Native Hawaiian and other Pacific Islander alone population in the United States
+Native, born in other state in the United States
+Native, born in state of residence
+Native, born outside the United States
+Nativity and Citizenship Status in the United States
+Nativity in the United States
+No cash public assistance income or household Food Stamps
+No computer in household
+No people in household 60 years or over
+No people in the household 60 years and over
+Nonfamily Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars)
+Nonfamily household
+Not In Metropolitan Statistical Area
+Not In Metropolitan or Micropolitan Statistical Area
+Not a cohabiting couple household
+Not a limited English speaking household
+Not in a Metropolitan or Micropolitan Statistical Area 1 year ago
+Not living in 12 selected states
+Not living in the 12 selected states
+Number of Workers in Household by Vehicles Available
+Partner in an unmarried partner household
+Percent no computer in household
+Period of Entry by Nativity and Citizenship Status in the United States
+Personal and household goods repair and maintenance
+Place of Birth (American Indian and Alaska Native Alone) in the United States
+Place of Birth (Asian Alone) in the United States
+Place of Birth (Black or African American Alone) in the United States
+Place of Birth (Hispanic or Latino) in the United States
+Place of Birth (Native Hawaiian and Other Pacific Islander Alone) in the United States
+Place of Birth (Some Other Race Alone) in the United States
+Place of Birth (Two or More Races) in the United States
+Place of Birth (White Alone) in the United States
+Place of Birth (White Alone, Not Hispanic or Latino) in the United States
+Place of Birth by Age in the United States
+Place of Birth by Educational Attainment in the United States
+Place of Birth by Individual Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) in the United States
+Place of Birth by Language Spoken at Home and Ability to Speak English in the United States
+Place of Birth by Marital Status in the United States
+Place of Birth by Poverty Status in the Past 12 Months in the United States
+Place of Birth by Sex in the United States
+Place of Birth for the Foreign-Born Population in the United States
+Place of Birth in the United States
+Place of Work for Workers 16 Years and Over--Metropolitan Statistical Area Level
+Place of Work for Workers 16 Years and Over--Micropolitan Statistical Area Level
+Place of Work for Workers 16 Years and Over--Not Metropolitan or Micropolitan Statistical Area Level
+Population 1 year and over in households in the United States
+Population 1 year and over in the United States
+Population 1 year and over in the United States for whom poverty status is determined
+Population 1 year and over living in a Metropolitan Statistical Area in Puerto Rico
+Population 1 year and over living in a Metropolitan Statistical Area in the United States
+Population 1 year and over living in a Micropolitan Statistical Area in Puerto Rico
+Population 1 year and over living in a Micropolitan Statistical Area in the United States
+Population 1 year and over not living in a Metropolitan or Micropolitan Statistical Area in Puerto Rico
+Population 1 year and over not living in a Metropolitan or Micropolitan Statistical Area in the United States
+Population 15 years and over in the United States
+Population 15 years and over in the United States with income
+Population 25 years and over in the United States
+Population 5 years and over in the United States
+Population 60 Years and Over in the United States
+Population 65 Years and Over in the United States
+Population born outside the United States
+Population in the United States for whom poverty status is determined
+Poverty Status in the Past 12 Months by Household Type
+Poverty Status in the Past 12 Months by Household Type by Age of Householder
+Poverty Status in the Past 12 Months of Families by Household Type
+Poverty Status in the Past 12 Months of Families by Household Type by Educational Attainment of Householder
+Poverty Status in the Past 12 Months of Families by Household Type by Number of Own Children Under 18 Years
+Poverty Status in the Past 12 Months of Families by Household Type by Number of Persons in Family
+Poverty Status in the Past 12 Months of Families by Household Type by Number of Related Children Under 18 Years
+Poverty Status in the Past 12 Months of Families by Household Type by Number of Workers in Family
+Poverty Status in the Past 12 Months of Families by Household Type by Presence of Own Children Under 18 Years
+Poverty Status in the Past 12 Months of Families by Household Type by Tenure
+Presence and Types of Internet Subscriptions in Household
+Presence of a Computer and Type of Internet Subscription in Household
+Presence of a Computer and Type of Internet Subscription in Household (American Indian and Alaska Native Alone)
+Presence of a Computer and Type of Internet Subscription in Household (Asian Alone)
+Presence of a Computer and Type of Internet Subscription in Household (Black or African American Alone)
+Presence of a Computer and Type of Internet Subscription in Household (Hispanic or Latino)
+Presence of a Computer and Type of Internet Subscription in Household (Native Hawaiian and Other Pacific Islander Alone)
+Presence of a Computer and Type of Internet Subscription in Household (Some Other Race Alone)
+Presence of a Computer and Type of Internet Subscription in Household (Two or More Races)
+Presence of a Computer and Type of Internet Subscription in Household (White Alone)
+Presence of a Computer and Type of Internet Subscription in Household (White Alone, Not Hispanic or Latino)
+RATIO OF VALUE TO HOUSEHOLD INCOME IN THE PAST 12 MONTHS
+RESIDENCE 1 YEAR AGO
+Region of Current Residence
+Relationship by Household Type (Including Living Alone) for the Population 65 Years and Over
+Remainder (070), County within Place (155)
+Remainder and Block Group geographies (070,150,258,293,294)
+Remainder-State
+Residence 1 Year Ago
+Residence 1 Year Ago geographies
+Residence 1 year ago
+Residence 1 year ago--
+Rural
+SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)
+SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS
+SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES
+SNAP in the Past 12 Months by Household Type for Children Under 18 Years in Households
+SNAP in the Past 12 Months by Presence of Children Under 18 Years by Household Type for Households
+Same Metropolitan Statistical Area
+Same Micropolitan Statistical Area
+Same county
+Same residence (non-movers)
+Same state
+Selected Characteristics of Health Insurance Coverage in the United States
+Selected Characteristics of the Foreign-Born Population by Period of Entry Into the United States
+Selected Characteristics of the Total and Native Populations in the United States
+Selected Characteristics of the Uninsured in the United States
+Selected Population Profile in the United States
+Selected Social Characteristics in the United States
+Sex of Workers by Means of Transportation to Work for Workplace Geography
+Sex of Workers by Place of Work--Minor Civil Division Level for 12 Selected States (CT, ME, MA, MI, MN, NH, NJ, NY, PA, RI, VT, WI)
+Sex of Workers by Place of Work--State and County Level
+Sex of Workers by Travel Time to Work for Workplace Geography
+Shares of Aggregate Household Income by Quintile
+Some other race alone population 1 year and over in the United States
+Some other race alone population in the United States
+State
+State (040)
+State Designated Tribal Statistical Area (Formerly SDAISA)
+State government workers
+State of residence
+State-Alaska Native Regional Corporation
+State-American Indian Area
+State-American Indian Area (Off-Reservation Trust Land Only)
+State-Combined Statistical Area
+State-Combined Statistical Area-Metropolitan Statistical Area
+State-Congressional District
+State-Congressional District-American Indian Area
+State-Congressional District-County
+State-Consolidated City
+State-Consolidated City-Place Within Consolidated City
+State-County
+State-County-Census Tract
+State-County-Census Tract-Block Group
+State-County-County Subdivision
+State-County-County Subdivision-Place
+State-County-County Subdivision-Subminor Civil Division
+State-Metropolitan Statistical Area
+State-Metropolitan Statistical Area-Metropolitan Division
+State-Metropolitan Statistical Area-Metropolitan Division-County
+State-Place
+State-Place-County
+State-Public Use Microdata Sample Area (PUMA)
+State-School District
+State-State Legislative District (Lower Chamber)
+State-State Legislative District (Lower Chamber)-County
+State-State Legislative District (Upper Chamber)
+State-State Legislative District (Upper Chamber)-County
+Tenure by Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars)
+Tenure by Household Size
+Tenure by Household Size by Age of Householder
+Tenure by Household Size by Units in Structure
+Tenure by Household Type (Including Living Alone) and Age of Householder
+Tenure by Household Type and Presence and Age of Own Children
+Tenure by Housing Costs as a Percentage of Household Income in the Past 12 Months
+Time Arriving at Work for Workplace Geography
+Total household population
+Total population in the United States
+Travel Time to Work for Workplace Geography
+Two or more races population 1 year and over in the United States
+Two or more races population in the United States
+Types of Computers in Household
+U.S. citizen, born in the United States
+United States
+United States (010)
+United States (010), Region (020)
+United States (010), Region (020), Division (030)
+United States (010), Region (020), Division (030), State (040)
+United States (010), Region (020), Division (030), State (040), Congressional District (500)
+United States (010), State (040)
+United States (010), State (040), County (050)
+United States (010), State (040), County (050), Census Tract (140), Block Group (150), Place (160), Congressional District (500), State Legislative District Upper (610), State Legislative District Lower (620)
+United States (010), State (040), County (050), Place (160)
+United States (010), State (040), County (050), Place (160), Metropolitan
+United States (010), States (040), Combined Statistical Area (330)
+United States (010), States (040), Metropolitan Division within Metropolitan Statistical Area (314), Combined Statistical Area (330), Congressional District (500), PUMA (795)
+United States 1 year ago
+Urban
+Urban Area
+Urban Area-State
+Urban Area-State-County
+Urban and regional planners
+Vacant - Current Residence Elsewhere
+Vacant - current residence elsewhere
+White alone population 1 year and over in the United States
+White alone population in the United States
+White alone, not Hispanic or Latino population 1 year and over in the United States
+White alone, not Hispanic or Latino population in the United States
+With one or more people in the household 60 years and over
+Worked in MCD of residence
+Worked in Metropolitan Statistical Area of residence
+Worked in Micropolitan Statistical Area of residence
+Worked in State of residence
+Worked in a Metropolitan Statistical Area
+Worked in a Micropolitan Statistical Area
+Worked in a different Metropolitan Statistical Area
+Worked in a different Micropolitan Statistical Area
+Worked in county of residence
+Worked in minor civil division of residence
+Worked in place of residence
+Worked in state of residence
+Worked outside MCD of residence
+Worked outside State of residence
+Worked outside any Metropolitan or Micropolitan Statistical Area
+Worked outside county of residence
+Worked outside minor civil division of residence
+Worked outside place of residence
+Worked outside state of residence
+Worker Population for Workplace Geography
+Workers 16 years and over living in a metropolitan statistical area
+Workers 16 years and over living in a micropolitan statistical area
+Workers 16 years and over not living in a metropolitan or micropolitan statistical area
+born in other state in the U.S.
+born in state of residence
+born outside the United States
+from different  state
+from different county  same state
+partner present household
+within same county

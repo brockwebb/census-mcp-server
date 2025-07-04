@@ -1,0 +1,1142 @@
+Using the Census Data API With  
+the American Community Survey 
+What Data Users Need to Know
+
+Issued February 2020
+
+Acknowledgments
+
+Linda A. Jacobsen, Vice President, U.S. Programs, Population Reference 
+Bureau (PRB), and Mark Mather, Associate Vice President, U.S. Programs, 
+PRB, drafted this handbook in partnership with the U.S. Census Bureau’s 
+American Community Survey Office. Other PRB staff who assisted in 
+drafting and reviewing the handbook include Beth Jarosz, Lillian Kilduff, 
+Amanda Lee, and Paola Scommegna. 
+
+Nicole Scanniello, Gretchen Gooding, and Amanda Klimek, Census Bureau, 
+contributed to the planning and review of this handbook.  
+
+The American Community Survey program is under the direction of  
+Albert E. Fontenot Jr., Associate Director for Decennial Census Programs, 
+James B. Treat, Assistant Director for Decennial Census Programs, and 
+Donna M. Daily, Chief, American Community Survey Office. 
+
+Other individuals from the Census Bureau who contributed to the review and 
+release of these handbooks include Tammy Anderson, Maureen Brauning, 
+Grace Clemons, Ryan Dolan, Sirius Fuller, Matthew Key, Logan Powell, 
+KaNin Reese, R. Chase Sawyer, Tyson Weister, and Kai Wu.
+
+Linda Chen, Amanda J. Perry, Faye E. Brock, and Christine E. Geter 
+provided publication management, graphics design and composition, 
+and editorial review for print and electronic media under the direction of 
+Janet Sweeney, Chief of the Graphic and Editorial Services Branch, Public 
+Information Office. 
+
+Using the Census Data API With the 
+American Community Survey
+What Data Users Need to Know
+
+Issued February 2020
+
+U.S. Department of Commerce 
+Wilbur Ross, 
+Secretary
+
+Karen Dunn Kelley,  
+Deputy Secretary 
+
+U.S. CENSUS BUREAU 
+Steven Dillingham, 
+Director
+
+Suggested Citation
+
+  U.S. Census Bureau,  
+Using the Census Data API With the 
+American Community Survey,  
+U.S. Government Printing Office, 
+Washington, DC, 2020.
+
+U.S. CENSUS BUREAU 
+Steven Dillingham, 
+Director
+
+Ron Jarmin, 
+Deputy Director and Chief Operating Officer
+
+Albert E. Fontenot Jr., 
+Associate Director for Decennial Census Programs
+
+James B. Treat, 
+Assistant Director for Decennial Census Programs
+
+Donna M. Daily, 
+Chief, American Community Survey Office
+
+Contents
+
+Using the Census Data API With the American Community Survey: 
+What Data Users Need to Know . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+
+1. Overview of the Census Data API . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+
+2. Working With the Census Data API  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+
+3. Additional Resources . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+
+Using the Census Data API With the American Community Survey  iii 
+What Data Users Need to Know   iii
+
+U.S. Census Bureau 
+This page is intentionally blank.
+
+USING THE CENSUS DATA API WITH  
+THE AMERICAN COMMUNITY SURVEY:  
+WHAT DATA USERS NEED TO KNOW 
+
+An API, or “Application Programming Interface,” is a 
+tool that programmers can use to access data more 
+efficiently. It reduces the need for data storage and 
+provides software developers, data scientists, and oth-
+ers with a set of standard commands to easily access 
+statistics that can be incorporated into their programs 
+and applications. 
+
+This guide provides an overview of the Census Data 
+API and how it can be used to access data from the 
+U.S. Census Bureau’s American Community Survey 
+(ACS), a source of up-to-date statistics on the social, 
+economic, housing, and demographic characteristics of 
+America’s communities.
+
+The guide is intended for software developers and 
+researchers who want to access ACS data to create 
+mobile- or Web-based apps, as well as nonprogram-
+mers who want to create simple queries to access ACS 
+data through an Internet browser.
+
+More detailed instructions on how to use the Census 
+Data API are available in the Census Bureau’s Census 
+Data API User Guide.1
+
+What Is the American Community 
+Survey?
+
+The ACS is a nationwide survey designed to provide 
+communities with reliable and timely social, economic, 
+housing, and demographic data every year. A sepa-
+rate annual survey, called the Puerto Rico Community 
+Survey (PRCS), collects similar data about the popu-
+lation and housing units in Puerto Rico. The Census 
+Bureau uses data collected in the ACS and the PRCS 
+to provide estimates on a broad range of population, 
+housing unit, and household characteristics for states, 
+
+1 U.S. Census Bureau, Developers, Census Data API User Guide, 
+
+<www.census.gov/data/developers/guidance/api-user-guide.html>. 
+
+counties, cities, school districts, congressional districts, 
+census tracts, block groups, and many other geo-
+graphic areas.
+
+The ACS has an annual sample size of about 3.5 million 
+addresses, with survey information collected nearly 
+every day of the year. Data are pooled across a calen-
+dar year to produce estimates for that year. As a result, 
+ACS estimates reflect data that have been collected 
+over a period of time rather than for a single point in 
+time as in the decennial census, which is conducted 
+every 10 years and provides population counts as of 
+April 1 of the census year.
+
+ACS 1-year estimates are data that have been col-
+lected over a 12-month period and are available for 
+geographic areas with at least 65,000 people. Starting 
+with the 2014 ACS, the Census Bureau is also produc-
+ing “1-year Supplemental Estimates”—simplified ver-
+sions of popular ACS tables—for geographic areas with 
+at least 20,000 people. The Census Bureau combines 
+5 consecutive years of ACS data to produce multiyear 
+estimates for geographic areas with fewer than 65,000 
+residents. These 5-year estimates represent data col-
+lected over a period of 60 months. 
+
+For more detailed information about the ACS—how 
+to judge the accuracy of ACS estimates, understand-
+ing multiyear estimates, knowing which geographic 
+areas are covered in the ACS, and how to access ACS 
+data on the Census Bureau’s Web site—see the Census 
+Bureau’s handbook on Understanding and Using 
+American Community Survey Data: What All Data 
+Users Need to Know.2
+
+2 U.S. Census Bureau, American Community Survey (ACS), 
+
+Understanding and Using American Community Survey Data: What All 
+Data Users Need to Know, <www.census.gov/programs-surveys/acs 
+/guidance/handbooks/general.html>. 
+
+Using the Census Data API With the American Community Survey  1 
+What Data Users Need to Know   1
+
+U.S. Census Bureau1. OVERVIEW OF THE CENSUS DATA API
+
+The Census Data API is a data service that enables 
+developers, data scientists, and others to access and 
+use statistical data from the American Community 
+Survey (ACS), decennial census, Population Estimates 
+and Projections, County Business Patterns, and many 
+other U.S. Census Bureau programs. The Census 
+Bureau’s Web site provides a complete list of data sets 
+available through the Census Data API.3 
+
+Why Use the Census Data API? 
+
+The Census Data API has a simple interface. It provides 
+an efficient way to get ACS and other data directly 
+from the Census Bureau, without storing the data on a 
+computer or a local server. If you know how to read the 
+documentation and create a request, you can easily 
+download variables and geographic areas of interest. 
+Data are continuously available and regularly updated, 
+so you have immediate access to new data as it is 
+released. 
+
+The Census Data API makes it easy to access ACS 
+data, but for novice users, the amount of data avail-
+able can be overwhelming. The ACS covers over 40 
+different topics and releases thousands of tables.4 
+Developers can help make the ACS data more acces-
+sible by building programs using statistical software 
+like R and Python, creating mobile and Web apps, and 
+developing interactive data visualizations that display 
+data directly in an app or browser window in an easily 
+consumable format.
+
+Examples of Census Bureau applications that draw 
+ACS data directly from the Census Data API include 
+My Tribal Area and My Congressional District.5 
+
+The Census Data API is also used widely by organiza-
+tions outside of the Census Bureau. 
+
+For example, the Pennsylvania State Data Center uses 
+the API to produce a series of dashboards based on 
+ACS estimates, and Cleargov.com uses the Census 
+Data API and other sources to produce online profiles 
+of cities and towns for state and local governments.6
+
+3 U.S. Census Bureau, Developers, Available APIs, <www.census 
+.gov/data/developers/data-sets.html>; Census API: Datasets in /data 
+and its descendants, <https://api.census.gov/data/.html>.
+
+⁴ U.S. Census Bureau, American Community Survey (ACS), Subjects 
+
+Included in the Survey, <www.census.gov/programs-surveys/acs 
+/guidance/subjects.html>.
+
+⁵ U.S. Census Bureau, My Tribal Area, <www.census.gov/tribal/>; My 
+
+Congressional District, <www.census.gov/mycd/>. 
+
+⁶ Pennsylvania State Data Center, PaSDC Dashboards,  
+
+<https://pasdc.hbg.psu.edu/Data/PaSDCDashboards/tabid/2049 
+/Default.aspx>; ClearGov, <www.cleargov.com/>.
+
+ACS Data Sets Available Through the 
+Census Data API
+
+The Census Data API currently includes the following 
+ACS data sets:
+
+•  ACS 1-Year Estimates: Data for geographic areas 
+with populations of 65,000 or more. Covers a 
+broad range of topics about social, economic, 
+housing, and demographic characteristics of the 
+U.S. population.7
+
+•  ACS 5-Year Estimates: Data available down to the 
+block-group level.8 Covers a range of topics about 
+social, economic, housing, and demographic char-
+acteristics of the U.S. population.9
+
+•  ACS Migration Flows: Data on the movement of 
+
+people between counties, minor civil divisions, 
+and metropolitan statistical areas using ACS 
+5-year estimates. Flows are crossed by selected 
+characteristics.10
+
+•  ACS 1-Year Supplemental Estimates: Simplified ver-
+
+sions of popular ACS tables for geographic areas 
+with populations of 20,000 or more.11
+
+•  The Planning Database: Data File with selected 
+
+variables from the 2010 Decennial Census and ACS 
+5-year estimates at the block group and census 
+tract levels.12
+
+Within the ACS 1-year and 5-year data sets, five differ-
+ent collections of data are available. “Profiles” contain 
+some of the most commonly used ACS statistics, while 
+“Tables” provide more detailed tabulations of ACS 
+estimates: 
+
+•  Detailed Tables: Include the most detailed cross-
+tabulations of ACS data, many of which are pub-
+lished down to the block-group level. There are 
+over 31,000 variables in this data set.
+
+⁷ U.S. Census Bureau, Developers, American Community Survey 
+
+1-Year Data, <www.census.gov/data/developers/data-sets 
+/acs-1year.html>. 
+
+8 Block groups are subdivisions of census tracts that include 
+
+between 600 and 3,000 people each.
+
+9 U.S. Census Bureau, Developers, American Community Survey 
+5-Year Data, <www.census.gov/data/developers/data-sets/acs-5year 
+.html>. In addition to the 1-year and 5-year data files, the Census 
+Bureau also produced a 3-year data file, but that series has been dis-
+continued.
+
+10 U.S. Census Bureau, Developers, American Community Survey 
+Migration Flows, <www.census.gov/data/developers/data-sets/acs 
+-migration-flows.html>. 
+
+11 U.S. Census Bureau, Developers, American Community Survey 
+
+1-Year Supplemental Data, <www.census.gov/data/developers 
+/data-sets/ACS-supplemental-data.html>. 
+
+12 U.S. Census Bureau, Developers, The Planning Database (2015–
+
+2016), <www.census.gov/data/developers/data-sets/planning 
+-database.html>. 
+
+2   Using the Census Data API With the American Community Survey 
+2   What Data Users Need to Know
+
+U.S. Census Bureau•  Data Profiles: Include profiles of social, economic, 
+
+housing, and demographic characteristics for areas 
+down to the census tract level. Data are presented 
+as both counts and percentages. There are over 
+1,000 variables in this data set.
+
+•  Comparison Profiles: Include ACS data for the 
+nation, states, counties, places, congressional 
+districts, and metropolitan/micropolitan statis-
+tical areas with populations of 5,000 or more. 
+Comparison Profiles are similar to Data Profiles 
+but include comparisons with past-year data and 
+statistical significance testing. There are over 1,000 
+variables in this data set.
+
+•  Subject Tables: Include estimates covering specific 
+topics—such as age, commuting characteristics, 
+educational attainment, and marital status—for 
+geographic areas down to the census tract level. 
+The data are presented as both counts and per-
+centages. There are over 16,000 variables in this 
+data set.
+
+for areas with large populations and for large 
+population subgroups.
+
+Finding the Data Set and Variables You 
+Need
+
+With all the data sets available in the Census Data 
+API, finding the one you need can be challenging. The 
+Census Data API Discovery Tool can help you make 
+sense of all this information.13 A complete list of avail-
+able data sets is available on the Census Bureau’s Web 
+site in HTML format.14 Users can also navigate to spe-
+cific data sets from the Developers Web page.15 
+
+To find a particular data set, you can scroll through the 
+list or search within your Web browser for a specific 
+year or phrase (for example, “2016” or “ACS 5-Year”). 
+If you click on the link for “geographies” for the 2016 
+ACS 5-Year Detailed Tables, you can see a list of the 
+87 geographic areas available for that data set (see 
+Figure 1.1). 
+
+•  Selected Population Profiles: Include estimates 
+covering social, economic, housing, and demo-
+graphic data. Data are available for over 100 racial, 
+ethnic, tribal, ancestry, and country/region of birth 
+groups. These profiles are generally only available 
+
+13 U.S. Census Bureau, Developers, Census Data API Discovery Tool, 
+<www.census.gov/data/developers/updates/new-discovery-tool.html>.
+
+14 U.S. Census Bureau, Census API: Datasets in /data and its 
+
+descendants, <https://api.census.gov/data.html>.
+
+15 U.S. Census Bureau, Developers, Available APIs, <www.census 
+
+.gov/data/developers/data-sets.html>.
+
+Figure 1.1. List of Selected Geographic Areas Available From the 2012–2016 ACS 5-Year Detailed Tables
+
+Note: Only the first 17 rows and the first 3 columns are displayed in Figure 1.1. 
+Source: U.S. Census Bureau, Census Data API Discovery Tool, <https://api.census.gov/data/2016/acs/acs5/geography.html>.
+
+Using the Census Data API With the American Community Survey  3 
+What Data Users Need to Know   3
+
+U.S. Census BureauYou can also click on the link for “variables” to view 
+a list of all the variables available in the data set (see 
+Figure 1.2). This Web page may take a minute or two 
+to load, given the large number of variables—over 
+22,000—that are available in the 2012-2016 ACS 5-Year 
+Detailed Tables. You can use the search feature within 
+
+your Web browser to find variables related to your 
+topic of interest. You can also click on a data set on 
+the Census Bureau’s Web site to view the data docu-
+mentation for that file.16 
+
+16 U.S. Census Bureau, Developers, Available APIs, <www.census 
+
+.gov/data/developers/data-sets.html>.
+
+Figure 1.2. List of Variables Available From the 2012–2016 ACS 5-Year Detailed Tables 
+
+Note: Only the first 13 rows and the first three columns are displayed in Figure 1.2. 
+Source: U.S. Census Bureau, Census Data API Discovery Tool, <https://api.census.gov/data/2016/acs/acs5/variables.html>. 
+
+4   Using the Census Data API With the American Community Survey 
+4   What Data Users Need to Know
+
+U.S. Census BureauOthers may find it useful to search for variables within 
+“groups” to classify variables based on the published 
+ACS tables from which they are drawn. For example, 
+in Figure 1.3, the third row provides a link to selected 
+variables available from ACS Table B01001: Sex by 
+Age. The next section describes how you can use the 
+“groups” function to select multiple ACS variables with 
+a single API query.
+
+The Census Data API Discovery Tool is also available 
+in Extensible Markup Language (XML) and JavaScript 
+Object Notation (JSON) formats for more advanced 
+data users who want to access the metadata (the 
+descriptive information or documentation about the 
+data sets) in machine-readable formats.17 
+
+17 U.S. Census Bureau, <https://api.census.gov/data.xml>;  
+
+<https://api.census.gov/data.json>.
+
+Figure 1.3. List of Groups in the 2012–2016 ACS 5-Year Detailed Tables
+
+Note: Only the first 15 rows are displayed in Figure 1.3. 
+Source: U.S. Census Bureau, Census Data API Discovery Tool, <https://api.census.gov/data/2016/acs/acs5/groups.html>. 
+
+Using the Census Data API With the American Community Survey  5 
+What Data Users Need to Know   5
+
+U.S. Census Bureau2. WORKING WITH THE CENSUS DATA API
+
+The U.S. Census Bureau has produced an API User 
+Guide and organized a Webinar to help developers and 
+researchers access and use the Census Data API to 
+request data from Census Bureau data sets.18 Key infor-
+mation from these resources is summarized below.
+
+API Key
+
+Any user may query small quantities of data with 
+minimal restrictions (up to 50 variables in a single 
+query, and up to 500 queries per IP address per day). 
+However, more than 500 queries per IP address per 
+day requires that you register for an API key. 
+
+To request an API key:
+
+•  Go to <www.census.gov/developers/>.
+
+18 U.S. Census Bureau, Developers, Census Data API User Guide, 
+<www.census.gov/data/developers/guidance/api-user-guide.html>; 
+American Community Survey (ACS), Using the Census API with the 
+American Community Survey Webinar, <www.census.gov/data 
+/academy/webinars/2019/api-acs.html>. 
+
+•  Click on the Request a KEY box on the left side of 
+
+the page.
+
+•  Fill out the form: <https://api.census.gov/data 
+
+/key_signup.html>.
+
+•  You will receive an email with your key code and 
+
+activation instructions in the message.
+
+Once you have an API key, you can extract information 
+from Census Bureau data sets using a variety of tools 
+including JSON, R, Python, or even by typing a query 
+string into the URL of a Web browser.19
+
+Components of an API Query
+
+Each API call, or query, requires a series of compo-
+nents to function properly. Figure 2.1 provides an 
+example of an API call and its components. 
+
+19 Users may not be able to view the results from API queries in all 
+
+Web browsers, but Firefox and Chrome provide this functionality.
+
+Figure 2.1. Results of Query for Total Population by State: 2016
+
+Source: U.S. Census Bureau, <https://api.census.gov/data/2016/acs/acs1?get=NAME,B01001_001E&for=state:*>.
+
+6   Using the Census Data API With the American Community Survey 
+6   What Data Users Need to Know
+
+U.S. Census BureauWith the API, you access only the variables and geo-
+graphic areas that you need. In the query above:
+
+•  The “Census Data API” specifies the API that is 
+
+being used to access the data. 
+
+•  The “Dataset” specifies the data source is the 2016 
+
+ACS 1-Year Detailed Tables. 
+
+•  The “Get Function” (get=) specifies the variable(s) 
+
+you are requesting the API to give you. 
+
+•  The “Variable List” includes the variable(s) you are 
+
+requesting. You can include up to 50 variables in 
+a single API query (separated by commas). In this 
+data set, the variable called NAME provides the 
+name of the geographic area(s) that you are using 
+to limit your search.
+
+•  The “Predicate” clause specifies how variables 
+
+should be filtered or limited (for example, for cer-
+tain geographic areas).
+
+• 
+
+“Geography” specifies the geographic area(s) of 
+interest.
+
+Understanding Variable Names
+
+Each variable in a data set has a name, which may 
+have meaning on its own (for example, TRACT for 
+census tract, or NAME for geographic area name) or 
+may be an alpha-numeric identifier. In the American 
+Community Survey (ACS), many of the variable names 
+are alpha-numeric, such as B01003_001E, which is the 
+Total Population. The “Variable List” column on the 
+Census API Datasets Web page provides links to all the 
+variables in each data set.20
+
+The first letter in an ACS variable’s name indicates the 
+table type. For example, a “B” at the beginning of a 
+name indicates that data are from a “base” table and 
+“C” is for a collapsed table. The collapsed tables cover 
+the same topics as the base tables, but with fewer 
+details.21 
+
+The next five digits in an ACS variable name refer to 
+the rest of the summary table identifier (ID). The first 
+two digits are a subject identifier and the next three 
+
+20 U.S. Census Bureau, Census API: Datasets in /data and its 
+
+descendants, <https://api.census.gov/data.html>.
+
+21 Detailed information about ACS table IDs is available on the 
+Census Bureau’s Table IDs Explained Web page at <www.census.gov 
+/programs-surveys/acs/guidance/which-data-tool/table-ids-explained 
+.html>.
+
+are a sequential number. Tables beginning with “01,” 
+for example, are for age and sex, “08” tables are com-
+muting (journey to work) and place of work.22 The next 
+three digits reflect the table number within a subject.
+
+Some variables end in “A” through “I,” which tells you 
+that the corresponding ACS table provides character-
+istics that are repeated for different race and Hispanic 
+origin groups. For example, table numbers ending in a 
+“C” are for American Indian and Alaska Native Alone 
+populations. Table numbers with an “H” suffix are for 
+non-Hispanic White populations. For example, Table 
+B01001H is Sex by Age (White Alone, Not Hispanic or 
+Latino).
+
+Other tables end in “PR,” which tells you that the data 
+came from the Puerto Rico Community Survey instead 
+of the ACS. These Puerto Rico-specific tables exist 
+because the wording of the Puerto Rico Community 
+Survey questionnaire for some subjects differs slightly 
+from the ACS questionnaire.
+
+The six-character table ID is followed by an underscore 
+and three more digits. Those three digits refer to the 
+line number within a table. For example, “001” may 
+refer to the total, “002” may refer to males, and so on.
+
+Finally, the last character in an ACS variable is an 
+alphabetical suffix (E, M, PE, or PM). 
+
+• 
+
+• 
+
+• 
+
+• 
+
+“E” refers to a numeric representation of the ACS 
+estimate. 
+“M” refers to a numeric representation of the mar-
+gin of error. 
+“PE” refers to an estimate representing a percent 
+of the total. 
+“PM” refers to the margin of error for a percentage. 
+
+In some data sets, users may also see variables ending 
+with "EA," "MA," “PEA,” “PMA,” or “SS.” These suffixes 
+are special annotations used to communicate informa-
+tion about estimates, margins of error, or statistical 
+significance. For example, “SS” refers to “Statistical 
+Significance” and is only included in the Comparison 
+Profile tables. When extracting data for ACS estimates 
+or margins of error, it is important to also extract the 
+data for any special annotations.  
+
+22 Data Profiles, Narrative Profiles, Comparison Profiles, and 
+
+Selected Population Profiles cover multiple topics, so they do not have 
+any characters to indicate a subject.
+
+Using the Census Data API With the American Community Survey  7 
+What Data Users Need to Know   7
+
+U.S. Census BureauSuppose you needed an estimate of the male popula-
+tion aged 5 to 9. Those data are located in Table B01001: 
+Sex by Age. Data for males aged 5 to 9 appear within 
+that table on line 4. Finally, estimates are designated by 
+an “E.” Thus, the variable string to include in your API 
+query would be B01001_004E (see Figure 2.2). 
+
+For more information about variable formats, types, 
+and annotations, see the Census Bureau’s Notes on 
+ACS 5-Year Data.23
+
+23 U.S. Census Bureau, Developers, Notes on ACS 5-Year Data, 
+<www.census.gov/data/developers/data-sets/acs-5year/data-notes 
+.html>. 
+
+Figure 2.2. Understanding the Components of a Variable Name
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov/>.
+
+8   Using the Census Data API With the American Community Survey 
+8   What Data Users Need to Know
+
+U.S. Census BureauFiltering Geography
+
+In an API query, you can use a “predicate” to filter your 
+ACS results by geography: 
+
+•  The “for” predicate (&for) restricts the variables by 
+
+geography at various levels.
+
+•  The “in” predicate (&in) restricts the geographic 
+scope and can be used in combination with a “+” 
+sign to further specify a geographic area of interest.
+
+An asterisk can be included as a wildcard to search for 
+all the values of a geographic area or a string variable; 
+however, you cannot build a predicate with wild-
+cards for numeric variables. Table 2.1 provides several 
+
+examples of predicates of geography you can use 
+when building your queries.
+
+Every query must include a geography. The Census 
+Data API supports Federal Information Processing 
+Series (FIPS) codes and Geographic Names 
+Informational System (GNIS) codes. You may look 
+up codes for certain geographic areas on the Census 
+Bureau’s Geography Web page.24 You can also easily 
+find specific codes by using the wildcard with a geo-
+graphic level of interest in the API. 
+
+24 U.S. Census Bureau, Geography, American National Standards 
+Institute (ANSI) Codes, <www.census.gov/library/reference/code-lists 
+/ansi.html>. 
+
+Table 2.1. Examples of Predicates for Geography
+
+  Predicate
+
+&for=state:*
+
+&for=state:01
+
+Action
+
+Retrieves the result for all states.
+
+Restricts the result to include only Alabama (state code = 01).
+
+&for=county:*&in=state:01
+
+Restricts the result to include all counties in Alabama.
+
+&for=county:001&in=state:01
+
+&for=county (or part):*&in=state:01+place:62328
+
+&for=county (or part):073&in=state:01+place:07000
+
+Source: U.S. Census Bureau. 
+
+Restricts the result to include only Autauga County (County: 
+001), Alabama.
+Restricts the result to include all counties (or portions of coun-
+ties) within Prattville city (Place: 62328), Alabama.
+Restricts the result to include the portion of Jefferson County 
+(County:073), Alabama that is within Birmingham city 
+(Place:07000).
+
+Using the Census Data API With the American Community Survey  9 
+What Data Users Need to Know   9
+
+U.S. Census BureauFor example, to retrieve data from Table B01001_001E 
+(total population) for all states, use the following the 
+string: 
+
+<https://api.census.gov/data/2016/acs/acs1?get=NAME 
+,B01001_001E&for=state:*> 
+
+The results of this query are displayed in Figure 2.3. 
+
+Figure 2.3. Results of Query for Total Population by State: 2016
+
+Source: U.S. Census Bureau, <https://api.census.gov/data/2016/acs/acs1?get=NAME,B01001_001E&for=state:*>.
+
+The results shown in Figure 2.3 are in JavaScript Object 
+Notation (JSON) format. JSON, like XML, is a simple 
+format for exchanging data between platforms using 
+human-readable language. In order to return results in 
+a concise manner, the Census Bureau uses a nonstan-
+dard, streamlined version of JSON: 
+
+•  Data are represented in a two-dimensional array.
+
+•  Square brackets [ ] hold arrays. 
+
+•  Values are separated by commas (,).
+
+•  The first line of data contains the variable names.
+
+•  Each subsequent line of data is a record for a given 
+
+geography.
+
+Data users familiar with JSON can convert results into 
+a standard JSON format using the following code snip-
+pet:
+
+```js
+
+let standardJSON =  
+ <fetch stats async with promise> 
+  .then(data => {  
+      let labels = data[0].map(datum => datum.toUpperCase());  
+      let rows = data.slice(1);  
+      let objArray = rows.map(row => { return Object.assign(  
+
+{}, 
+ ...labels.map((key, idx) => ({ [key]: row[idx] }))  
+
+           ); 
+        });
+
+10   Using the Census Data API With the American Community Survey 
+10   What Data Users Need to Know
+
+U.S. Census Bureau 
+ 
+To query 2016 total population only for Alabama (01), 
+California (06), and Rhode Island (44), we could use 
+the following string:
+
+<https://api.census.gov/data/2016/acs/acs1?get=NAME
+,B01001_001E&for=state:01,06,44>.
+
+In this example, the predicate “for” is used to limit the 
+search to Alabama (state code = 01), California (state 
+code = 06), and Rhode Island (state code = 44). (See 
+Figure 2.4).
+
+Figure 2.4. Results of Query for Total Population of Selected States: 2016
+
+Source: U.S. Census Bureau, <https://api.census.gov/data/2016/acs/acs1?get=NAME,B01001_001E&for=state:01,06,44>. 
+
+To query 2016 total population for counties included 
+in the 2016 ACS 1-year data set for California (06), we 
+could use the following string:
+
+<https://api.census.gov/data/2016/acs/acs1?get=NAME
+,B01001_001E&for=county&in=state:06>. 
+
+Note that certain predicates will result in an error 
+(“unknown/unsupported geography hierarchy”) if 
+the specified geographic area is not available in the 
+data set. For example, estimates for small geographic 
+areas with fewer than 20,000 people are only available 
+through the ACS 5-year data.
+
+The predicate “for” limits the search to counties, 
+and the “in” term limits the search to California 
+(&in=state:06). (See Figure 2.5).
+
+Figure 2.5. Results of Query for Total Population of Counties in California: 2016
+
+Source: U.S. Census Bureau, <https://api.census.gov/data/2016/acs/acs1?get=NAME,B01001_001E&for=county&in=state:06>. 
+
+Using the Census Data API With the American Community Survey  11 
+What Data Users Need to Know   11
+
+U.S. Census BureauGroups
+
+You can include up to 50 variables in a single API 
+query, but it is possible to query more than 50 vari-
+ables with a single call using the “groups” function. 
+For example, to query all elements from Table B01001 
+(Sex by Age, for the United States) from the 2016 ACS 
+1-year data, you would use the following string:
+
+That query returns all elements of the Sex by Age 
+Table, with variable names in the first line and data in 
+subsequent lines (see Figure 2.6).
+
+For more information about groups, visit the Census 
+Bureau’s Web page on Groups Functionality.25 
+
+<https://api.census.gov/data/2016/acs/acs1?get 
+=group(B01001)&for=us:*>.
+
+25 U.S. Census Bureau, Developers, Groups Functionality-Pull more 
+
+than 50 variables with 1 call, <www.census.gov/data/developers 
+/updates/groups-functionality.html>.    
+
+Figure 2.6. Results of Query Using the Groups Function to Extract All of the Data From an ACS Table
+
+Source: U.S. Census Bureau, <https://api.census.gov/data/2016/acs/acs1?get=group(B01001)&for=us:*>.
+
+12   Using the Census Data API With the American Community Survey 
+12   What Data Users Need to Know
+
+U.S. Census BureauSample Query: Hmong Population by 
+State
+
+Suppose you needed information on the Hmong 
+population living in each state. How would you use the 
+Census Data API to get that information?
+
+There are many ACS data sets available through the 
+Census Data API. For this example, we focus on the 
+ACS 1-Year Detailed Tables because we need state-
+level data for the most recent year. 
+
+Figure 2.7 provides an example of an API call and its 
+components that could be used for this query. 
+
+Figure 2.7. Components of API Query for Hmong Population by State: 2016
+
+Source: U.S. Census Bureau, <https://api.census.gov/data/2016/acs/acs1?get=NAME,B02015_009E,B02015_009M&for=state:*>.
+
+Here are steps you can use to assemble the 
+components of this query:
+
+variable, B02015_009M, to get the margin of error: 
+"https://api.census.gov/data/2016/acs/acs1?get 
+
+1.  Start your query with the Census Data API Web 
+
+=NAME,B02015_009E,B02015_009M." 
+
+address: "https://api.census.gov/data."
+
+2.  Add the data set year (2016) and name acronym 
+
+for the 1-Year Detailed Tables, and follow this base 
+URL with a question mark:  
+"https://api.census.gov/data/2016/acs/acs1?."
+
+3.  Add variables starting with a get clause, "get=": 
+
+"https://api.census.gov/data/2016/acs/acs1?get=."
+
+4.  Add the variable NAME, which provides the name 
+of the geographic area(s) that you will use to limit 
+your search: 
+"https://api.census.gov/data/2016/acs 
+/acs1?get=NAME."
+
+5.  Find your variable of interest (B02015_009E) by 
+
+searching for “Hmong” among the list of variables 
+for the 2016 ACS 1-Year Detailed Tables.26 
+
+6.  Use a comma to separate the NAME and 
+
+B02015_009E variables. Add an additional 
+
+7.  Add geography using a predicate clause starting 
+
+with an ampersand (&) to separate it from your 
+“get” clause and then a “for=” to identify geo-
+graphic areas of interest:  
+"https://api.census.gov/data/2016/acs/acs1?get 
+
+=NAME,B02016_009E,B02015_009M&for=."
+
+8. 
+
+Identify the geographic area(s) that you need 
+(state) by reviewing the list of geographies avail-
+able for the 2016 ACS 1-Year Detailed Tables.27
+
+9.  Because you need data for all the states, add an 
+asterisk (after a colon) to get all state values: 
+"https://api.census.gov/data/2016/acs/acs1?get 
+=NAME,B02015_009E,B02015_009M&for=state:*."
+
+If you are using an API key, insert “&key=” followed by 
+your key code at the end of your query.
+
+26 U.S. Census Bureau, Census Data API: Variables in  
+<https://api.census.gov/data/2016/acs/acs1/variables.html>. 
+
+27 U.S. Census Bureau, <https://api.census.gov/data/2016/acs/acs1 
+
+/geography.html>.
+
+Using the Census Data API With the American Community Survey  13 
+What Data Users Need to Know   13
+
+U.S. Census BureauThe results of the query are shown in Figure 2.8. In this 
+figure, some of the data cells for Alaska and Delaware 
+include “null” values. This means that there are no data 
+available for a particular query. 
+
+If your query returns an error message with no data, 
+check your spelling, capitalization, and spacing. 
+Correct any errors and run the query again.
+
+Figure 2.8. Results of API Query for the Hmong Population by State: 2016
+
+Note: Data are shown for the first 10 rows. 
+Source: U.S. Census Bureau,<https://api.census.gov/data/2016/acs/acs1?get=NAME,B02015_009E,B02015_009M&for=state:*>. 
+
+14   Using the Census Data API With the American Community Survey 
+14   What Data Users Need to Know
+
+U.S. Census BureauGetting Data for Detailed Population 
+Groups
+
+Suppose you also wanted to get information on 
+the percentage of Hmong Americans with a bach-
+elor’s degree or higher. You could use the Selected 
+Population Profile (SPP) data set to find this informa-
+tion for the nation and for states with relatively large 
+populations of Hmong Americans.
+
+In this query:
+
+•  The “spp?” identifier is included to query results 
+from the Selected Population Profile data set. 
+
+•  S0201_0006E is the variable for total population, 
+POPGROUP is the code for the population group, 
+and POPGROUP_TTL is the name of the popula-
+tion group, as shown in the list of variables for the 
+2016 ACS 1-Year Selected Population Profile.28  
+
+The first step is to find a code that we can use to 
+identify the Hmong subpopulation in the SPP data set. 
+Here is a sample query:
+
+By scrolling through the results of this query, we find 
+that the POPGROUP code for the Hmong alone popu-
+lation is “020” (see Figure 2.9).
+
+<https://api.census.gov/data/2016/acs/acs1/spp
+?get=S0201_0006E,POPGROUP,POPGROUP_
+TTL,NAME&for=us:*>.
+
+28 U.S. Census Bureau, Census Data API: Variables in <https://api 
+
+.census.gov/data/2016/acs/acs1/spp/variables.html>. 
+
+Figure 2.9. Results of API Query for Population Groups: 2016
+
+Note: Data are only displayed for selected rows. 
+Source: U.S. Census Bureau,<https://api.census.gov/data/2016/acs/acs1/spp?get=S0201_0006E,POPGROUP,POPGROUP 
+_TTL,NAME&for=us:*>.
+
+Using the Census Data API With the American Community Survey  15 
+What Data Users Need to Know   15
+
+U.S. Census BureauNow that we know the code for the Hmong population, 
+we can get data on the share of Hmong Americans 
+with a bachelor’s degree or higher nationwide:
+
+<https://api.census.gov/data/2016/acs/acs1/spp?get 
+=S0201_0099E,POPGROUP,POPGROUP_TTL,NAME&f
+or=us:*&POPGROUP=020>.    
+
+Here is a similar query for states:
+
+<https://api.census.gov/data/2016/acs/acs1/spp?get 
+=S0201_0099E,POPGROUP,POPGROUP_TTL,NAME 
+&for=state:*&POPGROUP=020>.    
+
+The results from the U.S. query show that 18 percent of 
+Hmong Americans aged 25 and older had a bachelor’s 
+degree or higher in 2016. Because of the relatively 
+small Hmong population in many states, state-level 
+SPP data on the Hmong population are only available 
+for California and Minnesota (see Figure 2.10).
+
+You can find other examples of queries for this data set 
+by clicking the link in the “Examples” column on the 
+API “datasets” page, which will take you to the exam-
+ples page here: <https://api.census.gov/data/2016/acs 
+/acs1/spp/examples.html>.
+
+Figure 2.10. Results of API Query for the Share of Hmong Americans With a Bachelor’s Degree or  
+
+Higher: 2016
+
+Source: U.S. Census Bureau, <https://api.census.gov/data/2016/acs/acs1/spp?get=S0201_0090E,S0201 
+_0099E,POPGROUP,POPGROUP_TTL,NAME&for=state:*&POPGROUP=020>.
+
+16   Using the Census Data API With the American Community Survey 
+16   What Data Users Need to Know
+
+U.S. Census BureauOpening Query Results in a Spreadsheet
+
+From your browser, you can save query results as a .csv file to work with the file in other programs. Here are the 
+steps to open your query results in a spreadsheet:
+
+1.  Right click on the page and select “Save As” (see Figure 2.11).
+
+Figure 2.11. Saving the API Query Results
+
+Source: U.S. Census Bureau, <https://api.census.gov/data/2016/acs/acs1?get=NAME,B02015_009E,B02015_009M&for=state:*>.
+
+2.  Save the page as a Comma-Separated Values (CSV) file by adding “.csv” at the end of the file name and 
+
+selecting “All Files” as the file type (see Figure 2.12).
+
+Figure 2.12. Saving the Results as a CSV File
+
+Source: U.S. Census Bureau.
+
+Using the Census Data API With the American Community Survey  17 
+What Data Users Need to Know   17
+
+U.S. Census Bureau3.  Open the CSV file in a spreadsheet for further analysis of the query results (see Figure 2.13).
+
+Figure 2.13. Opening the API Query Results
+
+Source: U.S. Census Bureau.
+
+The Census Bureau’s Webinar on Using the Census API with the ACS provides more detail on how to open and 
+manipulate your results in a spreadsheet.29 
+
+29 U.S. Census Bureau, American Community Survey (ACS), Using the Census API with the American Community Survey Webinar,  
+
+<www.census.gov/programs-surveys/acs/guidance/training-presentations/acs-api.html>. 
+
+18   Using the Census Data API With the American Community Survey 
+18   What Data Users Need to Know
+
+U.S. Census Bureau3. ADDITIONAL RESOURCES
+
+Understanding and Using American Community 
+Survey Data: What All Data Users Need to Know 
+<www.census.gov/programs-surveys/acs/guidance 
+/handbooks/general.html>
+
+API Forums  
+<https://gitter.im/uscensusbureau/home> 
+<https://uscensusbureau.slack.com/messages 
+/C6E9GR962/> 
+
+This handbook provides an overview of the ACS to 
+help data users understand the basics of the survey, 
+how the data can be used, how to judge the accuracy 
+of ACS estimates, and how to access ACS data.
+
+Census Data API User Guide  
+<www.census.gov/data/developers/guidance/api-user 
+-guide.Overview.html>
+
+The purpose of this user guide is to instruct develop-
+ers and researchers on how to use the Census Data 
+Application Programming Interface (API) to request 
+data from Census Bureau data sets.
+
+Webinar: Using the Census API with the American 
+Community Survey  
+<www.census.gov/data/academy/webinars/2019 
+/api-acs.html>
+
+In this Webinar, Census Bureau staff discuss how to 
+access the API, identify ACS variables and geographies 
+to build queries, and locate additional resources.
+
+These Web sites provide forums for developers to 
+share information related to the Census Bureau’s API.
+
+App Gallery 
+<www.census.gov/data/developers/app-gallery.html> 
+
+This Web page highlights a mix of Census Bureau and 
+third-party applications built using the Census Bureau 
+API.
+
+Geography and ACS 
+<www.census.gov/programs-surveys/acs/geography 
+-acs.html>
+
+This Web page includes information about changes in 
+geographic boundaries in the ACS, key concepts and 
+definitions, and reference maps.
+
+Using the Census Data API With the American Community Survey  19 
+What Data Users Need to Know   19
+
+U.S. Census Bureau

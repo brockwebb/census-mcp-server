@@ -1,0 +1,115 @@
+An ofﬁcial website of the United States government Here’s how you know
+
+(cid:0)
+
+   BACK TO TOPICS PAGE [/ACS/WWW/ABOUT/WHY-WE-ASK-EACH-QUES…
+
+We ask questions about the computers and devices that people
+
+use, whether people access the internet, and how people
+
+access the internet to create data about computer and internet
+
+use.
+
+We added these questions in 2013 as a requirement of the
+
+Broadband Data Improvement Act of 2008. They help federal
+
+agencies measure the nationwide development of broadband
+
+access and decrease barriers to broadband access.
+
+Your privacy concerns
+
+We use your conﬁdential survey answers to create statistics like those in the results below and in the full tables that contain all th
+
+data—no one is able to ﬁgure out your survey answers from the statistics we produce. The Census Bureau is legally bound to
+
+strict conﬁdentiality requirements. Individual records are not shared with anyone, including federal agencies and law enforcemen
+
+entities. By law, the Census Bureau cannot share respondents' answers with anyone, including companies, other federal agenci
+
+and law enforcement.
+
+Questions as they appear on the form
+
+We ask three questions that cover the type of computer you use, whether you have internet
+access, and what type of internet access you have.
+
+(cid:0)
+
+   VIEW QUESTIONS
+
+Results from these questions
+
+We compile the results from these questions to provide communities with important statistics to evaluate access to computers an
+the internet. You can see some of these published statistics here for the nation, states, and your community.
+
+United States
+
+Households with a Computer
+
+94.8 percent [https://data.census.gov/table/ACSDP5Y2023.DP02]
+
+Source: Latest ACS 5-Year Estimates
+Data Proﬁles/Social Characteristics [https://data.census.gov/table/ACSDP5Y2023.DP02]
+
+Households with a Broadband Internet Subscription
+
+89.7 percent [https://data.census.gov/table/ACSDP5Y2023.DP02]
+
+Source: Latest ACS 5-Year Estimates
+Data Proﬁles/Social Characteristics [https://data.census.gov/table/ACSDP5Y2023.DP02]
+
+Population 65+ with No Computer in Household
+
+10.1 percent [https://data.census.gov/table/ACSST5Y2023.S2802]
+
+Source: Latest ACS 5-Year Estimates
+Subject Tables: S2802 [https://data.census.gov/table/ACSST5Y2023.S2802]
+
+Is this page helpful?
+
+✕
+
+ Yes 
+
+ No
+
+Computer and internet use data help communities:
+
+Ensure Residents Can Communicate
+
+We ask about computer and internet use to help state and local agencies evaluate access to broadband in their communities.
+
+Schools, libraries, rural health care providers, and other public service providers also use this information. Communities ensure
+
+their residents are connected to assistance programs, emergency services, and important information. These statistics are usefu
+
+to understand whether to use internet or more expensive outreach methods for distributing important public health or safety
+
+information.
+
+Federal agencies use these data to evaluate the extent of access to, and adoption of broadband, with a focus on underserved
+
+areas.
+
+History of computer and internet use questions
+
+Computer and internet use questions were added to the ACS in 2013 and modiﬁed in 2016. Research about this modiﬁcation
+
+[https://www.census.gov/library/working-papers/2017/acs/2017_Lewis_01.html] and copies of previous questionnaires
+[https://www.census.gov/programs-surveys/acs/methodology/questionnaire-archive.2015.html] are available on the ACS website
+
+[https://acsdatacommunity.prb.org/]
+
+Is this page helpful?
+
+✕
+
+ Yes 
+
+ No
+
+

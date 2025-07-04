@@ -1,0 +1,52 @@
+{
+  "B19001B_014E": {
+    "label": "Estimate!!Total:!!$100,000 to $124,999",
+    "concept": "Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) (Black or African American Alone Householder)",
+    "universe": "Unknown"
+  },
+  "B25008D_003E": {
+    "label": "Estimate!!Total:!!Renter occupied",
+    "concept": "Total Population in Occupied Housing Units by Tenure (Asian Alone Householder)",
+    "universe": "Unknown"
+  },
+  "B08119_021E": {
+    "label": "Estimate!!Total:!!Car, truck, or van - carpooled:!!$10,000 to $14,999",
+    "concept": "Means of Transportation to Work by Workers' Earnings in the Past 12 Months (in 2023 Inflation-Adjusted Dollars)",
+    "universe": "Unknown"
+  },
+  "B17022_017E": {
+    "label": "Estimate!!Total:!!Under 1.30:!!Other family:!!Female householder, no spouse present:!!With related children of the householder under 18 years:",
+    "concept": "Ratio of Income to Poverty Level in the Past 12 Months of Families by Family Type by Presence of Related Children Under 18 Years by Age of Related Children",
+    "universe": "Unknown"
+  },
+  "B01001B_029E": {
+    "label": "Estimate!!Total:!!Female:!!65 to 74 years",
+    "concept": "Sex by Age (Black or African American Alone)",
+    "universe": "Unknown"
+  },
+  "B15011_035E": {
+    "label": "Estimate!!Total:!!Female:!!65 years and over:!!Science and Engineering",
+    "concept": "Sex by Age by Field of Bachelor's Degree for First Major for the Population 25 Years and Over",
+    "universe": "Unknown"
+  },
+  "B23008_016E": {
+    "label": "Estimate!!Total:!!6 to 17 years:!!Living with two parents:",
+    "concept": "Age of Own Children Under 18 Years in Families and Subfamilies by Living Arrangements by Employment Status of Parents",
+    "universe": "Unknown"
+  },
+  "B02019_013E": {
+    "label": "Estimate!!Total Groups Tallied:!!Other Native Hawaiian and Other Pacific Islander, not specified",
+    "concept": "Native Hawaiian and Other Pacific Islander Alone or in Any Combination by Selected Groups",
+    "universe": "Unknown"
+  },
+  "B11002C_001E": {
+    "label": "Estimate!!Total:",
+    "concept": "Household Type by Relatives and Nonrelatives for Population in Households (American Indian and Alaska Native Alone)",
+    "universe": "Unknown"
+  },
+  "B20005A_021E": {
+    "label": "Estimate!!Total:!!Male:!!Worked full-time, year-round in the past 12 months:!!With earnings:!!$50,000 to $54,999",
+    "concept": "Sex by Work Experience in the Past 12 Months by Earnings in the Past 12 Months (in 2023 Inflation-Adjusted Dollars) for the Population 16 Years and Over (White Alone)",
+    "universe": "Unknown"
+  }
+}

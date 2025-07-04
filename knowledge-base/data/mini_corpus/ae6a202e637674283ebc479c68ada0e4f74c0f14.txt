@@ -1,0 +1,1800 @@
+Understanding and Using  
+American Community Survey Data
+What the Business Community Needs to Know
+
+Issued October 2020
+
+Acknowledgments 
+
+Linda A. Jacobsen, Vice President, U.S. Programs, Population Reference 
+Bureau (PRB), and Mark Mather, Associate Vice President, U.S. Programs, 
+PRB, drafted this handbook in partnership with the U.S. Census Bureau’s 
+American Community Survey Ofce. Other PRB staf who assisted in 
+drafting and reviewing the handbook include Lillian Kilduf and Paola 
+Scommegna. 
+
+Some of the material in this handbook was adapted from the Census 
+Bureau’s 2008 publication, A Compass for Understanding and Using 
+American Community Survey Data: What the Business Community Needs to 
+Know, drafted by Kenneth Hodges. American Community Survey data users 
+who provided feedback and case studies for this handbook include: Marcela 
+Alvarez, Kirby Brady, Rob Galbraith, Svenja Gudell, Kenneth Hodges, Aaron 
+Terrazas, and Stephen Tordella. 
+
+Nicole Scanniello, Gretchen Gooding, and Charles Gamble, Census Bureau, 
+contributed to the planning and review of this handbook series. 
+
+The American Community Survey program is under the direction of Albert E. 
+Fontenot Jr., Associate Director for Decennial Census Programs, Deborah M. 
+Stempowski, Assistant Director for Decennial Census Programs, and Donna M. 
+Daily, Chief, American Community Survey Ofce. 
+
+Other individuals from the Census Bureau who contributed to the review and 
+release of these handbooks include: Andrew Hait, Michael Starsinic, Janice 
+Valdisera, Edward Welniak, and Ellen Wilson. 
+
+Faye Brock, Linda Chen, and Christine Geter provided publication 
+management, graphic design and composition, and editorial review for print 
+and electronic media under the direction of Janet Sweeney, Chief of the 
+Graphic and Editorial Services Branch, Public Information Ofce. 
+
+ 
+ 
+  
+ 
+ 
+Understanding and Using 
+American Community Survey Data 
+What the Business Community Needs to Know 
+
+Issued October 2020 
+
+U.S. Department of Commerce 
+Wilbur Ross, 
+Secretary 
+
+Karen Dunn Kelley, 
+Deputy Secretary 
+
+U.S. CENSUS BUREAU 
+Steven Dillingham, 
+Director 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Suggested Citation
+
+  U.S. Census Bureau, 
+Understanding and Using 
+American Community Survey 
+Data: What the Business 
+Community Needs to Know, 
+U.S. Government Publishing Ofce, 
+Washington, DC, 2020. 
+
+U.S. CENSUS BUREAU 
+Steven Dillingham, 
+Director 
+
+Ron Jarmin, 
+Deputy Director and Chief Operating Ofcer 
+
+Albert E. Fontenot Jr., 
+Associate Director for Decennial Census Programs 
+
+Deborah M. Stempowski, 
+Assistant Director for Decennial Census Programs 
+
+Donna M. Daily, 
+Chief, American Community Survey Ofce 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents 
+
+1. How Businesses Use ACS Data  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .2 
+
+2. ACS Data Products for Business Uses  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .5 
+
+3. Case Studies Using ACS Data  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .9 
+
+4. Additional Resources . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  32 
+
+Understanding and Using American Community Survey Data   iii 
+iii 
+
+What the Business Community Needs to Know 
+
+U.S. Census Bureau 
+    
+ 
+This page is intentionally blank. 
+
+UNDERSTANDING AND USING AMERICAN 
+COMMUNITY SURVEY DATA: 
+WHAT THE BUSINESS COMMUNITY NEEDS TO 
+KNOW 
+
+Suppose a restaurant owner wants to determine the 
+best location to start a new franchise. Managers at an 
+engineering frm want to expand their business but 
+need more information about the local workforce. A 
+clothing retailer needs information about potential cus-
+tomers before opening a new store, distribution center, 
+or warehouse. Where can businesses fnd the data they 
+need to make informed decisions? 
+
+The U.S. Census Bureau’s American Community Survey 
+(ACS) provides corporations, small businesses, and 
+individuals the detailed social, economic, housing, and 
+demographic data they need to gauge the sales poten-
+tial of products and services, better understand the 
+workforce, and set strategies for growth. 
+
+This guide provides a brief overview of how businesses 
+are using ACS data to stay competitive, run efciently, 
+and meet customers’ needs. For many business appli-
+cations, the focus is not on the ACS data themselves 
+but on marketing products built from them. Many 
+third-party data providers incorporate ACS data into 
+business-friendly products, maps, and reports that help 
+businesses with site selection, consumer segmentation, 
+inventory and category management, and other strate-
+gies. But whether the focus is on ACS data accessed 
+from the Census Bureau’s Web site or derived, third-
+party products, business users should be aware of 
+the opportunities and challenges presented by ACS 
+data—particularly when working with data for small 
+geographic areas. 
+
+What Is the ACS? 
+
+The ACS is a nationwide survey designed to provide 
+communities with reliable and timely social, economic, 
+housing, and demographic data every year. A sepa-
+rate annual survey, called the Puerto Rico Community 
+Survey (PRCS), collects similar data about the popu-
+lation and housing units in Puerto Rico. The Census 
+Bureau uses data collected in the ACS and the PRCS 
+
+to provide estimates on a broad range of population, 
+housing unit, and household characteristics for states, 
+counties, cities, school districts, congressional districts, 
+census tracts, block groups, and many other geo-
+graphic areas. 
+
+The ACS has an annual sample size of about 3.5 million 
+addresses, with survey information collected nearly 
+every day of the year. Data are pooled across a calen-
+dar year to produce estimates for that year. As a result, 
+ACS estimates refect data that have been collected 
+over a period of time rather than for a single point in 
+time as in the decennial census, which is conducted 
+every 10 years and provides population counts as of 
+April 1 of the census year. 
+
+ACS 1-year estimates are data that have been col-
+lected over a 12-month period and are available for 
+geographic areas with at least 65,000 people. Starting 
+with the 2014 ACS, the Census Bureau also produces 
+“1-year Supplemental Estimates”—simplifed versions 
+of popular ACS tables—for geographic areas with at 
+least 20,000 people. The Census Bureau combines 5 
+consecutive years of ACS data to produce multiyear 
+estimates for geographic areas with fewer than 65,000 
+residents. These 5-year estimates represent data col-
+lected over a period of 60 months. 
+
+For more detailed information about the ACS—how 
+to judge the accuracy of ACS estimates, understand-
+ing multiyear estimates, knowing which geographic 
+areas are covered in the ACS, and how to access 
+ACS data on the Census Bureau’s Web site—see the 
+Census Bureau’s handbook, Understanding and Using 
+American Community Survey Data: What All Data Users 
+Need to Know.1 
+
+1 U.S. Census Bureau, Understanding and Using American 
+Community Survey Data: What All Data Users Need to Know, 
+<www.census.gov/programs-surveys/acs/guidance/handbooks 
+/general.html>. 
+
+Understanding and Using American Community Survey Data   1 
+1 
+
+What the Business Community Needs to Know 
+
+U.S. Census Bureau 
+    
+ 
+ 
+ 
+ 
+  
+ 
+ 
+1. HOW BUSINESSES USE ACS DATA 
+
+Using ACS Estimates for Site Selection 
+
+Businesses need up-to-date information about their 
+potential customers before creating a new business or 
+expanding an existing one. Site selection—the evalua-
+tion of business needs measured against the merits of 
+potential locations—is a complex process that requires 
+detailed information about local communities. As 
+the premier source of social, economic, housing, and 
+demographic estimates for local areas, the American 
+Community Survey (ACS) provides businesses with a 
+wealth of free information that they can use for select-
+ing a new location or for evaluating the performance 
+of existing locations:     
+
+•  Social and economic characteristics (e.g., educa-
+tional attainment, employment status, language 
+spoken at home, and income). 
+
+•  Housing characteristics (e.g., homeownership, 
+housing costs, average household size, age of 
+housing, and computer/Internet use). 
+
+•  Demographic characteristics (e.g., age, sex, and 
+
+family structure). 
+
+Many businesses also need workers with specifc 
+degrees and need to know where those workers live, 
+how long it takes them to get to work, and whether 
+they drive or take public transportation. The ACS 
+provides detailed information about the population 
+and workforce in local communities that can help busi-
+nesses choose appropriate locations for a new store, 
+ofce, or warehouse, including: 
+
+•  Labor force status (e.g., employment, unemploy-
+
+ment, and full-time/part-time status). 
+
+•  Means of transportation to work and travel time to 
+
+work. 
+
+• 
+
+Income and occupation (e.g., household income, 
+earnings, occupation, and industry). 
+
+•  Education (e.g., highest level of education and feld 
+
+of bachelor’s degree). 
+
+Some businesses analyze ACS data directly to inform 
+decisions about site selection, but third parties 
+often help businesses access the ACS data that they 
+need. For example, the Greater Houston Partnership 
+uses ACS data to help businesses understand how 
+Houston’s population is changing and to encourage 
+economic development.2 In Maryland, the Charles 
+
+2 U.S. Census Bureau, Stats in Action: Greater Houston Partnership 
+
+Uses ACS Data, 2011, <www.census.gov/library/video/sia_greater 
+_houston.html>. 
+
+County Department of Economic Development ana-
+lyzes ACS data to help local businesses make informed 
+decisions that could increase sales, add jobs, and 
+expand operations.3 The U.S. Census Bureau’s State 
+Data Centers can also help businesses access ACS and 
+other data for decision-making.4 
+
+Because ACS data for small geographic areas (such as 
+census tracts, which generally have a population size 
+between 1,200 and 8,000 people) are only available in 
+the form of 5-year estimates, many businesses rely on 
+proprietary single-year estimates and 5-year demo-
+graphic projections for these areas provided by private 
+sector marketing information frms. For example, to 
+select the best site for expansion, a business may pre-
+fer to analyze estimates of the number of households 
+with children for block groups (statistical divisions of 
+census tracts that typically contain between 600 and 
+3,000 people) in 2019 combined with projections of 
+the number of such households in 2024, rather than 
+rely on ACS estimates of households with children 
+in 2014–2018. Single-year estimates are particularly 
+important for areas experiencing recent growth or 
+decline, but year-to-year changes are difcult to dis-
+cern with 5-year estimates. While most private-sector 
+data suppliers acknowledge the use and value of ACS 
+data in the production of their proprietary demo-
+graphic estimates and projections, many businesses 
+that use these data are unaware of the important con-
+tribution of ACS estimates to these products.  
+
+For more information about ACS multiyear esti-
+mates, see the section on “Understanding and Using 
+ACS Single-Year and Multiyear Estimates” in the 
+Census Bureau’s handbook, Understanding and Using 
+American Community Survey Data: What All Data 
+Users Need to Know.5 
+
+Using ACS Estimates for Consumer 
+Segmentation 
+
+ACS estimates are also used for consumer segmen-
+tation—the process of dividing potential customers 
+into groups, or segments, based on their distinctive 
+characteristics. Consumer segmentation data provide 
+businesses with unique insights into customer lifestyles 
+and behaviors, and how they vary across diferent 
+communities. They help businesses fnd their “ideal 
+
+3 Charles County Department of Economic Development Charles 
+
+County by the Numbers, <www.meetcharlescounty.com/charles 
+-county-by-the-numbers/>. 
+
+4 U.S. Census Bureau, State Data Center (SDC) Program, 
+
+<www.census.gov/about/partners/sdc.html>. 
+
+5 U.S. Census Bureau, Understanding and Using American 
+Community Survey Data: What All Data Users Need to Know, 
+<www.census.gov/programs-surveys/acs/guidance/handbooks 
+/general.html>. 
+
+2   Understanding and Using American Community Survey Data 
+2  What the Business Community Needs to Know 
+
+U.S. Census Bureau 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+customers” and determine the best ways to market 
+specifc products and services to them. Community 
+segmentation profles can also help businesses under-
+stand why some existing or potential locations may 
+perform better than others. 
+
+Consumer segmentation systems are widely used in 
+the private sector because they enable more precise 
+identifcation and targeting of potential customers 
+than demographic data alone. Data are often provided 
+for very small geographic areas—such as ZIP codes— 
+and may be derived from a combination of ACS esti-
+mates and data from other public and private sources.6 
+However, given the proprietary nature of these sys-
+tems, the exact role of ACS data in the production of 
+these systems is unclear. 
+
+For more information about how businesses use ACS 
+data, see the U.S. Department of Commerce report 
+The Value of the American Community Survey: Smart 
+Government, Competitive Businesses, and Informed 
+Citizens.7 
+
+Using ACS Estimates for Small 
+Geographic Areas 
+
+Businesses often need data for very small areas, and 
+the ACS is the most authoritative source of annual 
+small-area estimates available. However, because the 
+ACS is based on a sample, rather than on all hous-
+ing units and people, ACS estimates have a degree of 
+uncertainty associated with them, called sampling error. 
+
+TIP:  Sampling  error  is  minimal  for  large  geographic 
+areas and population groups, but there may be large 
+errors  associated  with  estimates  based  on  a  small 
+subset of the sample. 
+
+The suitability of ACS estimates for businesses 
+depends on the application and the level of certainty 
+required. 
+
+Some businesses may use ACS estimates for individual 
+block groups or markets consisting of one or a few 
+block groups. For example, a fast-food business might 
+consider the size and characteristics of the population 
+in a three-block group area to be critical to the success 
+of a location. However, ACS estimates on age, income, 
+and employment may be too uncertain to support a 
+decision to establish a franchise at that location. Data 
+users should examine the margins of error (MOEs) 
+reported for the geographic areas they use to gauge 
+
+6 See, for example, Esri, Tapestry Segmentation, <www.esri.com 
+
+/landing-pages/tapestry>; and Claritas, ZIP code Look-up, 
+<https://claritas360.claritas.com/mybestsegments/#zipLookup>. 
+
+7 U.S. Department of Commerce, Economics & Statistics 
+
+Administration, 2015, The Value of the American Community Survey: 
+Smart Government, Competitive Businesses, and Informed Citizens, 
+<www.commerce.gov/news/reports/2015/05/value-american 
+-community-survey-smart-government-competitive-businesses 
+-and>. 
+
+the level of uncertainty involved. If geographic areas 
+are aggregated together, data users should calculate 
+and examine the MOE for the derived estimate. 
+
+Many third-party data suppliers do not report MOEs 
+with their ACS-based estimates and may further adjust 
+ACS estimates to match single-year population and 
+housing unit control totals. Therefore, the uncertainty 
+around these custom estimates may be considerably 
+greater than that of the original ACS estimates from 
+which they are derived. 
+
+In the absence of data on individual consumers, 
+businesses may sometimes use block group charac-
+teristics as a proxy. For example, a publisher might 
+have the name, address, and billing history of current 
+subscribers to one magazine but need to append 
+income, presence of children, and education data to 
+these subscriber records to target prospects for a new 
+publication. Because each subscriber’s address cor-
+responds to a block group, the publisher might infer 
+these characteristics based on the characteristics of 
+the block groups where subscribers live. This approach 
+is error prone even if block group data are perfectly 
+accurate, and the error associated with ACS estimates 
+adds additional uncertainty. 
+
+For these reasons, many businesses tap the resources 
+of household-level databases that are available from 
+commercial suppliers. These databases have their own 
+errors and often include a limited number of variables, 
+so the temptation to use the characteristics of indi-
+vidual block groups persists.  
+
+However, ACS estimates for block groups have a high 
+degree of uncertainty. The ACS might indicate that 58 
+percent of households in a block group have a child 
+when the (unknown) reality is only 29 percent. Clearly, 
+it would be a mistake to market to this block group 
+as one with many children. But marketing eforts 
+are not confned to a single block group, and a busi-
+ness might conclude that, across thousands of block 
+groups, inferences of this type might work well enough 
+to outperform alternatives such as targeting based on 
+county data or untargeted blanket mailings. It is up to 
+individual businesses to know the requirements of their 
+applications, and to understand the limitations of ACS 
+data before committing to applications of this type. 
+
+For more information about sampling error in the 
+ACS, see the chapters on “Understanding Error and 
+Determining Statistical Signifcance” and “Calculating 
+Measures of Error for Derived Estimates” in the 
+Census Bureau’s handbook, Understanding and Using 
+American Community Survey Data: What All Data 
+Users Need to Know.8 
+
+8 U.S. Census Bureau, Understanding and Using American 
+Community Survey Data: What All Data Users Need to Know, 
+<www.census.gov/programs-surveys/acs/guidance/handbooks 
+/general.html>. 
+
+Understanding and Using American Community Survey Data   3 
+What the Business Community Needs to Know  3 
+
+U.S. Census Bureau 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Using ACS Data on Population and 
+Housing Counts 
+
+Many businesses, such as commercial developers, seek 
+areas of rapid population and housing growth for their 
+untapped potential and attractive demographics. 
+
+which may lead to errors in the population and hous-
+ing unit estimates. In such cases, data users are again 
+encouraged to rely more upon noncount statistics, 
+such as percent distributions or averages. Many busi-
+nesses also rely on third-party private organizations 
+to provide them with value-added ACS data for these 
+small geographic areas.    
+
+TIP: Data users need to understand that the ACS was 
+designed to provide estimates of the characteristics of 
+the population, not to provide counts of the population 
+in diferent geographic areas or population subgroups. 
+
+For more information about ACS methods, visit the 
+Census Bureau’s Design and Methodology Report Web 
+page.12 
+
+Using ACS Estimates as Building Blocks 
+for Larger Geographic Areas 
+
+Applications that use small areas as building blocks 
+to form business-specifc trade areas should be well 
+served by ACS data. Companies may use data supplied 
+by private organizations to examine demographic data 
+for custom areas such as 3-mile radii around store 
+locations, 20-minute drive times to bank branches, or 
+telecommunications service areas. 
+
+In some cases, data users will need to construct cus-
+tom ACS estimates by combining data across multiple 
+geographic areas or population subgroups, or it may 
+be necessary to derive a new percentage, proportion, 
+or ratio from published ACS data. 
+
+TIP: One way to address the issue of unreliable esti-
+mates for individual census tracts or block groups is to 
+aggregate geographic areas, yielding larger samples 
+and more reliable estimates.  
+
+In such cases, additional calculations are needed to 
+produce MOEs and standard errors (SEs), and to 
+conduct tests of statistical signifcance for the derived 
+estimates. For more information, see the section on 
+“Calculating Measures of Error for Derived Estimates” 
+in the Census Bureau’s handbook, Understanding and 
+Using American Community Survey Data: What All 
+Data Users Need to Know.13 
+
+Therefore, data users are encouraged to rely more 
+upon noncount statistics, such as percent distributions 
+or averages, when using ACS estimates. 
+
+The Census Bureau’s Population Estimates Program 
+produces and disseminates the ofcial estimates of the 
+population for the nation, states, counties, cities and 
+towns, and estimates of housing units for states and 
+counties.9 For 2010 and other decennial census years, 
+the decennial census provides the ofcial counts of 
+population and housing units.10 
+
+As with most household surveys, the ACS data are 
+controlled so that the numbers of housing units and 
+people in certain categories agree with the Census 
+Bureau’s ofcial estimates from the Population 
+Estimates Program. The ACS uses a weighting method 
+to ensure that ACS estimates are consistent with of-
+cial Census Bureau population estimates by age, sex, 
+race, and Hispanic origin—as well as with estimates 
+of total housing units. ACS estimates are controlled 
+to ofcial population and housing units at the county 
+level. ACS single-year estimates are controlled to pop-
+ulation and housing unit estimates as of July 1 of the 
+survey year, while ACS 5-year estimates are controlled 
+to the average of the July 1 population and housing 
+unit estimates over the 5-year period.11 
+
+Starting with the 2009 survey, ACS estimates of the 
+total population of incorporated places (self-governing 
+cities, towns, or villages) and minor civil divisions (such 
+as townships) are also adjusted so that they are con-
+sistent with ofcial population estimates. 
+
+However, ACS data for small statistical areas (such as 
+census tracts and block groups) have no control totals, 
+
+9 Census Bureau, Population and Housing Unit Estimates, 
+
+<www.census.gov/programs-surveys/popest.html>. 
+
+10 See, for example, the U.S. Census Bureau, Census of Population 
+
+12 U.S. Census Bureau, American Community Survey Design and 
+
+and Housing, CPH-2, Population and Housing Unit Counts report 
+series, <www.census.gov/prod/www/decennial.html>. 
+
+Methodology Report, <www.census.gov/programs-surveys/acs 
+/methodology/design-and-methodology.html>. 
+
+11 In order for the ACS to make use of the best available population 
+
+estimates as controls, the multiyear weighting uses the population 
+estimates of the most recent vintage—or version—for all years in the 
+period in order to derive the multiyear controls. 
+
+13 U.S. Census Bureau, Understanding and Using American 
+Community Survey Data: What All Data Users Need to Know, 
+<www.census.gov/programs-surveys/acs/guidance/handbooks 
+/general.html>. 
+
+4   Understanding and Using American Community Survey Data 
+4  What the Business Community Needs to Know 
+
+U.S. Census Bureau 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.  ACS DATA PRODUCTS FOR BUSINESS USES 
+
+Census Business Builder 
+
+In September 2015, the U.S. Census Bureau launched 
+a new data product for the business community: 
+Census Business Builder.14 As its name implies, Census 
+Business Builder is designed for users needing data to 
+help start or grow a business or to better understand 
+an area’s business landscape. The data can be used in 
+determining potential locations for new businesses or 
+in creating a business plan for investors. 
+
+There are two editions of Census Business Builder: 
+the Small Business Edition and the Regional Analyst 
+Edition.15 
+
+The Small Business Edition was developed primarily for 
+small business owners who need data for their busi-
+ness plans or to better understand their potential mar-
+ket, but large businesses can also fnd data for their 
+industries by using the Search tool. The tool includes 
+the following data: 
+
+•  Social, economic, housing, and demographic data 
+
+from the ACS. 
+
+•  Business data from the County Business Patterns, 
+
+Nonemployer Statistics, the Economic Census, and 
+the Survey of Business Owners. 
+
+•  Labor force data from the Quarterly Workforce 
+
+Indicators program. 
+
+14 U.S. Census Bureau, Census Business Builder (CBB), 
+
+<www.census.gov/data/data-tools/cbb.html>. 
+
+15 U.S. Census Bureau, Census Business Builder: Small Business 
+Edition - 3.1.0, <https://cbb.census.gov/sbe/#>; and Regional Analyst 
+Edition - 3.1.0, <https://cbb.census.gov/rae/#>. 
+
+•  Employment and Wages data from the Bureau of 
+Labor Statistics’ Quarterly Census of Employment 
+and Wages. 
+
+• 
+
+Imports and Exports data from the International 
+Trade program. 
+
+•  Consumer spending data from Esri (a company 
+
+that provides GIS mapping software). 
+
+•  Farms data from the Census of Agriculture, USDA. 
+
+In July 2017, a new feature was added that allows users 
+to upload and map their own data. More information 
+about uploading data and instructions are available on 
+the Census Business Builder Web page.16 
+
+The Small Business Edition provides easy access to 
+information about potential customers and similar 
+businesses. For example, the map and data dashboard 
+displayed in Figure 2.1 present information about the 
+share of adults with a bachelor’s degree or higher 
+in Fairfax County, Virginia, and other counties in the 
+Washington, DC, area combined with other social, eco-
+nomic, and housing data from the ACS and data on the 
+total number of Systems Design establishments (busi-
+nesses providing IT expertise). The variable displayed 
+on the map can be changed using the Map Variables 
+menu on the top toolbar, and the Filter menu allows 
+the user to identify specifc areas that meet their own 
+criteria. Data in the map can be downloaded as an 
+Excel, .csv, or shapefle using the download button 
+located in the upper right corner of the map. 
+
+16 U.S. Census Bureau, Census Business Builder (CBB), 
+
+<www.census.gov/data/data-tools/cbb.How_Tos.html>. 
+
+Why this tool may be right for you 
+
+Why you may want to consider another tool 
+
+You want to open a new business or expand an existing 
+business. 
+
+The data are limited to states, counties, places, ZIP codes, 
+and census tracts. 
+
+The tool combines American Community Survey (ACS) 
+data with economic data to guide your research. 
+
+Results include only a subset of all ACS topics. 
+
+Interactive maps allow you to select areas and compare 
+results to those of neighboring areas. 
+
+Reports are downloadable and printable. 
+
+Understanding and Using American Community Survey Data   5 
+What the Business Community Needs to Know  5 
+
+U.S. Census Bureau 
+    
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The interactive and customizable dashboard includes 
+charts that show historical data for many of the 
+mapped data variables as well as a comparison of the 
+selected area to the state and nation (see Figure 2.2). 
+Users can change map variables in the dashboard by 
+
+clicking the edit icons (pencils) located below each 
+statistic on the right side of the dashboard. 
+
+After exploring the data on the map, users can also 
+create Local Business Profle reports (by clicking the 
+Create Report link) that include all the map variables. 
+
+Figure 2.1.  Sample Map From Census Business Builder: Small Business Edition 
+
+Source: U.S. Census Bureau, Census Business Builder: Small Business Edition - 3.0, <https://cbb.census.gov/sbe/#>. 
+
+  Figure 2.2. Sample Dashboard From Census Business Builder: Small Business Edition 
+
+Source: U.S. Census Bureau, Census Business Builder: Small Business Edition - 3.0, <https://cbb.census.gov/sbe/#>. 
+
+6   Understanding and Using American Community Survey Data 
+6  What the Business Community Needs to Know 
+
+U.S. Census Bureau 
+   
+ 
+  
+ 
+Users can click on “My Potential Customers” on the 
+left side of the page to display demographic, socio-
+economic, and housing estimates for the selected 
+geographic area (see Figure 2.3). Reports are also 
+available on Businesses and Consumer Spending. 
+Users can display margins of error for estimates by 
+checking the box at the top of the page. 
+
+The demographic and consumer spending data are 
+available at the state, county, city/town, ZIP code, and 
+census tract levels; economic data are available at the 
+state, county, and city/town levels; and agriculture and 
+trade data are available at the state level only. 
+
+The “ZIP code” data in Census Business Builder com-
+bine ZIP code Tabulation Area (ZCTA) data from the 
+ACS with ZIP code data from other sources. ZCTAs are 
+aggregations of census blocks that form “generalized 
+areal representations of United States Postal Service 
+(USPS) ZIP code service areas.”17 Many businesses use 
+data for ZIP codes to design marketing campaigns 
+
+17 U.S. Census Bureau, ZIP code Tabulation Areas (ZCTAs), 
+
+<www.census.gov/programs-surveys/geography/guidance/geo-areas 
+/zctas.html>. 
+
+based on the characteristics of people living in difer-
+ent mail delivery areas. 
+
+USPS ZIP codes represent a collection of mail delivery 
+routes rather than geographic areas with clear bound-
+aries. While ZIP codes for sets of mailing addresses 
+may be changed every year by USPS, the Census 
+Bureau only updates ZCTA defnitions periodically. For 
+example, the most recent ZCTA defnitions are from 
+2010. In contrast, many private data suppliers update 
+their ZIP code defnitions/areas at least once a year. 
+
+The Regional Analyst Edition of Census Business 
+Builder was developed primarily for chambers of 
+commerce, regional planners, and others who need a 
+broader portrait of the people and businesses in their 
+service area. It presents data for all sectors of the 
+economy and for user-defned regions based on com-
+binations of states, counties, cities/towns, ZIP codes, 
+and tracts. You can also build regions by combining 
+diferent types of geographic areas. 
+
+Figure 2.3.  Sample Local Business Profle From Census Business Builder: Small Business Edition 
+
+Source: U.S. Census Bureau, Census Business Builder: Small Business Edition - 3.0, <https://cbb.census.gov/sbe/#>. 
+
+Understanding and Using American Community Survey Data   7 
+What the Business Community Needs to Know  7 
+
+U.S. Census Bureau 
+    
+ 
+ 
+ 
+  
+A sample map showing the percentage of individuals 
+with a bachelor’s degree or higher for the Washington, 
+DC Metro area that was created with the Regional 
+Analyst Edition is shown in Figure 2.4. 
+
+data.census.gov and obtain selected Detailed Tables, 
+Data Profles, and Subject Tables for the Sioux City, 
+Omaha, and Lincoln metropolitan areas to determine 
+which area is the best candidate for an initial expansion. 
+
+The Regional Analyst Edition includes the same 
+interactive and customizable data dashboard, down-
+load options, and map features as the Small Business 
+Edition. 
+
+Data.census.gov and Other Data Sources 
+
+Businesses with occasional or limited data needs will 
+be well served by the prepackaged ACS data prod-
+ucts available through data.census.gov—the Census 
+Bureau’s primary tool for accessing data from the 
+ACS, the Puerto Rico Community Survey, the decen-
+nial census, and many other Census Bureau data sets.18 
+Data.census.gov provides access to ACS data for a 
+wide range of geographic areas, including states, cities, 
+counties, census tracts, and block groups. 
+
+Many ACS products available through data.census.gov 
+function best as a lookup tool. If data users have a few 
+areas in mind and want specifc data and maps for those 
+areas, they can access the relevant ACS product. For 
+example, a small Des Moines-based retailer could go to 
+
+18 U.S. Census Bureau, data.census.gov, <https://data.census.gov>. 
+
+Other business users may need to access ACS esti-
+mates for many geographic areas across the country. 
+For example, a real estate frm could download ACS 
+data every year to help monitor the demographics in 
+a large number of sites defned as aggregations of 
+block groups. A fnancial services provider with data 
+on the age and mortgage status of its customers might 
+use ACS Public Use Microdata Sample data to build a 
+model estimating the likelihood that its customers have 
+children approaching college age. Or a business might 
+use ACS data on housing costs as a percentage of 
+income to identify neighborhoods where homeowners 
+face difculty in making house payments. 
+
+These more advanced users also have several options 
+to access more detailed ACS data through download-
+able Summary Files, the Public Use Microdata Sample 
+Files, or the Census Bureau’s Application Programming 
+Interface (API).19 
+
+19 U.S. Census Bureau, American Community Survey (ACS), 
+Summary File Data, <www.census.gov/programs-surveys/acs/data 
+/summary-fle.html>; American Community Survey (ACS), Accessing 
+PUMS Data, <www.census.gov/programs-surveys/acs/microdata 
+/access.html>; Developers, <www.census.gov/developers/>. 
+
+Figure 2.4.  Sample Map From Census Business Builder: Regional Analyst Edition 
+
+Source: U.S. Census Bureau, Census Business Builder: Regional Analyst Edition - 3.0, <https://cbb.census.gov/rae/#>.  
+
+8   Understanding and Using American Community Survey Data 
+8  What the Business Community Needs to Know 
+
+U.S. Census Bureau 
+   
+ 
+  
+ 
+ 
+ 
+ 
+  
+3. CASE STUDIES USING ACS DATA 
+
+Case Study #1: San Diego Region: City Data Profle 
+
+Skill Level: Introductory/Intermediate 
+Subject: County- and city-level demographic and socioeconomic data 
+Type of Analysis: Analysis and visualization of American Community Survey (ACS) data trends across the nation, 
+state, county, and subcounty areas 
+Tools Used: Data.census.gov, spreadsheet, data visualization tools 
+Authors: Marcela Alvarez, Research Coordinator, San Diego Regional Economic Development Center (EDC); and 
+Kirby Brady, Research Director, San Diego Regional EDC 
+
+San Diego Regional Economic Development Corporation (EDC) uses a multitude of publicly available data sets 
+coupled with visualization software to create powerful economic development tools that provide clarity and 
+insight into the region’s demographic and economic landscape. As part of a greater initiative to uncover and 
+highlight subregional trends within the county, EDC produced a demographic and socioeconomic profle for the 
+City of San Marcos, California. This profle and accompanying online interactive dashboard were created to bet-
+ter inform business leaders, other decision makers, and the public about the city’s social, economic, and demo-
+graphic characteristics. City-level data can be compared with data for the county, state, and nation to provide 
+additional context. 
+
+We used data from the U.S. Census Bureau’s American Community Survey (ACS) and Longitudinal Employer-
+Household Dynamics (LEHD) program to inform parts of the profle (see Table 3.1). The Census Bureau releases 
+single-year ACS data for geographic areas with 65,000 people or more. Since the City of San Marcos—the small-
+est geographic area under consideration—meets this threshold, we were able to use 1-year estimates throughout 
+the analysis. EDC recognizes that all estimates have an associated level of uncertainty. However, after careful 
+consideration, margins of error were not included in the profle. 
+
+Other data sources used in the profle include the San Diego Association of Governments, Emsi (a labor market 
+analytics frm), the State of California Employment Development Department, and ReferenceUSA.
+
+  Table 3.1.  List of Key Variables and Data Sources 
+
+Variable 
+
+Median household income 
+
+Population below poverty level 
+
+Educational attainment 
+
+Field of bachelor ’s degree 
+
+Median income by industry 
+
+Work destination 
+
+Distance to work 
+
+Data Set 
+
+ACS 1-Year Estimates 
+
+ACS 1-Year Estimates 
+
+ACS 1-Year Estimates 
+
+ACS 1-Year Estimates 
+
+ACS 1-Year Estimates 
+
+LEHD OnTheMap 
+
+LEHD OnTheMap 
+
+Understanding and Using American Community Survey Data   9 
+What the Business Community Needs to Know  9 
+
+U.S. Census Bureau 
+    
+ 
+ 
+ 
+ 
+To obtain the desired data, use the data.census.gov “Advanced Search” option, as follows: 
+
+•  Go to the data.census.gov Web site at <https://data.census.gov>. 
+
+•  Select “Advanced Search” below the search bar (see Figure 3.1). 
+
+  Figure 3.1.  Selecting Advanced Search in Data.census.gov 
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>. 
+
+10   Understanding and Using American Community Survey Data 
+10  What the Business Community Needs to Know 
+
+U.S. Census Bureau 
+   
+ 
+ 
+•  Select “Geography” in the navigation pane on the left side of the screen to display a list of available geog-
+
+raphies (see Figure 3.2). 
+
+•  Select “Place,” then “California.” From here, you can scroll to select “San Marcos city, California” or you 
+
+can use the magnifying glass icon to search for places within California. This geography will appear in the 
+“Selected Filters” at the bottom of the page. 
+
+Figure 3.2.  Selecting Geographic Areas in Data.census.gov 
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>. 
+
+Understanding and Using American Community Survey Data   11 
+11 
+
+What the Business Community Needs to Know 
+
+U.S. Census Bureau 
+    
+  
+ 
+ 
+•  Use the Geography flter to add the United States, California, and San Diego County to your selections. At 
+the end of this step, you should have four geographic areas specifed in your “Selected Filters” (see Figure 
+3.3). 
+
+•  Then click on the “Years” flter and select “2017.” The year “2017” should appear next to the previously 
+
+selected geographic areas in “Selected Filters.” For the purposes of this case study, we used 2017 because 
+they were the most recent data available at the time.) 
+
+  Figure 3.3.  Selecting Years and Verifying Selected Filters in Data.census.gov 
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>. 
+
+12   Understanding and Using American Community Survey Data 
+12  What the Business Community Needs to Know 
+
+U.S. Census Bureau 
+   
+ 
+ 
+ •  Since we are interested in the city’s socioeconomic characteristics, we begin by searching for informa-
+
+tion about educational attainment. Select “Topics,” “Education,” and “Educational Attainment.” Then, click 
+“Search” in the lower right corner (see Figure 3.4). 
+
+Figure 3.4.  Selecting the Educational Attainment Topic in Data.census.gov 
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>. 
+
+Understanding and Using American Community Survey Data   13 
+13 
+
+What the Business Community Needs to Know 
+
+U.S. Census Bureau 
+    
+  
+•  Use the descriptive table titles to make your selection. We know we are searching for a summary table, so 
+
+we select the frst result, S1501: “Educational Attainment” (see Figure 3.5).20 
+
+20 Tables beginning with “S” are Subject Tables that focus on particular ACS subjects and include both estimates and percentages. More infor-
+
+mation about Table IDs is available on the Census Bureau’s Web site, <www.census.gov/programs-surveys/acs/guidance/which-data-tool 
+/table-ids-explained.html>. 
+
+Figure 3.5.  Selecting an Educational Attainment Table in Data.census.gov 
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>. 
+
+14   Understanding and Using American Community Survey Data 
+14  What the Business Community Needs to Know 
+
+U.S. Census Bureau 
+   
+ 
+ 
+ 
+  
+•  Next, select “Customize Table” (see Figure 3.6). 
+
+Figure 3.6.  Customizing a Table in Data.census.gov 
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>. 
+
+•  Select “Download” at the top of the window. Then, use the Download Tables window to check the box for 
+
+the 2017 ACS 1-year data. Select “CSV” as the fle type and click on “Download” (see Figure 3.7). 
+
+Figure 3.7.  Selecting the Survey Year(s) and File Type in Data.census.gov 
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>. 
+
+Understanding and Using American Community Survey Data   15 
+15 
+
+What the Business Community Needs to Know 
+
+U.S. Census Bureau 
+    
+  
+ 
+  
+ 
+•  After the fles are prepared, click the “Download Now” button (see Figure 3.8). 
+
+Figure 3.8.  Downloading Tables in Data.census.gov 
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>. 
+
+•  This produces a ZIP fle. Open the ZIP fle to extract your table. The data are located in a fle with prefx 
+
+“ACSST1Y2017.S1501_data_with_overlays” (see Figure 3.9). 
+
+•  We repeat this process for all data.census.gov topics in the profle. 
+
+Figure 3.9.  Portion of Data Table S1501 Downloaded From Data.census.gov 
+
+Source: U.S. Census Bureau, data.census.gov, Table S1501: “Educational Attainment,” <https://data.census.gov>. 
+
+16   Understanding and Using American Community Survey Data 
+16  What the Business Community Needs to Know 
+
+U.S. Census Bureau 
+   
+ 
+  
+  
+ 
+ 
+For data on commuting patterns, we access LEHD data, as follows: 
+
+•  Go to the LEHD Web site at <https://lehd.ces.census.gov/research/>. 
+
+•  Click “OnTheMap” on the left sidebar. This action will open a new window. 
+
+•  Under the “Search” box, type “San Marcos” in the search bar, using the dropdown menu to select “Places” 
+
+as the geography type. Then click “Search.” Be sure to select San Marcos, California, rather than San Marcos, 
+Texas. Our selection refreshes the map view and zooms in to San Marcos (see Figure 3.10). 
+
+•  Use the information bubble next to the location pin to select “Perform Analysis on Selection Area.” 
+
+Figure 3.10.  Searching for a Geographic Area in OnTheMap 
+
+Source: U.S. Census Bureau, OnTheMap, <https://onthemap.ces.census.gov/>. 
+
+Understanding and Using American Community Survey Data   17 
+17 
+
+What the Business Community Needs to Know 
+
+U.S. Census Bureau 
+    
+ 
+ 
+ 
+ 
+  
+•  The “Analysis Settings” window opens, allowing us to refne our search. 
+
+·  Home/Work Area: Since we are interested in understanding commuting patterns, we select “Home.” 
+
+This yields data based on San Marcos’ residents, rather than workers. 
+
+·  Analysis Type: We are interested in understanding where residents work. We select “Destination” and 
+
+“Places” as our destination type. 
+
+·  Year: We select the most recently available data. 
+· 
+
+Job Type: Select “Primary Jobs.” 
+
+•  Once all selections have been made, we click on “Go!” (see Figure 3.11). 
+
+Figure 3.11.  Selecting Variables for Analysis in OnTheMap 
+
+Source: U.S. Census Bureau, OnTheMap, <https://onthemap.ces.census.gov/>. 
+
+18   Understanding and Using American Community Survey Data 
+18  What the Business Community Needs to Know 
+
+U.S. Census Bureau 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+•  The page refreshes and populates our search results. We export the results by selecting “Detailed Report” 
+under the left sidebar’s “Report/Map Outputs” bin and export the data in spreadsheet format (see Figure 
+3.12). 
+
+  Figure 3.12.  Creating a Detailed Report in OnTheMap 
+
+Source: U.S. Census Bureau, OnTheMap, <https://onthemap.ces.census.gov/>. 
+
+Understanding and Using American Community Survey Data   19 
+19 
+
+What the Business Community Needs to Know 
+
+U.S. Census Bureau 
+    
+ 
+Initial analysis was conducted in a spreadsheet, by sorting results from highest to lowest and comparing the city 
+of San Marcos to the county, state, and nation. The resulting charts were created using a mixture of spreadsheets 
+and visualization software. Figure 3.13 illustrates how poverty data were visualized in the dashboard. 
+
+Figure 3.13.  City of San Marcos Community Profle: Poverty 
+
+Source: San Marcos City Hall, San Marcos Regional Profle, <www.san-marcos.net/work/economic-development/community-profle>. 
+
+20   Understanding and Using American Community Survey Data 
+20  What the Business Community Needs to Know 
+
+U.S. Census Bureau 
+   
+  
+Figure 3.14 shows an interactive fow map that was created to visualize the city’s commuting patterns. 
+
+The City of San Marcos Community Profle and interactive dashboard were launched in the fall of 2017. Since 
+then, the dashboard has been actively used by the city and its partners to better inform the region’s business 
+community. In partnership with the city of San Marcos, the EDC plans on updating the profle and dashboard on 
+an annual basis as data become available. Both products can be found on the city of San Marcos Web site.21 
+
+21 San Marcos City Hall, San Marcos Community Profle, <www.san-marcos.net/work/economic-development/community-profle>. 
+
+Figure 3.14.  City of San Marcos Regional Profle: Commuting Patterns 
+
+Source: San Marcos City Hall, San Marcos Community Profle, <www.san-marcos.net/work/economic-development/community-profle>. 
+
+Understanding and Using American Community Survey Data   21 
+What the Business Community Needs to Know  21 
+
+U.S. Census Bureau 
+    
+  
+Case Study #2: Housing Afordability Gap 
+
+Skill Level: Intermediate 
+Subject: Median household income, housing afordability 
+Type of Analysis: Analysis of national housing trends, combining American Community Survey (ACS) data with 
+other sources 
+Tools Used: ACS Public Use Microdata Sample, data.census.gov, and spreadsheet 
+Authors: Svenja Gudell, Chief Economist, Zillow; and Aaron Terrazas, Senior Economist, Zillow 
+
+In the years since the 2007–2009 Financial Crisis, there has been a boom in housing market data available to the 
+public. Each month, Zillow—an online resource for home buyers and renters—produces and publishes over 100 
+housing market data series—including median home values and median rents—aggregated at the national, state, 
+metro, county, ZIP code, and neighborhood levels.22 
+
+Zillow data provide a comprehensive view into the state of the U.S. housing stock, but Zillow’s economic 
+research and data science teams also rely on critical data inputs from the U.S. Census Bureau to analyze the full 
+implications of changing home values and rents for American households. One prominent example is how Zillow 
+combines proprietary data on home values with household income data from the Census Bureau’s American 
+Community Survey (ACS) to explore the share of income that the typical household spends on a monthly mort-
+gage payment. (Zillow also produces a similar statistic for the share of income spent on rent.) 
+
+By the middle of 2016—the most recent data available at the time of this writing—the typical American house-
+hold earning the country’s national median income and buying the median-valued U.S. home could expect to pay 
+15.5 percent of their income on a mortgage. In the nation’s priciest markets—such as San Jose, Los Angeles, and 
+San Francisco—these shares exceed 40 percent. 
+
+However, calculating housing afordability estimates based on median income and median home values by 
+themselves does not provide a complete picture of afordability. Home values and incomes have consistently 
+grown more at the top of the housing market and at the top of the labor market than at the bottom. Increasingly, 
+afordability varies dramatically depending on a given buyer’s income level and the type of home they are trying 
+to buy. 
+
+To illustrate these diverging trends between more afuent and less afuent Americans, Zillow also computes 
+mortgage afordability—the share of income spent on a mortgage—for the bottom, middle, and top one-third of 
+households by income. This more granular (and, some would argue, more powerful) tier analysis is conducted by 
+combining Zillow’s property-level data with ACS microdata. 
+
+Calculating Mortgage Afordability 
+
+To calculate mortgage afordability, Zillow frst estimates the mortgage payment for the median-valued home in 
+a metropolitan statistical area (based on the Zillow Home Value Index for a given quarter) and the 30-year, fxed 
+mortgage interest rate during that quarter (from the Freddie Mac Primary Mortgage Market Survey), assuming 
+a 20 percent down payment. Zillow uses their internal property-level data to estimate mortgage payments, but 
+data users can also access housing data—including home value and mortgage payment estimates—from the 
+ACS. 
+
+Data on median household income are from the Census Bureau’s ACS Public Use Microdata Sample (PUMS). The 
+PUMS fles allow data users to conduct a custom analysis of the ACS data using a sample of actual responses to 
+the survey. They are much more fexible than the aggregate data available on data.census.gov, though the PUMS 
+fles also require familiarity with statistical analysis software. 
+
+With access to appropriate software—the most common are SAS, SPSS, STATA, R, and Python—using the 
+ACS PUMS data is straightforward. Analysts without statistical software can create detailed cross tabulations 
+using the microdata access tool on data.census.gov.23 The Census Bureau created a step-by-step guide on how to 
+use this tool to produce custom estimates from the ACS 1-year PUMS fle.24 
+
+22 Data are published at <www.zillow.com/data>. 
+23 This tool is still under development and is available in beta form on the Census Bureau’s Web site: <https://data.census.gov/mdat/>. 
+24 U.S. Census Bureau, Using Microdata Access, <https://www2.census.gov/data/api-documentation/using-microdata-access/microdata-
+
+access-1-year-acs-pums.pdf>. 
+
+22   Understanding and Using American Community Survey Data 
+22  What the Business Community Needs to Know 
+
+U.S. Census Bureau 
+   
+ 
+ 
+ 
+ 
+ 
+  
+ 
+To download PUMS data, go to the Census Bureau’s ACS PUMS Data “Accessing PUMS Data” Web page and 
+select the desired timeframe for the PUMS data (see Figure 3.15). Data are available from the year 2005 to the 
+present. You can select single-year or multiyear data. The example below uses data from the 2014 ACS 1-year 
+fle. 
+
+Figure 3.15.  ACS PUMS Data Repository 
+
+Source: U.S. Census Bureau, American Community Survey (ACS), Accessing PUMS Data, <www.census.gov/programs-surveys/acs 
+
+/microdata/access.html>. 
+
+Understanding and Using American Community Survey Data   23 
+What the Business Community Needs to Know  23 
+
+U.S. Census Bureau 
+    
+ 
+  
+On the FTP site, click on “1-Year” to access the 2014 ACS 1-year PUMS fles (see Figure 3.16). 
+
+Figure 3.16.  Selecting ACS PUMS File on the Census Bureau’s FTP Server 
+
+Source: U.S. Census Bureau, American Community Survey (ACS), Accessing PUMS Data, <www.census.gov/programs-surveys/acs 
+/microdata/access.2014.html>. 
+
+24   Understanding and Using American Community Survey Data 
+24  What the Business Community Needs to Know 
+
+U.S. Census Bureau 
+   
+ 
+  
+The next step is to download the data set by selecting “csv_hus.zip” (see Figure 3.17). PUMS fles on the Census 
+Bureau’s FTP site are stored as ZIP fles. The naming convention for PUMS fles on the FTP server is based on 
+three fle features: the fle format, the record type, and the state abbreviation. 
+
+Figure 3.17.  ACS PUMS Downloads by Geography (Nation and States) and File (Population and Housing) 
+
+Source: U.S. Census Bureau, FTP server, <https://www2.census.gov/programs-surveys/acs/data/pums/2014/1-Year/>. 
+
+•  File formats are comma-separated value (CSV) fles and SAS data sets for UNIX. 
+
+•  Record types are housing fles (h) or person fles (p). Zillow uses the housing fle. 
+
+•  State (or state equivalent) abbreviations are two letter labels such as “tx” for Texas and “dc” for District of 
+Columbia. The abbreviation for the fle containing all records in the United States is “us.” Zillow uses the 
+United States fle. 
+
+After downloading the fle, Zillow loads the ACS data into R (software for statistical computing) to produce esti-
+mates of monthly owner costs as a percentage of household income for households at diferent income levels. 
+The PUMS Data Dictionary can help you fnd the variable needed for this analysis: HINCP (Household income in 
+the past 12 months).25 
+
+Using the HINCP variable to estimate median household income for households in the bottom one-third of the 
+income distribution, Zillow then assumes that these households purchase a median bottom-tier home (i.e., 16.7th 
+percentile of homes in a metro area) and then calculates the percentage of monthly income that household 
+would have to spend to pay the mortgage.26 
+
+25 U.S. Census Bureau, PUMS Data Dictionary, <www.census.gov/programs-surveys/acs/microdata/documentation.html>. 
+26 For median income used in the overall afordability analysis, Zillow chains the ACS income data forward using the Employment Cost Index 
+(ECI), which is updated quarterly with a one-quarter lag. Income tier data are not directly published in the ECI, so to calculate tiers, Zillow relies 
+on the Consumer Expenditure Survey (CES), which is published with a 1-year lag. For this reason, tier data are only available through Q2 2016, but 
+overall afordability data are available through Q2 2017. 
+
+Understanding and Using American Community Survey Data   25 
+What the Business Community Needs to Know  25 
+
+U.S. Census Bureau 
+    
+  
+ 
+ 
+ 
+  
+The key results from Zillow’s analysis are shown in Figure 3.18. Depending on a given buyer’s household income 
+level and the kind of home they are trying to buy, afordability can vary dramatically. Nationwide, a buyer at the 
+median household income in the bottom one-third of all incomes and who wants to buy a home valued in the 
+bottom one-third of all homes would need to spend 23 percent of their household income on a mortgage as of 
+Q2 2016, the latest quarter for which data were available at the time of this writing. A buyer in the top one-third 
+of household incomes and who wants to buy a more expensive home in the top one-third of homes by value 
+would only spend 11.5 percent of their income on a mortgage. 
+
+Figure 3.18.  Mortgage Afordability by Income Tier 
+
+Source: Svenja Gudell, “Housing Highs & Lows: How the Home Afordability Gap Between the Rich and Poor is Widening,” 
+<www.zillow.com/research/afordability-2016q1-12763/>. 
+
+A decade after the 2007–2009 Financial Crisis and associated housing market bust, there has been a prolifera-
+tion of housing market data available to consumers and researchers. Census Bureau data, particularly from the 
+ACS, are a critical complement to Zillow’s housing market data. 
+
+In an era when the gap in net worth between higher- and lower-wealth households is increasing, medians or 
+averages cannot tell the full story of the American housing market.27 Exploring within the distribution of home 
+values and household incomes—analysis that is possible with Zillow’s property-level home values and the 
+Census Bureau’s ACS PUMS data—allows for a much richer and more complete perspective on what is, for most 
+Americans, their largest single asset.28 
+
+27 U.S. Census Bureau, Gap Between Higher- and Lower-Wealth Households Widens, Census Bureau Reports, <www.census.gov/newsroom 
+
+/press-releases/2014/cb14-156.html>. 
+
+28 Zillow updates this analysis periodically. For the most recent data and analysis, see <www.zillow.com/research>. 
+
+26   Understanding and Using American Community Survey Data 
+26  What the Business Community Needs to Know 
+
+U.S. Census Bureau 
+   
+ 
+ 
+ 
+ 
+  
+ 
+Case Study #3: USAA Potential Market Size Estimation
+
+Skill Level: Introductory/Intermediate 
+Subject: Housing 
+Type of Analysis: Comparisons of American Community Survey (ACS) data over time, across demographic 
+groups, and across states; identifying business market(s) 
+Tools Used: Data.census.gov and spreadsheet  
+Author: Rob Galbraith, Director of Underwriting Research, Property & Casualty Insurance Group, USAA
+
+Rob Galbraith is a director of underwriting research with the Property & Casualty Insurance Company at USAA, 
+a large financial services member-owned association that focuses on serving active duty military, veterans, and 
+their families. The underwriting area is challenged with providing insurance to as many eligible members as pos-
+sible while not taking on excessive exposure to natural hazards that could put the company at risk of bankruptcy. 
+American Community Survey (ACS) data are used at USAA in conjunction with advanced analytics and predic-
+tive modeling to identify segments to target for marketing three of its major lines of business: homeowners 
+insurance, sold to those with owner-occupied homes; renters insurance, sold to those who are renting a dwelling 
+from a landlord who owns the property; and rental property insurance, sold to those who are landlords renting 
+their property to one or more tenants. ACS data are also used to track trends in owner- and renter-occupied 
+housing to target marketing expenditures to achieve profitable growth.
+
+Rob scans the documentation available for the ACS and learns that while single-year data are available for states 
+and many large geographic areas, data for smaller areas with fewer than 65,000 people are only available in 
+5-year tabulations (e.g., 2012–2016). He also learns that there is uncertainty—margin of error—associated with 
+ACS estimates, particularly for smaller geographic areas and small population groups. For this example, Rob is 
+interested in accessing ACS housing data at the state level.
+
+•  Rob navigates to the U.S. Census Bureau’s ACS home page at <www.census.gov/programs-surveys/acs> and 
+
+clicks on the “Data” link on the left side of the page (see Figure 3.19).
+
+  Figure 3.19  Selecting Data From the ACS Home Page
+
+Source: U.S. Census Bureau, American Community Survey (ACS), <www.census.gov/programs-surveys/acs/>.
+
+Understanding and Using American Community Survey Data   27 
+What the Business Community Needs to Know    27
+
+U.S. Census Bureau•  Under the subheading “Data Tables and Tools,” he clicks on “Subject Tables” (see Figure 3.20). 
+
+Figure 3.20.  Selecting ACS Subject Tables 
+
+Source: U.S. Census Bureau, American Community Survey (ACS), <www.census.gov/acs/www/data/data-tables-and-tools 
+/subject-tables/>. 
+
+28   Understanding and Using American Community Survey Data 
+28  What the Business Community Needs to Know 
+
+U.S. Census Bureau 
+   
+ 
+ 
+  
+• 
+
+In the search box near the top right corner of the page, he types in “housing,” navigates to the second page 
+of results, and then selects Table S2504: “Physical Housing Characteristics for Occupied Housing Units” (see 
+Figure 3.21). When he clicks on this link, he is redirected to data.census.gov, the Census Bureau’s primary tool 
+for accessing data from the ACS and many other Census Bureau data sets.
+
+  Figure 3.21.  Searching for ACS Housing Tables
+
+Source: U.S. Census Bureau, American Community Survey (ACS), <www.census.gov/acs/www/data/data-tables-and-tools 
+/subject-tables/>.
+
+•  Next, he clicks on “Customize Table” (see Figure 3.22).
+
+•  The resulting table shows the United States as the default geography, so he selects “Geographies” to change 
+
+the geography filter.
+
+  Figure 3.22.  Customizing a Table in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.  
+
+Understanding and Using American Community Survey Data   29 
+What the Business Community Needs to Know    29
+
+U.S. Census Bureau•  Next, he selects “State,” “All States in United States,” and then closes the window to view the results (see 
+
+Figure 3.23). 
+
+Figure 3.23.  Selecting Geographies in Data.census.gov 
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>. 
+
+•  He selects the desired survey year by clicking on the current “Product” selection. For the purposes of this 
+case study, he is using 2016 ACS 1-year estimates. The header should read “2016 ACS 1-Year Estimates 
+Subject Tables” (see Figure 3.24). 
+
+Figure 3.24.  Changing the Survey Year in Data.census.gov 
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>. 
+
+30   Understanding and Using American Community Survey Data 
+30  What the Business Community Needs to Know 
+
+U.S. Census Bureau 
+   
+  
+  
+ 
+ 
+•  He selects “Download” at the top of the window. 
+
+•  Then, he uses the Download Tables window to check the boxes for the 2016 through 2010 1-year data. Rob 
+
+downloads data for multiple years to assist with the selection of target markets to recommend. 
+
+•  He selects “CSV” as the fle type and clicks on “Download” (see Figure 3.25). 
+
+Figure 3.25.  Selecting ACS Data for Previous Years 
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>. 
+
+Rob opens the CSV fle and copies and pastes the owner-occupied and renter-occupied data for each state into 
+a new table showing the data for the last 5 to 10 years (see Table 3.2). He can then use this table, compare it with 
+internal USAA data showing the number of policies in force for each of the three lines of business, and compare 
+the two tables to determine potential market size by state. Since the purpose of this analysis is to identify target 
+market opportunities, the margin of error is not considered as a critical factor, as the goal is merely to gain rea-
+sonable estimates of potential market size. 
+
+If desired, this process can be replicated at a county level for further refnement of market segmentation. 
+
+ Table 3.2.  Owner-Occupied Housing Units by State and Year 
+
+State 
+
+Alabama 
+Alaska 
+Arizona 
+Arkansas 
+
+California 
+
+Colorado 
+Connecticut 
+Delaware 
+District of Columbia 
+Florida 
+
+2012 
+
+1,268,565 
+159,427 
+1,496,650 
+757,722 
+
+6,781,817 
+
+1,278,158 
+908,452 
+241,050 
+110,681 
+4,724,428 
+
+2013 
+
+1,240,017 
+156,107 
+1,490,031 
+739,987 
+
+6,804,639 
+
+1,291,945 
+888,478 
+243,047 
+110,513 
+4,672,482 
+
+2014 
+
+1,246,080 
+156,006 
+1,484,857 
+744,318 
+
+6,855,688 
+
+1,302,533 
+900,039 
+245,808 
+112,492 
+4,693,821 
+
+2015 
+
+1,253,595 
+159,922 
+1,524,828 
+746,000 
+
+6,910,823 
+
+1,322,618 
+889,035 
+249,681 
+112,555 
+4,760,071
+
+Source: U.S. Census Bureau, data.census.gov, Table S2504: “Physical Housing Characteristics for Occupied Housing Units.” 
+
+Understanding and Using American Community Survey Data   31 
+What the Business Community Needs to Know  31 
+
+U.S. Census Bureau 
+    
+ 
+ 
+ 
+  
+ 
+4. ADDITIONAL RESOURCES 
+
+U.S. Census Bureau, What Is the American 
+Community Survey? 
+<www.census.gov/programs-surveys/acs/about.html> 
+
+U.S. Census Bureau, State Data Center (SDC) 
+Program 
+<www.census.gov/about/partners/sdc.html> 
+
+U.S. Census Bureau, Understanding and Using 
+American Community Survey Data: 
+What All Data Users Need to Know 
+<www.census.gov/programs-surveys/acs/guidance 
+/handbooks/general.html> 
+
+U.S. Department of Commerce, Economics & 
+Statistics Administration, 2015, New Report on Value 
+of the American Community Survey 
+<www.commerce.gov/news/reports/2015/05/value 
+-american-community-survey-smart-government 
+-competitive-businesses-and> 
+
+U.S. Census Bureau, ACS Data Releases 
+<www.census.gov/programs-surveys/acs/news/data 
+-releases.html> 
+
+ACS Online Community 
+<https://acsdatacommunity.prb.org/> 
+
+U.S. Census Bureau, Geography and ACS 
+<www.census.gov/programs-surveys/acs/geography 
+-acs.html> 
+
+U.S. Census Bureau, ACS Data Tables and Tools 
+<www.census.gov/acs/www/data/data-tables-and 
+-tools/> 
+
+U.S. Census Bureau, Census Business Builder (CBB) 
+<www.census.gov/data/data-tools/cbb.html> 
+
+U.S. Census Bureau, Data.census.gov Resources 
+<www.census.gov/data/what-is-data-census-gov.html> 
+
+U.S. Census Bureau, Understanding and Using the 
+American Community Survey Public Use Microdata 
+Sample Files: What Data Users Need to Know 
+<www.census.gov/programs-surveys/acs/guidance 
+/handbooks/pums.html> 
+
+U.S. Census Bureau, Using the American Community 
+Survey Summary File: What Data Users Need to 
+Know 
+<www.census.gov/programs-surveys/acs/guidance 
+/handbooks/summary-fle.html> 
+
+32   Understanding and Using American Community Survey Data 
+32  What the Business Community Needs to Know 
+
+U.S. Census Bureau 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

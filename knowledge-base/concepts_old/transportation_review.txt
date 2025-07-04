@@ -1,0 +1,111 @@
+# Transportation Concepts - Review Queue (0.75-0.9 confidence)
+# Human review required - edit and mark as 'reviewed' when done
+
+## 1. Carpool to Work (confidence: 0.85)
+ID: cendata:Carpool
+Universe: Workers 16 years and over
+Stat Method: rate
+Tables: ['B08301']
+Definition: Percentage commuting by carpooling
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 2. Walk to Work (confidence: 0.85)
+ID: cendata:WalkToWork
+Universe: Workers 16 years and over
+Stat Method: rate
+Tables: ['B08301']
+Definition: Percentage walking to work
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 3. Bike to Work (confidence: 0.85)
+ID: cendata:BikeToWork
+Universe: Workers 16 years and over
+Stat Method: rate
+Tables: ['B08301']
+Definition: Percentage bicycling to work
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 4. Vehicles Available (confidence: 0.85)
+ID: cendata:VehiclesAvailable
+Universe: Occupied housing units
+Stat Method: count
+Tables: ['B08201']
+Definition: Number of vehicles available to household
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 5. Zero Vehicle Households (confidence: 0.85)
+ID: cendata:NoVehicleHouseholds
+Universe: Occupied housing units
+Stat Method: rate
+Tables: ['B08201']
+Definition: Percentage of households with no vehicle
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 6. Departure Time for Work (confidence: 0.80)
+ID: cendata:DepartureTime
+Universe: Workers 16 years and over who did not work at home
+Stat Method: count
+Tables: ['B08302']
+Definition: Time of departure for work
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 7. Commute Mode by Age (confidence: 0.75)
+ID: cendata:CommuteByAge
+Universe: Workers 16 years and over
+Stat Method: count
+Tables: ['B08101']
+Definition: Transportation to work by age groups
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 8. Commute Mode by Income (confidence: 0.75)
+ID: cendata:CommuteByIncome
+Universe: Workers 16 years and over
+Stat Method: count
+Tables: ['B08119']
+Definition: Transportation to work by earnings
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 9. Long Distance Commuters (confidence: 0.80)
+ID: cendata:LongCommuters
+Universe: Workers 16 years and over
+Stat Method: rate
+Tables: ['B08012']
+Definition: Percentage with commutes over 60 minutes
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 10. Senior Transportation (confidence: 0.75)
+ID: cendata:SeniorTransportation
+Universe: Workers 65 years and over
+Stat Method: count
+Tables: ['B08101']
+Definition: Transportation patterns for senior workers
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 11. Urban Transportation Patterns (confidence: 0.75)
+ID: cendata:UrbanTransportation
+Universe: Workers in urban areas
+Stat Method: count
+Tables: ['B08301']
+Definition: Transportation modes in urban areas
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 12. Interstate Commuting (confidence: 0.75)
+ID: cendata:InterstateCommuting
+Universe: Workers 16 years and over
+Stat Method: count
+Tables: ['B08007']
+Definition: Workers commuting across state lines
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+

@@ -1,0 +1,168 @@
+An ofﬁcial website of the United States government Here’s how you know
+
+(cid:0)
+
+   BACK TO TOPICS PAGE [/ACS/WWW/ABOUT/WHY-WE-ASK-EACH-QUES…
+
+We ask questions about the funds a person receives from
+
+various sources to create statistics about income, assistance,
+
+earnings, and poverty status.
+
+Local, state, tribal, and federal agencies use our published
+
+income data to plan and fund programs that provide economic
+
+assistance for populations in need. Income data measure the
+
+economic well-being of the nation. In conjunction with poverty
+
+estimates, these data are often part of funding formulas that
+
+determine the distribution of food, health care, job training,
+
+housing, and other assistance.
+
+Your privacy concerns
+"Why Don't You Get This Information from the IRS?"
+
+We appreciate the suggestion to use ﬁnancial information provided by taxpayers to the Internal Revenue Services (IRS) for
+
+responses to the ACS. However, information from the IRS are not as current as the information we collect. The Census Bureau
+
+uses data from other government agencies for research and evaluations to improve our surveys and censuses, reduce survey
+
+costs, decrease respondent burden, and to better understand the information we are collecting. We also use this information to
+help develop estimates of the population between census years. The Census Bureau cannot rely solely on other agencies' data
+instead of your responses for several reasons:
+
+First, these data-called administrative records-do not contain the data for everyone.
+
+Second, we cannot obtain all of the required data from administrative records.
+Third, data may not be usable because of differences in collection periods or deﬁnitions.
+
+We designed the ACS to provide up-to-date information for federal and state agencies. For more information on the Census
+Bureau's use of administrative data, visit the Combining Data [https://www.census.gov/about/what/admin-data.html] and Data
+Linkage [https://www.census.gov/datalinkage] pages.
+
+Questions as they appear on the form
+
+We ask two questions that cover each type of income that you receive, as well as your total
+income. These statistics create a proﬁle of the type and distribution of income in a community.
+
+(cid:0)
+
+   VIEW QUESTIONS
+
+Results from these questions
+
+We compile the results from these questions to provide communities with important statistics to help plan economic assistance.
+You can see some of these published statistics here for the nation, states, and your community.
+
+United States
+
+Median Household Income
+
+78,538 dollars [https://data.census.gov/table/ACSDT5Y2023.B19013]
+
+Source: Latest ACS 5-Year Estimates
+Detailed Tables: B19013 [https://data.census.gov/table/ACSDT5Y2023.B19013]
+
+Median Earnings for Full-time, Year-round Male Workers
+
+65,664 dollars [https://data.census.gov/table/ACSDT5Y2023.B20017]
+
+Is this page helpful?
+
+✕
+
+ Yes 
+
+ No
+
+Source: Latest ACS 5-Year Estimates
+
+Detailed Tables: B20017 [https://data.census.gov/table/ACSDT5Y2023.B20017]
+
+Median Earnings for Full-time, Year-round Female Workers
+
+53,445 dollars [https://data.census.gov/table/ACSDT5Y2023.B20017]
+
+Source: Latest ACS 5-Year Estimates
+
+Detailed Tables: B20017 [https://data.census.gov/table/ACSDT5Y2023.B20017]
+
+Income data help communities:
+
+Provide Adequate Housing
+
+We ask about income and housing costs to understand whether housing is affordable in local communities. When housing is not
+sufﬁcient or not affordable, income data helps communities:
+
+Enroll eligible households in programs designed to assist them.
+Qualify for grants from the Community Development Block Grant (CDBG), HOME Investment Partnership Program, Emergency Solutions
+
+Grants (ESG), Housing Opportunities for Persons with AIDS (HOPWA), and other programs.
+
+Provide Assistance to Older Americans
+
+We calculate poverty status and ask about age and disability status to help communities ensure older people receive appropriate
+assistance, such as ﬁnancial assistance with utilities (Low Income Home Energy Assistance Program).
+
+Provide Assistance to Children and Families
+
+We ask about income, the number and age of children in families, and health insurance status to help communities enroll
+
+eligible families in programs designed to assist them. Income data determines eligibility and funding in programs like
+
+Medicaid, the Child and Adult Care Food Program, and Head Start.
+
+Educate Children and Adults
+
+School districts make long-term building, stafﬁng, and funding decisions based on how many children and adults depend
+on services. We calculate poverty status and ask about school enrollment, disability status, and language spoken at home
+
+to qualify schools for grants that help fund programs for students with needs for additional services or assistance
+(including free/reduced price school lunches) (Elementary and Secondary Education Act of 1965).
+
+Plan Community Development
+
+We ask about income, employment, and housing costs to qualify communities for loan and grant programs designed to:
+
+Stimulate economic recovery.
+Improve housing.
+Run job training programs.
+Define areas as empowerment or enterprise zones.
+
+History of income questions
+
+Income questions originated with the 1940 Census, as a way to understand the ﬁnancial situation of Americans in the
+
+wake of the Great Depression. After undergoing years of testing, they were transferred to the ACS in 2005 when it
+replaced the decennial census long form. In 2019, modiﬁcations were made to questions about retirement income.
+
+Research about this modiﬁcation [https://www.census.gov/library/working-papers/2017/acs/2017_Posey_01.html] and
+copies of previous questionnaires [https://www.census.gov/programs-surveys/acs/methodology/questionnaire-
+
+archive.2018.html] are available on the ACS website.
+
+Is this page helpful?
+
+✕
+
+ Yes 
+
+ No
+
+[https://acsdatacommunity.prb.org/]
+
+Is this page helpful?
+
+✕
+
+ Yes 
+
+ No
+
+

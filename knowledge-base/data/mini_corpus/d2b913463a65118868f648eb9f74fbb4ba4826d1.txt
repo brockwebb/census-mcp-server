@@ -1,0 +1,29 @@
+United States Census Bureau | An official website of the United States Government
+
+Modification to
+Calculations of Inflation-
+Adjusted Dollar-Based
+Medians in Comparison
+Profiles
+
+September 2022
+
+Starting with the 2021 data release, the method for inflation adjusting median dollar amounts for previous years in
+the Comparison Profiles changed.  Prior to 2021, older medians were calculated from household, family, non-family,
+and earnings distributions using inflation-adjusted microdata. Beginning in 2021, the microdata for previous years
+will not be adjusted for inflation when calculating medians.  Instead, the prior year medians shown in the
+Comparison Profiles will be calculated by directly multiplying previously published medians by the inflation factor,
+using the Consumer Price Index Research Series (CPI-U-RS). Data users should now be able to more closely match
+the estimates by inflation-adjusting previous year published estimates. For those medians that do match exactly,
+the difference is due to rounding and should not be off by more than one dollar.
+This change impacts medians shown in Comparison Profile 03-Comparative Economic Characteristics (CP03) and
+Comparison Profile 04-Comparative Housing Characteristics (CP04).  
+For CP03 the medians that will be adjusted with the new methodology are median household income, median family
+income, median nonfamily income, median earnings for workers, median earnings for male full-time year-round
+workers, and median earnings for female full-time year-round workers.
+For CP04 the medians that will be adjusted with the new methodology are median owner costs for mortgaged units,
+median owner costs for non-mortgaged units, and median gross rent.
+
+Page Last Revised - September 14, 2022
+
+

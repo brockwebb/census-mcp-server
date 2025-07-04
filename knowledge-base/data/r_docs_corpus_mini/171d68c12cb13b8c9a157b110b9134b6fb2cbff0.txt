@@ -1,0 +1,1225 @@
+American Community Survey
+
+Information Guide
+
+U.S. Department of Commerce
+Economics and Statistics Administration
+U.S. CENSUS BUREAU
+census.gov
+
+American 
+Community
+Survey
+
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Short History of the ACS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Importance of Participating in the ACS  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+How the ACS Works for Your Community  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Who Uses the ACS and Why? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+
+Contents
+
+How ACS Data Are Collected . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+  Address Selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+  Address Contacted by Mail . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+  Personal Visit Follow-Up for Surveys Not Completed or Addresses With
+    Post Office Box Mail Delivery  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+  Personal Visit for People Living in Group Housing . . . . . . . . . . . . . . . . . . . . . . 7
+  Telephone Follow-Up for Questionnaires Returned Incomplete  . . . . . . . . . . . . 7
+
+The U.S. Constitution, Title 13, and the ACS . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+
+Frequently Asked Respondent Questions  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+ACS Subjects and Data Products . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+ACS Geography  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+ACS Data Releases  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Data User Resources . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Need Help With ACS Statistics? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Contact Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+U.S. Census Bureau Regional Offices . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+
+ 
+Introduction
+
+This information guide provides an overview of the U.S. Census Bureau’s American Community Survey 
+(ACS). The ACS is a nationwide survey that collects and produces information on social, economic, 
+housing, and demographic characteristics about our nation's population every year. This information 
+provides an important tool for communities to use to see how they are changing. When people fill out 
+the ACS form, they are helping to ensure that decisions about the future of their community can be made 
+using the best data available. Decision-makers require a clear picture of their population so that scarce 
+resources can be allocated efficiently and effectively. 
+
+Every year, the Census Bureau contacts over 3.5 million households across the country to participate in 
+the ACS. To help those responding to the ACS, this information guide contains information on the survey 
+aspects that affect the American public the most: ACS collection procedures, questions asked in the ACS, 
+uses and importance of each question, and tools to access ACS estimates. 
+
+Short History of the ACS
+
+Every 10 years since 1790, Congress has authorized the government to conduct a national census of the 
+U.S. population, as required by the U.S. Constitution. James Madison ensured that the Constitution gave 
+Congress the authority to collect additional information beyond the population count in order to “enable 
+[future legislators] to adapt the public measures to the particular circumstances of the community.”1 In 
+the twentieth century, the questions were divided between a “short” and “long” form. Only a subset of the 
+population was required to answer the long-form questions.
+
+The most recent census consisted of a short form, which included basic questions about age, sex, race, 
+Hispanic origin, household relationship, and owner/renter status. After the 2000 Census, the long form 
+became the ACS, and this survey continues to collect long-form-type information each year. The ACS 
+includes not only the basic short-form questions, but also detailed questions about population and 
+housing characteristics. It is a nationwide, continuous survey designed to provide communities with 
+reliable and timely social, economic, housing, and demographic data every year. Since its start, the 
+ACS has been providing a continuous stream of updated information for states and local areas, and has 
+revolutionized the way we use statistics to understand our communities.
+
+1 Summary of debate on Census Bill, House of Representatives, 25–26 Jan., 2 Feb. 1790. (The Founders' Constitution, 1987, University of Chicago, 
+
+Volume 2, Article 1, Section 2, Clause 3, Document 19).
+
+census.gov/acs  1
+
+Importance of  
+Participating in the ACS
+
+the private sector. ACS estimates are 
+often used to help establish priorities 
+through a needs assessment, to develop 
+general plans, research, education, and 
+advocacy work. 
+
+Given competing demands and limited 
+resources, it is more important than ever 
+that communities base their governance 
+decisions on an accurate portrait of 
+the current nation. ACS estimates can 
+be analyzed to prioritize proposed 
+initiatives and to reassess existing 
+programs. Local governments also 
+receive requests for help and assistance 
+from a variety of community groups 
+and civic organizations that need to 
+be assessed—ACS estimates are an 
+extremely useful tool for evaluating 
+these requests.
+
+Most people probably never think 
+about how local planners know where 
+to target new development, or where 
+businesses get the data they need to 
+plan for expansion. Most probably do 
+not think about where policymakers get 
+the objective information they need to 
+make sure programs are on track, or that 
+local services are keeping pace with their 
+community’s changing demographics. It 
+may not be at the top of our minds for 
+most of us, but it becomes an important 
+consideration when someone receives 
+the ACS in the mail. 
+
+Each completed survey is important 
+because it is a building block used to 
+create statistics about communities in 
+America. The information, collected from 
+all over the United States by the ACS and 
+throughout Puerto Rico by the Puerto 
+Rico Community Survey (PRCS), serve 
+as an impartial measuring stick that 
+is used as the basis for decisions that 
+affect nearly every aspect of our lives. 
+People who receive the ACS have the 
+responsibility of responding so that the 
+statistical portrait of their community is 
+as complete and accurate as possible. 
+Every ACS survey is an opportunity for 
+a respondent to help affect what their 
+community receives.
+
+An individual's responses are combined 
+with others' responses to create and 
+publish statistics for communities 
+nationwide, which can then be used by 
+community and local governments and 
+
+2  census.gov/acs
+
+How the ACS Works for Your Community
+How the American Community Survey 
+Works for Your Community
+
+About 1 in 38 U.S. households per year receives an invitation 
+to participate in the American Community Survey (ACS).
+
+I
+
+N
+O
+T
+C
+E
+L
+L
+O
+C
+
+SCHOOL
+
+RESPONDENT
+
+INTERNET
+
+Those who do not 
+complete the survey 
+may receive a 
+personal visit from 
+Census Bureau staff.
+
+MAIL
+
+U.S. CENSUS 
+BUREAU
+
+ONLINE
+
+PAPER
+
+YOUR COMMUNITY
+
+Individuals can complete the questionnaire for 
+their household either online or on a paper form.
+
+I
+
+I
+
+N
+O
+T
+A
+N
+M
+E
+S
+S
+I
+D
+&
+G
+N
+I
+S
+S
+E
+C
+O
+R
+P
+
+census.gov
+
+QuickFacts
+
+DATA 
+COMBINED 
+INTO 
+STATISTICS
+
+Personal 
+information 
+removed
+and kept 
+confidential 
+
+CENSUS BUREAU WEB SITE
+
+REPORTS, TABLES, AND  APPLICATIONS 
+
+U.S. CENSUS BUREAU
+
+The Census Bureau publishes statistics as reports, tables, and other products 
+through its Web site.
+
+S
+N
+O
+I
+S
+I
+C
+E
+D
+N
+E
+V
+R
+D
+-
+A
+T
+A
+D
+
+I
+
+Government agencies use these statistics to 
+help with decision-making and to allocate over 
+$675 billion each year back to your community.
+
+FEDERAL GOVERNMENT 
+AGENCIES, STATES, TRIBAL
+AND LOCAL COMMUNITIES
+
+$675 BILLION 
+PER YEAR
+
+and
+
+SCHOOLS
+
+ROADS
+
+H
+
+H
+
+Jobs
+
+HOSPITALS
+
+SCHOOL
+
+Civic and academic institutions, and businesses 
+use the ACS for a variety of purposes.
+
+YOUR COMMUNITY
+
+The ACS is an official Census Bureau survey that is part of the decennial census 
+program. It is sent to a small percentage of U.S. households monthly.
+
+www.census.gov/acs
+
+The ACS is an official Census Bureau survey that is 
+part of the decennial Census Program. It is sent to a 
+small percentage of U.S. households monthly.
+
+census.gov/acs  3
+
+ 
+ 
+ 
+Who Uses the ACS and Why? 
+
+Federal Agencies: 
+Throughout the federal government, agencies use ACS estimates to 
+inform public policymakers, distribute funds, and assess programs. For 
+example, the U.S. Department of Justice, the U.S. Department of Labor, 
+and the U.S. Equal Employment Opportunity Commission use  
+ACS estimates to enforce employment antidiscrimination laws. The  
+U.S. Department of Veterans Affairs uses ACS estimates to evaluate the 
+need for health care, education, and employment programs for those  
+who have served in the military; and the U.S. Department of Education 
+uses ACS estimates to develop adult education and literacy programs.
+
+State and Local Agencies: 
+Information from the ACS is critical to state and local agencies. Planners 
+and policymakers use the up-to-date estimates to evaluate the need 
+for new roads, hospitals, schools, senior services, and other basic 
+services. In addition, ACS data provide local communities with important 
+information about their citizens, such as educational attainment, work 
+commuting patterns, and languages spoken.
+
+Nongovernmental Organizations: 
+ACS estimates are available to the public and are routinely used by 
+researchers, nonprofit organizations, and community groups. These 
+groups produce reports, research papers, business plans, case studies, 
+datasets, and software packages. Some of these activities are designed to 
+inform the public, some are designed to further business ventures, and 
+some are used to apply for funding in the form of grants and donations 
+for community projects.
+
+Emergency Planners: 
+Emergency planners use ACS estimates to find local statistics critical to 
+emergency planning, preparedness, and recovery efforts. When severe 
+weather threatens or a natural disaster has occurred, ACS estimates 
+provide important characteristics about the displaced population such as 
+size, age, disability status, and the characteristics of housing that may be 
+damaged or destroyed.
+
+American Indians and Alaska Natives: 
+ACS estimates are available for tribal planners and administrators, as 
+well as national organizations serving American Indians and Alaska 
+Natives, to use in planning for future economic development, housing 
+needs, and access to health and educational services. In combination 
+with information from tribal administrative records, ACS estimates 
+complete the portrait of the community and provide an enhanced view of 
+a community’s current and future needs.
+
+4  census.gov/acs
+
+Businesses: 
+Businesses use ACS estimates to inform important strategic decision-
+making. ACS statistics can be used as a component of market research. 
+They can provide information about concentrations of potential 
+employees with a specific education or occupation, communities that 
+could be good places to build offices or facilities, and information about 
+people that might need their products or services. For example, someone 
+scouting a new location for an assisted-living center might look for an 
+area with a large proportion of seniors and a large proportion of people 
+employed in nursing occupations. 
+
+Educators: 
+ACS estimates are available for educators to teach concepts and skills, 
+such as statistical literacy, social studies, geography, and mathematics. 
+Because the ACS is updated annually, it provides timely information for 
+students every year. 
+
+Journalists: 
+Journalists use ACS estimates to highlight and investigate the issues that 
+are important to each community. Articles frequently appear, across the 
+country, on topics such as commuting and transportation, unemployment 
+and earnings, education, and homeownership. Additionally, the wealth of 
+ACS statistics allows journalists to paint a portrait of small communities as 
+they respond to changes in population, employment, and housing needs. 
+
+Public: 
+People use ACS estimates to answer questions they have about their own 
+community and other communities. If a person wants to see how they 
+compare with their neighbors or find a new place to live, they can look 
+to the ACS to provide a wealth of information. The ACS provides useful 
+statistics about the median income of an area, the median age of the 
+residents, the median house value, and monthly household expenses. 
+The ACS is a good source of information on commute to work times and 
+types of transportation used by the community. These statistics, and 
+many more, are available to the public for communities across the  
+United States.
+
+census.gov/acs  5
+
+ 
+Address selected
+
+First month:
+Mail survey 
+instructions for 
+online or paper 
+response
+
+Second month:
+Select addresses 
+for nonresponse 
+follow-up personal 
+visits
+
+Third month:
+Visit nonresponse 
+addresses for 
+personal interview
+
+How ACS Data Are Collected
+
+Address Selection
+
+One important fact to remember about the ACS is that the forms are not 
+mailed to specific people, but rather to specific addresses. The sample 
+is designed to ensure good geographic coverage and does not target 
+individuals. By focusing on quality geographic coverage, the ACS can 
+produce a good picture of the community’s people and housing by surveying 
+a representative sample of the population.
+
+The Census Bureau selects a random sample of addresses to be included in 
+the ACS. Each address has about a 1-in-480 chance of being selected in a 
+month, and no address should be selected more than once every 5 years. 
+The Census Bureau mails questionnaires to approximately 295,000 addresses 
+a month across the United States. This is a small number of households 
+considering there are more than 140 million eligible addresses in the United 
+States, and an address that receives ACS instructions will not likely find a 
+neighbor or friend who has also received them. 
+
+Case Complete
+
+Address Contacted by Mail
+
+The Census Bureau mails letters to inform people living at an address that they 
+have been selected to participate in the ACS and to provide instructions for 
+completing the survey online. In Puerto Rico and some hard to reach areas in 
+the United States, only a paper questionnaire is mailed. Households are asked to 
+complete the survey online or to mail the completed paper questionnaire back 
+to the Census Bureau’s National Processing Center in Jeffersonville, Indiana. If 
+the Census Bureau does not receive a completed survey within a few weeks, it 
+will mail an additional paper survey questionnaire.  
+
+6  census.gov/acs
+
+ACSPersonal Visit Follow-Up for Surveys Not Completed 
+or Addresses With Post Office Box Mail Delivery
+
+Following all mail contacts, a sample is taken from the addresses that 
+have not responded online, by mail, or for those addresses with post 
+office box mail delivery. These addresses are visited by Census Bureau 
+field representatives, who will conduct the interview in person.
+
+Personal Visit for People Living in Group Housing
+
+A sample of people living in group quarters facilities, such as college 
+dormitories, nursing homes, and prisons, are also interviewed in 
+person to ensure coverage of everyone in the country.
+
+Telephone Follow-Up for Questionnaires Returned 
+Incomplete
+
+After the returned questionnaires are delivered to the Census Bureau's 
+National Processing Center or via the Internet, they are reviewed for 
+completeness. Questionnaires needing clarification are referred to the 
+Census Bureau's telephone call centers for telephone follow-up.
+
+Most U.S. addresses 
+selected for the ACS 
+may receive in the 
+mail:
+
+structions to 
+omplete the ACS 
+
+R In
+c
+online
+
+R 
+R 
+
+A reminder card
+
+A replacement ACS 
+paper packet (if the 
+questionnaire is not 
+completed online 
+within 2 weeks of 
+mailing)
+
+R 
+
+A second reminder 
+card (if a survey 
+is not completed 
+within 4 weeks of 
+initial mailing)
+R A third reminder is 
+sent to households 
+that do not respond 
+prior to personal 
+visit follow-up
+
+census.gov/acs  7
+
+The U.S. Constitution, 
+Title 13, and the ACS
+
+Conducting the ACS is covered by the constitution. The U.S. Constitution 
+states that “[An] Enumeration shall be made within three Years after the first 
+Meeting of the Congress of the United States, and within every subsequent 
+Term of ten Years, in such Manner as they shall by Law direct.” Pursuant to 
+this constitutional directive, Congress passed separate laws for each decennial 
+census and specified the information to be collected. In 1954, Congress 
+codified earlier census acts and all other statutes authorizing the decennial 
+census as Title 13, U.S. Code. From the very first census act, Congress sought 
+the collection of more information than just a headcount. 
+
+The current legal authority for collecting this information resides in Title 13 of 
+the U.S. Code or the “Census Act.” The Census Act provides the Census Bureau 
+with legal authority to conduct the decennial census and delegates broad 
+discretionary authority to the Secretary of Commerce for determining the 
+manner of conducting the census. This authority has been redelegated by the 
+Secretary to the Director of the Census Bureau. 
+
+Courts routinely have upheld the constitutionality of collecting census data, 
+characterizing as unquestionable the power of Congress to require both an 
+enumeration and the collection of statistics in the census. The courts have held 
+that the Constitution, including the fourth and fifth amendments, does not 
+prohibit the gathering of other statistics in addition to the enumeration  
+every 10 years.
+
+8  census.gov/acs
+
+Title 13, U.S. Code, 
+§141(a). “The Secretary 
+shall, in the year 
+1980 and every 10 
+years thereafter, take 
+a decennial census of 
+population as of the 
+first day of April of such 
+year, which date shall be 
+known as the “decennial 
+census date,” in such 
+form and content as he 
+may determine, including 
+the use of sampling 
+procedures and special 
+surveys. In connection 
+with any such census, the 
+Secretary is authorized to 
+obtain such other census 
+information as necessary.”
+
+Title 13, U.S. Code, 
+§193. “In advance of, 
+in conjunction with, or 
+after the taking of each 
+census provided for by 
+this chapter, the Secretary 
+may make surveys and 
+collect such preliminary 
+and supplementary 
+statistics related to the 
+main topic of the census 
+as are necessary to the 
+initiation, taking, or 
+completion thereof.”
+
+FAQs
+
+Frequently Asked Respondent Questions
+
+Do I have to respond to the ACS?
+
+Yes. Responding to the ACS is about helping federal, tribal, 
+state, and local officials make informed decisions with timely 
+and accurate data. Just as people are required to respond to 
+jury duty, get a drivers license in order to drive, pay their 
+taxes, and report their income, they also have the obligation 
+to respond to decennial census surveys.
+
+Someone came to my home to interview me for the 
+ACS. Is this legitimate?
+
+If someone has contacted you about the ACS and you would 
+like to verify that the visit or phone call you received was 
+legitimate, you may call your regional census office. You can 
+find contact information for your office at  
+<census.gov/regions/>.
+
+Why was my address selected for the ACS?
+
+Addresses selected for the ACS come from the Census 
+Bureau’s official inventory of known living quarters and 
+selected nonresidential units in the United States and Puerto 
+Rico. Each scientifically selected address represents other 
+households in the surrounding community. 
+
+Interviewing a small sample of addresses, rather than all 
+addresses in the United States, allows the Census Bureau to 
+measure the whole population while limiting the cost of the 
+survey and reducing the overall impact on respondents. 
+
+What if I do not know the exact answer to an ACS 
+question?
+
+On the ACS, if no one in your household knows the answer to 
+a question, and the information cannot be referenced in a bill 
+or other document, please give your best estimate.
+
+I am concerned about identity theft. How does the 
+Census Bureau protect my ACS information?
+
+We understand your concerns about privacy and identity theft 
+and want to assure you that we respect your privacy and will 
+ensure that only authorized persons with a work-related need-
+to-know view your personal information.  Title 13, United 
+States Code (U.S.C.) prohibits the Census Bureau from giving 
+or selling your personal information to anyone, including 
+companies, other federal agencies, and law enforcement. 
+When we process the information on the ACS questionnaires, 
+individuals’ names and other personal identifiers are deleted 
+from the files used to tabulate the information. 
+
+Additionally, we employ statistical methodologies to ensure 
+that the statistics we release do not identify individuals 
+or businesses. These methods include extensive review 
+and analysis of all our data products, as well as disclosure 
+avoidance methodologies (such as data suppression and 
+modification) to screen out information that might identify a 
+specific individual or business. 
+
+Doesn't the government already have the information 
+requested on the ACS?
+
+The Census Bureau does use statistics from other government 
+agencies for research and evaluations to improve our surveys 
+and censuses and better understand the information we are 
+collecting. We also use such information to help develop 
+estimates of the population between census years. However, 
+we have not yet used information from other agencies in 
+place of actual responses to the ACS for several reasons:
+
+•  Only a few of the items on the ACS could be obtained 
+
+from other agencies.
+
+•  These data do not contain information for everyone, so 
+we may still have to ask some people for all items.
+
+•  The ACS was designed to provide up-to-date information. 
+The information available from other agencies is not 
+usually as current as the information that we collect.
+
+The Census Bureau is conducting research exploring the 
+use of information from other agencies in surveys and 
+censuses, with the goal of incorporating them into our data 
+gathering and analysis efforts. This will lower the burden 
+on respondents by reducing the amount of information we 
+request from them.
+
+Why does the ACS ask for my name and telephone 
+number?
+
+We ask for a person’s name for two reasons. First, we have 
+found over many years of research that it is easier for 
+a respondent to make sure everybody in the household 
+is included and to keep track of which person they are 
+reporting for if the names are used. If a respondent is 
+interrupted while completing the survey, it will be easier 
+to resume reporting if they know which person they are 
+working on— particularly in larger households. Second, 
+having a name and phone number allows us to call if the 
+questionnaire needs clarification.
+
+census.gov/acs  9
+
+ACS Subjects and Data Products
+
+Population
+
+Housing
+
+Key ACS Data Products
+
+Age 
+
+Ancestry 
+
+Citizenship Status
+
+Acreage and 
+  Agricultural Sales 
+Bedrooms 
+
+Data Profiles 
+Provide broad social, economic, housing, and  
+demographic profiles.
+
+Commuting (Journey to Work) and 
+
+Computer and Internet Use
+
+   Place of Work
+
+Disability Status
+
+Educational Attainment and  
+  School Enrollment 
+
+Employment Status
+
+Fertility
+
+Grandparents as Caregivers 
+Health Insurance Coverage 
+Hispanic or Latino Origin 
+
+Income and Earnings
+
+Industry, Occupation, and  
+
+  Class of Worker 
+Language Spoken at Home 
+Marital History, Marital Status 
+
+Food Stamps/Supplemental   
+
+   Nutrition Assistance 
+
+   Program (SNAP)
+
+House Heating Fuel 
+
+Kitchen Facilities 
+
+Occupancy/Vacancy Status
+
+Occupants Per Room 
+
+Plumbing Facilities
+
+Rent 
+
+Rooms
+
+Selected Monthly Owner  
+
+   Costs
+
+Telephone Service 
+
+  Available 
+
+Migration/Residence 1 Year Ago 
+
+Tenure (Owner/Renter) 
+
+Units in Structure 
+
+Value of Home
+
+Vehicles Available 
+
+Year Householder Moved  
+
+Into Unit 
+
+Year Structure Built
+
+Period of Military Service 
+
+Place of Birth 
+
+Poverty Status 
+
+Race 
+
+Relationship to Householder 
+
+Sex 
+
+Undergraduate Field of Degree 
+
+VA Service-Connected Disability
+
+    Status
+
+Veteran Status 
+
+Work Status Last Year
+
+Year of Entry
+
+10  census.gov/acs
+
+Comparison Profiles 
+Similar to Data Profiles but show data side-by-side 
+from the five most recent years of the ACS.
+
+Selected Population Profiles 
+Provide broad social, economic, housing, and 
+demographic profiles for a large number of race, 
+ethnic, ancestry, and country/region of birth groups.
+
+Ranking Tables 
+Provide state rankings of estimates across 86  
+key variables.
+
+Subject Tables 
+Similar to Data Profiles but include more detailed  
+ACS data, classified by subject.
+
+Detailed Tables 
+Provide access to the most detailed ACS data and 
+cross tabulations of ACS variables.
+
+Geographic Comparison Tables 
+Compare geographic areas other than states (e.g., 
+counties or congressional districts) for key variables.
+
+Summary Files 
+Provide access to the Detailed Tables through a 
+series of comma-delimited text files.
+
+Public Use Microdata Sample (PUMS) Files 
+Provide access to ACS microdata for data users with 
+statistical software experience.
+
+ 
+ACS Subjects and Data Products
+
+ACS Geography
+
+Geography plays an important role in Census Bureau activities, including 
+supporting the American Community Survey. The ACS is unique in its 
+ability to produce estimates on a wide range of geographies, including low 
+geographic levels such as census tracts and block groups. Geographic areas 
+are organized in a geographic hierarchy. Larger units, like states, include 
+smaller units, like counties and census tracts. Block groups are the smallest 
+building block for the ACS.
+
+Hierarchy of Select Geographic Entities 
+in the American Community Survey
+
+  American Indian Areas/
+ Alaska Native Areas/
+Hawaiian Home Lands
+
+ Urban Areas
+ Metropolitan and
+Micropolitan Areas
+
+  Places
+  Public Use Microdata Areas
+ Alaska Native Regional Areas
+State Legislative Districts*
+
+ZIP Code Tabulation Areas (ZCTA)**
+
+         School Districts
+Congressional Districts
+
+County Subdivisions
+
+Nation
+
+Regions
+
+Divisions
+
+States
+
+Counties
+
+Census Tracts*
+
+Block Groups*
+
+Notes:
+* 5-year estimates only
+** 5-year estimates only, first release in 2012 for the 2007–2011 5-year estimates
+This graphic does not represent the full set of entities for which the ACS publishes data.
+
+This geographic hierarchy influences how the Census Bureau identifies geographic areas. 
+A system of geocodes - numeric or alphanumeric codes - are used to represent specific 
+geographic areas.
+
+Geography Tools 
+
+TIGER/Line 
+Shapefiles: Most 
+comprehensive dataset 
+designed for use 
+with GIS (Geographic 
+Information Systems) 
+
+TIGER/Line 
+with Selected 
+Demographic and 
+Economic Data: 
+Shapefiles prejoined 
+with ACS data in 
+geodatabase format 
+
+TIGERweb:  
+Web-based system 
+that allows users to 
+visualize TIGER data 
+
+For more information 
+on census geography, 
+please visit  
+<census.gov 
+/geography.html> or  
+<census.gov 
+/programs-surveys 
+/acs/geography-acs 
+.html>.
+
+census.gov/acs  11
+
+ 
+ 
+ACS Data Releases
+
+ACS data are very timely because they are released in the year immediately 
+following the year in which they are collected. 
+
+The ACS creates period estimates, which means they represent the 
+characteristics of the population and housing over a specific data collection 
+period. These are the 1-year and 5-year estimates.
+
+1-Year Estimates
+
+•  12 months of collected data
+
+•  Data for areas with populations of 65,000+
+
+•  2005 ACS 1-year estimates first released in 2006
+
+1-Year Supplemental Estimates
+
+•  12 months of collected data
+
+•  Simplified versions of popular ACS tables
+
+•  Data for areas with populations of 20,000+
+
+•  2014 ACS 1-year supplemental estimates first released in 2016
+
+5-Year Estimates
+
+•  60 months of collected data
+
+•  Data for all areas
+
+•  2005–2009 ACS 5-year estimates first released in 2010
+
+For more information about the release schedule, new and notable items 
+related to each release, and changes to tables and geographies, please visit 
+<census.gov/programs-surveys/acs 
+/news/data-releases.html>.
+
+Note: ACS 3-year estimates have been discontinued. Previous ACS 3-year 
+estimates will remain available to data users, but no new 3-year estimates 
+will be produced.
+
+Which Estimate to Use?
+
+1-Year Estimates
+
+•  Reflect most current data
+
+•  Larger margins of error 
+than 5-year estimates
+
+•  Useful for geographic 
+areas with rapidly-
+changing characteristics
+
+5-Year Estimates
+
+•  Less current as larger 
+samples include data 
+collected in earlier years
+
+•  Smaller margins of error 
+than 1-year estimates
+
+• 
+
+Increased statistical 
+reliability for smaller 
+geographic areas and 
+small population groups
+
+For more guidance on using 
+ACS data, please visit 
+<census.gov 
+ /programs-surveys 
+/acs/guidance.html>
+
+12  census.gov/acs
+
+Data User Resources
+
+Handbooks
+
+You can use ACS estimates in different ways and for different reasons. Each one 
+of our downloadable PDF handbooks helps a particular group with specific how-
+to instructions and case studies. There are ten different handbooks available 
+with updated versions starting in 2017. Access the handbooks at <census.gov 
+/programs-surveys/acs/guidance/handbooks.html>.
+
+Available handbooks include: 
+
+•  General Data Users 
+
+•  Business
+
+•  American Indians and Alaska Natives
+
+•  Rural Areas
+
+•  Researchers
+
+•  Media 
+
+•  Federal Agencies 
+
+•  State and Local Government 
+
+Special modules include:
+
+•  Congress
+
+•  Puerto Rico  
+
+Community Survey
+
+•  American FactFinder                                                                        
+
+•  Public Use Microdata  
+
+•  Application Programming Interface (API) 
+
+•  Geographic Products/Applications 
+
+Sample (PUMS) 
+
+•  Summary Files  
+
+Presentations
+
+Training presentations are available online for you to learn more about 
+various aspects of the ACS. Each presentation consists of PowerPoint slides, 
+accompanying speaker notes, and a Webinar transcript. The presentations cover 
+a variety of content levels ranging from beginning to advanced ACS data topics. 
+Access the full list of presentations at <census.gov/programs-surveys/acs 
+/guidance/training-presentations.html>.
+
+Data Tools
+
+Find out more about your community using free data tools from the Census 
+Bureau! Popular tools include QuickFacts, American FactFinder, and the 
+Application Programming Interface (API). View the complete list at <census.gov 
+/acs/www/data/data-tables-and-tools/>.
+
+census.gov/acs  13
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Need Help With ACS Statistics?
+
+Ask Census 
+<ask.census.gov>
+
+Select "American Community Survey" on the left hand menu to view questions and answers on the ACS. 
+You can also send a message with your question to a Census Bureau support representative.
+
+Customer Service
+
+Call the Census Bureau's Customer Services Center at 301-763-INFO (4636) or 1-800-923-8282 from  
+9 a.m.–5 p.m. EST, Monday through Friday.
+
+Data Dissemination Specialists
+
+Our regional data staff can help you access local statistics from the ACS or offer training to help build your 
+skills. Contact them at 1-844-ASK-DATA (1-844-275-3282) or <census.askdata@census.gov>.
+
+ACS Web site 
+<census.gov/acs>
+
+The ACS Web site provides a wealth of up-to-date information about the ACS program, data collection, and 
+research. 
+
+ACS Data Users Group (DUG) and Online Community 
+<acsdatacommunity.prb.org>
+
+The purpose of the ACS Data Users Group is to improve understanding of the value and utility of ACS 
+data and to promote information sharing among data users about key ACS data issues and applications. 
+Membership is free and open to all interested ACS data users. 
+
+The Population Reference Bureau (PRB), in partnership with the U.S. Census Bureau, maintains an online 
+community, organizes webinars and special sessions at professional meetings, and holds ACS Data Users 
+Conferences.
+
+14  census.gov/acs
+
+Need Help With ACS Statistics?
+
+Contact Information
+
+U.S. Census Bureau 
+Regional Offices
+
+For assistance completing the 
+survey: 
+Please call 1-800-354-7271.
+
+Telephone Device for the Deaf 
+(TDD): 
+TTY users can dial 1-800-877-8339 to use the 
+Federal Relay Service.
+
+Did the Census Bureau call me? 
+Census Bureau calls originate from one of three 
+contact centers: 
+Hagerstown, MD: 1-800-392-6975 
+Jeffersonville, IN: 1-800-523-3205 
+Tucson, AZ: 1-800-642-0469
+
+Did the Census Bureau visit me? 
+Please contact your regional office to verify 
+a visit from a Census Bureau employee. View 
+contact information to the right.
+
+Necesita ayuda? 
+Llame 1-877-833-5625.
+
+News Media 
+Please call 301-763-3030.
+
+Sign up for e-mail updates at: 
+<public.govdelivery.com/accounts/USCENSUS 
+/subscriber/new>.
+
+New York
+
+Los Angeles
+
+Denver
+
+Chicago
+
+Philadelphia
+
+Atlanta
+
+Toll-Free Phone Numbers
+
+ATLANTA <census.gov/about/regions 
+/atlanta.html>  
+Alabama, Georgia, Florida, Louisiana, Mississippi,  
+North Carolina, South Carolina 
+1-800-424-6974
+
+CHICAGO <census.gov/about/regions 
+/chicago.html> 
+Arkansas, Illinois, Indiana, Iowa, Michigan, Minnesota, 
+Missouri, Wisconsin 
+1-800-865-6384
+
+DENVER <census.gov/about/regions 
+/denver.html> 
+Arizona, Colorado, Kansas, Nebraska, New Mexico, 
+North Dakota, Montana, Oklahoma, South Dakota, 
+Texas, Utah, Wyoming 
+1-800-852-6159
+
+LOS ANGELES <census.gov/about/regions 
+/los-angeles.html> 
+Alaska, California, Hawaii, Idaho, Nevada, Oregon, 
+Washington  
+1-800-992-3530
+
+NEW YORK <census.gov/about/regions 
+/new-york.html> 
+Connecticut, Maine, Massachusetts, New Hampshire, 
+New Jersey, New York, Puerto Rico, Rhode Island, 
+Vermont  
+1-800-991-2520
+
+PHILADELPHIA <census.gov/about/regions 
+/philadelphia.html> 
+Delaware District of Columbia, Kentucky, Maryland, 
+Ohio, Pennsylvania, Tennessee, Virginia, West Virginia 
+1-800-262-4236
+
+census.gov/acs  15
+
+ 
+ 
+ 
+ 
+Issued October 2017 
+ACS–331(C)(2017)
+
+

@@ -1,0 +1,54 @@
+@prefix cendata: <https://raw.githubusercontent.com/yourrepo/census-mcp-server/main/ontology#> .
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:    <http://www.w3.org/2004/02/skos/core#> .
+
+# Official Census Geographic Hierarchy
+# Based on Standard Hierarchy of Census Geographic Entities
+
+# Level 0 - Root
+cendata:Nation a skos:Concept ;
+    rdfs:label "Nation" ;
+    rdfs:comment "Singleton United States root geography" .
+
+# Level 1 - Major divisions  
+cendata:Region a skos:Concept ;
+    rdfs:label "Census Region" ;
+    rdfs:comment "4 Census regions (Northeast, Midwest, South, West)" ;
+    skos:broader cendata:Nation .
+
+cendata:Division a skos:Concept ;
+    rdfs:label "Census Division" ;
+    rdfs:comment "9 divisions nested in regions" ;
+    skos:broader cendata:Region .
+
+cendata:State a skos:Concept ;
+    rdfs:label "State" ;
+    rdfs:comment "50 states + DC + PR" ;
+    skos:broader cendata:Nation .
+
+# Level 2 - County and equivalent
+cendata:County a skos:Concept ;
+    rdfs:label "County" ;
+    rdfs:comment "County or county equivalent" ;
+    skos:broader cendata:State .
+
+cendata:Place a skos:Concept ;
+    rdfs:label "Place" ;
+    rdfs:comment "Incorporated places and CDPs" ;
+    skos:broader cendata:State .
+
+# Level 3-5 - Small area
+cendata:CensusTract a skos:Concept ;
+    rdfs:label "Census Tract" ;
+    rdfs:comment "Small statistical subdivisions of counties" ;
+    skos:broader cendata:County .
+
+cendata:BlockGroup a skos:Concept ;
+    rdfs:label "Block Group" ;
+    rdfs:comment "Subdivisions of census tracts" ;
+    skos:broader cendata:CensusTract .
+
+cendata:CensusBlock a skos:Concept ;
+    rdfs:label "Census Block" ;
+    rdfs:comment "Atomic geography - smallest entity" ;
+    skos:broader cendata:BlockGroup .

@@ -1,0 +1,157 @@
+An ofﬁcial website of the United States government Here’s how you know
+
+(cid:0)
+
+   BACK TO TOPICS PAGE [/ACS/WWW/ABOUT/WHY-WE-ASK-EACH-QUES…
+
+We ask questions about the presence of hot and cold running
+
+water, a bathtub or shower, a sink with a faucet, a stove or
+
+range, a refrigerator, connectivity to a public sewer, telephone
+
+service, and presence of solar panels to create data about
+
+indicators of housing quality.
+
+Local, state, tribal, and federal agencies use these data to plan
+
+and fund programs for housing assistance, rehabilitation loans,
+
+and other programs that help people access and afford decent,
+
+safe, and sanitary housing. Public health ofﬁcials also use this
+
+information to locate areas in danger of groundwater
+
+contamination and waterborne diseases.
+
+Your privacy concerns
+
+We use your conﬁdential survey answers to create statistics like those in the results below and in the full tables that contain all th
+
+data—no one is able to ﬁgure out your survey answers from the statistics we produce. The Census Bureau is legally bound to
+
+strict conﬁdentiality requirements. Individual records are not shared with anyone, including federal agencies and law enforcemen
+
+entities. By law, the Census Bureau cannot share respondents' answers with anyone, including companies, other federal agenci
+and law enforcement.
+
+Questions as they appear on the form
+
+We ask four questions that cover information on plumbing and kitchen facilities, public sewer,
+telephone service, and solar panels to better understand housing quality and infrastructure
+needs.
+
+(cid:0)
+
+   VIEW QUESTIONS
+
+Results from these questions
+
+We compile the results from these questions to provide communities with important statistics to help in their housing assistance
+
+planning. You can see some of these published statistics here for the nation, states, and your community. Data for public sewer
+and solar panels are planned to be released starting in 2026.
+
+United States
+
+Percent Lacking Complete Plumbing Facilities
+
+0.4 percent [https://data.census.gov/table/ACSDP5Y2023.DP04]
+
+Source: Latest ACS 5-Year Estimates
+Data Proﬁles/Housing Characteristics [https://data.census.gov/table/ACSDP5Y2023.DP04]
+
+Percent Lacking Complete Kitchen Facilities
+
+0.8 percent [https://data.census.gov/table/ACSDP5Y2023.DP04]
+
+Source: Latest ACS 5-Year Estimates
+Data Proﬁles/Housing Characteristics [https://data.census.gov/table/ACSDP5Y2023.DP04]
+
+Percent with No Telephone Service Available
+
+0.9 percent [https://data.census.gov/table/ACSDP5Y2023.DP04]
+
+Is this page helpful?
+
+✕
+
+ Yes 
+
+ No
+
+Source: Latest ACS 5-Year Estimates
+
+Data Proﬁles/Housing Characteristics [https://data.census.gov/table/ACSDP5Y2023.DP04]
+
+Plumbing facilities, kitchen facilities, telephone service, and solar panel data help communities:
+
+Provide Adequate Housing
+
+We ask about the quality of housing in a community to understand whether available housing meets the needs of residents. Whe
+
+housing is not sufﬁcient or not affordable, data on household facilities helps communities:
+
+Enroll eligible households in programs designed to assist them.
+Qualify for grants from the Community Development Block Grant (CDBG), HOME Investment Partnership Program, Emergency Solutions
+
+Grants (ESG), Housing Opportunities for Persons with AIDS (HOPWA), and other programs.
+
+Plan Community Development
+
+We ask about the quality of homes and whether they are occupied or vacant, which helps communities identify opportunities to:
+
+Improve tax, assistance, and zoning policies.
+Reduce tax revenue losses from vacant or abandoned properties.
+Target emergency planning and preparation in disaster-prone areas.
+
+Ensure Residents Can Communicate
+
+We measure the extent of telephone service to help communities ensure their residents have universal access to assistance
+programs, emergency services, and important information.
+
+Measure Environmental Impacts
+
+Substandard plumbing systems may impact the local water supply. We ask about these systems to help communities research
+their infrastructure needs and work to improve their systems.
+
+Anticipate Future Energy Needs
+
+Information about using solar panels to generate electricity helps to match energy consumption to energy production across the
+United States.
+
+History of plumbing facilities, kitchen facilities, telephone service, and solar panel questions
+
+Plumbing facilities and kitchen facilities originated with the 1940 Census, while telephone service originated with the 1960 Censu
+
+They were transferred to the ACS in 2005 when it replaced the decennial census long form. The telephone service question was
+added to the ACS in 2008. The telephone question was then modiﬁed in 2019. Research about this modiﬁcation
+
+[https://www.census.gov/library/working-papers/2017/acs/2017_Mazur_01.html] and copies of previous questionnaires
+
+[https://www.census.gov/programs-surveys/acs/methodology/questionnaire-archive.2018.html] are available on the ACS website
+The public sewer question originated with the 1960 Census and was discontinued after the 1990 Census. The current question
+
+was added to the ACS in 2025. The solar panel question was also added to the ACS in 2025.
+
+Is this page helpful?
+
+✕
+
+ Yes 
+
+ No
+
+[https://acsdatacommunity.prb.org/]
+
+Is this page helpful?
+
+✕
+
+ Yes 
+
+ No
+
+

@@ -1,0 +1,455 @@
+American Community Survey (ACS) Concepts and Terms Quick Guide 
+
+This quick guide provides concise definitions of common ACS terms and concepts for beginners 
+to advanced data users. Click to expand each section. Select hyperlinked terms and concepts to 
+navigate to more information. Scroll to the end of this document to view a list of ACS acronyms.  
+
+The American Community Survey (ACS) is an 
+ongoing survey conducted by the U.S. Census 
+Bureau throughout the 50 states, the District of 
+Columbia, and Puerto Rico (PRCS). The ACS 
+provides vital information about our nation and 
+helps determine how trillions of dollars in 
+federal funds are distributed each year.  
+
+If you’re new to the ACS, refer to the 
+ACS Information Guide to learn about 
+ACS basics, how data are collected, and 
+FAQs. For additional ACS support and 
+learning opportunities, jump to the Where 
+can I get help accessing and using ACS 
+data? section. 
+
+When Should I Use ACS Data? 
+
+•  You need up-to-date data on the social, economic, demographic, or housing 
+
+characteristics of America’s communities.  
+
+•  You need information about U.S. social and economic trends, from 2005 to the present. 
+•  You need data on the characteristics of the U.S. population by age, race, ethnicity, tribal 
+
+affiliation, or other groups.  
+
+•  You need data for different geographies, from block groups to the nation and/or 
+
+everything in between.  
+
+What Topics Are Covered in the ACS? 
+The subjects collected through the ACS can be grouped into four main characteristics:  
+
+•  Social (e.g., educational attainment and marital status) 
+•  Economic (e.g., employment and income) 
+•  Housing (e.g., monthly owner costs and vehicles available) 
+•  Demographic (e.g., age and race) 
+
+For a full list of ACS subjects, refer to Subjects Included in the ACS. 
+
+What Geographies Are Available in the 
+ACS? 
+
+•  ACS data are available for geographic areas 
+ranging in size from the nation and broad 
+geographic regions to cities, towns, county 
+subdivisions, and block groups.  
+
+•  Many geographies “nest” within each other. For 
+example,  counties are made up of census tracts, 
+and census tracts can’t cross county boundaries. 
+
+1 
+
+ 
+ 
+•  Other geographies don’t nest within larger areas. For example, New York City extends 
+
+over five counties.  
+
+ Refer to Geography & ACS for more guidance on the 160+ geographies available in the ACS. 
+
+What Are 1-year and 5-year ACS Estimates? 
+
+•  ACS data are pooled across a calendar year and reflect a period of time—1 year or 5 
+
+years—rather than a single point in time.  
+
+•  The longer the time period, the larger the sample and, therefore, the more reliable the 
+
+estimates.  
+
+Estimate 
+Time Period 
+Available 
+Geographies 
+
+Currency 
+Precision 
+
+1-year estimates 
+12 months 
+Areas with populations of 
+65,000 + (or 20,000+ for 
+Supplemental Estimates) 
+More current 
+Less precise 
+
+5-year estimates 
+60 months 
+All areas 
+
+Less current 
+More precise 
+
+To learn more about ACS estimates and best practices, refer to When to Use 1-year or 5-year 
+Estimates. 
+
+Which Tools Can I Use to Access ACS Data? 
+Data.census.gov is the best place for most data users to access ACS data. However, many other 
+tools are available for more advanced users to access ACS data in multiple formats: 
+
+•  Tables: ACS data are presented in tables for several topics. Each table is labeled with an 
+
+ID. See Table Shells and Table List for a full list of ACS Detailed Tables. 
+
+2 
+
+ 
+•  Application Programming Interface (API): A 
+tool you can use to create simple queries to 
+access ACS data through an internet browser.  
+•  Summary File: A text file that contains all ACS 
+
+Detailed Tables. 
+
+•  Public Use Microdata Sample (PUMS): A 
+
+subsample of the ACS that contains individual 
+records that you can analyze to create custom 
+estimates and tables. 
+
+•  Microdata Access Tool (MDAT): A website 
+with dropdown menus and filters to create 
+custom ACS estimates and tables, based on 
+PUMS data. 
+
+•  File Transfer Protocol (FTP): A directory with 
+
+downloadable ACS data files. 
+
+Understanding ACS Table IDs 
+
+Each ACS table is labeled with an 
+ID. This ID is made up of 
+characters representing up to five 
+different elements. For example, 
+“B” tables are base tables that 
+include the most detailed estimates 
+on all topics for all geographies. 
+
+•  Open-source Software packages: Open-source software such as Python and R. Libraries 
+such as tidycensus are collections of pre-written code that you can use to access ACS 
+data more efficiently. The Census Bureau developed a Github page to share repositories 
+of code for working with ACS data developed by data users. 
+
+•  Tiger/Line: Geographic shapefiles pre-joined with ACS estimates in a geodatabase 
+
+format. 
+
+Other Census Bureau websites provide access to ACS data for specialized uses: My 
+Congressional District, My Tribal Area, Census Business Builder, OnTheMap for Emergency 
+Management, Community Resilience Estimates, and QuickFacts. 
+
+Other ways to access ACS data: Federal Statistical Research Data Centers (FSRDC) and 
+Custom Tables. 
+
+Refer to Table Shells and Table List for ACS table shells without the estimates or margins of 
+error filled in.  
+
+How Can I Assess the Accuracy of ACS Data?   
+All ACS data are estimates and subject to error. Here are some common terms that describe how 
+the Census Bureau protects respondent confidentiality while ensuring the accuracy of the data: 
+
+•  Measures of statistical reliability: Statistical measures such as margins of error (MOE) 
+and confidence intervals (CI) assess the likelihood that ACS estimates differ from the 
+actual population. 
+
+•  Item allocation: A statistical method for replacing missing survey responses using 
+
+answers from similar housing units or respondents. 
+
+3 
+
+ 
+ 
+ 
+ 
+•  Population controls: The number of housing units and select populations in the ACS are 
+
+from the Population Estimates Program’s official population estimates. 
+
+Calculating Custom ACS Estimates and Margins of Error (MOEs): ACS data users can 
+calculate estimates and their associated margins of error for multiple geographies or population 
+subgroups. For step-by-step instructions, navigate to section 8 of the Understanding and Using 
+American Community Survey Data: What All Data Users Need to Know.  
+
+Why Are Some ACS Data Unavailable? 
+Data users may sometimes encounter tables or estimates that are not available due to the ACS’s 
+data release rules, which ensure published data are high quality and safeguard respondents. For 
+more information about data release rules, refer to the Census Bureau’s ACS Publishing Rules. 
+
+Commonly Misunderstood Concepts and Terms 
+
+Ancestry: Ethnic origin or descent, “roots,” or heritage. This question is answered regardless of 
+a respondent’s race, country of origin, or Hispanic origin.  
+
+Citizenship: The ACS includes questions about citizenship, place of birth, and year of entry into 
+the United States; it does not ask about unauthorized immigration or immigrants’ legal status.  
+
+Family vs. Subfamily: Both families and subfamilies must include two or more people living 
+together, related by birth, marriage, or adoption. A family must include a householder, while 
+subfamilies do not.  
+
+Group Quarters: Group Quarters (GQs) include places like college dorms, treatment centers, 
+skilled nursing facilities, group homes, military barracks, correctional facilities, and facilities for 
+people experiencing homelessness. People living in GQs usually are not related to each other.  
+
+Home Value: Home values in the ACS are self-reported based on the owners’ understanding of 
+the value rather than a professional assessment or sale price. 
+
+Household vs. Family Household: A household includes all the people who occupy a housing 
+unit. A family household must include a family, but this could include a subfamily and/or 
+unrelated persons. The number of family households is equal to the number of families in the 
+ACS, but family households may also include unrelated people living with them. 
+
+Householder: One person in each household is designated as the householder—typically the 
+person in whose name the home is owned, being bought, or rented and who is listed on Line 1 of 
+the survey questionnaire.   
+
+Own vs. Related Children: An own child is a never-married child under age 18 who is a son or 
+daughter by birth, a stepchild, or an adopted child of the householder; a related child is any child 
+
+4 
+
+ 
+under 18 years old who is related to the householder by birth, marriage, or adoption (including 
+both ever- and never-married children. Children, by definition, exclude people under age 18 who 
+maintain households or are spouses or unmarried partners of householders. 
+
+Poverty: The Current Population Survey is the official source of national poverty estimates and 
+is preferred for national analysis; the ACS may be useful for subnational analyses. 
+
+Race and Hispanic Origin: Though many respondents expect to see a Hispanic origin category 
+on the race question, this question is currently asked separately. People of Hispanic origin may 
+be of any race(s). However, the Census Bureau is working on a plan to add a new, combined 
+race/ethnicity question to future censuses and surveys. 
+
+Rooms: Rooms must be separated by built-in archways or walls extending at least 6 inches and 
+going from floor to ceiling. They are not bathrooms, porches, balconies, foyers, halls, or 
+unfinished basements. 
+
+Sex: The 2024 ACS questionnaire includes categories for “male” and “female” but the Census 
+Bureau is testing a new ACS question on Sexual Orientation and Gender Identity (SOGI). 
+
+Telephone Service Available: In the 2019 ACS and later questionnaires, telephone service 
+includes “cell phones, land lines, or other phone devices.”  
+
+Tenure: Owner/renter status of occupied housing units. 
+
+Type of Internet Access: Service as “dial-up,” “DSL,” cable modem,” fiber-optic,” or other 
+categories. This question does not ask about the companies that provide internet access. 
+
+Type of Internet Access: Service as “dial-up,” “DSL,” cable modem,” fiber-optic,” or other 
+categories. This question does not ask about the companies that provide internet access. 
+
+Rural, urban, metropolitan, and micropolitan are terms that represent different geographic 
+designations:  
+Rural/urban 
+Defined by Census Bureau 
+Rural areas include all people, 
+housing, and territory that are 
+not within urban areas. 
+Updated every decennial 
+census 
+Delineated primarily by 
+population density 
+
+Metropolitan/micropolitan 
+Defined by Office of Management and Budget (OMB) 
+Areas outside of metropolitan and micropolitan areas are 
+not synonymous with rural areas 
+
+Updated with Census Bureau’s latest population 
+estimates 
+A collection of counties with a core urbanized area and 
+adjacent counties according to commuting patterns. 
+
+5 
+
+ 
+Zip Code Tabulation Areas (ZCTA) vs. Zip Codes: ZCTAs are areal representations of the 
+point-based ZIP Codes built using 2020 Census tabulation blocks. 
+
+For a full list of subject definitions, refer to Code Lists, Definitions, and Accuracy. Another 
+resource describes Why We Ask Each Question in the ACS.  
+
+Making Comparisons With ACS Data 
+
+Data users may want to compare ACS estimates to analyze patterns or trends. Here are some dos 
+and don’ts: 
+
+•  Do compare 1-year estimates with 1-year estimates, and 5-year estimates with 5-year 
+
+estimates. Don’t compare 1-year estimates with 5-year estimates. 
+
+•  Do compare non-overlapping datasets (for example, compare 2005-2009 ACS 5-year 
+estimates to 2010-2014 ACS 5-year estimates). Don’t compare overlapping estimates. 
+
+•  Do compare ACS and Decennial Census data on basic characteristics (sex, age, race, 
+
+Hispanic origin, and homeowner status).  
+
+•  Do be aware of changes in question wording, coding, and geographic boundaries that 
+
+may affect the comparability of data over time. 
+
+Find more comparison guidance here: Comparing ACS Data. 
+
+Where Can I Get Help Accessing and Using ACS Data? 
+
+For questions about using ACS data, please contact the ACS data user support team at 
+acso.users.support@census.gov or 1-866-805-5993. 
+
+The Census Bureau’s ACS Office offers extensive documentation, forums, training 
+opportunities, and partnerships to help data users with ACS data:  
+
+User Guides and Training Materials: 
+
+•  ACS Information Guide: This is a comprehensive beginner’s guide to the ACS. If you 
+
+are new to using ACS data, start here.  
+
+•  Handbooks: Downloadable PDF handbooks with specific how-to instructions and/or 
+
+case studies, including a glossary of terms.  
+
+•  Discovering the ACS: A comprehensive course with 4 video modules and Census 
+
+Academy course completion certificate  
+
+•  Data Gems: A series of "how-to" videos for data users. 
+•  Census Academy: Courses, webinars, and tutorials for all U.S. Census Bureau data 
+
+products. 
+
+•  Ask Census: Up-to-date FAQs about the ACS program, data collection, and research 
+
+with messaging from Census Bureau support representatives. 
+
+6 
+
+ 
+Opportunities to Connect with Other Data Users: 
+
+•  ACS Online Community: Forum for data users to share messages, materials, and 
+
+announcements related to ACS data, methods, and events.  
+
+•  ACS Data User Conferences: A biannual conference that shares information among 
+data users about key ACS data issues and applications and provides networking 
+opportunities. 
+
+•  ACS Data User GitHub: Repositories of code developed by data users who use 
+
+statistical software. 
+
+•  Slack Census developer’s forum: Messaging app for software developer data users. 
+
+Ask the Experts: 
+
+•  Data Dissemination Specialists:  
+
+A team of trainers from all six regional offices that work directly with individuals, 
+organizations, government officials, and others to help them understand Census Bureau 
+data. 
+
+•  State Data Centers (SDC): Partnership between the Census Bureau and all 50 states, 
+D.C., Puerto Rico, and Island areas to make data available through state agencies, 
+universities, libraries, and regional and local governments. 
+
+•  Census Information Centers (CICs): A network of nonprofit groups and national and 
+
+community-based organizations that provide Census Bureau data in accessible formats to 
+underserved populations. 
+
+For more information, refer to Guidance for Data Users. 
+
+ACS Acronyms 
+
+Acronym 
+ACS 
+ACSO 
+AIAN 
+API 
+BG 
+CDP 
+CI 
+CIC 
+CP 
+CV 
+DAS 
+DP 
+FSRDC 
+
+Meaning 
+American Community Survey 
+American Community Survey Office  
+American Indian Alaskan Native   
+Application Programming Interface 
+Block Group  
+Census Designated Place  
+Confidence Interval 
+Census Information Centers 
+Comparison Profiles  
+Coefficient of Variation  
+Disclosure Avoidance System 
+Data Profiles  
+Federal Statistical Research Data Centers 
+
+7 
+
+ 
+FTP 
+GCT 
+GEOID 
+GQ 
+MDAT 
+MOE 
+OMB 
+PEP 
+PRCS 
+PUMA 
+PUMS 
+SDC 
+TIGER 
+ZCTA 
+
+File Transfer Protocol   
+Geographic Comparison Tables 
+Geographic Identifier  
+Group Quarters 
+Microdata Access Tool 
+Margin of Error 
+Office of Management and Budget  
+Population Estimates Program 
+Puerto Rico Community Survey 
+Public Use Microdata Areas  
+Public Use Microdata Sample 
+State Data Centers 
+Topologically Integrated Geographic Encoding and Referencing 
+Zip Code Tabulation Areas (pronounced zik-tahs)  
+
+8 
+
+ 
+ 
+

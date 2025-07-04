@@ -1,0 +1,25 @@
+{
+  "discovery_summary": {
+    "total_variables": 8790,
+    "n_clusters": 283,
+    "n_noise_points": 564,
+    "silhouette_score": 0.7025630474090576,
+    "avg_uncertainty": 0.0992869809015619,
+    "discovery_timestamp": "2025-06-28T08:09:39.863563"
+  },
+  "parameters": {
+    "umap": {
+      "n_neighbors": 15,
+      "min_dist": 0.1,
+      "n_components": 3,
+      "metric": "cosine",
+      "random_state": 42
+    },
+    "hdbscan": {
+      "min_cluster_size": 10,
+      "min_samples": 5,
+      "metric": "euclidean",
+      "cluster_selection_epsilon": 0.1
+    }
+  }
+}

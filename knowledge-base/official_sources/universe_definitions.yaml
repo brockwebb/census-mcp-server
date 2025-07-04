@@ -1,0 +1,33 @@
+universes:
+  Civilian labor force:
+    census_note: Standard employment universe
+    definition: Civilians 16+ who are employed or actively seeking work
+    excludes: Military, institutionalized, not seeking work
+  Family households:
+    census_note: Subset of households - use for family-specific measures
+    definition: Households with related individuals
+    excludes: Single-person households, unrelated individuals
+  Geographic entity:
+    census_note: Administrative and statistical geography
+    definition: Census-defined geographic boundaries
+    includes: All official Census geographic levels
+  Households:
+    census_note: Standard household universe for income, housing costs
+    definition: All occupied housing units
+    excludes: Group quarters population
+  Housing units:
+    census_note: Physical housing stock universe
+    definition: All residential structures intended for occupancy
+    includes: Occupied and vacant units
+  Population:
+    census_note: Total population universe
+    definition: All persons counted in census/survey
+    includes: Household and group quarters population
+  School-age population:
+    census_note: Education enrollment universe
+    definition: Population 3-24 years old
+    includes: Enrolled and not enrolled
+  Workers:
+    census_note: Commuting and workplace universe
+    definition: Employed civilians 16+ with work location data
+    excludes: Unemployed, military, work-from-home varies

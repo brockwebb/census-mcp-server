@@ -1,0 +1,34 @@
+United States Census Bureau | An official website of the United States Government
+
+Guidance for Industry and
+Occupation Data Users
+
+We have created this page to help you figure out how to use these statistics. The guidance may explain
+
+which data sources to use and how to make comparisons. Related sites may offer further information.
+
+Because the industry and occupation classifications have changed overtime, crosswalks have been
+
+developed to facilitate analysis of data across classification systems. The most recent code lists and
+
+crosswalks are available for download.
+
+Industry and Occupation Indexes
+
+The Alphabetical Indexes of Industries and Occupations
+list over 21,000 industry and 31,000 occupation titles in
+alphabetical order.
+
+[/topics/employment/industry-occupation/guidance/indexes.html]
+
+Industry and Occupation Code
+Lists & Crosswalks
+
+Industry and occupation crosswalks to match Census
+codes overtime and across federal classification systems.
+
+[/topics/employment/industry-occupation/guidance/code-lists.html]
+
+Page Last Revised - November 20, 2021
+
+

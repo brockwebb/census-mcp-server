@@ -1,0 +1,58 @@
+Vintage 2023 Release Notes 
+
+The Vintage 2023 population estimates reflect the following methodological changes since the release 
+of the Vintage 2022 estimates. For more detail, please refer to the full Vintage 2023 methodology 
+statement: http://www.census.gov/programs-surveys/popest/technical-documentation/methodology.html.  
+
+Base Population 
+
+Whereas the latest decennial census has traditionally served as the population estimates base, the 2020 
+Census could not be adopted for this purpose. This was the result of unique challenges including the 
+unavailability of specific data required for estimates processing and delays caused by the COVID-19 
+pandemic. As a result, the Population Estimates Program developed a process for integrating multiple data 
+sources at varying levels of demographic and geographic detail to produce an estimate for April 1, 2020 
+that is referred to as the “blended base.” For Vintage 2023, these sources were: 
+
+•  2020 Census Data: 2020 Census data from the internal Census Edited File (CEF) tabulated into 
+2023 geographies at the subcounty level, infused with differentially private noise, and then 
+aggregated to create county, state, and national total resident, household, and group quarters (by 
+facility type)1 population counts. Vintage 2023 was the first to also incorporate Hispanic or Latino 
+origin from the 2020 Census PL 94-171 Redistricting File for the total resident population.    
+•  2020 Demographic Analysis (DA)2 Estimates: National population estimates by age and sex.  
+•  Vintage 2020 Population Estimates for April 1, 2020: Nation, state, and county population 
+
+estimates by age, sex, race, and Hispanic origin. As of Vintage 2023, Hispanic origin from Vintage 
+2020 is specifically used to distribute the household and group quarters (by facility type) 
+populations, since the total resident population by Hispanic origin is now being drawn from the 
+2020 Census.  
+
+In the Vintage 2023 blended base at the national level, resident, household, and group quarters 
+population totals are derived from the 2020 Census; age and sex detail is drawn from 2020 DA; race detail 
+comes from the Vintage 2020 estimates for April 1, 2020; and Hispanic origin detail comes from the 2020 
+Census. 
+
+The Vintage 2023 blended base for Puerto Rico did not feature changes relative to Vintage 2022. 
+
+1 The seven major GQ facility types utilized in estimates production are: correctional institutions, juvenile institutions, nursing 
+homes, other institutional facilities, college dormitories, military housing, and other noninstitutional facilities. While we do not 
+release data on GQ by facility type, we do use them to calculate population universes such as “civilian noninstitutionalized.” 
+2 The 2020 DA estimates of the national population by age, sex, and race or Hispanic origin on April 1, 2020 are developed from 
+current and historical vital records, estimates of international migration, and Medicare records. The DA estimates are independent 
+from the 2020 Census and are used to calculate net coverage error, one of the two main ways the U.S. Census Bureau uses 
+population estimates to measure coverage of the census. For more information, see https://www.census.gov/programs-
+surveys/decennial-census/about/coverage-measurement/da.html. 
+
+1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

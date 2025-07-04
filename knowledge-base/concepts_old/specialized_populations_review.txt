@@ -1,0 +1,192 @@
+# Specialized_Populations Concepts - Review Queue (0.75-0.9 confidence)
+# Human review required - edit and mark as 'reviewed' when done
+
+## 1. Naturalized Citizens (confidence: 0.85)
+ID: cendata:NaturalizedCitizens
+Universe: Foreign-born population
+Stat Method: count
+Tables: ['B05001']
+Definition: Foreign-born population who became US citizens
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 2. Non-Citizens (confidence: 0.85)
+ID: cendata:NonCitizens
+Universe: Total population
+Stat Method: count
+Tables: ['B05001']
+Definition: Population who are not US citizens
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 3. Recent Immigrants (confidence: 0.80)
+ID: cendata:RecentImmigrants
+Universe: Foreign-born population
+Stat Method: count
+Tables: ['B05005']
+Definition: Foreign-born who entered US in last 10 years
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 4. Year of Entry (confidence: 0.75)
+ID: cendata:YearOfEntry
+Universe: Foreign-born population
+Stat Method: count
+Tables: ['B05005']
+Definition: Distribution by year foreign-born entered US
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 5. Region of Birth (confidence: 0.80)
+ID: cendata:RegionOfBirth
+Universe: Foreign-born population
+Stat Method: count
+Tables: ['B05006']
+Definition: Foreign-born population by world region of birth
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 6. Country of Birth (confidence: 0.75)
+ID: cendata:CountryOfBirth
+Universe: Foreign-born population
+Stat Method: count
+Tables: ['B05006']
+Definition: Foreign-born population by specific country of birth
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 7. Language Spoken at Home (confidence: 0.85)
+ID: cendata:LanguageSpokenAtHome
+Universe: Population 5 years and over
+Stat Method: count
+Tables: ['B16001']
+Definition: Primary language spoken at home
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 8. English Language Proficiency (confidence: 0.80)
+ID: cendata:EnglishProficiency
+Universe: Population 5 years and over who speak non-English language
+Stat Method: count
+Tables: ['B16001']
+Definition: Ability to speak English among non-English speakers
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 9. Limited English Proficiency (confidence: 0.85)
+ID: cendata:LimitedEnglishProficiency
+Universe: Population 5 years and over
+Stat Method: rate
+Tables: ['B16001']
+Definition: Population speaking English less than very well
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 10. Spanish Speakers (confidence: 0.85)
+ID: cendata:SpanishSpeakers
+Universe: Population 5 years and over
+Stat Method: count
+Tables: ['B16001']
+Definition: Population speaking Spanish at home
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 11. Asian Language Speakers (confidence: 0.75)
+ID: cendata:AsianLanguageSpeakers
+Universe: Population 5 years and over
+Stat Method: count
+Tables: ['B16001']
+Definition: Population speaking Asian and Pacific Island languages
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 12. American Indian and Alaska Native Population (confidence: 0.85)
+ID: cendata:TribalPopulation
+Universe: Total population
+Stat Method: count
+Tables: ['B02001']
+Definition: Population identifying as American Indian or Alaska Native
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 13. Reservation Population (confidence: 0.75)
+ID: cendata:ReservationPopulation
+Universe: Population on American Indian reservations
+Stat Method: count
+Tables: ['B02001']
+Definition: Population living on American Indian reservations
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 14. Rural Population (confidence: 0.80)
+ID: cendata:RuralPopulation
+Universe: Total population
+Stat Method: count
+Tables: ['B01001']
+Definition: Population in rural areas
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 15. Interstate Migrants (confidence: 0.75)
+ID: cendata:MigratingPopulation
+Universe: Population 1 year and over
+Stat Method: count
+Tables: ['B07001']
+Definition: Population who moved between states
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 16. College Student Population (confidence: 0.85)
+ID: cendata:CollegeStudents
+Universe: Population 18 to 24 years
+Stat Method: count
+Tables: ['B14004']
+Definition: Students enrolled in college or university
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 17. Active Military Personnel (confidence: 0.75)
+ID: cendata:MilitaryPersonnel
+Universe: Population 18 years and over
+Stat Method: count
+Tables: ['B21001']
+Definition: Currently serving in Armed Forces
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 18. Communities of Color (confidence: 0.75)
+ID: cendata:CommunitiesOfColor
+Universe: Total population
+Stat Method: count
+Tables: ['B02001']
+Definition: Non-white racial and ethnic populations
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 19. Multiracial Population (confidence: 0.80)
+ID: cendata:MultiracialPopulation
+Universe: Total population
+Stat Method: count
+Tables: ['B02001']
+Definition: Population identifying with two or more races
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 20. Multigenerational Households (confidence: 0.75)
+ID: cendata:MultigenerationalHouseholds
+Universe: Family households
+Stat Method: count
+Tables: ['B11017']
+Definition: Households with three or more generations
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+
+## 21. Cohabiting Couples (confidence: 0.75)
+ID: cendata:CohabitingCouples
+Universe: Couple households
+Stat Method: count
+Tables: ['B11009']
+Definition: Unmarried partner households
+Status: NEEDS_REVIEW
+--------------------------------------------------------------------------------
+

@@ -1,0 +1,2073 @@
+Understanding and Using  
+American Community Survey Data
+What Journalists Need to Know
+
+Issued February 2020
+
+Acknowledgments
+
+Linda A. Jacobsen, Vice President, U.S. Programs, Population Reference 
+Bureau (PRB), and Mark Mather, Associate Vice President, U.S. Programs, 
+PRB, drafted this handbook in partnership with the U.S. Census Bureau’s 
+American Community Survey Office. Other PRB staff who assisted in 
+drafting and reviewing the handbook include Paola Scommegna and Lillian 
+Kilduff. Some of the material in this handbook was adapted from the Census 
+Bureau’s 2008 publication, “A Compass for Understanding and Using 
+American Community Survey Data: What the Media Needs to Know,” drafted 
+by William H. Frey, Brad Edmondson, and John P. DeWitt.
+
+American Community Survey data users who provided feedback and 
+case studies for this handbook include D’Vera Cohn, Joe Germuska, Paul 
+Overberg, and Kristi Tanner.
+
+Nicole Scanniello, Janice Valdisera, Gretchen Gooding, and Caleb Hopler, 
+Census Bureau, contributed to the planning and review of this handbook.  
+
+The American Community Survey program is under the direction of Albert 
+E. Fontenot Jr., Associate Director for Decennial Census Programs, and 
+James B. Treat, Assistant Director for Decennial Census Programs, and 
+Donna M. Daily, Chief, American Community Survey Office.
+
+Other individuals from the Census Bureau who contributed to the review and 
+release of these handbooks include Jennifer Berkley, Naomi Evangelista, 
+Justin Keller, Kirby Posey, and Michael Starsinic.
+
+Linda Chen, Amanda J. Perry, Faye E. Brock, and Christine E. Geter 
+provided publication management, graphics design and composition, 
+and editorial review for print and electronic media under the direction of 
+Janet Sweeney, Chief of the Graphic and Editorial Services Branch, Public 
+Information Office. 
+
+Understanding and Using  
+American Community Survey Data
+What Journalists Need to Know
+
+Issued February 2020
+
+U.S. Department of Commerce 
+Wilbur Ross, 
+Secretary
+
+Karen Dunn Kelley,  
+Deputy Secretary 
+
+U.S. CENSUS BUREAU 
+Steven Dillingham, 
+Director
+
+Suggested Citation
+
+  U.S. Census Bureau,  
+Understanding and Using  
+American Community Survey  
+Data: What Journalists Need to 
+Know, U.S. Government Printing 
+Office, Washington, DC, 2020.
+
+U.S. CENSUS BUREAU 
+Steven Dillingham, 
+Director
+
+Ron Jarmin, 
+Deputy Director and Chief Operating Officer
+
+Albert E. Fontenot Jr., 
+Associate Director for Decennial Census Programs
+
+James B. Treat, 
+Assistant Director for Decennial Census Programs
+
+Donna M. Daily, 
+Chief, American Community Survey Office
+
+Contents
+
+1. ACS Basics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+
+2. How Journalists Use ACS Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+
+3. Accessing ACS Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+
+4. Geography and the ACS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+
+5. Case Studies Using ACS Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+
+6. Additional Resources . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+
+Understanding and Using American Community Survey Data  iii 
+What Journalists Need to Know  iii
+
+U.S. Census Bureau 
+ 
+This page is intentionally blank.
+
+UNDERSTANDING AND USING AMERICAN  
+COMMUNITY SURVEY DATA: WHAT 
+JOURNALISTS NEED TO KNOW
+
+Finding fresh data for news stories used to be difficult. 
+With the U.S. Census Bureau’s American Community 
+Survey (ACS), data are now available on a wide range 
+of topics, whenever they are needed. The ACS provides 
+journalists with data they can use to strengthen news 
+coverage and feature stories with up-to-date social, 
+economic, housing, and demographic information 
+about America’s communities. 
+
+The ACS has become a valuable resource for data-
+driven journalism—where the goal is to tell compelling 
+stories that are grounded in data. This guide provides 
+a brief overview of how journalists are using ACS data 
+to make comparisons across geographic areas and 
+population subgroups, support anecdotal evidence 
+by providing a broader context, report on trends and 
+reversals, and conduct research. It also describes some 
+
+1. ACS BASICS
+
+The American Community Survey (ACS) is a nation-
+wide survey designed to provide communities with 
+reliable and timely social, economic, housing, and 
+demographic data every year. A separate annual sur-
+vey, called the Puerto Rico Community Survey (PRCS), 
+collects similar data about the population and hous-
+ing units in Puerto Rico. The U.S. Census Bureau uses 
+data collected in the ACS and the PRCS to provide 
+estimates on a broad range of population, housing 
+unit, and household characteristics for states, counties, 
+cities, school districts, congressional districts, census 
+tracts, block groups, and many other geographic areas.
+
+The ACS has an annual sample size of about 3.5 million 
+addresses, with survey information collected nearly 
+every day of the year. Data are pooled across a calen-
+dar year to produce estimates for that year. As a result, 
+ACS estimates reflect data that have been collected 
+over a period of time rather than for a single point in 
+time as in the decennial census, which is conducted 
+every 10 years and provides population counts as of 
+April 1 of the census year.
+
+ACS 1-year estimates are data that have been col-
+lected over a 12-month period and are available for 
+geographic areas with at least 65,000 people. Starting 
+with the 2014 ACS, the Census Bureau is also produc-
+ing “1-year Supplemental Estimates”—simplified ver-
+sions of popular ACS tables—for geographic areas with 
+at least 20,000 people.
+
+important considerations when working with ACS 
+data—particularly estimates for small geographic areas 
+and small population groups. 
+
+For more detailed information about the ACS—how 
+to judge the accuracy of ACS estimates, understand-
+ing multiyear estimates, knowing which geographic 
+areas are covered in the ACS, and how to access ACS 
+data on the Census Bureau’s Web site—see the Census 
+Bureau’s handbook on Understanding and Using 
+American Community Survey Data: What All Data Users 
+Need to Know.1 
+
+1 U.S. Census Bureau, Understanding and Using American  
+Community Survey Data: What All Data Users Need to Know,  
+<www.census.gov/programs-surveys/acs/guidance/handbooks 
+/general.html>. 
+
+What Is the ACS? 
+
+•  The ACS is a nationwide survey designed to 
+
+provide communities with reliable and timely 
+data every year.
+
+•  Data are available for a wide range of geo-
+
+graphic areas.
+
+•  The annual sample includes 3.5 million 
+
+addresses.
+
+•  Data are pooled across years to produce esti-
+
+mates for small geographic areas.
+
+•  The ACS includes social, economic, housing, 
+
+and demographic measures.
+
+•  The ACS was designed to provide estimates 
+of the characteristics of the population, not 
+population counts. 
+
+The Census Bureau combines 5 consecutive years of 
+ACS data to produce multiyear estimates for geo-
+graphic areas with fewer than 65,000 residents. These 
+5-year estimates represent data collected over a period 
+of 60 months. 
+
+Understanding and Using American Community Survey Data  1 
+What Journalists Need to Know  1
+
+U.S. Census BureauTopics Covered in the ACS
+
+The primary purpose of the ACS is to help Congress 
+determine funding and policies for a wide variety of 
+federal programs. In fact, ACS data help determine 
+how more than $675 billion in federal funds are dis-
+tributed to state and local areas each year.2 Because of 
+this, the topics covered by the ACS are diverse. They 
+include social, economic, housing, and demographic 
+measures, which yield a wealth of information jour-
+nalists can use to write better stories (see Table 1.1).3 
+Various tables in the ACS have different “universes,” or 
+base reference totals against which all other charac-
+teristics are compared. Some tables cover population 
+characteristics, while others cover housing character-
+istics. Among the population tables, some cover the 
+entire population (such as tables of the population by 
+age), while some cover only a subset of the population 
+(such as tables of employment status, which include 
+data only for the population 16 years and older).
+
+2 U.S. Census Bureau, “Uses of Census Bureau Data in Federal 
+
+Funds Distribution,” 2017, <www.census.gov/library/working 
+-papers/2017/decennial/census-data-federal-funds.html>. 
+
+3 U.S. Census Bureau, American Community Survey (ACS), Subjects 
+
+Included in the Survey, <www.census.gov/programs-surveys/acs 
+/guidance/subjects.html>. 
+
+Many of these topics contain numerous subtopics. For 
+example, “Journey to Work”—that is, commuting—
+includes data on means of transportation (e.g., car, 
+truck, or van; bus; bicycle; walking), travel time (both 
+duration and time departed), and whether a carpool 
+is used. Data on the foreign-born population include 
+information about citizenship, place of birth, and year 
+of entry. 
+
+TIP: The ACS was designed to provide estimates of 
+the characteristics of the population, not to provide 
+counts of the population in different geographic areas 
+or  population  subgroups.  The  ACS  can  tell  you  the 
+share of young adults in Multnomah County, Oregon, 
+who  bike  to  work,  but  is  not  intended  to  tell  you 
+how  many  young  adults  live  in  Multnomah  County. 
+For basic counts of the U.S. population by age, sex, 
+race,  and  Hispanic  origin,  visit  the  Census  Bureau’s 
+Population and Housing Unit Estimates Web page.*
+
+* U.S. Census Bureau, Population and Housing Unit Estimates, 
+
+<www.census.gov/popest/>.
+
+  Table 1.1.  Population and Housing Data Included in American Community Survey Data Products
+
+Social Characteristics
+Ancestry
+Citizenship Status
+Disability Status1
+Educational Attainment
+Fertility
+Grandparents as Caregivers
+Language Spoken at Home
+Marital History2
+Marital Status
+Migration/Residence 1 Year Ago
+Period of Military Service
+Place of Birth
+School Enrollment
+Undergraduate Field of  
+
+Degree3
+
+Veteran Status2
+Year of Entry
+
+Economic Characteristics
+Class of Worker
+Commuting (Journey to Work)
+Employment Status
+Food Stamps/Supplemental 
+
+Nutrition Assistance Program 
+(SNAP)4
+
+Health Insurance Coverage2
+Income and Earnings
+Industry and Occupation
+Place of Work
+Poverty Status
+Work Status Last Year
+
+Housing Characteristics
+Computer and Internet Use5
+House Heating Fuel
+Kitchen Facilities
+Occupancy/Vacancy Status
+Occupants Per Room
+
+Plumbing Facilities6
+Rent
+Rooms/Bedrooms
+Selected Monthly Owner Costs
+Telephone Service Available
+Tenure (Owner/Renter)
+Units in Structure
+Value of Home
+Vehicles Available
+Year Householder Moved Into 
+
+Unit
+
+Year Structure Built
+
+Demographics Characteristics
+Age and Sex
+Group Quarters Population
+Hispanic or Latino Origin
+Race
+Relationship to Householder
+Total Population
+
+1 Questions on Disability Status were significantly revised in the 2008 survey to cause a break in series. 
+2 Marital History, Veterans’ Service-Connected Disability Status and Ratings, and Health Insurance Coverage were added in the 2008 survey. 
+3 Undergraduate Field of Degree was added in the 2009 survey. 
+4 Food Stamp Benefit amount was removed in 2008. 
+5 Computer and Internet Use was added to the 2013 survey. 
+6 One of the components of Plumbing Facilities, flush toilet, and Business or Medical Office on Property questions were removed in 2016.
+Source: U.S. Census Bureau. 
+
+2   Understanding and Using American Community Survey Data 
+2   What Journalists Need to Know
+
+U.S. Census Bureau 
+A good way to learn about the topics covered in the 
+ACS is to explore the information available through 
+the Census Bureau’s data.census.gov Web site.4 The 
+Data Profiles in data.census.gov, which include the 
+most frequently requested social, economic, housing, 
+and demographic data, are especially useful for novice 
+users who want to explore the range of topics avail-
+able.5  
+
+Journalists with expertise in using statistical packages 
+may also be interested in the Public Use Microdata 
+Sample (PUMS) files, which contain a sample of 
+individual records of people and households that 
+responded to the survey (stripped of all identifying 
+information). The PUMS files permit analysis of specific 
+population groups and custom variables that are not 
+available through pretabulated ACS tables.6 
+
+When Are ACS Data Released? 
+
+ACS data are very timely because they are generally 
+released during the year immediately following the 
+year in which they are collected. The Census Bureau’s 
+ACS Data Releases Web page provides information 
+about upcoming ACS data releases, including sched-
+uled dates, notes about new estimates or new guid-
+ance, and technical information about geography and 
+product changes. Users can also browse the notes 
+from previous years.7  
+
+The Census Bureau provides accredited journalists 
+with advance access to ACS data. Media embargos are 
+typically available 48 hours before the public release 
+of ACS 1-year and 5-year published estimates. 
+
+For more information about ACS data releases or 
+to request an interview, please contact the Census 
+Bureau’s Public Information Office by phone (301-763-
+3030) or e-mail <pio@census.gov>. 
+
+4 U.S. Census Bureau, <https://data.census.gov>. 
+5 U.S. Census Bureau, data.census.gov, Data Profiles, <https://data 
+
+.census.gov/cedsci/table?q=dp>.
+
+6 U.S. Census Bureau, American Community Survey (ACS), PUMS 
+
+7 U.S. Census Bureau, American Community Survey (ACS), Data  
+
+Data, <www.census.gov/programs-surveys/acs/data/pums 
+.html>. 
+
+Releases, <www.census.gov/programs-surveys/acs/news/data 
+-releases.html>. 
+
+Understanding and Using American Community Survey Data  3 
+What Journalists Need to Know  3
+
+U.S. Census Bureau2. HOW JOURNALISTS USE ACS DATA 
+
+Journalists use the American Community Survey (ACS) 
+for a wide range of applications—from accessing a 
+single statistic in data.census.gov to complex analyses 
+of data for thousands of geographic areas. Many of the 
+best news articles based on ACS data are written with-
+out the restriction of a deadline, by searching through 
+tables on the U.S. Census Bureau’s Web site to find the 
+hidden stories in the data. This section provides some 
+examples of how journalists use ACS data in their work. 
+
+Using the ACS to Create Rankings or 
+Identify Outliers
+
+Journalists, bloggers, and others often use rankings 
+to draw attention to geographic areas or population 
+subgroups at the top or bottom of a distribution. For 
+example, Chris Wilson at Time was interested in writing 
+a story about occupations with high proportions of 
+people working past retirement age. Using ACS data, 
+he determined that tax preparers and members of the 
+clergy had among the highest concentrations of work-
+ers over age 65—at around 14 percent each.8  
+
+Journalists interested in ranking population and hous-
+ing characteristics across states can start with the 
+Census Bureau’s Ranking Tables, which provide state-
+level rankings for more than 80 key ACS variables.9  
+
+The ACS can also be used to identify outliers—data 
+points that stand out because they are very different 
+from other data points in a ranked series of numbers. 
+Emily Alpert Reyes at the Los Angeles Times explains 
+why outliers are so appealing:
+
+“Outliers are easy to find—and they can be truly 
+fascinating stories. What places in your area have 
+the lowest levels of Internet use? The most single 
+parents? The most multiracial people? If the answers 
+end up surprising you, your readers will probably 
+also be interested—and want to know the reasons 
+behind those surprising facts. It’s a great hook for 
+traditional reporting—getting out and knocking on 
+doors and finding the real people who are living 
+those statistics.”10
+
+8 Chris Wilson, Time, “The 50 Jobs Where People Work the  
+
+Longest,” April 5, 2017, <http://time.com/4726657/retirement 
+-age-jobs/>. 
+
+9 U.S. Census Bureau, American Community Survey, Ranking Tables, 
+
+<www.census.gov/acs/www/data/data-tables-and-tools/ranking 
+-tables/index.php>. 
+
+10 Emily Alpert Reyes, “Finding Stories in Census Data,” October 
+2014, <https://source.opennews.org/articles/finding-stories-census 
+-data/>. 
+
+Examples of How Journalists Can Use 
+ACS Data 
+
+•  Using the ACS to create rankings or identify 
+outliers: ACS data are frequently used to 
+rank states, metropolitan areas, counties, 
+and other geographic areas on key social 
+and economic statistics.
+
+•  Using the ACS to provide a broader context: 
+ACS data are available for the nation, states, 
+counties, and local communities, enabling 
+journalists to put data for local areas into a 
+broader context.
+
+•  Using the ACS to report on trends and 
+
+reversals: Data on a wide range of topics are 
+updated every year, sharpening journalists’ 
+understanding of key social, economic, hous-
+ing, and demographic trends.
+
+TIP: Although using ACS data to create rankings and 
+identify outliers can be very appealing, journalists 
+need to use caution when comparing ACS esti-
+mates—especially those for small geographic areas 
+or population subgroups. ACS estimates are based 
+on only a sample, rather than all housing units and 
+people, so they have a degree of uncertainty associ-
+ated with them, called sampling error. In general, the 
+larger the sample, the smaller the level of sampling 
+error.
+
+To help users understand the impact of sampling 
+error on data reliability, the Census Bureau provides 
+a “margin of error” for each published ACS estimate. 
+The margin of error gives users a range of values within 
+which the actual, “real-world” value is likely to fall. 
+
+In general, data users should be careful in drawing con-
+clusions about two ACS estimates because they may 
+not be statistically different. 
+
+TIP: In the case of state-level estimates and com-
+parisons between large population subgroups, 
+sizable differences between estimates are likely to 
+be statistically significant. But for estimates based 
+on smaller segments of the ACS sample, even large 
+differences between estimates may not be statisti-
+cally significant.
+
+4   Understanding and Using American Community Survey Data 
+4   What Journalists Need to Know
+
+U.S. Census Bureau 
+ 
+Testing for Statistical Significance 
+
+Suppose a journalist is interested in writing a story 
+about states with the highest median household 
+income. He or she can use Table B19013: Median 
+Household Income in the Past 12 Months (in 2016 
+Inflation-Adjusted Dollars) to quickly generate a table 
+of median household income values across states 
+and the District of Columbia. In 2016, it appears that 
+Maryland had the highest median household income 
+($78,945), followed by Alaska ($76,440), New Jersey 
+($76,126), and District of Columbia ($75,506). However, 
+without conducting a statistical test, you cannot know 
+whether the differences between these estimates are 
+statistically significant.
+
+The Census Bureau created a Statistical Testing Tool 
+to help data users test whether ACS estimates are 
+statistically different from one another. Data users can 
+simply copy ACS estimates and their margins of error 
+into the tool to get instant results of statistical tests. In 
+this example, the results indicate that the 2016 median 
+household income estimate for Maryland is not statisti-
+cally different from that of District of Columbia (see 
+Table 2.1).
+
+For more information about margins of error, see the 
+section on “Understanding Error and Determining 
+Statistical Significance” in the Census Bureau’s 
+handbook on Understanding and Using American 
+Community Survey Data: What All Data Users Need to 
+Know.11
+
+11 U.S. Census Bureau, American Community Survey (ACS),  
+
+Understanding and Using American Community Survey Data: What All 
+Data Users Need to Know, <www.census.gov/programs-surveys/acs 
+/guidance/handbooks/general.html>. 
+
+  Table 2.1.  Median Household Income in 2016 in Selected States and the District of Columbia: Results From 
+                the Census Bureau’s Statistical Testing Tool 
+
+State
+
+Median 
+household 
+income
+
+Margin 
+of error 
+(±)
+
+Maryland
+
+$78,945
+
+±737
+
+l
+
+d
+n
+a
+y
+r
+a
+M
+
+X
+
+y
+e
+s
+r
+e
+J
+w
+e
+N
+
+f
+o
+t
+c
+i
+r
+t
+s
+i
+D
+
+a
+k
+s
+a
+A
+
+l
+
+i
+
+a
+b
+m
+u
+o
+C
+
+l
+
+s
+t
+t
+e
+s
+u
+h
+c
+a
+s
+s
+a
+M
+
+t
+u
+c
+i
+t
+c
+e
+n
+n
+o
+C
+
+i
+i
+
+a
+w
+a
+H
+
+e
+r
+i
+h
+s
+p
+m
+a
+H
+w
+e
+N
+
+i
+
+i
+
+a
+n
+g
+r
+i
+V
+
+i
+
+a
+n
+r
+o
+f
+i
+l
+
+a
+C
+
+Yes
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Alaska
+
+$76,440
+
+±2230 Yes
+
+X
+
+No
+
+No
+
+No
+
+No
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+New Jersey
+
+$76,126
+
+±701 Yes
+
+No
+
+X
+
+No
+
+No
+
+No
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+District of Columbia
+
+$75,506
+
+±3416 No
+
+No
+
+No
+
+X
+
+No
+
+No
+
+No
+
+Yes
+
+Yes
+
+Yes
+
+Massachusetts
+
+$75,297
+
+±771 Yes
+
+No
+
+No
+
+No
+
+X
+
+No
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Hawaii
+
+$74,511
+
+±1776 Yes
+
+No
+
+No
+
+No
+
+No
+
+X
+
+No
+
+Yes
+
+Yes
+
+Yes
+
+Connecticut
+
+$73,433
+
+±1059 Yes
+
+Yes
+
+Yes
+
+No
+
+Yes
+
+No
+
+X
+
+Yes
+
+Yes
+
+Yes
+
+New Hampshire
+
+$70,936
+
+±1422 Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+X
+
+Yes
+
+Yes
+
+Virginia
+
+$68,114
+
+±748 Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+X
+
+No
+
+California
+
+$67,739
+
+±356 Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+No
+
+X
+
+X Not applicable.
+Note: Cells labeled “No” indicate that the difference between two estimates is not statistically significant.
+Source: Calculations from the U.S. Census Bureau’s Statistical Testing Tool, based on data from data.census.gov, Table B19013: Median  
+Household Income in the Past 12 Months (in 2016 Inflation-Adjusted Dollars). 
+
+Understanding and Using American Community Survey Data  5 
+What Journalists Need to Know  5
+
+U.S. Census Bureau 
+ 
+ 
+ 
+Using the ACS to Provide a Broader Context 
+
+Many news articles rely on anecdotes, stories, and 
+vignettes to create narratives that will resonate 
+with a broad audience. For example, a recent story 
+about childless cities in Iowa began with a journal-
+ist’s description of an empty playground in the small 
+town of Wiota, located in Cass County. Kyle Munson 
+with the Des Moines Register used ACS data to put his 
+anecdotal evidence into a broader context: In 2016, 
+there were at least 280 Iowa cities with more people 
+aged 65 and older than people under age 18, and there 
+were five small towns with no children identified by the 
+survey.12 (Cities and towns are classified as “Places” in 
+the ACS data.)
+
+ACS data could also be used to compare data for a 
+local community, such as Wiota, with data for the 
+broader county or state in which that community is 
+located. For example, the percentage of the popula-
+tion aged 65 and older in Wiota (29 percent) appears 
+to be higher than the percentage in Cass County (21 
+percent) and the statewide average in Iowa (16 per-
+cent) (see Table 2.2), but results from the Statistical 
+Testing Tool show that the estimate for Wiota is not 
+significantly different from that of the county or state 
+in which it is located.
+
+  Table 2.2. Population Aged 65 and Older in Selected  
+
+              Geographic Areas in Iowa: 2012–2016 
+
+65 years and 
+older (%)
+
+Margin of 
+error
+
+Iowa
+
+Cass County, Iowa
+
+Wiota city, Iowa
+
+15.8
+
+21.4
+
+29.1
+
+0.1
+
+0.1
+
+16.5
+
+Source: U.S. Census Bureau, data.census.gov, Table DP05: ACS 
+Demographic and Housing Estimates. 
+
+The estimates shown in Table 2.2 cover the period 
+from 2012 to 2016. This is because ACS estimates 
+for areas with fewer than 20,000 people—like Cass 
+County and Wiota—are produced only in the form of 
+5-year estimates. However, for larger areas with at 
+least 65,000 people (or 20,000 people in the case of 
+1-year Supplemental Estimates) both 1-year and 5-year 
+
+12 Kyle Munson, “Childless Iowa: More communities left with few, if 
+any, kids,” Des Moines Register, Dec. 27, 2017, <www.desmoinesregister 
+.com/story/news/local/columnists/kyle-munson/2017/12/27/childless 
+-small-towns-iowa-struggle-aging-population/909256001/>. 
+
+data are available, so data users need to choose which 
+estimates to use.13 
+
+When comparing ACS estimates across different 
+geographic areas or population subgroups, data users 
+should avoid comparing ACS single-year estimates 
+with ACS multiyear estimates. That is, 1-year estimates 
+should only be compared with other 1-year estimates, 
+and 5-year estimates should only be compared with 
+other 5-year estimates. In the example shown in Table 
+2.2, only 5-year estimates are available for Cass County 
+and Wiota city, while both 1-year and 5-year estimates 
+are available for the state of Iowa. Thus, data users 
+should compare 2012–2016 ACS 5-year estimates for 
+Wiota with 2012–2016 ACS 5-year estimates for Iowa, 
+even though more recent, single-year estimates for 
+2016 are available for Iowa. 
+
+For more information on comparing geographic areas, 
+see the section on “Comparing ACS Data Across 
+Geographic Areas” in the Census Bureau’s handbook 
+on Understanding and Using American Community 
+Survey Data: What All Data Users Need to Know.14 
+
+Using the ACS to Report on Trends and 
+Reversals
+
+Because the data are released annually, journalists can 
+also use ACS data to identify year-to-year changes in 
+population and housing characteristics. For example, 
+Kristi Tanner, a journalist with the Detroit Free Press, 
+used ACS data to look at income trends in Michigan. She 
+reported that median household income in Michigan was 
+$52,492 in 2016, up 1.8 percent from the previous year.15 
+Figure 2.1 shows trends in median household income in 
+Michigan from 2012 through 2016, from the Comparison 
+Profiles in data.census.gov. Comparison Profiles show 
+data side-by-side from different years, indicating where 
+there are statistically significant differences between 
+estimates.16 
+
+In some cases, the data may show a continuation of 
+trends from previous years, as in the example above. In 
+
+13 Starting with the 2014 ACS, the Census Bureau is also produc-
+
+ing a series of 1-year Supplemental Estimates—simplified versions of 
+popular ACS tables available for geographic areas with at least 20,000 
+people. 
+
+14 U.S. Census Bureau, American Community Survey (ACS),  
+
+Understanding and Using American Community Survey Data: What All 
+Data Users Need to Know, <www.census.gov/programs-surveys/acs 
+/guidance/handbooks/general.html>. 
+
+15 Kristi Tanner, “Census data: For a fourth year, Michiganders see 
+
+incomes rise,” Detriot Free Press, Sept. 14, 2017, <www.freep.com 
+/story/news/2017/09/14/michiganders-making-more-cash-even 
+-detroit-new-stats-say/660518001/>. 
+
+16 U.S. Census Bureau, data.census.gov, Comparison Profiles, 
+
+<https://data.census.gov/cedsci/table?q=cp>.
+
+6   Understanding and Using American Community Survey Data 
+6   What Journalists Need to Know
+
+U.S. Census BureauFigure 2.1.  Median Household Income in Michigan (in 2016 Dollars): 2012 to 2016
+
+*Estimate is statistically different from 2016 estimate. 
+Source: U.S. Census Bureau, data.census.gov, Table CP03: Comparative Economic Characteristics. 
+
+other cases, the data may show no change or a rever-
+sal. For example, the child poverty rate in Colorado 
+fell from 18.5 percent in 2012 to 16.9 percent in 2013—a 
+significant year-to-year decline. Figure 2.2 shows the 
+results from data.census.gov.
+
+Comparing ACS data over time is straightforward 
+when working with 1-year estimates for larger geo-
+graphic areas and population subgroups. But using 
+multiyear estimates to look at trends for small popu-
+lations can be challenging because they rely on data 
+
+Figure 2.2. Child Poverty Rates in Colorado: 2010 to 2013
+
+Source: U.S. Census Bureau, data.census.gov, Table S1701: Poverty Status in the Past 12 Months. 
+
+Understanding and Using American Community Survey Data  7 
+What Journalists Need to Know  7
+
+U.S. Census Bureaucombined over a 5-year period. For example, com-
+parisons of 5-year estimates from the 2011–2015 ACS 
+and the 2012–2016 ACS are unlikely to show much 
+difference because 4 of the years overlap; both sets of 
+estimates include the same data collected from 2012 
+through 2015.17 The Census Bureau suggests compar-
+ing 5-year estimates that do not overlap—for example, 
+comparing 2007–2011 ACS 5-year estimates with 
+2012–2016 ACS 5-year estimates. 
+
+There are additional challenges to making comparisons 
+over time, such as changes made to geographic area 
+boundaries, questionnaire items, and methods. For 
+example, the Census Bureau made substantial changes 
+to the 2008 ACS questions on labor force participa-
+tion and the number of weeks worked. As a result, 
+the Census Bureau recommends using caution when 
+comparing 2008 and later labor force estimates with 
+estimates from 2007 and earlier. 
+
+Data users can learn about issues impacting ACS 
+data—including changes in the survey design, col-
+lection, and production procedures—in the “User 
+Notes” section of the ACS Technical Documentation. 
+The Census Bureau also provides information about 
+
+important changes in the “New and Notable” informa-
+tion that is provided with each new ACS data release.18  
+
+The ACS was modeled after the long form of the 
+decennial census, and journalists interested in long-
+term trends can, in many cases, make valid compari-
+sons between ACS and the 2000 Census (and earlier 
+decennial census) estimates. However, differences in 
+residence rules (defining who is included in a census 
+or survey), universes (the total that is being counted), 
+and time periods covered in the two surveys should 
+be considered when making these comparisons. More 
+information about these differences is available in 
+the section on “Differences Between the ACS and the 
+Decennial Census” in the Census Bureau’s handbook 
+on Understanding and Using American Community 
+Survey Data: What All Data Users Need to Know.19 
+
+For detailed guidance on comparing ACS and 2000 
+Census data, visit the Census Bureau’s Web page on 
+Comparing ACS Data.20  
+
+17 While the interpretation of this difference is difficult, these 
+comparisons can be made with caution. Users who are interested in 
+comparing overlapping multiyear period estimates should refer to the 
+section on “Understanding Error and Determining Statistical Signifi-
+cance” in the Census Bureau’s handbook on Understanding and Using 
+American Community Survey Data: What All Data Users Need to Know 
+<www.census.gov/programs-surveys/acs/guidance/handbooks 
+/general.html> for more information. 
+
+18 U.S. Census Bureau, American Community Survey (ACS), Data 
+
+Releases, <www.census.gov/programs-surveys/acs/news/data 
+-releases.html>. 
+
+19 U.S. Census Bureau, American Community Survey (ACS),  
+
+Understanding and Using American Community Survey Data: What All 
+Data Users Need to Know, <www.census.gov/programs-surveys/acs 
+/guidance/handbooks/general.html>. 
+
+20 U.S. Census Bureau, American Community Survey (ACS),  
+Comparing ACS Data, <www.census.gov/programs-surveys/acs 
+/guidance/comparing-acs-data.html>. 
+
+8   Understanding and Using American Community Survey Data 
+8   What Journalists Need to Know
+
+U.S. Census Bureau3. ACCESSING ACS DATA
+
+Accessing ACS Data in Pretabulated Tables
+
+The U.S. Census Bureau provides access to pretabu-
+lated American Community Survey (ACS) tables 
+through two main sources: data.census.gov and the 
+ACS Summary Files. 
+
+Data.census.gov is the Census Bureau’s primary tool 
+for accessing population, housing, and economic data 
+from the ACS, the Puerto Rico Community Survey, the 
+decennial census, and many other Census Bureau data 
+sets.21 Data.census.gov provides comprehensive access 
+to pretabulated ACS data for a wide range of geo-
+graphic areas, including states, cities, counties, census 
+tracts, and block groups.22 
+
+Data users can access detailed ACS tables by using 
+data.census.gov’s “Advanced Search” feature, which 
+allows users to conduct keyword searches, or search 
+by using predefined topics, geographies, years, sur-
+veys, or codes (see Figure 3.1).
+
+21 U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+22 Block groups were available for the first time with the 2009–2013 
+
+ACS 5-year data release. Previously, this geography level was only 
+available in the ACS Summary Files.
+
+Options for Accessing ACS Data 
+
+•  Data.census.gov provides access to popula-
+tion, housing, and economic data from the 
+ACS and many other Census Bureau data 
+sets.  
+
+• 
+
+Journalists with programming skills can use 
+the ACS Summary Files to access multiple 
+ACS tables for large numbers of geographic 
+areas.  
+
+•  The ACS Public Use Microdata Sample files 
+allow users to create custom estimates with 
+variables of their choosing. 
+
+•  State Data Centers and Census Information 
+Centers can provide help in accessing ACS 
+data.
+
+• 
+
+Journalists who want access to ACS data 
+prior to their public release can apply for 
+embargo access.
+
+Figure 3.1.  Advanced Search Feature in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>. 
+
+Understanding and Using American Community Survey Data  9 
+What Journalists Need to Know  9
+
+U.S. Census BureauFor information about accessing data from  
+data.census.gov, see the section on “Accessing 
+ACS Data” in the Census Bureau’s handbook on 
+Understanding and Using American Community Survey 
+Data: What All Data Users Need to Know.23  
+
+Journalists with programming skills can use the ACS 
+Summary Files to download and analyze ACS data.24 
+The Summary Files are useful for skilled programmers 
+who want to access multiple ACS tables for large num-
+bers of geographic areas. Working with these files can 
+be difficult, so the Census Bureau recommends that 
+users check to see if their tables of interest are easily 
+available for download through data.census.gov before 
+using this data product.25 
+
+Accessing ACS Microdata Files
+
+For some purposes, journalists may need to access 
+microdata (individual) records from the ACS Public Use 
+Microdata Sample (PUMS) files. Accessible through 
+the Census Bureau’s Web site, the ACS PUMS files 
+offer nearly unlimited possibilities because data users 
+can create their own estimates with variables of their 
+choosing.26 Estimates created using the PUMS files may 
+differ from pretabulated estimates available through 
+data.census.gov because the PUMS files contain a sub-
+set of the cases contained in the full ACS data.
+
+In general, the PUMS files are more difficult to work 
+with than data.census.gov because data users need to 
+use statistical software to access the data. Also, the 
+responsibility for producing estimates from PUMS and 
+judging their statistical significance is up to the user. 
+Once a data user learns how to work with PUMS, the 
+story possibilities are endless. The smallest geographic 
+area on these files is the Public Use Microdata Area 
+(PUMA), which has a minimum population of 100,000 
+(see the “Geographic Areas” section).
+
+Many journalists access ACS microdata through 
+the University of Minnesota’s Integrated Public Use 
+Microdata Series (IPUMS) Web site, because it allows 
+them to create custom tables online, without the use of 
+statistical software.27 For example, Quartz’s Data Editor, 
+Christopher Groskopf, used ACS and decennial census 
+data from IPUMS to show that the number of people 
+
+working full-time from home now exceeds the number 
+of people who bike or walk to work combined.28  
+
+Getting Help From Experts
+
+Journalists with data analysis skills may be able to con-
+duct research with ACS data themselves, but profes-
+sional and academic demographers often are happy 
+to give advice and provide data for free. City planning 
+departments, school district planning offices, reference 
+librarians, and college sociology departments are all 
+good places to look for advice. Each state maintains an 
+official State Data Center with knowledgeable staffers 
+to answer your questions.29 There are numerous Census 
+Information Centers spread out across the country that 
+can provide valuable assistance.30 Data Dissemination 
+Specialists from the Census Bureau also provide free 
+training to individuals, organizations, government 
+officials, and others to help them understand and work 
+with ACS data.31  
+
+Getting Advance Access to ACS Data
+
+Journalists who want access to ACS data prior to their 
+release to the public can apply for embargo access. 
+Embargoed data are only available to “accredited 
+media who give their chief attention to the gathering 
+and reporting of news. Applicants must be employed 
+or represent news organizations that regularly publish 
+or broadcast a substantial volume of news material for 
+public consumption.” For more information, see the 
+Census Bureau’s Embargo Policy.32  
+
+TIP: To learn more about the embargos and what 
+will be new with upcoming releases, tune into the 
+Census Bureau’s prerelease Webinars. They are typi-
+cally held on Mondays during the week of a release. 
+Please check the ACS Events page for updates.33  
+
+For more general information about accessing ACS 
+data, visit the Census Bureau’s Web site.33
+
+23 U.S. Census Bureau, American Community Survey (ACS),  
+
+Understanding and Using American Community Survey Data: What All 
+Data Users Need to Know, <www.census.gov/programs-surveys/acs 
+/guidance/handbooks/general.html>. 
+
+24 U.S. Census Bureau, American Community Survey (ACS),  
+Summary File Data, <www.census.gov/programs-surveys/acs/data 
+/summary-file.html>. 
+
+25 U.S. Census Bureau, American Community Survey (ACS),  
+
+Summary File Documentation, <www.census.gov/programs 
+-surveys/acs/technical-documentation/summary-file-documentation 
+.html>. 
+
+26 U.S. Census Bureau, American Community Survey (ACS), PUMS 
+
+Data, <www.census.gov/programs-surveys/acs/data/pums 
+.html>. 
+
+28 Christopher Groskopf, Quartz, “More Americans now work full-
+
+time from home than walk and bike to office jobs,” April 13, 2017, 
+<https://qz.com/952961/remote-work-more-americans-now-work 
+-full-time-from-home-than-walk-and-bike-to-their-jobs/>. 
+
+29 U.S. Census Bureau, State Data Center (SDC) Program,  
+
+<www.census.gov/about/partners/sdc.html>. 
+
+30 U.S. Census Bureau, Census Information Centers (CIC),  
+
+<www.census.gov/about/partners/cic.html>. 
+
+31 U.S. Census Bureau, Library, Data Dissemination Specialists:  
+Helping the Public Understand Data, <www.census.gov/library/video 
+/data-dissemination-1.html>. 
+
+32 U.S. Census Bureau, Newsroom, Embargo Policy, <www.census 
+
+.gov/newsroom/embargo/embargo-policy.html>. 
+
+27 University of Minnesota, Minnesota Population Center, IPUMS 
+
+33 U.S. Census Bureau, American Community Survey Data,  
+
+USA, <https://usa.ipums.org/usa/>. 
+
+<www.census.gov/programs-surveys/acs/data.html>.
+
+10   Understanding and Using American Community Survey Data 
+10   What Journalists Need to Know
+
+U.S. Census Bureau 
+4. GEOGRAPHY AND THE ACS
+
+Many journalists use American Community Survey 
+(ACS) data to report on key trends in states, counties, 
+and cities. But ACS data are available for many other 
+geographic areas, including school districts, con-
+gressional districts, metropolitan areas, and “census 
+designated places” (CDPs). A CDP is the U.S. Census 
+Bureau’s term for a city, town, or village that lacks a 
+separate municipal government but which otherwise 
+physically resembles an incorporated place. 
+
+Journalists interested in smaller geographic areas may 
+want to access ACS data for census tracts—small sub-
+divisions of counties that typically have between 1,200 
+and 8,000 residents, with an optimum size of 4,000 
+people. Census tract boundaries usually follow visible 
+features but may follow governmental unit boundar-
+ies and other nonvisible features in some cases. There 
+are also more than 300 ACS data tables available for 
+block groups—subdivisions of census tracts—that 
+include between 600 and 3,000 people each. In the 
+ACS, block groups are the smallest level of geography 
+published. Data for census tracts and block groups are 
+only available in the ACS 5-year data products. 
+
+Public Use Microdata Areas 
+
+Public Use Microdata Areas (PUMAs) are non- 
+overlapping regions that partition a state and con-
+tain at least 100,000 people each. State Data Centers 
+
+What Geographic Areas Are Available?
+
+•  ACS data are available for states, counties, 
+
+cities, and a wide range of other geographic 
+areas down to the block group level.
+
+• 
+
+Journalists interested in small geographic 
+areas may want to explore ACS data for 
+census tracts—small subdivisions of counties 
+that typically have between 1,200 and 8,000 
+residents.
+
+•  Public Use Microdata Areas (PUMAs) are 
+
+nonoverlapping regions that partition a state 
+and contain at least 100,000 people each. 
+
+•  One of the benefits of working with PUMAs 
+is that, unlike counties, they all meet the 
+population threshold that is needed to pro-
+duce ACS 1-year estimates. 
+
+define PUMAs in partnership with regional, state, local, 
+and tribal organizations and agencies so the boundar-
+ies reflect local knowledge about the regions.
+
+The value of using PUMA geography becomes appar-
+ent when looking at a state such as Kentucky (see 
+
+Figure 4.1.  Availability of Single-Year ACS Estimates for Kentucky: 2016
+
+Source: Population Reference Bureau analysis of data from the U.S. Census Bureau, 2016 American 
+Community Survey.
+
+Understanding and Using American Community Survey Data  11 
+What Journalists Need to Know  11
+
+U.S. Census BureauFigure 4.2.  Public Use Microdata Areas in Kentucky
+
+Source: U.S. Census Bureau, Public Use Microdata Sample Cartographic Boundary Shapefiles,  
+<www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html>.
+
+Figures 4.1 and 4.2). The 2016 ACS includes data for 
+only 13 of Kentucky’s 120 counties, but it also includes 
+data for all 34 Kentucky PUMAs covering the entire 
+state. 
+
+PUMAs are also useful for examining densely popu-
+lated areas in depth. For example, New York City is 
+subdivided into 55 PUMAs, each with its own single-
+year ACS estimates, which can be used to explore 
+population and housing characteristics in the city’s 
+Community Districts.34  
+
+34 New York City Department of City Planning, Population  
+
+Division, “New York City PUMAs and Community Districts,”  
+<https://www1.nyc.gov/assets/planning/download/pdf/data-maps 
+/nyc-population/census2010/puma_cd_map.pdf>. 
+
+More information about the PUMS and other geo-
+graphic areas in the ACS can be found in the section 
+on “Geographic Areas Covered in the ACS” in the 
+Census Bureau’s handbook on Understanding and 
+Using American Community Survey Data: What All 
+Data Users Need to Know.35 
+
+35 U.S. Census Bureau, American Community Survey (ACS),  
+
+Understanding and Using American Community Survey Data: What All 
+Data Users Need to Know, <www.census.gov/programs-surveys/acs 
+/guidance/handbooks/general.html>. 
+
+12   Understanding and Using American Community Survey Data 
+12   What Journalists Need to Know
+
+U.S. Census Bureau5. CASE STUDIES USING ACS DATA
+
+Case Study #1: American Community Survey: Understanding the Basics
+
+Skill Level: Introductory 
+Subject: Understanding the basics 
+Type of Analysis: Working with ACS tables; understanding 5-year estimates and margins of error 
+Tool Used: Data.census.gov 
+Author: Paul Overberg, Wall Street Journal
+
+Too often journalists seek a simple fact, like a city’s population or poverty rate, and stumble into the endless 
+stacks of the U.S. Census Bureau’s data library.
+
+They find variations and cross-tabulations, overlapping data sets, and a geographical menagerie. It’s a hall of 
+mirrors for anyone who cannot tell a “family” from a “household,” or “earnings” from “income” or how to parse 
+through “Sex by Work Status in the Past 12 Months by Usual Hours Worked Per Week in the Past 12 Months by 
+Weeks Worked in the Past 12 Months for the Population 16 to 64 Years.”
+
+But journalists who spend some time to learn about the most important data behind those portals—the American 
+Community Survey, or ACS—find that it pays rewards. This huge annual survey, the “every-year census,” is the 
+crown jewel of U.S. social statistics. ACS data shape academic research, public discussion, policy, and law on 
+many issues. The data are especially useful for journalists because they can be used to study many issues—like 
+racial/ethnic diversity and representation—that are central to our pluralistic society and its promise of equality 
+before the law. 
+
+The ACS also drives a huge share of federal funding: An estimated $675 billion in federal funds are distributed to 
+state and local areas each year based on census data. This in turn drives spending of hundreds of billions of dol-
+lars each year in state funding, especially for Medicaid and business investment. 
+
+Finally, the ACS is relevant to topics that seem unrelated to its content, like disease rates. This is because ACS 
+provides some of the raw material for the population estimates that form the denominators for disease rates 
+reported by the Centers for Disease Control and Prevention and other agencies.
+
+The ACS operates on an industrial scale. Its staff produces hundreds of millions of facts each year from more than 
+2 million housing units and more than 5 million people. It converts the raw data into 11 billion data points across 
+80 kinds of geographic areas—more than 650,000 in all. 
+
+To get a sense of how this factory works, let’s focus on a single ACS table that journalists often use—B19001: 
+Household Income in the Past 12 Months (in 2016 Inflation-Adjusted Dollars) (see Figure 5.1). There is a lot to 
+unpack here. Let’s take it in small steps.
+
+Understanding and Using American Community Survey Data  13 
+What Journalists Need to Know  13
+
+U.S. Census BureauFigure 5.1.  Sample Table From Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+This table is one of about 1,300 ACS Detailed Tables published each year. Most have names just like that: “B” 
+followed by five digits. If you know that number, you can search for a table directly in data.census.gov. If you do 
+not know the number, you can download a list of Table Shells from the Census Bureau’s Web site.36 This is a good 
+reference to keep handy because most ACS data products are built from Detailed Tables. 
+
+In most cases, each ACS table is published each year for any geographic area with at least 65,000 people. That 
+includes every state, congressional district, metropolitan statistical area, lots of cities, and about a quarter of 
+counties. It takes 5 years to accumulate enough responses so that the Census Bureau can publish the same table 
+for less-populated areas. Those can range from small towns to even neighborhoods. They are also published each 
+year, but each version covers the most recent 5 years. 
+
+There is more to the 5-year data than that. The Census Bureau restates dollars to reflect their value in the most 
+recent year. It applies the most recent poverty thresholds. It retallies data to reflect changes in geographic 
+boundaries, which is critical when city or metro boundaries change. 
+
+36 U.S. Census Bureau, American Community Survey (ACS), Table Shells and Table List, <www.census.gov/programs-surveys/acs/technical 
+
+-documentation/table-shells.html>.
+
+14   Understanding and Using American Community Survey Data 
+14   What Journalists Need to Know
+
+U.S. Census BureauRight under its name, this table declares: “Universe: Households.” This is key. The universe is the total that is 
+being counted. In this case, it is “households,” which has a very specific meaning in the ACS. Most table universes 
+are people, households, housing units, or subsets of those three. Some examples: 
+
+• Mortgage status: “Owner-occupied housing units.”
+
+•
+
+•
+
+•
+
+•
+
+People enrolled in school: “Population 3 years and over.”
+
+Language spoken at home: “Population 5 years and over.”
+
+Fertility rate: “Women 15 to 50 years.”
+
+Highest level of education: “Population 25 years and over.”
+
+Checking a table’s universe helps you sharpen the questions you are asking, narrow your search, and shape how 
+you will describe the data.37 
+
+For example, reporters often get confused between “household income” and “family income.” If you want to 
+write about everyone in households, you would pick “household income.” Every occupied housing unit contains a 
+household. That includes homes where just one person lives—28 percent of all households—as well as the homes 
+of unrelated people, such as unmarried partners or roommates. “Family income” only covers families, which are 
+two or more people related by blood, marriage, or adoption who live together. One measure of the difference 
+can be seen in their median incomes. In 2016, the U.S. median household income was $57,617; the median family 
+income, $71,062. 
+
+What period does this table cover? It says income “in the past 12 months,” but do not call it “2016 income.” 
+Confusingly, the 2016 1-year estimates cover the 23 months that end with November 2016. Why? Since the ACS 
+interviews respondents monthly and asks for income received during the “past 12 months,” it ends up with 12 
+different reference periods for income data collection in a single calendar year. The data are then put in terms 
+of constant 2016 inflation-adjusted dollars by using the CPI-U-RS inflation factors from the Bureau of Labor 
+Statistics.38 For example, in 2016 a respondent filling out the survey in February would have a reference period 
+of February 2015 through January 2016. A respondent filling out the survey in October would have a different 
+reference period, October 2015 through September 2016. The inflation-adjustments put these different reference 
+periods in constant dollars; in this example, “2016 inflation-adjusted dollars.”
+
+Do people really tell the Census Bureau their incomes? Mostly. But you can look it up and couch your words 
+accordingly. The ACS comes with 100 question-specific, quality-checking tables whose numbers begin with 
+“B99.” Table B99192 tells us that the Census Bureau did not have to allocate any income responses for 65 per-
+cent of households in 2016.39 Another 16 percent of households had 100 percent of their income allocated. The 
+remaining 19 percent had either partial answers that had to be completed or a dollar value of zero allocated. How 
+does the Census Bureau know how to impute missing values? It uses a set of rules to pull information from other 
+parts of the household’s form. Then, if necessary, it uses statistical methods to pull data from a similar household 
+nearby. Not surprisingly, people leave income questions blank more often than almost any other type. Just 1.7 
+percent of respondents leave the age and birthdate questions blank. 
+
+Almost all ACS tables carry a margin of error for each number of interest. Journalists tense up about the word 
+“error,” so let’s work through what it means here. It’s a term to describe variation inherent in random samples. The 
+ACS is a very big, complex version of the scientific opinion polls that some news organizations sponsor. (Guess 
+where the demographic benchmarks for those polls come from?) If you had enough money to poll 1,000 different 
+random samples of the U.S. population, each would have a slightly different makeup. One might overrepresent 
+women, another homeowners. If you kept polling and averaged the results, you would see a bell curve of results 
+form for, say, the percentage of women. Most often, you would get 51 percent. A little less often, you would get 
+50 percent or 52 percent. Most pollsters work at the 95 percent confidence level, which produces the familiar “±3 
+percentage points.” That means that 19 times out of 20 polls (95 percent of the time), you’d get 51 percent of 
+women, ± 3 percentage points. And one time out of 20, you’d get a sample outside that margin—women would 
+represent less than 48 percent or more than 54 percent. 
+
+The Census Bureau reports ACS margins of error at the 90 percent confidence level. Looking back to our table, 
+7,595,040 households (± 40,371) had incomes of $200,000 or more. That means we can be pretty comfortable 
+
+37 The Census Bureau produces a series of Appendix Tables for data users who want more information about ACS Detailed Tables, including 
+
+table universes. The 1-year and 5-year appendixes can be downloaded as Excel files from the Summary File Documentation page at  
+<www.census.gov/programs-surveys/acs/technical-documentation/summary-file-documentation.html>. 
+
+38 U.S. Bureau of Labor Statistics, CPI Research Series Using Current Methods (CPI-U-RS), <www.bls.gov/cpi/research-series/home.htm>. 
+39 A commonly used approach to imputation (a statistical procedure to fill in missing responses) is known as hot-deck allocation, which uses a 
+
+statistical method to supply responses for missing or inconsistent data from responding housing units or people in the sample who are similar. 
+
+Understanding and Using American Community Survey Data  15 
+What Journalists Need to Know  15
+
+U.S. Census Bureauwriting “7.6 million” and saying they outnumber the “6.9 million” (6,924,913, ± 35,488) who made $150,000 to 
+$200,000. See how handy rounding and error margins can be?
+
+Instead of “margin of error,” think of this as a way to quantify the squishiness of the data. This is something that 
+journalists deal with all the time—the ambiguity of the real world. Error margins just tell us how to precisely state 
+the numbers and tune the words around them. 
+
+It’s also important to remember that surveys, even massive ones like ACS, are better tools for expressing quan-
+titative relationships than totals. You can report rounded ACS totals, but the main strength of the ACS lies in its 
+ability to tell you a group’s share of the population, or the ratio of two groups in the population, or how a group’s 
+share has shifted across time.
+
+Inevitably, you will want to add or subtract ACS totals. Let’s say we want to know the number and share of 
+households with more than $100,000 in annual income. It’s easy to just add the table cells, but to get the margin 
+of error, you cannot just sum the same cells’ margins of error. The relevant formulas are available in the section 
+on “Calculating Measures of Error for Derived Estimates” in the Census Bureau’s handbook on Understanding 
+and Using American Community Survey Data: What All Data Users Need to Know.40 
+
+Finally, journalists often wonder “How big an error margin is too big?” Statistics teachers say, “It depends.” They 
+are right, but that is less than helpful. Consider a simpler measure of data squishiness called the coefficient of 
+variation (CV). Without getting too deep into statistics: Divide the margin of error for the ACS number you care 
+about by 1.645. The result is what is called its standard error. Divide that by the ACS number itself and multiply 
+by 100. A CV of 10 percent does not seem too wobbly, but one of 50 percent probably is for most purposes.
+
+Finally, journalists who do learn a bit about the ACS quickly appreciate that it offers honest answers. Too often, 
+reporters get fed dubious numbers by people who are not keen to explain where they came from or how they 
+were massaged. By comparison, ACS documentation spells out:
+
+•  Exactly how each question was asked, including a facsimile of the questionnaire. 
+
+•  Why each question was asked.
+
+•  The share of surveyed households each year that actually responded to each question in any given area. For 
+
+instance, in 2016, the Census Bureau managed to get 98 percent of people to provide their race but just 84 
+percent of households to provide their income.
+
+•  How often each question gets left blank, and how the Census Bureau fills in blanks. 
+
+Like most people, the ACS becomes a better source as you learn more about what it knows and how to interro-
+gate it. For example, you can ask questions that can’t be answered by any of its hundreds of tables if you know 
+how to use its microdata to create a custom table.
+
+So, the ACS can seem complicated, but it repays the time you invest in learning it with powerful ways to find and 
+tell stories on many subjects and at many scales.
+
+40 U.S. Census Bureau, American Community Survey (ACS), Understanding and Using American Community Survey Data: What All Data Users 
+
+Need to Know, <www.census.gov/programs-surveys/acs/guidance/handbooks/general.html>. 
+
+16   Understanding and Using American Community Survey Data 
+16   What Journalists Need to Know
+
+U.S. Census BureauCase Study #2: Reporting Poverty Trends in Michigan
+
+Skill Level: Introductory 
+Subject: Poverty trends 
+Type of Analysis: Analyses of economic trends within and across large communities 
+Tools Used: Data.census.gov and spreadsheet 
+Author: Kristi Tanner, Detroit Free Press
+
+Population and demographic estimates from the U.S. Census Bureau are a great resource for building data sets 
+and writing about local demographic trends. American Community Survey (ACS) 1-year estimates are the most 
+current data available for large geographic areas—65,000 residents or more—including cities, counties, metropol-
+itan areas, and states. The ACS achieved full, nationwide implementation in 2005 for the household population 
+and was expanded to cover the full population (including group quarters—such as college dormitories) in 2006. 
+
+Included in the annual ACS release are Comparison Profiles. These reports cover hundreds of variables and com-
+pare a current statistic to each year’s values up to 4 years prior; any changes that are statistically significant are 
+highlighted in a separate column in the report.
+
+To see if Michigan’s poverty rate changed last year, look at the latest Comparison Profile report:
+•  Go to the data.census.gov Web site at <https://data.census.gov>.
+
+•  Click on “Advanced Search” under the search bar. This will bring you to the Advanced Search page. 
+
+•  Begin with the Geography filter. Select “Geography” in the navigation pane on the left side of the screen to 
+
+display a list of available geographies.
+
+•  Select “State” and then select “Michigan” from the “State” filter (see Figure 5.2).
+
+Figure 5.2.  Geography Filter Selection in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+Understanding and Using American Community Survey Data  17 
+What Journalists Need to Know  17
+
+U.S. Census Bureau•  Next, choose the “Surveys” filter and select “ACS 1-Year Estimates Comparison Profiles.”
+
+•  Both filters should appear in the “Selected Filters” at the bottom of the page. 
+
+•  Next, click on “Search” in the lower right corner of the page (see Figure 5.3).
+
+Figure 5.3.  Comparison Profile Filter Selection in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>. 
+
+Comparison Profiles are organized by social, economic, housing, and demographic subject areas. Make sure you 
+select the most recent data set available. When this analysis was initially conducted, the 2016 ACS 1-year esti-
+mates were the most current.41 To find data on poverty and income, click on the link “Comparative Economic 
+Characteristics” (see Figure 5.4).
+
+41 ACS 5-year estimates are useful for small geographic areas and are available down to the block group level. 
+
+18   Understanding and Using American Community Survey Data 
+18   What Journalists Need to Know
+
+U.S. Census BureauFigure 5.4.  Choosing a Comparison Profile
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>. 
+
+Next, Select “Customize Table” (see Figure 5.5).
+
+Figure 5.5.  Customize Table in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>. 
+
+Understanding and Using American Community Survey Data  19 
+What Journalists Need to Know  19
+
+U.S. Census BureauCheck the data set, year, and geography on the report. Select the desired survey year by clicking on the cur-
+rent “Product” selection. Again, for the purposes of this case study, we are using 2016 ACS 1-year estimates. The 
+header should read “2016 American Community Survey 1-Year Estimates” and the geography—“Michigan” (see 
+Figure 5.6).
+
+Figure 5.6.  Selecting the Survey Year
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>. 
+
+The poverty data are near the bottom of the table. If you want to expand the width of a column, hover over a 
+column border in the shaded section at the top of the table and click and drag the border to the desired width. 
+Poverty percentages are found below the “Percentage of Families and People Whose Income in the Past 12 
+Months Is Below the Poverty Level” row.
+
+In 2016, Michigan’s poverty rate for all residents was 15 percent, a drop of nearly 1 percentage point from 
+2015. The asterisk in the column labeled “2016 - 2015 Statistical Significance” identifies a significant difference 
+between the two estimates at a 90 percent confidence level. If there is no asterisk in the column between the 2 
+comparison years, for example the poverty rate of individuals aged 65 years and over, you can interpret the cur-
+rent year’s statistic as unchanged—in this case at about 8 percent in 2016 (see Figure 5.7).
+
+20   Understanding and Using American Community Survey Data 
+20   What Journalists Need to Know
+
+U.S. Census BureauIn 2016, Michigan’s poverty rate for all residents was 15 percent, a drop of nearly 1 percentage point from 
+2015. The asterisk in the column labeled “2016 - 2015 Statistical Significance” identifies a significant difference 
+between the two estimates at a 90 percent confidence level. If there is no asterisk in the column between the 2 
+comparison years, for example the poverty rate of individuals aged 65 years and over, you can interpret the cur-
+rent year’s statistic as unchanged—in this case at about 8 percent in 2016 (see Figure 5.7).
+
+Figure 5.7.  Checking for Statistical Significance
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>. 
+
+By clicking on earlier years of this report, at the top of the page, you can see that the poverty rate for Michigan 
+residents (all people) has been steadily declining since 2014. Figure 5.8 shows the results of this analysis, which 
+was featured in a recent article in the Detroit Free Press.42
+
+Figure 5.8.  Poverty Rates in the United States and Michigan: 2010 to 2016
+
+Source: Author’s analysis of data from the U.S. Census Bureau, American Community Survey.
+
+42 Kristi Tanner, Detroit Free Press, “Census data: For a fourth year, Michiganders see incomes rise,” 2017, <www.freep.com/story 
+
+/news/2017/09/14/michiganders-making-more-cash-even-detroit-new-stats-say/660518001/>.
+
+Understanding and Using American Community Survey Data  21 
+What Journalists Need to Know  21
+
+U.S. Census BureauComparison Profiles are a great way to look for statistically significant differences in estimates over time. They 
+allow you to say with a certain amount of confidence, in this case for individual poverty, that rates continue to 
+decline.
+
+To see how Michigan’s poverty trend compares to the U.S. poverty trend:
+
+• Scroll to the top of the table and select “1 Geography” to open the geography filter. 
+
+• Click on “Nation” and then select “United States.” 
+
+• “United States” and “Michigan” should now be in your “Selected Geographies.”
+
+• Click on the “Close” button in the lower right corner to view the table with your updated geography selec-
+
+tions.
+
+• Check year-over-year trends to see if the change in poverty for all U.S. residents is statistically significant.
+
+If you need additional years of data, follow the same steps used to select 2016 estimates by clicking on your 
+“Product” selection at the top of the page.
+
+You can also use Comparison Profiles to compare trends across multiple geographic areas. To determine, for 
+example, which large Michigan counties saw poverty rates drop in 2016, complete the following steps:
+
+• Scroll to the top of the table and select “2 Geographies” to open the geography filter. 
+
+• Click on “County” and then select “Michigan” from the list. 
+
+• Select “All counties in Michigan.”43 
+
+• Close the filter by clicking on the “Close” button in the lower right corner. 
+
+• Scroll to the bottom of the table and click on the cell that says “All people” below the “Percentage of 
+
+Families and People Whose Income in the Past 12 Months is Below the Poverty Level.” This highlights the 
+desired row of data (see Figure 5.9).
+
+Figure 5.9.  Highlighting a Row in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>. 
+
+43 There are 83 counties in Michigan. Since the ACS 1-year data set is selected, only counties with 65,000 or more residents will be available—
+
+a total of 29. For statistics on less populous counties, use the ACS 5-year estimates.
+
+22   Understanding and Using American Community Survey Data 
+22   What Journalists Need to Know
+
+U.S. Census BureauUse the left/right arrow keys or the horizontal scroll bar at the bottom of the page to view the data for dif-
+ferent counties in Michigan (see Figure 5.10). In Michigan, six counties had statistically significant changes in 
+their poverty rate in 2016; four declined and two increased. Wayne County, the state’s largest county, saw a 2.1 
+percentage -point decline in its poverty rate, from 24.8 percent in 2015 to 22.7 percent in 2016.
+
+Figure 5.10.  Using the Horizontal Scroll Bar to Display Data for Selected  
+                   Geographic Areas
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>. 
+
+This example used Comparison Profile reports to analyze poverty trends for residents of Michigan and the  
+United States, including identifying statistically significant changes in poverty rates by county. Data users work-
+ing with other ACS estimates—such as those from the Detailed Tables—can test for significant difference among 
+estimates by using the Census Bureau’s Statistical Testing Tool.44
+
+44 U.S. Census Bureau, Statistical Testing Tool, <www.census.gov/programs-surveys/acs/guidance/statistical-testing-tool.html>.
+
+Understanding and Using American Community Survey Data  23 
+What Journalists Need to Know  23
+
+U.S. Census BureauCase Study #3: Census Reporter 
+Skill Level: Advanced 
+Subject: File Transfer Protocol (FTP), Table structure, geographic areas 
+Type of Analysis: Working with large ACS data sets; repackaging ACS data 
+Tools Used: PostgreSQL, FTP 
+Author: Joe Germuska, Census Reporter Project Lead, Knight Lab at Northwestern University
+
+While open government data have recently become trendy, the U.S. Census Bureau has been releasing troves of 
+American Community Survey (ACS) data for years—through raw data files as well as pretabulated tables available 
+through the data.census.gov Web site. The Census Bureau’s data.census.gov site is pure gold for journalists, but 
+for novice users, it can be hard to mine.
+
+Our team at Northwestern University’s Knight Lab created Census Reporter to make it easier for journalists to 
+write stories using ACS data.45 With Census Reporter, we have the freedom to highlight certain data points and 
+leave out others. We are applying the same principles that we have used to build news applications for a general 
+public: we prefer clarity over completeness.
+
+Although Census Reporter is not a substitute for all the detailed ACS data available on the Census Bureau’s Web 
+site, it provides a good place to start for journalists who want to explore ACS data for a given topic or geographic 
+area. Since it was launched in 2014, Census Reporter has been widely used by journalists looking for background 
+information for their stories. For example, the site was recently used in stories by U.S. News & World Report 
+(on the best states to live), The Texas Observer (on the effects of Hurricane Harvey on Port Arthur, TX), and 
+Marketplace (on gentrification in a Los Angeles neighborhood called Highland Park).46  
+
+We chose to focus on the ACS—as opposed to other federal data sources—because it provides the best combina-
+tion of recent and local data. Census Reporter presents the latest ACS estimates for the nation, states, and many 
+substate areas, down to the block group level. Charts, maps, and other data visualizations provide a friendly 
+interface for navigating these data (see Figure 5.10). Users can also click on a “Show data” link below each chart 
+to get more information about the underlying estimates and margins of error (see Figure 5.11). 
+
+Figure 5.11.  Underlying Estimates of the Population by Age Group: 2016
+
+Source: U.S. Census Bureau, Census Reporter, <https://censusreporter.org/>. 
+
+45 Census Reporter, <https://censusreporter.org>. 
+46 Casey Leins, U.S. News & World Report (March 1, 2017), “New Hampshire Benefits From Neighbor as a Leading State,” <www.usnews.com 
+
+/news/best-states/articles/2017-03-01/new-hampshire-benefits-from-neighbor-as-a-leading-state>; Michael Barajas, The Texas Observer (March 
+28, 2018), “Without State Aid, Advocates Worry Port Arthur Will Bleed Residents Long After Harvey,” <www.texasobserver.org/port-of-no 
+-return/>; Marketplace, Wealth and Poverty Desk, “York & Fig: At the Intersection of Change,” <https://features.marketplace.org/yorkandfig/>. 
+
+24   Understanding and Using American Community Survey Data 
+24   What Journalists Need to Know
+
+U.S. Census BureauData Behind the Scenes
+
+While Census Reporter is easy for journalists to use, it is also a good case study in how more advanced users can 
+adapt ACS data to other purposes. The growing availability of open-source software has created new oppor-
+tunities for journalists with programming skills to analyze and filter large data sets like the ACS to create new 
+applications.
+
+One of the most important goals behind the scenes at Census Reporter is making a flexible system to fetch ACS 
+data so that the team at Census Reporter can quickly refresh their database and Web site. The amount of data 
+that comes directly from the Census Bureau is huge and unwieldy for real-time queries, so our first experiment 
+was to try loading these data into a set of “PostgreSQL” databases. PostgreSQL is a language that programmers 
+can use to store, manipulate, and retrieve data.47  
+
+We based our database schema on Lee Hachadoorian’s census-postgres project, giving us a good place to 
+start.48 His scripts created a flexible schema to load and query all ACS tables for the 2006–2010 and 2007–2011 
+ACS 5-year data sets. 
+
+Since we were interested in comparisons over longer periods of time, we “forked” his project (created a copy of 
+the code repository where we could make modifications without changing the original code) and added scripts 
+to load data from additional ACS releases. 
+
+To make the process of loading these data more repeatable and reliable, we wrote several scripts that are meant 
+to be run on a server. After the scripts finish running, you end up with a PostgreSQL database with complete, 
+nationwide ACS data split across several thousand tables queryable with SQL. Combining these data with the 
+Census Bureau’s TIGER geographic data, we can make geographic, topical, and temporal queries against the 
+ACS data.
+
+Building the ACS Database
+
+The data for Census Reporter are from the ACS Summary Files—a set of comma-delimited text files that contain 
+all of the Detailed Tables for the ACS data releases—and were retrieved from the Census Bureau’s File Transfer 
+Protocal (FTP) site.49 The FTP client allows users to download large numbers of files or entire folders containing 
+the Summary File data for each ACS release. Beginning with the 2011 ACS, the Census Bureau has made it easier 
+to download the entire Summary File for an ACS release in two “TAR” files (Tape Archive files used in UNIX-
+based operating systems). Users should note that the TAR files are large and, depending on system constraints, 
+may take some time to download.
+
+Each data product (for example, 2012–2016 ACS 5-year data files) can be processed as one large file, but the 
+data are horizontally partitioned by state and are vertically separated into “sequences” (chunks of data span-
+ning 256 columns or fewer). A detailed explanation of the table structure and sequences can be found in the 
+Summary File Documentation provided with each ACS data release.50  
+
+The collection of geography and sequence files makes for a large number of tables that have to be bulk loaded 
+if a user wants to work with multiple files or multiple geographic areas. Import routines assume that all ACS 
+data are separated into small geographic areas (tracts and block groups) and large geographic areas (all other 
+areas), but file names are reused for both types of geographic areas. To distinguish between small and large 
+geography files, the import routines assume that the two types of files are separated into directories named 
+“All_Geographies_Not_Tracts_Block_Groups” and “Tracts_Block_Groups_Only.” 
+
+In each case, the parent directory name must match the name of the database schema where these data will 
+be stored. For Census Reporter data work, we name the schemas after the data sets folder name on the Census 
+Bureau FTP server (for example, “acs2016_5yr”).
+
+47 PostgreSQL, <www.postgresql.org>. 
+48 GitHub, PostgreSQL schema and import scripts for recent U.S. Census Bureau data, <https://github.com/leehach/census-postgres>. 
+49 U.S. Census Bureau, American Community Survey (ACS), Data via FTP, <www.census.gov/programs-surveys/acs/data/data-via-ftp.html>. 
+50 U.S. Census Bureau, American Community Survey (ACS), Summary File Documentation, <www.census.gov/programs-surveys/acs/technical 
+
+-documentation/summary-file-documentation.html>. 
+
+Understanding and Using American Community Survey Data  25 
+What Journalists Need to Know  25
+
+U.S. Census BureauThe resulting database is used to create the profile and comparison pages at our Census Reporter site. Since we 
+did all this hard work to get Census Reporter started, we wanted to share our methods with others. We made the 
+scripts available to the public for anyone else who wants to replicate the process or modify it for their own work 
+(see Figure 5.12). You can find the scripts on the GitHub Web site.51   
+
+Figure 5.12.  Census-Postgres Scripts on the GitHub Web Site
+
+Source: GitHub, Scripts used to set up census-postgres on an Amazon EC2 instance, <https://github.com 
+/censusreporter/census-postgres-scripts>.
+
+51 GitHub, Scripts used to set up census-postgres on an Amazon EC2 instance, <https://github.com/censusreporter/census-postgres-scripts>. 
+
+26   Understanding and Using American Community Survey Data 
+26   What Journalists Need to Know
+
+U.S. Census Bureau 
+6. ADDITIONAL RESOURCES
+
+U.S. Census Bureau, What is the American Community 
+Survey? 
+<www.census.gov/programs-surveys/acs/about.html> 
+
+U.S. Census Bureau, data.census.gov Resources  
+<https://census.gov/data/what-is-data-census-gov 
+.html> 
+
+U.S. Census Bureau, Understanding and Using 
+American Community Survey Data:  
+What All Data Users Need to Know 
+<www.census.gov/programs-surveys/acs/guidance 
+/handbooks/general.html>
+
+U.S. Census Bureau, State Data Center (SDC) Program  
+<www.census.gov/about/partners/sdc.html>
+
+U.S. Census Bureau, Census Information Centers (CIC)  
+<www.census.gov/about/partners/cic.html>
+
+U.S. Census Bureau, ACS Data Releases 
+<www.census.gov/programs-surveys/acs/news/data 
+-releases.html>
+
+Paul Overberg, How to Use the Census Bureau’s 
+American Community Survey Like a Pro 
+<https://source.opennews.org/articles/how-use 
+-census-bureau-american-community-survey/>
+
+U.S. Census Bureau, Geography & ACS  
+<www.census.gov/programs-surveys/acs/geography 
+-acs.html>
+
+Census Reporter  
+<https://censusreporter.org/>
+
+U.S. Census Bureau, ACS Data Tables and Tools  
+<www.census.gov/acs/www/data/data-tables-and 
+-tools/>
+
+University of Minnesota, Minnesota Population Center, 
+IPUMS USA  
+<https://usa.ipums.org/usa/> 
+
+Understanding and Using American Community Survey Data  27 
+What Journalists Need to Know  27
+
+U.S. Census Bureau

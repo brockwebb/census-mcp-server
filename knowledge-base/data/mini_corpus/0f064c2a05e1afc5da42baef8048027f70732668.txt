@@ -1,0 +1,370 @@
+United States Census Bureau | An official website of the United States Government
+
+Geography Boundaries by
+Year
+
+Vintage of Geographic Areas for ACS Estimates
+
+The ACS typically publishes estimates using the latest available geographic boundaries (also known as "vintages").
+
+For ACS 5-year estimates, use the last year of the estimate period to determine the vintage. For example, the following
+
+datasets use the same vintages of geographic boundaries:
+
+2023 ACS 1-year estimates
+
+2019-2023 ACS 5-year estimates
+
+To learn more about geographic concepts used in the ACS, check out our geographic handbook Geography and the
+American Community Survey: What Data Users Need to Know [/programs-
+
+surveys/acs/guidance/handbooks/geography.html] .
+
+2022
+
+On this page
+
+Vintage of Geographic Areas for ACS Estimates [#vintage-of-geographic-areas-for-acs-estimates]
+
+2022 [#2022]
+
+Legal Areas [#legal-areas]
+
+Statistical Areas [#statistical-areas]
+
+You May Be Interested In [#you-may-be-interested-in]
+
+Legal Areas
+
+Legally defined geographic areas used in the ACS are updated on an annual basis from a variety of programs,
+including: the Boundary and Annexation Survey (BAS) [/programs-surveys/bas.html] , the Redistricting Data Program
+[/programs-surveys/decennial-census/about/rdo.html]  and the School District Review Program [/programs-
+surveys/sdrp.html] . 
+
+Summar
+y Level
+
+Geographic Area
+
+040    
+
+State and State Equivalent
+
+050
+
+County or equivalent (Alaska boroughs, Louisiana parishes, Puerto Rico
+municipios, independent cities)
+
+Vintage of Geographic Area for 2022 ACS
+Estimate Year
+
+January 1, 2022
+
+January 1, 2022
+
+County Subdivision
+
+067
+
+Township, Minor Civil Division (MCD)/Barrio and Barrio-Pueblo
+
+January 1, 2022
+
+Place
+
+160
+
+Incorporated Place
+
+January 1, 2022
+
+American Indian/Alaska Native/Hawaiian Home Land
+
+230
+
+Alaska Native Regional Corporations (ANRCs)
+
+250/252/25
+
+Federal American Indian Reservation (federal AIR)
+
+4
+
+250/252
+
+State American Indian Reservation (state AIR)
+
+251
+
+American Indian Tribal Subdivision, federal AIR
+
+250/254
+
+Hawaiian Home Land (HHL)
+
+Other Legal Areas
+
+January 1, 2022
+
+January 1, 2022
+
+January 1, 2022
+
+January 1, 2022
+
+January 1, 2022
+
+500
+
+Congressional District, Delegate District DC, Resident Commissioner District
+PR
+
+118th Congress of the United States
+
+610/620
+
+State Legislative Districts (Upper and Lower Chambers)
+
+2022 Legislative Session Year
+
+950/960/97
+
+School District (Elementary, Secondary, Unified)
+
+January 1, 2022
+
+0
+
+170
+
+Consolidated City
+
+January 1, 2022
+
+Statistical Areas
+
+For statistical areas, boundary changes are mostly associated with updates from each decennial census. Statistical
+areas are designed to have stable boundaries over time.
+
+Summar
+y Level
+
+Geographic Area
+
+Vintage of Geographic Area for 2022 ACS Estimate
+Year
+
+050
+
+County Equivalent (Census Areas in Alaska)
+
+January 1, 2022
+
+County Subdivision
+
+060
+
+Census County Division (CCD)
+
+January 1, 2022
+
+Place
+
+160
+
+Census Designated Place (CDP)/Zona Urbana and Comunidad
+
+January 1, 2022
+
+American Indian/Alaska Native/Hawaiian Home Land
+
+250/252
+
+Tribal Designated Statistical Area (TDSA)
+
+2020 Census
+
+250/252
+
+State Designated Tribal Statistical Area (SDTSA)
+
+2020 Census
+
+250/252
+
+Oklahoma Tribal Statistical Area (OTSA)
+
+2020 Census
+
+251
+
+256
+
+258
+
+American Indian Tribal Subdivision (within OTSA)
+
+2020 Census
+
+Tribal Tract
+
+Tribal Block Group
+
+2020 Census
+
+/1 [#fn1]
+
+2020 Census
+
+/1 [#fn1]
+
+250/252
+
+Alaska Native Village Statistical Area (ANVSA)
+
+2020 Census
+
+Other Statistical Areas
+
+310
+
+312
+
+350
+
+352
+
+400
+
+140
+
+150
+
+795
+
+860
+
+Metropolitan Statistical Area/Micropolitan Statistical Area
+
+March 6, 2020
+
+/2,/3 [#fn3]
+
+Metropolitan Statistical Area/Micropolitan Statistical Area -
+Principal City
+
+March 6, 2020
+
+/2 [#fn2] ,/3 [#fn3]
+
+New England City and Town Area (NECTA)
+
+March 6, 2020#
+
+New England City and Town Area - Principal City
+
+March 6, 2020#
+
+Urban Area
+
+Census Tract
+
+Census Block Group
+
+Public Use Microdata Area (PUMA)
+
+5-digit ZIP Code Tabulation Area (ZCTA)
+
+2020 Census
+
+2020 Census
+
+/1 [#fn1]
+
+2020 Census
+
+/1 [#fn1]
+
+2020 Census
+
+2020 Census
+
+/1
+
+Changes to the boundaries of legal areas may cause complementary changes to the boundaries of
+
+selected statistical areas.
+
+/2
+
+While the American Community Survey (ACS) data generally reflect the Office of Management and
+
+Budget (OMB) definitions of metropolitan and micropolitan statistical areas; in certain instances the
+
+names, codes, and boundaries of the principal cities shown in ACS tables may differ from the OMB
+definitions due to differences in the effective dates of the geographic entities.
+
+/3
+
+The Census Bureau is planning on publishing the updated boundaries for this geographic summary
+
+level with the 2023 ACS release.
+
+# NECTA Geography will be discontinued starting with the ACS 2023 data release. For more information
+refer to the Federal Register Notice [https://www.federalregister.gov/documents/2021/07/16/2021-
+
+15159/2020-standards-for-delineating-core-based-statistical-areas] .
+
+Related Information
+
+American Community Survey Data [/programs-surveys/acs/data.html]
+
+Table & Geography Changes [/programs-surveys/acs/technical-documentation/table-and-geography-changes.html]
+
+USER NOTES
+
+Change to County-Equivalents in the State of Connecticut for 2022 ACS [/programs-surveys/acs/technical-documentation/user-
+notes/2023-01.html]
+
+You May Be Interested In
+
+Contact
+
+Updates
+
+Contact Us
+
+Email Updates
+
+Share Your ACS Data
+
+Story
+
+Learn how to contact
+
+Sign up to receive email
+
+Tell us your story about
+
+the American
+Community Survey if you
+
+updates about the
+American Community
+
+how you use data from
+the American
+
+[/programs-
+surveys/acs/contact.html]
+
+[/programs-
+surveys/acs/news/email-
+updates.html]
+
+[/programs-surveys/acs/share-
+your-acs-data-story.html]
+
+Page Last Revised - August 28, 2024
+
+

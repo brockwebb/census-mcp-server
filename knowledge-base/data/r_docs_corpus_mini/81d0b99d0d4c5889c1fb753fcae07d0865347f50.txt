@@ -1,0 +1,159 @@
+United States Census Bureau | An official website of the United States Government
+
+Response Rates Definitions
+
+1. What is Unit Nonresponse?
+
+Unit nonresponse is the failure to obtain the minimum required information from an eligible housing unit
+or group quarters (GQ) person in the sample. For the ACS, response rates are subtracted from 100
+
+percent to measure unit nonresponse.
+
+Unit nonresponse occurs when respondents are unable or unwilling to participate, interviewers are
+
+unable to locate addresses or respondents, or when other barriers exist to completing the interview.
+
+2. How does the ACS adjust for unit nonresponse?
+
+The ACS uses noninterview adjustment methods to give a higher weight to interviewed units and
+
+interviewed GQ persons. See Accuracy of the Data [/programs-surveys/acs/technical-
+
+documentation/code-lists.html] for more information on how the noninterview adjustment is calculated.
+
+3. Why is it important to measure unit nonresponse?
+
+We measure it because it has a direct effect on the quality of the data. If the rate of unit nonresponse is
+
+high, it increases the chance that the final survey estimates may reflect bias. Estimates may reflect bias
+
+if the characteristics of nonresponding units differ from the characteristics of responding units.
+
+4. How does the ACS measure unit nonresponse?
+
+The Census Bureau calculates survey response rates to measure unit nonresponse in the ACS. The
+
+survey response rate is the ratio of the estimate of units interviewed after data collection is complete to
+
+the estimate of all units that should have been interviewed. Separate rates are calculated for housing unit
+response and GQ person response. For housing units, this means all interviews after mail, internet,
+
+telephone and personal visit follow-up. (Internet data collection began in 2013, and telephone follow-up
+
+interviewing ceased in 2017.) For GQ persons, this means all interviews after the personal visit.
+
+Interviews include complete and partial interviews with enough information to be processed.
+
+To accurately measure unit nonresponse the ACS must estimate the universe of cases eligible to be
+
+interviewed and the survey noninterviews; that is, all eligible units in personal visit follow-up are given the
+
+appropriate weight as are all the noninterviews.
+
+5. What are the primary reasons for unit nonresponse in the ACS?
+
+The Census Bureau classifies all final noninterviews by one of the following Reasons for Noninterviews
+
+to understand why unit nonresponse occurred:
+
+Refusal: Even though the ACS is a mandatory survey and households whose addresses are selected and GQ persons who are
+selected for the survey are required to answer the survey questions, a few may feel reluctant to cooperate and refuse to
+participate.
+
+Unable to Locate: If the interviewer cannot find the sample address after using all possible sources, they consider it "unable to
+locate". For GQ persons, the individual could not be located.
+
+No One Home: Interviewers assign this code if they could not find anyone at the housing unit during the entire month's interview
+period. There is no equivalent rate for GQ persons.
+
+Temporarily Absent: The interviewers confirm that all household members or the GQ person are away during the entire month's
+interview period on vacation, a business trip, or caring for sick relatives.
+
+Language Problem: The interviewer could not conduct an interview because of language barriers, was not able to get an
+interpreter who could translate, and the supervisor or regional office could not help complete this case.
+
+Insufficient Data: To be considered an interviewed unit in ACS, a household or GQ person's response had to have a minimum
+amount of data. Occupied housing units and GQ persons not meeting this minimum are treated as noninterviews in the
+estimation process. Responses for vacant housing units are not subject to a minimum data requirement.
+
+Contact Attempts Halted: This category, introduced in 2023, replaces "Maximum Contact Attempts Reached". All non-
+interviews that previously were included in the "Maximum Contact Attempts Reached" category – introduced in 2016 for cases
+where the interviewer discontinues follow-up after the maximum number of contact attempts across all data collection modes
+has been reached – are now included in "Contact Attempts Halted", along with similar types of non-interviews added to the
+interview procedures in 2023. In each of these types, the pursuit of a follow-up interview is halted if certain pre-specified
+conditions are met. The category was renamed to reflect the broader set of reasons for non-interviews now included. For the
+years 2016 through 2022, the "Contact Attempts Halted" rate is exactly the same as the previously-published "Maximum
+Contact Attempts Reach" rate; only the label has changed.
+
+Other: Unique situations when the reason for noninterview does not fit into one of the classifications described above. Possible
+reasons include "death in the family", "household quarantined", or "roads impassable".
+
+Whole GQ Refusal: Some group quarters refuse to allow the ACS to interview any of their residents, citing legal or other
+reasons.
+
+Whole GQ Other: These account for other situations where no one in the GQ was interviewed due to reasons other than
+refusals.
+
+6. Why does the Census Bureau weight the survey response rate?
+
+Weighting is used because not all housing units or GQ persons have the same probability of selection.
+
+The ACS sample design includes differential sampling and subsampling rates. (Refer to the Accuracy of
+the Data [/programs-surveys/acs/technical-documentation/code-lists.html] for more information about
+
+the use of differential sampling and subsampling in the ACS.) Weighting accounts for the different
+
+probabilities of selection as a result of sampling and subsampling.
+
+7. How are survey response rates calculated? 
+Reason A for Noninterviews =
+
+Survey Response Rate (state x, year y) =
+
+Related Information
+
+Share Your ACS Data Story [/programs-surveys/acs/share-your-acs-data-story.html]
+
+Contact Us [/programs-surveys/acs/contact.html]
+
+You May Be Interested In
+
+Contact
+
+Updates
+
+Contact Us
+
+Email Updates
+
+Share Your ACS Data
+Story
+
+Learn how to contact
+the American
+
+Sign up to receive email
+updates about the
+
+Tell us your story about
+how you use data from
+
+Community Survey if you
+
+American Community
+
+the American
+
+[/programs-
+surveys/acs/contact.html]
+
+[/programs-
+surveys/acs/news/email-
+updates.html]
+
+[/programs-surveys/acs/share-
+your-acs-data-story.html]
+
+Page Last Revised - September 10, 2024
+
+

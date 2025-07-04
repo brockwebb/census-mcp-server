@@ -1,0 +1,1057 @@
+Understanding and Using  
+American Community Survey Data
+What Congress Needs to Know
+
+Issued June 2020
+
+Acknowledgments
+
+Linda A. Jacobsen, Vice President, U.S. Programs, Population Reference 
+Bureau (PRB), Mark Mather, Associate Vice President, U.S. Programs, PRB, 
+and Kelvin Pollard, Senior Demographer, U.S. Programs, PRB, drafted 
+this handbook in partnership with the U.S. Census Bureau’s American 
+Community Survey Office. Other PRB staff who assisted in drafting and 
+reviewing the handbook include Beth Jarosz, Lillian Kilduff, and Paola 
+Scommegna. 
+
+Some of the material in this handbook was adapted from the Census 
+Bureau’s 2008 publication, A Compass for Understanding and Using 
+American Community Survey Data: What Congress Needs to Know, drafted 
+by Terri Ann Lowenthal and Mary Jo Hoeksema.
+
+Nicole Scanniello, Gretchen Gooding, and Amanda Klimek, Census Bureau, 
+contributed to the planning and review of this handbook.  
+
+The American Community Survey program is under the direction of   
+Albert E. Fontenot, Jr., Associate Director for Decennial Census Programs, 
+James B. Treat, Assistant Director for Decennial Census Programs, and 
+Donna M. Daily, Chief, American Community Survey Office.
+
+Other individuals from the Census Bureau who contributed to the review 
+and release of these handbooks include Alissa Bonner, Mark Dorsey, Sirius 
+Fuller, R. Chase Sawyer, and Tyson Weister.
+
+Faye Brock, Linda Chen, Christine Geter, and Amanda Perry provided 
+publication management, graphic design and composition, and editorial 
+review for print and electronic media under the direction of Janet Sweeney, 
+Chief of the Graphic and Editorial Services Branch, Public Information Office.
+
+Understanding and Using  
+American Community Survey Data
+What Congress Needs to Know
+
+Issued June 2020
+
+U.S. Department of Commerce 
+Wilbur Ross, 
+Secretary
+
+Karen Dunn Kelley,  
+Deputy Secretary 
+
+U.S. CENSUS BUREAU 
+Steven Dillingham, 
+Director
+
+Suggested Citation
+
+  U.S. Census Bureau,  
+Understanding and Using  
+American Community Survey Data: 
+What Congress Needs to Know, 
+U.S. Government Printing Office, 
+Washington, DC, 2020.
+
+U.S. CENSUS BUREAU 
+Steven Dillingham, 
+Director
+
+Ron Jarmin, 
+Deputy Director and Chief Operating Officer
+
+Albert E. Fontenot, Jr., 
+Associate Director for Decennial Census Programs
+
+James B. Treat, 
+Assistant Director for Decennial Census Programs
+
+Donna M. Daily, 
+Chief, American Community Survey Office
+
+Contents
+
+1. How Congress Uses ACS Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+
+2. ACS Data Products for Congressional Uses  . . . . . . . . . . . . . . . . . . . . . . . . . . . . .5
+
+3. Case Studies Using ACS Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .8
+
+4. Additional Resources . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+
+Understanding and Using American Community Survey Data   iii 
+What Congress Needs to Know   iii
+
+U.S. Census Bureau 
+This page is intentionally blank.
+
+UNDERSTANDING AND USING AMERICAN 
+COMMUNITY SURVEY DATA: WHAT CONGRESS 
+NEEDS TO KNOW
+
+Congress needs accurate, up-to-date information to 
+make good decisions—from allocating federal program 
+funds to developing program eligibility requirements, 
+monitoring compliance with federal laws, and evaluat-
+ing community needs. Congressional staff also need 
+timely data to support communication efforts, respond 
+to constituent inquiries, draft legislation, analyze legis-
+lative proposals, and conduct legislative research. 
+
+The U.S. Census Bureau’s American Community Survey 
+(ACS) provides members of Congress the data they 
+need for decision-making. This guide provides a brief 
+overview of how members of Congress use ACS data 
+for important legislative purposes.
+
+What Is the American Community 
+Survey?
+
+The ACS is a nationwide survey designed to provide 
+communities with reliable and timely social, eco-
+nomic, housing, and demographic data every year. 
+The Census Bureau uses data collected in the ACS 
+to provide estimates on a broad range of population, 
+housing unit, and household characteristics for states, 
+counties, cities, American Indian and Alaska Native 
+areas, tribal subdivision areas, school districts, con-
+gressional districts, census tracts, block groups, and 
+many other geographic areas.
+
+a calendar year to produce estimates for that year. As 
+a result, ACS estimates reflect data that have been 
+collected over a period of time rather than for a single 
+point in time as in the decennial census, which is con-
+ducted every 10 years and provides population counts 
+as of April 1 of the census year.
+
+ACS 1-year estimates are data that have been col-
+lected over a 12-month period and are available for 
+geographic areas with at least 65,000 people. Starting 
+with the 2014 ACS, the Census Bureau is also produc-
+ing 1-year supplemental estimates—simplified versions 
+of popular ACS tables—for geographic areas with at 
+least 20,000 people. The Census Bureau combines 5 
+consecutive years of ACS data to produce multiyear 
+estimates for geographic areas with fewer than 65,000 
+residents. These 5-year estimates represent data col-
+lected over a period of 60 months. 
+
+For those who want more detailed information about 
+the ACS—how to judge the accuracy of ACS estimates, 
+understanding multiyear estimates, knowing which 
+geographic areas are covered in the ACS, and how to 
+access ACS data on the Census Bureau’s Web site—see 
+the Census Bureau’s handbook on Understanding and 
+Using American Community Survey Data: What All 
+Data Users Need to Know.1 
+
+The ACS has an annual sample size of about 3.5 mil-
+lion addresses, with survey information collected 
+nearly every day of the year. Data are pooled across 
+
+1 U.S. Census Bureau, Understanding and Using American 
+Community Survey Data: What All Data Users Need to Know,  
+<www.census.gov/programs-surveys/acs/guidance/handbooks 
+/general.html>.
+
+Understanding and Using American Community Survey Data   1 
+What Congress Needs to Know   1
+
+U.S. Census Bureau1. HOW CONGRESS USES ACS DATA
+
+While the main function of the decennial census is to 
+provide counts of people for the purpose of appor-
+tionment and redistricting, the primary purpose of 
+the American Community Survey (ACS) is to measure 
+the changing social and economic characteristics of 
+the U.S. population—our education, housing, jobs, and 
+more. 
+
+ACS content is designed to meet the needs of fed-
+eral government agencies, and every question on the 
+ACS is asked for a statutory or programmatic pur-
+pose. For example, questions about how people get to 
+work, what time their trip to work usually begins, and 
+the length of their commutes are used for planning 
+improvements to roads, highways, rail lines, and bus 
+routes, and for planning emergency response routes. 
+More information about the subjects included in the 
+ACS is available in the section on “Understanding the 
+ACS: The Basics” in the U.S. Census Bureau’s handbook 
+Understanding and Using American Community Survey 
+Data: What All Data Users Need to Know.2
+
+Using ACS Data to Allocate Funds and 
+Monitor Compliance With Federal Laws
+
+Many laws require the use of ACS or decennial census 
+data as the basis for establishing program or grant 
+eligibility and for allocating federal program funds. 
+For example, ACS data on veteran status and period 
+of military service are used to allocate funds to states 
+and local areas for employment and job training 
+programs for veterans. Income data from the ACS are 
+used to determine poverty status, measure economic 
+well-being, and assess the need for assistance. Many 
+federal programs, including Low-Income Home Energy 
+Assistance, Community Development Block Grant, 
+National School Lunch Program, Women, Infants, and 
+Children (WIC), Head Start, and Americorps use ACS 
+income data to allocate formula grants (see Box 1.1). 
+The Census Bureau estimates that 132 programs used 
+census data, including data from the ACS, to distribute 
+more than $675 billion in funds during fiscal year 2015.3
+
+ACS data are also used to monitor compliance with 
+federal laws. For example: 
+
+•  ACS data on age, housing, employment, and 
+
+education are used to help the government and 
+communities enforce laws, regulations, and poli-
+cies against discrimination based on age such as 
+the Age Discrimination in Employment Act. 
+
+² U.S. Census Bureau, Understanding and Using American 
+Community Survey Data: What All Data Users Need to Know,  
+<www.census.gov/programs-surveys/acs/guidance/handbooks 
+/general.html>
+
+•  Data on age, sex, race/ethnicity, labor force status, 
+and work status are used to monitor compliance 
+with the Civil Rights Act.
+
+•  ACS data on housing characteristics, such as units 
+in a structure, kitchen and plumbing facilities, rent, 
+tenure, and selected monthly owner costs, are 
+used to implement and assess compliance with the 
+National Affordable Housing Act.
+
+Many of the questions on the ACS were previously 
+included on the 2000 Census and prior census long-
+form questionnaires. However, in the years since the 
+ACS achieved full implementation in 2005, questions 
+have been added, revised, or removed from the survey. 
+For example, questions about household computer 
+ownership and Internet access were added to the 
+ACS in 2013 as a requirement of the Broadband Data 
+Improvement Act of 2008. 
+
+In 2014, the Census Bureau conducted a compre-
+hensive assessment of the ACS program, including a 
+review of each ACS question. This ACS content review 
+sought to determine which federal programs use the 
+information collected in response to each question and 
+assess how the Census Bureau might reduce respon-
+dent burden.4 A summary of federal agencies’ uses of 
+
+  Box 1.1.  Low-Income Home Energy Assistance  
+              Program (LIHEAP)
+
+Enacted as part of the Omnibus Budget 
+Reconciliation Act of 1981, the Low-Income Home 
+Energy Assistance Program (LIHEAP) is a manda-
+tory block grant program to the states. The mis-
+sion of LIHEAP is to help low-income households 
+pay their home energy bills.
+
+Congress established the law’s block grant dis-
+tribution formula based on each state’s climate 
+and low-income population. The income question 
+on the ACS is essential to determining the low-
+income population in each state. Implementation 
+of the LIHEAP program also relies on data from 
+other ACS questions, including age, sex, Hispanic 
+origin, relationship, disability status, units in struc-
+ture, and occupants per room. LIHEAP program 
+administrators also use data from the ACS ques-
+tion on selected monthly owner costs to analyze 
+current residential energy supply and consump-
+tion and to forecast future energy needs.
+
+3 U.S. Census Bureau Library, Uses of Census Bureau Data in 
+Federal Funds Distribution, 2017, <www.census.gov/library/working 
+-papers/2017/decennial/census-data-federal-funds.html>.
+
+⁴ U.S. Census Bureau, American Community Survey (ACS), Content 
+
+Review, 2014, <www.census.gov/programs-surveys/acs/operations 
+-and-administration/2014-content-review.html>.  
+
+2   Understanding and Using American Community Survey Data 
+2   What Congress Needs to Know
+
+U.S. Census Bureau  
+ACS data from each question is included in the Census 
+Bureau’s ACS Handbook of Questions and Current 
+Federal Uses.5 The Census Bureau has also developed 
+a series of interactive Web pages that explain why 
+each question is asked on the ACS. Each page shows 
+the question as it appears on the form and allows 
+users to explore some of the most popular statistics 
+that come from the question at the local level. The 
+pages also explain the origin of each question, pri-
+vacy concerns, and how the statistics are used to help 
+communities.6
+
+How Members of Congress and Staff 
+Use ACS Data
+
+The ACS provides a wealth of timely social, economic, 
+housing, and demographic data for all congressio-
+nal districts and states that can be used in drafting 
+legislation, press releases, statements, and constituent 
+correspondence; conducting legislative research; and 
+developing grant formulas for proposed programs. 
+
+The Census Bureau releases annual ACS data for each 
+of the 435 congressional districts. Members and staff 
+can use these data to produce current snapshots of 
+the characteristics of their districts. 
+
+TIP: Members of Congress can also compare ACS esti-
+mates with those of previous years to look at trends 
+over time. However, congressional district data from the 
+2012 ACS and later years reflect the new boundaries 
+that were drawn after the 2010 Census, while ACS data 
+for earlier years reflect the 2000 Census boundaries. 
+Given the major changes to district boundaries after 
+each  census,  a  comparison  of  congressional  district 
+data  between  2011  and  2012  and  later  years  is  not 
+advisable.7 Data users should also use caution when 
+working with ACS estimates for districts that have been 
+subject to intercensal redistricting. 
+
+Following are some examples of how congres-
+sional staff can use ACS data to carry out their 
+responsibilities.  
+
+Cosponsoring Legislation
+
+The breadth of ACS data can support research for a 
+wide variety of potential bills. For example, if a senator 
+
+wants to draft a housing assistance bill that targets 
+people who are spending 30 percent or more of their 
+income on housing expenses, the ACS provides esti-
+mates of the number and characteristics of homeown-
+ers and renters who spend 30 percent or more of their 
+income on housing and utilities. Congress can use 
+these data to allocate funds to state and local govern-
+ments through a formula grant.  
+
+Drafting a Floor Statement
+
+Members of Congress sometimes need to make floor 
+statements on very short notice. For example, a mem-
+ber who wants to make a speech about the economy 
+might ask his or her staff to quickly determine the 
+proportion of families in the district living below the 
+poverty level and how that figure compares with the 
+national poverty rate. These data are readily available 
+in published ACS tables.  
+
+Responding to a Constituent Inquiry
+
+Constituents occasionally send letters or call their 
+member’s office to ask why they were selected to 
+participate in the ACS. Members and their staffs 
+need to understand how addresses are selected, how 
+personal information is protected, what questions are 
+asked in the questionnaire, and how Congress uses the 
+responses to write legislation and assist constituents. 
+The Census Bureau provides answers to these and 
+other common constituent questions in a two-page 
+flyer available for download from the ACS Web site.8 
+Specific answers as to why each question is asked are 
+also provided in a series of interactive Web pages.9
+
+Some respondents are reluctant to answer the ACS 
+because of concerns about the confidentiality of the 
+data. However, the final published statistics do not 
+reveal names, addresses, or any other information 
+that would identify any individual respondent, and 
+strict confidentiality laws protect all ACS informa-
+tion that could be used to identify individuals or 
+households, under the authority of Title 13 of the 
+U.S. Code.10 This is true even for interagency com-
+munication: other government agencies do not have 
+the legal right to access individuals’ confidential 
+information.
+
+⁵ U.S. Census Bureau, American Community Survey Handbook of 
+
+Questions and Current Federal Uses, 2014, <www.census.gov 
+/programs-surveys/acs/operations-and-administration/2014-content 
+-review/federal-uses.html>.
+
+⁶ U.S. Census Bureau, American Community Survey, Questions on 
+the Form and Why We Ask, <www.census.gov/acs/www/about/why 
+-we-ask-each-question/>.
+
+⁷ Note: 2011 Data Profiles for congressional districts are available 
+
+through the Census Bureau’s file transfer protocol server,  
+<https://www2.census.gov/acs2011_1yr/CD113/>.
+
+⁸ U.S. Census Bureau, American Community Survey (ACS), ACS 
+Resources for Congress Flyer, <www.census.gov/programs-surveys 
+/acs/library/outreach-materials/flyers/acs-constituent-answers.html>. 
+
+⁹ U.S. Census Bureau, American Community Survey, Questions on 
+the Form and Why We Ask, <www.census.gov/acs/www/about/why 
+-we-ask-each-question/>.
+
+10 U.S. Census Bureau, Data Protection and Privacy Program, Title  
+
+13 - Protection of Confidential Information, <www.census.gov/about 
+/policies/privacy/data_stewardship/title_13_-_protection_of 
+_confidential_information.html>.
+
+Understanding and Using American Community Survey Data   3 
+What Congress Needs to Know   3
+
+U.S. Census BureauAnalyzing Legislative Proposals
+
+Members receive a wide variety of legislative propos-
+als that require detailed evaluation. The ACS pro-
+vides a broad range of social, economic, housing, 
+and demographic data that can help staff conduct 
+
+these assessments. For example, if an advocacy group 
+sends a proposal to reform the Social Security system, 
+ACS data on labor force participation and disability 
+could be used to evaluate how many people would be 
+affected by this proposal.  
+
+4   Understanding and Using American Community Survey Data 
+4   What Congress Needs to Know
+
+U.S. Census Bureau2. ACS DATA PRODUCTS FOR CONGRESSIONAL 
+    USES
+
+Data.census.gov
+
+Data.census.gov is the U.S. Census Bureau's primary tool 
+for accessing population, housing, and economic data 
+from the American Community Survey (ACS), the Puerto 
+Rico Community Survey, the decennial census, and many 
+other Census Bureau data sets.11 Data.census.gov pro-
+vides access to ACS data for a wide range of geographic 
+areas, including states, cities, congressional districts, 
+counties, census tracts, and block groups. For more 
+information about data.census.gov, view the Census 
+Bureau’s data.census.gov Resources page.12
+
+Accessing ACS Data Through the My 
+Congressional District Tool
+
+My Congressional District is a specialized tool that 
+allows members of Congress and their staff to eas-
+ily access and view population and housing estimates 
+for congressional districts from the most recent ACS 
+1-year estimates, as well as business data from the 
+Census Bureau’s latest County Business Patterns 
+
+database.13 The tool displays tables of the latest ACS 
+1-year estimates for selected characteristics, including:
+
+•  People: Demographic measures including sex and 
+age, race, Hispanic or Latino origin, place of birth, 
+ancestry, veteran status, disability status, and resi-
+dence 1 year ago.
+
+•  Workers: Employment status, commuting to work, 
+
+occupation, industry, and class of worker.
+
+•  Housing: Housing occupancy, housing tenure 
+
+(owner or renter), year householder moved into 
+unit, value of home, mortgage status, selected 
+monthly owner costs, and gross rent.
+
+•  Socioeconomic: Income and benefits, health insur-
+ance coverage, and poverty status for families and 
+for individuals by age.
+
+•  Education: School enrollment and educational 
+
+attainment.
+
+To access estimates from My Congressional District, 
+select a state and choose a congressional district using 
+the drop-down menus (see Figure 2.1). There is also an 
+
+11 U.S. Census Bureau, Data.census.gov, <https://data.census.gov>.
+12 U.S. Census Bureau, data.census.gov Resources, <www.census 
+
+13 U.S. Census Bureau, My Congressional District, <www.census.gov 
+
+.gov/content/census/en/data/what-is-data-census-gov.html>.
+
+/mycd/>.
+
+Figure 2.1.  My Congressional District Home Page 
+
+Source: U.S. Census Bureau, My Congressional District, <www.census.gov/mycd/>.
+
+Understanding and Using American Community Survey Data   5 
+What Congress Needs to Know   5
+
+U.S. Census Bureau 
+option to identify a congressional district by entering a 
+ZIP code.
+
+After selecting a congressional district, select one of 
+the six topical areas to browse the data on that topic 
+(see Figure 2.2). A box underneath the table gives 
+you the option of displaying the data with or without 
+accompanying margins of error. For information about 
+understanding and using the margins of error for ACS 
+estimates, see “Understanding Error and Determining 
+
+Statistical Significance” in the Census Bureau’s hand-
+book Understanding and Using American Community 
+Survey Data: What All Data Users Need to Know.14 
+There is also a “Download and Share” icon under the 
+table that allows users to download the data and share 
+it on social media platforms, or post it on a blog or 
+other Web site.
+
+14 U.S. Census Bureau, Understanding and Using American 
+Community Survey Data: What All Data Users Need to Know,  
+<www.census.gov/programs-surveys/acs/guidance/handbooks 
+/general.html>.
+
+Figure 2.2.  Selecting a Topical Area  
+
+Source: U.S. Census Bureau, My Congressional District, <www.census.gov/mycd/>.
+
+6   Understanding and Using American Community Survey Data 
+6   What Congress Needs to Know
+
+U.S. Census BureauIf you click the “Download and Share” icon, you can 
+either download a comma-separated values (CSV) file 
+with data just for the congressional district you have 
+selected or for all districts within the state (see Figure 
+2.3). There is also an option to embed the results page 
+
+on a Web site for a specific congressional district. In 
+2017, over 70 members of Congress embedded My 
+Congressional District on their member Web sites, 
+which is a great way to highlight the characteristics of 
+their districts to their constituents.
+
+Figure 2.3.  Downloading and Sharing Data  
+
+Source: U.S. Census Bureau, My Congressional District, <www.census.gov/mycd/>.
+
+Why this tool may be right for you
+
+Why you may want to consider another tool
+
+It contains statistics for every congressional district in 
+
+The geography selection is limited to congres-
+
+a user-friendly and intuitive interface.
+
+sional districts.
+
+It combines ACS data on population, housing, educa-
+
+tion, and the economy with County Business Patterns 
+
+It contains only a subset of all ACS and County 
+
+data on employment, payroll, and establishments by 
+
+Business Patterns topics. 
+
+sector.
+
+The results page can be embedded on your Web site.
+
+sons or selections of multiple congressional 
+
+The tool does not allow side-by-side compari-
+
+districts.
+
+Understanding and Using American Community Survey Data   7 
+What Congress Needs to Know   7
+
+U.S. Census Bureau3. CASE STUDIES USING ACS DATA
+
+Case Study #1: Exploring Ancestry Data in My Congressional District
+
+Skill Level: Beginner 
+Subject: Ancestry 
+Type of Analysis: Analyzing characteristics of a congressional district 
+Tool Used: My Congressional District
+
+The ancestry question on the U.S. Census Bureau’s American Community Survey (ACS) measures the character-
+istics of ethnic groups, beyond the Hispanic origin and race questions. Data based on this question help cre-
+ate a more detailed picture of cultural groups. Members of Congress and their staffs may be interested in this 
+information to better understand the characteristics of their constituents. Federal agencies also use these data 
+to enforce the Civil Rights Act of 1964, which prohibits discrimination on the basis of race, color, and national 
+origin.15 
+
+Accessing data on ancestry and other district-specific information is quick and easy using the My Congressional 
+District tool on the Census Bureau’s Web site (see Figure 3.1).16 My Congressional District combines the latest data 
+from the ACS and County Business Patterns to provide a detailed set of social, economic, housing, and demo-
+graphic characteristics for every congressional district for the current legislative session in the United States.
+
+Figure 3.1.  My Congressional District
+
+Source: U.S. Census Bureau, My Congressional District, <www.census.gov/mycd/> 
+
+15 U.S. Census Bureau, American Community Survey (ACS) Handbook of Questions and Current Federal Uses, <www.census.gov/programs 
+
+-surveys/acs/operations-and-administration/2014-content-review/federal-uses.html>.
+
+16 U.S. Census Bureau, My Congressional District, <www.census.gov/mycd/>.
+
+8   Understanding and Using American Community Survey Data 
+8   What Congress Needs to Know
+
+U.S. Census BureauFrom the Web site, use the drop-down boxes (labeled 1 and 2) to choose your state and district (see Figure 3.2). 
+If you do not know the district number, you can use the ZIP code search tool, which links users to the U.S. House 
+of Representatives district lookup tool.
+
+Figure 3.2.  Selecting District From My Congressional District Drop-Down Menu
+
+Source: U.S. Census Bureau, My Congressional District, <www.census.gov/mycd/>.
+
+After you have selected your district, the right side of the window updates with demographic, socioeconomic, 
+housing, and employment information about the district. Information is arranged by subject area: People, 
+Workers, Housing, Socio-Economic, Education, and Business.
+
+Understanding and Using American Community Survey Data   9 
+What Congress Needs to Know   9
+
+U.S. Census BureauNativity information is found within the “People” topic, which is the default display when a user first chooses a 
+district (see Figure 3.3). Information for Sex and Age are displayed first, but you can use the gray bar on the right 
+to scroll down to information about Ancestry. Members of Congress and their staffs can use this information to 
+better understand the ancestral makeup of their constituents. For example, in 2017, there were 2,375 people of 
+Czech ancestry in California Congressional District 49. 
+
+Figure 3.3.  Ancestry Information for California Congressional District 49
+
+Source: U.S. Census Bureau, My Congressional District, <www.census.gov/mycd/>. 
+
+To view information in any of the other subject areas, click on the associated icon.
+
+10   Understanding and Using American Community Survey Data 
+10   What Congress Needs to Know
+
+U.S. Census BureauUsers who are interested in knowing the margin of error—or level of uncertainty—associated with the estimates 
+can view that information by checking the box “Display ACS Margin of Error” below the data table (see Figure 
+3.4). The estimate of people with Czech ancestry has a margin of error of +/-956, indicating a high likelihood that 
+the true value of this estimate falls somewhere between 1,419 and 3,331 in California Congressional District 49.  
+
+Figure 3.4.  Ancestry Data With Margin of Error
+
+Source: U.S. Census Bureau, My Congressional District, <www.census.gov/mycd/>.
+
+Understanding and Using American Community Survey Data   11 
+What Congress Needs to Know   11
+
+U.S. Census BureauThe My Congressional District tool offers several options for downloading and sharing data (see Figures 3.5 and 
+3.6). Clicking on the “Download and Share” icon allows users to download a comma-separated values (CSV) 
+file with all the data for their district or for all districts in their state. Users can also share their results on social 
+media platforms or download a widget, which can be embedded on a Web site to display the most recent data 
+available for the selected congressional district.
+
+Figure 3.5.  Downloading Data for Congressional District
+
+Source: U.S. Census Bureau, My Congressional District, <www.census.gov/mycd/>.
+
+12   Understanding and Using American Community Survey Data 
+12   What Congress Needs to Know
+
+U.S. Census BureauFigure 3.6.  Downloading and Sharing Data for Congressional District
+
+Source: U.S. Census Bureau, My Congressional District, <www.census.gov/mycd/>.
+
+Data displayed in the application are for the most recent year available. Details on exact year and data source, as 
+well as any important notes, can be found by scrolling to the bottom of each data table. 
+
+ACS estimates for other geographic areas can be found in data.census.gov, the Census Bureau’s primary tool for 
+accessing population, housing, and economic data from the ACS, the Puerto Rico Community Survey, the decen-
+nial census, and many other Census Bureau data sets.17 Data.census.gov provides comprehensive access to ACS 
+tables for a wide range of geographic areas, including states, congressional districts, cities, counties, census 
+tracts, and block groups.
+
+17 U.S. Census Bureau, Data.census.gov, <https://data.census.gov>.
+
+Understanding and Using American Community Survey Data   13 
+What Congress Needs to Know   13
+
+U.S. Census BureauCase Study #2: Finding Selected Housing Characteristics for a Congressional 
+District
+
+Skill Level: Intermediate/Advanced 
+Subject: Housing 
+Type of Analysis: Analyzing housing characteristics within a congressional district 
+Tool Used: Data.census.gov
+
+The U.S. Census Bureau’s My Congressional District tool offers a quick and easy solution for finding the latest 
+American Community Survey (ACS) data on population and housing characteristics in a congressional district.18 
+What if a congressional staffer needs more detailed information? For example, suppose they need to find infor-
+mation about the distribution of rental cost burden within his or her district to assess the potential demand for a 
+rental assistance program. 
+
+To answer this question, go to the data.census.gov Web site at <https://data.census.gov/>. Choose Advanced 
+Search under the search bar that says, “I’m looking for …” This brings you to the Advanced Search window (see 
+Figures 3.7 and 3.8).
+
+Figure 3.7.  Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+18 U.S. Census Bureau, My Congressional District, <www.census.gov/mycd/>.
+
+14   Understanding and Using American Community Survey Data 
+14   What Congress Needs to Know
+
+U.S. Census BureauFigure 3.8.  Using Advanced Search in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+Understanding and Using American Community Survey Data   15 
+What Congress Needs to Know   15
+
+U.S. Census BureauTo find information on a congressional district, start with the “Geography” filter and click “Congressional District.” 
+Congressional districts are nested within states, so first select your state. Then select your district number, mak-
+ing sure to select the correct legislative session (for example, 115th Congress). Ensure that a check mark appears 
+next to the district you have selected and that the geography shows as a selected filter at the bottom of the 
+screen (see Figure 3.9).
+
+TIP: If you also add the year to your selections under the “Years” filter (for example, Years>2017), you do not 
+have to worry about selecting the wrong legislative session as the congressional district will default to the cor-
+responding session.
+
+Figure 3.9.  Selecting a Congressional District in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+16   Understanding and Using American Community Survey Data 
+16   What Congress Needs to Know
+
+U.S. Census BureauAfter selecting the congressional district, you can choose the data product of interest. In this example, we are 
+interested in a table called DP04: “Selected Housing Characteristics,” which is a data profile that includes fre-
+quently requested housing data. To select this table, click on “Surveys” to display a list of available data products. 
+Then select “ACS 1-Year Estimates Data Profiles” (see Figure 3.10) and click “Search” in the bottom right corner.
+
+Figure 3.10.  Selecting a Data Product in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+Understanding and Using American Community Survey Data   17 
+What Congress Needs to Know   17
+
+U.S. Census BureauClicking “Search” with your selected filters brings you to the All Results page. This page has a quick statistic at 
+the top of the page relevant to your search. Underneath, there is a list of the three most relevant tables. To view 
+the full list of available data profiles, select “View All Tables” (see Figure 3.11). 
+
+Figure 3.11.  Navigating the All Results Page
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+18   Understanding and Using American Community Survey Data 
+18   What Congress Needs to Know
+
+U.S. Census BureauSelecting the option to view all tables brings you to the Table Results page with a full list of relevant tables in the 
+left pane and a preview of each selected table in the right pane. Click on “Selected Housing Characteristics” to 
+preview the table, and select “Customize Table” in the upper right corner to view the table with all download and 
+customization options (see Figure 3.12).
+
+Figure 3.12.  Selecting the Table From the Tables Pane
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+Understanding and Using American Community Survey Data   19 
+What Congress Needs to Know   19
+
+U.S. Census BureauNow you can view the table with customization and download options displayed at the top (see Figure 3.13). 
+You can scroll through the table for information, and you have the option to collapse sections by clicking on the 
+down arrow next to each category. You also have the option to transpose the table, show and hide margins of 
+error using the “Margin of Error” button, and move and/or lock different columns by dragging and dropping the 
+column headers.
+
+Figure 3.13.  Viewing the Table in the Customize Table Page
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+To view information about rental cost burden, scroll down to the very bottom of the table to a section titled 
+“Gross Rent as a Percentage of Household Income (GRAPI)” (see Figure 3.14). This section includes a distribution 
+of rental cost as a percentage of household income, so you can use cost burden limits proposed or set by the 
+program to determine which categories you would like to include in your reporting.
+
+Figure 3.14.  Finding Gross Rent as a Percentage of Household Income (GRAPI)
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+20   Understanding and Using American Community Survey Data 
+20   What Congress Needs to Know
+
+U.S. Census BureauIf you would like to save this specific block of data from the table, the easiest way to do this is to highlight the 
+section of interest, right click, and then select “Copy with headers.” Your selection is then copied into your 
+clipboard with the column headers as well as the geography name (in this case, the name of the congressional 
+district) and can be pasted into another application (see Figure 3.15).
+
+Figure 3.15.  Copying Selections of Interest
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+Understanding and Using American Community Survey Data   21 
+What Congress Needs to Know   21
+
+U.S. Census BureauIf you would like to download the table in CSV format, click on “Download” in the tool bar at the top of the page 
+(see Figure 3.16). You can then change the year or select multiple years. When you finish making your selections, 
+click “Download” in the bottom right corner.
+
+Figure 3.16.  Downloading the Full Table as a CSV File
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+22   Understanding and Using American Community Survey Data 
+22   What Congress Needs to Know
+
+U.S. Census BureauCase Study #3: Poverty and Income Data for New Markets Tax Credit 
+
+Skill Level: Intermediate/Advanced 
+Subject: Poverty 
+Type of Analysis: Analyses of poverty estimates within a community 
+Tool Used: Data.census.gov
+
+New Market Tax Credits (NMTC) provide a way for certified Community Development Entities (CDEs) to provide 
+below-market rate financing for qualified businesses in low-income communities. The program is administered 
+by the U.S. Department of the Treasury through a competitive application process. One of the qualifying criteria 
+is that the business or development project must be in a low-income community. According to U.S. Code, low-
+income communities are census tracts where the poverty rate is at least 20 percent, or the median family income 
+is less than 80 percent of the state or metropolitan statistical area median family income.19 
+
+Congressional staff can use the American Community Survey (ACS) to determine which census tracts within 
+their districts qualify as “low income” and whether a potential project is in an eligible census tract. For example, 
+assume you are a staff member in the office of Virginia’s 6th District and want to determine whether four census 
+tracts in the city of Roanoke would qualify as low-income communities under NMTC criteria.
+
+Start by navigating to the data.census.gov Web site at <https://data.census.gov>. Click “Advanced Search” under 
+the search bar. This will bring you to the Advanced Search page (see Figures 3.17 and 3.18). 
+
+Figure 3.17.  Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+19 Legal Information Institute, 26 U.S. Code § 45D. New markets tax credit, <www.law.cornell.edu/uscode/text/26/45D>. 
+
+Understanding and Using American Community Survey Data   23 
+What Congress Needs to Know   23
+
+U.S. Census BureauFigure 3.18.  Using Advanced Search in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+24   Understanding and Using American Community Survey Data 
+24   What Congress Needs to Know
+
+U.S. Census BureauTo access information about census tracts in Roanoke, Virginia:
+
+•  Begin with the Geography filter. Select “Geography” in the navigation pane on the left side of the screen. 
+
+This expands a list of all the available geographic levels.
+
+•  Move the white button to the right to show Summary Levels. 
+
+•  Select “140 - Census Tract.” 
+
+•  Then scroll to select “Virginia” from the “140 - Census Tract (State)” filter. 
+
+•  Next, scroll to select “Roanoke city, Virginia” from the “Virginia (County)” filter. 
+
+•  Scroll to check the boxes of your desired tracts from the “Roanoke city, Virginia” filter. For this case study, 
+
+check Census Tracts 9, 10, 24, and 25, of Roanoke city, Virginia (see Figure 3.19).
+
+•  Then click “Search” in the bottom right corner.
+
+Figure 3.19.  Selecting Geographic Areas by Using Advanced Search Filters
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+Understanding and Using American Community Survey Data   25 
+What Congress Needs to Know   25
+
+U.S. Census BureauOn the search results page, you can preview a list of available tables by selecting either “View All Tables” or by 
+clicking on “Tables” at the top of the page (see Figure 3.20). 
+
+Figure 3.20.  Viewing Available Tables for Selected Census Tracts
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+26   Understanding and Using American Community Survey Data 
+26   What Congress Needs to Know
+
+U.S. Census BureauOn the left side of the page, you will see a list of available tables, while the right side of the page will display a 
+preview of the selected table. To find your desired table, you can either use the scroll bar or enter an additional 
+filter. Since the desired table is not shown on the first page, select “Filter.” Select “Topics,” and then use the filters 
+to select “Income and Poverty,” “Poverty,” and “Poverty” again. To preview the available poverty tables, collapse 
+the filter menu by clicking the chevron above “Hide” in the upper right corner of the filter window (see Figure 
+3.21). 
+
+Figure 3.21.  Selecting Table Topic Filters
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+Select “Poverty Status in the Past 12 Months” to preview the table. For the purposes of this case study, we are 
+using 2017 ACS 5-year estimates. You can select the desired survey year by clicking on the “Product” selection and 
+then selecting “2017: ACS 5-Year Estimates Subject Tables.” You can either view the table in data.census.gov or 
+download the table to view the data in another format. For this example, we will view the table in data.census.gov 
+(see Figure 3.22). 
+
+Figure 3.22.  Viewing the Table in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+Understanding and Using American Community Survey Data   27 
+What Congress Needs to Know   27
+
+U.S. Census BureauUse the horizontal scroll bar to view all the tract-level estimates and their associated margins of error. In this 
+example, all four tracts have poverty rates higher than 20 percent. To make sure that the lower bound of the 
+confidence interval for each poverty rate estimate does not fall below 20 percent, subtract the margin of error 
+from each poverty rate estimate. For example, the poverty rate for Census Tract 9 is 38.9 percent and the margin 
+of error is 9.2 percent. The lower bound is 38.9 minus 9.2 or 29.7 percent. The lower bound remains above 20 
+percent for all four of these census tracts.20 
+
+The second criteria for NMTC eligibility is a requirement that the median family income for a census tract not 
+exceed 80 percent of the median family income for the metropolitan statistical area (if the tract is part of a met-
+ropolitan or micropolitan statistical area) or for the state (if the tract is not part of a metropolitan statistical area). 
+Since we already know the table ID that contains these data, type “B19113” into the search bar at the top of the 
+page. Then select “Median Family Income in the Past 12 Months (In 2017 Inflation-Adjusted Dollars)” (see Figure 
+3.23). 
+
+Figure 3.23.  Searching for a Table
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+Click on the “Product” selection and select “2017: ACS 5-Year Estimates Subject Tables.” Since the table shows 
+the United States as the default geography, you need to filter by geography to add the census tracts and metro-
+politan statistical area required for your analysis. Select “Geographies” (see Figure 3.24). 
+
+Figure 3.24.  Changing the Geography Selection for a Table
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+20 Statistical testing would be needed to determine whether this poverty estimate is significantly different from 20 percent. For more 
+
+information, see the section on “Understanding Error and Determining Statistical Significance” in the Census Bureau’s handbook Understanding 
+and Using American Community Survey Data: What All Data Users Need to Know, <www.census.gov/programs-surveys/acs/guidance/handbooks 
+/general.html>.
+
+28   Understanding and Using American Community Survey Data 
+28   What Congress Needs to Know
+
+U.S. Census BureauAdd the four census tracts to your “Selected Filters.” Because these four tracts are part of the Roanoke, VA Metro 
+Area, add this area to your filters, as shown in Figure 3.25.
+
+Figure 3.25.  Adding the Metropolitan Statistical Area Geography
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+After closing the filter menu, make sure that the 2017 ACS 5-year estimates are selected. Then select “Download” 
+from the menu at the top of the screen. Check that the default download specifications in the “Download Tables” 
+window are correct and select “Download” again (see Figure 3.26). 
+
+Figure 3.26.  Downloading a Table With Median Family Income in Data.census.gov
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+Understanding and Using American Community Survey Data   29 
+What Congress Needs to Know   29
+
+U.S. Census BureauSelect “Download Now” after the file is prepared (see Figure 3.27).
+
+Figure 3.27.  Downloading the Compressed (ZIP) File
+
+Source: U.S. Census Bureau, data.census.gov, <https://data.census.gov>.
+
+From the compressed folder, open the file with “data_with_overlays” shown in the file name to analyze the data 
+in a spreadsheet.
+
+Divide median family income for each of the tracts by the median family income of the Roanoke Metropolitan 
+Statistical Area ($66,334). The results suggest that none of the tracts have median family income values that 
+exceed 80 percent of the median family income for the Roanoke Metropolitan Statistical Area. However, a 
+statistical test would be needed to confirm that this is correct. For more information about statistical tests, see 
+the section on “Understanding Error and Determining Statistical Significance” in the Census Bureau’s handbook 
+Understanding and Using American Community Survey Data: What All Data Users Need to Know.21 
+
+21 U.S. Census Bureau, Understanding and Using American Community Survey Data: What All Data Users Need to Know, <www.census.gov 
+
+/programs-surveys/acs/guidance/handbooks/general.html>. 
+
+30   Understanding and Using American Community Survey Data 
+30   What Congress Needs to Know
+
+U.S. Census Bureau4. ADDITIONAL RESOURCES
+
+U.S. Census Bureau, What Is the American Community Survey? 
+<www.census.gov/programs-surveys/acs/about.html>. 
+
+U.S. Census Bureau, Understanding and Using American Community Survey Data: 
+What All Data Users Need to Know  
+<www.census.gov/programs-surveys/acs/guidance/handbooks/general.html>.
+
+U.S. Census Bureau, ACS Resources for Congress Flyer  
+<www.census.gov/programs-surveys/acs/library/outreach-materials/flyers/acs-constituent-answers.html>. 
+
+U.S. Census Bureau, Questions on the Form and Why We Ask  
+<www.census.gov/acs/www/about/why-we-ask-each-question/>.
+
+U.S. Census Bureau, ACS Handbook of Questions and Current Federal Uses  
+<www.census.gov/programs-surveys/acs/operations-and-administration/2014-content-review/federal-uses.html>.
+
+U.S. Census Bureau, Library, Uses of Census Bureau Data in Federal Funds Distribution  
+<www.census.gov/library/working-papers/2017/decennial/census-data-federal-funds.html>.
+
+U.S. Census Bureau, ACS Data Releases 
+<www.census.gov/programs-surveys/acs/news/data-releases.html>.
+
+U.S. Census Bureau, Geography and ACS  
+<www.census.gov/programs-surveys/acs/geography-acs.html>.
+
+U.S. Census Bureau, ACS Data Tables and Tools  
+<www.census.gov/acs/www/data/data-tables-and-tools/>.
+
+U.S. Census Bureau, Data.census.gov: Census Bureau’s New Data Dissemination Platform Release Notes and 
+Frequently Asked Questions  
+<https://data.census.gov/assets/releasenotes/faqs-release-notes.pdf>.
+
+U.S. Census Bureau, data.census.gov Resources 
+<www.census.gov/data/what-is-data-census-gov.html>.
+
+U.S. Census Bureau, My Congressional District 
+<www.census.gov/mycd/>.
+
+U.S. Census Bureau, State Data Center (SDC) Program  
+<www.census.gov/about/partners/sdc.html>.  
+
+American Community Survey Online Community 
+<https://acsdatacommunity.prb.org/>.
+
+Understanding and Using American Community Survey Data   31 
+What Congress Needs to Know   31
+
+U.S. Census Bureau

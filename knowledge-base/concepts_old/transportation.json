@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "category": "transportation",
+    "status": "auto_approved",
+    "concept_count": 5,
+    "confidence_threshold": "\u22650.9"
+  },
+  "concepts": [
+    {
+      "id": "cendata:CommuteTime",
+      "label": "Mean Commute Time",
+      "bucket": "transportation",
+      "universe": "Workers 16 years and over",
+      "stat_method": "mean",
+      "census_tables": [
+        "B08013"
+      ],
+      "definition": "Mean travel time to work in minutes",
+      "source_page": 82,
+      "status": "auto",
+      "confidence": 0.95
+    },
+    {
+      "id": "cendata:CommuteMode",
+      "label": "Commute Mode",
+      "bucket": "transportation",
+      "universe": "Workers 16 years and over",
+      "stat_method": "count",
+      "census_tables": [
+        "B08301"
+      ],
+      "definition": "Primary means of transportation to work",
+      "source_page": 82,
+      "status": "auto",
+      "confidence": 0.9
+    },
+    {
+      "id": "cendata:DriveAlone",
+      "label": "Drive Alone to Work",
+      "bucket": "transportation",
+      "universe": "Workers 16 years and over",
+      "stat_method": "rate",
+      "census_tables": [
+        "B08301"
+      ],
+      "definition": "Percentage commuting by driving alone",
+      "source_page": 82,
+      "status": "auto",
+      "confidence": 0.9
+    },
+    {
+      "id": "cendata:PublicTransportation",
+      "label": "Public Transportation Use",
+      "bucket": "transportation",
+      "universe": "Workers 16 years and over",
+      "stat_method": "rate",
+      "census_tables": [
+        "B08301"
+      ],
+      "definition": "Percentage commuting by public transportation",
+      "source_page": 82,
+      "status": "auto",
+      "confidence": 0.9
+    },
+    {
+      "id": "cendata:WorkFromHome",
+      "label": "Work From Home",
+      "bucket": "transportation",
+      "universe": "Workers 16 years and over",
+      "stat_method": "rate",
+      "census_tables": [
+        "B08301"
+      ],
+      "definition": "Percentage working from home",
+      "source_page": 82,
+      "status": "auto",
+      "confidence": 0.9
+    }
+  ]
+}

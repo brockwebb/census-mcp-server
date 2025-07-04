@@ -1,0 +1,242 @@
+2023 American Community Survey/Puerto Rico Community 
+Survey Group Quarters Definitions
+
+
+Group Quarters 
+
+A group quarters is a place where people live or stay, in a group living arrangement, that is owned 
+or managed by an entity or organization providing housing and/or services for the residents.  This is 
+not a typical household-type living arrangement.  These services may include custodial or medical 
+care as well as other types of assistance, and residency is commonly restricted to those receiving 
+these services.  People living in group quarters are usually not related to each other.  
+
+Group quarters include such places as college residence halls, residential treatment centers, skilled 
+nursing facilities, group homes, military barracks, correctional facilities, and workers’ dormitories.
+
+1. Correctional Facilities for Adults
+
+Correctional Residential Facilities 
+
+These are community-based facilities operated for correctional purposes.  The 
+facility residents may be allowed extensive contact with the community, such as for employment or 
+attending school, but are obligated to occupy the premises at night. 
+
+Examples are halfway houses, restitution centers, and prerelease, work release, and study centers. 
+
+Federal Detention Centers 
+
+Stand alone, generally multi-level, federally operated correctional facilities that provide Ashort-term@ 
+confinement or custody of adults pending adjudication or sentencing.  These facilities may hold 
+pretrial detainees, holdovers, sentenced offenders, and Immigration and Customs Enforcement 
+(ICE) inmates, formerly called Immigration and Naturalization Service (INS) inmates.  These 
+facilities include: Metropolitan Correctional Centers (MCCs), Metropolitan Detention Centers 
+(MDCs), Federal Detention Centers (FDCs), Bureau of Indian Affairs Detention Centers, ICE 
+Service Processing Centers, and ICE contract detention facilities. 
+
+1
+
+ 
+ 
+
+
+Federal and State Prisons 
+
+Adult correctional facilities where people convicted of crimes serve their sentences.  Common 
+names include: prison, penitentiary, correctional institution, federal or state correctional facility, and 
+conservation camp.  The prisons are classified by two types of control: (1) “federal” (operated by or 
+for the Bureau of Prisons of the Department of Justice) and (2) “state.”  Residents who are forensic 
+patients or criminally insane are classified on the basis of where they resided at the time of 
+interview.  Patients in hospitals (units, wings, or floors) operated by or for federal or state 
+correctional authorities are interviewed in the prison population.  Other forensic patients will be 
+interviewed in psychiatric hospital units and floors for long-term non-acute patients.  This category 
+may include privately operated correctional facilities. 
+
+Local Jails and Other Municipal Confinement Facilities 
+
+Correctional facilities operated by or for counties, cities, and American Indian and Alaska Native 
+tribal governments.  These facilities hold adults detained pending adjudication and/or people 
+committed after adjudication.  This category also includes work farms and camps used to hold 
+people awaiting trial or serving time on relatively  short sentences.  Residents who are forensic 
+patients or criminally insane are classified on the basis of where they resided at the time of 
+interview.  Patients in hospitals (units, wings, or floors) operated by or for local correctional 
+authorities are counted in the jail population.  Other forensic patients will be interviewed in 
+psychiatric hospital units and floors for long-term non-acute patients.  This category may include 
+privately operated correctional facilities. 
+
+Military Disciplinary Barracks and Jails 
+
+Correctional facilities managed by the military to hold those awaiting trial or convicted of crimes. 
+
+2 
+
+2.
+
+ Juvenile Facilities
+
+Correctional Facilities Intended for Juveniles 
+
+Includes specialized facilities that provide strict confinement for its residents and detain juveniles 
+awaiting adjudication, commitment or placement, and/or those being held for diagnosis or 
+classification.  Also included are correctional facilities where residents are permitted contact with 
+the community, for purposes such as attending school or holding a job. 
+
+Examples are residential training schools and farms, reception and diagnostic centers, group homes 
+operated by or for correctional authorities, detention centers, and boot camps for juvenile 
+delinquents. 
+
+Group Homes for Juveniles (non-correctional) 
+
+Includes community-based group living arrangements for youth in residential settings that are able 
+to accommodate three or more clients of a service provider.  The group home provides room and 
+board and services, including behavioral, psychological, or social programs.  Generally, clients are 
+not related to the care giver or to each other. 
+
+Examples are maternity homes for unwed mothers, orphanages, and homes for abused and neglected 
+children in need of services.  Group homes for juveniles do not include residential treatment centers 
+for juveniles or group homes operated by or for correctional authorities. 
+
+Residential Treatment Centers for Juveniles (non-correctional) 
+
+Includes facilities that primarily serve  youth that provide services  on-site in a highly structured live-
+in environment for the treatment of drug/alcohol abuse, mental illness, and emotional/behavioral 
+disorders.  These facilities are staffed 24-hours  a day.  The focus of a residential treatment center is 
+on the treatment program.  Residential treatment centers for juveniles do not include facilities 
+operated by or for correctional authorities. 
+
+3
+
+ 
+3. Nursing Facilities/Skilled Nursing Facilities
+
+Nursing Facilities/Skilled-Nursing Facilities 
+
+Includes facilities licensed to provide medical care with seven day, twenty-four hour coverage for 
+people requiring long-term non-acute care.  People in these facilities require nursing care, regardless 
+of age.  Either of these types of facilities may be referred to as nursing homes.
+
+4. Other Health Care Facilities
+
+Hospitals with Patients Who Have No Usual Home Elsewhere 
+
+Includes hospitals if they have any patients who have no exit or disposition plan, or who are known 
+as "boarder patients" or "boarder babies."  All hospitals are eligible for inclusion in this category 
+except psychiatric hospitals, units, wings or floors operated by federal, state or local correctional 
+authorities.  Patients in hospitals operated by these correctional authorities will be interviewed in the 
+prison or jail population.  Psychiatric units and hospice units in hospitals are also excluded.  Only 
+patients with no usual home elsewhere are interviewed in this category. 
+
+In-Patient Hospice Facilities 
+
+Includes in-patient hospice facilities (both free-standing and units in hospitals) that provide 
+palliative, comfort, and supportive care for the terminally ill patient and their families.  All patients 
+in these GQs are included in the ACS GQ sample. 
+
+Mental (Psychiatric) Hospitals and Psychiatric Units in Other Hospitals 
+
+Includes psychiatric hospitals, units and floors for long-term non-acute care patients.  The primary 
+function of the hospital, unit, or floor is to provide diagnostic and treatment services for long-term 
+non-acute patients who have psychiatric-related illness. 
+
+Military Treatment Facilities with Assigned Patients 
+
+These facilities include military hospitals and medical centers with active duty patients assigned to 
+the facility.  Only these patients are interviewed in this category. 
+
+4
+
+ 
+ 
+Residential Schools for People with Disabilities
+
+
+Includes schools that provide the teaching of skills for daily living, education programs, and care for 
+students with disabilities in a live-in environment. 
+
+Examples are residential schools for the physically or developmentally disabled.
+
+5. College/University Student Housing
+
+College/University Student Housing 
+
+Includes residence halls, and other buildings, including apartment-style student housing, designed 
+primarily to house college and university students in a group living arrangement either on or off 
+campus.  These facilities are owned, leased, or managed either by a college, university, or 
+seminary, or by a private entity or organization.  Fraternity and sorority housing recognized by the 
+college or university are included as college student housing.
+
+Students attending the U.S. Naval Academy, the U.S. Military Academy (West Point), the U.S. 
+Coast Guard Academy, and the U.S. Air Force Academy are counted in military group quarters.
+
+5 
+
+   
+	
+6. Military Group Quarters
+
+Military Quarters 
+
+These facilities include military personnel living in barracks (including “open” barrack transient 
+quarters) and dormitories and military ships.  Patients assigned to Military Treatment Facilities and 
+people being held in military disciplinary barracks and jails are not interviewed in this category.  
+Patients in Military Treatment Facilities with no usual home elsewhere are not interviewed in this 
+category.
+
+7. Other Noninstitutional Facilities
+
+Emergency and Transitional Shelters (with Sleeping Facilities) for People Experiencing 
+Homelessness 
+
+Facilities where people experiencing homelessness stay overnight.  These include: 
+1) shelters that operate on a first-come, first-serve basis where people must leave in the morning and
+have no guaranteed bed for the next night;
+2) shelters where people know that they have a bed for a specified period of time (even if they leave
+the building every day); and
+3) shelters that provide temporary shelter during extremely cold weather (such as churches).  This
+category does not include shelters that operate only in the event of a natural disaster.
+
+Examples are emergency and transitional shelters; missions; hotels and motels 
+used to shelter people experiencing homelessness; shelters for children who are runaways, neglected 
+or experiencing homelessness; and similar places known to have people experiencing homelessness. 
+
+6
+
+ 
+   
+Group Homes Intended for Adults 
+
+Group homes are community-based group living arrangements in residential settings  that are able to 
+accommodate three or more clients of a service provider.  The group home provides room and board 
+and services, including behavioral, psychological, or social programs.  Generally, clients are not 
+related to the care giver or to each other. Group homes do not include residential treatment centers 
+or facilities operated by or for correctional authorities. 
+
+Residential Treatment Centers for Adults 
+
+Residential facilities that provide treatment on-site in a highly structured live-in environment for the 
+treatment of drug/alcohol abuse, mental illness, and emotional/behavioral disorders.  They are 
+staffed 24-hours a day.  The focus of a residential treatment center is on the treatment program. 
+Residential treatment centers do not include facilities  operated by or for correctional authorities. 
+
+Religious Group Quarters 
+
+These are living quarters owned or operated by religious organizations that are intended to house their 
+members in a group living situation.  This category includes such places as convents, monasteries, and 
+abbeys. 
+
+Living quarters for students living or staying in seminaries are classified as college student housing not 
+religious group quarters. 
+
+Workers’ Group Living Quarters and Job Corps Centers 
+
+Includes facilities such as dormitories, bunkhouses, and similar types of group living arrangements 
+for agricultural and non-agricultural workers.  This category also includes facilities that provide a 
+full-time, year-round residential program offering a vocational training and employment program 
+that helps young people 16-to-24 years old learn a trade, earn a high school diploma or GED and get 
+help finding a job. 
+
+Examples are group living quarters at migratory farm worker camps, construction workers’ camps, 
+Job Corps centers, and vocational training facilities, and energy enclaves in Alaska. 
+
+7 
+
+

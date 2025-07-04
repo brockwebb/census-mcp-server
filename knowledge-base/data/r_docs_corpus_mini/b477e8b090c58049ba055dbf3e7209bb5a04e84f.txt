@@ -1,0 +1,290 @@
+United States Census Bureau | An official website of the United States Government
+
+Health
+Coverage for
+Working-Age
+Adults Rose in
+Every State
+Since 2013
+
+Most Declines in Uninsured Rates for
+All Age Groups Occurred Between
+2013 and 2019
+
+September 12, 2024
+Written by: Kelly Holder, Douglas Conway and Caitlin Carter
+
+Many states continued to see improvements in health insurance coverage rates for all age groups between 2019 and 2023,
+according to American Community Survey (ACS) data released today.
+Uninsured rates dropped in 17 states for children, 42 states for working-age adults, and in one state (Florida) for adults age 65 and
+older from 2019 to 2023.
+
+Because many public health insurance programs are aimed specifically at coverage for
+children, older adults, and those in need, the uninsured rate among working-age adults ages
+19 to 64 is higher. 
+
+But fewer states saw drops in uninsured rates than from 2013 to 2019, when rates declined in 37 states for children, in all 50
+states and the District of Columbia for working-age adults, and in 14 states for older adults.
+The report, State Health Insurance Coverage: 2013, 2019, and 2023 [/library/publications/2024/acs/acsbr-021.html] , highlights
+changes in the health insurance landscape across the states in the past decade, from the implementation of key provisions of the
+Patient Protection and Affordable Care Act (ACA) [https://www.kff.org/affordable-care-act/fact-sheet/summary-of-the-affordable-
+care-act/] through the COVID-19 pandemic and resulting economic and policy changes.
+An interactive dashboard [/library/visualizations/interactive/health-insurance-coverage-and-type-by-state.html]  also released
+today focuses on the 2022 to 2023 changes as well as the 2019 to 2023 changes across the states. A companion working paper
+[/library/working-papers/2024/demo/sehsd-wp2024-25.html] further examines the working-age adult population by smaller age
+groups across states.
+
+Health Policies and Health Coverage
+Health insurance policies at the federal and state level affect the availability and affordability of health coverage.
+
+The ACA was signed into law in 2010 and major provisions of ACA that went into effect before 2019 may have impacted uninsured
+rates between 2013 and 2019.
+They included offering states additional funds to expand Medicaid for those under age 65 with incomes up to 133% of the federal
+poverty level [https://www.medicaid.gov/medicaid/national-medicaid-chip-program-information/medicaid-childrens-health-
+insurance-program-basic-health-program-eligibility-levels/index.html] and establishing health insurance marketplaces for those
+seeking to purchase coverage.
+While the ACA included an individual mandate requiring every person to have health insurance, the tax penalty for uninsured
+individuals was removed in 2019.
+
+The COVID-19 pandemic in 2020 spurred the passing of the Families First Coronavirus Response Act, which mandated that states
+provide continuous eligibility for individuals enrolled in Medicaid on or after March 8, 2020. Most of these pandemic-related
+provisions expired in mid-2023.
+
+Health Coverage for Children Under Age 19
+Age is an important factor in eligibility for health insurance coverage. Children may have access to a variety of public health
+insurance coverage types, such as Medicaid or Children’s Health Insurance Program (CHIP) or dependent coverage under a
+parent’s employer or direct purchase plan.
+
+Between 2013 and 2019:
+
+The uninsured rate for children decreased in 37 states.
+
+Private coverage rates for children increased in 20 states.
+
+Public coverage rates for children increased in 22 states.
+
+Between 2019 and 2023:
+
+The uninsured rate for children decreased in 17 states.
+
+Private coverage rates for children increased in 9 states.
+
+Public coverage rates for children increased in 24 states.
+
+How Uninsured Rates Changed for Working-Age Adults
+Because many public health insurance programs are aimed specifically at coverage for children, older adults, and those in need,
+the uninsured rate among working-age adults ages 19 to 64 is higher.
+
+Provisions of the ACA expanded coverage options for younger adults via the healthcare marketplace and through their parent’s
+health insurance coverage if they were under age 26.
+The uninsured rate for the total working-age adult population fell in every state plus the District of Columbia between 2013 and
+2019:
+
+For adults ages 19 to 25, it decreased between 2.4 and 18.2 percentage points across 48 states.
+
+For adults ages 26 to 34, it decreased between 1.3 and 17.4 percentage points across 49 states and the District of
+Columbia.
+
+For adults ages 35 to 44, it decreased in 48 states and the District of Columbia, with declines ranging from 0.8 to 14.2
+percentage points.
+
+For adults ages 45 to 54, it decreased between 0.8 and 9.9 percentage points in 48 states and the District of Columbia.
+
+For working-age adults ages 55 to 64, it decreased between 1.8 to 9.5 percentage points across 46 states and the District
+of Columbia.
+
+The uninsured rate for the total working-age population decreased in 42 states between 2019 and 2023.
+
+For adults ages 19 to 25, it decreased between 1.4 and 5.6 percentage points across 24 states and the District of Columbia
+and increased in one (Montana).
+
+For adults ages 26 to 34, it decreased between 1.1 and 8.2 percentage points across 35 states.
+
+For adults ages 35 to 44, it decreased in 35 states, with declines ranging from 0.7 and 4.2 percentage points.
+
+For adults ages 45 to 54, it decreased between 0.9 and 5.1 percentage points across 31 states and increased in one
+(Maryland).
+
+For the oldest working-age adults ages 55 to 64, it decreased between 0.4 and 3.6 percentage points across 28 states and
+increased in one (Rhode Island).
+
+[/content/dam/Census/library/stories/2024/09/acs-health-insurance/figure-1-health-insurance.gif]
+
+How Private Coverage Changed for Adults Age 65 and Older
+Adults age 65 and older are the least likely age group to be uninsured since they have near universal Medicare coverage.
+
+As a result, the uninsured rate for adults age 65 and over remained below 3.0% for all states in 2013, 2019 and 2023. A smaller
+percentage of older adults have some type of private coverage, either through a combination of public and private health insurance
+plans or, in rare instances, private coverage alone.
+
+Private coverage for adults age 65 and older between 2013 and 2019:
+
+Rates decreased in 48 states, rising in none.
+
+In 2013, rates ranged from 53.4% to 76.5% across the states and the District of Columbia.
+
+Private coverage rates for adults age 65 and older between 2019 and 2023:
+
+Rates declined in 42 states, ranging between 2.2 and 7.6 percentage points.
+
+By 2023, rates for these adults ranged from 46.6% to 69.1% across the states and the District of Columbia.
+
+Changes Across States Between 2022 and 2023
+The interactive visualization includes a dashboard comparing 2022 and 2023 ACS, 1-year estimates of health insurance coverage
+and subtypes. Among the findings:
+
+The uninsured rate for children increased in six states: Alabama, Louisiana, New Mexico, South Carolina, Texas and
+Washington.
+
+Medicaid coverage for children declined in seven states: Arkansas, Florida, Idaho, Illinois, Maryland, Texas and West
+Virginia. It increased in five: Iowa, Missouri, New Mexico, Tennessee and Wyoming.
+
+Uninsured rates for working-age adults declined in 14 states and increased in three: Connecticut, Iowa and New Jersey.
+
+Medicaid coverage for working-age adults increased in 11 states and decreased in four: Arkansas, Idaho, New Hampshire
+and West Virginia.
+
+Private coverage for adults 65 years and older declined in 24 states, driven by declines in direct-purchase coverage.
+
+[/library/visualizations/interactive/health-insurance-coverage-and-type-by-state.html]
+Note: Select the image to go to the interactive data visualization [/library/visualizations/interactive/health-insurance-coverage-
+and-type-by-state.html] .
+
+Kelly Holder is the branch chief and Douglas Conway and Caitlin Carter are survey statisticians in the Census Bureau’s
+Health and Disability Statistics Branch.
+
+This article was filed under:
+
+Age [/library/stories.html?visual-list-fb55843e87:filters=Census:Topic/ThePopulation/Age]
+
+Data Services [/library/stories.html?visual-list-fb55843e87:filters=Census:Topic/census-operations/data-equity]
+
+Employment [/library/stories.html?visual-list-fb55843e87:filters=Census:Topic/Employment]
+
+Health Insurance [/library/stories.html?visual-list-fb55843e87:filters=Census:Topic/Health/health-insurance]
+
+Related Statistics
+
+American Community Survey
+(ACS)
+
+The American Community Survey is the premier source
+for information about America's changing population,
+housing and workforce.
+
+[/programs-surveys/acs.html]
+
+Subscribe
+
+Our email newsletter is sent out on the day we publish a story. Get an alert directly in your inbox to read, share and blog
+about our newest stories.
+
+SIGN UP TODAY [HTTPS://…
+
+Contact our Public Information Office [/newsroom/about.html]  for media inquiries or interviews.
+
+Related America Counts Stories
+
+Rental Housing
+
+Income and Poverty
+
+Largest Annual Real Increase in Gross Rental Costs
+Since 2011
+
+Older Adults and Child Poverty Rates Changed in
+Many States in 2023
+
+September 12, 2024
+
+September 12, 2024
+
+Despite an increase in the cost of rent and utilities, most
+states saw no significant change in the share of renters’
+income spent on rent.
+
+American Community Survey data released today show that
+despite a decline in child poverty rates in 2023, they remain
+higher than other age groups.
+
+[https://www.census.gov/library/stories/2024/09/acs-rent-
+burden.html]
+
+[https://www.census.gov/library/stories/2024/09/acs-child-
+poverty.html]
+
+Business and Economy
+
+How Many U.S. Businesses Offer Health Insurance to
+Employees?
+
+February 29, 2024
+
+Private-sector companies in seven states and District of
+Columbia offer health insurance to employees at a rate
+significantly above the national average.
+
+[https://www.census.gov/library/stories/2024/02/health-care-
+costs.html]
+
+More stories
+
+Population
+
+Population
+
+States With High Median Ages May Not be as
+Uniformly Old as You Think
+
+An Aging Nation: U.S. Median Age Surpassed 39 in
+2024
+
+June 26, 2025
+
+June 26, 2025
+
+A state’s median age does not tell the whole story. Florida has
+the fifth highest median age yet also has counties younger
+than the national median.
+
+Median age rose in 85% of the nation’s 387 metro areas from
+2020 to 2024 and was higher than the national median of 39.1
+in almost half of metro areas.
+
+[https://www.census.gov/library/stories/2025/06/young-old-
+counties.html]
+
+[https://www.census.gov/library/stories/2025/06/metro-areas-
+median-age.html]
+
+Employment
+
+Housing
+
+Trends in Self-Employment Among Hispanic
+Workers
+
+Property Insurance Costs Can be High in Every U.S.
+Region
+
+June 18, 2025
+
+June 10, 2025
+
+Census Bureau data show that among younger and foreign-
+born workers, Hispanic workers are self-employed at higher
+rates than non-Hispanic workers.
+
+American Community Survey data show the price of property
+insurance varied widely across the nation, but every region had
+pockets of high cost.
+
+[https://www.census.gov/library/stories/2025/06/hispanic-
+self-employment.html]
+
+[https://www.census.gov/library/stories/2025/06/property-
+insurance.html]
+
+Page Last Revised - September 11, 2024
+
+
