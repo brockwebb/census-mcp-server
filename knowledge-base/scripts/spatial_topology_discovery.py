@@ -120,31 +120,27 @@ class SpatialTopologyDiscovery:
         logger.info(f"📊 Loading enriched data from {input_file}...")
         
         with open(input_file, 'r') as f:
-            enriched_data = json.load(f)
+            raw_data = json.load(f)
         
-        logger.info(f"✅ Loaded {len(enriched_data)} enriched variables")
+        # Handle the correct nested structure
+        if 'variables' in raw_data:
+            enriched_data = raw_data['variables']
+            logger.info(f"✅ Found variables container with {len(enriched_data)} variables")
+        elif isinstance(raw_data, dict) and any(key.startswith('B') for key in list(raw_data.keys())[:5]):
+            # Direct variable dict (no container)
+            enriched_data = raw_data
+            logger.info(f"✅ Direct variable dict with {len(enriched_data)} variables")
+        else:
+            raise ValueError(f"Unrecognized data structure. Top-level keys: {list(raw_data.keys())}")
         
         # Convert to DataFrame with standardized structure
         records = []
+        for var_id, data in enriched_data.items():
+            record = self._standardize_enriched_record(var_id, data)
+            if record:
+                records.append(record)
         
-        # Handle both dict and list formats
-        if isinstance(enriched_data, dict):
-            # Dictionary format: {var_id: data}
-            for var_id, data in enriched_data.items():
-                record = self._standardize_enriched_record(var_id, data)
-                if record:
-                    records.append(record)
-        elif isinstance(enriched_data, list):
-            # List format: [{variable_id: ..., data: ...}, ...]
-            for item in enriched_data:
-                if isinstance(item, dict):
-                    var_id = item.get('variable_id') or item.get('var_id') or item.get('id')
-                    if var_id:
-                        record = self._standardize_enriched_record(var_id, item)
-                        if record:
-                            records.append(record)
-        else:
-            raise ValueError(f"Unsupported enriched data format: {type(enriched_data)}")
+        logger.info(f"✅ Processed {len(records)} valid records")
         
         df = pd.DataFrame(records)
         
@@ -156,7 +152,6 @@ class SpatialTopologyDiscovery:
         logger.info(f"🎯 Ready to analyze {len(df)} variables")
         
         return df
-    
     def _standardize_enriched_record(self, var_id: str, data: Dict) -> Dict:
         """Standardize enriched record format for consistent processing"""
         
