@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "source_file": "2023GQ_Definitions.pdf",
+    "extraction_date": "2025-01-04",
+    "total_definitions": 17,
+    "categories": {
+      "1. Correctional Facilities for Adults": 7,
+      "3. Nursing Facilities/Skilled Nursing Facilities": 1,
+      "4. Other Health Care Facilities": 2,
+      "5. College/University Student Housing": 1,
+      "6. Military Group Quarters": 1,
+      "7. Other Noninstitutional Facilities": 5
+    }
+  },
+  "definitions": [
+    {
+      "concept_id": "correctional_residential_facilities",
+      "label": "Correctional Residential Facilities",
+      "definition": "These are community-based facilities operated for correctional purposes. The facility residents may be allowed extensive contact with the community, such as for employment or attending school, but are obligated to occupy the premises at night. Examples are halfway houses, restitution centers, and prerelease, work release, and study centers.",
+      "main_category": "1. Correctional Facilities for Adults",
+      "category": "specialized_populations",
+      "source_page": 1
+    },
+    {
+      "concept_id": "federal_detention_centers",
+      "label": "Federal Detention Centers",
+      "definition": "Stand alone, generally multi-level, federally operated correctional facilities that provide Ashort-term@ confinement or custody of adults pending adjudication or sentencing. These facilities may hold pretrial detainees, holdovers, sentenced offenders, and Immigration and Customs Enforcement (ICE) inmates, formerly called Immigration and Naturalization Service (INS) inmates. These",
+      "main_category": "1. Correctional Facilities for Adults",
+      "category": "specialized_populations",
+      "source_page": 1
+    },
+    {
+      "concept_id": "service_processing_centers_and_ice_contract_detention_facilities",
+      "label": "Service Processing Centers, and ICE contract detention facilities.",
+      "definition": "Federal and State Prisons Adult correctional facilities where people convicted of crimes serve their sentences. Common names include: prison, penitentiary, correctional institution, federal or state correctional facility, and conservation camp. The prisons are classified by two types of control: (1) “federal” (operated by or for the Bureau of Prisons of the Department of Justice) and (2) “state.” Residents who are forensic patients or criminally insane are classified on the basis of where they resided at the time of interview. Patients in hospitals (units, wings, or floors) operated by or for federal or state correctional authorities are interviewed in the prison population. Other forensic patients will be interviewed in psychiatric hospital units and floors for long-term non-acute patients. This category may include privately operated correctional facilities.",
+      "main_category": "1. Correctional Facilities for Adults",
+      "category": "specialized_populations",
+      "source_page": 1
+    },
+    {
+      "concept_id": "local_jails_and_other_municipal_confinement_facilities",
+      "label": "Local Jails and Other Municipal Confinement Facilities",
+      "definition": "Correctional facilities operated by or for counties, cities, and American Indian and Alaska Native tribal governments. These facilities hold adults detained pending adjudication and/or people committed after adjudication. This category also includes work farms and camps used to hold people awaiting trial or serving time on relatively short sentences. Residents who are forensic patients or criminally insane are classified on the basis of where they resided at the time of interview. Patients in hospitals (units, wings, or floors) operated by or for local correctional authorities are counted in the jail population. Other forensic patients will be interviewed in psychiatric hospital units and floors for long-term non-acute patients. This category may include privately operated correctional facilities. Military Disciplinary Barracks and Jails Correctional facilities managed by the military to hold those awaiting trial or convicted of crimes.",
+      "main_category": "1. Correctional Facilities for Adults",
+      "category": "specialized_populations",
+      "source_page": 1
+    },
+    {
+      "concept_id": "correctional_facilities_intended_for_juveniles",
+      "label": "Correctional Facilities Intended for Juveniles",
+      "definition": "Includes specialized facilities that provide strict confinement for its residents and detain juveniles awaiting adjudication, commitment or placement, and/or those being held for diagnosis or classification. Also included are correctional facilities where residents are permitted contact with the community, for purposes such as attending school or holding a job. Examples are residential training schools and farms, reception and diagnostic centers, group homes operated by or for correctional authorities, detention centers, and boot camps for juvenile delinquents.",
+      "main_category": "1. Correctional Facilities for Adults",
+      "category": "specialized_populations",
+      "source_page": 1
+    },
+    {
+      "concept_id": "group_homes_for_juveniles_noncorrectional",
+      "label": "Group Homes for Juveniles (non-correctional)",
+      "definition": "Includes community-based group living arrangements for youth in residential settings that are able to accommodate three or more clients of a service provider. The group home provides room and board and services, including behavioral, psychological, or social programs. Generally, clients are not related to the care giver or to each other. Examples are maternity homes for unwed mothers, orphanages, and homes for abused and neglected children in need of services. Group homes for juveniles do not include residential treatment centers for juveniles or group homes operated by or for correctional authorities.",
+      "main_category": "1. Correctional Facilities for Adults",
+      "category": "specialized_populations",
+      "source_page": 1
+    },
+    {
+      "concept_id": "residential_treatment_centers_for_juveniles_noncorrectional",
+      "label": "Residential Treatment Centers for Juveniles (non-correctional)",
+      "definition": "Includes facilities that primarily serve youth that provide services on-site in a highly structured live- in environment for the treatment of drug/alcohol abuse, mental illness, and emotional/behavioral disorders. These facilities are staffed 24-hours a day. The focus of a residential treatment center is on the treatment program. Residential treatment centers for juveniles do not include facilities operated by or for correctional authorities.",
+      "main_category": "1. Correctional Facilities for Adults",
+      "category": "specialized_populations",
+      "source_page": 1
+    },
+    {
+      "concept_id": "nursing_facilitiesskillednursing_facilities",
+      "label": "Nursing Facilities/Skilled-Nursing Facilities",
+      "definition": "Includes facilities licensed to provide medical care with seven day, twenty-four hour coverage for people requiring long-term non-acute care. People in these facilities require nursing care, regardless of age. Either of these types of facilities may be referred to as nursing homes.",
+      "main_category": "3. Nursing Facilities/Skilled Nursing Facilities",
+      "category": "specialized_populations",
+      "source_page": 4
+    },
+    {
+      "concept_id": "inpatient_hospice_facilities",
+      "label": "In-Patient Hospice Facilities",
+      "definition": "Includes in-patient hospice facilities (both free-standing and units in hospitals) that provide palliative, comfort, and supportive care for the terminally ill patient and their families. All patients in these GQs are included in the ACS GQ sample. Mental (Psychiatric) Hospitals and Psychiatric Units in Other Hospitals Includes psychiatric hospitals, units and floors for long-term non-acute care patients. The primary function of the hospital, unit, or floor is to provide diagnostic and treatment services for long-term non-acute patients who have psychiatric-related illness.",
+      "main_category": "4. Other Health Care Facilities",
+      "category": "specialized_populations",
+      "source_page": 4
+    },
+    {
+      "concept_id": "military_treatment_facilities_with_assigned_patients",
+      "label": "Military Treatment Facilities with Assigned Patients",
+      "definition": "These facilities include military hospitals and medical centers with active duty patients assigned to the facility. Only these patients are interviewed in this category. Residential Schools for People with Disabilities Includes schools that provide the teaching of skills for daily living, education programs, and care for students with disabilities in a live-in environment. Examples are residential schools for the physically or developmentally disabled.",
+      "main_category": "4. Other Health Care Facilities",
+      "category": "specialized_populations",
+      "source_page": 4
+    },
+    {
+      "concept_id": "collegeuniversity_student_housing",
+      "label": "College/University Student Housing",
+      "definition": "Includes residence halls, and other buildings, including apartment-style student housing, designed primarily to house college and university students in a group living arrangement either on or off campus. These facilities are owned, leased, or managed either by a college, university, or seminary, or by a private entity or organization. Fraternity and sorority housing recognized by the college or university are included as college student housing. Students attending the U.S. Naval Academy, the U.S. Military Academy (West Point), the U.S. Coast Guard Academy, and the U.S. Air Force Academy are counted in military group quarters.",
+      "main_category": "5. College/University Student Housing",
+      "category": "specialized_populations",
+      "source_page": 5
+    },
+    {
+      "concept_id": "military_quarters",
+      "label": "Military Quarters",
+      "definition": "These facilities include military personnel living in barracks (including “open” barrack transient quarters) and dormitories and military ships. Patients assigned to Military Treatment Facilities and people being held in military disciplinary barracks and jails are not interviewed in this category.",
+      "main_category": "6. Military Group Quarters",
+      "category": "specialized_populations",
+      "source_page": 6
+    },
+    {
+      "concept_id": "facilities_where_people_experiencing_homelessness_stay_overnight_these_include",
+      "label": "Facilities where people experiencing homelessness stay overnight.  These include:",
+      "definition": "1) shelters that operate on a first-come, first-serve basis where people must leave in the morning and have no guaranteed bed for the next night; 2) shelters where people know that they have a bed for a specified period of time (even if they leave the building every day); and 3) shelters that provide temporary shelter during extremely cold weather (such as churches). This category does not include shelters that operate only in the event of a natural disaster. Examples are emergency and transitional shelters; missions; hotels and motels used to shelter people experiencing homelessness; shelters for children who are runaways, neglected or experiencing homelessness; and similar places known to have people experiencing homelessness.",
+      "main_category": "7. Other Noninstitutional Facilities",
+      "category": "specialized_populations",
+      "source_page": 6
+    },
+    {
+      "concept_id": "group_homes_intended_for_adults",
+      "label": "Group Homes Intended for Adults",
+      "definition": "Group homes are community-based group living arrangements in residential settings that are able to accommodate three or more clients of a service provider. The group home provides room and board and services, including behavioral, psychological, or social programs. Generally, clients are not related to the care giver or to each other. Group homes do not include residential treatment centers or facilities operated by or for correctional authorities.",
+      "main_category": "7. Other Noninstitutional Facilities",
+      "category": "specialized_populations",
+      "source_page": 6
+    },
+    {
+      "concept_id": "residential_treatment_centers_for_adults",
+      "label": "Residential Treatment Centers for Adults",
+      "definition": "Residential facilities that provide treatment on-site in a highly structured live-in environment for the treatment of drug/alcohol abuse, mental illness, and emotional/behavioral disorders. They are staffed 24-hours a day. The focus of a residential treatment center is on the treatment program. Residential treatment centers do not include facilities operated by or for correctional authorities.",
+      "main_category": "7. Other Noninstitutional Facilities",
+      "category": "specialized_populations",
+      "source_page": 6
+    },
+    {
+      "concept_id": "religious_group_quarters",
+      "label": "Religious Group Quarters",
+      "definition": "These are living quarters owned or operated by religious organizations that are intended to house their members in a group living situation. This category includes such places as convents, monasteries, and abbeys. Living quarters for students living or staying in seminaries are classified as college student housing not religious group quarters.",
+      "main_category": "7. Other Noninstitutional Facilities",
+      "category": "specialized_populations",
+      "source_page": 6
+    },
+    {
+      "concept_id": "workers_group_living_quarters_and_job_corps_centers",
+      "label": "Workers’ Group Living Quarters and Job Corps Centers",
+      "definition": "Includes facilities such as dormitories, bunkhouses, and similar types of group living arrangements for agricultural and non-agricultural workers. This category also includes facilities that provide a full-time, year-round residential program offering a vocational training and employment program that helps young people 16-to-24 years old learn a trade, earn a high school diploma or GED and get help finding a job. Examples are group living quarters at migratory farm worker camps, construction workers’ camps, Job Corps centers, and vocational training facilities, and energy enclaves in Alaska.",
+      "main_category": "7. Other Noninstitutional Facilities",
+      "category": "specialized_populations",
+      "source_page": 6
+    }
+  ]
+}

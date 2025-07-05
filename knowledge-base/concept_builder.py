@@ -58,7 +58,7 @@ class Config:
     anthropic_api_key: str = ""
     input_dir: str = "knowledge-base/data"
     output_dir: str = "knowledge-base/concepts"
-    max_tokens_per_batch: int = 1000
+    max_tokens_per_batch: int = 1500
     max_retries: int = 3
     retry_delay: int = 2
     gpt_temperature: float = 0.4
@@ -354,9 +354,26 @@ class ConceptBuilder:
     def merge_batch_results(self, batch_results: List[Dict[str, Any]]) -> Dict[str, Any]:
         """Merge results from multiple batches"""
         merged = {}
+        skipped_count = 0
         
         for batch_result in batch_results:
+            # Skip failed batches that were marked as skipped
+            if isinstance(batch_result, dict) and "skipped_batch" in batch_result:
+                skipped_count += 1
+                logger.warning(f"Skipping failed batch {batch_result['skipped_batch']}")
+                continue
+            
+            # Process valid batch results
+            if not isinstance(batch_result, dict):
+                logger.warning(f"Unexpected batch result type: {type(batch_result)}")
+                continue
+                
             for concept_key, concept_data in batch_result.items():
+                # Skip if concept_data is not a dict (malformed result)
+                if not isinstance(concept_data, dict):
+                    logger.warning(f"Skipping malformed concept '{concept_key}': not a dictionary")
+                    continue
+                
                 if concept_key not in merged:
                     merged[concept_key] = concept_data
                 else:
@@ -364,7 +381,16 @@ class ConceptBuilder:
                     existing_phrases = set(merged[concept_key].get("phrases", []))
                     new_phrases = set(concept_data.get("phrases", []))
                     merged[concept_key]["phrases"] = sorted(list(existing_phrases | new_phrases))
+                    
+                    # If definitions differ, concatenate them
+                    existing_def = merged[concept_key].get("definition", "")
+                    new_def = concept_data.get("definition", "")
+                    if new_def and new_def != existing_def:
+                        merged[concept_key]["definition"] = f"{existing_def} {new_def}".strip()
         
+        if skipped_count > 0:
+            logger.info(f"Skipped {skipped_count} failed batches during merge")
+            
         logger.info(f"Merged {len(batch_results)} batches into {len(merged)} concepts")
         return merged
     

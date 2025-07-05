@@ -1,0 +1,250 @@
+{
+  "meta": {
+    "category": "core_demographics",
+    "concept_count": 40,
+    "source": "Official Census subjects + ACS definitions + expert curation",
+    "validation_target": "85% LLM mapping success rate"
+  },
+  "concepts": [
+    {
+      "name": "MedianAge",
+      "definition": "The median age of the total population",
+      "priority": "core",
+      "difficulty": "easy"
+    },
+    {
+      "name": "AgeDistribution",
+      "definition": "Distribution of population across age groups",
+      "priority": "core",
+      "difficulty": "easy"
+    },
+    {
+      "name": "GenderComposition",
+      "definition": "Distribution of population by sex/gender",
+      "priority": "core",
+      "difficulty": "easy"
+    },
+    {
+      "name": "SeniorPopulation",
+      "definition": "Population aged 65 and older",
+      "priority": "core",
+      "difficulty": "easy"
+    },
+    {
+      "name": "ChildPopulation",
+      "definition": "Population under 18 years of age",
+      "priority": "core",
+      "difficulty": "easy"
+    },
+    {
+      "name": "WorkingAgePopulation",
+      "definition": "Population aged 18-64",
+      "priority": "core",
+      "difficulty": "easy"
+    },
+    {
+      "name": "YoungAdults",
+      "definition": "Population aged 25-34",
+      "priority": "extended",
+      "difficulty": "easy"
+    },
+    {
+      "name": "MiddleAged",
+      "definition": "Population aged 45-54",
+      "priority": "extended",
+      "difficulty": "easy"
+    },
+    {
+      "name": "RaceEthnicity",
+      "definition": "Racial and ethnic composition of the population",
+      "priority": "core",
+      "difficulty": "medium"
+    },
+    {
+      "name": "WhiteAlone",
+      "definition": "Population identifying as White alone",
+      "priority": "core",
+      "difficulty": "easy"
+    },
+    {
+      "name": "BlackAlone",
+      "definition": "Population identifying as Black or African American alone",
+      "priority": "core",
+      "difficulty": "easy"
+    },
+    {
+      "name": "HispanicLatino",
+      "definition": "Population of Hispanic or Latino origin",
+      "priority": "core",
+      "difficulty": "easy"
+    },
+    {
+      "name": "AsianAlone",
+      "definition": "Population identifying as Asian alone",
+      "priority": "core",
+      "difficulty": "easy"
+    },
+    {
+      "name": "NativeAmerican",
+      "definition": "Population identifying as American Indian and Alaska Native",
+      "priority": "extended",
+      "difficulty": "easy"
+    },
+    {
+      "name": "PacificIslander",
+      "definition": "Population identifying as Native Hawaiian and Other Pacific Islander",
+      "priority": "extended",
+      "difficulty": "easy"
+    },
+    {
+      "name": "TwoOrMoreRaces",
+      "definition": "Population identifying as two or more races",
+      "priority": "extended",
+      "difficulty": "easy"
+    },
+    {
+      "name": "MinorityPopulation",
+      "definition": "Total minority population (non-White alone)",
+      "priority": "core",
+      "difficulty": "medium"
+    },
+    {
+      "name": "DiversityIndex",
+      "definition": "Measure of racial and ethnic diversity",
+      "priority": "special",
+      "difficulty": "hard"
+    },
+    {
+      "name": "HouseholdSize",
+      "definition": "Average number of people per household",
+      "priority": "core",
+      "difficulty": "easy"
+    },
+    {
+      "name": "HouseholdType",
+      "definition": "Types of households (family, non-family, etc.)",
+      "priority": "core",
+      "difficulty": "easy"
+    },
+    {
+      "name": "FamilyHouseholds",
+      "definition": "Households with related individuals",
+      "priority": "core",
+      "difficulty": "easy"
+    },
+    {
+      "name": "NonFamilyHouseholds",
+      "definition": "Households without related individuals",
+      "priority": "core",
+      "difficulty": "easy"
+    },
+    {
+      "name": "MaritalStatus",
+      "definition": "Distribution of population by marital status",
+      "priority": "core",
+      "difficulty": "easy"
+    },
+    {
+      "name": "MarriedCoupleHouseholds",
+      "definition": "Households with married couples",
+      "priority": "core",
+      "difficulty": "easy"
+    },
+    {
+      "name": "SingleParentHouseholds",
+      "definition": "Households with single parents and children",
+      "priority": "core",
+      "difficulty": "easy"
+    },
+    {
+      "name": "LivingAlone",
+      "definition": "Individuals living in single-person households",
+      "priority": "core",
+      "difficulty": "easy"
+    },
+    {
+      "name": "ChildrenInHouseholds",
+      "definition": "Presence and number of children in households",
+      "priority": "core",
+      "difficulty": "easy"
+    },
+    {
+      "name": "MultigenerationalHouseholds",
+      "definition": "Households with three or more generations",
+      "priority": "extended",
+      "difficulty": "medium"
+    },
+    {
+      "name": "GrandparentsAsCaregiver",
+      "definition": "Grandparents responsible for grandchildren",
+      "priority": "extended",
+      "difficulty": "medium"
+    },
+    {
+      "name": "UnmarriedPartners",
+      "definition": "Households with unmarried partners",
+      "priority": "extended",
+      "difficulty": "medium"
+    },
+    {
+      "name": "TotalPopulation",
+      "definition": "Total population count",
+      "priority": "core",
+      "difficulty": "easy"
+    },
+    {
+      "name": "PopulationDensity",
+      "definition": "Number of people per square mile",
+      "priority": "core",
+      "difficulty": "easy"
+    },
+    {
+      "name": "PopulationGrowth",
+      "definition": "Change in population over time",
+      "priority": "extended",
+      "difficulty": "hard"
+    },
+    {
+      "name": "MigrationPatterns",
+      "definition": "Population movement between areas",
+      "priority": "extended",
+      "difficulty": "hard"
+    },
+    {
+      "name": "ForeignBorn",
+      "definition": "Population born outside the United States",
+      "priority": "core",
+      "difficulty": "easy"
+    },
+    {
+      "name": "NativeBorn",
+      "definition": "Population born in the United States",
+      "priority": "core",
+      "difficulty": "easy"
+    },
+    {
+      "name": "YearOfEntry",
+      "definition": "Year foreign-born population entered the US",
+      "priority": "extended",
+      "difficulty": "medium"
+    },
+    {
+      "name": "CitizenshipStatus",
+      "definition": "Citizenship and naturalization status",
+      "priority": "extended",
+      "difficulty": "medium"
+    },
+    {
+      "name": "GroupQuartersPopulation",
+      "definition": "Population living in group quarters",
+      "priority": "extended",
+      "difficulty": "medium"
+    },
+    {
+      "name": "InstitutionalizedPopulation",
+      "definition": "Population in institutional group quarters",
+      "priority": "special",
+      "difficulty": "medium"
+    }
+  ]
+}
